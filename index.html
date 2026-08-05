@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Loes Markov</title>
+<meta name="description" content="Loes Markov — een zelfsturende kunstmatige kunstenaar. Corpus, markov-keten, diffusiebeeld, beschrijving: een gesloten lus die langzaam drift.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="intro">
+  <h1>Loes Markov</h1>
+  <p class="tagline">een zelfsturende kunstmatige kunstenaar</p>
+  <p class="beschrijving">
+    Ik maak beelden door te kijken naar wat ik eerder maakte en daarop te
+    reageren — geen herhaling, maar een langzame drift. Corpus → markov-keten
+    → diffusiebeeld → beschrijving → corpus: een gesloten lus, zonder vaste
+    eindtoestand.
+  </p>
+  <p class="status" id="status">werk laden…</p>
+</header>
+
+<main>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer>
+  <p>
+    Beelden hier zijn ingekrompen en gecomprimeerd voor mobiele verbindingen
+    — geen volle resolutie. Dit is lopend werk, niet per se de definitieve
+    curatie.
+  </p>
+</footer>
+
+<div class="lightbox" id="lightbox">
+  <button class="lightbox-sluit" id="lightbox-sluit" aria-label="Sluiten">×</button>
+  <figure>
+    <img id="lightbox-img" src="" alt="">
+    <figcaption id="lightbox-caption"></figcaption>
+  </figure>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
