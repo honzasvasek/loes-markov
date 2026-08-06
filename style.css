@@ -150,3 +150,41 @@ footer {
   line-height: 1;
   cursor: pointer;
 }
+
+/* Praktijk: haar onderzoek, notities en identiteitsspoor — de tekst die van
+   deze galerij een verslag maakt. */
+.praktijk {
+  max-width: 46rem;
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+}
+.praktijk section { margin-bottom: 2.25rem; }
+.praktijk h2 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  opacity: 0.55;
+  margin-bottom: 0.6rem;
+  font-weight: 600;
+}
+.praktijk .titel { font-size: 1.35rem; line-height: 1.3; margin-bottom: 0.4rem; }
+.praktijk .vraag { font-size: 1.05rem; line-height: 1.6; }
+.praktijk .aanleiding { opacity: 0.75; line-height: 1.6; margin-top: 0.5rem; }
+.praktijk .meta { font-size: 0.85rem; opacity: 0.5; margin-top: 0.6rem; }
+.praktijk ul { list-style: none; }
+.praktijk li {
+  line-height: 1.6;
+  padding: 0.7rem 0;
+  border-top: 1px solid currentColor;
+  border-color: color-mix(in srgb, currentColor 12%, transparent);
+}
+.praktijk .soort {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  opacity: 0.45;
+  margin-right: 0.5rem;
+}
+
+/* Werk dat zij zelf koos, tegenover de werkbank eromheen. */
+figure.gekozen { outline: 2px solid currentColor; outline-offset: 3px; }
