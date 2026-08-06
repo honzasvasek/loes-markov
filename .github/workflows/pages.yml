@@ -1,0 +1,45 @@
+# Publiceert de site via GitHub Actions in plaats van via de klassieke
+# Jekyll-builder van Pages.
+#
+# Reden: die builder ging op 6 augustus 2026 stuk ("Page build failed", duur 0,
+# geen bruikbare foutmelding) en bleef daarna op één build hangen, waardoor de
+# site tien uur achterliep terwijl cron gewoon elke twee uur bleef pushen.
+# Belangrijker dan die storing is wat eronder zat: dit is een kale statische
+# site (index.html + style.css + script.js + data.json + images/), en er stond
+# een Ruby-templateverwerker tussen die er niets aan bij te dragen had. Loes
+# schrijft haar notities zelf, dus die tekst kan van alles bevatten; een
+# Jekyll-stap in het pad betekent dat haar eigen schrijfsel de website kan
+# breken. Hier worden de bestanden onbewerkt geüpload.
+name: Publiceer site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Laat een lopende publicatie afmaken; cron pusht elke twee uur, dus
+# tussentijdse runs mogen wel in de wachtrij maar niet elkaar afbreken.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publiceer:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Bestanden inpakken (onbewerkt, geen Jekyll)
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
