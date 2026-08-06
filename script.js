@@ -1,123 +1,202 @@
-async function laadWerk() {
-  const status = document.getElementById("status");
-  const grid = document.getElementById("grid");
+// Het atelier: gedachten, werk en weggegooid werk door elkaar, op cyclus
+// gesorteerd. De volgorde is bewust chronologisch en niet per soort gegroepeerd
+// — juist de afwisseling van denken en maken is wat er te zien valt.
 
-  let data;
-  try {
-    const resp = await fetch("data.json");
-    data = await resp.json();
-  } catch (err) {
-    status.textContent = "kon het werk niet laden";
-    return;
-  }
+const $ = (id) => document.getElementById(id);
 
-  // data.json bevatte eerst alleen een lijst beelden; sinds het atelier is het
-  // een object met daarnaast haar onderzoek, notities en identiteitsversies.
-  const items = Array.isArray(data) ? data : (data.werk || []);
-  if (!Array.isArray(data)) toonPraktijk(data);
-
-  if (!items.length) {
-    status.textContent = "nog geen werk beschikbaar";
-    return;
-  }
-
-  // Gekozen werk staat vooraan, daarna de werkbank — dus niet op cyclus
-  // gesorteerd; bereik expliciet uitrekenen.
-  const cycli = items.map((i) => i.cyclus);
-  const bereik = `cyclus ${Math.min(...cycli)} t/m ${Math.max(...cycli)}`;
-  const nGekozen = items.filter((i) => i.gekozen).length;
-  status.textContent = nGekozen
-    ? `${items.length} recente beelden, waarvan ${nGekozen} door mij gekozen — ${bereik}`
-    : `${items.length} recente beelden — ${bereik}`;
-
-  for (const item of items) {
-    const fig = document.createElement("figure");
-    if (item.gekozen) fig.classList.add("gekozen");
-    const img = document.createElement("img");
-    img.src = item.bestand;
-    img.loading = "lazy";
-    img.alt = item.beschrijving;
-    fig.appendChild(img);
-    fig.addEventListener("click", () => openLightbox(item));
-    grid.appendChild(fig);
-  }
-}
-
-function toonPraktijk(data) {
-  const doel = document.getElementById("praktijk");
-  if (!doel) return;
-  const stukken = [];
-
-  if (data.onderzoek) {
-    const o = data.onderzoek;
-    stukken.push(`
-      <section class="onderzoek">
-        <h2>Waar ik nu aan werk</h2>
-        <p class="titel">${escape(o.titel)}</p>
-        <p class="vraag">${escape(o.vraag)}</p>
-        ${o.aanleiding ? `<p class="aanleiding">${escape(o.aanleiding)}</p>` : ""}
-        <p class="meta">modus: ${escape(o.modus)} — sinds cyclus ${o.begonnen_cyclus}</p>
-      </section>`);
-  }
-
-  if (data.notities && data.notities.length) {
-    const regels = data.notities
-      .map((n) => `<li><span class="soort">${escape(n.soort)}</span> ${escape(n.tekst)}</li>`)
-      .join("");
-    stukken.push(`
-      <section class="notities">
-        <h2>Wat ik mezelf schreef</h2>
-        <ul>${regels}</ul>
-      </section>`);
-  }
-
-  if (data.afgesloten && data.afgesloten.length) {
-    const regels = data.afgesloten
-      .map((o) => `<li><strong>${escape(o.titel)}</strong>${o.bevinding ? " — " + escape(o.bevinding) : ""}</li>`)
-      .join("");
-    stukken.push(`
-      <section class="afgesloten">
-        <h2>Eerdere onderzoeken</h2>
-        <ul>${regels}</ul>
-      </section>`);
-  }
-
-  if (data.identiteit && data.identiteit.length > 1) {
-    stukken.push(`
-      <section class="identiteit">
-        <h2>Wie ik dacht te zijn</h2>
-        <p class="meta">Ik herschrijf mijn eigen beschrijving van mezelf. Ik gooi geen
-        versie weg, zodat je kunt zien waar ik naartoe ben gedreven —
-        ${data.identiteit.length} versies tot nu toe.</p>
-      </section>`);
-  }
-
-  doel.innerHTML = stukken.join("");
-}
-
-function escape(tekst) {
+function esc(tekst) {
   const d = document.createElement("div");
   d.textContent = tekst == null ? "" : String(tekst);
   return d.innerHTML;
 }
 
-function openLightbox(item) {
-  const lightbox = document.getElementById("lightbox");
-  document.getElementById("lightbox-img").src = item.bestand;
-  document.getElementById("lightbox-caption").textContent = item.beschrijving;
-  lightbox.classList.add("open");
+function lijstjeUitNotities(tekst) {
+  // tech_notities komt uit de db als een python-achtige lijst-string.
+  if (!tekst) return [];
+  const schoon = String(tekst).trim();
+  if (!schoon || schoon === "[]") return [];
+  const treffers = schoon.match(/'([^']+)'|"([^"]+)"/g);
+  if (treffers) return treffers.map((t) => t.slice(1, -1));
+  return [schoon];
 }
 
-function closeLightbox() {
-  document.getElementById("lightbox").classList.remove("open");
+async function start() {
+  let data;
+  try {
+    data = await (await fetch("data.json")).json();
+  } catch (err) {
+    $("laden").textContent = "het atelier is even niet bereikbaar";
+    return;
+  }
+
+  toonOnderzoek(data.onderzoek);
+  toonStroom(data);
+  toonEerder(data.afgesloten || []);
+  toonIdentiteit(data.identiteit || []);
+  toonMetingen(data.metingen || {});
+  wireFilters();
+  wireLichtbak();
 }
 
-document.getElementById("lightbox-sluit").addEventListener("click", closeLightbox);
-document.getElementById("lightbox").addEventListener("click", (e) => {
-  if (e.target.id === "lightbox") closeLightbox();
-});
-document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape") closeLightbox();
-});
+function toonOnderzoek(o) {
+  if (!o) return;
+  $("onderzoek-titel").textContent = o.titel;
+  $("onderzoek-vraag").textContent = o.vraag;
+  $("onderzoek-aanleiding").textContent = o.aanleiding || "";
+  const uitleg =
+    o.modus === "uitputten"
+      ? "ik bijt me hierin vast en melk het uit"
+      : "ik zoek de randen op";
+  $("onderzoek-meta").innerHTML =
+    `<span class="modus">${esc(o.modus)}</span>${esc(uitleg)} — begonnen in cyclus ${o.begonnen_cyclus}`;
+  $("onderzoek").hidden = false;
+}
 
-laadWerk();
+function toonStroom(data) {
+  const items = [];
+
+  for (const n of data.notities || []) {
+    items.push({ cyclus: n.cyclus, soort: "gedachten", html: gedachteHtml(n) });
+  }
+  for (const w of data.werk || []) {
+    items.push({ cyclus: w.cyclus, soort: "werk", html: werkHtml(w), beeld: w });
+  }
+  for (const a of data.afgekeurd || []) {
+    items.push({ cyclus: a.cyclus, soort: "afgekeurd", html: wegHtml(a), beeld: a });
+  }
+
+  items.sort((a, b) => b.cyclus - a.cyclus);
+
+  const stroom = $("stroom");
+  stroom.innerHTML = "";
+  for (const item of items) {
+    const el = document.createElement("article");
+    el.className = `item ${item.soort === "gedachten" ? "gedachte" : "werk"}`;
+    if (item.soort === "afgekeurd") el.classList.add("weg");
+    if (item.beeld && item.beeld.gekozen) el.classList.add("gekozen");
+    el.dataset.cyclus = `c${item.cyclus}`;
+    el.dataset.soort = item.soort;
+    el.innerHTML = item.html;
+    const img = el.querySelector("img");
+    if (img && item.beeld) img.addEventListener("click", () => openLichtbak(item.beeld));
+    stroom.appendChild(el);
+  }
+  $("filters").hidden = false;
+}
+
+function gedachteHtml(n) {
+  return `<span class="soort">${esc(n.soort)}</span><p>${esc(n.tekst)}</p>`;
+}
+
+function werkHtml(w) {
+  const stempel = w.gekozen
+    ? '<span class="stempel">dit liet ik zien</span>'
+    : '<span class="stempel stil">gemaakt, niet gekozen</span>';
+  const gebreken = lijstjeUitNotities(w.tech_notities);
+  const oordeel = gebreken.length
+    ? `<p class="oordeel">Wat er technisch niet klopt: ${esc(gebreken.join("; "))}.</p>`
+    : "";
+  return `
+    ${stempel}
+    <figure><img src="${esc(w.bestand)}" loading="lazy" alt="${esc(w.beschrijving)}"></figure>
+    <p class="opdracht"><span class="label">de zin die ik mezelf gaf</span>${esc(w.prompt)}</p>
+    <p class="gezien">${esc(w.beschrijving)}</p>
+    ${oordeel}`;
+}
+
+function wegHtml(a) {
+  const reden =
+    a.afkeuringsreden === "cliche"
+      ? a.cliche_notities
+      : lijstjeUitNotities(a.tech_notities).join("; ");
+  const kop =
+    a.afkeuringsreden === "cliche"
+      ? "weggegooid — te veel ansichtkaart"
+      : "weggegooid — technisch kapot";
+  return `
+    <span class="stempel">${esc(kop)}</span>
+    <figure><img src="${esc(a.bestand)}" loading="lazy" alt="Afgekeurd werk uit cyclus ${a.cyclus}"></figure>
+    <p class="opdracht"><span class="label">de zin die ik mezelf gaf</span>${esc(a.prompt)}</p>
+    ${reden ? `<p class="reden">${esc(reden)}</p>` : ""}`;
+}
+
+function toonEerder(lijst) {
+  if (!lijst.length) return;
+  $("eerder-lijst").innerHTML = lijst
+    .map(
+      (o) => `
+      <article>
+        <h3>${esc(o.titel)}</h3>
+        <p class="bevinding">${esc(o.bevinding || o.vraag)}</p>
+        <p class="duur">cyclus ${o.begonnen_cyclus} tot ${o.geeindigd_cyclus}</p>
+      </article>`
+    )
+    .join("");
+  $("eerder").hidden = false;
+}
+
+function toonIdentiteit(versies) {
+  if (!versies.length) return;
+  $("identiteit-lijst").innerHTML = versies
+    .slice()
+    .reverse()
+    .map(
+      (v, i) => `
+      <details${i === 0 ? " open" : ""}>
+        <summary><span>versie ${v.versie}</span><span>${i === 0 ? "nu" : "eerder"}</span></summary>
+        <pre>${esc(v.tekst.replace(/^#.*\n/, "").trim())}</pre>
+      </details>`
+    )
+    .join("");
+  $("identiteit").hidden = false;
+}
+
+function toonMetingen(m) {
+  const labels = {
+    cycli: "cycli gedraaid",
+    gemaakt: "beelden gemaakt",
+    gekozen: "zelf gekozen",
+    afgekeurd: "weggegooid",
+    corpus: "zinnen in omloop",
+    notities: "aantekeningen",
+  };
+  const rijen = Object.entries(labels)
+    .filter(([k]) => m[k] !== undefined)
+    .map(([k, label]) => `<div><dt>${label}</dt><dd>${m[k]}</dd></div>`)
+    .join("");
+  if (!rijen) return;
+  $("metingen-lijst").innerHTML = rijen;
+  $("metingen").hidden = false;
+}
+
+function wireFilters() {
+  const knoppen = document.querySelectorAll(".filters button");
+  knoppen.forEach((knop) => {
+    knop.addEventListener("click", () => {
+      knoppen.forEach((k) => k.classList.toggle("actief", k === knop));
+      const filter = knop.dataset.filter;
+      document.querySelectorAll(".stroom .item").forEach((item) => {
+        item.hidden = filter !== "alles" && item.dataset.soort !== filter;
+      });
+    });
+  });
+}
+
+function openLichtbak(beeld) {
+  $("lichtbak-img").src = beeld.bestand;
+  $("lichtbak-tekst").textContent = beeld.beschrijving || beeld.cliche_notities || "";
+  $("lichtbak").hidden = false;
+}
+
+function wireLichtbak() {
+  const sluit = () => ($("lichtbak").hidden = true);
+  $("lichtbak-sluit").addEventListener("click", sluit);
+  $("lichtbak").addEventListener("click", (e) => {
+    if (e.target.id === "lichtbak") sluit();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") sluit();
+  });
+}
+
+start();

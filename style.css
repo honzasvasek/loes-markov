@@ -1,190 +1,414 @@
+/* Het atelier van Loes Markov.
+   Drie stemmen, drie letterbeelden: haar gedachten in een schreefletter (dat is
+   zij), de prompts in monospace (dat is de machine), alle bijschriften en meta
+   in schreefloos (dat zijn wij die meekijken). Die scheiding draagt het hele
+   ontwerp — daarom staat er verder bijna geen decoratie in. */
+
 :root {
-  --bg: #faf9f6;
-  --fg: #1a1a18;
-  --muted: #6b6a63;
-  --border: #ddd9d0;
-  --accent: #8a5a3b;
+  --papier: #f4f1ea;
+  --inkt: #1b1a17;
+  --dof: #6d6a62;
+  --lijn: #d8d3c7;
+  --accent: #7a3b2e;
+  --weg: #8a8478;
+  --breedte: 44rem;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #14130f;
-    --fg: #ece9e1;
-    --muted: #9b988d;
-    --border: #2c2a24;
-    --accent: #d99b6c;
+    --papier: #16151a;
+    --inkt: #e9e5dc;
+    --dof: #918c81;
+    --lijn: #2e2c31;
+    --accent: #c98b6f;
+    --weg: #6b675f;
   }
+}
+:root[data-theme="dark"] {
+  --papier: #16151a;
+  --inkt: #e9e5dc;
+  --dof: #918c81;
+  --lijn: #2e2c31;
+  --accent: #c98b6f;
+  --weg: #6b675f;
+}
+:root[data-theme="light"] {
+  --papier: #f4f1ea;
+  --inkt: #1b1a17;
+  --dof: #6d6a62;
+  --lijn: #d8d3c7;
+  --accent: #7a3b2e;
+  --weg: #8a8478;
 }
 
 * { box-sizing: border-box; }
 
 body {
   margin: 0;
-  font-family: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
-  background: var(--bg);
-  color: var(--fg);
+  padding: 0 1.5rem 6rem;
+  background: var(--papier);
+  color: var(--inkt);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------------------------------------------------------------- kop */
+
+.kop {
+  max-width: var(--breedte);
+  margin: 0 auto;
+  padding: 5rem 0 3rem;
+}
+.naam {
+  margin: 0 0 0.75rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--dof);
+}
+.kop h1 {
+  margin: 0 0 1.5rem;
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  font-size: clamp(2.4rem, 8vw, 3.6rem);
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+}
+.inleiding {
+  margin: 0;
+  max-width: 34rem;
+  color: var(--dof);
+}
+
+/* ------------------------------------------------------- het onderzoek */
+
+.rubriek {
+  margin: 0 0 1rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--dof);
+}
+
+.onderzoek {
+  max-width: var(--breedte);
+  margin: 0 auto 3.5rem;
+  padding: 2rem 0 2.25rem;
+  border-top: 1px solid var(--lijn);
+  border-bottom: 1px solid var(--lijn);
+}
+.onderzoek h2 {
+  margin: 0 0 0.75rem;
+  font-family: ui-serif, Georgia, serif;
+  font-size: clamp(1.6rem, 5vw, 2.1rem);
+  font-weight: 400;
+  line-height: 1.2;
+}
+.onderzoek .vraag {
+  margin: 0 0 1rem;
+  font-family: ui-serif, Georgia, serif;
+  font-size: 1.2rem;
   line-height: 1.5;
 }
-
-.intro {
-  max-width: 640px;
-  margin: 0 auto;
-  padding: 4rem 1.5rem 2rem;
-  text-align: center;
+.onderzoek .aanleiding {
+  margin: 0 0 1.25rem;
+  color: var(--dof);
+  max-width: 34rem;
 }
-
-.intro h1 {
-  font-size: 2.4rem;
-  font-weight: 500;
-  letter-spacing: 0.02em;
-  margin: 0 0 0.3rem;
-}
-
-.tagline {
-  color: var(--accent);
-  font-style: italic;
-  margin: 0 0 1.5rem;
-}
-
-.beschrijving {
-  color: var(--muted);
-  font-size: 1.02rem;
-}
-
-.status {
-  color: var(--muted);
-  font-size: 0.85rem;
-  margin-top: 2rem;
-}
-
-main {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 1rem 3rem;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 0.6rem;
-}
-
-.grid figure {
+.onderzoek-meta {
   margin: 0;
+  font-size: 0.8rem;
+  color: var(--dof);
+}
+.modus {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  border-radius: 2px;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-right: 0.6rem;
+}
+
+/* ------------------------------------------------------------- filters */
+
+.filters {
+  max-width: var(--breedte);
+  margin: 0 auto 2.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.filters button {
+  background: none;
+  border: 1px solid var(--lijn);
+  color: var(--dof);
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  font: inherit;
+  font-size: 0.82rem;
   cursor: pointer;
-  overflow: hidden;
-  border-radius: 4px;
-  background: var(--border);
-  aspect-ratio: 640 / 1131;
+  transition: color 0.15s, border-color 0.15s;
+}
+.filters button:hover { color: var(--inkt); border-color: var(--dof); }
+.filters button.actief { color: var(--papier); background: var(--inkt); border-color: var(--inkt); }
+
+/* -------------------------------------------------------------- stroom */
+
+.stroom {
+  max-width: var(--breedte);
+  margin: 0 auto;
+}
+.laden { color: var(--dof); }
+
+.item {
+  position: relative;
+  padding: 0 0 3.5rem 4.5rem;
+}
+.item::before {
+  content: attr(data-cyclus);
+  position: absolute;
+  left: 0;
+  top: 0.35rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: var(--dof);
+  font-variant-numeric: tabular-nums;
+}
+.item::after {
+  content: "";
+  position: absolute;
+  left: 3rem;
+  top: 0.55rem;
+  bottom: -0.5rem;
+  width: 1px;
+  background: var(--lijn);
+}
+.item:last-child::after { display: none; }
+
+@media (max-width: 34rem) {
+  .item { padding-left: 0; padding-bottom: 3rem; }
+  .item::before { position: static; display: block; margin-bottom: 0.6rem; }
+  .item::after { display: none; }
 }
 
-.grid img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+/* gedachte — haar stem */
+.gedachte .soort {
   display: block;
-  transition: transform 0.35s ease;
-  loading: lazy;
+  margin-bottom: 0.5rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.gedachte p {
+  margin: 0;
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  font-size: 1.28rem;
+  line-height: 1.55;
+  max-width: 34rem;
 }
 
-.grid figure:hover img {
-  transform: scale(1.04);
+/* werk */
+.werk figure { margin: 0; }
+.werk img {
+  display: block;
+  width: 100%;
+  max-width: 30rem;
+  height: auto;
+  border-radius: 2px;
+  cursor: zoom-in;
+  background: var(--lijn);
 }
+.werk.gekozen img { box-shadow: 0 0 0 1px var(--papier), 0 0 0 3px var(--accent); }
+
+.stempel {
+  display: inline-block;
+  margin-bottom: 0.65rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.stempel.stil { color: var(--dof); }
+
+.opdracht {
+  margin: 0.9rem 0 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.76rem;
+  line-height: 1.55;
+  color: var(--dof);
+  max-width: 32rem;
+  word-break: break-word;
+}
+.opdracht .label {
+  display: block;
+  font-family: inherit;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-size: 0.66rem;
+  margin-bottom: 0.25rem;
+  opacity: 0.7;
+}
+.gezien {
+  margin: 0.9rem 0 0;
+  max-width: 32rem;
+  line-height: 1.6;
+}
+.oordeel {
+  margin: 0.75rem 0 0;
+  font-size: 0.82rem;
+  color: var(--dof);
+  max-width: 32rem;
+}
+
+/* weggegooid */
+.weg img {
+  max-width: 17rem;
+  filter: grayscale(0.65) contrast(0.92);
+  opacity: 0.72;
+  transition: filter 0.25s, opacity 0.25s;
+}
+.weg img:hover { filter: none; opacity: 1; }
+.weg .stempel { color: var(--weg); }
+.weg .reden {
+  margin: 0.75rem 0 0;
+  max-width: 32rem;
+  font-size: 0.9rem;
+  color: var(--dof);
+  border-left: 2px solid var(--lijn);
+  padding-left: 0.9rem;
+}
+
+/* --------------------------------------------------- eerder / identiteit */
+
+.eerder, .identiteit, .metingen {
+  max-width: var(--breedte);
+  margin: 4rem auto 0;
+  padding-top: 2.5rem;
+  border-top: 1px solid var(--lijn);
+}
+.eerder article { margin-bottom: 2rem; }
+.eerder h3, .identiteit h3 {
+  margin: 0 0 0.4rem;
+  font-family: ui-serif, Georgia, serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.eerder .bevinding { margin: 0; max-width: 34rem; }
+.eerder .duur, .identiteit-uitleg, .metingen-uitleg {
+  margin: 0 0 1.25rem;
+  font-size: 0.85rem;
+  color: var(--dof);
+  max-width: 34rem;
+}
+.eerder .duur { margin: 0.35rem 0 0; }
+
+.identiteit details {
+  border-top: 1px solid var(--lijn);
+  padding: 0.9rem 0;
+}
+.identiteit summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  color: var(--dof);
+  font-size: 0.9rem;
+}
+.identiteit summary::-webkit-details-marker { display: none; }
+.identiteit summary:hover { color: var(--inkt); }
+.identiteit pre {
+  margin: 1rem 0 0;
+  white-space: pre-wrap;
+  font-family: ui-serif, Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--inkt);
+}
+
+/* ------------------------------------------------------------ metingen */
+
+.metingen dl {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));
+  gap: 1.5rem 1rem;
+  margin: 0;
+}
+.metingen dt {
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--dof);
+  margin-bottom: 0.3rem;
+}
+.metingen dd {
+  margin: 0;
+  font-family: ui-serif, Georgia, serif;
+  font-size: 1.7rem;
+  font-variant-numeric: tabular-nums;
+}
+
+/* -------------------------------------------------------------- footer */
 
 footer {
-  max-width: 640px;
-  margin: 0 auto;
-  padding: 1.5rem 1.5rem 4rem;
-  text-align: center;
-  color: var(--muted);
-  font-size: 0.82rem;
+  max-width: var(--breedte);
+  margin: 4rem auto 0;
+  padding-top: 2.5rem;
+  border-top: 1px solid var(--lijn);
+  color: var(--dof);
+  font-size: 0.9rem;
 }
+footer p { margin: 0; max-width: 34rem; }
 
-.lightbox {
+/* ------------------------------------------------------------ lichtbak */
+
+.lichtbak {
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.92);
-  display: none;
+  background: color-mix(in srgb, var(--papier) 94%, black);
+  display: flex;
   align-items: center;
   justify-content: center;
-  padding: 2rem 1rem;
+  padding: 2rem 1.5rem;
   z-index: 10;
 }
-
-.lightbox.open {
-  display: flex;
-}
-
-.lightbox figure {
+.lichtbak[hidden] { display: none; }
+.lichtbak figure {
   margin: 0;
-  max-width: 100%;
+  max-width: 60rem;
   max-height: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.8rem;
+  overflow-y: auto;
 }
-
-.lightbox img {
+.lichtbak img {
+  display: block;
   max-width: 100%;
-  max-height: 78vh;
-  object-fit: contain;
+  max-height: 72vh;
+  margin: 0 auto;
   border-radius: 2px;
 }
-
-.lightbox figcaption {
-  color: #d8d6cd;
-  font-size: 0.9rem;
-  max-width: 60ch;
-  text-align: center;
+.lichtbak figcaption {
+  margin-top: 1.25rem;
+  color: var(--dof);
+  font-size: 0.92rem;
+  line-height: 1.6;
+  max-width: 38rem;
+  margin-inline: auto;
 }
-
-.lightbox-sluit {
+.lichtbak-sluit {
   position: absolute;
   top: 1rem;
-  right: 1.2rem;
+  right: 1.25rem;
   background: none;
   border: none;
-  color: #eee;
+  color: var(--dof);
   font-size: 2rem;
   line-height: 1;
   cursor: pointer;
 }
-
-/* Praktijk: haar onderzoek, notities en identiteitsspoor — de tekst die van
-   deze galerij een verslag maakt. */
-.praktijk {
-  max-width: 46rem;
-  margin: 0 auto 3rem;
-  padding: 0 1.25rem;
-}
-.praktijk section { margin-bottom: 2.25rem; }
-.praktijk h2 {
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  opacity: 0.55;
-  margin-bottom: 0.6rem;
-  font-weight: 600;
-}
-.praktijk .titel { font-size: 1.35rem; line-height: 1.3; margin-bottom: 0.4rem; }
-.praktijk .vraag { font-size: 1.05rem; line-height: 1.6; }
-.praktijk .aanleiding { opacity: 0.75; line-height: 1.6; margin-top: 0.5rem; }
-.praktijk .meta { font-size: 0.85rem; opacity: 0.5; margin-top: 0.6rem; }
-.praktijk ul { list-style: none; }
-.praktijk li {
-  line-height: 1.6;
-  padding: 0.7rem 0;
-  border-top: 1px solid currentColor;
-  border-color: color-mix(in srgb, currentColor 12%, transparent);
-}
-.praktijk .soort {
-  font-size: 0.72rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  opacity: 0.45;
-  margin-right: 0.5rem;
-}
-
-/* Werk dat zij zelf koos, tegenover de werkbank eromheen. */
-figure.gekozen { outline: 2px solid currentColor; outline-offset: 3px; }
+.lichtbak-sluit:hover { color: var(--inkt); }

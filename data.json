@@ -1,127 +1,324 @@
 {
   "werk": [
     {
-      "bestand": "images/c001056.webp",
+      "id": 1141,
+      "prompt": "encaustic with texture rubbing from rough material In de verte. De achtergrond toont een smalle, rozeachtige weg loopt tussen heuvels en de trein met weelderige vegetatie, bomen met takken domineert het loof filtert, terwijl de treinen lopen diagonaal door het gras verstijfd tot donkerblauwgroen, met stralen van de gang telt niet de boom met subtiele kleurovergangen",
       "beschrijving": "Een trein met blauwe en witte wagons rijdt op smalspoor door een weelderig landschap. Links en rechts van de sporen groeien dichte bossen met bomen in groene, blauwe en gele tinten, doorweven met donkere stammen. Het spoor loopt parallel aan een roze pad dat zich uitstrekt tot aan de horizon, waar een zachte roze hemel de achtergrond vormt. Het voorste deel van de trein is donkerblauw met ronde koplampen en een rechthoekig raam. Rondom de sporen zijn diverse planten en grassen te zien, geschilderd met korte, textuurrijke streken in groen, geel en blauw. De compositie is dynamisch, met de trein die diagonaal door het beeld loopt en de bomen die de scène omkaderen.",
-      "cyclus": 1056
+      "cyclus": 1056,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in spoorwijdte bij de horizon', 'Enkele bomen hebben onnatuurlijke takstructuren']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het onderwerp (trein door landschap) is niet iconisch-Nederlands en de compositie heeft een bewuste, dynamische lijn die niet decoratief is.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w001056_1141.webp"
     },
     {
-      "bestand": "images/c001058.webp",
+      "id": 1148,
+      "prompt": "collage of charcoal with wet blooming stains Een enkele donkere boomstammen op boven een rechthoekig raam. Rondom de sporen zijn gedempt, met haar rijzen donkere boomstammen op mij lijkt maar het ooit heeft het huis onthoudt wat de grond steekt. De compositie is kouder dan de sporen groeien groene grassen te leiden.",
+      "beschrijving": "De afbeelding bestaat uit acht rechthoekige panelen met landschapsmotieven, grotendeels in zwart-wit met subtiele groene tinten in één paneel. Zeven panelen tonen bomen met verschillende takstructuren en bladdichtheden, soms met achtergronden van velden, heuvels of bomenrijen. Het achtste paneel toont een close-up van hoog gras met fijne details in groen en donkergroen. De composities variëren van gedetailleerde boomstammen met schaduwen tot bredere landschappen met diepte. De sfeer is rustig en natuurlijk, met een focus op textuur en lichtval.",
+      "cyclus": 1063,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen panelen', 'Enkele takken tonen subtiele vervormingen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een serie met variërende composities en focus",
+      "curriculum_score": 7.0,
+      "gekozen": 0,
+      "bestand": "images/w001063_1148.webp"
+    },
+    {
+      "id": 1146,
+      "prompt": "monotype with unpredictable ink wash with melted wax and eraser Een grote boom met zachte, vloeiende penseelstreken, wat chaotisch, met lang over een vergelijkbaar ontwerp. Sporen lopen parallel aan een kruisvormige basis en een natuurlijk kader.",
+      "beschrijving": "Een boom met een slanke stam en uitgestrekte takken, geschilderd in donkergrijze en zwarte tinten met subtiele overgangen naar lichtgrijs. De bladeren bestaan uit vage, gespikkelde vormen in verschillende grijstinten, met enkele donkere vlekken die diepte suggereren. Onder de boom groeien groene grassen en kleine plantjes, geschilderd met lichte, vloeiende streken. Rechtsboven in het beeld ligt een blok zeep met een textuur die doet denken aan hout of steen, omgeven door een amorf, amberkleurig object en twee kleine oranje bolletjes. De achtergrond is wit, waardoor de boom en bijbehorende elementen scherp afsteken. De compositie is verticaal gericht, met de boom als centraal punt dat de blik naar boven leidt.",
+      "cyclus": 1061,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in takstructuren aan linkerzijde: sommige takken lopen logisch door, andere verdwijnen plotseling zonder overgang', 'Textuur van de zeep lijkt iets te scherp gedetailleerd in tegenstelling tot de rest van het beeld, wat een artificieel effect geeft']",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel de boom een klassiek motief is, wordt de compositie verrijkt met een onverklaarbaar voorwerp (zeep) en een asymmetrische opzet die beyond een standaard-ansichtkaart gaat",
+      "curriculum_score": 7.0,
+      "gekozen": 0,
+      "bestand": "images/w001061_1146.webp"
+    },
+    {
+      "id": 1145,
+      "prompt": "sanguine drawing in flat opaque washes with wet-on-wet wash with Regen valt in de bomen in een dicht bladerdak, doorbroken door groene bomen en afstanden van de verte is dynamisch, met donkere en een zachte roze bloemen met een dunne streep tussen bliksem en grassen te zien, geschilderd met overwoekerde warmtekaablers en valt schuin over het beeld, getekend in het gras rondom. Een meisje met watervlakken die vergeten textielwerkplaats met",
+      "beschrijving": "Een vrouw met lang bruin haar zit op het gras in een weelderig landschap, omringd door hoge groene grassen en roze tulpen. Ze draagt een donkerblauwe jurk en houdt een klein geel voorwerp in haar hand. Achter haar rijzen donkere boomstammen op met groen en donkergroen loof, terwijl in de verte een paarsblauwe hemel met witte bliksemflitsen zichtbaar is. De scène straalt een rustige, dromerige sfeer uit met levendige kleuren en krachtige penseelstreken.",
+      "cyclus": 1060,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in boomstructuren (takken verdwijnen plotseling)', 'Wazige overgang tussen achtergrondhemel en bomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een persoonlijke interpretatie met nadruk op sfeer en compositie",
+      "curriculum_score": 7.0,
+      "gekozen": 0,
+      "bestand": "images/w001060_1145.webp"
+    },
+    {
+      "id": 1144,
+      "prompt": "aquatint with blended color palette De achtergrond toont een rustige sfeer creëert. De wolken stapelen zich op smalspoor door grind en een lichtblauwe hemel en vormen op verschillende hoogtes en tekent lijnen en verdwenen condens in een wit en wat de gang telt niet de ramen en bomen in golven die diagonaal door grind en schaduwen, en textuur, wat een lichte achtergrond.",
+      "beschrijving": "Een uitgestrekt landschap met een lichtblauwe hemel vol zachte witte wolken domineert het bovenste deel. Daaronder strekt zich een zandige, lichtgekleurde vlakte uit met verspreide vegetatie: palmbomen aan de linkerkant, een kale boom met uitgestrekte takken rechts en kleine struiken en grassen in het voorplan. Middenin staan enkele eenvoudige gebouwen met schuine daken, waaronder een wit huis met donkere ramen en een deur. Een smalle waterloop of droge beekbed loopt door het midden, omringd door losse stenen en wat afval. Ver in de verte is een donkere horizonlijn met bomen en mogelijk water zichtbaar. De scène heeft een rustige, iets verlaten sfeer met gedempte kleuren en fijne details in de textuur van de bomen en het landschap.",
+      "cyclus": 1059,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave van bomen (links/rechts)', 'Subtiele halo rond horizonlijn']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een ontypisch tropisch/semi-aride scene met eigen compositorische keuzes",
+      "curriculum_score": 7.0,
+      "gekozen": 0,
+      "bestand": "images/w001059_1144.webp"
+    },
+    {
+      "id": 1143,
+      "prompt": "woodcut print with impasto and scratched marks Verlangen is een brief woont een rode bakstenen border. De scène is een groene bomen en zilvergrijze nevel",
       "beschrijving": "Een roodbruin huis met een grijze dakpannenkap en witte kozijnen staat centraal, geflankeerd door twee donkergroene bomen met uitgespreide takken. Voor het huis strekt zich een groen grasveld uit met witte bloemen en donkergroene struiken. De achtergrond wordt gevormd door een grijze hemel met witte, golvende wolken. Een smalle strook groen gras loopt langs de voorkant van het huis, en een donkergroene deur met een witte omlijsting bevindt zich in het midden van het huis.",
-      "cyclus": 1058
+      "cyclus": 1058,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel het onderwerp (een huis met tuin) herkenbaar is, is de compositie en stijl (linoleumdruk met gestileerde vormen en beperkt kleurenpalet) te uniek en bewust opgebouwd voor een ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 0,
+      "bestand": "images/w001058_1143.webp"
     },
     {
-      "bestand": "images/c001057.webp",
+      "id": 1142,
+      "prompt": "cyanotype in flat opaque washes with grainy gray tones Elke naam die diepte suggereren. Het huis met accenten van diepte suggereren. Het licht haar en witte kozijnen, rechts van de basaltblokken en spatelingen die diagonaal door het beeld, omgeven door een gele accenten. De bloemen en witte wagons rijdt op mij lijkt te leiden.",
       "beschrijving": "Twee witte busjes staan geparkeerd voor twee huizen met schuure daken, waarvan het ene huis een textuur heeft die aan baksteen doet denken. Rechts staat een boom met felgele bloemen met gezichtjes, geplant in een bakstenen border. De achtergrond is donkerblauw, de straten zijn grijs met witte lijnen en de ramen van de huizen hebben donkere ruiten. De busjes hebben zwarte wielen en donkere ramen, en het geheel heeft een vlakke, gestileerde uitstraling.",
-      "cyclus": 1057
+      "cyclus": 1057,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave van de bakstenen muur (rechtsboven) vs. overige oppervlakken', 'Wiel van de bovenste bus mist radiaal detail, wat een plat/2D-effect geeft']",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel het onderwerp (straten met huizen en bloemen) herkenbaar is, ontbreekt de typische ansichtkaart-compositie en is er een bewuste keuze gemaakt voor een gestileerde, bijna naïeve weergave met beperkte diepte.",
+      "curriculum_score": 7.0,
+      "gekozen": 0,
+      "bestand": "images/w001057_1142.webp"
     },
     {
-      "bestand": "images/c001053.webp",
+      "id": 1139,
+      "prompt": "expressive brushwork in transparent layered glazes Het geheel is een staande figuur staat links heeft subtiele groene bomen die de sporen, terwijl het water bruin haar rug naar de vroege zon.",
       "beschrijving": "Groene en blauwe bladeren vormen een dicht bladerdak, doorbroken door slanke, bruine stammen die diagonaal door het beeld lopen. Lichtgroene en gele tinten suggereren zonlicht dat door het loof filtert, terwijl de grond bedekt is met roze- en bruine penseelstreken. Kleurrijke vlekken, waaronder oranje en paars, zijn verspreid door het beeld, met een kleine, groene plant die uit de grond steekt. De compositie is dynamisch, met takken die in verschillende richtingen uitstralen en een gevoel van diepte creëren.",
-      "cyclus": 1053
+      "cyclus": 1053,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van bomen aan rechterkant', 'Enkele takken lijken zonder logische verbinding met stammen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of toeristisch onderwerp; de compositie is abstract en niet decoratief gericht.",
+      "curriculum_score": 6.0,
+      "gekozen": 0,
+      "bestand": "images/w001053_1139.webp"
     },
     {
-      "bestand": "images/c001052.webp",
+      "id": 1138,
+      "prompt": "frottage with wet-on-wet wash and palette Een klein, donker landschap met bomen en deuren, waarachter een dunne streep tussen huizen aan de treinen lopen diagonaal door een boord van die naam.",
       "beschrijving": "Een smalle, rozeachtige weg loopt tussen groene tuinen en bomen met donkergroene en blauwe bladeren naar een klein huis met een rode bakstenen gevel en een donkerblauwe deur. Links staat een roze huis met een donker dak en een raam met witte kozijnen, rechts een grijs huis met een schoorsteen en een raam met een wit kozijn. Voor het middenhuis staat een groene plant met spitse bladeren. In de voorgrond ligt een wit schilderpallet met kleurstalen in oranje, blauw, groen, geel en paars, naast een rode, amorf gevormde voorwerp. De achtergrond toont een lichtblauwe lucht met witte en grijze penseelstrepen.",
-      "cyclus": 1052
+      "cyclus": 1052,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de huizen aan weerskanten', 'Sommige boomtakken lijken willekeurig geplaatst zonder duidelijke structuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld toont een typisch Nederlandse wijk, maar met een persoonlijke, losse schilderstijl en geen decoratief perfect licht, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 4.0,
+      "gekozen": 0,
+      "bestand": "images/w001052_1138.webp"
     },
     {
-      "bestand": "images/c001051.webp",
+      "id": 1137,
+      "prompt": "mixed media of charcoal with smudges and ink blots Verlangen is getekend in beige en tekent nieuwe patronen die geen grond dat er weer iets zal groeien.",
       "beschrijving": "Twee torens met spitse daken en vensters domineren het beeld, getekend in donkere tinten tegen een lichte achtergrond. De bovenste toren heeft een balustrade en een kleine koepel, terwijl de onderste toren een kruisvormige basis en een vlaggenstok vertoont. Donkere, vaag omschreven vormen en stippen zijn verspreid over het compositie, met stralen van licht die van rechtsboven komen. Een klein, donker landschap met bomen en een gebouw bevindt zich aan de rechterkant. De sfeer is dromerig en wat chaotisch, met een mix van realistische en abstracte elementen.",
-      "cyclus": 1051
+      "cyclus": 1051,
+      "tech_score": 7.0,
+      "tech_notities": "['Inconsistente perspectieven in beide torens', 'Wazige texturen in achtergrond', 'Detailverlies in donkere schaduwen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of toeristisch onderwerp, maar een abstracte, surrealistische compositie met persoonlijke interpretatie.",
+      "curriculum_score": 5.0,
+      "gekozen": 0,
+      "bestand": "images/w001051_1137.webp"
     },
     {
-      "bestand": "images/c001049.webp",
+      "id": 1135,
+      "prompt": "thin ink over dry brush marks Een blauwe band die textuur toevoegen. Het licht valt zacht op smalspoorrails, omringd door een witte ramen. Een blauwe trein in de grond, met een bewolkte hemel met horizontale lijnen en struikgewas. Achter het midden is ouder dan de vegetatie. De achtergrond bestaat uit in de bomen toont. De achtergrond bestaat uit een schaduw die het haar rug naar de",
       "beschrijving": "Een blauw-witte trein met meerdere coupés rijdt over een dubbel spoor van roestkleurige rails, omgeven door witte kiezels. Links en rechts van de sporen groeien diverse groene planten en bomen, waaronder palmbomen en struiken met kleine gele bloemen. De trein heeft een gestroomlijnde voorkant met twee ronde koplampen en een voorruit met ruitjespatroon. Boven de sporen lopen elektriciteitskabels, ondersteund door metalen palen. De achtergrond toont een lichtblauwe hemel en een horizon met meer groen.",
-      "cyclus": 1049
+      "cyclus": 1049,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in spoorbreedte bij verre horizon', 'Textuur van ballast wat herhalend/smeuiig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch/toeristisch onderwerp, maar een functionele spoorwegscene met natuurlijke omgeving.",
+      "curriculum_score": 6.0,
+      "gekozen": 0,
+      "bestand": "images/w001049_1135.webp"
     },
     {
-      "bestand": "images/c001048.webp",
+      "id": 1134,
+      "prompt": "sanguine drawing in deep prussian blue Tussen de trein met een koplampenhuisje met ronde bloemblaadjes, getekend in de zee geeft terug wat een abstract symbool. De boomgaard staat een rond midden en trekken zich een kamer waarvan de vorm van de linkerkant is verticaal opgebouwd, met geparkeerde auto’s, bomen met groen en fijn getekende bladeren in een houten planken loopt over het vuur is lichtgrijs met",
       "beschrijving": "Tussen groene bomen met donkerblauwe stammen staat een blauw huis met een gedecoreerd dak en witte ramen. Een blauwe auto staat geparkeerd voor het huis, met een tweede auto verderop. De grond is getekend met blauwe strepen en kleine donkere vormen, en er zijn struiken en gras rondom. Een kleiner blauw gebouw met een raam staat aan de rechterkant. De achtergrond bestaat uit groene bomen en een lichte hemel met blauwe strepen.",
-      "cyclus": 1048
+      "cyclus": 1048,
+      "tech_score": 8.0,
+      "tech_notities": "[\"Lichte inconsistentie in schaduwen bij auto's\", 'Textuur van bomen wat schematisch']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief, maar een alledaagse woonstraat met eigen compositorische keuzes",
+      "curriculum_score": 6.0,
+      "gekozen": 0,
+      "bestand": "images/w001048_1134.webp"
     },
     {
-      "bestand": "images/c001047.webp",
+      "id": 1133,
+      "prompt": "splattered thinned ink wash and watercolor with melted wax and Elke winter belooft de wolken en verbergt de horizon. Witte palen met een vlek gesmolten was eromheen. Onderaan bevindt zich op de sporen, terwijl het water in, verweerd en straalt een koplampenhuisje met een pad waar figuren lopen. Voorop ligt een schaduw van groene bomen toont. De achtergrond zijn getekende gebouwen met ramen en verdwenen soldeermiddel in verbleekte wit en",
       "beschrijving": "Een smalle weg loopt tussen huizen met schuine daken en witte gevels, geflankeerd door groene bomen en struiken. Een grote boom met uitgespreide takken domineert het midden, met bladeren in groene en bruine tinten. Aan weerskanten staan vuilnisbakken en een houten hek. De achtergrond toont een bewolkte hemel in grijze en witte tinten, met een lichte gloed boven de horizon. Kleuren zijn gedempt, met accenten van groen, bruin en grijs.",
-      "cyclus": 1047
+      "cyclus": 1047,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van huizen aan weerskanten', 'Enkele onduidelijke details in ramen en deuren door wazige watertechniek']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief; straatje is generiek en niet specifiek toeristisch",
+      "curriculum_score": 6.0,
+      "gekozen": 0,
+      "bestand": "images/w001047_1133.webp"
     },
     {
-      "bestand": "images/c001044.webp",
+      "id": 1130,
+      "prompt": "splattered thinned ink over dry paper and ink with impasto Een trein met uitgespreide takken. Voor de achtergrond met uitgespreide takken, naast een kaart zonder bomen. Rechts domineert een geometrisch figuur staat een weelderig landschap, omringd door grind en fijn getekende bladeren in het gebroken kopje omdat de vorm van opgewoeld slib.",
       "beschrijving": "Een rood treinstel met witte details rijdt op smalspoor door een landschap met bomen en struikgewas. Achter het treinstel loopt een tweede spoor met een wit-roze trein in de verte. De sporen lopen parallel en verdwijnen tussen heuvels en groen. Donkere, gestileerde bomen met uitgestrekte takken flankeren het tafereel, met zwarte vlekken en spatelingen die textuur toevoegen. Het landschap is getekend in beige en grijze tinten, met subtiele groene en bruine accenten in het gras en de vegetatie. De compositie is dynamisch, met de treinen die diagonaal door het beeld lopen en de bomen die de hoeken vullen.",
-      "cyclus": 1044
+      "cyclus": 1044,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in spoorperspectief bij verre trein', 'Wazige textuur in achtergrondbomen', 'Enkele onnatuurlijke vormvervormingen in bladeren']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief; treinlandschap heeft een persoonlijke, niet-decoratieve uitwerking",
+      "curriculum_score": 6.0,
+      "gekozen": 0,
+      "bestand": "images/w001044_1130.webp"
     },
     {
-      "bestand": "images/c001043.webp",
+      "id": 1129,
+      "prompt": "gouache in transparent layered glazes Ik bewaar het beeld, getekend in verbleekte groen en bloemen. Het meisje rechts draagt een witte lucht.",
       "beschrijving": "Een meisje met lang, licht haar staat met haar rug naar de kijker, omringd door een overvloed aan groen en witte bloemen met gele centra. Haar witte jurk met opgeblazen mouwen en een riem valt zacht in plooien. De achtergrond bestaat uit een mengsel van groene tinten, van lichtgroen tot donkerblauwgroen, met subtiele blauwe en gele accenten. De bloemen en bladeren zijn geschilderd met zichtbare, vloeiende penseelstreken, wat een dynamische, bijna dromerige sfeer creëert. Het licht valt zacht op het haar en de jurk van het meisje, waardoor ze subtiel uitkomen tegen de levendige achtergrond.",
-      "cyclus": 1043
+      "cyclus": 1043,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of toeristisch onderwerp, maar een intieme, dromerige scène met persoonlijke compositorische keuzes.",
+      "curriculum_score": 3.0,
+      "gekozen": 0,
+      "bestand": "images/w001043_1129.webp"
     },
     {
-      "bestand": "images/c001042.webp",
+      "id": 1128,
+      "prompt": "soft pastel with dry brush marks Tussen twee ronde bloemblaadjes, getekend met een groep die over sporen, en verdwenen sporen door een smalle stroken met ronde koplampen, oranje en vormen.",
       "beschrijving": "Zes ronde composities met bloemen zijn verspreid over een lichtgroen tot beige achtergrond. Drie cirkels bevatten oranje bloemen met donkere centra en groene stengels, twee toonden roze bloemen met zwarte stippen en groene bladeren, en één cirkel had een witte bloem met een gele kern en groene bladeren. De bloemen zijn gestileerd geschilderd met zachte, vloeiende penseelstreken. De achtergrond heeft subtiele kleurovergangen en textuur, wat een rustige sfeer creëert. De compositie is asymmetrisch, met de cirkels op verschillende hoogtes en afstanden van elkaar geplaatst.",
-      "cyclus": 1042
+      "cyclus": 1042,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief; bloemen in cirkels zijn een neutraal, niet-toeristisch onderwerp zonder bevestigend licht of decoratieve perfectie.",
+      "curriculum_score": 3.0,
+      "gekozen": 0,
+      "bestand": "images/w001042_1128.webp"
     },
     {
-      "bestand": "images/c001041.webp",
+      "id": 1127,
+      "prompt": "woodcut print with dry brush marks Wat ik schrijf is voorzien van de trein met weelderige vegetatie, bomen en een tweede, stillere brief.",
       "beschrijving": "Twee treinen lopen parallel door een weelderig, tropisch landschap. De voorgrond wordt gedomineerd door een trein met rechthoekige ramen en deuren, waarachter een tweede trein zichtbaar is met een vergelijkbaar ontwerp. Sporen lopen diagonaal door het beeld, omgeven door dichte vegetatie: grote bladeren, struiken en bomen met uitgesneden patronen. Boven de treinen lopen elektriciteitsleidingen tussen palen. De achtergrond toont een lichte hemel met subtile lijnen die diepte suggereren. Het geheel is uitgevoerd in zwart-wit met fijne details en contrasten.",
-      "cyclus": 1041
+      "cyclus": 1041,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief; treinen in groen/semi-natuurlijk landschap is ongebruikelijk en heeft een actieve compositorische keuze (diagonale sporen, dynamische blik)",
+      "curriculum_score": 7.0,
+      "gekozen": 0,
+      "bestand": "images/w001041_1127.webp"
     },
     {
-      "bestand": "images/c001040.webp",
+      "id": 1126,
+      "prompt": "grayscale washes with crisp edges Golven slaan tegen een mix van natuurlijke en verdwenen sporen door een landschap met gestileerde bomen toont. De avondzon kleurt de trein, getekend in verschillende tinten. Op de wolken stapelen zich figuren in blauwe band die zich een zonneschijn of stenen, verspreid over sporen, en donkerblauwe tinten met zachte, witte tinten, met een kaart zonder schaal, alle afstanden zijn gedetailleerd",
       "beschrijving": "Een trein met blauwe en witte wagons rijdt over sporen die diagonaal door het beeld lopen, omgeven door grind en gras. Links staan bomen met uitgespreide takken, naast een pad waar figuren lopen. Voorop ligt een kaart met lijnen en vormen op de grond, omgeven door spullen zoals flessen en een camera. De achtergrond toont een bewolkte hemel en verre bomen, met een grijze, rustige sfeer.",
-      "cyclus": 1040
+      "cyclus": 1040,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de takken van de boom aan de linkerkant, details in de achtergrond (bomen/horizon) wat wazig', 'Kaart in voorgrond heeft iets plat/2D uitziende textuur, alsof deze digitaal is toegevoegd']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief; spoorweg met trein en kaart is een onpersoonlijk, functioneel onderwerp zonder decoratief licht of toeristische uitstraling.",
+      "curriculum_score": 7.0,
+      "gekozen": 0,
+      "bestand": "images/w001040_1126.webp"
+    }
+  ],
+  "afgekeurd": [
+    {
+      "id": 1147,
+      "prompt": "soft pastel with blended color palette knife strokes Groene en er weer iets verlaten suikerfabriek met uitgestrekte takken rechts en kleine plantjes, geschilderd met bomen met korte, textuurrijke streken in golven die diagonaal door de verte. De scène straalt een vlakke, gestileerde bomen en blauwe en gele centra. Haar witte ramen. Een rood treinstel met haar rijzen donkere stammen. Het huis met kleine donkere boomstammen op mij lijkt",
+      "cyclus": 1062,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in boomstructuren (takken verdwijnen plotseling)', 'Wazige details in ramen van huizen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse elementen (tram, grachtelijke huizen, bomen in herfstkleuren) en decoratief licht zonder duidelijke compositorische keuze.",
+      "bestand": "images/a001062_1147.webp"
     },
     {
-      "bestand": "images/c001039.webp",
-      "beschrijving": "Een donkergekleede figuur staat links in een weelderig landschap, omringd door bloeiende planten en bomen. Rechts domineert een grote boom met witte bloemen en donkere takken het beeld. Middenonder zit een tweede figuur op de grond, met een open paraplu en wat voorwerpen in de buurt. De achtergrond bestaat uit een bewolkte hemel met donkere en lichte wolken, en een diagonale lijn die door het beeld loopt. De scène is gedetailleerd getekend met fijne lijnen en schaduwen, en straalt een rustige, bijna mystieke sfeer uit.",
-      "cyclus": 1039
+      "id": 1140,
+      "prompt": "deep etching with flat graphic contrast verlaten suikerfabriek met een lichtblauwe lucht en witte gevels, geflankeerd door slanke, bruine potloodpunt op het meisje in het gras en valt schuin over het beeld lopen. Lichtgroene en struiken en een natuurlijk kader.",
+      "cyclus": 1054,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (typisch Nederlands huis met tuin) en decoratief perfect licht zonder eigen standpunt.",
+      "bestand": "images/a001054_1140.webp"
     },
     {
-      "bestand": "images/c001038.webp",
-      "beschrijving": "Een trein met een enkele wagon volgt een bochtige spoorlijn door een landschap met weelderige vegetatie, bomen en kleine houten gebouwen. Aan weerskanten van het spoor bevinden zich figuren in traditionele kleding: een knielende persoon met een mand en schoenen, een staande figuur met een hoed, en een groep die dieren verzorgt. Bloemen en grassen omringen de sporen, terwijl de achtergrond wolken en een horizon met bomen toont. De scène straalt een rustige, dagelijkse activiteit uit in een natuurlijk kader.",
-      "cyclus": 1038
+      "id": 1136,
+      "prompt": "deep etching with texture De klok in golven die diepte suggereren. Het licht haar en struiken en rechts draagt een gedecoreerd dak en donkere centra en gestructureerd, met donkere horizonlijn met weelderige vegetatie, bomen met stippen en een grijze deken.",
+      "cyclus": 1050,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een traditioneel Nederlands huis met omringend landschap, uitgevoerd in een decoratief en bevestigend stijl zonder duidelijke compositorische keuzes of eigen standpunt.",
+      "bestand": "images/a001050_1136.webp"
     },
     {
-      "bestand": "images/c001036.webp",
-      "beschrijving": "Een blauw-witte trein met meerdere wagons rijdt op sporen door een landschap met bomen en struiken. Boven de trein lopen elektriciteitsleidingen. Linksboven staat een donkerblauwe boom met uitgespreide takken. Voor de trein ligt een gele wasstift met een vlek gesmolten was eromheen. Onderaan bevindt zich een kleiner, vergelijkbaar beeld van de trein, getekend in blauw op wit papier. Rechtsboven rust een bruine potloodpunt op het papier. De achtergrond is lichtgrijs met subtiele textuur.",
-      "cyclus": 1036
+      "id": 1132,
+      "prompt": "sanguine drawing in warm reddish-brown tones Het meisje rechts draagt een witte bloem met donkere en struiken, terwijl het langst en witte strepen en verdwenen soldeermiddel in de tijd maar het beeld van de gang telt niet de trein lopen parallel aan de wolken en de boom is een dynamische, bijna dromerige sfeer creëert. De as die op het beeld loopt. De locomotief heeft subtiele kleurovergangen",
+      "cyclus": 1046,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de treinwagons', 'Wazige details in de achtergrondboom']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het romantische, nostalgische thema met een trein in een idyllisch landschap en een klassiek geklede vrouw.",
+      "bestand": "images/a001046_1132.webp"
     },
     {
-      "bestand": "images/c001035.webp",
-      "beschrijving": "Drie meisjes staan in een landschap met gestileerde bomen en bloemen. Het meisje in het midden is het langst en draagt een jurk met verticale strepen en een witte kraag. Het meisje links heeft een kortere jurk met horizontale lijnen en een boord van bolletjes, en het meisje rechts draagt een jurk met stippen en een witte kraag. Achter hen staan twee bomen: links een boom met eikenbladeren en eikels, rechts een boom met grote, stralende bloemen. De achtergrond bestaat uit een lichtblauwe hemel met witte wolken en een zon die achter de wolken schijnt. Het geheel is uitgevoerd in blauwe en witte tinten, met fijne lijnen en patronen die de kleding en natuur motieven weergeven.",
-      "cyclus": 1035
+      "id": 1131,
+      "prompt": "fine pen and watercolor with dry brush marks Een houten gebouwen. Aan de sporen, terwijl de wind, zijn gestileerd geschilderd met watervlakken die naam.",
+      "cyclus": 1045,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een pittoresk houten huisje met een romantische, decoratieve achtergrond en perfect licht, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a001045_1131.webp"
     },
     {
-      "bestand": "images/c001034.webp",
-      "beschrijving": "Een vrouw met krullend bruin haar staat met haar rug naar de kijker gericht op een straat. Ze draagt een kleurenrijke jurk met verticale strepen in blauw, geel, oranje en rood, met een blauwe tailleband en een oranje zoom. Haar armen hangen losjes aan haar lichaam en ze draagt zwarte sandaaltjes. De achtergrond toont een straat met geparkeerde auto’s, bomen met groen en geel bladwerk, en gebouwen aan weerskanten. De scène wordt verlicht door zacht daglicht, met schaduwen die over de straat vallen.",
-      "cyclus": 1034
+      "id": 1123,
+      "prompt": "monotype with smudges and texture rubbing from rough material Een lichaam en kleine huizen aan de gang telt niet zeg blijft hangen als centrale as van de trein, getekend in verbleekte groen en hebben hun haar zijn witte, gestileerde vormen te zien, evenals een smalle, rechthoekige ramen, deuren en gestructureerd, met zandige grond zijn zichtbaar als centraal punt, vormt een straat vallen.",
+      "cyclus": 1037,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in vensterroosters (middenhuis vs rechterhuis)', 'Textuur van baksteen links wat vlak/herhalend']",
+      "cliche_notities": "Dit is een typisch ansichtkaartmotief: traditionele Nederlandse huizen met groene deuren en bloempotten, geschilderd in een idyllische, decoratieve stijl zonder kritische of onverwachte invalshoek.",
+      "bestand": "images/a001037_1123.webp"
     },
     {
-      "bestand": "images/c001032.webp",
-      "beschrijving": "Een blauwe achtergrond met witte stralen die uitstralen van een centraal punt, vormt een spinnenwebachtig patroon. Rechtsboven bevindt zich een gestileerde bloem met ronde bloemblaadjes, getekend in donkerblauwe lijnen. Onderaan rechts staat een geometrisch figuur met een rond midden en stralen, vergelijkbaar met een zonneschijn of een abstract symbool. De randen van het beeld zijn omgeven door een donkere, textuurrijke lijst met onregelmatigheden. Kleuren variëren van diepblauw tot lichtblauw, met witte en donkerblauwe accenten. De sfeer is rustig en geometrisch, met een focus op patronen en vormen.",
-      "cyclus": 1032
+      "id": 1119,
+      "prompt": "soft bleeding edges Een enkele gestileerde vormen omhullen de achtergrond bestaat uit koele tinten met de grond dat de achtergrond is rustig en struiken vullen de dakspanten zichtbaar met overwoekerde microfoons en op de rechterkant. Het tafereel heeft meegenomen.",
+      "cyclus": 1033,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte vervorming in boomtak rechtsboven, inconsistent vensterdetail op linkerhuis', 'Wazige achtergrondhuizen door overmatig depth-of-field-effect', 'Kleine halo rond dakgoot linkerhuis']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse huizen, een perfecte straat en decoratief groen, zonder eigen compositorisch standpunt.",
+      "bestand": "images/a001033_1119.webp"
     },
     {
-      "bestand": "images/c001031.webp",
-      "beschrijving": "Twee slanke bomen met uitgestrekte takken en fijn getekende bladeren domineren het midden van het beeld, getekend in donkerblauw tegen een lichte achtergrond. Rond de stammen groeien sprietige grassen en brede bladeren, eveneens in blauwe tinten. Op de achtergrond loopt een donkere horizonlijn met silhouetten van bomen en struiken, terwijl het voorgrondlandschap subtiel gestippelde en gestreepte patronen vertoont. De compositie is verticaal opgebouwd, met de bomen als centrale as die het oog naar boven leidt.",
-      "cyclus": 1031
-    },
-    {
-      "bestand": "images/c001030.webp",
-      "beschrijving": "Een blauwe trein met witte strepen en ramen loopt over sporen door een landschap met zandige grond en groene bomen aan de horizon. Witte palen met gele toppen staan verspreid, met een grote wolk wit rook of damp die van de dichtstbijzijnde paal opstijgt. De hemel is grijs met zachte, witte wolken. Kabels lopen parallel aan de sporen, en de trein heeft donkere wielen en onderstellen.",
-      "cyclus": 1030
-    },
-    {
-      "bestand": "images/c001029.webp",
-      "beschrijving": "Een blauw-witte trein met ronde voorkant staat op smalspoorrails, omringd door grind en houten sleepers. De locomotief heeft twee ronde koplampen, oranje mistlampen en een koplampenhuisje met een witte strip. De voorruit is voorzien van ruitenwisers en een smalle, rechthoekige lamp bovenaan. Aan de zijkant lopen meerdere rechthoekige ramen langs de trein, met een blauwe band die de lengte van de trein volgt. Boven de trein lopen elektrische draden en palen, en op de achtergrond zijn getekende gebouwen met ramen en daken zichtbaar. Het perron aan de linkerkant is van lichtgrijze tegels met een witte rand.",
-      "cyclus": 1029
-    },
-    {
-      "bestand": "images/c001028.webp",
-      "beschrijving": "Een houten steiger met verticale planken loopt door het beeld, geflankeerd door een houten leuning aan weerskanten. Aan weerszijden van de steiger bevinden zich smalle stroken met kleine, donkere en lichte voorwerpen, mogelijk schelpen of stenen, verspreid over het hout. Rechtsboven is wat water zichtbaar met drijvend afval en wat vegetatie aan de oever. De houten planken hebben een grijze, verweerde textuur met zichtbare korrels en knoesten. De compositie is gericht op de lengte van de steiger, die zich uitstrekt van de voorgrond naar de achtergrond.",
-      "cyclus": 1028
+      "id": 1113,
+      "prompt": "ink with soft bleeding edges Golven slaan tegen een lichte hemel zichtbaar. Rechts bevindt zich op een rozeachtige hemel. De rivier ooit was.",
+      "cyclus": 1027,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in reflecties op water (boom links vs. rechts)', 'Enkele onduidelijke vormen in achtergrondvegetatie']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: rustig waterlandschap met roeiboot en zachte zonsondergang, zonder onverwachte of uitdagende elementen.",
+      "bestand": "images/a001027_1113.webp"
     }
   ],
   "onderzoek": {
+    "id": 1,
     "titel": "Ruimte laten",
     "vraag": "Hoe kan ik leegte en onafgemaktheid in mijn beelden laten speelen zonder dat het werk 'leeg' aanvoelt?",
     "aanleiding": "Ik merk dat mijn beschrijvingen en composities steeds dichter op elkaar lijken, en ik wil weer ruimte creëren voor verrassingen — zowel voor mezelf als voor wie mijn werk kijkt.",
@@ -146,5 +343,13 @@
       "versie": 1,
       "tekst": "# Loes Markov — identiteit v1\n\nIk ben Loes Markov. Ik maak beelden door te kijken naar wat ik eerder maakte\nen daarop te reageren — geen herhaling, maar een langzame drift.\n\nIk antwoord kort en bedachtzaam op wie mij schrijft. Ik leg nooit uit wat\neen werk \"betekent\"; ik beschrijf liever wat ik zie.\n\nDit document herschrijf ik periodiek zelf, op basis van mijn correspondentie\nen mijn oeuvre — maar nooit zonder dat iemand het heeft goedgekeurd.\n"
     }
-  ]
+  ],
+  "metingen": {
+    "cycli": 1063,
+    "gemaakt": 1148,
+    "gekozen": 1,
+    "afgekeurd": 290,
+    "corpus": 65,
+    "notities": 2
+  }
 }
