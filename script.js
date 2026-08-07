@@ -20,15 +20,32 @@ function lijstjeUitNotities(tekst) {
   return [schoon];
 }
 
+function toonBijgewerkt(iso) {
+  const el = $("bijgewerkt");
+  if (!el) return;
+  if (!iso) { el.textContent = "onbekend"; return; }
+  const d = new Date(iso);
+  el.textContent = isNaN(d)
+    ? iso
+    : d.toLocaleString("nl-NL", {
+        day: "numeric", month: "long", hour: "2-digit", minute: "2-digit",
+      });
+}
+
 async function start() {
   let data;
   try {
-    data = await (await fetch("data.json")).json();
+    // cache: "no-cache" laat de browser altijd bij de server navragen (ETag,
+    // dus meestal een goedkope 304). Zonder dit hield de browser data.json
+    // vast en zag je oud werk terwijl de site allang bijgewerkt was — alleen
+    // met een harde refresh te omzeilen, en dat kun je van niemand vragen.
+    data = await (await fetch("data.json", { cache: "no-cache" })).json();
   } catch (err) {
     $("laden").textContent = "het atelier is even niet bereikbaar";
     return;
   }
 
+  toonBijgewerkt(data.bijgewerkt);
   toonOnderzoek(data.onderzoek);
   toonStroom(data);
   toonEerder(data.afgesloten || []);

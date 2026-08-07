@@ -365,6 +365,9 @@ footer {
   font-size: 0.9rem;
 }
 footer p { margin: 0; max-width: 34rem; }
+/* Discreet, maar altijd zichtbaar: hieraan zie je of je naar een verse of een
+   gecachete kopie kijkt. */
+footer .bijgewerkt { margin-top: 0.75rem; opacity: 0.55; font-size: 0.85em; }
 
 /* ------------------------------------------------------------ lichtbak */
 

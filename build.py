@@ -17,6 +17,7 @@ from __future__ import annotations
 import argparse
 import json
 import sqlite3
+from datetime import datetime
 from pathlib import Path
 
 from PIL import Image
@@ -178,6 +179,10 @@ def main() -> None:
         oud.unlink()
 
     data = {
+        # Zonder tijdstempel is van buitenaf niet te zien of je naar een verse
+        # of een gecachete kopie kijkt — dat kostte een avond zoeken naar een
+        # storing die aan de browsercache lag. De pagina toont dit in de voet.
+        "bijgewerkt": datetime.now().astimezone().isoformat(timespec="minutes"),
         "werk": _verwerk_reeks(werk, BREEDTE, "w"),
         "afgekeurd": _verwerk_reeks(afgekeurd, BREEDTE_AFGEKEURD, "a"),
         **praktijk,
