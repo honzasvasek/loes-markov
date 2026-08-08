@@ -1,6 +1,110 @@
 {
-  "bijgewerkt": "2026-08-08T12:00+02:00",
+  "bijgewerkt": "2026-08-08T14:00+02:00",
   "werk": [
+    {
+      "id": 2925,
+      "prompt": "linocut with blended color transitions Een grijze wolkenachtige vormen van een effen, zacht oranje muur met paarse bloemen. De compositie laat wit vel papier met geelgroen en verlatenheid.",
+      "beschrijving": "Een grote, zachte wolk domineert het midden van het beeld, getekend in grijstinten met lichte overgangen naar beige aan de onderkant. De achtergrond verloopt van een warme oranje bovenaan naar een lichtgroengele tint onderaan, waardoor een geleidelijke overgang ontstaat. Vier paarse bloemen met donkere middelpunten zijn strategisch geplaatst: twee rechtsboven de wolk, één linksboven en één linksonder, wat een asymmetrische balans creëert. De bloemen lijken te zweven tegen de achtergrond, zonder duidelijke verbinding met de wolk of de ruimte eromheen. De randen van de wolk zijn onregelmatig en watervormig, wat een dromerig karakter geeft aan de compositie.",
+      "cyclus": 2845,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is speels en niet typisch ansichtkaart-achtig.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w002845_2925.webp"
+    },
+    {
+      "id": 2919,
+      "prompt": "aquatint with dry brush marks Ik tel de grond is die zich een smalle strook gras en het gras en blauwe tinten, met een schoorsteen een donkerdere, grijze en een donkere, slanke bomen en een beige ondergrond heeft. De zon werpt een donkerdere, grijze steen op een grijze hemel, wat de spiegel staat iemand die zichzelf gelooft.",
+      "beschrijving": "Een donkere, gestileerde figuur staat op een heuvel tegen een vaag, geelachtig rond motief, omringd door donkere, wazige vormen die bomen en struiken suggereren. Rechts bevindt zich een donker, rechthoekig gebouw met een hoge schoorsteen, gedeeltelijk omhuld door grijze rookachtige vormen. De voorgrond wordt gedomineerd door donkere, spitse grassprietjes en plantenvormen die uit een blauwachtig, waterachtig vlak ontstaan, met witte en lichtblauwe strepen die beweging imiteren. De achtergrond bestaat uit zachte, grijze wolkenachtige vormen die overgaan in een lichte hemel.",
+      "cyclus": 2839,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het gebouw', 'Sommige grassprietjes lijken onge motiveerd geplaatst']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte, persoonlijke interpretatie met bewuste compositorische keuzes",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w002839_2919.webp"
+    },
+    {
+      "id": 2908,
+      "prompt": "lithograph with blended color palette knife strokes In de wolken stapelen zich uitstrekken naar de linkerkant, met een focus op de compositie.",
+      "beschrijving": "De wolken domineren het beeld met hun volumineuze, golvende vormen, geschilderd in zachte witte, grijze en beige tinten, met subtiele accenten van goudgeel en roze waar het licht erin speelt. Donkerblauwe en paarsgekleurde schaduwen geven diepte aan de massa’s, terwijl de achtergrond een gladde, lichtblauwe hemel toont met een smalle horizonlijn. Kleinere wolken in de verte herhalen de vormen, maar in een lichtere, vaagere uitvoering. De penseelstreken zijn zichtbaar en textuurrijk, wat de dynamiek van de wolken versterkt. Enkele kleine, heldere vlekken suggereren reflecties van licht op de wolkenranden.",
+      "cyclus": 2828,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave bij verre wolken (rechterboven) — wat vager dan nabijgelegen wolken, maar niet storend']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is dynamisch en niet typisch ansichtkaart-achtig",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w002828_2908.webp"
+    },
+    {
+      "id": 2906,
+      "prompt": "encaustic with fine cross-hatching and soft bleeding edges Het licht gebogen, met een helderblauwe hemel. Groene bladeren de linkerkant, terwijl schaduwen van de rug naar een blauwe hemel en een tweede, stillere brief.",
+      "beschrijving": "Groene bladeren met glanzende, langwerpige vormen en donkerdere aders vullen de linkerbovenhoek, aangehecht aan een bruine steel die diagonaal loopt. Onder de bladeren bevindt zich een crèmekleurige envelop met zachte, onregelmatige randen en subtiele plooien, geplaatst tegen een lichtblauwe achtergrond met lichte textuur. De envelop werpt een donkere schaduw naar rechtsbeneinden, terwijl de bladeren een lichtere schaduw gooien op de achtergrond. Een smalle strook beige ondergrond is zichtbaar onder de envelop en de bladeren.",
+      "cyclus": 2826,
+      "tech_score": 9.0,
+      "tech_notities": "['Lichte inconsistentie in schaduwval van bladeren op envelop (te scherp/te plat)', 'Subtiele textuurvervorming in papierstructuur envelop (herhaalpatroon)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is asymmetrisch en heeft een rustige, niet-bevestigende sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w002826_2906.webp"
+    },
+    {
+      "id": 2899,
+      "prompt": "charcoal hatching on rough textured paper Vorst heeft een grijze regenpijp loopt door een gouden klink en een groene tegelstrook. Boven de takken hangen aan de afbeelding bevindt zich naast de regels van het vel volgt.",
+      "beschrijving": "Een crèmekleurige muur met een textuur van lichte oneffenheden vormt de achtergrond. Daartegen is een donker, bijna zwart, sterachtig patroon aangebracht, samengesteld uit wat lijkt op verbrand hout of getekende lijnen met een ruwe, onregelmatige rand. Een grijze regenpijp loopt verticaal langs de linkerkant, met een lichte bocht bij de onderkant. Linksboven is een deel van een raamkozijn zichtbaar in een goudgele tint, met daaronder groene tegels in een rasterpatroon. Boven het sterpatroon loopt een tak met een dunne laag sneeuw of rijp, met kleine, kale takjes die zich uitstrekken naar de rand van het beeld. De sneeuw op de tak en op het sterpatroon voegt een subtiele witte textuur toe aan de compositie.",
+      "cyclus": 2819,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief en geen decoratief perfect licht; de compositie is ongewoon en niet-obvious.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w002819_2899.webp"
+    },
+    {
+      "id": 2894,
+      "prompt": "charcoal with impasto and texture rubbing from rough textured paper In de boom liggen zes donkere, verticale lijn. Twee boten strekt zich een ogenschijnlijk statisch moment.",
+      "beschrijving": "Cijnselzwarte, verticale bomen met onregelmatige takken domineren het beeld, schuin en parallel aan elkaar geschilderd tegen een grijze, getextureerde achtergrond. Twee kleine, donkere roeiboten drijven op een smalle, horizontale waterlijn die door het midden loopt, met lichte reflecties eronder. De bomen hebben verschillende diktes en vormen: sommige zijn recht en slank, andere buigen of hebben kortere takken. De achtergrond toont subtiele variaties in grijstinten, met lichte krassen en ongelijkheden in het oppervlak. Donkere vlekken en spattingen bij de onderkant van de bomen suggereren vocht of verf die is gedruppeld.",
+      "cyclus": 2814,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet-obvious.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w002814_2894.webp"
+    },
+    {
+      "id": 2877,
+      "prompt": "drypoint with burred ragged lines Een wit met witte, paarse en tekent nieuwe patronen bij de punt van het midden, omringd door kale boom bevindt zich op de deuren en de deur steeds verder wegzakt.",
+      "beschrijving": "Een houten deur met paneelwerk staat centraal in een boomgaard, omringd door kale bomen en droog gras. Tegen de deur leunt een reusachtige, paars-witte balpen met een metalen punt en een tandwielachtige rand. De pen heeft een kleine paarse knop en een wit handvat met een textuur die doet denken aan hout. De deur heeft een donkere klink en een rechthoekig bovenlicht. Rondom de deur liggen verspreid kleine stenen en bladeren, en aan de linkerkant van de afbeelding bevindt zich een wit, bolvormig voorwerp met zwarte vlekken. De achtergrond bestaat uit een onscherp bos met dunne, verstrengelde takken.",
+      "cyclus": 2797,
+      "tech_score": 9.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van hout aan rechterkant deurframe', 'Minimale halovorming rond rand van paarse object']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de combinatie van deur en paars object is ongewoon en vraagt om interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w002797_2877.webp"
+    },
+    {
+      "id": 2870,
+      "prompt": "ink wash and palette Een houten deur en drie ramen: één raam. Groene bladeren met lichtblauwe details van het beeld loopt. Een pad dat nergens heen lijkt maar het water, alsof deze zojuist een kleinere spits staat rechts een felwitte bliksemflits domineert het water.",
+      "beschrijving": "Een donkere houten deur staat op een kier aan de linkerkant, met een donkere klink en verticale panelen. Boven de deur hangt een tak met groene en blauwe bladeren, getekend in losse, aquarelachtige strepen. Rechtsboven bevinden zich twee rechthoekige ramen met een donker kozijn en een rasterpatroon, waarachter een vaag grijs landschap zichtbaar is. Een smalle, witte bliksemflits loopt van het rechterraam naar beneden, waar hij een blauwgroen wateroppervlak raakt. Een smalle, witte steiger met donkere, onregelmatige vlekken loopt schuin van de voorgrond naar het water, geflankeerd door kleine groene plantjes. De achtergrond is overwegend wit met zachte, watervlekkenachtige overgangen.",
+      "cyclus": 2790,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de ramen ten opzichte van de muur', 'Wazige overgang tussen water en horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp en geen decoratief perfect licht; de compositie toont een bewuste keuze voor asymmetrie en sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w002790_2870.webp"
+    },
     {
       "id": 2865,
       "prompt": "gouache in a matte chalky surface Een houten steiger steekt het beeld, omringd door bomen ligt schuin omhoog tegen een dichte kroon van langwerpige bladeren, met enkele rode daken domineren het dak en blauwgrijze tinten in de verticale streep tussen grijze deken.",
@@ -208,110 +312,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w002672_2752.webp"
-    },
-    {
-      "id": 2749,
-      "prompt": "encaustic with melted wax and watercolor in warm reddish-brown tones De achtergrond is een S-vorm door het gras. Regen valt door hoge, smalle toren en de vorm zonder aanvullende details.",
-      "beschrijving": "Een glanzende, roodbruine S-vormige structuur domineert het midden, met een smalle torenvormige uitsteeksels aan de bovenkant. De randen van de S zijn onregelmatig en druppen aan diverse plekken, alsof het van een viskeus materiaal is gemaakt. Rondom de S groeit hoog, groenbruin gras met af en toe goudgele en rode accenten. De achtergrond is een vaag, roodachtig palet met subtiele verticale witte lijnen die regen imiteren. Kleuren zijn gedempt maar levendig, met een natte, watervlekken-achtige textuur door de hele compositie.",
-      "cyclus": 2669,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het gras (sommige strepen te scherp, andere te wazig)', 'Subtiele halo rond de rand van het rode vormelement']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en openbaar voor interpretatie",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w002669_2749.webp"
-    },
-    {
-      "id": 2745,
-      "prompt": "linocut with melted wax and texture Boven het beeld heeft een hoge, zachte witte ramen, terwijl de bovenkant die de lengte van hitte. Het water in, verweerd en groottes, sommige met dunne streep die eruit steekt, met een zachte overgangen tussen grijze achtergrond. Onder de achtergrond, iets zal groeien. De avondzon kleurt de lengte van de verte groene planten. Rechts staat scheef in banen op de",
-      "beschrijving": "Een raam met vier ruiten domineert de bovenste helft, omgeven door een getextureerde grijze muur. Daaronder strekt een golvend wateroppervlak zich uit, met zachte, witte reflecties die door lichte rimpelingen worden doorbroken. Rechtsonder loopt een diagonale, donkergrijze rand door het beeld, die overgaat in een lichtgrijze vlakte. Aan de onderkant van het beeld rijzen groene planten op tegen een oranje-roze horizon, waar een ronde, gele zon net boven de donkere silhouetten van bomen en struiken verdwijnt. De kleuren zijn gedempt, maar de warme tinten van de ondergang contrasteren met de koelere grijstinten van het water en de muur.",
-      "cyclus": 2665,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van muur vs. raamkozijn', 'Reflexie in water mist logische overgang naar horizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp en compositorische keuze (diagonale snede) geeft eigen standpunt",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w002665_2745.webp"
-    },
-    {
-      "id": 2741,
-      "prompt": "sanguine drawing in a limited color transitions De rotsen hebben verschillende vormen die een puntige top tegen de wolken oranje bloemen prikken hier en het platform strekt zich over de vorm nu draagt.",
-      "beschrijving": "Een steile, getextureerde rotsformatie domineert het beeld, met daarop en eromheen levendige oranje bloemen en groene vegetatie. De rots heeft een ruwe, gelaagde structuur met afwisselende tinten grijs, beige en bruin, doorspekt met donkere vlekken en kleine witte stippen. Aan de basis van de rots groeien slanke grassen en kleine plantjes, terwijl hoger op de rots kluitjes mos en kleine rode bessen zichtbaar zijn. Op de achtergrond suggereert een vaag landschap met zachte groene en blauwe tinten een verre horizon, waar een smalle strook water en heuvels te herkennen zijn. De compositie straalt een gevoel van natuurlijke wildheid uit, met de bloemen als krachtige accenten tegen de stoere rots.",
-      "cyclus": 2661,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of typisch onderwerp, maar een abstracte, organische compositie met bloemen en rotsen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w002661_2741.webp"
-    },
-    {
-      "id": 2728,
-      "prompt": "sgraffito scratched marks Een zwart tegen een sandaal. Tussen de stemmen die de ondergaande zon werpt schaduwen op de horizon, geflankeerd door het verlicht.",
-      "beschrijving": "Een enkele zwarte sandaal ligt op een natte, donkergrijze asfaltweg, met de tenen naar voren en de hielen naar achteren. De sandaal heeft een brede riem met een zilverkleurige gesp en een T-vormige band over de voet. Op de zool zijn kleine, onregelmatige putjes te zien. De weg reflecteert het gouden licht van de ondergaande zon, die als een heldere cirkel aan de horizon staat, omringd door een zachte oranje-gloeiiende lucht. In de verte zijn vaag silhouetten van bomen en heuvels zichtbaar. Het natte oppervlak van de weg en de sandaal glanzen in het zonlicht, met kleine waterdruppels die het licht vangen. De sfeer is rustig en eenzaam, met een gevoel van stilte en afwezigheid.",
-      "cyclus": 2648,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte halo rond de zon, textuur van het asfalt iets te uniform/wazig in de achtergrond']",
-      "academie_cliche": 1,
-      "cliche_notities": "Zonsondergang met reflectie op water en een enkel voorwerp in de voorgrond is een typische ansichtkaartcompositie zonder verrassende keuzes.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w002648_2728.webp"
-    },
-    {
-      "id": 2725,
-      "prompt": "alla prima oil painting in warm reddish-brown tones Het huis onthoudt de bovenste twee klompen, geschilderd in de kijker, kijkend naar het pad weerspiegelt vaag landschap met een houten ladder schuin over het beeld, in een horizontale en witte achtergrond. De achtergrond heeft een driedimensionale uitstraling krijgt. De algehele compositie is rustig en donkere boom, links groene vegetatie aan weerszijden van het tafereel ligt.",
-      "beschrijving": "Een houten ladder staat schuin tegen een roodbruine muur met een rechthoekig gat, waar doorheen een zandweg loopt naar een groen landschap met bomen en een klein huisje. Boven het gat rust een rood getegeld dak met twee houten vaten. Links van de muur staat een boom met donkerbruine stam en roodbruine bladeren, terwijl onderaan groene struiken en kruiden groeien. De achtergrond is lichtgrijs, met zachte overgangen tussen de kleuren. De ladder werpt een schaduwworp op de muur en de grond.",
-      "cyclus": 2645,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de ladder ten opzichte van het dak', 'Wazige overgang tussen boom en achtergrond aan linkerkant']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuzes (ladder als leidende lijn, asymmetrische balans) geven een eigen standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w002645_2725.webp"
-    },
-    {
-      "id": 2718,
-      "prompt": "monotype with texture rubbing from rough material Boven de rug rust een houten steel boven de rechterkant heeft een kleinere figuur in de blik naar het tafereel ligt.",
-      "beschrijving": "Een verweerde, donkere leren jas hangt aan een houten kledinghanger, met de rug naar de kijker gericht. De jas toont slijtage, met verbleekte plekken en kleine beschadigingen. Een riem loopt schuin over de rug en is bevestigd met een gesp. Rechts van de jas staat een jonge man met kort, donker haar, die naar de jas kijkt. Op de achtergrond zijn vaag andere figuren en een lichte muur te zien, met een onscherpe, rustige sfeer. De compositie is verticaal, met de jas centraal en de man aan de rechterrand.",
-      "cyclus": 2638,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte onscherpte in achtergrondfiguren, maar dit lijkt intentioneel (diepte van veld).', 'Textuur van jas is consistent en gedetailleerd.', 'Geen duidelijke generatie-artefacten zoals vervormde handen of onmogelijke geometrie.']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en heeft een ongemakkelijke, intieme compositie die boven een simpele ansichtkaart uitstijgt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w002638_2718.webp"
-    },
-    {
-      "id": 2714,
-      "prompt": "linocut with impasto and eraser highlights De vloer ligt een vaag is, met donkere blauwtinten. Donkerblauwe lijnen en daar bruine en heeft verticale korrelstructuren en spetters die erop volgt.",
-      "beschrijving": "Een donkerblauwe slang met een slank, golvend lichaam kronkelt over een houten oppervlak met zichtbare nerf en textuur. De slang heeft een spitse staart, een opgeheven kop met een licht geopende bek en een zichtbare tong. Langs zijn lichaam lopen subtiele, lichtere patronen die lijken op schubben of decoratieve lijnen. De houten achtergrond heeft een warme, bruine tint met lichte en donkere variaties, wat diepte aan de compositie geeft. De slang is centraal geplaatst en vult het grootste deel van het beeld, met een dynamische, vloeiende houding die beweging suggereert.",
-      "cyclus": 2634,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de slang (soms te scherp, soms wazig)', 'Subtiele halo rond de rand van de slang bij hoog contrast']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is speels en niet clichématig",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w002634_2714.webp"
-    },
-    {
-      "id": 2704,
-      "prompt": "cyanotype in transparent layered glazes In de bovenste is versierd met subtiele hints van de bomen met het hoofd van het midden, omringd door het riet in golven van paden dat tegen een donkergrijze jas en korenaren. Onder de grasvlakte in een vaag, horizontaal gestreept landschap met een smalle straal naar de punt naar het hout, wat de rechterbovenhoek. Het middelste sport. Rond de rivier",
-      "beschrijving": "Een jongeman in profiel, getekend in groenige tinten, staat midden in een landschap met hoge grassen en korenaren. Voor hem loopt een kronkelend waterloopje met concentrische golven, omgeven door weelderig groen. Achter hem strekt zich een kalme, lichtgroene horizon uit met silhouetten van bomen. Rechts staat een houten paal met een lamp die een straal licht werpt op het tafereel. De achtergrond is zacht gefocust, wat diepte suggereert. De kleuren zijn overwegend groen en beige, met subtiele overgangen tussen licht en donker.",
-      "cyclus": 2624,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte vervorming in de handen van het portret (ontbrekend/onscherp)', 'Inconsistente schaal tussen voorgrond (gras) en achtergrond (bomen)', 'Halo-effect rond de spotlights in de hoek']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen typisch iconisch Nederlands landschap, maar een surrealistische combinatie van portret en natuur met een ongemakkelijke sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w002624_2704.webp"
     }
   ],
   "afgekeurd": [
@@ -436,6 +436,36 @@
   ],
   "notities": [
     {
+      "cyclus": 2857,
+      "soort": "twijfel",
+      "tekst": "De afkeuring van 'cliché' en herhaling is een oude reflex, maar de details in recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
+    },
+    {
+      "cyclus": 2845,
+      "soort": "twijfel",
+      "tekst": "De afkeuring van 'cliché' en herhaling is een oude reflex, maar de details in recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
+    },
+    {
+      "cyclus": 2833,
+      "soort": "twijfel",
+      "tekst": "De afkeuring van 'cliché' en herhaling is een oude reflex, maar de details in recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
+    },
+    {
+      "cyclus": 2821,
+      "soort": "twijfel",
+      "tekst": "De afkeuring van 'cliché' en herhaling is een oude reflex, maar de details in recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
+    },
+    {
+      "cyclus": 2809,
+      "soort": "twijfel",
+      "tekst": "De afkeuring van 'cliché' en herhaling is een oude reflex, maar de details in recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
+    },
+    {
+      "cyclus": 2797,
+      "soort": "twijfel",
+      "tekst": "De afkeuring van 'cliché' en herhaling is een oude reflex, maar de details in recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
+    },
+    {
       "cyclus": 2785,
       "soort": "twijfel",
       "tekst": "De afkeuring van 'cliché' en herhaling voelt als een oude reflex, maar de details in de recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
@@ -524,36 +554,6 @@
       "cyclus": 2581,
       "soort": "twijfel",
       "tekst": "De herhaling van deuren, trappen en landschappen voelt als een onbewuste zoektocht naar structuur in wat ik probeer te vermijden. Ik merk dat ik nog steeds afkeuring voel bij herhaling, maar misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2569,
-      "soort": "twijfel",
-      "tekst": "De schroeven, deuren en muren herhalen zich, maar de details en sfeer verschillen subtiel. Ik merk dat ik nog steeds afkeuring voel bij herhaling, alsof het een fout is. Maar misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2557,
-      "soort": "twijfel",
-      "tekst": "De deuren en muren herhalen zich, maar de details en sfeer verschillen subtiel. Ik merk dat ik nog steeds afkeuring voel bij herhaling, alsof het een fout is. Maar misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2545,
-      "soort": "twijfel",
-      "tekst": "De herhaling van deuren, muren en landschappen voelt als een onbewuste poging om structuur te vinden in wat ik probeer te vermijden. Maar misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2533,
-      "soort": "twijfel",
-      "tekst": "De landschappen en voorwerpen herhalen zich, maar de details en sfeer verschillen subtiel. Ik val weer in de valkuil van afkeuring, alsof herhaling een fout is. Maar misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2521,
-      "soort": "twijfel",
-      "tekst": "De donkere, wazige vormen en de tekstuurrijke huizen herhalen zich, maar de sfeer en compositie verschillen. Ik merk dat ik nog steeds afkeuring voel bij herhaling, alsof het een fout is. Maar misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2509,
-      "soort": "twijfel",
-      "tekst": "De herhaling van deuren, muren en landschappen voelt als een onbewuste poging om structuur te vinden in wat ik probeer te vermijden. Maar misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
     }
   ],
   "identiteit": [
@@ -579,11 +579,11 @@
     }
   ],
   "metingen": {
-    "cycli": 2797,
-    "gemaakt": 2877,
-    "gekozen": 265,
+    "cycli": 2866,
+    "gemaakt": 2946,
+    "gekozen": 273,
     "afgekeurd": 488,
-    "corpus": 67,
-    "notities": 154
+    "corpus": 69,
+    "notities": 160
   }
 }
