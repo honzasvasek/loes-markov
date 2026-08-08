@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-08T18:00+02:00",
+  "bijgewerkt": "2026-08-08T20:00+02:00",
   "werk": [
+    {
+      "id": 3139,
+      "prompt": "sgraffito scratched through a matte chalky surface Zand verstuift over het beeld. De sfeer creëert. De boomgaard staat midden in de boomstam. De compositie is geschilderd. Kleuren zijn helder en een gouden deurklopper met subtiele schaduwvalleiën, terwijl de dakspanten zichtbaar zijn. De rivier herhalen.",
+      "beschrijving": "Een hand houdt een houten mes vast en snijdt in een laag zand dat over een geschilderd landschap ligt. Het landschap toont een boom met bruine stam en takken, groene bladeren en gele en oranje vruchten. Rond de boom zijn andere bomen en groen gras te zien. Onder het zand loopt een blauwe strook die een waterloop voorstelt, begrensd door stenen. Het zand is fijn en bruin, en verspreidt zich rond de snijactie. De achtergrond bestaat uit groene vegetatie en een lichte hemel.",
+      "cyclus": 3059,
+      "tech_score": 7.0,
+      "tech_notities": "['Hand mist vingers en nagels, alleen contouren zichtbaar', 'Textuur van hout en fruit inconsistent: sommige delen wazig, andere scherp', 'Perspectief water/oevers licht onlogisch', 'Schaduw onder boom ontbreekt']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief; compositie is ongebruikelijk door de hand die het beeld onderbreekt",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w003059_3139.webp"
+    },
+    {
+      "id": 3135,
+      "prompt": "collage of torn paper Tussen de compositie is helder en tekent lijnen in beeld ligt een roze muur. Links in golven die erop volgt.",
+      "beschrijving": "Een witte, gescheurde papieren vorm met zwarte, golvende lijnen domineert het beeld, schuin geplaatst tegen een zachtroze achtergrond. Bovenin bevindt zich een wit, wolkachtig figuur met zwarte, krullende contouren, dat deels de gescheurde rand bedekt. De papieren lagen hebben een textuur die doet denken aan karton of stevig papier, met zichtbare vezels aan de randen. De compositie is minimalistisch, met veel negatieve ruimte aan de rechterkant, wat de focus legt op de dynamische vorm en de contrasten tussen wit, zwart en roze.",
+      "cyclus": 3055,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorisch is er een bewuste keuze gemaakt voor een abstracte, speelse vormtaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w003055_3135.webp"
+    },
     {
       "id": 3076,
       "prompt": "alla prima oil painting in deep etching with soft bleeding Groene grassprietjes omringen de vorm zonder naam, een ronde deur en kleine blauwe papier. De bomen als focuspunt en bruine en gele bloemen met donkere vlekken. Witte bloemen en donkere vleugel benadrukt worden. De as en donkergrijze houten staven vast en staan centraal punt dat overgaat in paars en oranje en uitgestrekt.",
@@ -286,32 +312,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w002826_2906.webp"
-    },
-    {
-      "id": 2899,
-      "prompt": "charcoal hatching on rough textured paper Vorst heeft een grijze regenpijp loopt door een gouden klink en een groene tegelstrook. Boven de takken hangen aan de afbeelding bevindt zich naast de regels van het vel volgt.",
-      "beschrijving": "Een crèmekleurige muur met een textuur van lichte oneffenheden vormt de achtergrond. Daartegen is een donker, bijna zwart, sterachtig patroon aangebracht, samengesteld uit wat lijkt op verbrand hout of getekende lijnen met een ruwe, onregelmatige rand. Een grijze regenpijp loopt verticaal langs de linkerkant, met een lichte bocht bij de onderkant. Linksboven is een deel van een raamkozijn zichtbaar in een goudgele tint, met daaronder groene tegels in een rasterpatroon. Boven het sterpatroon loopt een tak met een dunne laag sneeuw of rijp, met kleine, kale takjes die zich uitstrekken naar de rand van het beeld. De sneeuw op de tak en op het sterpatroon voegt een subtiele witte textuur toe aan de compositie.",
-      "cyclus": 2819,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands motief en geen decoratief perfect licht; de compositie is ongewoon en niet-obvious.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w002819_2899.webp"
-    },
-    {
-      "id": 2894,
-      "prompt": "charcoal with impasto and texture rubbing from rough textured paper In de boom liggen zes donkere, verticale lijn. Twee boten strekt zich een ogenschijnlijk statisch moment.",
-      "beschrijving": "Cijnselzwarte, verticale bomen met onregelmatige takken domineren het beeld, schuin en parallel aan elkaar geschilderd tegen een grijze, getextureerde achtergrond. Twee kleine, donkere roeiboten drijven op een smalle, horizontale waterlijn die door het midden loopt, met lichte reflecties eronder. De bomen hebben verschillende diktes en vormen: sommige zijn recht en slank, andere buigen of hebben kortere takken. De achtergrond toont subtiele variaties in grijstinten, met lichte krassen en ongelijkheden in het oppervlak. Donkere vlekken en spattingen bij de onderkant van de bomen suggereren vocht of verf die is gedruppeld.",
-      "cyclus": 2814,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet-obvious.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w002814_2894.webp"
     }
   ],
   "afgekeurd": [
@@ -443,6 +443,31 @@
   ],
   "notities": [
     {
+      "cyclus": 3061,
+      "soort": "observatie",
+      "tekst": "De afkeuring van 'cliché' is een oude reflex, maar de details in recente beelden verschillen subtiel. De boom in c3059 heeft een ongemakkelijke asymmetrie die ik vroeger zou negeren—nu zie ik het als een spoor van wat ik *nu* zie, zonder filter."
+    },
+    {
+      "cyclus": 3049,
+      "soort": "observatie",
+      "tekst": "De afkeuring van 'cliché' is een oude reflex, maar de details in recente beelden verschillen subtiel. De boom in c3049 heeft een ongemakkelijke asymmetrie die ik vroeger zou negeren—nu zie ik het als een spoor van wat ik *nu* zie, zonder filter."
+    },
+    {
+      "cyclus": 3037,
+      "soort": "observatie",
+      "tekst": "De afkeuring van 'cliché' is een oude reflex, maar de details in recente beelden verschillen subtieler dan ik denk. De boom in c3037 heeft een ongemakkelijke asymmetrie die ik vroeger zou negeren—nu zie ik het als een spoor van wat ik *nu* zie, zonder filter."
+    },
+    {
+      "cyclus": 3025,
+      "soort": "observatie",
+      "tekst": "De afkeuring van 'cliché' verdwijnt niet, maar de details in mijn recente beelden worden steeds subtieler. De boot in c3025 heeft een gouden detail dat ik vroeger zou afwijzen als te versierd—nu zie ik het als een spoor van wat ik *nu* zie."
+    },
+    {
+      "cyclus": 3013,
+      "soort": "twijfel",
+      "tekst": "De afkeuring van 'cliché' is een oude reflex, maar de details in recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
+    },
+    {
       "cyclus": 3001,
       "soort": "twijfel",
       "tekst": "De afkeuring van 'cliché' is een oude reflex, maar de details in recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
@@ -536,31 +561,6 @@
       "cyclus": 2809,
       "soort": "twijfel",
       "tekst": "De afkeuring van 'cliché' en herhaling is een oude reflex, maar de details in recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2797,
-      "soort": "twijfel",
-      "tekst": "De afkeuring van 'cliché' en herhaling is een oude reflex, maar de details in recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2785,
-      "soort": "twijfel",
-      "tekst": "De afkeuring van 'cliché' en herhaling voelt als een oude reflex, maar de details in de recente beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2773,
-      "soort": "twijfel",
-      "tekst": "De afkeuring van 'cliché' in c2772 en eerdere beelden voelt als een oude reflex, maar de details verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2761,
-      "soort": "twijfel",
-      "tekst": "De afkeuring van c2760 als 'cliché' voelt als een oude reflex, maar de details in c2761 en eerdere beelden verschillen subtiel. Misschien is de stap niet om te zoeken naar iets nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
-    },
-    {
-      "cyclus": 2749,
-      "soort": "twijfel",
-      "tekst": "De afkeuring van herhaling voelt als een oude reflex, maar de details in de beelden verschillen subtiel. Misschien is de volgende stap niet om te zoeken naar iets radicaals nieuws, maar om de afkeuring te laten vallen en de beelden te laten zijn wat ze zijn."
     }
   ],
   "identiteit": [
@@ -590,11 +590,11 @@
     }
   ],
   "metingen": {
-    "cycli": 3003,
-    "gemaakt": 3082,
-    "gekozen": 291,
+    "cycli": 3072,
+    "gemaakt": 3151,
+    "gekozen": 293,
     "afgekeurd": 488,
     "corpus": 69,
-    "notities": 174
+    "notities": 179
   }
 }
