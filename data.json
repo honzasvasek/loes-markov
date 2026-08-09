@@ -1,125 +1,143 @@
 {
-  "bijgewerkt": "2026-08-09T22:00+02:00",
+  "bijgewerkt": "2026-08-10T00:00+02:00",
   "werk": [
     {
-      "id": 3999,
-      "titel": "Wit licht, witte kleding",
-      "beschrijving": "Een smalle, blauwgrijze kamer met een open deur aan de rechterkant, waar door een helder wit licht straalt. Op de vensterbank, direct onder het raam, hangen twee naakte benen met witte kleding tot net boven de knieën, alsof iemand net door het raam is geklommen. Het houten vloerbeslag is lichtbruin, met een zachte schaduw die van de deur naar het midden van de kamer loopt. De muren zijn glad en donkerder bij het plafond, met een subtiele textuur die aan verweerd pleisterwerk doet denken. Een klein, donker voorwerp ligt op de vloer, net buiten de straal van het licht. De sfeer is stil en verlaten, met een gevoel van onverwachte afwezigheid.",
-      "cyclus": 3923,
+      "id": 4072,
+      "titel": "Vlucht boven de vuist",
+      "beschrijving": "Donkerbruine en zwarte koolblokken vormen een onregelmatige hoop in het onderste deel, met scherpe randen en glimmende, korrelige oppervlakken. Boven hen vliegt een V-formatie van negen vogels met grijze en bruine veren, uitgespreide vleugels en spitse snavels, tegen een egale, lichtbeige achtergrond. De vogels bewegen zich van linksboven naar rechtsonder, terwijl de kool een statische, zware textuur uitstraalt. Verspreid tussen de kool blokken liggen kleine, donkere korrels en fragmenten van hout of kool. De compositie contrasteert de dynamiek van de vogels met de rust van de kool.",
+      "cyclus": 3997,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in vogelvormen (sommige vleugels te gelijkmatig)', 'Subtiele halo rond houtblokken tegen achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op textuur en contrast, niet op een bevestigend beeld",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w003997_4072.webp"
+    },
+    {
+      "id": 4068,
+      "titel": "Waar blijft de sleutel?",
+      "beschrijving": "Een houten deur met donkere knoesten en een zwarte deurkruk staat centraal, omringd door een schemerlandschap met een oranje-zonsondergang boven een donkerblauwe baai. Links van de deur staat een houten ladder met vier sporten, rechts een verbrande houten plank met zwartgeblakerde randen. Voor de deur liggen verspreid houten latten en twee ronde houten schijfjes. Witte, prikende grassprietjes met een kristallijne textuur raken de onderkant van het beeld. Drie oranje herfstbladeren en drie glinsterende waterdruppels zweven in de lucht. De achtergrond toont een horizon met donkere bomen en een zachte overgang van roze naar blauwe wolken.",
+      "cyclus": 3993,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van hout aan rechterkant deur (te scherp vs. wazig)', 'Waterspiegel achter deur mist logische overgang naar horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een surrealistische compositie met symbolische elementen",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w003993_4068.webp"
+    },
+    {
+      "id": 4058,
+      "titel": "Handen die de as vasthouden",
+      "beschrijving": "Donkere, korrelige grond bedekt met verkoolde houten fragmenten en fijn asachtig materiaal. Twee handen rusten aan weerskanten van een smalle, golvende richel van donkere, bijna zwarte aarde die zich als een slangenlichaam door het midden van het beeld uitstrekt. Aan de linkerkant steken droge, bruine grassprietjes uit de grond, terwijl rechts verspreide koolstofblokjes en kleine steentjes liggen. Bovenaan is een deel van een donkere laars zichtbaar, alsof iemand net stapt. De ruggen van de vingers en de nagels zijn duidelijk zichtbaar, met een natuurlijke huidtextuur die contrasteert met de ruwe, verbrande omgeving. Het licht valt schuin, waardoor de textuur van de grond en de handen schaduwen werpen die diepte geven aan het tafereel.",
+      "cyclus": 3983,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van houtsnippers vs. as', 'Handen iets te scherp gedetailleerd ten opzichte van achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op sporen van verdwijnen, niet op bevestiging.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w003983_4058.webp"
+    },
+    {
+      "id": 4050,
+      "titel": "Wat loopt er uit het enveloppe?",
+      "beschrijving": "Een wit enveloppe ligt centraal op een grijze achtergrond, met aan de linkerkant een kleine houten ladder. Bovenop het enveloppe bevindt zich een ronde, doorschijnende vorm met bruine vlekken, een rode rechthoekige vlek en een zwarte, druppelvormige vloeistof die naar beneden loopt. Een platte, ovale steen rust op het midden van het enveloppe. De compositie combineert geometrische vormen met organische elementen en textuurcontrasten, waarbij de kleuren rood, zwart, bruin en beige opvallen tegen de neutrale achtergrond.",
+      "cyclus": 3975,
       "tech_score": 9.0,
       "tech_notities": "",
       "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en uitnodigend voor interpretatie, geen bevestiging.",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
       "curriculum_score": 8.0,
       "gekozen": 1,
-      "bestand": "images/w003923_3999.webp"
+      "bestand": "images/w003975_4050.webp"
     },
     {
-      "id": 3996,
-      "titel": "Reflexie in porselein",
-      "beschrijving": "Een glanzende, blauwe vaas met twee golvende, bruine handvatten staat centraal. Uit de vaas steken twee houten stelen omhoog, schuin naar boven gericht. De achtergrond bestaat uit donkerblauwe en grijze penseelstreken, met een lichte, bijna witte ondergrond die de vaas omringt. De vaas werpt een donkere schaduw naar rechtsbeneden. De handvatten hebben een ornamentele, bijna klassieke vorm met kleine, ronde details aan de bovenkant. De blauwe kleur van de vaas varieert van licht tot donker, met witte reflecties die de glans benadrukken. De houten stelen hebben een natuurlijke, lichtbruine textuur met zichtbare vezels.",
-      "cyclus": 3920,
+      "id": 4049,
+      "titel": "Verf en veerkracht",
+      "beschrijving": "Een verweerde rode houten deur met afblazende verf en een donkere metalen kruk bevindt zich in een ruwe betonnen muur. Rechts van de deur ontsnapt levendig groen gras tussen de stenen, terwijl gladde grijze keizers verspreid liggen op een effen turkooise achtergrond. De deur heeft drie rechthoekige panelen en een schuine bovenrand, omgeven door een onregelmatige betonnen lijst met losse stenen en putten. Het gras lijkt door een smalle spleet tussen muur en deur te groeien, met een scherpe overgang tussen de harde textuur van beton en de zachte, natuurlijke vormen.",
+      "cyclus": 3974,
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de handvatten: het linkerhandvat lijkt niet natuurlijk verbonden met de vaas, alsof het in een andere vlak staat.', 'Textuur van het hout in de stelen is wat plat en ontbreekt aan subtiel korreldetail, wat typisch is voor snelle generatie.']",
+      "tech_notities": "['Lichte inconsistentie in textuur van muur vs. deurkozijn', 'Gras aan rechterkant iets te uniform/wazig bij rand']",
       "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie toont bewuste keuzes (bijv. de asymmetrische handvatten en de focus op sporen van gebruik), geen standaardansichtkaartlicht.",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie heeft een ongemakkelijke, denkprikkende sfeer",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w003974_4049.webp"
+    },
+    {
+      "id": 4042,
+      "titel": "Turkoois met muzieknoten en keien",
+      "beschrijving": "Een scheur in het beeld onthult een turkoois vlak met donkere cirkels, naast een wit muurtje met een raam en een mosiekaan dier. Onderaan golft water over een strand met gladde, grijze keien, terwijl rechts groen gras met bruine bladeren en een takje het beeld doorkomt. Muzieknoten lopen over de linkerhoek, waar papier met een onregelmatige rand de overgang vormt tussen de verschillende lagen. Een droog blad ligt op het gras, en een stukje hout steekt schuin omhoog.",
+      "cyclus": 3967,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het gras bij de overgang naar het water', 'Mogelijke halo rond de rand van het blauwe papier tegen de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie toont een persoonlijke mix van elementen zonder decoratief perfect licht.",
       "curriculum_score": 7.0,
       "gekozen": 1,
-      "bestand": "images/w003920_3996.webp"
+      "bestand": "images/w003967_4042.webp"
     },
     {
-      "id": 3991,
-      "titel": "Inkt die ontdoet van woorden",
-      "beschrijving": "Een wit rechthoekig vel papier ligt centraal tussen hoge, slanke grasstengels met zachte, veerkrachtige bloemkoppen aan weerskanten. Op het papier bevindt zich een onregelmatige, donkere vlek met een organische vorm, alsof ink of roet zich heeft verspreid. De vlek heeft een wazige, bijna rokerige textuur met donkerdere en lichtere zones, en kleine druppels die vanaf de randen lijken te spatten. Het papier contrasteert scherp met de natuurlijke achtergrond, waarbij de grasstengels een subtiele, verticale structuur vormen die de compositie omlijst. De sfeer is rustig en contemplatief, met een focus op de onvoorspelbaarheid van de vlek tegen de heldere, lege ruimte van het papier.",
-      "cyclus": 3915,
-      "tech_score": 9.0,
-      "tech_notities": "",
+      "id": 4040,
+      "titel": "Palm die vraagt om antwoord",
+      "beschrijving": "Een open hand met gespreide vingers domineert het beeld, met de palm naar voren gericht. De huid toont subtiele roze en beige tinten, met zichtbare lijnen en textuur. De nagels zijn kort en ongelijkvormig, waarbij de duimnagel een lichte glans heeft. De achtergrond bestaat uit een getextureerd, grijs oppervlak met lichte variaties in tint, bijna waterkleurig. In de hoeken bevinden zich decoratieve elementen: linksboven een zwart-wit geruit patroon, rechtsonder gouden glitters. Een vaag, donker silhouet van een hand ligt onder de echte hand, alsof het een schaduw of reflectie is. Kleurrijke spattingen en vage cirkels zijn verspreid over de achtergrond.",
+      "cyclus": 3965,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte vervorming in de vingerspitsen (onnatuurlijke afplatting)', 'Inconsistente schaduwwerking onder de hand (te scherp/te donker)', 'Korrelige textuur in achtergrond lijkt kunstmatig toegevoegd']",
       "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op abstractie en sporen, niet op een bevestigend beeld.",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, niet-verhalende close-up.",
       "curriculum_score": 8.0,
       "gekozen": 1,
-      "bestand": "images/w003915_3991.webp"
+      "bestand": "images/w003965_4040.webp"
     },
     {
-      "id": 3989,
-      "titel": "Gouden sterren op huid",
-      "beschrijving": "Een naakt vrouwelijk lichaam staat centraal, met een lichte huidtextuur en subtiele schaduwen die de vormen benadrukken. Op de borsten en de linkerzijde van de romp bevinden zich kleine, gouden bolletjes, verspreid als sterren. De achtergrond is donkerbruin, wat het lichaam doet uitkomen. De sfeer is rustig en intiem, met een focus op de textuur en vorm van het lichaam en de onverklaarde aanwezigheid van de pot.",
-      "cyclus": 3913,
+      "id": 4031,
+      "titel": "Wie tekent deze grens?",
+      "beschrijving": "Een hand houdt een donkere steel vast, verbonden met takken die over een ingelijst portret lopen. Het portret toont een gezicht met grote, uitdrukkelijke ogen en fijne wimpers, gedeeltelijk bedekt door donkere, waterverfachtige vlekken. De achtergrond van het portret is licht, met zachte overgangen. Het houten lijstwerk omlijst het beeld, met zichtbare houtvezels en knoesten. Onder het portret loopt een houten plank, eveneens met natuurlijke textuur. De takken en steel vormen een diagonale lijn door het beeld, terwijl de hand in de hoek een menselijk element toevoegt. De sfeer is rustig en introspectief, met een mix van organische en gestructureerde vormen.",
+      "cyclus": 3956,
       "tech_score": 8.0,
-      "tech_notities": "['Hand iets wazig/geautomatiseerd ogend, vingers niet duidelijk gedifferentieerd', 'Textuur huid iets te glad/uniform voor olieverf-stijl', 'Pot met label heeft lichte vervorming in perspectief']",
+      "tech_notities": "['Lichte inconsistentie in schaduwen van de takken ten opzichte van de lichtbron', 'Textuur van het houten lijstwerk iets te uniform/gedigitaliseerd']",
       "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch/toeristisch onderwerp en geen decoratief perfect licht; de combinatie van naakt met pot en gouden sporen is ongewoon en roept vragen op.",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en uitnodigend voor interpretatie",
       "curriculum_score": 9.0,
       "gekozen": 1,
-      "bestand": "images/w003913_3989.webp"
+      "bestand": "images/w003956_4031.webp"
     },
     {
-      "id": 3987,
-      "titel": "Rook en prikkeldraad tussen de pannendaken",
-      "beschrijving": "Twee blauwe pannendaken flankeren een smalle, kronkelende weg met gele en witte tinten, omgeven door groene vegetatie. Een donkere, prikkeldraadachtige structuur loopt verticaal tussen de daken door, met een horizontale houten balk erboven. Op de achtergrond staan witte gebouwen met donkere daken en een spitse toren met een kruis. Rook stijgt op van een schoorsteen aan de linkerkant, terwijl de hemel lichte wolken toont. De scène heeft een rustige, iets verlaten sfeer met een mix van natuurlijke en architectonische elementen.",
-      "cyclus": 3911,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de kerktoren ten opzichte van omringende daken', 'Enkele dakkapellen hebben onduidelijke/vervormde ramen']",
+      "id": 4028,
+      "titel": "Licht door de spleet",
+      "beschrijving": "Een gesloten, rechthoekige deur met paneelwerk en een metalen kruk bevindt zich centraal in een getextureerde muur, omringd door donkere, organische vormen die planten en bladeren suggereren. Boven de deur stralen lichte, zachte lijnen uit, alsof licht door een opening valt. Donkere vlekken en spatelsporen verspreiden zich over het beeld, met enkele gevallen bladeren die voorbij de deur zweven. Een smalle, witte band loopt horizontaal door het midden, de scène in twee delen splijten. De achtergrond bestaat uit een mix van grijstinten met subtiele patronen, terwijl de voorgrond donkerder en gedetailleerder is.",
+      "cyclus": 3953,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de muur rond de deur', 'Enkele bladeren en planten hebben onnatuurlijke, vervormde vormen', 'Stralenpatroon in de achtergrond is iets te symmetrisch en kunstmatig']",
       "academie_cliche": 0,
-      "cliche_notities": "Geen typisch ansichtkaartmotief: de compositie is onrustig en de focus ligt op een ongewone hoek (vanuit de dakgoot) in plaats van een iconisch uitzicht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w003911_3987.webp"
-    },
-    {
-      "id": 3984,
-      "titel": "Spitse bladeren, glanzende stenen",
-      "beschrijving": "Een witte achtergrond met een grijze, wazige wolk in de bovenhoek. Rechts staat een rode, verticale structuur met een schuine rand, waar donkerblauwe, spitse bladeren uit steken. Daaronder liggen bruine en grijze rotsen, verspreid met kleine, glanzende stenen in rood, blauw en bruin. Een blauwachtig vlak met een wit kruisje bevindt zich midden-links, omgeven door horizontale bruine en grijze strepen die water of modder suggereren. Een klein groen plantje groeit bij de rotsen. De compositie combineert scherpe en zachte vormen, met een mix van natuurlijke en kunstmatige elementen.",
-      "cyclus": 3908,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de horizonlijn', 'Wazige overgang tussen wolken en achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuzes zijn onorthodox en niet bevestigend.",
+      "cliche_notities": "Het beeld heeft een surrealistische, introspectieve sfeer die beyond een typische ansichtkaart gaat",
       "curriculum_score": 9.0,
       "gekozen": 1,
-      "bestand": "images/w003908_3984.webp"
-    },
-    {
-      "id": 3973,
-      "titel": "Spetters in de gang",
-      "beschrijving": "Een smalle, donkere gang met houten wanden en een nat, glimmend oppervlak dat reflecties van licht vasthoudt. In het midden spettert een donkere vloeistof omhoog in een dynamische, bijna bevroren beweging, met druppels die in de lucht hangen en een onregelmatige, organische vorm vormen. Rondom de spettering verspreiden zich kleinere plassen en sporen van de vloeistof, die het oppervlak ongelijkmatig maken. De achtergrond vervaagt in een onscherpe, donkere deur of opening, wat diepte aan de scène geeft. De kleuren zijn grotendeels gedempt, met accenten van zilver en bruin in de reflecties en het hout.",
-      "cyclus": 3897,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de vloer (overgang nat/droog iets wazig)', 'Enkele druppels hebben onnatuurlijke, te scherpe randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstract moment van ontbinding, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w003897_3973.webp"
-    },
-    {
-      "id": 3970,
-      "titel": "Pen die dromen vormt",
-      "beschrijving": "Een glanzende, metalen kever met blauw-paarse tinten ligt op zand, omringd door een witte, schuimachtige massa met blauwe, golvende patronen. Een hand met een zwarte pen raakt de kever aan, alsof de pen de schuimvorming veroorzaakt. Groene grassprietjes steken aan weerskanten uit het zand, en kleine steentjes en droge plantendelen liggen verspreid. Het schuim heeft een glimmende, bijna vloeibare textuur met fijne bubbels en druppels die naar beneden lopen. De kever heeft gedetailleerde, stekelige poten en antennes, en zijn pantser reflecteert licht met een regenboogachtige gloed. De achtergrond is onscherp, met vaag zichtbaar groen en beige.",
-      "cyclus": 3894,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaal tussen kever en omringende textuur', 'Hand met pen iets te perfect gepositioneerd, wat artificieel overkomt']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de combinatie van kever, sporen en menselijke interventie is onverwacht en heeft een eigen standpunt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w003894_3970.webp"
-    },
-    {
-      "id": 3965,
-      "titel": "Schaduw die spreekt",
-      "beschrijving": "Een groene, cilindervormige ventilatiepijp met een ronde flens rust tegen een strakke, blauwe muur. De pijp werpt een scherp, donkerblauwe schaduw die diagonaal over de muur loopt en overgaat in een lichtere, witte zone. Onder de pijp bevindt zich een grijze, getextureerde vloer met een smalle, donkere lijst die de overgang met de muur markeert. Rechtsboven is een smalle strook groen gras zichtbaar, met daarboven een grijze, gestreepte weg die afloopt naar de horizon. De compositie wordt gedomineerd door rechte lijnen en heldere kleuren, met een contrast tussen de industriële pijp en de schone, minimalistische achtergrond.",
-      "cyclus": 3889,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de muur (overgang blauw-wit) lijkt kunstmatig gesmeerd', 'Schaduw aan rechterkant mist subtieler overgang naar licht (te scherp afgebakend)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en focust op vorm en licht in plaats van herkenbare iconografie.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w003889_3965.webp"
+      "bestand": "images/w003953_4028.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 4055,
+      "cyclus": 3980,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de toren ten opzichte van het kerkgebouw', 'Wazige overgang tussen hemel en wolken aan de horizon']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch kerkbeeld bij zonsondergang met decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a003980_4055.webp"
+    },
+    {
+      "id": 4033,
+      "cyclus": 3958,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Klassiek kerkportret met vogels in vlucht en gouden uur-licht, zonder onverwachte compositorische keuzes of thematische diepgang.",
+      "bestand": "images/a003958_4033.webp"
+    },
     {
       "id": 3961,
       "cyclus": 3885,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de wieken ten opzichte van de molen', 'Enkele handen/gezichten ontbreken (niet relevant hier)', 'Texturen wat wazig in de achtergrondwolken']",
       "cliche_notities": "Molen met tulpenachtige vegetatie en decoratief licht herinnert aan typische Nederlandse ansichtkaarten",
       "bestand": "images/a003885_3961.webp"
-    },
-    {
-      "id": 3958,
-      "cyclus": 3882,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de kerk aan de rechterkant', 'Wazige overgang tussen hemel en wolken']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch kerkje onder een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a003882_3958.webp"
-    },
-    {
-      "id": 3947,
-      "cyclus": 3870,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Wazige overgangen tussen houttextuur en achtergrond', 'Inconsistent perspectief bij de windmolen bovenaan', 'Onduidelijke details in de schaduw van de steen']",
-      "cliche_notities": "Molens en typisch Nederlands landschap in een decoratieve, ansichtkaartachtige compositie zonder duidelijke persoonlijke interpretatie.",
-      "bestand": "images/a003870_3947.webp"
     }
   ],
   "onderzoek": {
@@ -289,10 +289,10 @@
     }
   ],
   "metingen": {
-    "cycli": 3935,
-    "gemaakt": 4010,
-    "gekozen": 424,
-    "afgekeurd": 577,
+    "cycli": 4000,
+    "gemaakt": 4074,
+    "gekozen": 439,
+    "afgekeurd": 579,
     "corpus": 69,
     "notities": 247
   }
