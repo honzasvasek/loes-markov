@@ -92,10 +92,15 @@ function toonWerk(werk) {
 }
 
 function werkHtml(w) {
+  // Titel en beschrijving, geen prompt: de prompt is machinerie en zei de
+  // bezoeker niets over het beeld. Wat er wél toe doet is hoe zij het noemt en
+  // wat zij erin ziet.
+  const titel = w.titel ? `<h3 class="titel">${esc(w.titel)}</h3>` : "";
   return `
     <figure><img src="${esc(w.bestand)}" loading="lazy" alt="${esc(w.beschrijving)}"></figure>
-    <p class="opdracht">${esc(w.prompt)}</p>
-    <p class="cyclus">cyclus ${w.cyclus}${w.gekozen ? " · dit liet ik zien" : ""}</p>`;
+    ${titel}
+    <p class="gezien">${esc(w.beschrijving)}</p>
+    <p class="cyclus">cyclus ${w.cyclus}</p>`;
 }
 
 function toonGedachten(notities) {

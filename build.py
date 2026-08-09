@@ -47,7 +47,7 @@ def selecteer_werk(conn: sqlite3.Connection, aantal: int) -> list[dict]:
     oeuvre, maar dat groeit langzaam. De rest komt uit de pool, herkenbaar als
     niet-gekozen, zodat zichtbaar blijft wat ze maakt náást wat ze ervan de
     moeite waard vond."""
-    velden = ("id, pad, prompt, beschrijving, cyclus, tech_score, tech_notities, "
+    velden = ("id, pad, titel, beschrijving, cyclus, tech_score, tech_notities, "
               "academie_cliche, cliche_notities, curriculum_score")
     gekozen = _rijen(
         conn,
@@ -73,7 +73,7 @@ def selecteer_afgekeurd(conn: sqlite3.Connection, aantal: int) -> list[dict]:
     mislukkingen is een etalage."""
     return _rijen(
         conn,
-        """SELECT id, pad, prompt, cyclus, afkeuringsreden, tech_score, tech_notities,
+        """SELECT id, pad, cyclus, afkeuringsreden, tech_score, tech_notities,
                   cliche_notities
            FROM beelden WHERE afkeuringsreden IS NOT NULL
            ORDER BY cyclus DESC LIMIT ?""",
