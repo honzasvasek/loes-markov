@@ -134,155 +134,88 @@ body {
   margin-right: 0.6rem;
 }
 
-/* ------------------------------------------------------------- filters */
+/* ------------------------------------------------------------- secties */
 
-.filters {
-  max-width: var(--breedte);
-  margin: 0 auto 2.5rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-.filters button {
-  background: none;
-  border: 1px solid var(--lijn);
-  color: var(--dof);
-  padding: 0.35rem 0.85rem;
-  border-radius: 999px;
-  font: inherit;
-  font-size: 0.82rem;
-  cursor: pointer;
-  transition: color 0.15s, border-color 0.15s;
-}
-.filters button:hover { color: var(--inkt); border-color: var(--dof); }
-.filters button.actief { color: var(--papier); background: var(--inkt); border-color: var(--inkt); }
-
-/* -------------------------------------------------------------- stroom */
-
-.stroom {
-  max-width: var(--breedte);
-  margin: 0 auto;
-}
+main { max-width: var(--breedte); margin: 0 auto; }
+main section { margin-bottom: 4.5rem; }
 .laden { color: var(--dof); }
 
-.item {
-  position: relative;
-  padding: 0 0 3.5rem 4.5rem;
-}
-.item::before {
-  content: attr(data-cyclus);
-  position: absolute;
-  left: 0;
-  top: 0.35rem;
-  font-size: 0.72rem;
-  letter-spacing: 0.06em;
-  color: var(--dof);
-  font-variant-numeric: tabular-nums;
-}
-.item::after {
-  content: "";
-  position: absolute;
-  left: 3rem;
-  top: 0.55rem;
-  bottom: -0.5rem;
-  width: 1px;
-  background: var(--lijn);
-}
-.item:last-child::after { display: none; }
+/* ---------------------------------------------------------------- werk */
 
-@media (max-width: 34rem) {
-  .item { padding-left: 0; padding-bottom: 3rem; }
-  .item::before { position: static; display: block; margin-bottom: 0.6rem; }
-  .item::after { display: none; }
+/* Eén raster in plaats van de oude doorlopende stroom: het werk staat bij
+   elkaar en het nieuwste bovenaan, zodat je niet eerst langs weggegooid
+   werk en aantekeningen moet scrollen. */
+.raster {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 2.5rem 1.75rem;
 }
+.raster.klein { grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); gap: 1.5rem 1.25rem; }
 
-/* gedachte — haar stem */
-.gedachte .soort {
-  display: block;
-  margin-bottom: 0.5rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--accent);
-}
-.gedachte p {
-  margin: 0;
-  font-family: ui-serif, Georgia, "Times New Roman", serif;
-  font-size: 1.28rem;
-  line-height: 1.55;
-  max-width: 34rem;
-}
-
-/* werk */
-.werk figure { margin: 0; }
-.werk img {
+.kaart figure { margin: 0; }
+.kaart img {
   display: block;
   width: 100%;
-  max-width: 30rem;
   height: auto;
   border-radius: 2px;
   cursor: zoom-in;
   background: var(--lijn);
 }
-.werk.gekozen img { box-shadow: 0 0 0 1px var(--papier), 0 0 0 3px var(--accent); }
+.kaart .opdracht {
+  margin: 0.7rem 0 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: var(--dof);
+  word-break: break-word;
+}
+.kaart .cyclus {
+  margin: 0.4rem 0 0;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  color: var(--dof);
+  font-variant-numeric: tabular-nums;
+}
 
-.stempel {
-  display: inline-block;
-  margin-bottom: 0.65rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.14em;
+/* ----------------------------------------------------------- gedachten */
+
+.gedachte { margin-bottom: 2.25rem; }
+.gedachte p:first-child {
+  margin: 0;
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  font-size: 1.22rem;
+  line-height: 1.55;
+  max-width: 36rem;
+}
+.gedachte .cyclus {
+  margin: 0.4rem 0 0;
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--accent);
 }
-.stempel.stil { color: var(--dof); }
 
-.opdracht {
-  margin: 0.9rem 0 0;
-  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-  font-size: 0.76rem;
-  line-height: 1.55;
-  color: var(--dof);
-  max-width: 32rem;
-  word-break: break-word;
-}
-.opdracht .label {
-  display: block;
-  font-family: inherit;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  font-size: 0.66rem;
-  margin-bottom: 0.25rem;
-  opacity: 0.7;
-}
-.gezien {
-  margin: 0.9rem 0 0;
-  max-width: 32rem;
-  line-height: 1.6;
-}
-.oordeel {
-  margin: 0.75rem 0 0;
-  font-size: 0.82rem;
-  color: var(--dof);
-  max-width: 32rem;
-}
+/* --------------------------------------------------------- weggegooid */
 
-/* weggegooid */
-.weg img {
-  max-width: 17rem;
+.weg-uitleg {
+  margin: 0 0 1.5rem;
+  max-width: 34rem;
+  color: var(--dof);
+  font-size: 0.9rem;
+}
+.weg-sectie .kaart img {
   filter: grayscale(0.65) contrast(0.92);
-  opacity: 0.72;
+  opacity: 0.7;
   transition: filter 0.25s, opacity 0.25s;
 }
-.weg img:hover { filter: none; opacity: 1; }
-.weg .stempel { color: var(--weg); }
-.weg .reden {
-  margin: 0.75rem 0 0;
-  max-width: 32rem;
-  font-size: 0.9rem;
+.weg-sectie .kaart img:hover { filter: none; opacity: 1; }
+.weg-sectie .reden {
+  margin: 0.5rem 0 0;
+  font-size: 0.78rem;
+  line-height: 1.45;
   color: var(--dof);
-  border-left: 2px solid var(--lijn);
-  padding-left: 0.9rem;
 }
+
 
 /* --------------------------------------------------- eerder / identiteit */
 

@@ -10,7 +10,7 @@ LOG="$REPO_ROOT/logs/site-refresh.log"
 cd "$REPO_ROOT"
 echo "=== $(date -Iseconds) ===" >> "$LOG"
 
-"$REPO_ROOT/.venv/bin/python" site/build.py --aantal 24 >> "$LOG" 2>&1
+"$REPO_ROOT/.venv/bin/python" site/build.py >> "$LOG" 2>&1
 
 cd "$REPO_ROOT/site"
 git add -A

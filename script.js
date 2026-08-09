@@ -1,6 +1,10 @@
-// Het atelier: gedachten, werk en weggegooid werk door elkaar, op cyclus
-// gesorteerd. De volgorde is bewust chronologisch en niet per soort gegroepeerd
-// — juist de afwisseling van denken en maken is wat er te zien valt.
+// Het atelier, in vaste secties: eerst het nieuwste werk, dan wat ze zichzelf
+// schreef, dan wat is weggegooid.
+//
+// Dit was eerst één stroom waarin werk, gedachten en afgekeurd werk op
+// cyclusnummer door elkaar stonden. Dat leverde 56 items op waarvan het bovenste
+// meestal een weggegooid beeld was — je landde op de mislukkingen in plaats van
+// op het werk. De afwisseling was het idee; de chaos was het gevolg.
 
 const $ = (id) => document.getElementById(id);
 
@@ -47,11 +51,12 @@ async function start() {
 
   toonBijgewerkt(data.bijgewerkt);
   toonOnderzoek(data.onderzoek);
-  toonStroom(data);
+  toonWerk(data.werk || []);
+  toonGedachten(data.notities || []);
+  toonWeg(data.afgekeurd || []);
   toonEerder(data.afgesloten || []);
   toonIdentiteit(data.identiteit || []);
   toonMetingen(data.metingen || {});
-  wireFilters();
   wireLichtbak();
 }
 
@@ -59,7 +64,6 @@ function toonOnderzoek(o) {
   if (!o) return;
   $("onderzoek-titel").textContent = o.titel;
   $("onderzoek-vraag").textContent = o.vraag;
-  $("onderzoek-aanleiding").textContent = o.aanleiding || "";
   const uitleg =
     o.modus === "uitputten"
       ? "ik bijt me hierin vast en melk het uit"
@@ -69,56 +73,49 @@ function toonOnderzoek(o) {
   $("onderzoek").hidden = false;
 }
 
-function toonStroom(data) {
-  const items = [];
-
-  for (const n of data.notities || []) {
-    items.push({ cyclus: n.cyclus, soort: "gedachten", html: gedachteHtml(n) });
-  }
-  for (const w of data.werk || []) {
-    items.push({ cyclus: w.cyclus, soort: "werk", html: werkHtml(w), beeld: w });
-  }
-  for (const a of data.afgekeurd || []) {
-    items.push({ cyclus: a.cyclus, soort: "afgekeurd", html: wegHtml(a), beeld: a });
-  }
-
-  items.sort((a, b) => b.cyclus - a.cyclus);
-
-  const stroom = $("stroom");
-  stroom.innerHTML = "";
+function vulRaster(el, items, maakHtml, opBeeld) {
+  el.innerHTML = "";
   for (const item of items) {
-    const el = document.createElement("article");
-    el.className = `item ${item.soort === "gedachten" ? "gedachte" : "werk"}`;
-    if (item.soort === "afgekeurd") el.classList.add("weg");
-    if (item.beeld && item.beeld.gekozen) el.classList.add("gekozen");
-    el.dataset.cyclus = `c${item.cyclus}`;
-    el.dataset.soort = item.soort;
-    el.innerHTML = item.html;
-    const img = el.querySelector("img");
-    if (img && item.beeld) img.addEventListener("click", () => openLichtbak(item.beeld));
-    stroom.appendChild(el);
+    const kaart = document.createElement("article");
+    kaart.className = "kaart";
+    kaart.innerHTML = maakHtml(item);
+    const img = kaart.querySelector("img");
+    if (img) img.addEventListener("click", () => opBeeld(item));
+    el.appendChild(kaart);
   }
-  $("filters").hidden = false;
 }
 
-function gedachteHtml(n) {
-  return `<span class="soort">${esc(n.soort)}</span><p>${esc(n.tekst)}</p>`;
+function toonWerk(werk) {
+  // data.json levert al op cyclus aflopend; niet opnieuw sorteren, dan blijft
+  // er één plek waar de volgorde vandaan komt.
+  vulRaster($("werk"), werk, werkHtml, openLichtbak);
 }
 
 function werkHtml(w) {
-  const stempel = w.gekozen
-    ? '<span class="stempel">dit liet ik zien</span>'
-    : '<span class="stempel stil">gemaakt, niet gekozen</span>';
-  const gebreken = lijstjeUitNotities(w.tech_notities);
-  const oordeel = gebreken.length
-    ? `<p class="oordeel">Wat er technisch niet klopt: ${esc(gebreken.join("; "))}.</p>`
-    : "";
   return `
-    ${stempel}
     <figure><img src="${esc(w.bestand)}" loading="lazy" alt="${esc(w.beschrijving)}"></figure>
-    <p class="opdracht"><span class="label">de zin die ik mezelf gaf</span>${esc(w.prompt)}</p>
-    <p class="gezien">${esc(w.beschrijving)}</p>
-    ${oordeel}`;
+    <p class="opdracht">${esc(w.prompt)}</p>
+    <p class="cyclus">cyclus ${w.cyclus}${w.gekozen ? " · dit liet ik zien" : ""}</p>`;
+}
+
+function toonGedachten(notities) {
+  if (!notities.length) return;
+  $("gedachten-lijst").innerHTML = notities
+    .map(
+      (n) => `
+      <article class="gedachte">
+        <p>${esc(n.tekst)}</p>
+        <p class="cyclus">${esc(n.soort)} · cyclus ${n.cyclus}</p>
+      </article>`
+    )
+    .join("");
+  $("gedachten").hidden = false;
+}
+
+function toonWeg(afgekeurd) {
+  if (!afgekeurd.length) return;
+  vulRaster($("weg-lijst"), afgekeurd, wegHtml, openLichtbak);
+  $("weg").hidden = false;
 }
 
 function wegHtml(a) {
@@ -126,15 +123,9 @@ function wegHtml(a) {
     a.afkeuringsreden === "cliche"
       ? a.cliche_notities
       : lijstjeUitNotities(a.tech_notities).join("; ");
-  const kop =
-    a.afkeuringsreden === "cliche"
-      ? "weggegooid — te veel ansichtkaart"
-      : "weggegooid — technisch kapot";
   return `
-    <span class="stempel">${esc(kop)}</span>
     <figure><img src="${esc(a.bestand)}" loading="lazy" alt="Afgekeurd werk uit cyclus ${a.cyclus}"></figure>
-    <p class="opdracht"><span class="label">de zin die ik mezelf gaf</span>${esc(a.prompt)}</p>
-    ${reden ? `<p class="reden">${esc(reden)}</p>` : ""}`;
+    <p class="reden">${esc(reden || (a.afkeuringsreden === "cliche" ? "te veel ansichtkaart" : "technisch kapot"))}</p>`;
 }
 
 function toonEerder(lijst) {
@@ -160,7 +151,9 @@ function toonIdentiteit(versies) {
     .map(
       (v, i) => `
       <details${i === 0 ? " open" : ""}>
-        <summary><span>versie ${v.versie}</span><span>${i === 0 ? "nu" : "eerder"}</span></summary>
+        <summary><span>${v.versie === 0 ? "grondslag" : "versie " + v.versie}</span><span>${
+          v.versie === 0 ? "vast" : i === 0 ? "nu" : "eerder"
+        }</span></summary>
         <pre>${esc(v.tekst.replace(/^#.*\n/, "").trim())}</pre>
       </details>`
     )
@@ -184,19 +177,6 @@ function toonMetingen(m) {
   if (!rijen) return;
   $("metingen-lijst").innerHTML = rijen;
   $("metingen").hidden = false;
-}
-
-function wireFilters() {
-  const knoppen = document.querySelectorAll(".filters button");
-  knoppen.forEach((knop) => {
-    knop.addEventListener("click", () => {
-      knoppen.forEach((k) => k.classList.toggle("actief", k === knop));
-      const filter = knop.dataset.filter;
-      document.querySelectorAll(".stroom .item").forEach((item) => {
-        item.hidden = filter !== "alles" && item.dataset.soort !== filter;
-      });
-    });
-  });
 }
 
 function openLichtbak(beeld) {

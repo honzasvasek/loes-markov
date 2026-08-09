@@ -18,6 +18,7 @@ import argparse
 import json
 import sqlite3
 from datetime import datetime
+from difflib import SequenceMatcher
 from pathlib import Path
 
 from PIL import Image
@@ -93,18 +94,60 @@ def lees_praktijk(conn: sqlite3.Connection) -> dict:
             "SELECT titel, vraag, bevinding, begonnen_cyclus, geeindigd_cyclus "
             "FROM onderzoeken WHERE status = 'afgesloten' ORDER BY id DESC LIMIT 8",
         ),
-        "notities": _rijen(
-            conn, "SELECT cyclus, soort, tekst FROM notities ORDER BY id DESC LIMIT 24"
+        "notities": _ontdubbel_notities(
+            _rijen(conn, "SELECT cyclus, soort, tekst FROM notities ORDER BY id DESC LIMIT 40"),
+            aantal=6,
         ),
         "identiteit": _lees_identiteit(),
         "metingen": _metingen(conn),
     }
 
 
+def _ontdubbel_notities(rijen: list[dict], aantal: int) -> list[dict]:
+    """Houd alleen notities over die echt iets nieuws zeggen.
+
+    De atelier-laag schreef lange tijd haar vorige notitie vrijwel woordelijk
+    over (opeenvolgende paren zaten op ratio 1.00 en 0.94), en de site liet die
+    herhaling één op één zien. Aan de bron is dat inmiddels afgevangen, maar de
+    geschiedenis staat nog vol duplicaten — en één zeef aan de leeskant blijft
+    hoe dan ook verstandig.
+
+    Twee maten, want één volstond niet: op de hele tekst gemeten kwamen vijf
+    notities die allemaal met dezelfde zin beginnen ("De schaal barst niet
+    vanzelf, maar…") op 0.54-0.65 uit en glipten er dus doorheen, terwijl hun
+    openingen 0.72-0.91 gelijk waren. Juist die opening maakt het lezen
+    herhalend. (Dezelfde twee maten zitten in atelier.notitie_te_gelijk; deze
+    map is een eigen repo en importeert bewust niets uit loes/.)
+    """
+    def kop(t: str) -> str:
+        return " ".join(t.split()[:12])
+
+    gekozen: list[dict] = []
+    for rij in rijen:
+        tekst = " ".join((rij.get("tekst") or "").split()).lower()
+        if not tekst:
+            continue
+        eerder = [" ".join(g["tekst"].split()).lower() for g in gekozen]
+        if any(SequenceMatcher(None, tekst, e).ratio() > 0.55 for e in eerder):
+            continue
+        if any(SequenceMatcher(None, kop(tekst), kop(e)).ratio() > 0.7 for e in eerder):
+            continue
+        gekozen.append(rij)
+        if len(gekozen) >= aantal:
+            break
+    return gekozen
+
+
 def _lees_identiteit() -> list[dict]:
     """Alle identiteitsversies. Ze herschrijft haar eigen persona zonder
     goedkeuringsstap; het spoor is de verantwoording, dus het hoort op de site."""
     versies = []
+    # De grondslag hoort er als versie 0 bij: dat is het deel dat vastligt en
+    # dat zij níét schrijft. Juist het verschil tussen "wat ik ben" en "wie ik
+    # denk te zijn" is wat deze rubriek laat zien.
+    grondslag = REPO / "identiteit" / "grondslag.md"
+    if grondslag.exists():
+        versies.append({"versie": 0, "tekst": grondslag.read_text(encoding="utf-8")})
     for bestand in (REPO / "identiteit").glob("identity_v*.md"):
         if bestand.name.endswith(".concept.md"):
             continue
@@ -163,8 +206,10 @@ def _verwerk_reeks(rijen: list[dict], breedte: int, voorvoegsel: str) -> list[di
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--aantal", type=int, default=18)
-    parser.add_argument("--afgekeurd", type=int, default=8)
+    # Minder is hier beter: 24 werken + 8 afgekeurd + 24 notities werd één
+    # onoverzichtelijke muur. Negen beelden lezen als een keuze.
+    parser.add_argument("--aantal", type=int, default=9)
+    parser.add_argument("--afgekeurd", type=int, default=3)
     args = parser.parse_args()
 
     conn = sqlite3.connect(DB_PAD)
