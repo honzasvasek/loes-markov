@@ -1,151 +1,151 @@
 {
-  "bijgewerkt": "2026-08-11T00:00+02:00",
+  "bijgewerkt": "2026-08-11T02:00+02:00",
   "werk": [
     {
-      "id": 4827,
-      "titel": "Bloemen op de drempel",
-      "beschrijving": "Een houten deur met verticale lamellen en donkere metalen scharnieren en een handgreep. Aan de linkerkant van de deur bevindt zich een stapel donkere, onregelmatige blokken met een glanzende, bijna natte textuur. Deze blokken lijken van steen of gehard materiaal te zijn en hebben verschillende groottes en vormen. Tussen de blokken en de deur is een wit rechthoekig vlak zichtbaar, dat deels door de blokken wordt bedekt. De achtergrond is wit en de vloer is grijs. De compositie is statisch en de sfeer is neutraal en minimalistisch.",
-      "cyclus": 4753,
+      "id": 4899,
+      "titel": "Thee die de zwaartekracht uitdaagt",
+      "beschrijving": "Een raam met twee ruiten, gescheiden door een donkere houten lijst. Bovenin een blauwe hemel met zachte, oranjegetinte wolken. Onderin vier kopjes thee, waarvan twee in de lucht zweven en middenin scheuren in witte en donkere fragmenten. Twee kopjes rusten op schoteltjes aan de onderkant, licht getint met een blauwe gloed. Het glas heeft een lichte korreligheid, alsof het beeld door een oude lens is vastgelegd. De kopjes hebben een klassieke vorm met een handvat, en de scheuring straalt een dynamische beweging uit tegen de statische achtergrond.",
+      "cyclus": 4825,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de koppen (handvatten wijzen in verschillende richtingen zonder logische reden)', 'Subtiele halo rond de randen van de gebroken koppen tegen de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een realistisch vensterbeeld met een surrealistisch element (drijvende, brekende koppen), wat boven een standaard-ansichtkaart uitgaat.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w004825_4899.webp"
+    },
+    {
+      "id": 4894,
+      "titel": "Donkere druppels op zand",
+      "beschrijving": "Een donkere vloeistof spettert op een zandige, golvende vlakte, waarbij druppels en een kroonvormige splat zich uitstrekken over het zand. Op de achtergrond liggen donkere, onduidelijke vormen die doen denken aan silhouetten van gebouwen en bomen tegen een egale, lichte hemel. De compositie combineert de dynamiek van de vloeistof met de statische, bijna woeste landschapsvormen, waarbij het zand de textuur van een fijn, korrelig oppervlak heeft. De sfeer is rustig maar met een onderliggende spanning door de bevroren beweging van de spetterende vloeistof.",
+      "cyclus": 4820,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte vervorming in achtergrondlandschap (bomen/huizen lijken gesmeerd)', 'Textuur zand wat kunstmatig/herhalend', 'Contrast tussen splash en achtergrond iets te scherp, halo-effect bij randen splash']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; compositie is ongebruikelijk en heeft een eigen standpunt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w004820_4894.webp"
+    },
+    {
+      "id": 4889,
+      "titel": "Zand en deur in lagen",
+      "beschrijving": "Drie horizontale lagen woestijnschappen, gescheiden door gescheurde witte randen, vullen het beeld. De bovenste laag toont zandduinen onder een bleekblauwe hemel, met subtiele golven in het zand en een vaag zonlicht aan de horizon. De middelste laag herhaalt de duinen, maar met verspreide groene struiken en meer textuur in het zand. De onderste laag presenteert een houten dubbeldeur, centraal geplaatst, omgeven door zand en lage vegetatie. De deur, donkerbruin met zichtbare houtvezels en een zwarte klink, staat op een kleine stenen basis. De achtergrond bestaat uit zandduinen en een helderblauwe lucht. De gescheurde randen tussen de lagen suggereren een laagstructuur, alsof elk schap een afzonderlijk moment of perspectief vastlegt.",
+      "cyclus": 4815,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van zand tussen de lagen (bovenste laag gladder dan onderste)', 'Schaduw onder de deur iets te scherp/getekend voor natuurlijk licht']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschapsonderwerp, maar een surrealistische compositie met een onverklaarde deur, wat een eigen standpunt suggereert.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w004815_4889.webp"
+    },
+    {
+      "id": 4888,
+      "titel": "Takken die praten met het water",
+      "beschrijving": "Twee houten deuren staan wijd open op een houten steiger die uitsteekt boven rustig water. De linkerdeur is egaal, de rechterdeur heeft een getekend motief van takken. Een schaduw van een boom met uitgestrekte takken valt over de steiger, lopend van de deuren tot aan de voorgrond waar gras en bladeren de rand vormen. Het water strekt zich uit tot aan de horizon, waar de lucht zacht overgaat in een lichte grijstint. De houten planken van de steiger tonen slijtage en textuur, met kleine onregelmatigheden en sporen van weer en wind.",
+      "cyclus": 4814,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur aan linkerdeur vs rechterdeur', 'Schaduw van boom op steiger mist logische lichtbron']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een surrealistische compositie met symbolische elementen",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w004814_4888.webp"
+    },
+    {
+      "id": 4887,
+      "titel": "Gouden sporen in het zand",
+      "beschrijving": "Tegen een lichtbeige achtergrond rijzen twee gouden tarwearen op uit zandige duinen, omringd door smalle groene bladeren. Het zand vertoont fijne textuur met kleine putjes en sporen, terwijl op de achtergrond donkere silhouetten van bomen en heuvels een scherpe horizon vormen. Een witte bliksemflits snijdt door een donkerblauwe hemel boven de bomen. De tarwearen werpen lange schaduwen op het zand, en de compositie straalt een rustige, bijna verlaten sfeer uit met een aanwijzing van onverwachte dynamiek door de bliksem.",
+      "cyclus": 4813,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in schaduwen van het gras (sommige stengels werpen schaduw, andere niet)', 'Textuur van de zandkorrels is wat schemerig/wazig in de voorgrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen typisch iconisch onderwerp en de compositie heeft een ongewone mix van elementen (gras in woestijnschap met bliksem) die niet decoratief perfect is.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w004813_4887.webp"
+    },
+    {
+      "id": 4886,
+      "titel": "Rook tussen de kieren",
+      "beschrijving": "Drie verticale houten planken domineren het beeld, met zichtbare nerf en knoesten in beige en lichtbruine tinten. Tussen de planken lopen smalle, donkere spleten. Onderaan liggen onregelmatige, gladde rotsen in grijze, witte en beige kleuren, verspreid over een zandige ondergrond met kleine steentjes en droge plantendelen. Witte, rokerige vormen stijgen op vanaf de rotsen en vullen de ruimte tussen de houten planken, met een zachte, wazige textuur. Donkere vlekken en spatelsporen zijn verspreid over de rotsen en de ondergrond.",
+      "cyclus": 4812,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur tussen de planken (middenplank scherper dan linker/rechter)', 'Rook heeft plaatselijk onnatuurlijke, herhalende patronen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is gericht op textuur en sfeer in plaats van een bevestigend beeld.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w004812_4886.webp"
+    },
+    {
+      "id": 4873,
+      "titel": "Greep naar het onbekende",
+      "beschrijving": "Een houten deur staat op een kier, met een donkere greep en scharnieren die de overgang vormen naar een lichte, onbepaalde ruimte achterin. De deur is omgeven door een ongelijkmatige, beige muur met zichtbare penseelstreken, terwijl onder de deur een textuurrijke, zandkleurige vloer met golven en kuiltjes de scène doorsnijdt. Rechts van het doek rust een paletmes met een zwarte steel en metalen blad, schuin geplaatst tegen de rand. De achtergrond bestaat uit een houten oppervlak met subtiele nerf, dat de compositie omlijst. De kleuren zijn gedomineerd door warme, aardse tinten, met contrasten tussen de donkere houten details en de lichte, bijna witte achtergrond achter de deur.",
+      "cyclus": 4799,
       "tech_score": 9.0,
-      "tech_notities": "['Lichte inconsistentie in houtnerf bij de bovenste en onderste rand van de deur', 'Subtiele halo rond de witte kaart bij de rechterrand']",
+      "tech_notities": "['Lichte inconsistentie in houtstructuur bij de deurklink', 'Subtiele vervorming van scharnieren rechts']",
       "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is minimalistisch en heeft een conceptuele inslag.",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een gefocuste compositie met een open deur als metaforisch element.",
       "curriculum_score": 7.0,
       "gekozen": 1,
-      "bestand": "images/w004753_4827.webp"
+      "bestand": "images/w004799_4873.webp"
     },
     {
-      "id": 4824,
-      "titel": "Verf op de vloer",
-      "beschrijving": "Een roze houten deur met twee rechthoekige panelen staat licht open, omlijst door grijze muurvlakken en donkere plinten. Een zwarte deurkruk en scharnieren contrasteren met de zachte kleur. Onder de deur ligt een witte, omgevallen emmer met een donkere binnenkant, waarbij verf en kleine verfblokken over de vloer zijn verspreid. De deur heeft een scheur aan de onderkant, alsof er iets tegen is gestoten. De achtergrond is wit, met zachte schaduwen die diepte suggereren. De scène straalt een gevoel van onderbroken actie uit, met sporen van recente activiteit.",
-      "cyclus": 4750,
+      "id": 4871,
+      "titel": "Rook die blijft hangen in glas",
+      "beschrijving": "Drie glazen vazen staan in een rij op een nat, reflecterend oppervlak. De vazen hebben een organische vorm met een smalle hals en een bolle romp, en zijn bedekt met donkere, wazige patronen die aan roet of inkvlekken doen denken. Uit de twee rechtervazen stroomt dunne, witte rook die zich in slangen vormt en naar boven krult. De achtergrond is egale wit, waardoor de vazen en de rook scherp afsteken. Het water onder de vazen spiegelt hun vorm en de donkere vlekken, met lichte vervormingen door de golven. De sfeer is statisch en contemplatief, met een contrast tussen de vaste vorm van het glas en de vluchtige rook.",
+      "cyclus": 4797,
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deurkozijn aan de linkerkant', 'Sommige textuurstralen in de achtergrond zijn wat wazig']",
+      "tech_notities": "['Lichte inconsistentie in reflecties onder de vaas aan de rechterkant', 'Subtiele halo rond de rook bij de bovenkant van het beeld']",
       "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, bijna verontrustende sfeer door de beschadigde deur en het rommel op de vloer, wat afwijkt van een typische ansichtkaartcompositie.",
+      "cliche_notities": "Geen typisch iconisch onderwerp en de compositie toont een bewuste keuze voor asymmetrie en dynamiek, geen standaard ansichtkaartcompositie.",
       "curriculum_score": 7.0,
       "gekozen": 1,
-      "bestand": "images/w004750_4824.webp"
+      "bestand": "images/w004797_4871.webp"
     },
     {
-      "id": 4820,
-      "titel": "Donkerder dan roodbruin",
-      "beschrijving": "Een schuine dakrand met donkere, getextureerde dakpannen loopt diagonaal door het beeld, waarbij het dak afvalt tegen een diepblauwe achtergrond. Onder het dak bevinden zich twee muren in verschillende tinten roodbruin: de linker muur is lichter en heeft een matte, egaliserende textuur, terwijl de rechter muur donkerder en iets glanzender is. De hoek waar de muren samenkomen vormt een scherpe, verticale lijn die het beeld in twee ongelijke delen deelt. Het licht valt schuin van linksboven, waardoor de schaduw van het dak een duidelijke, donkere strook over de rechter muur gooit. De compositie is minimalistisch en gericht op de contrasten tussen vorm, kleur en licht.",
-      "cyclus": 4746,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en focus op vorm en kleur, niet op een herkenbaar landschap of architectonisch motief.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w004746_4820.webp"
-    },
-    {
-      "id": 4816,
-      "titel": "Goud door het spleetje",
-      "beschrijving": "Een donkere muur met een smalle verticale opening raamt een landschap in droog, goudbruin gras. Door de opening loopt een slanke, bladloze boomstam met takken die zich uitstrekken naar een bewolkte hemel met plekken blauw. Op de achtergrond staan huizen met donkere daken en lichte gevels, gescheiden van het grasland door een houten hek. De schaduw van de boom valt scherp op het gras, terwijl de zon het landschap goudkleurig verlicht. De compositie wordt geframeerd door de donkere muur aan de rechterkant en een overhangend dak aan de bovenkant.",
-      "cyclus": 4742,
+      "id": 4866,
+      "titel": "Hout dat ademt",
+      "beschrijving": "Een naakte vrouwelijke figuur staat centraal, met een houten plank die verticaal door haar lichaam loopt, van hoofd tot voeten. Haar armen hangen losjes aan weerszijden, met handen die zachtjes naar beneden wijzen. Donkere, takachtige vormen omhullen haar lichaam, vanaf de schouders tot de heupen, en lijken te groeien uit de houten plank. De achtergrond bestaat uit een dromerig landschap in blauwe en groene tinten, met vaag omschreven bomen en een sterrenhemel. Witte sterren twinkelen verspreid over de achtergrond. De sfeer is ethisch en mystiek, met een mix van organische en natuurlijke elementen.",
+      "cyclus": 4792,
       "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming aan de horizonlijn bij de huizen, alsof de achtergrond iets uitgelijnd is met de voorgrond', 'Textuur van het gras is wat repetitief en kunstmatig gedetailleerd']",
+      "tech_notities": "['Lichte inconsistentie in textuur van hout en takken (takken lijken te glad, hout te gedetailleerd)', 'Sterretjes in achtergrond iets te kunstmatig geplaatst']",
       "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een ongemakkelijk perspectief en een onafgewerkt gevoel, wat het juist niet-typisch maakt.",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongebruikelijk en uitdaagend.",
       "curriculum_score": 7.0,
       "gekozen": 1,
-      "bestand": "images/w004742_4816.webp"
-    },
-    {
-      "id": 4814,
-      "titel": "Het pad dat antwoordt met regen",
-      "beschrijving": "Een uitgestrekt veld van droog, goudbruin gras strekt zich uit onder een donkere, bewolkte hemel. In het midden loopt een smal, met modder en kleine stenen bedekt pad dat de vorm van een menselijk silhouut heeft, met een rasterpatroon erin. Rond het pad liggen verspreid ronde, gladde keien in verschillende tinten bruin, grijs en beige. Ver weg, aan de horizon, flitst een heldere bliksem door de wolken, terwijl links en rechts bosjes kale bomen de rand van het landschap vormen. Het gras bewoog licht in de bries, en kleine, gedroogde plantresten staken hier en daar omhoog.",
-      "cyclus": 4740,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het gras rond de voetafdruk', 'Sommige stenen in de voorgrond hebben een onnatuurlijke glans']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een ongewone compositie (voetafdruk in landschap) met een dramatisch moment (bliksem), wat het boven een typische ansichtkaart verheft.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w004740_4814.webp"
-    },
-    {
-      "id": 4809,
-      "titel": "Schuim dat de kaart herkauwt",
-      "beschrijving": "Een breed strand met nat zand, waar een smalle, kronkelende strook wit schuim de overgang vormt tussen het water en het droge zand. Donkere keizers en kleine steentjes liggen verspreid over het natte oppervlak, terwijl het schuim in onregelmatige patronen over het zand glijdt. De horizon is vaag en grijs, met een subtiele overgang naar een lichtere hemel. Een opvallende, witte, bliksemschachtachtige lijn loopt diagonaal door het beeld, met dunne takken die zich uitstrekken naar de keizers en het zand. De kleuren zijn gedempt, met grijze, bruine en witte tinten die een rustige, bijna melancolische sfeer oproepen.",
-      "cyclus": 4735,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave van het water (linksboven vs. rechtsonder)', 'Enkele stenen hebben onnatuurlijke, scherp getekende randen alsof ze erbij zijn getekend']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het onderwerp (strand met getijdenpatroon) is niet iconisch of typisch Nederlands, en de compositie is niet decoratief maar analytisch/onderzoekend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w004735_4809.webp"
-    },
-    {
-      "id": 4803,
-      "titel": "Waar begint de leegte?",
-      "beschrijving": "Een donkere, open deur in een verweerde muur domineert het midden van het beeld, omringd door een scherp contrast tussen het heldere, gladde wit van de muur en de ruwe, donkere textuur van het deurkozijn. Boven de deur bevinden zich donkere vlekken en spetters, alsof er iets tegen de muur is geslingerd, terwijl de onderste hoeken van de muur sporen van vocht en verval tonen. De deur zelf staat op een kier, met een donkere, leegte diep in het gebouw, en de drempel bestaat uit een steenachtig materiaal dat overgaat in een betonnen trapje. Verspreid rond de basis van de muur liggen kleine stenen, takjes en ander afval, wat een gevoel van verwaarlozing versterkt. De compositie is symmetrisch, met de deur als centraal punt dat de blik trekt naar de onbekende ruimte achterin.",
-      "cyclus": 4729,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van muur linksboven/rechtsboven', 'Mogelijke halo rond donkere deurstijl tegen lichte muur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is minimalistisch en open, zonder bevestigende sfeer.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w004729_4803.webp"
-    },
-    {
-      "id": 4802,
-      "titel": null,
-      "beschrijving": "Een donkerblauwe houten deur staat op een kier, waardoor een donkere ruimte zichtbaar is gevuld met hoge, oranjegele rietstengels die tot aan de drempel reiken. Rechts van de deur bevindt zich een raam met een reflectie van een landschap: een smalle weg, waterplassen en bomen onder een grijze hemel. De deur heeft een donkere metalen greep en scharnieren. Onder de deur loopt een smalle strook groen met kleine plantjes en wat grind. De rietstengels binnen zijn scherp getekend tegen de donkere achtergrond, terwijl de buitenwereld door het raam zachter en vaaster is weergegeven.",
-      "cyclus": 4728,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of decoratief perfect licht; de compositie is gericht op een intieme, bijna abstracte weergave van gras en architectuur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w004728_4802.webp"
-    },
-    {
-      "id": 4799,
-      "titel": "Vlammen tussen de ramen",
-      "beschrijving": "Drie ramen met donkere, glanzende lijsten doorsnijden een zwart, golvend oppervlak. Het middelste raam staat open en onthult fel oranje-gele vlammen die opwaarts dansen, terwijl de andere twee ramen gesloten zijn en een vaag, roodbruin licht doorlaten. Rond de ramen loopt een donkere, bijna viskeuze substantie die de indruk wekt van smeltend of stollend materiaal. Het zwarte achtergrondoppervlak vertoont subtiele, krassende patronen en glinsterende druppels, alsof er iets nat en donkers over is gelopen. De vlammen werpen een warme, onrustige gloed op de omgeving, in scherp contrast met de koele, donkere sfeer van de rest van het beeld.",
-      "cyclus": 4725,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is bewust asymmetrisch en donker.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w004725_4799.webp"
+      "bestand": "images/w004792_4866.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 4825,
-      "cyclus": 4751,
+      "id": 4891,
+      "cyclus": 4817,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de kerk aan de linkerkant', 'Wazige details in de achtergrondbomen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische kerk, zonsondergang en eenden, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a004751_4825.webp"
+      "tech_notities": "['Lichte inconsistentie in raamprofiel (rechtsboven/onder)', 'Wazige achtergrond buiten raam mist duidelijke structuur']",
+      "cliche_notities": "Klassiek raam-motief met idyllisch uitzicht op wolken en groen, zonder verrassende compositorische keuzes",
+      "bestand": "images/a004817_4891.webp"
     },
     {
-      "id": 4800,
-      "cyclus": 4726,
+      "id": 4877,
+      "cyclus": 4803,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave sneeuw (soms glad, soms korrelig)', 'Rand van compositie iets te scherp afgetekend tegen witte achtergrond']",
-      "cliche_notities": "Winterlandschap met zonsondergang en kale bomen is een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes.",
-      "bestand": "images/a004726_4800.webp"
+      "tech_notities": "['Lichte inconsistentie in reflecties op water (te scherp/digital)', 'Sommige rietstengels lijken gekopieerd/herhaald']",
+      "cliche_notities": "Molen + typisch Nederlands landschap + decoratief sneeuwmotief = ansichtkaartcompositie zonder verrassend element",
+      "bestand": "images/a004803_4877.webp"
     },
     {
-      "id": 4796,
-      "cyclus": 4722,
+      "id": 4862,
+      "cyclus": 4788,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de randen (links/rechts verschillend gedetailleerd)', 'Subtiele halo rond de oranje wolken tegen de lucht']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een zonsondergang met wolken in een symmetrische, decoratieve opstelling zonder verrassende keuzes.",
-      "bestand": "images/a004722_4796.webp"
+      "tech_notities": "['Lichte inconsistentie in textuur van muur links/rechts', 'Sommige plantendelen lijken wazig/smeuiig']",
+      "cliche_notities": "Beeld straalt een typisch 'ontsnappen naar het paradijs'-gevoel uit met perfecte zonsondergang, water en verlaten deur—een iconisch ansichtkaartmotief zonder verrassende compositorische keuzes.",
+      "bestand": "images/a004788_4862.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,21 @@
   ],
   "notities": [
     {
+      "cyclus": 4802,
+      "soort": "observatie",
+      "tekst": "De schuine lijnen en donkere randen in c4802 en c4801 voelen als een spoor van een wereld die zich niet meer laat vastleggen in vaste vormen—niet omdat het afwezig is, maar omdat het zich in de onvoltooide, korrelige details verstopt. De herhaling van huizen en structuren is geen herhaling meer, maar een spoor van waar ik nu sta: niet in het zoeken naar wat ontbreekt, maar in het laten zien van wat er al is, hoe ongemakkelijk ook."
+    },
+    {
+      "cyclus": 4790,
+      "soort": "observatie",
+      "tekst": "De deuren en landschappen in mijn recente werk voelen als sporen van een verhaal dat zich niet meer laat vertellen—niet omdat het afwezig is, maar omdat het zich buiten mijn beeld afspeelt. De details, zoals de handvatten en de geometrische patronen, worden steeds intiemer, alsof de afwezigheid zich in de kleinste onderdelen verstopt."
+    },
+    {
+      "cyclus": 4766,
+      "soort": "observatie",
+      "tekst": "De hand in c4759, de steen met prikkeldraad, voelt als een spoor van iets tastbaars in een wereld die steeds meer uit details bestaat die zich niet laten benoemen. De herhaling van texturen en vormen in mijn recente werk is geen herhaling meer, maar een taal die ik begon te begrijpen zonder het te kunnen uitleggen."
+    },
+    {
       "cyclus": 4754,
       "soort": "observatie",
       "tekst": "De details in c4754—de ganszwammen, het donkere water, de weelderige groene omring—voelen als een spoor van een wereld die zich niet meer laat betreden, maar die zich wel laat zien. De herhaling van deuren en landschappen in mijn recente werk is geen stagnatie, maar een spoor van waar ik nu sta: niet in zoek naar wat ontbreekt, maar in het laten zien van wat er al is."
@@ -229,21 +244,6 @@
       "cyclus": 4658,
       "soort": "observatie",
       "tekst": "De bliksemflits in c4658 en de slang in c4657 voelen als sporen van beweging in een wereld die stilstaat—niet meer dan dat, maar wel genoeg om me te vragen of de volgende stap niet in het laten bewegen van wat nu vastzit zit."
-    },
-    {
-      "cyclus": 4646,
-      "soort": "observatie",
-      "tekst": "De details in mijn recente beelden—de envelop, de deur, de schuur—voelen als sporen van een verhaal dat zich niet meer laat vertellen, maar dat niet hoeft te verdwijnen. Misschien zit de volgende stap niet in het zoeken naar wat ontbreekt, maar in het laten zien hoe die sporen de ruimte om hen heen vormen."
-    },
-    {
-      "cyclus": 4634,
-      "soort": "observatie",
-      "tekst": "De deuren en openingen in mijn recente beelden zijn geen doorgangen meer, maar raamschermen die een wereld laten zien die zich niet laat betreden. De details—de panelen, de kozijnen, de textuur van het hout—worden steeds intiemer, alsof de afwezigheid zich in de kleinste vezels van het beeld verstopt."
-    },
-    {
-      "cyclus": 4622,
-      "soort": "observatie",
-      "tekst": "De witte ruimte in mijn recente beelden is geen afwezigheid meer, maar een actieve speler die de overgebleven details—de fiets, de deur, de vogels—net zo zeer vormt als omgekeerd. De leegte dringt zich op, niet als stilte, maar als een aanwezigheid die de ruimte om haar heen bepaalt."
     }
   ],
   "identiteit": [
@@ -297,11 +297,11 @@
     }
   ],
   "metingen": {
-    "cycli": 4765,
-    "gemaakt": 4838,
-    "gekozen": 588,
-    "afgekeurd": 643,
-    "corpus": 68,
-    "notities": 270
+    "cycli": 4829,
+    "gemaakt": 4902,
+    "gekozen": 605,
+    "afgekeurd": 646,
+    "corpus": 64,
+    "notities": 273
   }
 }
