@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-12T23:30+02:00",
+  "bijgewerkt": "2026-08-12T23:45+02:00",
   "werk": [
+    {
+      "id": 6369,
+      "titel": "Wat verborgen ligt achter die vogels",
+      "beschrijving": "Een donkerbruine houten deur met vier rechthoekige panelen vult het midden van het beeld. Op elk paneel bevinden zich subtiele, goudkleurige ornamenten die lijken op gestileerde vogels en abstracte patronen. De deur is omgeven door een verweerde muur met afblazend wit pleisterwerk en zichtbare stenen en mortel. Een metalen deurkruk bevindt zich aan de rechterkant, iets boven het midden. De houten lamellen van de deur tonen natuurlijke slijtage en knoesten, terwijl de onderkant van de deur lichter en meer verbleekt is dan de bovenkant. De randen van de deurlijst zijn donker en iets verweerd, en de vloer voor de deur bestaat uit een gladde, lichtgrijze stenen plaat.",
+      "cyclus": 6295,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur tussen boven- en onderpanelen', 'Deurklink ontbreekt logische schaduw']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is neutraal en de symboliek is niet direct herkenbaar als toeristisch.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006295_6369.webp"
+    },
+    {
+      "id": 6361,
+      "titel": "Amber rookt door het wit",
+      "beschrijving": "Een zwarte kop met een gebroken rand staat schuin op een wit oppervlak, waar een golvende stroom amberkleurige vloeistof uit vloeit en een glanzende plas vormt. Boven de kop stijgen donkere, zwierige rookachtige vormen op, getekend met dynamische lijnen die beweging suggereren. Naast de kop ligt een amorf, oranjegeel object met een gladde, bijna translucente textuur, terwijl kleine zwarte druppels verspreid liggen. De achtergrond bestaat uit subtiele grijze schakeringen en gestreepte patronen, wat een gevoel van diepte geeft. De compositie combineert realistische details met gestileerde elementen, waarbij de contrasten tussen donker en licht de aandacht trekken.",
+      "cyclus": 6287,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in schaduwval van de kop (rechtsboven vs. linksonder)', 'Textuur van de stoom lijkt gedeeltelijk herhalend']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, bijna surrealistische spanning tussen vorm en vervorming.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006287_6361.webp"
+    },
+    {
+      "id": 6358,
+      "titel": "Waar blijft de uitweg",
+      "beschrijving": "Een alleenstaande figuur loopt weg van de kijker over een smalle, gestreepte weg van afwisselend lichte en donkere planken, omgeven door weelderig groen. Aan weerskanten rijzen bomen op met donkergroene bladeren en rode vruchten, terwijl het gras en kleine bloemen de randen van het pad versieren. Bovenin domineert een donkere, bewolkte hemel met een scherpe, witte bliksemflits die de scène doorkleeft. De kleuren zijn zacht en watervergelijkbaar, met een sfeer van eenkomende storm en eenzaamheid.",
+      "cyclus": 6284,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de padstenen bij de horizon', 'Enkele vruchten hebben onnatuurlijke, zwevende posities ten opzichte van takken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een iconisch landschap (fruitboomgaard) met een onrustige, bijna bedreigende sfeer (bliksem), wat afwijkt van de typische ansichtkaartcompositie.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w006284_6358.webp"
+    },
     {
       "id": 6357,
       "titel": "Regenboog na de storm",
@@ -78,48 +117,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006248_6322.webp"
-    },
-    {
-      "id": 6319,
-      "titel": "Vlammen met een kruis",
-      "beschrijving": "Een kerk met een hoge toren en twee zijtorens staat centraal, omringd door woedende vlammen die opstijgen vanaf de grond. De gevel heeft een groot boogvormig portaal met een houten deur, geflankeerd door smalle ramen en decoratieve details zoals rosetten en puntige gevels. Boven de toren zweeft een kruis tegen een achtergrond van golvende wolken en gestreepte lucht. De vlammen hebben een dynamische, bijna menselijke vorm met uitgestrekte tongen en donkere, golvende contouren. De scène is getekend in zwart-wit met scherp contrast en fijne lijntekening, waardoor de spanning tussen de statische kerk en de chaotische vuurvlammen benadrukt wordt.",
-      "cyclus": 6245,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is dynamisch en dreigend.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006245_6319.webp"
-    },
-    {
-      "id": 6316,
-      "titel": "Waar begint het pad?",
-      "beschrijving": "Een witte deur staat op een kier in een grijze muur, omringd door hoge, golvende rietstengels in goudbruine en groene tinten. Een kronkelend pad van zilvergrijze en blauwe strepen loopt naar de deur, doorsneden door kleurrijke vlekken van oranje, geel en rood. De achtergrond is een egaal lichtgrijze hemel, terwijl de voorgrond gevuld is met gedetailleerde, bijna chaotische penseelstreken die het riet en het pad suggereren. Kleurrijke stippen en streepjes verspreiden zich door het beeld, alsof er licht door het riet filtert. De deur heeft een eenvoudige, klassieke vorm met panelen en een ronde klink.",
-      "cyclus": 6242,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deur ten opzichte van de omringende vegetatie', 'Enkele grashalmen lijken zonder logische oorzaak te verdwijnen in de achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een realistisch element (deur) met abstracte, bijna chaotische vegetatie, wat geen typisch ansichtkaartmotief is",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006242_6316.webp"
-    },
-    {
-      "id": 6309,
-      "titel": "Rood getekende schuur met X-vormige deuren",
-      "beschrijving": "Rood getekende schuur met X-vormige deuren, schuin geplaatst op het beeld, met een smalle, kronkelende rode lijn die van de deuren naar beneden loopt en overgaat in een pijl die naar boven wijst. Beide zijden van de schuur hebben kleine, onregelmatige bruine vlekken die op droog gras of bladeren lijken. Boven de deuren bevindt zich een klein, rechthoekig raam met een donkere omlijsting. De achtergrond is egaal beige, zonder extra details, waardoor de schuur en de rode lijn centraal staan, maar niet precies in het midden van het beeld. De lijnen zijn niet recht en hebben een korrelige textuur, alsof ze met een potlood of krijt zijn getekend.",
-      "cyclus": 6235,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de compositie is minimalistisch en de pijl voegt een onpersoonlijke, bijna analytische laag toe.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006235_6309.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6368,
+      "cyclus": 6294,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de zwarte blokken (soms glanzend, soms mat) zonder duidelijke oorzaak', 'De overgang tussen de achtergrond en de voorgrond is wat wazig, alsof er een onzichtbare laag tussen zit']",
+      "cliche_notities": "De molen en bomen vormen een typisch Nederlands landschapsscène, vergelijkbaar met een ansichtkaart, zonder duidelijke persoonlijke interpretatie of compositorische verrassing.",
+      "bestand": "images/a006294_6368.webp"
+    },
+    {
+      "id": 6366,
+      "cyclus": 6292,
+      "afkeuringsreden": "cliche",
+      "tech_score": 6.0,
+      "tech_notities": "['Dubbele zonsondergang in één beeld (boven/onder) is technisch onmogelijk en wijst op een generatief artefact', 'Schaduw van de persoon loopt niet logisch door het beeld (verdwijnt midden in het water)', 'Tekst in het zand is onleesbaar en morfologisch inconsistent (Chinese karakters lijken willekeurig getekend)', 'Textuur van het water in de onderste helft is overmatig glad en kunstmatig']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch landschap (rode velden bij zonsondergang) met een eenzame figuur en decoratief licht, zonder duidelijke artistieke keuze of verstorende elementen.",
+      "bestand": "images/a006292_6366.webp"
+    },
     {
       "id": 6352,
       "cyclus": 6278,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de wieken ten opzichte van de toren', 'Enkele texturen in de achtergrond wat wazig/smeuiig']",
       "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen met iconische compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a006278_6352.webp"
-    },
-    {
-      "id": 6344,
-      "cyclus": 6270,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de kerkruïne ten opzichte van de achtergrond', 'Enkele bomen hebben onnatuurlijke, herhalende takstructuren']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap (kerkruïne, water, wolken) en decoratief licht zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a006270_6344.webp"
-    },
-    {
-      "id": 6332,
-      "cyclus": 6258,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief: de kerk lijkt op dezelfde hoogte als de boom, maar de horizonlijn loopt er doorheen', 'Textuur van het water is wat schematisch, maar niet storend']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een kerk, water en een boom in een decoratief patroon, zonder verrassende of persoonlijke keuzes.",
-      "bestand": "images/a006258_6332.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6288,
-    "gemaakt": 6361,
-    "gekozen": 884,
-    "afgekeurd": 815,
-    "corpus": 72,
+    "cycli": 6296,
+    "gemaakt": 6369,
+    "gekozen": 887,
+    "afgekeurd": 817,
+    "corpus": 73,
     "notities": 331
   }
 }
