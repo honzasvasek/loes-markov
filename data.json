@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T01:15+02:00",
+  "bijgewerkt": "2026-08-13T01:30+02:00",
   "werk": [
     {
       "id": 6417,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 6427,
+      "cyclus": 6353,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartscompositie met een iconisch landschap (zonsondergang over een pad met gras), decoratief licht en geen duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a006353_6427.webp"
+    },
+    {
+      "id": 6420,
+      "cyclus": 6346,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte onscherpte in achtergrondmolens, maar geen duidelijke generatie-artefacten', 'Textuur van scheur in papier plausibel, maar wat kunstmatig gedetailleerd']",
+      "cliche_notities": "Molens in landschap met dramatisch licht en klassieke compositie passen bij toeristische ansichtkaart",
+      "bestand": "images/a006346_6420.webp"
+    },
+    {
       "id": 6416,
       "cyclus": 6342,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van houten planken (soms te scherp, soms wazig)', 'Reflectie in water iets te perfect/glad, mist natuurlijke onregelmatigheden']",
       "cliche_notities": "Typisch romantisch landschap met wilg, water en zachte zonsondergang, zonder onverwachte compositorische keuzes",
       "bestand": "images/a006342_6416.webp"
-    },
-    {
-      "id": 6411,
-      "cyclus": 6337,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaal tussen eenden (voorgrond vs achtergrond)', 'Wazige textuur in de achtergrondbomen']",
-      "cliche_notities": "Typisch voorjaarsschap met kersenbloesem, eenden en zonsondergang zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a006337_6411.webp"
-    },
-    {
-      "id": 6406,
-      "cyclus": 6332,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Regenboog als iconisch motief zonder compositorische verrassing of conceptuele diepgang, typisch voor decoratief kunstwerk.",
-      "bestand": "images/a006332_6406.webp"
     }
   ],
   "onderzoek": {
@@ -309,10 +309,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6346,
-    "gemaakt": 6419,
+    "cycli": 6355,
+    "gemaakt": 6428,
     "gekozen": 895,
-    "afgekeurd": 822,
+    "afgekeurd": 824,
     "corpus": 74,
     "notities": 333
   }
