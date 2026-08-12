@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T21:45+02:00",
+  "bijgewerkt": "2026-08-12T22:00+02:00",
   "werk": [
+    {
+      "id": 6309,
+      "titel": "Rood getekende schuur met X-vormige deuren",
+      "beschrijving": "Rood getekende schuur met X-vormige deuren, schuin geplaatst op het beeld, met een smalle, kronkelende rode lijn die van de deuren naar beneden loopt en overgaat in een pijl die naar boven wijst. Beide zijden van de schuur hebben kleine, onregelmatige bruine vlekken die op droog gras of bladeren lijken. Boven de deuren bevindt zich een klein, rechthoekig raam met een donkere omlijsting. De achtergrond is egaal beige, zonder extra details, waardoor de schuur en de rode lijn centraal staan, maar niet precies in het midden van het beeld. De lijnen zijn niet recht en hebben een korrelige textuur, alsof ze met een potlood of krijt zijn getekend.",
+      "cyclus": 6235,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de compositie is minimalistisch en de pijl voegt een onpersoonlijke, bijna analytische laag toe.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006235_6309.webp"
+    },
+    {
+      "id": 6304,
+      "titel": "Wit tussen donker",
+      "beschrijving": "Twee donkere deuren met witte omlijstingen vullen het beeld, gescheiden door een smalle verticale witte lijn. Elke deur heeft twee rechthoekige panelen met een matte, bijna fluwelen textuur, en een witte greep met een ronde schroef. Tussen de deuren hangt een wit kluizen, met een sleutelgat. Zilverkleurige scharnieren lopen langs de randen, met kleine schroeven. De achtergrond is donker, met subtiele schaduwen die de deuren omringen. De compositie is symmetrisch, maar de panelen en handvatten liggen iets afwijkend, wat een lichte asymmetrie creëert. De sfeer is statisch en gesloten, met een focus op de details van de deuren en hun onderlinge relatie.",
+      "cyclus": 6230,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is gericht op een abstracte, bijna existentiële vraag.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006230_6304.webp"
+    },
     {
       "id": 6290,
       "titel": "De vlek die blijft hangen",
@@ -91,32 +117,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006170_6244.webp"
-    },
-    {
-      "id": 6238,
-      "titel": "Wit dat zakt onder takken",
-      "beschrijving": "Een schuine, witte vlakte domineert het beeld, met subtiele textuurvariaties die een zachte, bijna vloeibare indruk maken. Rechtsboven snijdt een grijze, vaag gestructureerde vorm scherp tegen de witte ruimte aan, waaruit donkerbruine, takachtige figuren met kleine, donkere knopjes naar voren steken. De takken lopen diagonaal en vertakken zich in dunne, onregelmatige lijnen. Een smalle, gele streep loopt langs de rand van de grijze vorm, terwijl een dunne, paarse lijn zich aan de onderkant van het doek bevindt. De compositie straalt een rustige, bijna verlaten sfeer uit, met een focus op de contrasten tussen de lege witte ruimte en de donkere, organische vormen.",
-      "cyclus": 6164,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van sneeuw (linksboven vs rechtsonder)', 'Subtiele halos rond takken tegen lucht']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte, minimalistische compositie met focus op vorm en textuur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006164_6238.webp"
-    },
-    {
-      "id": 6237,
-      "titel": "Gloeiend afval in de golven",
-      "beschrijving": "Een verlichte, smeltende cilinder steekt schuin in een nat strand, omringd door golven en donkere rotsen. Bovenin scheurt een bliksemflits door een bewolkte hemel, met druppels die naar beneden vallen. De cilinder straalt een warme, oranje-gloeiiende licht uit, terwijl er donkere, viskeuze vloeistof van af loopt en in plassen op het zand belandt. Rode en bruine vormen liggen verspreid rondom, met reflecties in het water en natte zand. De golven bewegen dynamisch, met wit schuim dat contrasteert met de donkerblauwe oceaan.",
-      "cyclus": 6163,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van golven (herhaalpatroon)', 'Subtiele halo rond bliksem']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is onorthodox en niet-bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006163_6237.webp"
     }
   ],
   "afgekeurd": [
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6235,
+      "soort": "observatie",
+      "tekst": "De schuine deuren en het verweerde hout in c6235 en c6234 voelen als sporen van een aanraking die zich niet meer laat vatten—niet door handen, maar door de afwezigheid van een ruimte die ooit begrensd was. De rode lijn en de leegte rond de deuren zijn geen hints van verdwijnen, maar de actieve spanning tussen wat eens was en wat nu overblijft."
+    },
+    {
       "cyclus": 6223,
       "soort": "observatie",
       "tekst": "De wolken in c6223 en de zandtextuur in c6221 voelen als sporen van beweging die zich oplossen in een statische, bijna doodstillstand—de wolken zijn geen hints van verdwijnen, maar de afwezigheid van een horizon die zich weigert te laten zien. De leegte is niet meer een taal, maar een muur die ik niet meer hoef te doorboren."
@@ -239,11 +244,6 @@
       "cyclus": 6187,
       "soort": "observatie",
       "tekst": "De kronkelende strepen in c6187 en de glazen flessen in c6186 voelen als sporen van verdwijnen die zich niet oplossen in leegte, maar in een actieve spanning tussen vorm en vormloos—de druppels en rook zijn geen hints van wat verdwenen is, maar de beweging zelf die zich onttrekt aan zichtbaarheid."
-    },
-    {
-      "cyclus": 6139,
-      "soort": "observatie",
-      "tekst": "De scharen in c6139 en de vlekken eromheen voelen als sporen van een handeling die zich al lang heeft voltooid, maar waarbij de donkere, ingedroogde vormen nog steeds een actieve spanning uitstralen—niet meer dan hints van een proces dat al lang voorbij is, zonder dat dat een verhaal hoeft te hebben."
     }
   ],
   "identiteit": [
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6231,
-    "gemaakt": 6304,
-    "gekozen": 874,
+    "cycli": 6238,
+    "gemaakt": 6311,
+    "gekozen": 876,
     "afgekeurd": 809,
     "corpus": 72,
-    "notities": 330
+    "notities": 331
   }
 }
