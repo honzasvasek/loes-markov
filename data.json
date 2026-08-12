@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T00:15+02:00",
+  "bijgewerkt": "2026-08-13T00:30+02:00",
   "werk": [
+    {
+      "id": 6388,
+      "titel": "Regenboog met stroomstoot",
+      "beschrijving": "Een verweerd houten paneel met onregelmatige randen vormt de basis voor een compositie van geschilderde en driedimensionale elementen. Bovenaan loopt een regenboog van waterverf in rood, oranje, geel, groen, blauw en paars, met aan weerskanten witte, pluizige wolken. Daaronder een donkerblauwe oceaan met witte golven die op een zandig strand breken. Een witte bliksemflits snijdt door donkere regenwolken boven het water. Centraal boven de regenboog zit een klassieke ronde klok met gouden behuizing en zwarte wijzers. Zwarte, met knopen versierde koorden vormen een netwerk dat de scène omlijst en een tweede, kleinere regenboog omvat aan de onderkant. Het hout toont natuurlijke textuur met barsten en knoesten.",
+      "cyclus": 6314,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur aan randen', 'Regelmatige knopen in netwerk lijken geautomatiseerd gegenereerd']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen typisch ansichtkaartmotief; combinatie van elementen is ongebruikelijk en heeft een persoonlijke compositorische keuze",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w006314_6388.webp"
+    },
+    {
+      "id": 6383,
+      "titel": "Haren in het wit",
+      "beschrijving": "Een wit laken met subtiele rimpels en plooien vult het beeld, doorspekt met fijne, donkere haren die willekeurig verspreid liggen. Een dunne, golvende lijn van kleine, glinsterende druppels loopt diagonaal door het midden, omgeven door watervlekken die zacht over het materiaal glijden. De textuur van het laken is zichtbaar zacht en licht doorschijnend, met schaduwen die de diepte van de plooien benadrukken. De achtergrond is vaag, waardoor de focus ligt op de details van het laken en de daarop rustende elementen.",
+      "cyclus": 6309,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op subtiele textuur en abstractie, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006309_6383.webp"
+    },
     {
       "id": 6377,
       "titel": "Kolen en groen achter de kier",
@@ -91,32 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006281_6355.webp"
-    },
-    {
-      "id": 6351,
-      "titel": "Voetafdrukken in roze stilte",
-      "beschrijving": "Een zandwoestijnschap met zachte, roze getinte duinen domineert het beeld, doorkruist door een smalle, kronkelende pad van voetafdrukken en verspreide droge plantendelen. In de verte staat een solitaire, donkere boom met uitgestrekte takken, omgeven door een nevelige, rokerige sfeer die overgaat in een helderwitte hemel. De zandkorrels vertonen fijne, golvende patronen, terwijl kleine klompen gras en takjes de woestijnvlaktes doorbreken. De compositie straalt eenzaamheid uit, met de boom als stilteverspreider boven de lege ruimte.",
-      "cyclus": 6277,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van zand bij voorgrond (te glad)', 'Boom heeft subtiele halo rond randen door hoog contrast']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met sporen en boom is ongebruikelijk en niet bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006277_6351.webp"
-    },
-    {
-      "id": 6338,
-      "titel": "Stilstaan met een vonk",
-      "beschrijving": "Een verweerde houten deur met een diagonale steen en een donkere metalen kruk bevindt zich centraal in een ruwe, witte muur. De deur heeft twee rechthoekige panelen en wordt geflankeerd door donkere scharnieren. Een scherpe, witte bliksemflits snijdt diagonaal door het bovenste deel van de deur, met fijne vertakkingen die zich uitstrekken naar de randen. Onder de deur ligt een onregelmatige, natte vlek met bruine en grijze tinten, alsof water recent is weggezogen. De randen van de muur zijn ongelijkmatig en verbleekt, met sporen van slijtage. De algehele sfeer is stilstaand, met een onverwachte dynamiek door de bliksem.",
-      "cyclus": 6264,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur bij de deurpanelen', 'Subtiele halo rond de bliksemflits']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, bijna verontrustende sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006264_6338.webp"
     }
   ],
   "afgekeurd": [
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6313,
-    "gemaakt": 6386,
-    "gekozen": 889,
+    "cycli": 6320,
+    "gemaakt": 6394,
+    "gekozen": 891,
     "afgekeurd": 818,
-    "corpus": 73,
+    "corpus": 74,
     "notities": 332
   }
 }
