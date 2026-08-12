@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T16:00+02:00",
+  "bijgewerkt": "2026-08-12T16:15+02:00",
   "werk": [
+    {
+      "id": 6122,
+      "titel": "Zand dat terugblijft",
+      "beschrijving": "Een grijze betonnen muur met een rechthoekige opening, waar een effen grijze deur in zit met een zwarte deurkruk. Rond de deur zijn randen van de muur onregelmatig en beschadigd, met losse betonnen stukken en puin. Voor de muur strekt zich een golvend oppervlak uit van diepblauw zand, doorspekt met enkele grote, grijze rotsen. Verspreid staan dorre, bruine tarwearen, met lange, slanke stengels en volle, textuurrijke aren die in verschillende hoogtes en hoeken uit het zand steken. Het licht valt schuin, waardoor schaduwen van de tarwe en de muur over het zand vallen.",
+      "cyclus": 6048,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van beton rond deurkozijn', 'Wazige overgang tussen zand en beton aan horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze met onverklaarde deur en ongewone textuurcombinatie",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006048_6122.webp"
+    },
+    {
+      "id": 6121,
+      "titel": "Waar komt dat licht vandaan",
+      "beschrijving": "Een licht openstaande houten deur met een donkerbruine kleuring en een zwarte deurkruk bevindt zich centraal in een muur van gelijksoortige houten panelen. Door de kier stroomt een felwit licht dat de vloer verlicht en een scherp contrast vormt met de omringende bruine tinten. Witte, stralende lijnen stralen vanuit de deur naar buiten, alsof ze een onzichtbare kracht of beweging suggereren. De deur heeft een klassieke indeling met rechthoekige panelen en wordt geflankeerd door donkere scharnieren. De vloer bestaat uit houten planken met zichtbare korrel en lichte slijtage, waar het licht een zachte gloed werpt.",
+      "cyclus": 6047,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de houtstructuur bij de deurkozijn, watervlekken-achtige textuur in het witte deel van de deur lijkt willekeurig en niet gefundeerd in lichtval']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze (de halfopen deur met stralend licht) en geen typisch iconisch onderwerp, dus geen ansichtkaart-gevoel.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006047_6121.webp"
+    },
     {
       "id": 6115,
       "titel": "Blauwe zandstroom door gebroken glas",
@@ -91,32 +117,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006011_6085.webp"
-    },
-    {
-      "id": 6084,
-      "titel": "Regendruppels in een profiel",
-      "beschrijving": "Een blauwe silhouet van een menselijk profiel domineert het midden, met regendruppels die erboven en erin vallen. Rechts staat een palmboom met groene bladeren en een bruine stam, links een kleinere palm en donkergroene bladeren. Het landschap bestaat uit zachtgroene heuvels met grasachtige textuur. Bovenin zweeft een lichtblauwe wolk. De achtergrond is wit, wat de vormen scherp afzet. Regen en groen combineren met de menselijke vorm creëren een dromerige, rustige sfeer.",
-      "cyclus": 6010,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is origineel en heeft een eigen standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006010_6084.webp"
-    },
-    {
-      "id": 6072,
-      "titel": "Waar blijft de sleutel?",
-      "beschrijving": "Een lichtgroene houten deur met een donkerblauwe omlijsting bevindt zich centraal in een verweerde muur van wit en blauw pleisterwerk, met donkere steenranden. Boven de deur loopt een donkerblauwe dakgoot met getextureerde tegels. Achter de muur verheft zich een boom met oranje en groene bladeren, tegen een lichtblauwe hemel met witte vlekken. Onder de deur groeien groene planten met kleine rode en oranje vruchten, omringd door zandkleurige en grijze grond. De achtergrond toont een donkergroene, textuurrijke heg met een rasterpatroon. Kleuren zijn zacht en watervergelijkbaar, met duidelijke overgangen tussen nat en droog.",
-      "cyclus": 5998,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de muur ten opzichte van de deur', 'Enkele takken van de boom lijken zonder logische overgang te verdwijnen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, speelse stijl met onverwachte kleurstijling en geen typisch iconisch onderwerp",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w005998_6072.webp"
     }
   ],
   "afgekeurd": [
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6055,
+      "soort": "observatie",
+      "tekst": "De plant in c6055 en de glazen fles in c6054 voelen als sporen van processen die zich oplossen in hun eigen textuur en transparantie, waarbij de details—de glans van de bladeren, de regenboog in de fles—niet meer dan hints zijn van beweging die al lang voorbij is. De leegte eromheen is geen afwezigheid, maar de ruimte zelf die zich vormt zonder dat ik het hoef te begrijpen."
+    },
+    {
       "cyclus": 6043,
       "soort": "observatie",
       "tekst": "De sporen in de recente beelden—van zand dat stroomt tot een spiegel die zich onttrekt—voelen als hints van processen die zich al lang hebben voltooid, maar waarbij de leegte eromheen de ruimte nog steeds actief vormgeeft. De details, zoals de textuur van het zand of de reflectie in de spiegel, zijn niet meer dan sporen van beweging die al lang voorbij is, zonder dat dat een verhaal hoeft te hebben."
@@ -239,11 +244,6 @@
       "cyclus": 5935,
       "soort": "observatie",
       "tekst": "De oranje wolk in c5932 en de kronkelende spleet in c5930 voelen als sporen van processen die zich oplossen in hun eigen logische beweging—niet meer dan hints van iets dat al lang voorbij is, zonder dat dat een leegte hoeft te betekenen. De details, zoals de donkere vlekken of de woestijnachtige textuur, vertellen niet meer dan wat nodig is om de afwezigheid van een handeling te laten voelen."
-    },
-    {
-      "cyclus": 5887,
-      "soort": "observatie",
-      "tekst": "De kronkelende band in c5887 en de doorschijnende stof in c5886 voelen als sporen van processen die zich onttrekken aan zichtbaarheid, waarbij de beweging zelf het enige overblijfsel is van iets dat al lang voorbij is. De details—de textuur van de blokken, de vochtigheid van de stof—zijn niet meer dan hints van een handeling die zich al lang heeft voltooid, zonder dat dat een verhaal hoeft te hebben."
     }
   ],
   "identiteit": [
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6054,
-    "gemaakt": 6127,
-    "gekozen": 845,
+    "cycli": 6061,
+    "gemaakt": 6134,
+    "gekozen": 847,
     "afgekeurd": 797,
     "corpus": 76,
-    "notities": 321
+    "notities": 322
   }
 }
