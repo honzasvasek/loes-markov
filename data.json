@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T22:30+02:00",
+  "bijgewerkt": "2026-08-12T22:45+02:00",
   "werk": [
+    {
+      "id": 6324,
+      "titel": "Waar begint de weg?",
+      "beschrijving": "Twee witte deuren staan wijd open in een lichtgrijze muur, met een smalle kier ertussen waar fel wit licht door stroomt. De linkerdeur heeft een donkere, gebogen deurkruk en een cilinder slot, terwijl de rechterdeur een eenvoudigere, rechte kruk heeft. Beide deuren hebben reliëfpanelen en worden geflankeerd door donkere scharnieren. De vloer bestaat uit lichtbruine houten planken met een matte afwerking, waar zacht licht en schaduwen over lopen. De hoeken van de deuren en het kozijn zijn scherp getekend tegen de egale muur.",
+      "cyclus": 6250,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet typisch ansichtkaart-achtig.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006250_6324.webp"
+    },
+    {
+      "id": 6322,
+      "titel": "Rook die de hemel herhaalt",
+      "beschrijving": "Twee rechthoekige panelen, verticaal gestapeld, tonen een donkerblauwe hemel met een felwitte bliksem die zich vertakt en een regenboog doorloopt. Het onderste paneel toont een glazen fles met een donkere dop, waaruit witte rook opstijgt. Achter de fles loopt een regenboog door een eveneens donkerblauwe achtergrond, boven een donkere, textuurloze horizon. De composities zijn symmetrisch opgebouwd, met de bliksem en de rook als verticale assen die de beelden doormidden delen. De kleuren zijn gedempt, met uitzondering van de heldere regenbogen en de witte bliksem en rook.",
+      "cyclus": 6248,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte vervorming in de overgang tussen de twee beelden (verticale lijn)', 'Regenboog in bovenste beeld iets te scherp/getekend', 'Rook in onderste beeld wat wazig/smeuiig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen typisch iconisch onderwerp, maar een surrealistische combinatie met een conceptuele laag.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006248_6322.webp"
+    },
     {
       "id": 6319,
       "titel": "Vlammen met een kruis",
@@ -91,61 +117,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006195_6269.webp"
-    },
-    {
-      "id": 6262,
-      "titel": "Flessen die luisteren",
-      "beschrijving": "Een slanke boom met hangende groene takken staat aan de linkerkant, naast een houten loopbrug met natere en drogere plekken. Achter de boom loopt een rechte rij van ongeveer vijftien glazen flessen in donkere tinten, van bruin tot blauw, tegen een zachtroze achtergrond. Voor de flessen ligt een zandig oppervlak met kleine stenen en een grote, donkergrijze rots met een glanzende, donkerbruine vlek erop. Rechtsboven hangen de takken van de boom laag, bijna tot in het zand. Een paar groene grassprieten groeien bij de stam van de boom. De sfeer is rustig en iets verlaten, met een mengsel van natuurlijke en mensgemaakte elementen.",
-      "cyclus": 6188,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de flessenrij (sommige flessen lijken te hoog/te laag geplaatst)', 'Subtiele halo rond de rand van de rots door hoog-contrast textuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de combinatie van elementen (flessen, rots, wilg) is ongebruikelijk en vraagt om interpretatie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006188_6262.webp"
-    },
-    {
-      "id": 6251,
-      "titel": "Waar blijft de grond?",
-      "beschrijving": "Een fietswiel zweeft boven een golvend oppervlak van donker en lichtgrijs materiaal, gescheiden door een onregelmatige, witte rand die doet denken aan gescheurd papier. Het wiel, met stralen en remkabels zichtbaar, bevindt zich in de bovenhoek, terwijl het overige deel van de afbeelding wordt ingenomen door een textuurrijk landschap van zachte, golvende vormen. Donkere en lichte vlakken wisselen elkaar af, met subtiele lijnen die door het donkere deel lopen. De compositie straalt een gevoel van beweging uit, alsof het wiel net een sprong maakt boven een abstract, bijna tactiel terrein.",
-      "cyclus": 6177,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen donkere en lichte vlakken', 'Subtiele halo rond de witte rand van het gescheurde oppervlak']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is abstract en open van karakter.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006177_6251.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 6320,
-      "cyclus": 6246,
+      "id": 6332,
+      "cyclus": 6258,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenwieken ten opzichte van de mast', 'Enkele lijnen in de achtergrond zijn ongemotiveerd wazig']",
-      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen, zonder onverwachte compositorische keuzes of een uniek standpunt.",
-      "bestand": "images/a006246_6320.webp"
+      "tech_notities": "['Lichte inconsistentie in perspectief: de kerk lijkt op dezelfde hoogte als de boom, maar de horizonlijn loopt er doorheen', 'Textuur van het water is wat schematisch, maar niet storend']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een kerk, water en een boom in een decoratief patroon, zonder verrassende of persoonlijke keuzes.",
+      "bestand": "images/a006258_6332.webp"
     },
     {
-      "id": 6296,
-      "cyclus": 6222,
+      "id": 6331,
+      "cyclus": 6257,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in reflectie van de molen in het water', 'Pen lijkt iets te scherp getekend ten opzichte van de rest van het beeld']",
-      "cliche_notities": "Molen met water en typisch Nederlands landschap in een decoratieve, ansichtkaartachtige compositie zonder duidelijke persoonlijke interpretatie.",
-      "bestand": "images/a006222_6296.webp"
+      "tech_notities": "['Lichte inconsistentie in textuur van papier aan randen', 'Subtiele halo rond regenboog bij overgang naar achtergrond']",
+      "cliche_notities": "Regenboog op waterverf is een klassiek, decoratief motief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a006257_6331.webp"
     },
     {
-      "id": 6289,
-      "cyclus": 6215,
+      "id": 6330,
+      "cyclus": 6256,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen voor- en achtergrond (velden vs. bomen)', 'Subtiele vervorming in de horizontale lijnen van de velden (niet-fysiek plausibel)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch landschap met schuurschutten en een oude deur als symbool van nostalgie, zonder onverwachte invalshoek.",
-      "bestand": "images/a006215_6289.webp"
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de stappen (bovenin smaller dan onderin, maar niet logisch)', 'Sommige bloemen in het gras hebben onnatuurlijke, herhalende vormen', 'Regenboog mist subtieler overgang tussen kleuren (watervlak-effect)']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch huisje met een regenboog en een pad dat de kijker uitnodigt tot een utopische bestemming, zonder onverwachte of uitdagende elementen.",
+      "bestand": "images/a006256_6330.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6254,
-    "gemaakt": 6327,
-    "gekozen": 878,
-    "afgekeurd": 810,
-    "corpus": 73,
+    "cycli": 6263,
+    "gemaakt": 6336,
+    "gekozen": 880,
+    "afgekeurd": 813,
+    "corpus": 72,
     "notities": 331
   }
 }
