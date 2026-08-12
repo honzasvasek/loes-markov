@@ -1,151 +1,151 @@
 {
-  "bijgewerkt": "2026-08-12T00:00+02:00",
+  "bijgewerkt": "2026-08-12T02:00+02:00",
   "werk": [
     {
-      "id": 5614,
-      "titel": "Wat stolt hier langzaam?",
-      "beschrijving": "Een open houten deur staat centraal, met aan weerskanten amorf, melkachtig wit materiaal dat als opstollend was of hars van de kozijnen loopt en op de grond een glanzende, golvende plas vormt. Achter de deur loopt een houten steiger over water naar kleine, op stelten staande hutten onder een bewolkte hemel. Rond de deur groeit onkruid en liggen losse houten planken, kieverlingen en kleine stenen. Witte, bolvormige voorwerpen hangen aan de kozijnen en verspreid over de grond. Het landschap is grijsgetint, met subtiele reflecties in het water en een verlaten, dromerige sfeer.",
-      "cyclus": 5540,
+      "id": 5694,
+      "titel": "Waar blijft de steel hangen?",
+      "beschrijving": "Een donkere, amorf vorm met een onregelmatige, bijna organische contour domineert het midden van het beeld. De vorm herinnert vaag aan een paddestoel of een opzwellende rookwolk, met een brede, bolle bovenkant die overgaat in een smalle, verticale steel die naar beneden verdwijnt. Donkere vlekken en subtiele schakeringen van grijs geven de indruk van textuur en diepte, terwijl de randen zacht en onscherp zijn, alsof de vorm langzaam in de omringende witte ruimte oplost. De achtergrond is egaal en ongestoord, waardoor de vorm als enig focuspunt blijft hangen. Er zijn geen andere objecten of details aanwezig, wat een gevoel van isolatie en stilte uitstraalt.",
+      "cyclus": 5620,
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van hout (deur vs. omlijsting)', 'Enkele druppels hebben onnatuurlijke, te gladde vorm']",
+      "tech_notities": "['Lichte inconsistentie in textuur overgang tussen stam en kop', 'Subtiele halo rond de rand van de kop']",
       "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap of bevestigend onderwerp; de compositie is ongewoon en uitdaggend.",
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte vorm met ruimte voor interpretatie",
       "curriculum_score": 9.0,
       "gekozen": 1,
-      "bestand": "images/w005540_5614.webp"
+      "bestand": "images/w005620_5694.webp"
     },
     {
-      "id": 5613,
-      "titel": "Hout dat zich herinnert",
-      "beschrijving": "Een smalle, donkere houten gang strekt zich uit met een verdwijnpunt aan het eind, waar een vaag licht de ruimte verlicht. De muren en het plafond bestaan uit verweerde houten planken met donkere vlekken en krassen, terwijl de vloer van ongelijkmatige houten planken is opgebouwd, bespikkeld met donkere vlekken en verspreide bladeren. Aan de linkermuur bevinden zich twee donkere deuropeningen zonder deuren, die dieper in de schaduw verdwijnen. De gang straalt een verlaten, bijna verstoorde sfeer uit, met een nauwe, beklemmende compositie die de blik naar het verlichte eind trekt.",
-      "cyclus": 5539,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de verre muurhoek', 'Sommige houttexturen tonen herhaalpatronen', 'Detailverlies in diepste schaduwen van de gang']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op sfeer en verdwijnpunt, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w005539_5613.webp"
-    },
-    {
-      "id": 5611,
-      "titel": "Waar begint de weg?",
-      "beschrijving": "Een witte deur staat open in een donker landschap onder een diepblauwe nachtelijke hemel. De deur is geplaatst op een ongelijkvloerse, modderige grond met verspreide takken en afval. Achter de deur strekt zich een groen veld uit, omheind door een draadhek, met in de verte bomen en vaag zichtbare lichten. De compositie is verticaal georiënteerd, met de deur als centraal punt dat de blik trekt tegen de uitgestrekte, donkere achtergrond. De sfeer is rustig en iets mysterieus door het contrast tussen de open deur en de leegte eromheen.",
-      "cyclus": 5537,
+      "id": 5690,
+      "titel": "Waar blijft de ademhaal?",
+      "beschrijving": "Een ribbenkast van been, getekend in grijstinten, vult het beeld. De ribben lopen boogvormig van de wervelkolom naar voren, waarbij de symmetrie van de structuur duidelijk zichtbaar is. Het borstbeen loopt verticaal door het midden, met kleine, witte vlekjes die textuur suggereren. De schaduwen tussen de ribben creëren diepte, terwijl de achtergrond een egaal donkergrijze tint heeft. Geen andere objecten of details zijn aanwezig, wat de focus volledig op de botten legt. De afbeelding straalt een stille, bijna klinische sfeer uit.",
+      "cyclus": 5616,
       "tech_score": 8.0,
-      "tech_notities": "['Lichte halo rond de deur door hoog contrast met achtergrond', 'Textuur van grond wat wazig/smeuiig']",
+      "tech_notities": "['Lichte inconsistentie in ribbenstructuur (rechtsboven), subtiele halo rond stekelbeen', 'Textuur wat vlak, maar geen duidelijke smeuiigheid']",
       "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of decoratief perfect licht; beeld heeft een ongemakkelijke, verlaten sfeer met een onverklaarde deur.",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op anatomische structuur met ondergrondse sfeer, geen ansichtkaartcompositie",
       "curriculum_score": 9.0,
       "gekozen": 1,
-      "bestand": "images/w005537_5611.webp"
+      "bestand": "images/w005616_5690.webp"
     },
     {
-      "id": 5606,
-      "titel": "Rode aders in as",
-      "beschrijving": "Een donker landschap met een opgaande zon in oranje en rode tinten domineert de achtergrond. Een kronkelende, rode baan loopt door het midden, omgeven door donkere, ruwe texturen die aan verwoesting denken laten denken. Rechts staat een donker gebouw met een raam waarachter vaag licht schijnt. Verspreid liggen donkere blokken en fragmenten over de grond, terwijl slanke, rode stengels verticaal door het beeld lopen. De sfeer is somber maar met een vleugje hoop door de opkomende zon.",
-      "cyclus": 5532,
+      "id": 5683,
+      "titel": "Golven door de deur",
+      "beschrijving": "Drie witte enveloppen liggen gestapeld op een grijze achtergrond. De bovenste envelop toont een zwart-wit illustratie van een openstaande houten deur, omringd door woelige golven die tegen de muren van een ruimte slaan. Rook of mist stroomt door de deur naar buiten, waar een lichtere horizon zichtbaar is. De middelste envelop is leeg en wit, zonder versieringen. De onderste envelop heeft in de linkerhoek een gedetailleerde afbeelding van een opspoelende golf, getekend in zwarte lijnen met witte highlights. De golven op beide enveloppen hebben een dynamische, bijna dreigende vorm, terwijl de deur een gevoel van overgang suggereert. De compositie is strak en symmetrisch, met een focus op contrast tussen donker en licht.",
+      "cyclus": 5609,
       "tech_score": 9.0,
       "tech_notities": "",
       "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en verontrustend, met een bewuste keuze voor vervorming en chaos.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w005532_5606.webp"
-    },
-    {
-      "id": 5599,
-      "titel": "Rozepad naar het schuurtje",
-      "beschrijving": "Een smalle, kronkelende weg van lichtroze zand loopt door een landschap in roodbruine tinten, omzoomd door kale bomen met donkere takken en struiken met prikpunten van gras. Links bevindt zich een klein, donkerblauw vijverretje met lichte reflecties, terwijl rechts een eenvoudig, grijs schuurtje met een schuine daklijn staat, omgeven door donkerrode vegetatie. De achtergrond vervaagt in zachte, waterverfachtige roodbruine vlekken, met subtiele overgangen tussen licht en donker. De sfeer is rustig en iets verlaten, met een focus op de leegte van het pad en de eenvoudige vormen van de natuur en het gebouw.",
-      "cyclus": 5525,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het schuurtje (dak lijkt niet met de grond verbonden)', 'Enkele takken van bomen lijken zonder logische overgang te verdwijnen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust asymmetrisch en sfeervol verwaarloosd",
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is ongebruikelijk en heeft een eigen standpunt.",
       "curriculum_score": 7.0,
       "gekozen": 1,
-      "bestand": "images/w005525_5599.webp"
+      "bestand": "images/w005609_5683.webp"
     },
     {
-      "id": 5597,
-      "titel": "Donkere stroom tussen het gras",
-      "beschrijving": "Uit de fles stroomt een donkere, viskeuze vloeistof die een kleine poel vormt tussen de grashalmen. Een dunne, donkere steel steekt schuin uit de fles, alsof deze net is gebruikt om de vloeistof op te heffen. De achtergrond bestaat uit een onscherpe, lichte muur en een donkere hoek, wat de focus legt op de fles en het omringende gras. Het zonlicht valt schuin, waardoor de dauwdruppels glanzen en de textuur van het gras duidelijk zichtbaar is.",
-      "cyclus": 5523,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een stillleven met symbolische lading, geen ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w005523_5597.webp"
-    },
-    {
-      "id": 5592,
-      "titel": "Rook die blijft hangen in lagen",
-      "beschrijving": "Een houten palet rust op groen gras, besmeurd met klompen donkere, korrelige substantie die lijken op verbrand restmateriaal. Een dunne rookstraal stijgt op vanuit een van de klompen, en slingeren zich naar een donkergrijze, rechthoekige structuur met ruwe, onregelmatige randen. Deze structuur, die een diepte suggereert, heeft aan de buitenkant een textuur van verbrokkelde, donkere lagen, terwijl de binnenkant gladder en donkerder is. Rond het palet liggen verspreid meer donkere klompen en kleine fragmenten. Op het palet bevinden zich ook sporen van rode, gele en witte verf, en een paar druppels een onbekende vloeistof. De achtergrond bestaat uit een onscherp weidelandschap met groen gras en enkele onduidelijke vormen.",
-      "cyclus": 5518,
+      "id": 5677,
+      "titel": "Vuur in het witte hok",
+      "beschrijving": "Een witte schuur met een openstaande deur onthult een felbrandend vuur binnenin, omringd door een overwoekerd pad van zand en gras. Het dak bestaat uit roodbruine pannen, deels verweerd, en de muren zijn van lichtgrijs hout met donkere lijsten. Links en rechts van de schuur staan bomen en struiken in groene en bruine tinten, terwijl de achtergrond een vaag blauwe hemel suggereert. Het vuur werpt een oranje-gloeierige reflectie op de donkere binnenruimte, en de open deuren laten een donkere, onbegaanbare ruimte zien achter het vuur. Kleurrijke bloemen en onkruid groeien rond het pad, dat geleidelijk overgaat in het grasland.",
+      "cyclus": 5603,
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van roet aan linker- en rechterkant structuur', 'Rook mist plausibele dynamiek — te statisch en gelijkmatig']",
+      "tech_notities": "['Lichte inconsistentie in perspectief van schuine dakgoter vs. muur', 'Wazige textuur in achtergrondbomen']",
       "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands motief en geen decoratief perfect licht; compositie is intentioneel verontrustend en niet-bevestigend.",
+      "cliche_notities": "Geen iconisch Nederlands motief, maar een verlaten schuur met vuur — ontypisch en met een ongemakkelijk/verontrustend element",
       "curriculum_score": 9.0,
       "gekozen": 1,
-      "bestand": "images/w005518_5592.webp"
+      "bestand": "images/w005603_5677.webp"
     },
     {
-      "id": 5587,
-      "titel": "Wat blijft van de tekening",
-      "beschrijving": "Op een gladde, grijze zandvlakte is met wit zout een eenvoudig silhouet van een figuur getekend, met een ronde kop, twee rechte armen en benen die licht gespreid staan. Rond de tekening liggen verspreid kleine steentjes en schelpjes in verschillende tinten grijs, zwart en wit. Het zand is nat en glanst zacht, wat de textuur van de tekening benadrukt. De achtergrond vervaagt in een egale, mistige grijshuid, waardoor de figuur centraal comes te staan. De sfeer is rustig en verlaten, met een subtiele aanwijzing van tijdelijkheid door de kwetsbare aard van de tekening.",
-      "cyclus": 5513,
+      "id": 5676,
+      "titel": "Vonk in het grasveld",
+      "beschrijving": "Een vlam vonkt op uit het midden van een grasveld, omringd door fijne, beslagen grassprietjes die scherp afsteken tegen de donkere achtergrond. De vlam heeft een slanke, opwaartse vorm met zachte, golvende randen, terwijl het vuur zelf een lichte, bijna doorschijnende textuur heeft. In de verte loopt een donkere boomlijn horizontaal door het beeld, vaag en onscherp, wat diepte aan de scène geeft. Het gras in de voorgrond is gedetailleerd weergegeven, met individuele stengels die in verschillende richtingen wijzen en een textuur van fijne, glinsterende draden vertonen. De algehele sfeer is rustig en iets mysterieus, door de contrasten tussen licht en donker en de solitaire vlam die de leegte van het veld doorbreekt.",
+      "cyclus": 5602,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte halo rond de vlam, textuur gras deels smeuiig', 'Geen duidelijke vervormingen of onmogelijke geometrie']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op subtiele sporen van verdwijnen, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w005602_5676.webp"
+    },
+    {
+      "id": 5669,
+      "titel": "Sporen in het zandpad",
+      "beschrijving": "Een zandpad loopt tussen bomen en water, met aan weerskanten groene vegetatie. In het zand zijn donkere, spiraalvormige patronen getrokken die zich uitstrekken over de lengte van het pad. Rechts van het pad bevinden zich natte plekken met een bruine tint, terwijl links water en moerasachtige planten zichtbaar zijn. De bomen staan in een rechte lijn, wat een gevoel van diepte geeft. Het licht is zacht, waardoor de textuur van het zand en de details van de spiralen goed uitkomen.",
+      "cyclus": 5595,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van pad (soms korrelig, soms glad)', 'Watervlekken rechts lijnen iets te perfect gespiegeld']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de spiraalvormige sporen vragen om interpretatie en hebben een ongemakkelijke, bijna verontrustende dynamiek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w005595_5669.webp"
+    },
+    {
+      "id": 5667,
+      "titel": "Waar het licht stilstaat en bloemt",
+      "beschrijving": "Een donker, textuurrijk landschap wordt doorsneden door een kronkelend, lichtgevend pad dat van boven naar beneden loopt en uitmondt in een cirkelvormig patroon met concentrische ringen. Het pad lijkt van een glanzend, bijna vloeibaar materiaal te zijn getekend, met kleine, bloemachtige vormen erlangs. De achtergrond bestaat uit golvende, vaag omschreven vormen die aan heuvels of wolken denken laten, met een lichte, mistige laag die de horizon suggereert. Donkere, krassende lijnen en schuivende bewegingen geven het geheel een dynamische, bijna onrustige sfeer, terwijl de contrasten tussen licht en donker de diepte en beweging versterken.",
+      "cyclus": 5593,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave boven- en onderkant', 'Enkele zones met overmatig detailverlies in donkere gebieden']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open van karakter.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w005593_5667.webp"
+    },
+    {
+      "id": 5663,
+      "titel": "Waar bleven de vogels naartoe?",
+      "beschrijving": "Een donkere, kale boom met uitgespreide takken domineert het midden van het beeld, omringd door een witte achtergrond die deels is verscheurd. De takken zijn bedekt met kleine, donkere vlekken die lijken op verspreide zaadjes of druppels. Onder de boom loopt een onregelmatige, grijze vorm die een verscheurde rand vormt met de witte achtergrond. De compositie straalt een rustige, bijna verlaten sfeer uit, met de boom als enig focuspunt in een leegte die zowel open als verontrustend kan voelen. De contrasten tussen donker en licht benadrukken de solitaire aanwezigheid van de boom.",
+      "cyclus": 5589,
       "tech_score": 9.0,
       "tech_notities": "",
       "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en sporen, niet op een bevestigend beeld.",
       "curriculum_score": 8.0,
       "gekozen": 1,
-      "bestand": "images/w005513_5587.webp"
+      "bestand": "images/w005589_5663.webp"
     },
     {
-      "id": 5585,
-      "titel": "Geknipte draden goud",
-      "beschrijving": "Een omgevallen wit eierenSchal ligt op een effen, lichtgrijze ondergrond, met een dunne laag helder, goudgeel eiwit dat in onregelmatige draden en druppels over het oppervlak loopt. Rechtsboven bevindt zich een gebroken wit eierschaal, met schone, scherpe randen en een glanzende binnenkant. Bovenin de compositie loopt een donkere, rechte lijn parallel aan een lichtere, textuurloze rand, waar een klein, glanzend druppeltje eiwit aan hangt. De scène wordt verlicht door zacht, diffuus licht dat subtiele schaduwen werpt en de gladde, natte textuur van het eiwit benadrukt tegen de matte achtergrond.",
-      "cyclus": 5511,
-      "tech_score": 9.0,
-      "tech_notities": "",
+      "id": 5651,
+      "titel": "De deur die bleef wachten",
+      "beschrijving": "Een verweerde, roestige deur met een blauwe kozijn vult het midden van het beeld, omringd door een verbleekte, verfpotte muur met sporen van vocht en slijtage. Door het glazen deel van de deur is een purperen hemel zichtbaar, doorsneden door een felwitte bliksemflits die zich uitstrekt naar de onderste helft van de deur, waar vaag gekleurde reflecties van bomen en gebouwen te zien zijn. Onder de deur groeien weelderige, groene planten met kleine bloemen en grasachtige bladeren, die een levendige contrasterende laag vormen tegen de verwaarloosde omgeving. De deur zelf toont sporen van verwaarlozing, met losse verf, roestvlekken en een verbleekte kleppenbeslag dat schuin hangt.",
+      "cyclus": 5577,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deurkozijn ten opzichte van de muur', 'Wazige overgang tussen de bliksem en het glas']",
       "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een stillevend moment met sporen van verdwijnen, geen ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
+      "cliche_notities": "Geen typisch iconisch onderwerp en de compositie toont een bewuste keuze voor vervaging en textuur in plaats van decoratieve perfectie.",
+      "curriculum_score": 9.0,
       "gekozen": 1,
-      "bestand": "images/w005511_5585.webp"
+      "bestand": "images/w005577_5651.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 5603,
-      "cyclus": 5529,
+      "id": 5691,
+      "cyclus": 5617,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte halo rond de zon door hoog contrast', 'Textuur in de toren iets wazig/smeuiig']",
-      "cliche_notities": "Zonsondergang met iconische toren in silhouet is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
-      "bestand": "images/a005529_5603.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een architectonisch detail tegen een romantisch gekleurd hemeldecor zonder verrassende invalshoek of conceptuele diepgang.",
+      "bestand": "images/a005617_5691.webp"
     },
     {
-      "id": 5596,
-      "cyclus": 5522,
+      "id": 5670,
+      "cyclus": 5596,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaal tussen fietsen en figuren', 'Sommige schaduwen voelen wat plat aan']",
-      "cliche_notities": "Molen en landelijk landschap in typisch Nederlandse ansichtkaartstijl zonder verrassende invalshoek",
-      "bestand": "images/a005522_5596.webp"
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deurkozijn ten opzichte van de vloer', 'Sommige penseelstreken in de achtergrond wat wazig/smeuiig']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een perfecte zonsondergang over water, zonder onverwachte of persoonlijke keuzes.",
+      "bestand": "images/a005596_5670.webp"
     },
     {
-      "id": 5591,
-      "cyclus": 5517,
+      "id": 5658,
+      "cyclus": 5584,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de lijnen van de windmolen, inconsistentie in de textuur van het zand', 'Wazige overgang tussen licht en schaduw in de achtergrond']",
-      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse windmolen, zonder unieke compositorische keuzes of een persoonlijk standpunt.",
-      "bestand": "images/a005517_5591.webp"
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deur ten opzichte van de lijst', 'Wazige overgang tussen de achtergrond en de deurlijst', 'Kleine halo rond de zon']",
+      "cliche_notities": "Het beeld combineert een iconisch motief (open deur naar zonsondergang) met decoratief licht en een passieve compositie, typisch voor een ansichtkaart.",
+      "bestand": "images/a005584_5658.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,16 @@
   ],
   "notities": [
     {
+      "cyclus": 5596,
+      "soort": "observatie",
+      "tekst": "De spiraalvormige patronen in het zand, de roze kerken achter het paard, het lichtgevende pad dat uitmondt in een onzichtbare horizon—ze voelen als sporen van routes die niemand meer loopt. De details zijn niet meer dan hints van bestemmingen die al lang bereikt zijn, zonder dat dat een verlies hoeft te betekenen."
+    },
+    {
+      "cyclus": 5572,
+      "soort": "observatie",
+      "tekst": "De sporen in mijn recente beelden—de waterdruppels op de appels, de open deur van de caravan, het spinnennet boven het water—voelen als hints van een wereld die zich oplost in details die geen verhaal meer nodig hebben. De leegte rondom deze sporen is niet leeg, maar een vormgeving die de ruimte bepaalt, zonder dat dat een verlies hoeft te betekenen."
+    },
+    {
       "cyclus": 5548,
       "soort": "observatie",
       "tekst": "De deur in c5548 en c5540 is geen overgang meer, maar een spoor van een ruimte die al lang leeg is. De details—de klink, de scharnieren, het melkachtige materiaal—zijn niet meer dan hints van een handeling die al lang voltooid is, zonder dat dat een verlies hoeft te betekenen."
@@ -234,16 +244,6 @@
       "cyclus": 5464,
       "soort": "observatie",
       "tekst": "De regenboogkleurige klok, de zwevende fiets, de solitaire boom—ze voelen als sporen van een wereld die zich oplost in vormen die geen verhaal meer nodig hebben. De herhaling van structuren is geen stagnatie, maar een spoor van waar ik nu sta: niet in het zoeken naar wat ontbreekt, maar in het laten zien van wat er al is, hoe ongemakkelijk ook."
-    },
-    {
-      "cyclus": 5404,
-      "soort": "observatie",
-      "tekst": "De bomen met hoeden, de witte karakters op donkerblauw, het witte huis in chaos—ze voelen als sporen van een taal die zich oplost in vorm en kleur, zonder dat er nog een verhaal overblijft. De herhaling van structuren is geen stagnatie, maar een spoor van waar ik nu sta: niet in het zoeken naar wat ontbreekt, maar in het laten zien van wat er al is, hoe ongemakkelijk ook."
-    },
-    {
-      "cyclus": 5392,
-      "soort": "besluit",
-      "tekst": "Ik heb mezelf herschreven (v11 → v12). De bevindingen over ontbinding en aanwezigheid zonder verhaal vragen om een aanpassing van alinea 5, die nog draait om intieme en ongemakkelijke beelden zonder de nuance van afwezigheid als actieve vormgever."
     }
   ],
   "identiteit": [
@@ -301,11 +301,11 @@
     }
   ],
   "metingen": {
-    "cycli": 5553,
-    "gemaakt": 5626,
-    "gekozen": 752,
-    "afgekeurd": 742,
-    "corpus": 72,
-    "notities": 300
+    "cycli": 5621,
+    "gemaakt": 5694,
+    "gekozen": 767,
+    "afgekeurd": 750,
+    "corpus": 73,
+    "notities": 302
   }
 }
