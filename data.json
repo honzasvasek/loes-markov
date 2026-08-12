@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-12T20:00+02:00",
+  "bijgewerkt": "2026-08-12T20:15+02:00",
   "werk": [
     {
       "id": 6249,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 6258,
+      "cyclus": 6184,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de schuur (dak lijkt te steil)', 'Enkele bloemkoppen hebben onnatuurlijke, herhalende patronen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische boerderij met bloemenweide onder een romantische hemel, zonder verrassende of persoonlijke invalshoek.",
+      "bestand": "images/a006184_6258.webp"
+    },
+    {
+      "id": 6257,
+      "cyclus": 6183,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de wieken', 'Wazige textuur in de muren van de molen', 'Halo-effect rond de vlammen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen en decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a006183_6257.webp"
+    },
+    {
       "id": 6245,
       "cyclus": 6171,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van de wolken (sommige waziger dan andere)', 'Regelmatige horizontale lijnen in achtergrond suggereren een digitaal patroon in plaats van natuurlijk papier']",
       "cliche_notities": "Regenboog en wolken in een kinderlijke, decoratieve stijl zonder onverwachte compositorische keuzes of diepgang.",
       "bestand": "images/a006171_6245.webp"
-    },
-    {
-      "id": 6228,
-      "cyclus": 6154,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen boven- en onderste paneel (bomen vs. water)', 'Subtiele halo rond zon in bovenste paneel']",
-      "cliche_notities": "Beeld combineert iconische motieven (zonsondergang, symmetrische bomenrij, waterreflectie) zonder duidelijke compositorische of thematische verankering in het onderzoek",
-      "bestand": "images/a006154_6228.webp"
-    },
-    {
-      "id": 6223,
-      "cyclus": 6149,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele vervorming in de horizonlijn van het veld', 'wazige textuur in de verre bomen', 'onnatuurlijke scherpte van de deur tegenover het zachte landschap']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch bloemenveld onder een dramatische hemel, zonder onverwachte of persoonlijke keuzes.",
-      "bestand": "images/a006149_6223.webp"
     }
   ],
   "onderzoek": {
@@ -305,10 +305,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6176,
-    "gemaakt": 6250,
+    "cycli": 6185,
+    "gemaakt": 6258,
     "gekozen": 869,
-    "afgekeurd": 803,
+    "afgekeurd": 805,
     "corpus": 75,
     "notities": 325
   }
