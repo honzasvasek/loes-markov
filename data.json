@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T01:30+02:00",
+  "bijgewerkt": "2026-08-13T01:45+02:00",
   "werk": [
+    {
+      "id": 6423,
+      "titel": "Wat blijft drijven?",
+      "beschrijving": "Een verzonken landschap met bruin, rustig water dat de horizon raakt. Vier kale bomen steken eruit, hun takken fijn en wisselend. Links staat een metalen windmolen met een ronde kap van donkere en lichte segmenten, gedeeltelijk ondergedompeld. De achtergrond toont een vaag silhouet van bomen en een lichte hemel. Het water heeft lichte rimpelingen en reflecteert de bomen en de windmolen zwak. De sfeer is stil en verlaten, met een monotone kleurstelling van bruin, grijs en beige.",
+      "cyclus": 6349,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in reflecties op water (bomen vs. molens)', 'Subtiele halo rond molens tegen hemel']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een ongemakkelijke, verlaten scène met onverklaarde spanning.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006349_6423.webp"
+    },
     {
       "id": 6417,
       "titel": "Oranje paars scheurt door blauw",
@@ -104,19 +117,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006296_6370.webp"
-    },
-    {
-      "id": 6369,
-      "titel": "Wat verborgen ligt achter die vogels",
-      "beschrijving": "Een donkerbruine houten deur met vier rechthoekige panelen vult het midden van het beeld. Op elk paneel bevinden zich subtiele, goudkleurige ornamenten die lijken op gestileerde vogels en abstracte patronen. De deur is omgeven door een verweerde muur met afblazend wit pleisterwerk en zichtbare stenen en mortel. Een metalen deurkruk bevindt zich aan de rechterkant, iets boven het midden. De houten lamellen van de deur tonen natuurlijke slijtage en knoesten, terwijl de onderkant van de deur lichter en meer verbleekt is dan de bovenkant. De randen van de deurlijst zijn donker en iets verweerd, en de vloer voor de deur bestaat uit een gladde, lichtgrijze stenen plaat.",
-      "cyclus": 6295,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur tussen boven- en onderpanelen', 'Deurklink ontbreekt logische schaduw']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is neutraal en de symboliek is niet direct herkenbaar als toeristisch.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006295_6369.webp"
     }
   ],
   "afgekeurd": [
@@ -309,9 +309,9 @@
     }
   ],
   "metingen": {
-    "cycli": 6355,
-    "gemaakt": 6428,
-    "gekozen": 895,
+    "cycli": 6363,
+    "gemaakt": 6436,
+    "gekozen": 896,
     "afgekeurd": 824,
     "corpus": 74,
     "notities": 333
