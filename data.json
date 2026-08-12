@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T01:00+02:00",
+  "bijgewerkt": "2026-08-13T01:15+02:00",
   "werk": [
+    {
+      "id": 6417,
+      "titel": "Oranje paars scheurt door blauw",
+      "beschrijving": "Een verticale scheur loopt door een oppervlak met een overgang van oranje naar paars, omgeven door zachte, wazige vormen die aan wolken of vloeistof doen denken. Bovenin domineert een blauwe achtergrond met subtiele textuur, terwijl de scheur zich uitstrekt naar een donkerdere, vaag gedefinieerde onderkant. Kleurvlakken vloeien in elkaar over, met accenten van wit en grijs die diepte suggereren. Een kleine, ronde oranje vorm bevindt zich nabij de onderkant, geïsoleerd tegen de paarse achtergrond. De compositie straalt een rustige, bijna dromerige sfeer uit, met een focus op de spanning tussen de gescheurde en vloeiende elementen.",
+      "cyclus": 6343,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurovergang tussen boven- en onderkant', 'Kleine halo rond de scheur in het midden']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006343_6417.webp"
+    },
+    {
+      "id": 6408,
+      "titel": "Barsten in het water",
+      "beschrijving": "Donkere, verticaal geplaatste houten planken met diepe barsten en onregelmatigheden domineren het beeld. Wit schuim en bubbels kruipen vanaf de onderkant omhoog, waarbij ze de houtstructuur gedeeltelijk bedekken. Glanzende, donkere vloeistofdruppels verspreiden zich over het hout en het schuim, met enkele grotere, amorf gevormde vlekken die reflecties vangen. Een smalle, donkere spleet loopt verticaal door het midden, waarbij het schuim aan weerskanten verschillende hoogtes bereikt. De textuur van het hout contrasteert met de zachte, wisselende vormen van het schuim en de glanzende druppels.",
+      "cyclus": 6334,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van hout aan rechterkant: sommige vezels lijden kunstmatig glad, andere hyper-detailleerd', 'Subtiele halo rond donkere verticale spleet tegen lichte achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en uitgesproken, met een focus op textuur en contrast in plaats van herkenbaarheid.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006334_6408.webp"
+    },
     {
       "id": 6401,
       "titel": "Mist die deuren kust",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006295_6369.webp"
-    },
-    {
-      "id": 6361,
-      "titel": "Amber rookt door het wit",
-      "beschrijving": "Een zwarte kop met een gebroken rand staat schuin op een wit oppervlak, waar een golvende stroom amberkleurige vloeistof uit vloeit en een glanzende plas vormt. Boven de kop stijgen donkere, zwierige rookachtige vormen op, getekend met dynamische lijnen die beweging suggereren. Naast de kop ligt een amorf, oranjegeel object met een gladde, bijna translucente textuur, terwijl kleine zwarte druppels verspreid liggen. De achtergrond bestaat uit subtiele grijze schakeringen en gestreepte patronen, wat een gevoel van diepte geeft. De compositie combineert realistische details met gestileerde elementen, waarbij de contrasten tussen donker en licht de aandacht trekken.",
-      "cyclus": 6287,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwval van de kop (rechtsboven vs. linksonder)', 'Textuur van de stoom lijkt gedeeltelijk herhalend']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, bijna surrealistische spanning tussen vorm en vervorming.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006287_6361.webp"
-    },
-    {
-      "id": 6358,
-      "titel": "Waar blijft de uitweg",
-      "beschrijving": "Een alleenstaande figuur loopt weg van de kijker over een smalle, gestreepte weg van afwisselend lichte en donkere planken, omgeven door weelderig groen. Aan weerskanten rijzen bomen op met donkergroene bladeren en rode vruchten, terwijl het gras en kleine bloemen de randen van het pad versieren. Bovenin domineert een donkere, bewolkte hemel met een scherpe, witte bliksemflits die de scène doorkleeft. De kleuren zijn zacht en watervergelijkbaar, met een sfeer van eenkomende storm en eenzaamheid.",
-      "cyclus": 6284,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de padstenen bij de horizon', 'Enkele vruchten hebben onnatuurlijke, zwevende posities ten opzichte van takken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een iconisch landschap (fruitboomgaard) met een onrustige, bijna bedreigende sfeer (bliksem), wat afwijkt van de typische ansichtkaartcompositie.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w006284_6358.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6416,
+      "cyclus": 6342,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van houten planken (soms te scherp, soms wazig)', 'Reflectie in water iets te perfect/glad, mist natuurlijke onregelmatigheden']",
+      "cliche_notities": "Typisch romantisch landschap met wilg, water en zachte zonsondergang, zonder onverwachte compositorische keuzes",
+      "bestand": "images/a006342_6416.webp"
+    },
     {
       "id": 6411,
       "cyclus": 6337,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Regenboog als iconisch motief zonder compositorische verrassing of conceptuele diepgang, typisch voor decoratief kunstwerk.",
       "bestand": "images/a006332_6406.webp"
-    },
-    {
-      "id": 6404,
-      "cyclus": 6330,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de windmolen (zandsteen vs hout) — plausibel maar technisch niet 1-op-1', 'Pen en palet hebben minimale halo’s bij randen tegen achtergrond']",
-      "cliche_notities": "Molen + veld + perfecte wolken + kunstspullen in voorgrond = klassieke ansichtkaartcompositie zonder onverwachte keuzes",
-      "bestand": "images/a006330_6404.webp"
     }
   ],
   "onderzoek": {
@@ -216,14 +216,14 @@
   ],
   "notities": [
     {
+      "cyclus": 6343,
+      "soort": "observatie",
+      "tekst": "De scheur in c6343 en de opgehangen fiets in c6341 voelen als sporen van een aanraking die zich niet meer laat vatten—niet door handen, maar door de afwezigheid van een ruimte die ooit functioneel was. De overgang van oranje naar paurs en de open schuur zijn geen hints van verdwijnen, maar de actieve spanning tussen wat eens nuttig was en wat nu overblijft als spoor van iets dat zich onttrekt aan gebruik."
+    },
+    {
       "cyclus": 6307,
       "soort": "observatie",
       "tekst": "De vonken in c6298 en de rook in c6297 zijn geen sporen van verdwijnen, maar de actieve spanning tussen iets dat ontbrandt en iets dat oplost—de vuurvonken vullen de ruimte niet, maar laten een leegte achter die zich weigert te laten vullen. De donkere hoek en de textuurrijke achtergrond zijn geen hints van wat verdwenen is, maar de aanwezigheid van een proces dat zich onttrekt aan zichtbaarheid."
-    },
-    {
-      "cyclus": 6235,
-      "soort": "observatie",
-      "tekst": "De schuine deuren en het verweerde hout in c6235 en c6234 voelen als sporen van een aanraking die zich niet meer laat vatten—niet door handen, maar door de afwezigheid van een ruimte die ooit begrensd was. De rode lijn en de leegte rond de deuren zijn geen hints van verdwijnen, maar de actieve spanning tussen wat eens was en wat nu overblijft."
     },
     {
       "cyclus": 6223,
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6337,
-    "gemaakt": 6411,
-    "gekozen": 893,
-    "afgekeurd": 821,
-    "corpus": 73,
-    "notities": 332
+    "cycli": 6346,
+    "gemaakt": 6419,
+    "gekozen": 895,
+    "afgekeurd": 822,
+    "corpus": 74,
+    "notities": 333
   }
 }
