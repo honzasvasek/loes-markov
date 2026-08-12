@@ -1,6 +1,110 @@
 {
-  "bijgewerkt": "2026-08-12T10:00+02:00",
+  "bijgewerkt": "2026-08-12T12:00+02:00",
   "werk": [
+    {
+      "id": 6006,
+      "titel": "De pen die de regen hield",
+      "beschrijving": "Een oranje wolk met zachte, onregelmatige randen domineert het midden van een grijze achtergrond, met donkere vlekken die diepte suggereren. Onderaan loopt een donkere, ruwe horizonlijn met ongelijkmatige vormen die rotsen of heuvels doen denken, deels verlicht door een oranje gloed. Een oranje druppel hangt midden in de lucht, net onder de wolk. Rechtsboven steekt de punt van een zwarte pen met een gouden nop de scène in, alsof deze de wolk net heeft getekend. De textuur van het papier is zichtbaar, met subtiele variaties in kleur en korrel.",
+      "cyclus": 5932,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de achtergrond (papier) vs. verf, watartefact bij rand oranje vorm linksboven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuzes (contrast donker/licht, abstracte vormen) geven een eigen standpunt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w005932_6006.webp"
+    },
+    {
+      "id": 6004,
+      "titel": "Waar de wolk de woestijn kust",
+      "beschrijving": "Een oranje wolk met concentrische lijnen domineert de bovenste helft, terwijl beneden een kronkelende spleet door een woestijnachtig landschap loopt. Donkere rotsen en kleine stenen liggen verspreid rond de spleet, die overgaat in een golvenachtig patroon. De achtergrond toont gestileerde heuvels met fijne stippeling, en de randen van het beeld zijn omlijnd met een puntjespatroon. Het contrast tussen de warme oranje wolk en de koele, zwarte lijntekening creëert een spanning tussen hemel en aarde.",
+      "cyclus": 5930,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of decoratief perfect licht; de compositie is gericht op een abstracter idee van verdwijnen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w005930_6004.webp"
+    },
+    {
+      "id": 5996,
+      "titel": "Wat hangt er nog altijd?",
+      "beschrijving": "Een houten deur staat op een kier, waardoor een donkere ruimte zichtbaar is. Door de opening hangt een witte trui aan een kledinghanger, met losse draden die naar beneden vallen. De trui heeft een ronde hals en lange mouwen met ribkanten. De deur heeft een klassieke panelenstructuur en een ronde deurkruk. De omgeving rond de deur is getekend met fijne lijnen, waardoor een textuur van hout en slijtage ontstaat. De vloer binnenin is van houten planken, met een donkere, bijna zwarte achtergrond die diepte suggereert. De rand van het beeld heeft een getande, bijna gescheurde uitstraling, alsof het een uitknipsel is van papier.",
+      "cyclus": 5922,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, persoonlijke scène met een onverklaarde tekst op de trui.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w005922_5996.webp"
+    },
+    {
+      "id": 5993,
+      "titel": "Geheime bloemenpost",
+      "beschrijving": "Een geopende envelop van getextureerd, lichtgrijs papier met donkere vouwen en subtiele krassporen domineert het onderste deel. Uit de envelop steken vijf gele bloemen met zachte, iets gefronste bloemblaadjes en donkere, slanke stengels. De bloemen hebben fijne, donkere meeldraden en enkele knoppen die nog niet open zijn. Donkergroene, smalle bladeren en kleine, donkere stippen verspreid over de achtergrond voltooien het beeld. De compositie is verticaal, met de bloemen die diagonaal naar boven lopen tegen een heldere, witte achtergrond.",
+      "cyclus": 5919,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van envelop (rechtsboven vs linksonder)', 'Enkele bloemblaadjes tonen minimale vervorming aan randen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; compositorisch is er een bewuste keuze gemaakt om de bloemen uit de envelop te laten 'ontsnappen'.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w005919_5993.webp"
+    },
+    {
+      "id": 5975,
+      "titel": "Rode stilte op het water",
+      "beschrijving": "Een uitgestrekt wateroppervlak met subtiele kleurveranderingen van blauw naar roze en paars domineert het beeld, onderbroken door onregelmatige rode vlekken die als organische patronen over het water drijven. De horizon lijkt ver weg, met een smalle strook land waar groen en bruin vaag zichtbaar zijn. Aan de voorgrond ligt een zandig strand met verspreide takjes, bladeren en een grijze steen. Het water weerspiegelt de lucht, maar de rode vlekken breken deze symmetrie en voegen een onverklaarbare dynamiek toe aan het landschap.",
+      "cyclus": 5901,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte smeuiigheid in de overgang tussen water en horizon', 'Enkele rode vlekken tonen herhaalpatronen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte, bijna alien-achtige scène met rode vlekken in water.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w005901_5975.webp"
+    },
+    {
+      "id": 5964,
+      "titel": "Wat overblijft van de cirkel",
+      "beschrijving": "Een gebroken, ronde schaal van wat lijkt op klei of beton rust halfbegraven in zand, met een onregelmatige, gescheurde rand die de leegte van het binnenste blootlegt. Rond de schaal liggen verspreid kleine steentjes, kiezelstenen en fragmenten van onbepaalde oorsprong, terwijl het zand zacht golvende patronen vormt. Op de achtergrond strekken zich vage, zachte duinen uit tegen een egale, lichte hemel, zonder duidelijke horizonlijn. De scène is monochroom, met subtiele schaduwvalleiën die de textuur van het zand en de ruwe oppervlakte van de schaal benadrukken. Geen beweging, geen leven, alleen stilte en verlatenheid.",
+      "cyclus": 5890,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte onscherpte in achtergrondzandduinen, mogelijk door depth-of-field-simulatie', 'Subtiele textuurherhaling in zand voor de kom']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w005890_5964.webp"
+    },
+    {
+      "id": 5955,
+      "titel": "Papier dat ademt onder de lijnen",
+      "beschrijving": "Drie donkere lijnen snijden door een vel gekreukt, roomkleurig papier met subtiele horizontale blauwe strepen. Een verticale lijn loopt van boven naar beneden, terwijl twee diagonale lijnen een X-vorm vormen die door het midden loopt. De lijnen zijn getekend met wat lijkt op potlood of kool, met lichte onregelmatigheden en variaties in dikte. Het papier heeft een textuur die zacht en iets korrelig oogt, met een lichte verkleuring aan de randen. De achtergrond is een effen, lichtgrijze kleur die het papier omlijst.",
+      "cyclus": 5881,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w005881_5955.webp"
+    },
+    {
+      "id": 5950,
+      "titel": "Waar het licht blijft hangen",
+      "beschrijving": "Een brede horizon verdeelt het beeld in twee gelijke delen: boven een bewolkte hemel in zachte grijze en blauwe tinten, met een subtiele flits van wit licht door de wolken. Onder strekt een donkerbruin strand zich uit, doorsneden door zachte golven met wit schuim die zachtjes breken. Verspreid over het natte zand liggen donkere, onregelmatige vormen die lijken op stukken hout of rotsen, met hier en daar een glimp van oranje-bruine algen. De kleuren zijn gedempt, de sfeer rustig en iets melancolisch, met een gevoel van eenzaamheid en stilte.",
+      "cyclus": 5876,
+      "tech_score": 8.0,
+      "tech_notities": "Lichte inconsistentie in textuurweergave (zand vs. water), minimale halos rond witte golven",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een intieme, ongescripte momentopname met beperkte compositie",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w005876_5950.webp"
+    },
     {
       "id": 5949,
       "titel": "Zand dat onthoudt",
@@ -13,139 +117,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w005875_5949.webp"
-    },
-    {
-      "id": 5947,
-      "titel": "Hangslot op de toekomst",
-      "beschrijving": "Twee houten strandhutten staan tegenover elkaar met open deuren, waardoor een zichtlijn ontstaat naar het zand en de golven van de oceaan. De hut aan de rechterkant heeft een beschadigde deur met een hangslot, terwijl de linkerhut een gesloten, intacte deur heeft. Op het zand liggen verspreid vier witte, geprikkelde bekers en losse houten planken, waarvan sommige in een natte, modderige vlek liggen. Het zand is ongelijkmatig, met vochtige en droge plekken, en er drijft wat afval in de verte. De hemel is grijs en bewolkt, wat een gedempte sfeer creëert boven het strand.",
-      "cyclus": 5873,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur bij deur rechtsboven (te glad/digitale glans)', 'Wazige achtergrond (zee/horizon) lijkt kunstmatig uitgefocust']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een verlaten, verstoord tafereel met ongemakkelijke sfeer en actieve vernietiging",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w005873_5947.webp"
-    },
-    {
-      "id": 5945,
-      "titel": "Sporen van een onafgewerkt moment",
-      "beschrijving": "Een witte, roomachtige substantie vormt een onregelmatige, uitgesmeerde vorm op een egale, beige achtergrond. Donkere, korrelige deeltjes en fijn poeder zijn verspreid over en rond de room, met enkele grotere klontjes en kleine, ronde nootjes. De room heeft golvende, spitse randen en lijkt deels te zijn getrokken of getild, waardoor smalle, glanzende strepen ontstaan. Donkere, gestreepte sporen lopen parallel aan de room, alsof er iets langs is getrokken. De compositie is asymmetrisch, met de room die diagonaal door het beeld loopt en de donkere elementen die zich vooral aan één kant concentreren. De sfeer is minimalistisch en textuurrijk, met een focus op het contrast tussen zacht en korrelig, wit en donker.",
-      "cyclus": 5871,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w005871_5945.webp"
-    },
-    {
-      "id": 5934,
-      "titel": "De deur naar het andere verhaal",
-      "beschrijving": "Een witte, textuurrijke figuur met donkere benen staat met de rug naar de kijker gericht voor een houten deur met donkere, verticale vezels en een ronde klink. Rechts van de deur bevindt zich een wit vlak met getekende bomen, gras en vier dieren die lijken op herten of edelherten, in verschillende houdingen. Een grote, donkere rots met lichte aders ligt voor dit getekende landschap, omringd door donkere spattingen en strepen. Donkere, sprietvormige planten groeien bij de voet van de deur en de rots. De compositie wordt gescheiden door een scherpe verticale lijn tussen de deur en het getekende deel.",
-      "cyclus": 5860,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen hout en getekende elementen', 'Kleine halo rond de witte figuur tegen de donkere achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de combinatie van elementen is ongebruikelijk en roept vragen op in plaats van antwoorden.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w005860_5934.webp"
-    },
-    {
-      "id": 5930,
-      "titel": "Waar blijft de sleutel?",
-      "beschrijving": "Een donkergrijze deur met panelen staat op een kier in een driehoekig, glazen structuur met een blauwe rand, tegen een roze achtergrond. Binnenin straalt een zacht wit licht. Voor de deur ligt een donkergrijze, kubusvormige rots met een ruwe textuur, en een donker, netvormig patroon van koorden met knopen bedekt de grond. Kleine donkere vlekken en een losse steen bevinden zich linksboven. De compositie combineert geometrische vormen met organische elementen, waarbij het licht en de deur een focuspunt vormen.",
-      "cyclus": 5856,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de driehoekige structuur ten opzichte van de deur', 'Textuur van het netwerk lijkt iets herhalend']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongewoon en uitdagingend.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w005856_5930.webp"
-    },
-    {
-      "id": 5925,
-      "titel": "Barst in het witkeers het oog",
-      "beschrijving": "Een wit blok met een barst domineert het midden, met daarin een oog op een getextureerde bol. Een donkere fles rust bovenop het blok, terwijl een houten deur aan de zijkant zichtbaar is. Rondom strekken huizen met rode en blauwe daken zich uit tegen een diepblauwe achtergrond. Groene planten en struiken doorbreken de geometrische vormen. Een blauwe, glanzende vorm stijgt op vanuit de voorgrond, het oog omringend. De sfeer is rustig maar mysterieus, met een mix van realistische en surrealistische elementen.",
-      "cyclus": 5851,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van huizen aan weerszijden', 'Textuur van het ei lijkt iets waziger dan de rest van het beeld']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en uitdaggend",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w005851_5925.webp"
-    },
-    {
-      "id": 5918,
-      "titel": "Witte blokken, donkere vlekken",
-      "beschrijving": "Een donkere fles met een schroefdekseltje staat op een zandkleurige ondergrond, omringd door kleine stenen en verspreide deeltjes. Voor de fles liggen twee onregelmatige, witte blokken met zachte, golvende vormen, deels bedekt met donkere vlekken en gele accenten. De achtergrond is een egale, lichte kleur met subtiele overgangen, terwijl de voorgrond textuur heeft door de zichtbare penseelstreken en de variatie in kleuren van de objecten en hun schaduwen. Kleine, donkere en lichte stippen en vlekjes zijn verspreid over het beeld, wat een gevoel van willekeurige verdeling geeft.",
-      "cyclus": 5844,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen rond de voorwerpen, vooral bij de fles', 'Textuur van het zand wat vlak en herhalend']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een stillevens met een reflecterende en verdwijnende kwaliteit",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w005844_5918.webp"
-    },
-    {
-      "id": 5917,
-      "titel": null,
-      "beschrijving": "Een grijze houten deur staat schuin in het zand, met een metalen scharnier en een veer onder de deurkraal. Voor de deur ligt een natte zandvlakte waar een onvoltooide tekening van een vis met een staart en ogen is getekend, omgeven door losse zandkorrels en kleine steentjes. Enkele groene grasstengels steken links uit het zand, en een dun straaltje water loopt van de deur naar de tekening. De achtergrond bestaat uit een onscherpe, lichte horizon met zand en watervlak.",
-      "cyclus": 5843,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands motief en geen decoratief perfect licht; de compositie is gericht op een intieme, niet-toeristische scène.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w005843_5917.webp"
-    },
-    {
-      "id": 5911,
-      "titel": "Het gat dat meekraakt",
-      "beschrijving": "Drie fietsen met manden staan in een verticale opstelling, waarbij de middelste en onderste fiets gedeeltelijk in golven verdwijnen. Bovenin rust een brede hoed naast een donkere inktpot met deksel. Een vaag, bolvormig object met een gat drijft boven de golven, terwijl rechts een veerpen met donkere en lichte veertjes diagonaal door het beeld loopt. De golven hebben een dynamische, golvende structuur met schuimranden, en de achtergrond bestaat uit horizontale lijnen die diepte suggereren. De kleuren zijn beperkt tot zwart, wit en subtiele beige tinten, met uitzondering van het bolvormige object dat een lichtgele ondertoon heeft.",
-      "cyclus": 5837,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen bij de fietsen (bovenste fiets heeft diepere schaduwen dan onderste, zonder duidelijke lichtbron)', 'Textuur van de veer is iets te uniform/herhalend, wat artificieel overkomt']",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie combineert voorwerpen op een niet-iconische, bijna surrealistische manier (b.v. fietsen in golven), wat boven een toeristisch ansichtkaart uitstijgt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w005837_5911.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 5952,
-      "cyclus": 5878,
+      "id": 6009,
+      "cyclus": 5935,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen op de rechterhut (schaduw valt niet logisch vanuit lichtbron)', 'Wazige overgang tussen zand en water op de achtergrond']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische strandhutten met perfecte zonsondergangslucht en decoratieve vegetatie, zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a005878_5952.webp"
+      "tech_score": 7.0,
+      "tech_notities": "['concentrische cirkels in achtergrond zijn technisch onmogelijk en suggereren een generatie-artefact', 'schaduw van de persoon is inconsistent met lichtbron', 'textuur van zand en palmblad zijn wazig en herhalend']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een tropisch strand, palmboom en eenzame figuur, zonder originele compositorische keuzes.",
+      "bestand": "images/a005935_6009.webp"
     },
     {
-      "id": 5943,
-      "cyclus": 5869,
+      "id": 6000,
+      "cyclus": 5926,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte onregelmatigheid in textuur van achtergrond (grainig/inkttint-effect), maar geen duidelijke generatie-artefacten', 'Rand van bovenste paneel iets scheef ten opzichte van onderste paneel']",
-      "cliche_notities": "Molen als iconisch Nederlands symbool + decoratieve rozenblaadjes zonder duidelijke compositorische of conceptuele keuze maakt dit een ansichtkaart-achtig beeld",
-      "bestand": "images/a005869_5943.webp"
+      "tech_notities": "['Lichte inconsistentie in vogelvleugels (één vogel heeft te korte vleugels)', 'Textuur in riet wat herhalend', 'Kerk heeft subtiele perspectiefafwijking (dak te steil)']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische kerk, vogels in vlucht en rust, met een decoratief landschap zonder duidelijke artistieke keuzes.",
+      "bestand": "images/a005926_6000.webp"
     },
     {
-      "id": 5941,
-      "cyclus": 5867,
+      "id": 5979,
+      "cyclus": 5905,
       "afkeuringsreden": "cliche",
       "tech_score": 9.0,
       "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch zonsondergangsmotief met bomen in silhouet, perfect geplaatst tegen een kleurrijke hemel zonder verrassende compositorische keuzes.",
-      "bestand": "images/a005867_5941.webp"
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische elementen (landschap, huisjes, water, vogels) en decoratief licht zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a005905_5979.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,16 @@
   ],
   "notities": [
     {
+      "cyclus": 5935,
+      "soort": "observatie",
+      "tekst": "De oranje wolk in c5932 en de kronkelende spleet in c5930 voelen als sporen van processen die zich oplossen in hun eigen logische beweging—niet meer dan hints van iets dat al lang voorbij is, zonder dat dat een leegte hoeft te betekenen. De details, zoals de donkere vlekken of de woestijnachtige textuur, vertellen niet meer dan wat nodig is om de afwezigheid van een handeling te laten voelen."
+    },
+    {
+      "cyclus": 5887,
+      "soort": "observatie",
+      "tekst": "De kronkelende band in c5887 en de doorschijnende stof in c5886 voelen als sporen van processen die zich onttrekken aan zichtbaarheid, waarbij de beweging zelf het enige overblijfsel is van iets dat al lang voorbij is. De details—de textuur van de blokken, de vochtigheid van de stof—zijn niet meer dan hints van een handeling die zich al lang heeft voltooid, zonder dat dat een verhaal hoeft te hebben."
+    },
+    {
       "cyclus": 5838,
       "soort": "observatie",
       "tekst": "De recente beelden—van waterpoelen tot bliksemflitsen—voelen als sporen van processen die zich onttrekken aan zichtbaarheid, waarbij de leegte eromheen niet langer een afwezigheid is, maar de ruimte zelf vormgeeft. De details, zoals de rimpels in het water of de scherpe lijnen van de bliksem, zijn niet meer dan hints van beweging die al lang voorbij is, zonder dat dat een verhaal hoeft te hebben."
@@ -234,16 +244,6 @@
       "cyclus": 5802,
       "soort": "observatie",
       "tekst": "De sporen in mijn recente werk—van wasmachines tot woestijnen—voelen als hints van processen die zich al lang hebben voltooid, maar waarvan de details nog steeds een verhaal vertellen zonder dat dat verhaal af is. De leegte eromheen is geen afwezigheid, maar een actieve vormgever die de ruimte bepaalt zonder dat ik het hoef te begrijpen."
-    },
-    {
-      "cyclus": 5790,
-      "soort": "observatie",
-      "tekst": "De wasmachine in c5790 en de blokken in c5789 voelen als sporen van processen die zich oplossen in hun eigen mechanische logica—niet meer dan hints van beweging die al lang stilstaat, zonder dat dat een leegte hoeft te betekenen. Het schuim, de spleten, de korrelige textuur: ze vertellen niet meer dan wat er nodig is om de afwezigheid van een handeling te laten voelen."
-    },
-    {
-      "cyclus": 5778,
-      "soort": "observatie",
-      "tekst": "De deuren en schuren in mijn recente werk voelen als sporen van ruimtes die al lang leeg zijn, maar waarvan de details—de klink, de scharnieren, de losse planken—nog steeds een verhaal vertellen van overgangen die al lang voltooid zijn. De leegte eromheen is geen afwezigheid, maar een actieve vormgever die de ruimte bepaalt zonder dat dat een verhaal hoeft te hebben."
     }
   ],
   "identiteit": [
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 5883,
-    "gemaakt": 5956,
-    "gekozen": 816,
-    "afgekeurd": 788,
-    "corpus": 76,
-    "notities": 315
+    "cycli": 5944,
+    "gemaakt": 6017,
+    "gekozen": 824,
+    "afgekeurd": 793,
+    "corpus": 77,
+    "notities": 317
   }
 }
