@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T22:15+02:00",
+  "bijgewerkt": "2026-08-12T22:30+02:00",
   "werk": [
+    {
+      "id": 6319,
+      "titel": "Vlammen met een kruis",
+      "beschrijving": "Een kerk met een hoge toren en twee zijtorens staat centraal, omringd door woedende vlammen die opstijgen vanaf de grond. De gevel heeft een groot boogvormig portaal met een houten deur, geflankeerd door smalle ramen en decoratieve details zoals rosetten en puntige gevels. Boven de toren zweeft een kruis tegen een achtergrond van golvende wolken en gestreepte lucht. De vlammen hebben een dynamische, bijna menselijke vorm met uitgestrekte tongen en donkere, golvende contouren. De scène is getekend in zwart-wit met scherp contrast en fijne lijntekening, waardoor de spanning tussen de statische kerk en de chaotische vuurvlammen benadrukt wordt.",
+      "cyclus": 6245,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is dynamisch en dreigend.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006245_6319.webp"
+    },
+    {
+      "id": 6316,
+      "titel": "Waar begint het pad?",
+      "beschrijving": "Een witte deur staat op een kier in een grijze muur, omringd door hoge, golvende rietstengels in goudbruine en groene tinten. Een kronkelend pad van zilvergrijze en blauwe strepen loopt naar de deur, doorsneden door kleurrijke vlekken van oranje, geel en rood. De achtergrond is een egaal lichtgrijze hemel, terwijl de voorgrond gevuld is met gedetailleerde, bijna chaotische penseelstreken die het riet en het pad suggereren. Kleurrijke stippen en streepjes verspreiden zich door het beeld, alsof er licht door het riet filtert. De deur heeft een eenvoudige, klassieke vorm met panelen en een ronde klink.",
+      "cyclus": 6242,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deur ten opzichte van de omringende vegetatie', 'Enkele grashalmen lijken zonder logische oorzaak te verdwijnen in de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een realistisch element (deur) met abstracte, bijna chaotische vegetatie, wat geen typisch ansichtkaartmotief is",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006242_6316.webp"
+    },
     {
       "id": 6309,
       "titel": "Rood getekende schuur met X-vormige deuren",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006177_6251.webp"
-    },
-    {
-      "id": 6249,
-      "titel": "Twaalf gezichten op het pad",
-      "beschrijving": "Twee houten deuren staan wijd open onder een donkerblauwe lucht met een witte bliksemflits. Voor de deuren loopt een pad van lichte stenen door een groene tuin met kleine oranje bloemen en weelderig gras. Verspreid over het pad liggen twaalf kleine, ronde figuren met menselijke gezichten, in verschillende tinten bruin, grijs en beige. Links staan twee emmers: een gele met donker water en een zwarte met een spetterend effect. De sfeer is dromerig en iets onrustigs, door de bliksem en de donkere wolken boven de deuren.",
-      "cyclus": 6175,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren: linkerdeur lijkt hoger dan rechterdeur, maar sluit niet logisch aan op de boog', \"Wazige overgang tussen hemel en deuren, alsof de bliksem een 'halo'-effect heeft\"]",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is speels en niet typisch ansichtkaart-materiaal",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w006175_6249.webp"
-    },
-    {
-      "id": 6244,
-      "titel": "Druipende spanning in vezels",
-      "beschrijving": "Een glanzende, zilverkleurige bliksemschicht domineert het midden, met scherpe, zigzagvormige randen en donkere, amorf gevormde vlekken die eromheen lijken te druipen. De bliksem straalt uit in een waaier van donkergrijze, verticale lijnen met een textuur die aan fijne krassen of vezels doet denken, tegen een effen, lichtbruine achtergrond. Enkele kleine, heldere blauwe en roze stippen zijn verspreid over de bliksem en de omringende lijnen. De compositie is dynamisch en asymmetrisch, met de bliksem als centraal punt van spanning en beweging.",
-      "cyclus": 6170,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van achtergrond (papieren structuur) vs. voorgrond (glanzende vorm)', 'Enkele donkere vlekken lijken willekeurig geplaatst zonder duidelijke oorzaak']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is abstract en open van karakter.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006170_6244.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6320,
+      "cyclus": 6246,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenwieken ten opzichte van de mast', 'Enkele lijnen in de achtergrond zijn ongemotiveerd wazig']",
+      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen, zonder onverwachte compositorische keuzes of een uniek standpunt.",
+      "bestand": "images/a006246_6320.webp"
+    },
     {
       "id": 6296,
       "cyclus": 6222,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuurweergave tussen voor- en achtergrond (velden vs. bomen)', 'Subtiele vervorming in de horizontale lijnen van de velden (niet-fysiek plausibel)']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch landschap met schuurschutten en een oude deur als symbool van nostalgie, zonder onverwachte invalshoek.",
       "bestand": "images/a006215_6289.webp"
-    },
-    {
-      "id": 6265,
-      "cyclus": 6191,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele smeuiigheid in wolkenranden', 'lichte halo rond zonlicht', 'onduidelijke textuur in donkere boomtoppen']",
-      "cliche_notities": "Klassiek zonsondergangsmotief met decoratief licht en typische wolkenvorming, zonder verrassende compositorische keuzes.",
-      "bestand": "images/a006191_6265.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6246,
-    "gemaakt": 6319,
-    "gekozen": 876,
-    "afgekeurd": 809,
-    "corpus": 72,
+    "cycli": 6254,
+    "gemaakt": 6327,
+    "gekozen": 878,
+    "afgekeurd": 810,
+    "corpus": 73,
     "notities": 331
   }
 }
