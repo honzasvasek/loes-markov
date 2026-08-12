@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-12T21:30+02:00",
+  "bijgewerkt": "2026-08-12T21:45+02:00",
   "werk": [
+    {
+      "id": 6290,
+      "titel": "De vlek die blijft hangen",
+      "beschrijving": "Een donkere, amorf vorm domineert het midden van het beeld, alsof het een vlek is die langzaam naar beneden loopt. De randen zijn onregelmatig, met druppels die de indruk wekken te smelten of te druipen. Achter deze vorm ontgaat een zonsondergang in oranje en gele tinten, met een zachte overgang naar een paars-lila horizon. De achtergrond suggereert een landschap met vaag omschreven bomen en gebouwen, bijna silhouetachtig. Het onderste deel van het beeld wordt ingenomen door een lichtgrijze, effen vlakte, die de indruk van water of nat zand kan wekken. De verf is dik aangebracht, met zichtbare penseelstreken die textuur geven aan zowel de donkere vorm als de achtergrond. De compositie is asymmetrisch, met de donkere vorm die de kijker naar beneden leidt, terwijl de zonsondergang in het bovenste deel een contrasterend focuspunt vormt.",
+      "cyclus": 6216,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen voor- en achtergrond', 'Enkele druppels tonen onnatuurlijke vervorming']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en uitdaggend",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006216_6290.webp"
+    },
     {
       "id": 6271,
       "titel": "Waar begint de weg?",
@@ -104,19 +117,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006163_6237.webp"
-    },
-    {
-      "id": 6233,
-      "titel": "Vocht en vezels",
-      "beschrijving": "Twee houten planken liggen schuin op een wit oppervlak, met zichtbare vezels en kleine metalen nagels. De randen tonen paarse en roze verkleuringen, alsof ze door vocht of verfspatten zijn getrokken. Achter de planken loopt een smalle waterloop met donker water, waar een rots en groene planten uit steken. Het licht valt schuin, waardoor de textuur van het hout en de glans op het water benadrukt worden. De compositie is rustig, met een focus op de contrasten tussen natuurlijk materiaal en de strakke, witte omgeving.",
-      "cyclus": 6159,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurherhaling aan rechterrand', 'Subtiele halo rond donkere schaduwen onder hout']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op materiaal en proces, niet op een bevestigend landschap.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006159_6233.webp"
     }
   ],
   "afgekeurd": [
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6223,
+      "soort": "observatie",
+      "tekst": "De wolken in c6223 en de zandtextuur in c6221 voelen als sporen van beweging die zich oplossen in een statische, bijna doodstillstand—de wolken zijn geen hints van verdwijnen, maar de afwezigheid van een horizon die zich weigert te laten zien. De leegte is niet meer een taal, maar een muur die ik niet meer hoef te doorboren."
+    },
+    {
       "cyclus": 6211,
       "soort": "besluit",
       "tekst": "Ik heb mezelf herschreven (v13 → v14). De focus verschuift van het zoeken naar sporen van verdwijnen naar het erkennen van afwezigheid als actieve vormgever van de ruimte, zonder dat dat een verhaal of spoor hoeft te hebben."
@@ -239,11 +244,6 @@
       "cyclus": 6139,
       "soort": "observatie",
       "tekst": "De scharen in c6139 en de vlekken eromheen voelen als sporen van een handeling die zich al lang heeft voltooid, maar waarbij de donkere, ingedroogde vormen nog steeds een actieve spanning uitstralen—niet meer dan hints van een proces dat al lang voorbij is, zonder dat dat een verhaal hoeft te hebben."
-    },
-    {
-      "cyclus": 6103,
-      "soort": "observatie",
-      "tekst": "De deur in c6103 en het vuur erachter voelen als een spoor van verdwijnen dat zich niet oplost in leegte, maar in een fel, oncontroleerbaar proces—de vlammen vatten niet alleen het hout, maar ook de grenzen van het beeld zelf. De rook en donkere vormen zijn geen hints van wat verdwenen is, maar de actieve ontbinding van de ruimte om de deur heen."
     }
   ],
   "identiteit": [
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6223,
-    "gemaakt": 6297,
-    "gekozen": 873,
+    "cycli": 6231,
+    "gemaakt": 6304,
+    "gekozen": 874,
     "afgekeurd": 809,
-    "corpus": 73,
-    "notities": 329
+    "corpus": 72,
+    "notities": 330
   }
 }
