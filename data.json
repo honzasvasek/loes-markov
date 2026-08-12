@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T17:15+02:00",
+  "bijgewerkt": "2026-08-12T17:30+02:00",
   "werk": [
+    {
+      "id": 6165,
+      "titel": "Waar de bellen stilstaan",
+      "beschrijving": "Een houten deur met donkere scharnieren en een zwarte krenkel staat centraal in een weelderig landschap van hoge, golvende grassen en riet. Rond de deur zweven doorzichtige zeepbellen in verschillende maten, sommige schitterend in het gouden licht van een ondergaande zon. Boven de deur bevinden zich donkere, onregelmatige stenen, terwijl aan weerskanten verticale rijen kurk en zwarte blokken de randen vormen. De achtergrond wordt gedomineerd door een dramatische hemel met zachte, oranje-witte wolken die overgaan in een diepblauwe horizon. Een smalle betonnen tree leidt naar de deur, omringd door groen en verspreide bladeren. De sfeer is dromerig en stillerend, met een subtiele beweging in de grassen en de zwevende bellen.",
+      "cyclus": 6091,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van hout (beneden linkerhoek deur)', 'Bellen hebben gedeeltelijk onrealistische reflecties']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of bevestigend onderwerp; de deur in het landschap is een metaforisch element zonder toeristische connotatie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006091_6165.webp"
+    },
+    {
+      "id": 6158,
+      "titel": "Zes flessen wachten op de deur",
+      "beschrijving": "Een donkerblauwe houten deur met een donkere deurkruk bevindt zich centraal in een witte muur, onder een dak van donkerblauwe pannen. Rond de deur staan zes glazen flessen in verschillende groottes en tinten blauw, groen en transparant, waarvan sommige een kurk hebben. De muur toont vochtige vlekken en de grond voor de deur is lichtgrijs met watervlekken en kleine stenen. De sfeer is rustig en iets verwaarloosd, met een focus op de textuur van het hout, de glans van het glas en de subtiele kleurverschillen in de blauwe en witte tinten.",
+      "cyclus": 6084,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de flessen ten opzichte van de deur', 'Subtiele halo rond de rand van de deur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op een intieme, reflecterende sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006084_6158.webp"
+    },
     {
       "id": 6151,
       "titel": "Roodbruine randen in de wind",
@@ -91,32 +117,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006041_6115.webp"
-    },
-    {
-      "id": 6111,
-      "titel": "Spiegels in roze",
-      "beschrijving": "Een ruimte met roze muren en een open deur onthult een landschap met water en bomen onder een roze hemel. Buiten staat een donkere paal met een rechthoekig deel bovenaan, omgeven door kleurige stenen en kleine voorwerpen op de grond. Het water weerspiegelt de omgeving vaag, terwijl de horizon lijnloos overgaat in de hemel. Binnen valt zonlicht door de deur, waardoor een schaduwwaaier op de muur en vloer ontstaat. De vloer is lichtgekleurd met sporen van verf en kleine vlekken. Buiten bij de waterkant liggen enkele onduidelijke vormen, mogelijk rotsen of vegetatie.",
-      "cyclus": 6037,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deurlijst ten opzichte van de vloer', 'Wazige overgang tussen plafond en muur aan de rechterkant']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of typisch ansichtkaartmotief, maar een intieme, ongedwongen blik op een verlaten ruimte met sporen van verlaten bezit.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006037_6111.webp"
-    },
-    {
-      "id": 6103,
-      "titel": "Vlammen in een regenboogbarster",
-      "beschrijving": "Een gekraakt oppervlak in oranje- en roze tinten domineert het beeld, met donkere, onregelmatige barsten die zich uitstrekken van de linkeronderhoek naar het midden. Door de grootste scheur vlammen oranje en gele vlammen op, omringd door donkere rookachtige vormen. Rechts loopt een verticale regenboogstreep van rood via geel, groen en blauw naar paars, scherp afgetekend tegen de zachte achtergrond. Het onderste deel toont een zandige textuur met subtiele golven en een kleine, spiraalvormige vorm in de rechteronderhoek. Een enkele druppel hangt in de rechterbovenhoek. De sfeer is intens en dynamisch, met een contrast tussen vernietiging en kleurrijk licht.",
-      "cyclus": 6029,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de regenboog (te glad vs. omringende textuur)', 'Kleine halo rond de vlammen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongewoon en uitdaggend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006029_6103.webp"
     }
   ],
   "afgekeurd": [
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6091,
-    "gemaakt": 6164,
-    "gekozen": 851,
+    "cycli": 6098,
+    "gemaakt": 6171,
+    "gekozen": 853,
     "afgekeurd": 797,
-    "corpus": 76,
+    "corpus": 77,
     "notities": 323
   }
 }
