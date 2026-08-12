@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T18:15+02:00",
+  "bijgewerkt": "2026-08-12T18:30+02:00",
   "werk": [
+    {
+      "id": 6193,
+      "titel": "Wat als het dak bloedt?",
+      "beschrijving": "Een roze vloeistof stroomt in golven over een dakrand, met druppels die naar beneden vallen. Achtergrondgebouwen met schuine daken en ramen zijn in gedempte roze en paarse tinten weergegeven. De vloeistof heeft een glanzende, viskeuze textuur en vormt een scherp contrast met de witte ruimte eronder. Donkere houten structuren van de gebouwen zijn zichtbaar onder de roze laag. De compositie is verticaal opgebouwd, met de vloeistof die de beeldhoogte doorsnijdt.",
+      "cyclus": 6119,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van achtergrondhuizen', 'Subtiele halo rond rand van smeltende dakgoot']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte, surrealistische vertolking van verdwijnen.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006119_6193.webp"
+    },
+    {
+      "id": 6190,
+      "titel": "Rood water, blauwe stilte",
+      "beschrijving": "Een kronkelend waterloop snijdt door een landschap getekend in rood en roze tinten, met donkerdere strepen die oevers en vegetatie suggereren. Bomen met spitse, onregelmatige vormen flankeren het water, terwijl in de verte vaag omschreven structuren en bomen de horizon vullen. Een grote, wolkachtige vorm domineert de bovenste helft, getekend met zachte, stralende lijnen die uitstralen vanaf een lichter centrum. Het water weerspiegelt de omgeving in subtiele, golvende lijnen, en in de voorgrond lopen scherpe, dynamische strepen die gras of riet voorstellen. Een enkele blauwe vlek in de middendistantie breekt de rode kleurpalet.",
+      "cyclus": 6116,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de horizonlijn', 'Sommige boomstructuren zijn onscherp en wazig getekend']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische stijl zonder typisch Nederlandse motieven of decoratief perfect licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006116_6190.webp"
+    },
     {
       "id": 6182,
       "titel": "Zaadjes op de wind",
@@ -91,35 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006077_6151.webp"
-    },
-    {
-      "id": 6149,
-      "titel": "Wat blijft van de getijden",
-      "beschrijving": "Een bruine glazen fles staat schuin op een lichtgrijze, zandige ondergrond, omringd door vier schelpen in verschillende vormen en patronen. Twee schelpen hebben een open, schitterende binnenkant met zachte paarse en beige tinten, terwijl de andere twee gesloten zijn en een getextureerd oppervlak hebben met lichte en donkere strepen. Rond de fles en schelpen bevindt zich een vochtige, glanzende vlek die lijkt op een plas water, met subtile reflecties en overgangen van grijs naar wit. De achtergrond is egaal wit, wat de focus legt op de details van de voorwerpen en de natte textuur van de ondergrond.",
-      "cyclus": 6075,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen rond schelpen', 'Subtiele halo rond fles bij rand']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuzes zijn subtiel en niet clichématig",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w006075_6149.webp"
-    },
-    {
-      "id": 6140,
-      "titel": "Wat achter de kier verschuilt",
-      "beschrijving": "Een donkere houten deur staat op een kier in een verweerde muur, omringd door kale takken en wildgroeiend onkruid. Rechts van de deur bevindt zich een klein raam met een donker kader, terwijl links een slanke stam met verspreide takken de compositie doorbreekt. De muur vertoont sporen van slijtage, met onregelmatige textuur en vage patronen die diepte suggereren. Door de open deur is een smalle gang zichtbaar met een lichte vloer en wat vegetatie aan weerskanten. De scène wordt gedomineerd door grijstinten, met donkere accenten in de deur, takken en schaduwen, wat een rustige, bijna verlaten sfeer oproept. Details zoals het deurklinkje en de kleine stenen op de grond voegen realisme toe aan het beeld.",
-      "cyclus": 6066,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave bij de muur (rechtsboven vs. linksonder)', 'De takken boven de deur hebben een iets onnatuurlijke, herhalende structuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze (de open deur als focus) en geen typisch 'ansichtkaart'-licht of onderwerp",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006066_6140.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6201,
+      "cyclus": 6127,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Molen met tulpenvelden en perfecte zonsonderganglicht — klassieke ansichtkaartcompositie zonder onverwachte keuzes.",
+      "bestand": "images/a006127_6201.webp"
+    },
     {
       "id": 6175,
       "cyclus": 6101,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de deurlijst ten opzichte van het raam', 'Wazige overgang tussen de wheat-stengels en de achtergrond in het raamgedeelte']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een deur die uitkomt op een iconisch Nederlands landschap (korrelveld) met decoratief licht en geen duidelijke compositorische keuze beyond de metaforische toegang.",
       "bestand": "images/a006100_6174.webp"
-    },
-    {
-      "id": 6119,
-      "cyclus": 6045,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in golflengte en textuur aan horizon', 'Enkele stenen op strand hebben onnatuurlijke glans']",
-      "cliche_notities": "Zonsondergang over water met perfecte reflectie en decoratief licht is een klassiek ansichtkaartmotief zonder duidelijke compositorische keuze.",
-      "bestand": "images/a006045_6119.webp"
     }
   ],
   "onderzoek": {
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6120,
-    "gemaakt": 6194,
-    "gekozen": 857,
-    "afgekeurd": 799,
-    "corpus": 76,
+    "cycli": 6128,
+    "gemaakt": 6201,
+    "gekozen": 859,
+    "afgekeurd": 800,
+    "corpus": 77,
     "notities": 324
   }
 }
