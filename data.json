@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-12T19:00+02:00",
+  "bijgewerkt": "2026-08-12T19:15+02:00",
   "werk": [
+    {
+      "id": 6215,
+      "titel": "Krassen in het verleden",
+      "beschrijving": "Een verweerd houten raam met twee ruiten, omgeven door zand en spierrijke, groenige grassen die de randen van het beeld vullen. De ruiten zijn bedekt met een dicht netwerk van fijne, witte krassen die een chaotisch patroon vormen, alsof ze door jaren van weersinvloeden en verwaarlozing zijn beschadigd. Achter het glas is een donkere, onduidelijke vorm te zien, mogelijk een boom of struik, die vaag door de geturnde ruiten heen zichtbaar is. Het zand rondom het raam is lichtgekleurd en lijkt droog en korrelig, terwijl de grassen een mix van groen en geelbruin hebben, met sommige bladeren die droog en bros lijken. De compositie is symmetrisch, met het raam centraal geplaatst en de vegetatie die het aan weerskanten en onderaan omlijst. De sfeer is verlaten en vergeten, met een gevoel van stilte en verwaarlozing.",
+      "cyclus": 6141,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van houten kozijn (beneden rechterhoek waziger dan boven)', 'Subtiele halo rond rand van raamglas tegen achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is gericht op verhouding tussen verdwijnen (raam) en aanwezigheid (planten).",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006141_6215.webp"
+    },
     {
       "id": 6213,
       "titel": "Sporen van vergeten geweld",
@@ -104,22 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006099_6173.webp"
-    },
-    {
-      "id": 6171,
-      "titel": "Mosgroene tongen in witte rook",
-      "beschrijving": "Twee verticale, cilindervormige structuren van lichtbruin hout met een mosgroene, textuurrijke oppervlakte staan centraal, gescheiden door een smalle witte spleet. Tussen de bovenste delen van de cilinders zweeft een witte, wazige wolk met zachte, onregelmatige randen, die overgaat in een donkerblauwe onderlaag. Achter de cilinders en de wolk bevindt zich een grijze, getekende achtergrond met donkere, krassende lijnen die een chaotische, bijna stormachtige sfeer uitstralen. De onderkant van de cilinders rust op een effen, lichtgrijze ondergrond, waarbij de schaduwen een subtiele diepte toevoegen aan de compositie.",
-      "cyclus": 6097,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van houtsnippers tussen boven- en onderdelen', 'Wazige overgang tussen rook en achtergrond aan linkerzijde']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met rook en hout suggereert een conceptuele laag.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006097_6171.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6223,
+      "cyclus": 6149,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele vervorming in de horizonlijn van het veld', 'wazige textuur in de verre bomen', 'onnatuurlijke scherpte van de deur tegenover het zachte landschap']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch bloemenveld onder een dramatische hemel, zonder onverwachte of persoonlijke keuzes.",
+      "bestand": "images/a006149_6223.webp"
+    },
     {
       "id": 6201,
       "cyclus": 6127,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van stenen muur (sommige stenen te scherp, andere te wazig)', 'Subtiele halo rond wit schuim tegen donkerblauw water']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch kustlandschap met perfecte golven en een rustige horizon, zonder onverwachte compositorische keuzes.",
       "bestand": "images/a006101_6175.webp"
-    },
-    {
-      "id": 6174,
-      "cyclus": 6100,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deurlijst ten opzichte van het raam', 'Wazige overgang tussen de wheat-stengels en de achtergrond in het raamgedeelte']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een deur die uitkomt op een iconisch Nederlands landschap (korrelveld) met decoratief licht en geen duidelijke compositorische keuze beyond de metaforische toegang.",
-      "bestand": "images/a006100_6174.webp"
     }
   ],
   "onderzoek": {
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6143,
-    "gemaakt": 6217,
-    "gekozen": 862,
-    "afgekeurd": 800,
-    "corpus": 75,
+    "cycli": 6152,
+    "gemaakt": 6225,
+    "gekozen": 863,
+    "afgekeurd": 801,
+    "corpus": 76,
     "notities": 325
   }
 }
