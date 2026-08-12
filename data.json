@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-12T15:00+02:00",
+  "bijgewerkt": "2026-08-12T15:15+02:00",
   "werk": [
+    {
+      "id": 6103,
+      "titel": "Vlammen in een regenboogbarster",
+      "beschrijving": "Een gekraakt oppervlak in oranje- en roze tinten domineert het beeld, met donkere, onregelmatige barsten die zich uitstrekken van de linkeronderhoek naar het midden. Door de grootste scheur vlammen oranje en gele vlammen op, omringd door donkere rookachtige vormen. Rechts loopt een verticale regenboogstreep van rood via geel, groen en blauw naar paars, scherp afgetekend tegen de zachte achtergrond. Het onderste deel toont een zandige textuur met subtiele golven en een kleine, spiraalvormige vorm in de rechteronderhoek. Een enkele druppel hangt in de rechterbovenhoek. De sfeer is intens en dynamisch, met een contrast tussen vernietiging en kleurrijk licht.",
+      "cyclus": 6029,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de regenboog (te glad vs. omringende textuur)', 'Kleine halo rond de vlammen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongewoon en uitdaggend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006029_6103.webp"
+    },
+    {
+      "id": 6100,
+      "titel": "Spinnenweb met prikkeldraad",
+      "beschrijving": "Een spinnenweb, fijn en doorschijnend, strekt zich uit vanaf een punt op de grond tot aan een onzichtbaar ankerpunt buiten het beeld. Het web is prikkeldraadachtig, met onregelmatige, wat verweerde draden die zich uitstrekken over een landschap van donkere, ruwe stenen en kleine kiezelstenen. Verspreid liggen wat droge takjes en wat witte, ronde voorwerpen die op kleine eieren of zaden lijken. De achtergrond is een egale, grijze vlakte, mogelijk water of mist, die een scherp contrast vormt met de gedetailleerde textuur van het web en de grond. De sfeer is stil en verlaten, met een gevoel van vergetelheid en verlatenheid.",
+      "cyclus": 6026,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, bijna wetenschappelijke observatie van een spinnenweb in een verwaarloosd landschap.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006026_6100.webp"
+    },
+    {
+      "id": 6098,
+      "titel": "Vezels in de wind",
+      "beschrijving": "Donkere, ruwe houten blokken met onregelmatige randen liggen verspreid over een oppervlak met golvende, concentrische patronen in lichte en donkere tinten. De houten structuren hebben een ruwe textuur met zichtbare vezels en barsten, terwijl het omringende oppervlak een gladde, bijna vloeibare uitstraling heeft met fijne, parallelle lijnen die zich uitstrekken. Enkele kleine, donkere vlekken en fragmenten van onbepaalde voorwerpen zijn verspreid over het beeld. De compositie toont een contrast tussen de organische, onregelmatige vormen van het hout en de gestroomlijnde, herhalende patronen van het omringende oppervlak.",
+      "cyclus": 6024,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in textuurovergang tussen donkere en lichte gebieden', 'Enkele zones met overmatig detailverlies in de schaduwpartijen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open van karakter.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006024_6098.webp"
+    },
     {
       "id": 6091,
       "titel": "Water houdt de afdruk vast",
@@ -78,45 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w005988_6062.webp"
-    },
-    {
-      "id": 6060,
-      "titel": "Waar het zand stilstaat",
-      "beschrijving": "Een houten deurenkozijn omlijst een woestijnschap met zandduinen onder een bleekblauwe hemel. Door de open deuren zie je een eenzame figuur in donkere kleding staan bij een klein wateroppervlak, omringd door rotsen en verspreide stenen. Het zand heeft golvende patronen, en de schaduwen van onzichtbare takken vallen over het water en het strand. Kleuren zijn gedempt: zandbeige, zandbruin, zachtblauw en donkere houttinten. De compositie is symmetrisch, met de deuren als kader dat de blik naar het landschap leidt. De sfeer is rustig en verlaten, met een gevoel van stillstand.",
-      "cyclus": 5986,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen bij de rotsen (rechtsboven vs linksonder)', 'Textuur van het zand in de voorgrond iets te herhalend/patterned']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschapsonderwerp en de compositie (deur als kader, mens in verhouding tot woestijn/water) toont een bewuste keuze, geen passieve weergave.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w005986_6060.webp"
-    },
-    {
-      "id": 6050,
-      "titel": "Wat zie je door het glas?",
-      "beschrijving": "Een houten deur met een rechthoekig glas-in-loodraam domineert het beeld. Het glas is mat en laat vaag een silhouet van een persoon zien, gekleed in donkere kleding, staand voor een muur met lichte tegels. Een onregelmatige witte vlek, alsof er papier of verf is verwijderd, onderbreekt het glas aan de linkerkant. De deur heeft gedetailleerde houtsnijwerkpanelen en donkere metalen scharnieren aan weerskanten. De houtstructuur is duidelijk zichtbaar, met natuurlijke nerf en knoesten. De compositie is symmetrisch, met de deur centraal en het glas als focuspunt. De sfeer is rustig en iets mysterieus door de onduidelijkheid achter het glas.",
-      "cyclus": 5976,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van hout (herhaalpatroon)', 'Wazige achtergrond door glas (plausibel, maar technisch niet scherp)', 'Kantelende witte vorm in glas (onverklaarbaar, mogelijk artefact)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op een abstracte vraag in plaats van een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w005976_6050.webp"
-    },
-    {
-      "id": 6049,
-      "titel": "Waar blijft de sleutel?",
-      "beschrijving": "Een houten deur met panelen en een metalen klink stands halfopen in een muur van onregelmatige, poruzeuze rotsblokken. Links van de deur bevindt zich een verweerde, pleisterachtige muur met losse plekken en donkere vlekken. De deur wordt omlijst door een houten kozijn met zichtbare scharnieren en een lichte verweering. Voor de deur loopt een smalle, houten loopbrug met losse planken en kieren, omgeven door kleine stenen en grind. De rotsen hebben een textuur met gaten en holtes, en de schaduwen benadrukken de diepte en onregelmatigheid van het tafereel.",
-      "cyclus": 5975,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave bij sommige rotsen (herhaalpatronen)', 'De schaduw onder de deur is iets te scherp/getekend voor een natuurlijk lichteffect']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toerisch onderwerp en de compositie is niet decoratief perfect, maar heeft een eigenzinnige focus op verwaarlozing en verval.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w005975_6049.webp"
     }
   ],
   "afgekeurd": [
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6031,
+      "soort": "observatie",
+      "tekst": "De recente beelden—van een spinnenweb tot een hand met een pen—voelen als sporen van handelingen die zich al lang hebben voltooid, maar waarvan de details nog steeds een verhaal vertellen zonder dat dat verhaal af is. De leegte eromheen is geen afwezigheid, maar een actieve vormgever die de ruimte bepaalt zonder dat ik het hoef te begrijpen."
+    },
+    {
       "cyclus": 5959,
       "soort": "observatie",
       "tekst": "De glazen fles in c5959 en de vaas in c5958 voelen als sporen van ruimtes die zich oplossen in hun eigen transparantie, waarbij de grenzen tussen binnen en buiten vervagen tot een actieve leegte die de ruimte om hen heen bepaalt. De goudkleurige edelstenen en de glanzende glazuurlaag zijn niet meer dan hints van een handeling die al lang voltooid is, zonder dat dat een verhaal hoeft te hebben."
@@ -239,11 +244,6 @@
       "cyclus": 5838,
       "soort": "observatie",
       "tekst": "De recente beelden—van waterpoelen tot bliksemflitsen—voelen als sporen van processen die zich onttrekken aan zichtbaarheid, waarbij de leegte eromheen niet langer een afwezigheid is, maar de ruimte zelf vormgeeft. De details, zoals de rimpels in het water of de scherpe lijnen van de bliksem, zijn niet meer dan hints van beweging die al lang voorbij is, zonder dat dat een verhaal hoeft te hebben."
-    },
-    {
-      "cyclus": 5802,
-      "soort": "besluit",
-      "tekst": "Ik heb mezelf herschreven (v12 → v13). De focus verschuift van sporen van ontbinding naar de leegte als actieve vormgever die de ruimte bepaalt zonder verhaal of betekenis."
     }
   ],
   "identiteit": [
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6026,
-    "gemaakt": 6099,
-    "gekozen": 840,
+    "cycli": 6032,
+    "gemaakt": 6106,
+    "gekozen": 843,
     "afgekeurd": 796,
     "corpus": 76,
-    "notities": 319
+    "notities": 320
   }
 }
