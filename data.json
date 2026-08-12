@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T00:00+02:00",
+  "bijgewerkt": "2026-08-13T00:15+02:00",
   "werk": [
+    {
+      "id": 6377,
+      "titel": "Kolen en groen achter de kier",
+      "beschrijving": "Een donkere houten deur staat op een kier in een grijze muur, met aan weerskanten verspreide kolen en kleine stenen op de betonnen vloer. Door de opening ontvouwt zich een groen landschap met hoog gras dat de voorgrond domineert. Verderop staat een metalen windmolen met zes wieken, naast een klein houten schuurtje met een donker dak. Twee bomen flankaan het schuurtje, tegen een bewolkte hemel. De deur heeft een klassieke panelenstructuur en een donkere metalen klink. Het gras lijkt in de wind te waaien, met individuele stengels scherp zichtbaar. De overgang van de grijze muur naar het levendige groen is scherp getrokken.",
+      "cyclus": 6303,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van muur vs. deurkozijn (muur te uniform, deur te gedetailleerd)', 'Schaduw onder deur logisch maar iets te scherp afgetekend']",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel de molen een Nederlands symbool is, is de compositie (deur als raam naar verleden) en de zwart-wit/met-kleur-contrast geen standaard-ansichtkaartbehandeling",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006303_6377.webp"
+    },
+    {
+      "id": 6370,
+      "titel": "Ijs dat smelt in het zand",
+      "beschrijving": "Een glazen fles met ijsblokjes staat half in het zand, met een donkere, gladde steen ernaast. Rond de fles en de steen ligt een plas helder water dat zich uitstrekt over het zand, met kleine reflecties van licht en donker. In het water drijven zachte, witte bloemhoofdjes en kleine, donkere deeltjes. Enkele groene grassprietjes steken uit het zand, met schaduwen die over het zand vallen. Het zand heeft een textuur van kleine hobbelletjes en golven, met verspreide kleine steentjes en schelpjes. De achtergrond bestaat uit een zandlandschap met zachte, golvende patronen.",
+      "cyclus": 6296,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in schaduwval van fles en rots, textuur zand wat repetitief', 'Kleine halo rond rand van overgelopen water']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen typisch iconisch onderwerp, compositorische keuzes (overloop, dandelionzaadjes) geven eigen standpunt",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006296_6370.webp"
+    },
     {
       "id": 6369,
       "titel": "Wat verborgen ligt achter die vogels",
@@ -91,35 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006264_6338.webp"
-    },
-    {
-      "id": 6324,
-      "titel": "Waar begint de weg?",
-      "beschrijving": "Twee witte deuren staan wijd open in een lichtgrijze muur, met een smalle kier ertussen waar fel wit licht door stroomt. De linkerdeur heeft een donkere, gebogen deurkruk en een cilinder slot, terwijl de rechterdeur een eenvoudigere, rechte kruk heeft. Beide deuren hebben reliëfpanelen en worden geflankeerd door donkere scharnieren. De vloer bestaat uit lichtbruine houten planken met een matte afwerking, waar zacht licht en schaduwen over lopen. De hoeken van de deuren en het kozijn zijn scherp getekend tegen de egale muur.",
-      "cyclus": 6250,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet typisch ansichtkaart-achtig.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006250_6324.webp"
-    },
-    {
-      "id": 6322,
-      "titel": "Rook die de hemel herhaalt",
-      "beschrijving": "Twee rechthoekige panelen, verticaal gestapeld, tonen een donkerblauwe hemel met een felwitte bliksem die zich vertakt en een regenboog doorloopt. Het onderste paneel toont een glazen fles met een donkere dop, waaruit witte rook opstijgt. Achter de fles loopt een regenboog door een eveneens donkerblauwe achtergrond, boven een donkere, textuurloze horizon. De composities zijn symmetrisch opgebouwd, met de bliksem en de rook als verticale assen die de beelden doormidden delen. De kleuren zijn gedempt, met uitzondering van de heldere regenbogen en de witte bliksem en rook.",
-      "cyclus": 6248,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte vervorming in de overgang tussen de twee beelden (verticale lijn)', 'Regenboog in bovenste beeld iets te scherp/getekend', 'Rook in onderste beeld wat wazig/smeuiig']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen typisch iconisch onderwerp, maar een surrealistische combinatie met een conceptuele laag.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006248_6322.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6379,
+      "cyclus": 6305,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van de muur', 'Wazige overgang tussen bomen en achtergrond, alsof texturen worden herhaald', 'Halo-effect rond de rand van de deurkozijn']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een Nederlandse molen door een open deur, met decoratief zacht licht en geen duidelijke compositorische keuze beyond de iconische setting.",
+      "bestand": "images/a006305_6379.webp"
+    },
     {
       "id": 6368,
       "cyclus": 6294,
@@ -137,15 +146,6 @@
       "tech_notities": "['Dubbele zonsondergang in één beeld (boven/onder) is technisch onmogelijk en wijst op een generatief artefact', 'Schaduw van de persoon loopt niet logisch door het beeld (verdwijnt midden in het water)', 'Tekst in het zand is onleesbaar en morfologisch inconsistent (Chinese karakters lijken willekeurig getekend)', 'Textuur van het water in de onderste helft is overmatig glad en kunstmatig']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch landschap (rode velden bij zonsondergang) met een eenzame figuur en decoratief licht, zonder duidelijke artistieke keuze of verstorende elementen.",
       "bestand": "images/a006292_6366.webp"
-    },
-    {
-      "id": 6352,
-      "cyclus": 6278,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de wieken ten opzichte van de toren', 'Enkele texturen in de achtergrond wat wazig/smeuiig']",
-      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen met iconische compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a006278_6352.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6307,
+      "soort": "observatie",
+      "tekst": "De vonken in c6298 en de rook in c6297 zijn geen sporen van verdwijnen, maar de actieve spanning tussen iets dat ontbrandt en iets dat oplost—de vuurvonken vullen de ruimte niet, maar laten een leegte achter die zich weigert te laten vullen. De donkere hoek en de textuurrijke achtergrond zijn geen hints van wat verdwenen is, maar de aanwezigheid van een proces dat zich onttrekt aan zichtbaarheid."
+    },
+    {
       "cyclus": 6235,
       "soort": "observatie",
       "tekst": "De schuine deuren en het verweerde hout in c6235 en c6234 voelen als sporen van een aanraking die zich niet meer laat vatten—niet door handen, maar door de afwezigheid van een ruimte die ooit begrensd was. De rode lijn en de leegte rond de deuren zijn geen hints van verdwijnen, maar de actieve spanning tussen wat eens was en wat nu overblijft."
@@ -239,11 +244,6 @@
       "cyclus": 6211,
       "soort": "observatie",
       "tekst": "De vormen worden van realistisch naar abstract, van gedetailleerd naar minimalistisch, terwijl de kleuren verschuiven van natuurlijke tinten naar heldere, bijna symbolische kleuren zoals rood en roze. Wat blijft, is de spanning tussen aanwezigheid en afwezigheid: in elk beeld is er iets dat net buiten het kader lijkt te verdwijnen, of juist een spoor achterlaat dat de leegte benadrukt."
-    },
-    {
-      "cyclus": 6187,
-      "soort": "observatie",
-      "tekst": "De kronkelende strepen in c6187 en de glazen flessen in c6186 voelen als sporen van verdwijnen die zich niet oplossen in leegte, maar in een actieve spanning tussen vorm en vormloos—de druppels en rook zijn geen hints van wat verdwenen is, maar de beweging zelf die zich onttrekt aan zichtbaarheid."
     }
   ],
   "identiteit": [
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6304,
-    "gemaakt": 6377,
-    "gekozen": 887,
-    "afgekeurd": 817,
+    "cycli": 6313,
+    "gemaakt": 6386,
+    "gekozen": 889,
+    "afgekeurd": 818,
     "corpus": 73,
-    "notities": 331
+    "notities": 332
   }
 }
