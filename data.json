@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T14:00+02:00",
+  "bijgewerkt": "2026-08-12T14:45+02:00",
   "werk": [
+    {
+      "id": 6072,
+      "titel": "Waar blijft de sleutel?",
+      "beschrijving": "Een lichtgroene houten deur met een donkerblauwe omlijsting bevindt zich centraal in een verweerde muur van wit en blauw pleisterwerk, met donkere steenranden. Boven de deur loopt een donkerblauwe dakgoot met getextureerde tegels. Achter de muur verheft zich een boom met oranje en groene bladeren, tegen een lichtblauwe hemel met witte vlekken. Onder de deur groeien groene planten met kleine rode en oranje vruchten, omringd door zandkleurige en grijze grond. De achtergrond toont een donkergroene, textuurrijke heg met een rasterpatroon. Kleuren zijn zacht en watervergelijkbaar, met duidelijke overgangen tussen nat en droog.",
+      "cyclus": 5998,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de muur ten opzichte van de deur', 'Enkele takken van de boom lijken zonder logische overgang te verdwijnen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, speelse stijl met onverwachte kleurstijling en geen typisch iconisch onderwerp",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w005998_6072.webp"
+    },
+    {
+      "id": 6071,
+      "titel": "Twee deuren, één vraag",
+      "beschrijving": "Een donkerbruine houten deur staat op een kier, waardoor een lichtere, crèmekleurige deur zichtbaar wordt. Achter de tweede deur bevindt zich een muur met donkerblauwe vierkante tegels, gescheiden door witte voegen. Het licht dat door de opening valt, werpt een scherp, rechthoekig patroon op de lichte vloer. De muren rond de deuren zijn geschilderd in een neutrale beige tint, met een donkerbruine plint aan de onderkant. De handgrepen van beide deuren zijn metalen, met de donkere deur een zwarte greep en de lichte deur een gouden klep. De scharnieren van de crèmekleurige deur zijn goudkleurig en zichtbaar aan de zijkant. De compositie is symmetrisch, met de deuren centraal in het beeld en de tegels die een verticale lijn vormen tussen de twee ruimtes.",
+      "cyclus": 5997,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet typisch ansichtkaart-achtig.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w005997_6071.webp"
+    },
     {
       "id": 6062,
       "titel": "Papiervoet in blauw",
@@ -91,32 +117,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w005959_6033.webp"
-    },
-    {
-      "id": 6029,
-      "titel": "Sporen van wat bleef",
-      "beschrijving": "Een kronkelend, lichtgekleurd pad snijdt door een landschap van verweerd hout en donkere, onregelmatige vormen. Het pad, geschilderd met zachte, vloeiende streken, lijkt van zand of water, en wordt geflankeerd door houten planken met spijkers en getande randen. Donkere vlekken en spattingen geven het hout een verweerde uitstraling, terwijl de spijkers als donkere, metalen accenten uitsteken. De compositie is dynamisch, met het pad dat de blik door het beeld leidt, omringd door textuurrijke, organische vormen die een gevoel van verlatenheid en verloop uitstralen.",
-      "cyclus": 5955,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave hout (benedenlinks vs. rechtsboven)', 'Enkele spijkers hebben onrealistische proporties ten opzichte van omringend hout']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open van karakter, zonder decoratief perfect licht.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w005955_6029.webp"
-    },
-    {
-      "id": 6026,
-      "titel": "Wat verbergt achter die deur?",
-      "beschrijving": "Een donkere houten deur met een subtiel reliëf van een plant met slanke stengels en verspreide bladeren domineert het beeld. De deur is omlijst door een lichtere muur en een grijze tegelvloer. Rechtsboven en linksonder zijn vaag bladeren van een plant zichtbaar, die de compositie verrijken met een natuurlijk element. Een donkere deurkruk en een cilinderslot zijn functionele details op de deur. De sfeer is rustig en minimalistisch, met een focus op de textuur van het hout en de delicate vormen van de plant.",
-      "cyclus": 5952,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht, maar een gedempte, reflecterende sfeer met een ongewone compositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w005952_6026.webp"
     }
   ],
   "afgekeurd": [
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6000,
-    "gemaakt": 6073,
-    "gekozen": 835,
+    "cycli": 6019,
+    "gemaakt": 6093,
+    "gekozen": 837,
     "afgekeurd": 796,
-    "corpus": 76,
+    "corpus": 77,
     "notities": 319
   }
 }
