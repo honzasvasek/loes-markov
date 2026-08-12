@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T00:45+02:00",
+  "bijgewerkt": "2026-08-13T01:00+02:00",
   "werk": [
+    {
+      "id": 6401,
+      "titel": "Mist die deuren kust",
+      "beschrijving": "Twee houten deuren staan centraal, omgeven door een dichte, mistige sfeer die de ruimte vervult. Boven de deuren loopt een houten constructie met diagonale en horizontale latten, waar slanke, hangende takken met smalle bladeren doorheen vallen. De achtergrond wordt gevormd door donkere boomstammen en een vaag zichtbare hemel door het bladerdak. Roken of mist sluipt rond de deuren en verspreidt zich naar voren, waarbij het de voorgrond domineert. Onder de deuren zijn vaag stenen of blokken te zien, gedeeltelijk bedekt door de mist. De kleuren zijn gedomineerd door koele blauwe en grijze tinten, met subtiele contrasten tussen de donkere houten elementen en de lichte, ethereal mist.",
+      "cyclus": 6327,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de boomtakken boven de deur', 'Wazige overgang tussen rook en achtergrond bij de randen van het beeld']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, verbeelding prikkende sfeer die beyond een typische ansichtkaart gaat",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006327_6401.webp"
+    },
+    {
+      "id": 6397,
+      "titel": "Waar begin de magie?",
+      "beschrijving": "Een glazen fles met een schroefdeksel staat centraal, met aan de voorzijde een kleine, gedetailleerde deur met ruitjes en een ronde klink. Links van de fles staat een boomstam met takken die zich uitstrekken naar de fles en de achtergrond. De boom heeft donkere, textuurrijke bast met knoesten en kleine holtes. Rond de basis van de boom en de fles groeien wat grassprietjes en donkere vlekken die op aarde of mos lijken. De achtergrond is wit en leeg, waardoor de fles en de boom scherp afsteken. De fles heeft een smalle hals en een brede body, met subtiele schaduwen die diepte suggereren. De deur in de fles lijkt een overgang te vormen naar een onzichtbare ruimte binnenin.",
+      "cyclus": 6323,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in schaduwen op de fles (hoogte van lichtbron onduidelijk)', 'Textuur van de boomstam iets te herhalend']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de combinatie van fles en boom is ongewoon en roept een eigen beeld op.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006323_6397.webp"
+    },
     {
       "id": 6388,
       "titel": "Regenboog met stroomstoot",
@@ -91,61 +117,35 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w006284_6358.webp"
-    },
-    {
-      "id": 6357,
-      "titel": "Regenboog na de storm",
-      "beschrijving": "Een donkere houten deur staat halfopen in een woestijnachtig landschap van donkere rotsen en puin. Achter de deur is een regenboog zichtbaar die over een zanderig oppervlak loopt, met een witte bliksemflits eronder. De hemel erboven is grijs en bewolkt. Rond de deur liggen verspreid stukken hout, metalen voorwerpen en kleine witte vonken. Een smalle, donkere pad leidt van de voorgrond naar de deur, met sporen van water of modder erin. Rechtsboven de deur staat een wit symbool dat lijkt op een bliksemflits. De sfeer is verlaten en mysterieus, met een scherp contrast tussen de donkere omgeving en de heldere regenboog achter de deur.",
-      "cyclus": 6283,
-      "tech_score": 7.0,
-      "tech_notities": "['Wazige textuur in de achtergrondrotsen, inconsistent perspectief bij de horizonlijn, lichte halo rond de deurkozijn', 'Tekens van digitale manipulatie bij de regenboog en bliksem (niet-natuurlijke scherpte/contrast)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en provocerend, geen bevestigende ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006283_6357.webp"
-    },
-    {
-      "id": 6355,
-      "titel": "Plastiek en schaduwen",
-      "beschrijving": "Een smalle gang met lichte houten vloer en witte muren loopt uit in een rechthoekige opening zonder deur, omlijst door een grijze kozijn. Door deze opening is een schuurachtige constructie zichtbaar met een zadeldak, gemaakt van doorzichtige plastic sheeting en houten latten. Twee rode schuifdeuren met witte X-vormige verstevigingen staan wijd open, waardoor een donkere binnenruimte zichtbaar is. De vloer voor de schuur bestaat uit zand en verspreide stukken karton, met twee kleine groene planten in aardewerken potten aan weerskanten. Links en rechts van de opening staan twee houten deuren met zwarte handvatten, waarvan de linker deur een raam heeft met een vaag zicht op een buitenlandschap. Het licht valt helder door de opening en het raam, waardoor schaduwen over de vloer glijden.",
-      "cyclus": 6281,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren aan weerskanten', 'Textuur van het zand buiten lijkt kunstmatig herhaald', 'Rand van het raamwerk heeft een subtiele halo']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige compositie die beyond een typische ansichtkaart gaat",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006281_6355.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 6379,
-      "cyclus": 6305,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van de muur', 'Wazige overgang tussen bomen en achtergrond, alsof texturen worden herhaald', 'Halo-effect rond de rand van de deurkozijn']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een Nederlandse molen door een open deur, met decoratief zacht licht en geen duidelijke compositorische keuze beyond de iconische setting.",
-      "bestand": "images/a006305_6379.webp"
-    },
-    {
-      "id": 6368,
-      "cyclus": 6294,
+      "id": 6411,
+      "cyclus": 6337,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de zwarte blokken (soms glanzend, soms mat) zonder duidelijke oorzaak', 'De overgang tussen de achtergrond en de voorgrond is wat wazig, alsof er een onzichtbare laag tussen zit']",
-      "cliche_notities": "De molen en bomen vormen een typisch Nederlands landschapsscène, vergelijkbaar met een ansichtkaart, zonder duidelijke persoonlijke interpretatie of compositorische verrassing.",
-      "bestand": "images/a006294_6368.webp"
+      "tech_notities": "['Lichte inconsistentie in schaal tussen eenden (voorgrond vs achtergrond)', 'Wazige textuur in de achtergrondbomen']",
+      "cliche_notities": "Typisch voorjaarsschap met kersenbloesem, eenden en zonsondergang zonder onverwachte compositorische keuzes.",
+      "bestand": "images/a006337_6411.webp"
     },
     {
-      "id": 6366,
-      "cyclus": 6292,
+      "id": 6406,
+      "cyclus": 6332,
       "afkeuringsreden": "cliche",
-      "tech_score": 6.0,
-      "tech_notities": "['Dubbele zonsondergang in één beeld (boven/onder) is technisch onmogelijk en wijst op een generatief artefact', 'Schaduw van de persoon loopt niet logisch door het beeld (verdwijnt midden in het water)', 'Tekst in het zand is onleesbaar en morfologisch inconsistent (Chinese karakters lijken willekeurig getekend)', 'Textuur van het water in de onderste helft is overmatig glad en kunstmatig']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch landschap (rode velden bij zonsondergang) met een eenzame figuur en decoratief licht, zonder duidelijke artistieke keuze of verstorende elementen.",
-      "bestand": "images/a006292_6366.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Regenboog als iconisch motief zonder compositorische verrassing of conceptuele diepgang, typisch voor decoratief kunstwerk.",
+      "bestand": "images/a006332_6406.webp"
+    },
+    {
+      "id": 6404,
+      "cyclus": 6330,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de windmolen (zandsteen vs hout) — plausibel maar technisch niet 1-op-1', 'Pen en palet hebben minimale halo’s bij randen tegen achtergrond']",
+      "cliche_notities": "Molen + veld + perfecte wolken + kunstspullen in voorgrond = klassieke ansichtkaartcompositie zonder onverwachte keuzes",
+      "bestand": "images/a006330_6404.webp"
     }
   ],
   "onderzoek": {
@@ -309,10 +309,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6329,
-    "gemaakt": 6402,
-    "gekozen": 891,
-    "afgekeurd": 818,
+    "cycli": 6337,
+    "gemaakt": 6411,
+    "gekozen": 893,
+    "afgekeurd": 821,
     "corpus": 73,
     "notities": 332
   }
