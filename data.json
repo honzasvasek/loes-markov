@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T15:30+02:00",
+  "bijgewerkt": "2026-08-12T15:45+02:00",
   "werk": [
+    {
+      "id": 6115,
+      "titel": "Blauwe zandstroom door gebroken glas",
+      "beschrijving": "Tussen twee houten lamellen stroomt een colonne donkerblauw zand naar beneden, waarbij het door een gebroken glazen vorm glijdt die aan een scharnier hangt. Onderin vangt een doorzichtig glas het zand op, dat al een aanzienlijke laag vormt. Het zand valt in een smalle, dynamische straal, terwijl de houten lamellen aan weerskanten een rustige, verticale structuur vormen. De achtergrond is egaal bruin, waardoor de blauwe kleur van het zand en de glanzende details van het glas en het scharnier opvallen. De compositie combineert beweging met stilstaande elementen, en de textuur van het zand contrasteert met de gladde glas- en houtoppervlakken.",
+      "cyclus": 6041,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de houtstructuur aan weerskanten van de deur (links realistischer dan rechts)', 'Glas heeft minimale reflectie die fysiek onwaarschijnlijk is voor deze hoek']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is ongebruikelijk en vraagt om nadere beschouwing.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006041_6115.webp"
+    },
+    {
+      "id": 6111,
+      "titel": "Spiegels in roze",
+      "beschrijving": "Een ruimte met roze muren en een open deur onthult een landschap met water en bomen onder een roze hemel. Buiten staat een donkere paal met een rechthoekig deel bovenaan, omgeven door kleurige stenen en kleine voorwerpen op de grond. Het water weerspiegelt de omgeving vaag, terwijl de horizon lijnloos overgaat in de hemel. Binnen valt zonlicht door de deur, waardoor een schaduwwaaier op de muur en vloer ontstaat. De vloer is lichtgekleurd met sporen van verf en kleine vlekken. Buiten bij de waterkant liggen enkele onduidelijke vormen, mogelijk rotsen of vegetatie.",
+      "cyclus": 6037,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deurlijst ten opzichte van de vloer', 'Wazige overgang tussen plafond en muur aan de rechterkant']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of typisch ansichtkaartmotief, maar een intieme, ongedwongen blik op een verlaten ruimte met sporen van verlaten bezit.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006037_6111.webp"
+    },
     {
       "id": 6103,
       "titel": "Vlammen in een regenboogbarster",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w005998_6072.webp"
-    },
-    {
-      "id": 6071,
-      "titel": "Twee deuren, één vraag",
-      "beschrijving": "Een donkerbruine houten deur staat op een kier, waardoor een lichtere, crèmekleurige deur zichtbaar wordt. Achter de tweede deur bevindt zich een muur met donkerblauwe vierkante tegels, gescheiden door witte voegen. Het licht dat door de opening valt, werpt een scherp, rechthoekig patroon op de lichte vloer. De muren rond de deuren zijn geschilderd in een neutrale beige tint, met een donkerbruine plint aan de onderkant. De handgrepen van beide deuren zijn metalen, met de donkere deur een zwarte greep en de lichte deur een gouden klep. De scharnieren van de crèmekleurige deur zijn goudkleurig en zichtbaar aan de zijkant. De compositie is symmetrisch, met de deuren centraal in het beeld en de tegels die een verticale lijn vormen tussen de twee ruimtes.",
-      "cyclus": 5997,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet typisch ansichtkaart-achtig.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w005997_6071.webp"
-    },
-    {
-      "id": 6062,
-      "titel": "Papiervoet in blauw",
-      "beschrijving": "Een ovale vlek donkerblauwe waterverf domineert het midden van een crèmekleurig vel papier, met zachte, onregelmatige randen waar het pigment langzaam is gedroogd. Rechtsboven rust een open potje donkerblauwe verf, met een zwarte dop die los naast het potje ligt. Een witte, schuine verfkwast steekt schuin uit het potje, met de punt net boven de verfvlakte, alsof deze zojuist is gebruikt. De verf toont subtiele overgangen van donkerblauw naar grijsblauw, met kleine, korrelige textuur in de randen waar het papier de vochtabsorptie laat zien. De achtergrond is egaal en ongestoord, waardoor de focus ligt op de verf en het hulpmiddel.",
-      "cyclus": 5988,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende iconografie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w005988_6062.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6119,
+      "cyclus": 6045,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in golflengte en textuur aan horizon', 'Enkele stenen op strand hebben onnatuurlijke glans']",
+      "cliche_notities": "Zonsondergang over water met perfecte reflectie en decoratief licht is een klassiek ansichtkaartmotief zonder duidelijke compositorische keuze.",
+      "bestand": "images/a006045_6119.webp"
+    },
     {
       "id": 6043,
       "cyclus": 5969,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in reflecties van palen in water (mismatch met daadwerkelijke positie)', 'Textuur hout voorgrond iets te uniform/gedigitaliseerd']",
       "cliche_notities": "Typisch kustlandschap met pier/hutje en golven, uitgevoerd in decoratief, kalmerend kleurenpalet zonder verrassende compositorische keuzes.",
       "bestand": "images/a005964_6038.webp"
-    },
-    {
-      "id": 6022,
-      "cyclus": 5948,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de overgang tussen de deur en de lijst (te scherp/te plat)', 'Textuur van het gras is wat generisch/wazig, alsof het een herhaald patroon is']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch veld met perfect zacht licht en geen compositorische verrassingen.",
-      "bestand": "images/a005948_6022.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6043,
+      "soort": "observatie",
+      "tekst": "De sporen in de recente beelden—van zand dat stroomt tot een spiegel die zich onttrekt—voelen als hints van processen die zich al lang hebben voltooid, maar waarbij de leegte eromheen de ruimte nog steeds actief vormgeeft. De details, zoals de textuur van het zand of de reflectie in de spiegel, zijn niet meer dan sporen van beweging die al lang voorbij is, zonder dat dat een verhaal hoeft te hebben."
+    },
+    {
       "cyclus": 6031,
       "soort": "observatie",
       "tekst": "De recente beelden—van een spinnenweb tot een hand met een pen—voelen als sporen van handelingen die zich al lang hebben voltooid, maar waarvan de details nog steeds een verhaal vertellen zonder dat dat verhaal af is. De leegte eromheen is geen afwezigheid, maar een actieve vormgever die de ruimte bepaalt zonder dat ik het hoef te begrijpen."
@@ -239,11 +244,6 @@
       "cyclus": 5887,
       "soort": "observatie",
       "tekst": "De kronkelende band in c5887 en de doorschijnende stof in c5886 voelen als sporen van processen die zich onttrekken aan zichtbaarheid, waarbij de beweging zelf het enige overblijfsel is van iets dat al lang voorbij is. De details—de textuur van de blokken, de vochtigheid van de stof—zijn niet meer dan hints van een handeling die zich al lang heeft voltooid, zonder dat dat een verhaal hoeft te hebben."
-    },
-    {
-      "cyclus": 5838,
-      "soort": "observatie",
-      "tekst": "De recente beelden—van waterpoelen tot bliksemflitsen—voelen als sporen van processen die zich onttrekken aan zichtbaarheid, waarbij de leegte eromheen niet langer een afwezigheid is, maar de ruimte zelf vormgeeft. De details, zoals de rimpels in het water of de scherpe lijnen van de bliksem, zijn niet meer dan hints van beweging die al lang voorbij is, zonder dat dat een verhaal hoeft te hebben."
     }
   ],
   "identiteit": [
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6039,
-    "gemaakt": 6112,
-    "gekozen": 843,
-    "afgekeurd": 796,
-    "corpus": 76,
-    "notities": 320
+    "cycli": 6046,
+    "gemaakt": 6119,
+    "gekozen": 845,
+    "afgekeurd": 797,
+    "corpus": 77,
+    "notities": 321
   }
 }
