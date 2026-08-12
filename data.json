@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-12T19:45+02:00",
+  "bijgewerkt": "2026-08-12T20:00+02:00",
   "werk": [
+    {
+      "id": 6249,
+      "titel": "Twaalf gezichten op het pad",
+      "beschrijving": "Twee houten deuren staan wijd open onder een donkerblauwe lucht met een witte bliksemflits. Voor de deuren loopt een pad van lichte stenen door een groene tuin met kleine oranje bloemen en weelderig gras. Verspreid over het pad liggen twaalf kleine, ronde figuren met menselijke gezichten, in verschillende tinten bruin, grijs en beige. Links staan twee emmers: een gele met donker water en een zwarte met een spetterend effect. De sfeer is dromerig en iets onrustigs, door de bliksem en de donkere wolken boven de deuren.",
+      "cyclus": 6175,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren: linkerdeur lijkt hoger dan rechterdeur, maar sluit niet logisch aan op de boog', \"Wazige overgang tussen hemel en deuren, alsof de bliksem een 'halo'-effect heeft\"]",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is speels en niet typisch ansichtkaart-materiaal",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w006175_6249.webp"
+    },
+    {
+      "id": 6244,
+      "titel": "Druipende spanning in vezels",
+      "beschrijving": "Een glanzende, zilverkleurige bliksemschicht domineert het midden, met scherpe, zigzagvormige randen en donkere, amorf gevormde vlekken die eromheen lijken te druipen. De bliksem straalt uit in een waaier van donkergrijze, verticale lijnen met een textuur die aan fijne krassen of vezels doet denken, tegen een effen, lichtbruine achtergrond. Enkele kleine, heldere blauwe en roze stippen zijn verspreid over de bliksem en de omringende lijnen. De compositie is dynamisch en asymmetrisch, met de bliksem als centraal punt van spanning en beweging.",
+      "cyclus": 6170,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van achtergrond (papieren structuur) vs. voorgrond (glanzende vorm)', 'Enkele donkere vlekken lijken willekeurig geplaatst zonder duidelijke oorzaak']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is abstract en open van karakter.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006170_6244.webp"
+    },
+    {
+      "id": 6238,
+      "titel": "Wit dat zakt onder takken",
+      "beschrijving": "Een schuine, witte vlakte domineert het beeld, met subtiele textuurvariaties die een zachte, bijna vloeibare indruk maken. Rechtsboven snijdt een grijze, vaag gestructureerde vorm scherp tegen de witte ruimte aan, waaruit donkerbruine, takachtige figuren met kleine, donkere knopjes naar voren steken. De takken lopen diagonaal en vertakken zich in dunne, onregelmatige lijnen. Een smalle, gele streep loopt langs de rand van de grijze vorm, terwijl een dunne, paarse lijn zich aan de onderkant van het doek bevindt. De compositie straalt een rustige, bijna verlaten sfeer uit, met een focus op de contrasten tussen de lege witte ruimte en de donkere, organische vormen.",
+      "cyclus": 6164,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van sneeuw (linksboven vs rechtsonder)', 'Subtiele halos rond takken tegen lucht']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte, minimalistische compositie met focus op vorm en textuur.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006164_6238.webp"
+    },
     {
       "id": 6237,
       "titel": "Gloeiend afval in de golven",
@@ -78,48 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006136_6210.webp"
-    },
-    {
-      "id": 6206,
-      "titel": "Glazig bewijs van vergetelheid",
-      "beschrijving": "Een glazen fles met een kurk steekt schuin uit een witte houten deur, geflankeerd door een metalen deurkruk en een donkere, roetachtige vlek die als een onregelmatige, wazige vorm over het oppervlak loopt. De fles, lichtblauw getint en leeg, reflecteert het licht en werpt een zachte schaduw op de deur. De houten textuur van de deur is subtiel zichtbaar, met verticale lijnen die de structuur benadrukken. De compositie is minimalistisch, met de fles als centraal punt van interesse tegen de neutrale achtergrond van de deur. De sfeer is rustig en ietsje mysterieus door de contrasten tussen het glanzende glas, het matte hout en de donkere vlek.",
-      "cyclus": 6132,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van de roetvlekken (soms te scherp, soms te wazig)', 'Subtiele halo rond de hals van de fles bij het licht']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en vraagt om nadere beschouwing.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006132_6206.webp"
-    },
-    {
-      "id": 6193,
-      "titel": "Wat als het dak bloedt?",
-      "beschrijving": "Een roze vloeistof stroomt in golven over een dakrand, met druppels die naar beneden vallen. Achtergrondgebouwen met schuine daken en ramen zijn in gedempte roze en paarse tinten weergegeven. De vloeistof heeft een glanzende, viskeuze textuur en vormt een scherp contrast met de witte ruimte eronder. Donkere houten structuren van de gebouwen zijn zichtbaar onder de roze laag. De compositie is verticaal opgebouwd, met de vloeistof die de beeldhoogte doorsnijdt.",
-      "cyclus": 6119,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van achtergrondhuizen', 'Subtiele halo rond rand van smeltende dakgoot']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte, surrealistische vertolking van verdwijnen.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006119_6193.webp"
-    },
-    {
-      "id": 6190,
-      "titel": "Rood water, blauwe stilte",
-      "beschrijving": "Een kronkelend waterloop snijdt door een landschap getekend in rood en roze tinten, met donkerdere strepen die oevers en vegetatie suggereren. Bomen met spitse, onregelmatige vormen flankeren het water, terwijl in de verte vaag omschreven structuren en bomen de horizon vullen. Een grote, wolkachtige vorm domineert de bovenste helft, getekend met zachte, stralende lijnen die uitstralen vanaf een lichter centrum. Het water weerspiegelt de omgeving in subtiele, golvende lijnen, en in de voorgrond lopen scherpe, dynamische strepen die gras of riet voorstellen. Een enkele blauwe vlek in de middendistantie breekt de rode kleurpalet.",
-      "cyclus": 6116,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de horizonlijn', 'Sommige boomstructuren zijn onscherp en wazig getekend']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische stijl zonder typisch Nederlandse motieven of decoratief perfect licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006116_6190.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6245,
+      "cyclus": 6171,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de wolken (sommige waziger dan andere)', 'Regelmatige horizontale lijnen in achtergrond suggereren een digitaal patroon in plaats van natuurlijk papier']",
+      "cliche_notities": "Regenboog en wolken in een kinderlijke, decoratieve stijl zonder onverwachte compositorische keuzes of diepgang.",
+      "bestand": "images/a006171_6245.webp"
+    },
     {
       "id": 6228,
       "cyclus": 6154,
@@ -137,15 +146,6 @@
       "tech_notities": "['subtiele vervorming in de horizonlijn van het veld', 'wazige textuur in de verre bomen', 'onnatuurlijke scherpte van de deur tegenover het zachte landschap']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch bloemenveld onder een dramatische hemel, zonder onverwachte of persoonlijke keuzes.",
       "bestand": "images/a006149_6223.webp"
-    },
-    {
-      "id": 6201,
-      "cyclus": 6127,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Molen met tulpenvelden en perfecte zonsonderganglicht — klassieke ansichtkaartcompositie zonder onverwachte keuzes.",
-      "bestand": "images/a006127_6201.webp"
     }
   ],
   "onderzoek": {
@@ -305,10 +305,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6168,
-    "gemaakt": 6241,
-    "gekozen": 866,
-    "afgekeurd": 802,
+    "cycli": 6176,
+    "gemaakt": 6250,
+    "gekozen": 869,
+    "afgekeurd": 803,
     "corpus": 75,
     "notities": 325
   }
