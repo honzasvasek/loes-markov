@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-12T22:45+02:00",
+  "bijgewerkt": "2026-08-12T23:00+02:00",
   "werk": [
     {
       "id": 6324,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6344,
+      "cyclus": 6270,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de kerkruïne ten opzichte van de achtergrond', 'Enkele bomen hebben onnatuurlijke, herhalende takstructuren']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap (kerkruïne, water, wolken) en decoratief licht zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a006270_6344.webp"
+    },
+    {
       "id": 6332,
       "cyclus": 6258,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van papier aan randen', 'Subtiele halo rond regenboog bij overgang naar achtergrond']",
       "cliche_notities": "Regenboog op waterverf is een klassiek, decoratief motief zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a006257_6331.webp"
-    },
-    {
-      "id": 6330,
-      "cyclus": 6256,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de stappen (bovenin smaller dan onderin, maar niet logisch)', 'Sommige bloemen in het gras hebben onnatuurlijke, herhalende vormen', 'Regenboog mist subtieler overgang tussen kleuren (watervlak-effect)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch huisje met een regenboog en een pad dat de kijker uitnodigt tot een utopische bestemming, zonder onverwachte of uitdagende elementen.",
-      "bestand": "images/a006256_6330.webp"
     }
   ],
   "onderzoek": {
@@ -309,10 +309,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6263,
-    "gemaakt": 6336,
+    "cycli": 6271,
+    "gemaakt": 6344,
     "gekozen": 880,
-    "afgekeurd": 813,
+    "afgekeurd": 814,
     "corpus": 72,
     "notities": 331
   }
