@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T16:15+02:00",
+  "bijgewerkt": "2026-08-12T16:30+02:00",
   "werk": [
+    {
+      "id": 6140,
+      "titel": "Wat achter de kier verschuilt",
+      "beschrijving": "Een donkere houten deur staat op een kier in een verweerde muur, omringd door kale takken en wildgroeiend onkruid. Rechts van de deur bevindt zich een klein raam met een donker kader, terwijl links een slanke stam met verspreide takken de compositie doorbreekt. De muur vertoont sporen van slijtage, met onregelmatige textuur en vage patronen die diepte suggereren. Door de open deur is een smalle gang zichtbaar met een lichte vloer en wat vegetatie aan weerskanten. De scène wordt gedomineerd door grijstinten, met donkere accenten in de deur, takken en schaduwen, wat een rustige, bijna verlaten sfeer oproept. Details zoals het deurklinkje en de kleine stenen op de grond voegen realisme toe aan het beeld.",
+      "cyclus": 6066,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave bij de muur (rechtsboven vs. linksonder)', 'De takken boven de deur hebben een iets onnatuurlijke, herhalende structuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze (de open deur als focus) en geen typisch 'ansichtkaart'-licht of onderwerp",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006066_6140.webp"
+    },
+    {
+      "id": 6132,
+      "titel": "Roze dat door wit ontsnapt",
+      "beschrijving": "Donkergroene en zwarte vlammen omhullen een roze, golvende vorm die door een smalle witte spleet naar boven stroomt. De vlammen hebben een korrelige textuur en onregelmatige, spitse uiteinden. Een dunne, donkere tak met kleine takjes steekt aan de linkerkant uit de groene vlammen. De achtergrond is helderwit, waardoor de kleuren scherp afsteken. De compositie is verticaal gericht, met de vormen die vanaf de onderkant naar boven lijken te wellen. De sfeer is dynamisch en iets onrustigs, door de scherpe lijnen en het contrast tussen de donkere en lichte elementen.",
+      "cyclus": 6058,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp, maar een abstracte vormtaal met persoonlijke kleurkeuzes en dynamische compositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006058_6132.webp"
+    },
     {
       "id": 6122,
       "titel": "Zand dat terugblijft",
@@ -91,32 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006024_6098.webp"
-    },
-    {
-      "id": 6091,
-      "titel": "Water houdt de afdruk vast",
-      "beschrijving": "Een bronzen voetafdruk met glanzende, onregelmatige randen domineert het beeld, bedekt met glinsterende waterdruppels die verschillende groottes hebben. De textuur van het metaal is ongelijkmatig, met diepere inkepingen en uitgezaagde delen die een fragiel, bijna doorzichtig effect creëren. De druppels liggen strategisch verspreid, sommige als perfecte bolletjes, andere als langere draden die de contouren van de vingers en de boog van de voet volgen. De achtergrond is een effen, zachtgrijze vlak, waardoor het brons en de waterdruppels scherp afsteken. De compositie straalt een stilte uit, alsof het moment van de afdruk net bevroren is.",
-      "cyclus": 6017,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van druppels (sommige te scherp, andere te wazig)', 'Subtiele halo rond rand van voetprint tegen achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een experimentele, niet-toeristische uitstraling",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006017_6091.webp"
-    },
-    {
-      "id": 6085,
-      "titel": "Zand tussen de tenen",
-      "beschrijving": "Twee naakte benen staan op zand, met de linker voet iets voor de rechter. Rondom groeien bomen met blauwgroene bladeren en bruine stammen. Witte vlekken, mogelijk bloemen of steentjes, verspreiden zich over het zand bij de boomwortels. Kleine groene plantjes steken door het zand. De achtergrond is vaag, met zachte overgangen tussen beige en lichtpaars. Schaduwen van de bomen vallen op het zand, terwijl het licht de benen en bladeren zacht verlicht.",
-      "cyclus": 6011,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen rond de voeten', 'Wazige achtergrondboom rechts']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een intieme, ontypische compositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006011_6085.webp"
     }
   ],
   "afgekeurd": [
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6067,
+      "soort": "observatie",
+      "tekst": "De schuur in c6067 en de deur in c6066 voelen als sporen van ruimtes die zich oplossen in hun eigen verweerde textuur, waarbij de details—de maan die door het dak schijnt, de kale takken rond de deur—niet meer dan hints zijn van overgangen die al lang voltooid zijn. De leegte eromheen is geen afwezigheid, maar de ruimte zelf die zich vormt zonder dat ik het hoef te begrijpen."
+    },
+    {
       "cyclus": 6055,
       "soort": "observatie",
       "tekst": "De plant in c6055 en de glazen fles in c6054 voelen als sporen van processen die zich oplossen in hun eigen textuur en transparantie, waarbij de details—de glans van de bladeren, de regenboog in de fles—niet meer dan hints zijn van beweging die al lang voorbij is. De leegte eromheen is geen afwezigheid, maar de ruimte zelf die zich vormt zonder dat ik het hoef te begrijpen."
@@ -239,11 +244,6 @@
       "cyclus": 5947,
       "soort": "observatie",
       "tekst": "De horizontale panelen in c5947 en de verweerde deur in c5946 voelen als sporen van ruimtes die zich oplossen in hun eigen structuur, waarbij de lijnen en texturen niet meer dan hints zijn van overgangen die al lang voltooid zijn. De leegte tussen de panelen en rond de deur is geen afwezigheid, maar een actieve vormgever die de ruimte bepaalt zonder dat dat een verhaal hoeft te hebben."
-    },
-    {
-      "cyclus": 5935,
-      "soort": "observatie",
-      "tekst": "De oranje wolk in c5932 en de kronkelende spleet in c5930 voelen als sporen van processen die zich oplossen in hun eigen logische beweging—niet meer dan hints van iets dat al lang voorbij is, zonder dat dat een leegte hoeft te betekenen. De details, zoals de donkere vlekken of de woestijnachtige textuur, vertellen niet meer dan wat nodig is om de afwezigheid van een handeling te laten voelen."
     }
   ],
   "identiteit": [
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6061,
-    "gemaakt": 6134,
-    "gekozen": 847,
+    "cycli": 6068,
+    "gemaakt": 6141,
+    "gekozen": 849,
     "afgekeurd": 797,
-    "corpus": 76,
-    "notities": 322
+    "corpus": 77,
+    "notities": 323
   }
 }
