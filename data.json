@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-12T19:15+02:00",
+  "bijgewerkt": "2026-08-12T19:30+02:00",
   "werk": [
     {
       "id": 6215,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6228,
+      "cyclus": 6154,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen boven- en onderste paneel (bomen vs. water)', 'Subtiele halo rond zon in bovenste paneel']",
+      "cliche_notities": "Beeld combineert iconische motieven (zonsondergang, symmetrische bomenrij, waterreflectie) zonder duidelijke compositorische of thematische verankering in het onderzoek",
+      "bestand": "images/a006154_6228.webp"
+    },
+    {
       "id": 6223,
       "cyclus": 6149,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Molen met tulpenvelden en perfecte zonsonderganglicht — klassieke ansichtkaartcompositie zonder onverwachte keuzes.",
       "bestand": "images/a006127_6201.webp"
-    },
-    {
-      "id": 6175,
-      "cyclus": 6101,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van stenen muur (sommige stenen te scherp, andere te wazig)', 'Subtiele halo rond wit schuim tegen donkerblauw water']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch kustlandschap met perfecte golven en een rustige horizon, zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a006101_6175.webp"
     }
   ],
   "onderzoek": {
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6152,
-    "gemaakt": 6225,
+    "cycli": 6160,
+    "gemaakt": 6233,
     "gekozen": 863,
-    "afgekeurd": 801,
-    "corpus": 76,
+    "afgekeurd": 802,
+    "corpus": 75,
     "notities": 325
   }
 }
