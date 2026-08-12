@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T18:00+02:00",
+  "bijgewerkt": "2026-08-12T18:15+02:00",
   "werk": [
+    {
+      "id": 6182,
+      "titel": "Zaadjes op de wind",
+      "beschrijving": "Een slanke, droge stengel met zachte, bruine pluimen domineert het midden van het beeld, tegen een achtergrond van een bewolkte hemel in blauwe en witte tinten. De pluimen zijn gedetailleerd geschilderd met fijne, uitwaaiende vezels en kleine, donkere zaadjes. Onderaan de stengel zijn enkele dunne, droge bladeren zichtbaar. Op de achtergrond, iets links van het midden, staat een klein huis met een roodbruin dak en lichte muren, omgeven door groene bomen en struiken. Het landschap eromheen bestaat uit golvende, geelbruine velden met subtiele groene en gele accenten. De lucht is vol met zachte, wazige wolken die de achtergrond vullen, met hier en daar een stukje helder blauw. De algehele sfeer is rustig en wat verlaten, met een focus op de natuurlijke textuur van de plant en de ruimte rondom.",
+      "cyclus": 6108,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de achtergrondwolken (smeuiig)', 'Detailverlies in de schaduwen van de achtergrondhuizen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een close-up van een plant met een ongewone compositie en focus op detail.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006108_6182.webp"
+    },
+    {
+      "id": 6179,
+      "titel": "Waar blijft de rest?",
+      "beschrijving": "Een profiel van een menselijk hoofd en bovenlichaam, gevormd van een lichtbeige, textuurrijk materiaal, staat centraal tegen een donkergrijze achtergrond. Het haar is gestileerd met vloeiende lijnen en watervormige uitsteeksels die naar achteren waaien. Boven het hoofd zweeft een oranje, wolkachtige vorm met zachte, bolle randen. De kleuren zijn beperkt tot beige, oranje en donkergrijs, wat een rustige maar uitdrukkelijke sfeer creëert.",
+      "cyclus": 6105,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006105_6179.webp"
+    },
     {
       "id": 6173,
       "titel": "Stromend mozaïek",
@@ -91,32 +117,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006066_6140.webp"
-    },
-    {
-      "id": 6132,
-      "titel": "Roze dat door wit ontsnapt",
-      "beschrijving": "Donkergroene en zwarte vlammen omhullen een roze, golvende vorm die door een smalle witte spleet naar boven stroomt. De vlammen hebben een korrelige textuur en onregelmatige, spitse uiteinden. Een dunne, donkere tak met kleine takjes steekt aan de linkerkant uit de groene vlammen. De achtergrond is helderwit, waardoor de kleuren scherp afsteken. De compositie is verticaal gericht, met de vormen die vanaf de onderkant naar boven lijken te wellen. De sfeer is dynamisch en iets onrustigs, door de scherpe lijnen en het contrast tussen de donkere en lichte elementen.",
-      "cyclus": 6058,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp, maar een abstracte vormtaal met persoonlijke kleurkeuzes en dynamische compositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006058_6132.webp"
-    },
-    {
-      "id": 6122,
-      "titel": "Zand dat terugblijft",
-      "beschrijving": "Een grijze betonnen muur met een rechthoekige opening, waar een effen grijze deur in zit met een zwarte deurkruk. Rond de deur zijn randen van de muur onregelmatig en beschadigd, met losse betonnen stukken en puin. Voor de muur strekt zich een golvend oppervlak uit van diepblauw zand, doorspekt met enkele grote, grijze rotsen. Verspreid staan dorre, bruine tarwearen, met lange, slanke stengels en volle, textuurrijke aren die in verschillende hoogtes en hoeken uit het zand steken. Het licht valt schuin, waardoor schaduwen van de tarwe en de muur over het zand vallen.",
-      "cyclus": 6048,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van beton rond deurkozijn', 'Wazige overgang tussen zand en beton aan horizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze met onverklaarde deur en ongewone textuurcombinatie",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006048_6122.webp"
     }
   ],
   "afgekeurd": [
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6113,
-    "gemaakt": 6186,
-    "gekozen": 855,
+    "cycli": 6120,
+    "gemaakt": 6194,
+    "gekozen": 857,
     "afgekeurd": 799,
-    "corpus": 77,
+    "corpus": 76,
     "notities": 324
   }
 }
