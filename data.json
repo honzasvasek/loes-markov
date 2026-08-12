@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-12T17:30+02:00",
+  "bijgewerkt": "2026-08-12T17:45+02:00",
   "werk": [
+    {
+      "id": 6173,
+      "titel": "Stromend mozaïek",
+      "beschrijving": "Een onregelmatige, glanzende steen rust op een effen, lichtbruine ondergrond. Van de steen stroomt een smalle, witte vloeistof in een slingerende lijn naar boven en naar beneden, met subtiele blauwe en grijze tinten. De steen heeft een mozaïekachtige textuur met beige, bruine en donkergrijze vlakken, en reflecteert licht op sommige plekken. Rond de steen bevindt zich een donkerblauwe, amorf vorm die lijkt op een plas of schaduw. De achtergrond is egale, zonder details, wat de focus legt op de steen en de vloeistof. De sfeer is statisch maar met een dynamische beweging door de stromende vloeistof.",
+      "cyclus": 6099,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de rots (soms glanzend, soms mat) zonder duidelijke oorzaak', 'Subtiele halo rond de witte vloeistofstraal bij het contactpunt met de rots']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is abstract en open van karakter, zonder decoratief perfect licht.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006099_6173.webp"
+    },
+    {
+      "id": 6171,
+      "titel": "Mosgroene tongen in witte rook",
+      "beschrijving": "Twee verticale, cilindervormige structuren van lichtbruin hout met een mosgroene, textuurrijke oppervlakte staan centraal, gescheiden door een smalle witte spleet. Tussen de bovenste delen van de cilinders zweeft een witte, wazige wolk met zachte, onregelmatige randen, die overgaat in een donkerblauwe onderlaag. Achter de cilinders en de wolk bevindt zich een grijze, getekende achtergrond met donkere, krassende lijnen die een chaotische, bijna stormachtige sfeer uitstralen. De onderkant van de cilinders rust op een effen, lichtgrijze ondergrond, waarbij de schaduwen een subtiele diepte toevoegen aan de compositie.",
+      "cyclus": 6097,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van houtsnippers tussen boven- en onderdelen', 'Wazige overgang tussen rook en achtergrond aan linkerzijde']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met rook en hout suggereert een conceptuele laag.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006097_6171.webp"
+    },
     {
       "id": 6165,
       "titel": "Waar de bellen stilstaan",
@@ -91,35 +117,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006048_6122.webp"
-    },
-    {
-      "id": 6121,
-      "titel": "Waar komt dat licht vandaan",
-      "beschrijving": "Een licht openstaande houten deur met een donkerbruine kleuring en een zwarte deurkruk bevindt zich centraal in een muur van gelijksoortige houten panelen. Door de kier stroomt een felwit licht dat de vloer verlicht en een scherp contrast vormt met de omringende bruine tinten. Witte, stralende lijnen stralen vanuit de deur naar buiten, alsof ze een onzichtbare kracht of beweging suggereren. De deur heeft een klassieke indeling met rechthoekige panelen en wordt geflankeerd door donkere scharnieren. De vloer bestaat uit houten planken met zichtbare korrel en lichte slijtage, waar het licht een zachte gloed werpt.",
-      "cyclus": 6047,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de houtstructuur bij de deurkozijn, watervlekken-achtige textuur in het witte deel van de deur lijkt willekeurig en niet gefundeerd in lichtval']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze (de halfopen deur met stralend licht) en geen typisch iconisch onderwerp, dus geen ansichtkaart-gevoel.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006047_6121.webp"
-    },
-    {
-      "id": 6115,
-      "titel": "Blauwe zandstroom door gebroken glas",
-      "beschrijving": "Tussen twee houten lamellen stroomt een colonne donkerblauw zand naar beneden, waarbij het door een gebroken glazen vorm glijdt die aan een scharnier hangt. Onderin vangt een doorzichtig glas het zand op, dat al een aanzienlijke laag vormt. Het zand valt in een smalle, dynamische straal, terwijl de houten lamellen aan weerskanten een rustige, verticale structuur vormen. De achtergrond is egaal bruin, waardoor de blauwe kleur van het zand en de glanzende details van het glas en het scharnier opvallen. De compositie combineert beweging met stilstaande elementen, en de textuur van het zand contrasteert met de gladde glas- en houtoppervlakken.",
-      "cyclus": 6041,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de houtstructuur aan weerskanten van de deur (links realistischer dan rechts)', 'Glas heeft minimale reflectie die fysiek onwaarschijnlijk is voor deze hoek']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is ongebruikelijk en vraagt om nadere beschouwing.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006041_6115.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6175,
+      "cyclus": 6101,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van stenen muur (sommige stenen te scherp, andere te wazig)', 'Subtiele halo rond wit schuim tegen donkerblauw water']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch kustlandschap met perfecte golven en een rustige horizon, zonder onverwachte compositorische keuzes.",
+      "bestand": "images/a006101_6175.webp"
+    },
+    {
+      "id": 6174,
+      "cyclus": 6100,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deurlijst ten opzichte van het raam', 'Wazige overgang tussen de wheat-stengels en de achtergrond in het raamgedeelte']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een deur die uitkomt op een iconisch Nederlands landschap (korrelveld) met decoratief licht en geen duidelijke compositorische keuze beyond de metaforische toegang.",
+      "bestand": "images/a006100_6174.webp"
+    },
     {
       "id": 6119,
       "cyclus": 6045,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in golflengte en textuur aan horizon', 'Enkele stenen op strand hebben onnatuurlijke glans']",
       "cliche_notities": "Zonsondergang over water met perfecte reflectie en decoratief licht is een klassiek ansichtkaartmotief zonder duidelijke compositorische keuze.",
       "bestand": "images/a006045_6119.webp"
-    },
-    {
-      "id": 6043,
-      "cyclus": 5969,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen op de huizen (links/rechts)', 'Hand in voorgrond mist vingerspitsen en heeft onnatuurlijke verhouding tot omringende bomen']",
-      "cliche_notities": "Typisch mediterraan ansichtkaartmotief met roze huisjes, blauwe boot en gestileerde cipressen, zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a005969_6043.webp"
-    },
-    {
-      "id": 6038,
-      "cyclus": 5964,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in reflecties van palen in water (mismatch met daadwerkelijke positie)', 'Textuur hout voorgrond iets te uniform/gedigitaliseerd']",
-      "cliche_notities": "Typisch kustlandschap met pier/hutje en golven, uitgevoerd in decoratief, kalmerend kleurenpalet zonder verrassende compositorische keuzes.",
-      "bestand": "images/a005964_6038.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6103,
+      "soort": "observatie",
+      "tekst": "De deur in c6103 en het vuur erachter voelen als een spoor van verdwijnen dat zich niet oplost in leegte, maar in een fel, oncontroleerbaar proces—de vlammen vatten niet alleen het hout, maar ook de grenzen van het beeld zelf. De rook en donkere vormen zijn geen hints van wat verdwenen is, maar de actieve ontbinding van de ruimte om de deur heen."
+    },
+    {
       "cyclus": 6067,
       "soort": "observatie",
       "tekst": "De schuur in c6067 en de deur in c6066 voelen als sporen van ruimtes die zich oplossen in hun eigen verweerde textuur, waarbij de details—de maan die door het dak schijnt, de kale takken rond de deur—niet meer dan hints zijn van overgangen die al lang voltooid zijn. De leegte eromheen is geen afwezigheid, maar de ruimte zelf die zich vormt zonder dat ik het hoef te begrijpen."
@@ -239,11 +244,6 @@
       "cyclus": 5959,
       "soort": "observatie",
       "tekst": "De glazen fles in c5959 en de vaas in c5958 voelen als sporen van ruimtes die zich oplossen in hun eigen transparantie, waarbij de grenzen tussen binnen en buiten vervagen tot een actieve leegte die de ruimte om hen heen bepaalt. De goudkleurige edelstenen en de glanzende glazuurlaag zijn niet meer dan hints van een handeling die al lang voltooid is, zonder dat dat een verhaal hoeft te hebben."
-    },
-    {
-      "cyclus": 5947,
-      "soort": "observatie",
-      "tekst": "De horizontale panelen in c5947 en de verweerde deur in c5946 voelen als sporen van ruimtes die zich oplossen in hun eigen structuur, waarbij de lijnen en texturen niet meer dan hints zijn van overgangen die al lang voltooid zijn. De leegte tussen de panelen en rond de deur is geen afwezigheid, maar een actieve vormgever die de ruimte bepaalt zonder dat dat een verhaal hoeft te hebben."
     }
   ],
   "identiteit": [
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6098,
-    "gemaakt": 6171,
-    "gekozen": 853,
-    "afgekeurd": 797,
-    "corpus": 77,
-    "notities": 323
+    "cycli": 6105,
+    "gemaakt": 6179,
+    "gekozen": 855,
+    "afgekeurd": 799,
+    "corpus": 76,
+    "notities": 324
   }
 }
