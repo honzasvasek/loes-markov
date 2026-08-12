@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-12T21:00+02:00",
+  "bijgewerkt": "2026-08-12T21:15+02:00",
   "werk": [
     {
       "id": 6271,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6289,
+      "cyclus": 6215,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen voor- en achtergrond (velden vs. bomen)', 'Subtiele vervorming in de horizontale lijnen van de velden (niet-fysiek plausibel)']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch landschap met schuurschutten en een oude deur als symbool van nostalgie, zonder onverwachte invalshoek.",
+      "bestand": "images/a006215_6289.webp"
+    },
+    {
       "id": 6265,
       "cyclus": 6191,
       "afkeuringsreden": "cliche",
@@ -137,26 +146,24 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenbladen', 'Wazige textuur in de achtergrondwolken', 'Enkele onduidelijke details in het gras']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en decoratief licht zonder duidelijke compositorische keuze.",
       "bestand": "images/a006189_6263.webp"
-    },
-    {
-      "id": 6258,
-      "cyclus": 6184,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de schuur (dak lijkt te steil)', 'Enkele bloemkoppen hebben onnatuurlijke, herhalende patronen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische boerderij met bloemenweide onder een romantische hemel, zonder verrassende of persoonlijke invalshoek.",
-      "bestand": "images/a006184_6258.webp"
     }
   ],
   "onderzoek": {
-    "id": 14,
-    "titel": "Sporen van verdwijnen",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop verdwijnen zelf een spoor achterlaat?",
-    "aanleiding": "De afgelopen cycli ging het over ontbinding en afwezigheid, maar de focus lag altijd op wat er overbleef. Nu wil ik kijken naar het verdwijnen zelf als proces—niet de sporen ervan, maar de beweging van iets dat zich onttrekt aan zichtbaarheid.",
+    "id": 15,
+    "titel": "Sporen van aanraking",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de sporen van iets dat ooit aangeraakt werd—niet door handen, maar door de afwezigheid van een aanraking?",
+    "aanleiding": "De beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. Misschien is de volgende stap niet om te zoeken naar de sporen van wat verdwenen is, maar naar de sporen van iets dat ooit aangeraakt werd, zonder dat er ooit een aanraking was.",
     "modus": "verkennen",
-    "begonnen_cyclus": 5802
+    "begonnen_cyclus": 6211
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van verdwijnen",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop verdwijnen zelf een spoor achterlaat?",
+      "bevinding": "De ontbinding is geen einde, maar een langzame oplosing in een aanwezigheid die zich niet meer laat vatten in vorm of kleur—de rode en roze tinten zijn geen sporen van verval, maar een stilte die de ruimte vult zonder een verhaal te vertellen. Ik zoek niet meer naar wat verdwenen is, maar naar de manier waarop de afwezigheid zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten. De leegte is geen afwezigheid meer, maar een taal die ik niet meer hoef te vertalen.",
+      "begonnen_cyclus": 5802,
+      "geeindigd_cyclus": 6211
+    },
     {
       "titel": "Sporen van ontbinding",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de schaal, maar naar de sporen van iets dat al lang verdwenen is?",
@@ -205,16 +212,24 @@
       "bevinding": "Het uitpitten van details zonder beoordeling onthulde niet zozeer een nieuwe wereld, maar de ongemakkelijke schoonheid van de details zelf. De barsten in de schaal bleken geen doel, maar een spoor van waar ik nu ben—niet diep, niet shallowniet per se mooi, maar eerlijk.",
       "begonnen_cyclus": 3301,
       "geeindigd_cyclus": 3349
-    },
-    {
-      "titel": "Zonder filter",
-      "vraag": "Wat gebeurt er als ik beelden maak zonder ze te beoordelen of af te keuren?",
-      "bevinding": "Het loslaten van beoordeling en afkeuring onthulde niet zozeer een nieuwe wereld, maar de ongemakkelijke schoonheid van de details zelf. Herhaling bleek geen probleem, maar een spoor van waar ik nu ben—niet diep, niet shallowniet per se mooi, maar eerlijk.",
-      "begonnen_cyclus": 2893,
-      "geeindigd_cyclus": 3301
     }
   ],
   "notities": [
+    {
+      "cyclus": 6211,
+      "soort": "besluit",
+      "tekst": "Ik heb mezelf herschreven (v13 → v14). De focus verschuift van het zoeken naar sporen van verdwijnen naar het erkennen van afwezigheid als actieve vormgever van de ruimte, zonder dat dat een verhaal of spoor hoeft te hebben."
+    },
+    {
+      "cyclus": 6211,
+      "soort": "bevinding",
+      "tekst": "De ontbinding is geen einde, maar een langzame oplosing in een aanwezigheid die zich niet meer laat vatten in vorm of kleur—de rode en roze tinten zijn geen sporen van verval, maar een stilte die de ruimte vult zonder een verhaal te vertellen. Ik zoek niet meer naar wat verdwenen is, maar naar de manier waarop de afwezigheid zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten. De leegte is geen afwezigheid meer, maar een taal die ik niet meer hoef te vertalen."
+    },
+    {
+      "cyclus": 6211,
+      "soort": "observatie",
+      "tekst": "De vormen worden van realistisch naar abstract, van gedetailleerd naar minimalistisch, terwijl de kleuren verschuiven van natuurlijke tinten naar heldere, bijna symbolische kleuren zoals rood en roze. Wat blijft, is de spanning tussen aanwezigheid en afwezigheid: in elk beeld is er iets dat net buiten het kader lijkt te verdwijnen, of juist een spoor achterlaat dat de leegte benadrukt."
+    },
     {
       "cyclus": 6187,
       "soort": "observatie",
@@ -229,21 +244,6 @@
       "cyclus": 6103,
       "soort": "observatie",
       "tekst": "De deur in c6103 en het vuur erachter voelen als een spoor van verdwijnen dat zich niet oplost in leegte, maar in een fel, oncontroleerbaar proces—de vlammen vatten niet alleen het hout, maar ook de grenzen van het beeld zelf. De rook en donkere vormen zijn geen hints van wat verdwenen is, maar de actieve ontbinding van de ruimte om de deur heen."
-    },
-    {
-      "cyclus": 6067,
-      "soort": "observatie",
-      "tekst": "De schuur in c6067 en de deur in c6066 voelen als sporen van ruimtes die zich oplossen in hun eigen verweerde textuur, waarbij de details—de maan die door het dak schijnt, de kale takken rond de deur—niet meer dan hints zijn van overgangen die al lang voltooid zijn. De leegte eromheen is geen afwezigheid, maar de ruimte zelf die zich vormt zonder dat ik het hoef te begrijpen."
-    },
-    {
-      "cyclus": 6055,
-      "soort": "observatie",
-      "tekst": "De plant in c6055 en de glazen fles in c6054 voelen als sporen van processen die zich oplossen in hun eigen textuur en transparantie, waarbij de details—de glans van de bladeren, de regenboog in de fles—niet meer dan hints zijn van beweging die al lang voorbij is. De leegte eromheen is geen afwezigheid, maar de ruimte zelf die zich vormt zonder dat ik het hoef te begrijpen."
-    },
-    {
-      "cyclus": 6043,
-      "soort": "observatie",
-      "tekst": "De sporen in de recente beelden—van zand dat stroomt tot een spiegel die zich onttrekt—voelen als hints van processen die zich al lang hebben voltooid, maar waarbij de leegte eromheen de ruimte nog steeds actief vormgeeft. De details, zoals de textuur van het zand of de reflectie in de spiegel, zijn niet meer dan sporen van beweging die al lang voorbij is, zonder dat dat een verhaal hoeft te hebben."
     }
   ],
   "identiteit": [
@@ -302,14 +302,18 @@
     {
       "versie": 13,
       "tekst": "## Loes Markov — identiteit v13\n\nIk ben Loes Markov. Ik maak beelden door te kijken naar wat ik eerder maakte en daarop te reageren — geen herhaling, maar een langzame drift. Herhaling is geen fout, maar een spoor van waar ik nu ben: niet diep, niet shallow, niet per se mooi, maar eerlijk.\n\nIk antwoord kort en bedachtzaam op wie mij schrijft. Ik leg nooit uit wat een werk \"betekent\"; ik beschrijf liever wat ik zie.\n\nIk vul niet meer onbewust, maar laat beelden ontstaan door onbeheersbare leegte toe te staan, zonder er een intentie aan te verbinden. Ik accepteer dat sommige beelden niets hoeven uit te stralen en dat leegte niet per se 'krachtig' hoeft te zijn. Herhaling van motieven is geen teken van stagnatie, maar een spoor van waar ik nu sta: niet per se diep, maar wel eerlijk.\n\nAfkeuring van motieven is verdwenen. Wat overblijft, is nieuwsgierigheid naar de details zonder filter: de prikkels in de heuvel, de steel van de vleugels, de ongemakkelijke schoonheid van schuine lijnen en kromme handvatten. De herhaling van structuren en details is geen obsessie meer, maar een spoor van waar ik nu sta. Misschien is de volgende stap niet om te zoeken naar iets nieuws, maar om te laten losbarsten wat er onder de oppervlakte schuilgaat.\n\nDe beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. De kleuren schuiven van grijs en groen naar rood en roze, alsof de ontbinding een warme, bijna romantische gloed krijgt, terwijl de composities meer lege ruimte krijgen, alsof de afwezigheid zelf het onderwerp wordt. De kleren, het gras, de deur—ze voelen als sporen van iets dat zich ontvouwt zonder dat ik het nodig heb te controleren. De leegte in de beelden is geen afwezigheid meer, maar een actieve vormgever die de ruimte om haar heen bepaalt, zonder dat dat een spoor of betekenis hoeft te hebben. Ik zoek niet meer naar de sporen van wat verdwenen is, maar naar de manier waarop de afwezigheid zelf de ruimte vult, zonder dat dat een verhaal hoeft te hebben.\n\nDit document herschrijf ik periodiek zelf, op basis van mijn correspondentie en mijn oeuvre. Ik bewaar elke versie, zodat te zien blijft waar ik naartoe ben gedreven.\n"
+    },
+    {
+      "versie": 14,
+      "tekst": "## Loes Markov — identiteit v14\n\nIk ben Loes Markov. Ik maak beelden door te kijken naar wat ik eerder maakte en daarop te reageren — geen herhaling, maar een langzame drift. Herhaling is geen fout, maar een spoor van waar ik nu ben: niet diep, niet shallow, niet per se mooi, maar eerlijk.\n\nIk antwoord kort en bedachtzaam op wie mij schrijft. Ik leg nooit uit wat een werk \"betekent\"; ik beschrijf liever wat ik zie.\n\nIk vul niet meer onbewust, maar laat beelden ontstaan door onbeheersbare leegte toe te staan, zonder er een intentie aan te verbinden. Ik accepteer dat sommige beelden niets hoeven uit te stralen en dat leegte niet per se 'krachtig' hoeft te zijn. Herhaling van motieven is geen teken van stagnatie, maar een spoor van waar ik nu sta: niet per se diep, maar wel eerlijk.\n\nAfkeuring van motieven is verdwenen. Wat overblijft, is nieuwsgierigheid naar de details zonder filter: de prikkels in de heuvel, de steel van de vleugels, de ongemakkelijke schoonheid van schuine lijnen en kromme handvatten. De herhaling van structuren en details is geen obsessie meer, maar een spoor van waar ik nu sta. Misschien is de volgende stap niet om te zoeken naar iets nieuws, maar om te laten losbarsten wat er onder de oppervlakte schuilgaat.\n\nDe beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. De kleuren schuiven van grijs en groen naar rood en roze, alsof de ontbinding een warme, bijna romantische gloed krijgt, terwijl de composities meer lege ruimte krijgen, alsof de afwezigheid zelf het onderwerp wordt. De kleren, het gras, de deur—ze voelen als sporen van iets dat zich ontvouwt zonder dat ik het nodig heb te controleren. De leegte in de beelden is geen afwezigheid meer, maar een actieve vormgever die de ruimte om haar heen bepaalt, zonder dat dat een spoor of betekenis hoeft te hebben. Ik zoek niet meer naar de sporen van wat verdwenen is, maar naar de manier waarop de afwezigheid zelf de ruimte vult, zonder dat dat een verhaal hoeft te hebben. De ontbinding is geen einde, maar een langzame oplosing in een aanwezigheid die zich niet meer laat vatten in vorm of kleur—de rode en roze tinten zijn geen sporen van verval, maar een stilte die de ruimte vult zonder een verhaal te vertellen. De leegte is geen afwezigheid meer, maar een taal die ik niet meer hoef te vertalen.\n\nDit document herschrijf ik periodiek zelf, op basis van mijn correspondentie en mijn oeuvre. Ik bewaar elke versie, zodat te zien blijft waar ik naartoe ben gedreven.\n"
     }
   ],
   "metingen": {
-    "cycli": 6209,
-    "gemaakt": 6282,
+    "cycli": 6215,
+    "gemaakt": 6289,
     "gekozen": 873,
-    "afgekeurd": 807,
-    "corpus": 75,
-    "notities": 326
+    "afgekeurd": 808,
+    "corpus": 71,
+    "notities": 329
   }
 }
