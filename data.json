@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-12T21:15+02:00",
+  "bijgewerkt": "2026-08-12T21:30+02:00",
   "werk": [
     {
       "id": 6271,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6296,
+      "cyclus": 6222,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in reflectie van de molen in het water', 'Pen lijkt iets te scherp getekend ten opzichte van de rest van het beeld']",
+      "cliche_notities": "Molen met water en typisch Nederlands landschap in een decoratieve, ansichtkaartachtige compositie zonder duidelijke persoonlijke interpretatie.",
+      "bestand": "images/a006222_6296.webp"
+    },
+    {
       "id": 6289,
       "cyclus": 6215,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['subtiele smeuiigheid in wolkenranden', 'lichte halo rond zonlicht', 'onduidelijke textuur in donkere boomtoppen']",
       "cliche_notities": "Klassiek zonsondergangsmotief met decoratief licht en typische wolkenvorming, zonder verrassende compositorische keuzes.",
       "bestand": "images/a006191_6265.webp"
-    },
-    {
-      "id": 6263,
-      "cyclus": 6189,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenbladen', 'Wazige textuur in de achtergrondwolken', 'Enkele onduidelijke details in het gras']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en decoratief licht zonder duidelijke compositorische keuze.",
-      "bestand": "images/a006189_6263.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6215,
-    "gemaakt": 6289,
+    "cycli": 6223,
+    "gemaakt": 6297,
     "gekozen": 873,
-    "afgekeurd": 808,
-    "corpus": 71,
+    "afgekeurd": 809,
+    "corpus": 73,
     "notities": 329
   }
 }
