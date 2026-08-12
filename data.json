@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-12T19:30+02:00",
+  "bijgewerkt": "2026-08-12T19:45+02:00",
   "werk": [
+    {
+      "id": 6237,
+      "titel": "Gloeiend afval in de golven",
+      "beschrijving": "Een verlichte, smeltende cilinder steekt schuin in een nat strand, omringd door golven en donkere rotsen. Bovenin scheurt een bliksemflits door een bewolkte hemel, met druppels die naar beneden vallen. De cilinder straalt een warme, oranje-gloeiiende licht uit, terwijl er donkere, viskeuze vloeistof van af loopt en in plassen op het zand belandt. Rode en bruine vormen liggen verspreid rondom, met reflecties in het water en natte zand. De golven bewegen dynamisch, met wit schuim dat contrasteert met de donkerblauwe oceaan.",
+      "cyclus": 6163,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van golven (herhaalpatroon)', 'Subtiele halo rond bliksem']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is onorthodox en niet-bevestigend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006163_6237.webp"
+    },
+    {
+      "id": 6233,
+      "titel": "Vocht en vezels",
+      "beschrijving": "Twee houten planken liggen schuin op een wit oppervlak, met zichtbare vezels en kleine metalen nagels. De randen tonen paarse en roze verkleuringen, alsof ze door vocht of verfspatten zijn getrokken. Achter de planken loopt een smalle waterloop met donker water, waar een rots en groene planten uit steken. Het licht valt schuin, waardoor de textuur van het hout en de glans op het water benadrukt worden. De compositie is rustig, met een focus op de contrasten tussen natuurlijk materiaal en de strakke, witte omgeving.",
+      "cyclus": 6159,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurherhaling aan rechterrand', 'Subtiele halo rond donkere schaduwen onder hout']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op materiaal en proces, niet op een bevestigend landschap.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006159_6233.webp"
+    },
+    {
+      "id": 6229,
+      "titel": "Wie kijkt er terug?",
+      "beschrijving": "Een landschap met twee wateroppervlakken, gescheiden door een smalle strook land met rotsen en gras. Aan weerszijden van het middelste wateroppervlak staan twee rijen mensen in een rechte lijn, gekleed in jassen en kleding in verschillende kleuren, waaronder rood, paars en wit. Het water weerspiegelt de figuren en de omgeving. Op de achtergrond bevindt zich een helling met bomen en struiken, evenals een groep mensen die in de verte staat. De sfeer is rustig en symmetrisch, met een mix van natuurlijke en mensgemaakte elementen.",
+      "cyclus": 6155,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in reflecties van figuren in water (sommige reflecties te scherp/realistisch voor watervlak)', 'Textuur van kleding bij sommige figuren wat plat/wazig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; compositie en thematiek zijn ongebruikelijk en provocerend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006155_6229.webp"
+    },
     {
       "id": 6215,
       "titel": "Krassen in het verleden",
@@ -78,45 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006116_6190.webp"
-    },
-    {
-      "id": 6182,
-      "titel": "Zaadjes op de wind",
-      "beschrijving": "Een slanke, droge stengel met zachte, bruine pluimen domineert het midden van het beeld, tegen een achtergrond van een bewolkte hemel in blauwe en witte tinten. De pluimen zijn gedetailleerd geschilderd met fijne, uitwaaiende vezels en kleine, donkere zaadjes. Onderaan de stengel zijn enkele dunne, droge bladeren zichtbaar. Op de achtergrond, iets links van het midden, staat een klein huis met een roodbruin dak en lichte muren, omgeven door groene bomen en struiken. Het landschap eromheen bestaat uit golvende, geelbruine velden met subtiele groene en gele accenten. De lucht is vol met zachte, wazige wolken die de achtergrond vullen, met hier en daar een stukje helder blauw. De algehele sfeer is rustig en wat verlaten, met een focus op de natuurlijke textuur van de plant en de ruimte rondom.",
-      "cyclus": 6108,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de achtergrondwolken (smeuiig)', 'Detailverlies in de schaduwen van de achtergrondhuizen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een close-up van een plant met een ongewone compositie en focus op detail.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006108_6182.webp"
-    },
-    {
-      "id": 6179,
-      "titel": "Waar blijft de rest?",
-      "beschrijving": "Een profiel van een menselijk hoofd en bovenlichaam, gevormd van een lichtbeige, textuurrijk materiaal, staat centraal tegen een donkergrijze achtergrond. Het haar is gestileerd met vloeiende lijnen en watervormige uitsteeksels die naar achteren waaien. Boven het hoofd zweeft een oranje, wolkachtige vorm met zachte, bolle randen. De kleuren zijn beperkt tot beige, oranje en donkergrijs, wat een rustige maar uitdrukkelijke sfeer creëert.",
-      "cyclus": 6105,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006105_6179.webp"
-    },
-    {
-      "id": 6173,
-      "titel": "Stromend mozaïek",
-      "beschrijving": "Een onregelmatige, glanzende steen rust op een effen, lichtbruine ondergrond. Van de steen stroomt een smalle, witte vloeistof in een slingerende lijn naar boven en naar beneden, met subtiele blauwe en grijze tinten. De steen heeft een mozaïekachtige textuur met beige, bruine en donkergrijze vlakken, en reflecteert licht op sommige plekken. Rond de steen bevindt zich een donkerblauwe, amorf vorm die lijkt op een plas of schaduw. De achtergrond is egale, zonder details, wat de focus legt op de steen en de vloeistof. De sfeer is statisch maar met een dynamische beweging door de stromende vloeistof.",
-      "cyclus": 6099,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de rots (soms glanzend, soms mat) zonder duidelijke oorzaak', 'Subtiele halo rond de witte vloeistofstraal bij het contactpunt met de rots']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is abstract en open van karakter, zonder decoratief perfect licht.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006099_6173.webp"
     }
   ],
   "afgekeurd": [
@@ -305,9 +305,9 @@
     }
   ],
   "metingen": {
-    "cycli": 6160,
-    "gemaakt": 6233,
-    "gekozen": 863,
+    "cycli": 6168,
+    "gemaakt": 6241,
+    "gekozen": 866,
     "afgekeurd": 802,
     "corpus": 75,
     "notities": 325
