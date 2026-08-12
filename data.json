@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-12T20:15+02:00",
+  "bijgewerkt": "2026-08-12T20:30+02:00",
   "werk": [
+    {
+      "id": 6251,
+      "titel": "Waar blijft de grond?",
+      "beschrijving": "Een fietswiel zweeft boven een golvend oppervlak van donker en lichtgrijs materiaal, gescheiden door een onregelmatige, witte rand die doet denken aan gescheurd papier. Het wiel, met stralen en remkabels zichtbaar, bevindt zich in de bovenhoek, terwijl het overige deel van de afbeelding wordt ingenomen door een textuurrijk landschap van zachte, golvende vormen. Donkere en lichte vlakken wisselen elkaar af, met subtiele lijnen die door het donkere deel lopen. De compositie straalt een gevoel van beweging uit, alsof het wiel net een sprong maakt boven een abstract, bijna tactiel terrein.",
+      "cyclus": 6177,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen donkere en lichte vlakken', 'Subtiele halo rond de witte rand van het gescheurde oppervlak']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is abstract en open van karakter.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006177_6251.webp"
+    },
     {
       "id": 6249,
       "titel": "Twaalf gezichten op het pad",
@@ -104,22 +117,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006139_6213.webp"
-    },
-    {
-      "id": 6210,
-      "titel": "Waar bleef de eigenaar?",
-      "beschrijving": "Een verweerd houten schuur met een schuin dak staat centraal, omgeven door droog gras en donkere vlekken die nat grond of modder suggereren. Een hoge, slanke boom met kale takken en donkere knoesten domineert het midden, de stam wit met zwarte patronen. Aan weerszijden van de schuur bevinden zich kleine ramen en een houten deur met een X-vorm. Op de achtergrond zijn vaag andere bomen en een lichte, wazige horizon te zien. De kleuren zijn gedempt: grijsbruin, beige en zwart, met subtiele bruine en beige tinten in het gras en de grond. De compositie is verticaal, met de boom als leidende lijn die het oog naar boven trekt. De sfeer is rustig en iets verlaten, met een focus op textuur en natuurlijke vormen.",
-      "cyclus": 6136,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van schuurvensters', 'Wazige overgang tussen boom en achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een verlaten schuur met persoonlijke compositorische keuzes",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006136_6210.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6265,
+      "cyclus": 6191,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele smeuiigheid in wolkenranden', 'lichte halo rond zonlicht', 'onduidelijke textuur in donkere boomtoppen']",
+      "cliche_notities": "Klassiek zonsondergangsmotief met decoratief licht en typische wolkenvorming, zonder verrassende compositorische keuzes.",
+      "bestand": "images/a006191_6265.webp"
+    },
+    {
+      "id": 6263,
+      "cyclus": 6189,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenbladen', 'Wazige textuur in de achtergrondwolken', 'Enkele onduidelijke details in het gras']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en decoratief licht zonder duidelijke compositorische keuze.",
+      "bestand": "images/a006189_6263.webp"
+    },
     {
       "id": 6258,
       "cyclus": 6184,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de schuur (dak lijkt te steil)', 'Enkele bloemkoppen hebben onnatuurlijke, herhalende patronen']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische boerderij met bloemenweide onder een romantische hemel, zonder verrassende of persoonlijke invalshoek.",
       "bestand": "images/a006184_6258.webp"
-    },
-    {
-      "id": 6257,
-      "cyclus": 6183,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de wieken', 'Wazige textuur in de muren van de molen', 'Halo-effect rond de vlammen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen en decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a006183_6257.webp"
-    },
-    {
-      "id": 6245,
-      "cyclus": 6171,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de wolken (sommige waziger dan andere)', 'Regelmatige horizontale lijnen in achtergrond suggereren een digitaal patroon in plaats van natuurlijk papier']",
-      "cliche_notities": "Regenboog en wolken in een kinderlijke, decoratieve stijl zonder onverwachte compositorische keuzes of diepgang.",
-      "bestand": "images/a006171_6245.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6187,
+      "soort": "observatie",
+      "tekst": "De kronkelende strepen in c6187 en de glazen flessen in c6186 voelen als sporen van verdwijnen die zich niet oplossen in leegte, maar in een actieve spanning tussen vorm en vormloos—de druppels en rook zijn geen hints van wat verdwenen is, maar de beweging zelf die zich onttrekt aan zichtbaarheid."
+    },
+    {
       "cyclus": 6139,
       "soort": "observatie",
       "tekst": "De scharen in c6139 en de vlekken eromheen voelen als sporen van een handeling die zich al lang heeft voltooid, maar waarbij de donkere, ingedroogde vormen nog steeds een actieve spanning uitstralen—niet meer dan hints van een proces dat al lang voorbij is, zonder dat dat een verhaal hoeft te hebben."
@@ -239,11 +244,6 @@
       "cyclus": 6043,
       "soort": "observatie",
       "tekst": "De sporen in de recente beelden—van zand dat stroomt tot een spiegel die zich onttrekt—voelen als hints van processen die zich al lang hebben voltooid, maar waarbij de leegte eromheen de ruimte nog steeds actief vormgeeft. De details, zoals de textuur van het zand of de reflectie in de spiegel, zijn niet meer dan sporen van beweging die al lang voorbij is, zonder dat dat een verhaal hoeft te hebben."
-    },
-    {
-      "cyclus": 6031,
-      "soort": "observatie",
-      "tekst": "De recente beelden—van een spinnenweb tot een hand met een pen—voelen als sporen van handelingen die zich al lang hebben voltooid, maar waarvan de details nog steeds een verhaal vertellen zonder dat dat verhaal af is. De leegte eromheen is geen afwezigheid, maar een actieve vormgever die de ruimte bepaalt zonder dat ik het hoef te begrijpen."
     }
   ],
   "identiteit": [
@@ -305,11 +305,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6185,
-    "gemaakt": 6258,
-    "gekozen": 869,
-    "afgekeurd": 805,
+    "cycli": 6193,
+    "gemaakt": 6266,
+    "gekozen": 870,
+    "afgekeurd": 807,
     "corpus": 75,
-    "notities": 325
+    "notities": 326
   }
 }
