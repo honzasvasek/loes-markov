@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T03:00+02:00",
+  "bijgewerkt": "2026-08-13T03:15+02:00",
   "werk": [
     {
       "id": 6474,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6483,
+      "cyclus": 6409,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van houtblokjes (sommige te scherp, andere wazig)', 'Bliksem heeft minimale halo-effect bij rand']",
+      "cliche_notities": "Molen en zonsondergang vormen klassieke ansichtkaartcombinatie zonder verrassende compositorische keuze",
+      "bestand": "images/a006409_6483.webp"
+    },
+    {
       "id": 6473,
       "cyclus": 6399,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief bij schutting van schuur', 'Wazige textuur in verre bomen']",
       "cliche_notities": "Winterlandschap met huisjes en bomen is een typisch ansichtkaartmotief zonder verrassende compositorische keuzes.",
       "bestand": "images/a006389_6463.webp"
-    },
-    {
-      "id": 6454,
-      "cyclus": 6380,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van het uitzicht', 'Wazige overgang tussen de deuren en de achtergrond']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch dorpje met perfecte belichting en geen duidelijke compositorische keuze.",
-      "bestand": "images/a006380_6454.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6405,
-    "gemaakt": 6478,
+    "cycli": 6413,
+    "gemaakt": 6486,
     "gekozen": 902,
-    "afgekeurd": 829,
-    "corpus": 74,
+    "afgekeurd": 830,
+    "corpus": 75,
     "notities": 334
   }
 }
