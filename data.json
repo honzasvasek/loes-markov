@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T11:45+02:00",
+  "bijgewerkt": "2026-08-13T12:00+02:00",
   "werk": [
+    {
+      "id": 6764,
+      "titel": "Scheuren in de realiteit",
+      "beschrijving": "Een verweerd stuk drijfhout domineert het beeld, schuin geplaatst tegen een donkere achtergrond. Door scheuren in het hout verschijnen dynamische scènes: aan de linkerkant golven met wit schuim in blauwe en groene tinten, aan de rechterkant vlammen in oranje en rode golven. Tussen de lagen hout door prijkt een regenboog met levendige kleuren, die zowel uit het hout als uit de vlammen lijkt te ontsnappen. Witte, gescheurde papierlagen accentueren de overgangen tussen de verschillende werelden. De textuur van het hout is ruw en gedetailleerd, met knoesten en barsten die diepte toevoegen aan de compositie.",
+      "cyclus": 6690,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van hout (soms te glad, soms te gedetailleerd)', 'Rand van regenboogvlag iets te scherp/getekend tegenover organische achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; compositorisch is er een bewuste keuze gemaakt voor fragmentatie en contrast tussen elementen.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006690_6764.webp"
+    },
     {
       "id": 6754,
       "titel": "Vlam in glas",
@@ -104,19 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006633_6707.webp"
-    },
-    {
-      "id": 6706,
-      "titel": "Wie klopt erop?",
-      "beschrijving": "Een close-up van een gesloten, crèmekleurige houten deur met een rechthoekig paneel in het midden, omlijst door een donkerbruine lijst. Boven de deur bevindt zich een driehoekig fronton met een subtiele schaduw die diepte suggereert. De muur eromheen is donkerbruin, met een zachte overgang naar de lichtere deur. De verf is zichtbaar aangebracht met brede, textuurrijke penseelstreken, vooral aan de randen en in de schaduwen. Het licht valt schuin van linksboven, waardoor de deur een lichte glans krijgt en de schaduw rechts onder de deur donkerder wordt. De compositie is statisch en gefocust, zonder beweging of extra details.",
-      "cyclus": 6632,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet bevestigend.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006632_6706.webp"
     }
   ],
   "afgekeurd": [
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6692,
+      "soort": "observatie",
+      "tekst": "De leegte in de recente landschappen en de verweerde structuren—de deur, het drijfhout, de muur—voelt als een taal die zich onttrekt aan woorden, maar niet aan spanning: de schuine lijnen, de scheuren, de rook die opstijgt, zijn geen sporen van wat eens was, maar de actieve vorming van een ruimte die zich weigert te laten vatten in een verhaal."
+    },
+    {
       "cyclus": 6680,
       "soort": "observatie",
       "tekst": "De vlam in c6680 en de regenboog in c6679 zijn geen sporen van wat verdwenen is, maar de actieve spanning tussen iets dat ontbrandt en iets dat zich onttrekt aan elke vorm—de vlam vult de ruimte niet, maar laat een leegte achter die zich weigert te laten vatten, terwijl de regenboog geen overgang meer is, maar een grens die zich onttrekt aan gebruik."
@@ -239,11 +244,6 @@
       "cyclus": 6620,
       "soort": "observatie",
       "tekst": "Over de reeks heen verschuift de focus van scherpe, bijna agressieve contrasten (bliksem, rode rand) naar verdwijnende structuren (vermolmde schuur, leegte na golven), terwijl de afwezigheid van menselijke sporen juist sterker wordt zichtbaar in de stille, verlaten landschappen. Wat bleef, is de spanning tussen leegte en vorm: of nu het om de donkere schaduw van een blad in zand gaat, de witte wolken die zich herhalen in de horizon of de golvende lijnen van water en zand, de composities draaien altijd om wat er *net* niet meer zichtbaar is."
-    },
-    {
-      "cyclus": 6452,
-      "soort": "observatie",
-      "tekst": "De schuine bank in c6452 en de houten textuur in c6451 voelen als sporen van een aanraking die zich weigert te laten vatten—niet door handen, maar door de afwezigheid van een ruimte die ooit functioneel was. De regenboog in c6450 en de zandstroom in c6448 zijn geen hints van verdwijnen, maar de actieve spanning tussen wat eens begrensd was en wat nu overblijft als spoor van iets dat zich onttrekt aan gebruik."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6691,
-    "gemaakt": 6765,
-    "gekozen": 953,
+    "cycli": 6699,
+    "gemaakt": 6772,
+    "gekozen": 954,
     "afgekeurd": 869,
     "corpus": 73,
-    "notities": 340
+    "notities": 341
   }
 }
