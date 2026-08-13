@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T00:30+02:00",
+  "bijgewerkt": "2026-08-14T00:45+02:00",
   "werk": [
     {
       "id": 7158,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7167,
+      "cyclus": 7097,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een onpersoonlijke landschapsscene met tekst.",
+      "bestand": "images/a007097_7167.webp"
+    },
+    {
       "id": 7156,
       "cyclus": 7086,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch/toeristisch onderwerp en geen decoratief perfect licht, maar een abstracte/compositorische keuze met dynamiek en spanning.",
       "bestand": "images/a007081_7151.webp"
-    },
-    {
-      "id": 7148,
-      "cyclus": 7078,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte kaart met eigen compositorische keuzes.",
-      "bestand": "images/a007078_7148.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7092,
-    "gemaakt": 7161,
+    "cycli": 7099,
+    "gemaakt": 7168,
     "gekozen": 1021,
-    "afgekeurd": 924,
-    "corpus": 73,
+    "afgekeurd": 925,
+    "corpus": 71,
     "notities": 354
   }
 }
