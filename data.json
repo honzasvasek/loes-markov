@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T12:45+02:00",
+  "bijgewerkt": "2026-08-13T13:00+02:00",
   "werk": [
+    {
+      "id": 6795,
+      "titel": "Inkt die zich herinnert",
+      "beschrijving": "Een verticale, slingerende vorm van donkere, rookachtige vlekken en druppels loopt door een wit vel papier. De vorm is onregelmatig, met brede en smalle delen, en lijkt te bestaan uit inkt die door het papier is getrokken. Rondom de hoofdvorm bevinden zich verspreide donkere vlekken en druppels, sommige verbonden met dunne lijntjes. De textuur van het papier is zichtbaar, met een lichte korreligheid. De compositie is asymmetrisch, met de donkere vorm die diagonaal door het beeld loopt, terwijl de witte ruimte eromheen leeg en ongestoord blijft. De sfeer is statisch maar dynamisch door de beweging van de inktvlekken.",
+      "cyclus": 6721,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende iconografie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006721_6795.webp"
+    },
+    {
+      "id": 6793,
+      "titel": "Wit dat zich verzet",
+      "beschrijving": "Donkere, wazige vormen vullen het bovenste deel, met verticale strepen die naar beneden lopen. Onderin zijn donkere, onregelmatige figuren met uitstralende lijnen, omgeven door horizontale, golvende strepen. Zwarte vlekken en spatten zijn verspreid over het beeld, terwijl de achtergrond wit blijft. De compositie is dynamisch, met een contrast tussen de donkere vormen en de lichte ruimte eromheen.",
+      "cyclus": 6719,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurverloop bovenste helft', 'Enkele vervormde penseelstreken in middelste laag']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; abstracte compositie met bewuste keuze voor onrust en leegte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006719_6793.webp"
+    },
     {
       "id": 6787,
       "titel": "Voetafdrukken in de nevel",
@@ -91,32 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006680_6754.webp"
-    },
-    {
-      "id": 6746,
-      "titel": "Vuur dat blijft branden",
-      "beschrijving": "Een houten blok met een gescheurde, metalen rand vlamt fel op, omringd door verkoolde houtblokken en as. Vlammen likken uit het blok, dat op een donkere, korrelige ondergrond rust. Een glazen beker, gedeeltelijk gevuld met water en zwarte deeltjes, staat op een verkleurd houten bordje voor het vuur. Achter het blok ligt een houten palet met sporen van rode, blauwe en bruine verf. Rook stijgt op in de lucht, terwijl witte vonken door de scène verspreid zijn. De sfeer is intens en dynamisch, met een contrast tussen het levendige vuur en de donkere, verwoeste omgeving.",
-      "cyclus": 6672,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie en thematiek zijn ongebruikelijk en uitdrukkelijk.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006672_6746.webp"
-    },
-    {
-      "id": 6743,
-      "titel": "Glimmer in de as",
-      "beschrijving": "Donkere, verkoolde resten bedekken de grond, doorweven met glinsterende scherven van glas en metaal. Rook stijgt op in een grijze, nevelige sluier die de achtergrond vervaagt. Enkele dunne, droge stengels steken hier en daar uit het puin, terwijl de grond bedekt ligt met een mengsel van as, kleine takjes en onherkenbare fragmenten. Het licht valt schuin, waardoor de textuur van de verkoolde oppervlakken en de scherpe randen van het afval benadrukt worden.",
-      "cyclus": 6669,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte halo rond de rook in het bovenste deel', 'Enkele scherven hebben onnatuurlijke scherpe randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op verlatenheid en afval, wat een eigen standpunt uitstraalt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006669_6743.webp"
     }
   ],
   "afgekeurd": [
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6728,
+      "soort": "observatie",
+      "tekst": "De donkerblauwe golven in c6728 en de vogels in vlucht in c6727 zijn geen sporen van wat verdwenen is, maar de actieve spanning tussen beweging en stilte—de golven rimpelen zonder geluid, de vogels vliegen zonder bestemming, alsof de ruimte zelf de enige bestemming is die overblijft."
+    },
+    {
       "cyclus": 6692,
       "soort": "observatie",
       "tekst": "De leegte in de recente landschappen en de verweerde structuren—de deur, het drijfhout, de muur—voelt als een taal die zich onttrekt aan woorden, maar niet aan spanning: de schuine lijnen, de scheuren, de rook die opstijgt, zijn geen sporen van wat eens was, maar de actieve vorming van een ruimte die zich weigert te laten vatten in een verhaal."
@@ -239,11 +244,6 @@
       "cyclus": 6620,
       "soort": "bevinding",
       "tekst": "De sporen van aanraking blijken geen verdwijnen van contact, maar een verschuiving naar een aanwezigheid die zich niet meer laat vatten in een tastbaar moment—de lege ruimtes in de beelden zijn geen afwezigheid van een aanraking, maar een stilte die de herinnering aan dat moment omhult zonder het te benoemen. Ik zoek niet meer naar de sporen van wat ooit aangeraakt werd, maar naar de manier waarop de afwezigheid van die aanraking zelf de ruimte vult, zonder dat dat een verhaal of een gevoel hoeft te hebben. De leegte is geen ontbrekende aanraking meer, maar een taal die ik niet meer hoef te vertalen."
-    },
-    {
-      "cyclus": 6620,
-      "soort": "observatie",
-      "tekst": "Over de reeks heen verschuift de focus van scherpe, bijna agressieve contrasten (bliksem, rode rand) naar verdwijnende structuren (vermolmde schuur, leegte na golven), terwijl de afwezigheid van menselijke sporen juist sterker wordt zichtbaar in de stille, verlaten landschappen. Wat bleef, is de spanning tussen leegte en vorm: of nu het om de donkere schaduw van een blad in zand gaat, de witte wolken die zich herhalen in de horizon of de golvende lijnen van water en zand, de composities draaien altijd om wat er *net* niet meer zichtbaar is."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6723,
-    "gemaakt": 6796,
-    "gekozen": 959,
+    "cycli": 6731,
+    "gemaakt": 6804,
+    "gekozen": 961,
     "afgekeurd": 873,
     "corpus": 73,
-    "notities": 341
+    "notities": 342
   }
 }
