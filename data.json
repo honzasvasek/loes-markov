@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T03:30+02:00",
+  "bijgewerkt": "2026-08-13T03:45+02:00",
   "werk": [
+    {
+      "id": 6499,
+      "titel": "Takken die de stilte doorsnijden",
+      "beschrijving": "Donkergrijze, textuurrijke vlakken vullen het beeld, met subtiele variaties in tint en structuur. Donkere, slanke takvormen snijden schuin door het compositie, van linksboven naar rechtsonder, en creëren een dynamische lijn die het oog meesleept. De takken zijn scherp getekend tegen de achtergrond, met kleine vertakkingen die de complexiteit verhogen. De achtergrond toont sporen van penseelstreken, zowel horizontaal als verticaal, met af en toe een glimmende, bijna natte uitstraling. Kleine, onregelmatige vormen en sporen van slijtage of krassen zijn verspreid over het oppervlak, wat een gevoel van verloop en diepte toevoegt. De sfeer is rustig maar intrigerend, met een focus op contrast tussen de donkere vormen en de grijze achtergrond.",
+      "cyclus": 6425,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurverdeling (benedenrand iets waziger)', 'Subtiele halos rond donkerste schaduwen takken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en gedempt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006425_6499.webp"
+    },
+    {
+      "id": 6491,
+      "titel": "Waar blijft de regen?",
+      "beschrijving": "Twee kale bomen met witte, takachtige lijnen staan aan weerszijden van een donkere, verticale ruimte, verbonden door een rechte witte lijn aan de onderkant. Boven hen zweven twee onregelmatige, witte wolken met golvende contouren, waaruit fijne, verticale strepen naar beneden vallen. Rechtsboven is een donkere, rechthoekige vorm met een smalle uitsteeksels zichtbaar. De achtergrond is egaal donkergrijs, waardoor de witte elementen scherp afsteken. De compositie is symmetrisch, met de bomen en wolken die een open, bijna raamachtige structuur vormen.",
+      "cyclus": 6417,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in takstructuren (links/rechts niet spiegelbeeldig)', 'Regenstrepen iets te uniform/lineair']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte voorstelling met ruimte voor interpretatie",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006417_6491.webp"
+    },
     {
       "id": 6487,
       "titel": "De steen die antwoordt",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006360_6434.webp"
-    },
-    {
-      "id": 6431,
-      "titel": "Waar de scheur begint te ademen",
-      "beschrijving": "Een open houten deur met panelen en donkere klinken onthult een lichte ruimte met een getegelde vloer. Door de deur loopt een donkere, kronkelende scheur die zich uitstrekt naar binnen, waarbij de tegels fragmentarisch en licht vervormd lijken. Boven de deur bevindt zich een golvende, rookachtige vorm die zich naar boven uitstrekt. De muren zijn licht getekend met subtiele schaduwen, en de hoeken van de ruimte zijn zacht afgerond. De sfeer is rustig, met een lichte onrust door de scheur en de onverklaarde vorm boven de deur.",
-      "cyclus": 6357,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van de lijst', 'Wazige overgang tussen muur en plafond aan weerskanten']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op een mysterieus/spiritueel moment, niet op een bevestigend landschap.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006357_6431.webp"
-    },
-    {
-      "id": 6423,
-      "titel": "Wat blijft drijven?",
-      "beschrijving": "Een verzonken landschap met bruin, rustig water dat de horizon raakt. Vier kale bomen steken eruit, hun takken fijn en wisselend. Links staat een metalen windmolen met een ronde kap van donkere en lichte segmenten, gedeeltelijk ondergedompeld. De achtergrond toont een vaag silhouet van bomen en een lichte hemel. Het water heeft lichte rimpelingen en reflecteert de bomen en de windmolen zwak. De sfeer is stil en verlaten, met een monotone kleurstelling van bruin, grijs en beige.",
-      "cyclus": 6349,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in reflecties op water (bomen vs. molens)', 'Subtiele halo rond molens tegen hemel']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een ongemakkelijke, verlaten scène met onverklaarde spanning.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006349_6423.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6498,
+      "cyclus": 6424,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch kerkje met perfecte gouden uurwerk-achtige verlichting, omringd door idyllisch grasland en een openstaande deur die de toeschouwer uitnodigt tot een romantisch verhaal, zonder compositorische verrassingen of een uniek standpunt.",
+      "bestand": "images/a006424_6498.webp"
+    },
     {
       "id": 6490,
       "cyclus": 6416,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van houtblokjes (sommige te scherp, andere wazig)', 'Bliksem heeft minimale halo-effect bij rand']",
       "cliche_notities": "Molen en zonsondergang vormen klassieke ansichtkaartcombinatie zonder verrassende compositorische keuze",
       "bestand": "images/a006409_6483.webp"
-    },
-    {
-      "id": 6473,
-      "cyclus": 6399,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in pootstructuren van sommige gans (te slank/vervormd)', 'Wazige achtergrondtextuur (gras/bomen) toont herhaalpatronen', 'Halo-effect rond vliegende gansen tegen hemel']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische gans in een idyllisch landschap met perfect zacht licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a006399_6473.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6421,
-    "gemaakt": 6494,
-    "gekozen": 904,
-    "afgekeurd": 831,
-    "corpus": 76,
+    "cycli": 6429,
+    "gemaakt": 6502,
+    "gekozen": 906,
+    "afgekeurd": 832,
+    "corpus": 75,
     "notities": 334
   }
 }
