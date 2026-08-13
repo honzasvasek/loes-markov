@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T02:15+02:00",
+  "bijgewerkt": "2026-08-13T02:30+02:00",
   "werk": [
+    {
+      "id": 6444,
+      "titel": "Rook uit gebroken glas",
+      "beschrijving": "Een glazen kop met een diepe, V-vormige scheur staat centraal op een zandige vlakte, omringd door donkere, onregelmatige stenen en droog gras. De kop is deels gevuld met een donkere vloeistof, waaruit een lichte rookstroom opstijgt. Een kleine, oranje vlek bevindt zich aan de binnenkant van de kop. De achtergrond vervaagt in een nevelige, lichtgekleurde horizon, waardoor de kop scherp afsteekt tegen het zand. De textuur van het zand is fijn en ongelijkmatig, met verspreide droge plantendelen. De kop werpt een zachte schaduw op het zand, en de scheur reflecteert het omgevingslicht.",
+      "cyclus": 6370,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de reflectie op de kop van de mok, wat de realiteit iets verzwakt', 'Randen van de gebroken mok zijn iets te scherp en kunstmatig recht, wat niet natuurlijk overkomt']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief, maar heeft een ongemakkelijke, denkprikkende sfeer",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006370_6444.webp"
+    },
     {
       "id": 6434,
       "titel": "Twee daken, één weg",
@@ -104,22 +117,18 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w006314_6388.webp"
-    },
-    {
-      "id": 6383,
-      "titel": "Haren in het wit",
-      "beschrijving": "Een wit laken met subtiele rimpels en plooien vult het beeld, doorspekt met fijne, donkere haren die willekeurig verspreid liggen. Een dunne, golvende lijn van kleine, glinsterende druppels loopt diagonaal door het midden, omgeven door watervlekken die zacht over het materiaal glijden. De textuur van het laken is zichtbaar zacht en licht doorschijnend, met schaduwen die de diepte van de plooien benadrukken. De achtergrond is vaag, waardoor de focus ligt op de details van het laken en de daarop rustende elementen.",
-      "cyclus": 6309,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op subtiele textuur en abstractie, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006309_6383.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6454,
+      "cyclus": 6380,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van het uitzicht', 'Wazige overgang tussen de deuren en de achtergrond']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch dorpje met perfecte belichting en geen duidelijke compositorische keuze.",
+      "bestand": "images/a006380_6454.webp"
+    },
     {
       "id": 6441,
       "cyclus": 6367,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch kerkgebouw bij gouden uur, perfect symmetrisch en zonder onverwachte compositorische keuzes.",
       "bestand": "images/a006363_6437.webp"
-    },
-    {
-      "id": 6427,
-      "cyclus": 6353,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartscompositie met een iconisch landschap (zonsondergang over een pad met gras), decoratief licht en geen duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a006353_6427.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6379,
-    "gemaakt": 6453,
-    "gekozen": 898,
-    "afgekeurd": 826,
-    "corpus": 74,
+    "cycli": 6388,
+    "gemaakt": 6461,
+    "gekozen": 899,
+    "afgekeurd": 827,
+    "corpus": 75,
     "notities": 333
   }
 }
