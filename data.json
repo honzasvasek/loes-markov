@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T16:00+02:00",
+  "bijgewerkt": "2026-08-13T16:15+02:00",
   "werk": [
     {
       "id": 6888,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6906,
+      "cyclus": 6835,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['kleine inconsistentie in perspectief van de windmolenbladen', 'enkele wazige details in de achtergrondbomen', 'kleine halo rond de regenboog']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, regenboog, landschap) en decoratief licht zonder duidelijke compositorische keuze.",
+      "bestand": "images/a006835_6906.webp"
+    },
+    {
       "id": 6892,
       "cyclus": 6821,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte vervorming in de horizonlijn (windmolen lijkt schuin te staan)', 'Sommige plantenspitsen in de voorgrond zijn onnatuurlijk scherp tegenover wazige achtergrond', 'Textuur in de wolken is overmatig herhalend']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molens in een landschap met perfecte zonsondergangslighting en geen duidelijke compositorische keuze beyond het centrale plaatje.",
       "bestand": "images/a006815_6886.webp"
-    },
-    {
-      "id": 6872,
-      "cyclus": 6801,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met kerk, water en groen in een perfecte balans, zonder verrassende of persoonlijke keuzes.",
-      "bestand": "images/a006801_6872.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6827,
-    "gemaakt": 6898,
+    "cycli": 6836,
+    "gemaakt": 6906,
     "gekozen": 979,
-    "afgekeurd": 886,
-    "corpus": 75,
+    "afgekeurd": 887,
+    "corpus": 74,
     "notities": 344
   }
 }
