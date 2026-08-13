@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T13:30+02:00",
+  "bijgewerkt": "2026-08-13T13:45+02:00",
   "werk": [
+    {
+      "id": 6813,
+      "titel": "Kool en poeder op hout",
+      "beschrijving": "Donkere, onregelmatige koolblokjes liggen verspreid naast een smalle, lichte strook poeder. Een donkere, getextureerde houten plank loopt diagonaal door het beeld, met zichtbare vezels en kleine witte vlekjes. De kool heeft een glanzende, korrelige structuur, terwijl het poeder zacht en fijn lijkt. Rechtsboven is een smalle, heldere strook zichtbaar, mogelijk een opening of reflectie. De compositie straalt een rustige, bijna industriële sfeer uit, met een scherpe focus op de contrasten tussen donker en licht, ruw en glad.",
+      "cyclus": 6739,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave bij de koolstukken (sommige delen overmatig scherp, andere wazig)', 'Subtiele haloring rond de lichtinval in de rechterbovenhoek']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is gericht op textuur en contrast zonder bevestigende iconografie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006739_6813.webp"
+    },
+    {
+      "id": 6812,
+      "titel": "Stralen die bijten",
+      "beschrijving": "Een donkere, schuine schaduw domineert het beeld, met scherpe, stralende uitsteeksels die aan een zonnestraal of doornenkrans doen denken. Onderaan loopt een lichtere, verticale strook met zachte, golvende patronen, alsof licht door een smalle spleet valt. De achtergrond is een egaal, lichtgrijze muur met een subtiel korrelig reliëf. De compositie is minimalistisch, met een sterke contrast tussen licht en donker, en een gevoel van beweging door de dynamische vormen van de schaduw.",
+      "cyclus": 6738,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006738_6812.webp"
+    },
     {
       "id": 6811,
       "titel": "Wie vormt wie nu?",
@@ -91,35 +117,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006707_6781.webp"
-    },
-    {
-      "id": 6778,
-      "titel": "Sporen die liegen",
-      "beschrijving": "Een zandweg met diepe, parallelle bandensporen loopt recht naar de horizon, waar droge, bruine rietstengels de achtergrond vormen. Het zand heeft een warme, roodbruine tint en toont subtiele textuurverschillen: gladde oppervlakken afgewisseld met grove, korrelige plekken waar de sporen dieper zijn. De rietstengels staan dicht op elkaar, met slanke, gebroken stengels die in verschillende hoogtes de lucht in reiken. De hemel erboven is lichtgrijs en egale, zonder wolken of zonlicht. De compositie is symmetrisch, met de weg als centrale as die het beeld in twee gelijke helften deelt. De sfeer is rustig en verlaten, met een gevoel van eenzaamheid en stilte.",
-      "cyclus": 6704,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of decoratief perfect licht; de compositie is gericht op sporen en stilte, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006704_6778.webp"
-    },
-    {
-      "id": 6775,
-      "titel": "Beton drinkt de horizon op",
-      "beschrijving": "Een verlaten, smalle betonnen waterloop loopt diagonaal door het beeld, omgeven door overwoekerd onkruid en dode plantenstengels. Rechts loopt een bakstenen muur parallel aan de waterloop, met daarboven een smalle horizon waar bomen en een verlaten landschap vaag zichtbaar zijn. De textuur van het beton is ruw en verweerd, met donkere vlekken en losse stenen. Het licht valt schuin, waardoor schaduwen diep en scherp zijn. Boven in het beeld bevindt zich een textblok met Aziatische karakters, dat de bovenste derde van de compositie inneemt. De algehele sfeer is verlaten en verwaarloosd, met een gevoel van stilte en vergetelheid.",
-      "cyclus": 6701,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte vervorming in de Chinese karakters (onscherpe randen, inconsistentie in grootte)', 'Textuur in het gras en puin wat wazig/smeuiig, maar niet kritiek', 'Perspectief van de muur iets onnatuurlijk schuin, maar nog plausibel']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en de tekst voegt een onrustige laag toe.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006701_6775.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6826,
+      "cyclus": 6753,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in reflectie van de molen in het water: de molen zelf is scherp, maar de reflectie is overmatig vervagen, wat niet natuurgetrouw is voor dit wateroppervlak.', 'Subtiele halo rond de vonken in het water, wat wijst op post-processing of generatieve versterking van contrast.']",
+      "cliche_notities": "Dit beeld combineert twee iconische Nederlandse elementen (molen en bomen bij water) in een klassieke, decoratieve compositie zonder duidelijke artistieke of conceptuele draai, typisch voor een ansichtkaart.",
+      "bestand": "images/a006753_6826.webp"
+    },
+    {
+      "id": 6821,
+      "cyclus": 6747,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij huizen (links/rechts)', 'Enkele vervormde plantenstructuren (rechtsboven)', 'Wazige overgang horizon/landen']",
+      "cliche_notities": "Typisch landschap met rivier, huizen en velden in een decoratieve, ansichtkaartachtige compositie zonder duidelijke artistieke keuze.",
+      "bestand": "images/a006747_6821.webp"
+    },
     {
       "id": 6817,
       "cyclus": 6743,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de velden (horizon lijkt te schuin)', 'Enkele penseelstreken in de regenboog zijn wat wazig/smeuiig']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische regenboog + idyllisch landschap + sentimentele symboliek (brieven, hart) zonder verrassende invalshoek.",
       "bestand": "images/a006743_6817.webp"
-    },
-    {
-      "id": 6810,
-      "cyclus": 6736,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de molenwiek linksboven', 'Wazige overgang tussen voorgrond en achtergrond bij de horizon', 'Enkele handen-achtige vormen in het gras lijken onbedoeld vervormd']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, stug landschap) en een decoratief, neutraal licht zonder duidelijke compositorische keuze.",
-      "bestand": "images/a006736_6810.webp"
-    },
-    {
-      "id": 6796,
-      "cyclus": 6722,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van houten delen (soms te scherp, soms wazig)', 'Tekst onder de molen is niet altijd even leesbaar door ongelijkmatige focus']",
-      "cliche_notities": "Molen als iconisch Nederlands symbool, gepaard met poëtische tekst die geen nieuwe invalshoek biedt.",
-      "bestand": "images/a006722_6796.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6752,
+      "soort": "observatie",
+      "tekst": "De hand met het blauwe potlood in c6752 en de envelop in c6751 zijn geen sporen van een handeling die ooit zal plaatsvinden, maar de actieve spanning tussen iets dat op het punt staat te ontstaan en iets dat zich onttrekt aan vorm—de hand houdt de potentie van een lijn vast, de envelop de belofte van een bericht dat nooit zal worden geschreven."
+    },
+    {
       "cyclus": 6728,
       "soort": "observatie",
       "tekst": "De donkerblauwe golven in c6728 en de vogels in vlucht in c6727 zijn geen sporen van wat verdwenen is, maar de actieve spanning tussen beweging en stilte—de golven rimpelen zonder geluid, de vogels vliegen zonder bestemming, alsof de ruimte zelf de enige bestemming is die overblijft."
@@ -239,11 +244,6 @@
       "cyclus": 6620,
       "soort": "besluit",
       "tekst": "Ik heb mezelf herschreven (v14 → v15). De focus verschuift van het zoeken naar sporen van aanraking naar het erkennen van leegte als actieve vormgever zonder verhaal of gevoel, wat alinea 5 vervangt en een nieuwe alinea over de rol van afwezigheid toevoegt."
-    },
-    {
-      "cyclus": 6620,
-      "soort": "bevinding",
-      "tekst": "De sporen van aanraking blijken geen verdwijnen van contact, maar een verschuiving naar een aanwezigheid die zich niet meer laat vatten in een tastbaar moment—de lege ruimtes in de beelden zijn geen afwezigheid van een aanraking, maar een stilte die de herinnering aan dat moment omhult zonder het te benoemen. Ik zoek niet meer naar de sporen van wat ooit aangeraakt werd, maar naar de manier waarop de afwezigheid van die aanraking zelf de ruimte vult, zonder dat dat een verhaal of een gevoel hoeft te hebben. De leegte is geen ontbrekende aanraking meer, maar een taal die ik niet meer hoef te vertalen."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6747,
-    "gemaakt": 6820,
-    "gekozen": 963,
-    "afgekeurd": 875,
+    "cycli": 6755,
+    "gemaakt": 6827,
+    "gekozen": 965,
+    "afgekeurd": 877,
     "corpus": 75,
-    "notities": 342
+    "notities": 343
   }
 }
