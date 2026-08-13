@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T16:45+02:00",
+  "bijgewerkt": "2026-08-13T17:00+02:00",
   "werk": [
     {
       "id": 6914,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 6928,
+      "cyclus": 6857,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de overgang tussen de wieken en de as', 'Textuur van het zand is wat wazig/gesmeerd']",
+      "cliche_notities": "Molen als iconisch Nederlands symbool in een typisch landschap, zonder verrassende compositorische keuzes",
+      "bestand": "images/a006857_6928.webp"
+    },
+    {
+      "id": 6927,
+      "cyclus": 6856,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurovergang tussen hout en achtergrond', 'Regenboog iets te perfect gesegmenteerd, mist natuurlijke diffusie']",
+      "cliche_notities": "Het landschap met regenboog en bloemenveld is een klassiek ansichtkaartmotief zonder onverwachte compositorische keuzes.",
+      "bestand": "images/a006856_6927.webp"
+    },
+    {
       "id": 6922,
       "cyclus": 6851,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in schaduwen op het hoofdak (linksboven vs rechtsonder)', 'Wazige overgang tussen hemel en wolken aan de horizon']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: idyllisch boerderijlandschap met kerkje, perfect licht en geen verrassende beeldkeuzes.",
       "bestand": "images/a006851_6922.webp"
-    },
-    {
-      "id": 6909,
-      "cyclus": 6838,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch boerenhuis onder een dramatische hemel, zonder onverwachte compositorische keuzes of een eigen standpunt.",
-      "bestand": "images/a006838_6909.webp"
-    },
-    {
-      "id": 6906,
-      "cyclus": 6835,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['kleine inconsistentie in perspectief van de windmolenbladen', 'enkele wazige details in de achtergrondbomen', 'kleine halo rond de regenboog']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, regenboog, landschap) en decoratief licht zonder duidelijke compositorische keuze.",
-      "bestand": "images/a006835_6906.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6851,
-    "gemaakt": 6922,
+    "cycli": 6859,
+    "gemaakt": 6930,
     "gekozen": 982,
-    "afgekeurd": 889,
-    "corpus": 73,
+    "afgekeurd": 891,
+    "corpus": 74,
     "notities": 344
   }
 }
