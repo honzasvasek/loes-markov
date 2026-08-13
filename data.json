@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T04:30+02:00",
+  "bijgewerkt": "2026-08-13T04:45+02:00",
   "werk": [
     {
       "id": 6526,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6528,
+      "cyclus": 6454,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de windmolen (som wat pixelig)', 'Sommige takken van de bomen zijn onnatuurlijk dun en willekeurig geplaatst']",
+      "cliche_notities": "Dit is een typische Nederlandse ansichtkaartcompositie: molens, kale bomen en een dramatische hemel zonder verrassende of persoonlijke keuzes.",
+      "bestand": "images/a006454_6528.webp"
+    },
+    {
       "id": 6523,
       "cyclus": 6449,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in schaduwen onder vogels (sommige ontbreken, andere te donker)', 'Regelmatige herhaling van vogelfiguren suggereert mogelijk generatief patroon']",
       "cliche_notities": "Compositie en onderwerp (vogels in vlucht boven landschap met regenboog) stralen typisch ansichtkaart-esthetiek uit zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a006438_6512.webp"
-    },
-    {
-      "id": 6511,
-      "cyclus": 6437,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van schuur (dak lijkt niet helemaal recht)', 'Enkele rietstengels hebben onnatuurlijke, herhalende vormen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch boerderijmotief met romantisch licht en een passieve, decoratieve uitstraling zonder duidelijke artistieke keuzes.",
-      "bestand": "images/a006437_6511.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6454,
-    "gemaakt": 6527,
+    "cycli": 6462,
+    "gemaakt": 6535,
     "gekozen": 912,
-    "afgekeurd": 835,
-    "corpus": 76,
+    "afgekeurd": 836,
+    "corpus": 77,
     "notities": 335
   }
 }
