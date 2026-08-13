@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T18:30+02:00",
+  "bijgewerkt": "2026-08-13T18:45+02:00",
   "werk": [
+    {
+      "id": 6971,
+      "titel": "Goud dat de donkerte doorbreekt",
+      "beschrijving": "Donkere, getextureerde achtergrond met subtiele horizontale lijnen. Centraal een explosie van gouden vonken die in een waaiervormige beweging naar boven en aan weerskanten vliegen. De vonken variëren in grootte en helderheid, met enkele lange, dunne sporen en kortere, sterachtige flitsen. Rookachtige, witgrijze wolken omhullen de vonken en verspreiden zich naar de bovenste hoeken. Enkele donkere, onregelmatige vlekken zijn zichtbaar in de achtergrond, met name linksboven en rechtsboven. De vonken en rook creëren een dynamisch contrast met de donkere, statische achtergrond.",
+      "cyclus": 6900,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is dynamisch en niet decoratief.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006900_6971.webp"
+    },
     {
       "id": 6967,
       "titel": "Weggeslepen herinneringen in oranje",
@@ -13,6 +26,19 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006896_6967.webp"
+    },
+    {
+      "id": 6964,
+      "titel": "Vuur in het web",
+      "beschrijving": "Een woestijnschap met zandduinen in beige en lichtbruine tinten domineert het beeld, doorsneden door donkere, spinnenwebachtige lijnen die een geometrisch patroon vormen. Rechts brandt een levendige vlam in oranje en gele kleuren, met dynamische, golvende vormen die omhoog schieten. De achtergrond bestaat uit een grijze, bewolkte hemel met zachte overgangen. Verspreid over het zand liggen donkere, ronde stenen en kleine, witte fragmenten. De sfeer is zowel rustig als onrustig door het contrast tussen het stilstaande landschap en de beweging van de vlam.",
+      "cyclus": 6893,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het draadwerk (beneden/boven)', 'Textuur van de achtergrond wat wazig/smeuiig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongewoon en niet-bevestigend.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006893_6964.webp"
     },
     {
       "id": 6962,
@@ -91,35 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006871_6942.webp"
-    },
-    {
-      "id": 6940,
-      "titel": "Schuine latten, zand en keien",
-      "beschrijving": "Donkere houten latten vormen een schuine structuur die de bovenste helft domineert, met zichtbare schroeven en een schuine rand die naar beneden loopt. Daaronder strekt een zandige, lichtbruine vlakte zich uit, doorspekt met donkere keien, kleine stenen en verspreide, sprietachtige planten. Ver weg rijzen vaag omlijnde bergen op tegen een lichte, bewolkte hemel. De compositie combineert de harde, geometrische lijnen van het hout met de organische, onregelmatige vormen van het landschap, waarbij de schuine houten latten een visuele brug slaan tussen beide werelden. Kleuren zijn gedempt, met accenten van grijs, bruin en zwart.",
-      "cyclus": 6869,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van houten constructie', 'Enkele texturen in achtergrond wat wazig']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongewone compositie met focus op verlaten landschap.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006869_6940.webp"
-    },
-    {
-      "id": 6926,
-      "titel": "Rook die de brug opzoekt",
-      "beschrijving": "Een houten loopbrug van planken met zichtbare schroeven leidt naar een openstaande witte deur met twee ruitvormige panelen en een donkere kruk. Links en rechts van de brug groeien sprietige grassen en kleine planten met ronde bladeren. Rechts van de deur stijgt een wazige, rookachtige vorm op in donkere, golvende lijnen, terwijl de achtergrond links donker en textuurloos is. De brug heeft een verweerd uiterlijk met schuine lijnen en donkere vlekken, en de deur werpt een schaduwwiel op de planken.",
-      "cyclus": 6855,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de houten planken (niet-lineaire verdwijnpunt)', 'Wazige overgang tussen rook en achtergrond, wat een smeuiig effect geeft']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, verbeelding opwekkende sfeer in plaats van een typisch iconisch onderwerp.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006855_6926.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6979,
+      "cyclus": 6908,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van bakstenen muur (rechtsboven)', 'Subtiele halo rond zonsondergang']",
+      "cliche_notities": "Beeld past in categorie 'toeristische ansichtkaart' door iconisch onderwerp (traditionele poort met zonsondergang) en decoratief perfect licht zonder duidelijke compositorische keuze.",
+      "bestand": "images/a006908_6979.webp"
+    },
     {
       "id": 6978,
       "cyclus": 6907,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van de regenboog (binnenste bogen scherper dan buitenste)', 'Wazige overgang tussen donkere achtergrond en regenboog aan de horizon']",
       "cliche_notities": "Regenboog boven een rivier is een klassiek iconisch motief zonder duidelijke compositorische of conceptuele draai",
       "bestand": "images/a006892_6963.webp"
-    },
-    {
-      "id": 6960,
-      "cyclus": 6889,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld combineert een iconisch motief (eenzaam huis in woestijn) met een symbolische regenboog, typisch voor een ansichtkaartachtige, decoratieve compositie zonder duidelijke artistieke keuze.",
-      "bestand": "images/a006889_6960.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6908,
-    "gemaakt": 6978,
-    "gekozen": 992,
-    "afgekeurd": 898,
+    "cycli": 6916,
+    "gemaakt": 6986,
+    "gekozen": 994,
+    "afgekeurd": 899,
     "corpus": 72,
     "notities": 345
   }
