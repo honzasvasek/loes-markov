@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T05:00+02:00",
+  "bijgewerkt": "2026-08-13T05:15+02:00",
   "werk": [
+    {
+      "id": 6546,
+      "titel": "Waar blijft de afzender",
+      "beschrijving": "Een witte envelop ligt in het gras, omringd door hoge, groene stengels en watervlekken die nat gras suggereren. Achter de envelop slingeren grijze, gespikkelde slangenlichamen zich door het landschap, met witte kwastjes aan de onderkant die aan franjes doen denken. Een smalle, houten loopbrug verdwijnt in de verte, omgeven door weelderig groen en een lichte hemel met zachte wolken. De slangen en de envelop vormen een onverklaarde combinatie in dit serene, natuurgebonden tafereel.",
+      "cyclus": 6472,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het pad (verdwijnt te scherp)', 'Enkele grassprietjes hebben onnatuurlijke, herhalende vormen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een intieme, persoonlijke compositie met onverklaarde voorwerpen",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006472_6546.webp"
+    },
+    {
+      "id": 6544,
+      "titel": "Blauwe aders in het gras",
+      "beschrijving": "Een kronkelende blauwe waterloop snijdt door een groen landschap, omgeven door hoge, slanke grassen in verschillende groentinten. Witte accenten suggereren reflecties op het water en bloemachtige details in het gras. Zandige, bruine vormen vormen de oevers en een deel van de voorgrond, met zachte overgangen naar het groen. De achtergrond bestaat uit vaagere, groene stralen die diepte suggereren. De compositie is verticaal georiënteerd, met het water als leidende lijn die het oog door het beeld trekt. De sfeer is rustig en natuurlijk, met een focus op de vloeiende vormen en textuurverschillen tussen water, gras en zand.",
+      "cyclus": 6470,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de overgang tussen water en oever', 'Enkele grasstengels lijken onge motiveerd te zweven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte, bijna surrealistische weergave van water en vegetatie zonder duidelijke locatie",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w006470_6544.webp"
+    },
     {
       "id": 6533,
       "titel": "Schuim tussen de rafels",
@@ -91,35 +117,27 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w006429_6503.webp"
-    },
-    {
-      "id": 6502,
-      "titel": "Waar de wortels zuchten",
-      "beschrijving": "Een donkerblauwe, kale boom met uitgestrekte takken domineert het beeld, met wortels die zich uitstrekken over de onderkant. Rechts van de boom staat een glazen fles met een smalle hals, waaruit een lichte, wazige rook of vlam opstijgt en zich verstrengelt met de takken. De achtergrond is eenduidig blauw, met een lichte verloop naar wit aan de randen. De boom en de fles staan scherp tegen deze achtergrond afgetekend, met een bijna etere sfeer door de monochromatische kleurstelling en de zachte overgangen tussen licht en donker.",
-      "cyclus": 6428,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de boomstam (overgang donker/licht)', 'Rook mist plausibele dynamiek (te statisch/vlak)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is ongewoon en suggestief, niet bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006428_6502.webp"
-    },
-    {
-      "id": 6499,
-      "titel": "Takken die de stilte doorsnijden",
-      "beschrijving": "Donkergrijze, textuurrijke vlakken vullen het beeld, met subtiele variaties in tint en structuur. Donkere, slanke takvormen snijden schuin door het compositie, van linksboven naar rechtsonder, en creëren een dynamische lijn die het oog meesleept. De takken zijn scherp getekend tegen de achtergrond, met kleine vertakkingen die de complexiteit verhogen. De achtergrond toont sporen van penseelstreken, zowel horizontaal als verticaal, met af en toe een glimmende, bijna natte uitstraling. Kleine, onregelmatige vormen en sporen van slijtage of krassen zijn verspreid over het oppervlak, wat een gevoel van verloop en diepte toevoegt. De sfeer is rustig maar intrigerend, met een focus op contrast tussen de donkere vormen en de grijze achtergrond.",
-      "cyclus": 6425,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurverdeling (benedenrand iets waziger)', 'Subtiele halos rond donkerste schaduwen takken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en gedempt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006425_6499.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6549,
+      "cyclus": 6475,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de horizonlijn van de zee (te schuin)', 'Sommige grasstrepen aan de onderkant zijn te schematisch/herhalend']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch strandgezicht met perfecte golven en groen, zonder onverwachte of persoonlijke keuzes.",
+      "bestand": "images/a006475_6549.webp"
+    },
+    {
+      "id": 6547,
+      "cyclus": 6473,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de regenboog (overgang kleuren iets wazig)', 'Kleine donkere vlekjes in de wolken (mogelijk generatie-artefact)']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch landschap met regenboog en dennenbomen, zonder onverwachte compositorische keuzes of een uniek standpunt.",
+      "bestand": "images/a006473_6547.webp"
+    },
     {
       "id": 6542,
       "cyclus": 6468,
@@ -128,24 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een regenboog boven een oneindig landschap, zonder onverwachte of persoonlijke compositorische keuzes.",
       "bestand": "images/a006468_6542.webp"
-    },
-    {
-      "id": 6540,
-      "cyclus": 6466,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van bomen links/rechts', 'Enkele vruchten hebben onnatuurlijke vorm/positie']",
-      "cliche_notities": "Regenboog + fruitboomgaard + alleenstaande figuur vormt klassieke ansichtkaartcompositie zonder verrassend standpunt",
-      "bestand": "images/a006466_6540.webp"
-    },
-    {
-      "id": 6536,
-      "cyclus": 6462,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de molenwieken ten opzichte van de molen', 'Enkele grassprietjes in de voorgrond hebben onnatuurlijke, herhalende vormen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en een sentimentele toevoeging (brief, kaars) zonder duidelijke artistieke verbeelding of onverwachte keuzes.",
-      "bestand": "images/a006462_6536.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6471,
-    "gemaakt": 6544,
-    "gekozen": 914,
-    "afgekeurd": 839,
-    "corpus": 76,
+    "cycli": 6479,
+    "gemaakt": 6552,
+    "gekozen": 916,
+    "afgekeurd": 841,
+    "corpus": 77,
     "notities": 335
   }
 }
