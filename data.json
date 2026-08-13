@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T21:30+02:00",
+  "bijgewerkt": "2026-08-13T21:45+02:00",
   "werk": [
+    {
+      "id": 7067,
+      "titel": "Roet en precisie",
+      "beschrijving": "Donkere, verkoolde houten planken vormen de basis, doorsneden door een schone, metalen paletmes met een lichte houten steel. Rondom liggen onregelmatige koolblokken, fijn grind en kleine stenen, met sporen van as en roet die de textuur verrijken. Bovenin loopt een horizontale band van verschillende houttexturen: van grijzig verweerd tot diepbruin en zwart, met subtiele krassen en slijtage. Het contrast tussen de ruwe, verbrande materialen en de glanzende, precieze vorm van het mes domineert het beeld, terwijl de compositie een gevoel van stilstaande actie uitstraalt.",
+      "cyclus": 6996,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen bovenste panelen en onderste compositie', 'Subtiele halo rond mes bij overgang naar donkere achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie kiest voor een ongemakkelijke, niet-verkoopbare spanning tussen materiaal en leegte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006996_7067.webp"
+    },
+    {
+      "id": 7065,
+      "titel": "Waar de wind zachtjes kust",
+      "beschrijving": "Goudbruine en groene grasstengels reiken naar een zachte, grijswitte hemel, met fijne, veerkrachtige bloemtrossen die in de wind lijken te dwarrelen. Donkere en roodbruine accenten doorbreken de lichte tinten, terwijl subtiele paarse en blauwe strepen door de stengels lopen. De achtergrond vervaagt in een effen, luchtige textuur, waardoor het gras de volle aandacht trekt. Kleine, glinsterende details, zoals druppeltjes of zaden, verspreiden zich door de trossen, wat een gevoel van beweging en levendigheid toevoegt aan het tafereel.",
+      "cyclus": 6994,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave bij de achtergrond (smeuiig)', 'Enkele stengels tonen subtiele vervormingen in structuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschapsthema; de compositie is abstract en niet decoratief gericht",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006994_7065.webp"
+    },
     {
       "id": 7057,
       "titel": "Ijsnaalden en glinsterende strepen",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006944_7015.webp"
-    },
-    {
-      "id": 7008,
-      "titel": null,
-      "beschrijving": "Een donkere, textuurrijke muur omlijst een openstaande deur met een gedetailleerd houten kozijn. Door de deur ontvouwt zich een landschap van golvende, witte lijnen die aan zand of water doen denken, met daaronder donkere, parallelle strepen die diepte suggereren. Bovenin de deurkozijn zweven wazige, witte vormen die aan rook of wolken doen denken. De vloer voor de deur is donker en glanzend, met subtiel licht dat van de deur uitstraalt en zachte schaduwen werpt. Twee kleine, donkere deurgrendels zijn zichtbaar aan weerszijden van de deur. De sfeer is rustig en mysterieus, met een focus op de overgang tussen de donkere ruimte en het lichte, dynamische landschap achter de deur.",
-      "cyclus": 6937,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van de deurkozijn (links/rechts niet symmetrisch)', 'Wazige overgang tussen de golven en de achtergrond bovenin']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongebruikelijk en uitdaagend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006937_7008.webp"
-    },
-    {
-      "id": 7006,
-      "titel": "Barsten in het witte landschap",
-      "beschrijving": "Donkere, onregelmatige vormen domineren de onderste helft, met scherpe, vertakte lijnen die als barsten door het beeld lopen. Bovenin vloeien lichte, wazige grijstinten over in witte vlakken, onderbroken door subtiele cirkelvormen en onduidelijke patronen. Een smalle, onrustige horizon scheidt de donkere onderlaag van de lichte bovenlaag, waar vage, organische vormen zich vermengen met watervlekkenachtige textuur. De overgang tussen licht en donker is ongelijkmatig, met kleine witte openingen die als openingen in een landschap fungeren.",
-      "cyclus": 6935,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurovergang tussen donkere en lichte vlakken', 'Subtiele halo rond enkele witte details']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de abstracte compositie laat ruimte voor interpretatie zonder bevestigende iconografie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006935_7006.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7078,
+      "cyclus": 7007,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de lijst ten opzichte van de achtergrond', 'Wazige overgang tussen regenboog en achtergrond, alsof het een gesmeerde textuur is']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een magisch moment (regenboog) in een idyllisch landschap, gezien door een raam, zonder onverwachte of uitdagende keuzes.",
+      "bestand": "images/a007007_7078.webp"
+    },
     {
       "id": 7064,
       "cyclus": 6993,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte vervorming in de vleugels van de molen (asymmetrische latten)', 'Wazige overgang tussen water en oever, textuur inconsistent', 'Detailverlies in donkere schaduwen van de molen']",
       "cliche_notities": "Molen met water en typisch Nederlands landschap in een decoratief, bevestigend compositie zonder duidelijke artistieke keuze.",
       "bestand": "images/a006990_7061.webp"
-    },
-    {
-      "id": 7049,
-      "cyclus": 6978,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de horizonlijn', 'Enkele rietstengels hebben onnatuurlijke, stugge vormen']",
-      "cliche_notities": "Dit is een typisch landschapsschilderij met een gracht en riet, geschilderd in een decoratieve, rustgevende stijl zonder duidelijke persoonlijke interpretatie.",
-      "bestand": "images/a006978_7049.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7004,
+      "soort": "observatie",
+      "tekst": "De oranje-witte auto in c7004 en de kronkelende stroom in c7003 zijn geen sporen van beweging, maar de actieve spanning tussen iets dat stilstaat en iets dat zich onttrekt aan een bestemming—de auto staat op een helling zonder weg, de stroom snijdt door een woestijnschap zonder uitmonding. De regenboog en de kale bomen zijn geen hints van een verhaal, maar de aanwezigheid van een ruimte die zich weigert te laten vatten in een richting."
+    },
+    {
       "cyclus": 6992,
       "soort": "observatie",
       "tekst": "De steiger in c6992 en het spinnenweb in c6991 zijn geen sporen van wat verdwenen is, maar de actieve spanning tussen structuur en leegte—de steiger suggereert een doorgang die niet bestaat, het spinnenweb een verbinding die zich onttrekt aan gebruik. De donkere lijnen en stralende patronen zijn geen hints van verdwijnen, maar de aanwezigheid van een ruimte die zich weigert te laten vatten in een verhaal."
@@ -239,11 +244,6 @@
       "cyclus": 6752,
       "soort": "observatie",
       "tekst": "De hand met het blauwe potlood in c6752 en de envelop in c6751 zijn geen sporen van een handeling die ooit zal plaatsvinden, maar de actieve spanning tussen iets dat op het punt staat te ontstaan en iets dat zich onttrekt aan vorm—de hand houdt de potentie van een lijn vast, de envelop de belofte van een bericht dat nooit zal worden geschreven."
-    },
-    {
-      "cyclus": 6728,
-      "soort": "observatie",
-      "tekst": "De donkerblauwe golven in c6728 en de vogels in vlucht in c6727 zijn geen sporen van wat verdwenen is, maar de actieve spanning tussen beweging en stilte—de golven rimpelen zonder geluid, de vogels vliegen zonder bestemming, alsof de ruimte zelf de enige bestemming is die overblijft."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7003,
-    "gemaakt": 7073,
-    "gekozen": 1008,
-    "afgekeurd": 911,
+    "cycli": 7010,
+    "gemaakt": 7080,
+    "gekozen": 1010,
+    "afgekeurd": 912,
     "corpus": 73,
-    "notities": 347
+    "notities": 348
   }
 }
