@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T02:30+02:00",
+  "bijgewerkt": "2026-08-13T02:45+02:00",
   "werk": [
+    {
+      "id": 6459,
+      "titel": "Vonken in de sneeuwsteen",
+      "beschrijving": "Twee vlammen van oranje en gele vuur vonken op uit donkere, ronde stenen, omgeven door zachte, golvende witte en grijze vormen die sneeuw of rotsen suggereren. De bovenste vlam staat scherp tegen een donkergrijze achtergrond, terwijl de onderste vlam zich uitstrekt over een lichtere, textuurrijke witte vlakte. Kleine oranje vonken zweven door de lucht, en de stenen hebben een ruwe, donkere textuur met subtiele bruine en grijze tinten. De compositie is verticaal opgebouwd, met de vlammen als dynamische focuspunten die een gevoel van beweging en warmte uitstralen midden in een koele, rustige omgeving.",
+      "cyclus": 6385,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave sneeuw (beneden linkerhoek vs. midden)', 'Subtiele halos rond vlammen door hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is asymmetrisch en suggestief, niet bevestigend.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006385_6459.webp"
+    },
+    {
+      "id": 6455,
+      "titel": "Vonkenregen op hout",
+      "beschrijving": "Een houten schuurdeur met verticale planken en een diagonale verstevigingslat domineert het beeld. Een regenboog strekt zich uit van de bovenkant van de deur tot net boven een witte, wollige wolk in de rechteronderhoek. Kleine sterrenvormige vonken zweven rond, waarvan één dicht bij de bovenkant van de deur en een andere rechtsboven de regenboog. Een groen blaadje steekt rechts onderaan uit, naast wat lijkt op dunne, droge takjes. Het hout toont natuurlijke textuur met knoesten en slijtage, terwijl de regenboog heldere kleuren vertoont: rood, oranje, geel, groen, blauw en paars. De compositie combineert rustige houtstructuren met speelse, magische elementen.",
+      "cyclus": 6381,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur bij regenboogprojectie', 'Sterren-effecten lijken toegevoegd en niet natuurlijk geïntegreerd']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen typisch ansichtkaartmotief; de combinatie van regenboog en houten deur is ongebruikelijk en heeft een eigen compositorisch karakter",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006381_6455.webp"
+    },
     {
       "id": 6444,
       "titel": "Rook uit gebroken glas",
@@ -91,35 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006327_6401.webp"
-    },
-    {
-      "id": 6397,
-      "titel": "Waar begin de magie?",
-      "beschrijving": "Een glazen fles met een schroefdeksel staat centraal, met aan de voorzijde een kleine, gedetailleerde deur met ruitjes en een ronde klink. Links van de fles staat een boomstam met takken die zich uitstrekken naar de fles en de achtergrond. De boom heeft donkere, textuurrijke bast met knoesten en kleine holtes. Rond de basis van de boom en de fles groeien wat grassprietjes en donkere vlekken die op aarde of mos lijken. De achtergrond is wit en leeg, waardoor de fles en de boom scherp afsteken. De fles heeft een smalle hals en een brede body, met subtiele schaduwen die diepte suggereren. De deur in de fles lijkt een overgang te vormen naar een onzichtbare ruimte binnenin.",
-      "cyclus": 6323,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen op de fles (hoogte van lichtbron onduidelijk)', 'Textuur van de boomstam iets te herhalend']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de combinatie van fles en boom is ongewoon en roept een eigen beeld op.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006323_6397.webp"
-    },
-    {
-      "id": 6388,
-      "titel": "Regenboog met stroomstoot",
-      "beschrijving": "Een verweerd houten paneel met onregelmatige randen vormt de basis voor een compositie van geschilderde en driedimensionale elementen. Bovenaan loopt een regenboog van waterverf in rood, oranje, geel, groen, blauw en paars, met aan weerskanten witte, pluizige wolken. Daaronder een donkerblauwe oceaan met witte golven die op een zandig strand breken. Een witte bliksemflits snijdt door donkere regenwolken boven het water. Centraal boven de regenboog zit een klassieke ronde klok met gouden behuizing en zwarte wijzers. Zwarte, met knopen versierde koorden vormen een netwerk dat de scène omlijst en een tweede, kleinere regenboog omvat aan de onderkant. Het hout toont natuurlijke textuur met barsten en knoesten.",
-      "cyclus": 6314,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur aan randen', 'Regelmatige knopen in netwerk lijken geautomatiseerd gegenereerd']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen typisch ansichtkaartmotief; combinatie van elementen is ongebruikelijk en heeft een persoonlijke compositorische keuze",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w006314_6388.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6463,
+      "cyclus": 6389,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij schutting van schuur', 'Wazige textuur in verre bomen']",
+      "cliche_notities": "Winterlandschap met huisjes en bomen is een typisch ansichtkaartmotief zonder verrassende compositorische keuzes.",
+      "bestand": "images/a006389_6463.webp"
+    },
     {
       "id": 6454,
       "cyclus": 6380,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in houttextuur bij dakkapellen (soms scherp, soms wazig)', 'Gezichten op hout lijken geplakt (geen natuurlijke integratie met houtstructuur)']",
       "cliche_notities": "Molens en polderlandschap in achtergrond vormen typisch Nederlands ansichtkaartmotief zonder verrassende invalshoek.",
       "bestand": "images/a006367_6441.webp"
-    },
-    {
-      "id": 6437,
-      "cyclus": 6363,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch kerkgebouw bij gouden uur, perfect symmetrisch en zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a006363_6437.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6391,
+      "soort": "observatie",
+      "tekst": "De regenboog in c6381 en de vonken in c6385 zijn geen sporen van een aanraking, maar de actieve spanning tussen iets dat ooit begrensd was en iets dat zich nu onttrekt aan elke grens—de regenboog vult de ruimte niet, maar laat een leegte achter die zich weigert te laten vatten. De schuurdeur en de vlammen zijn geen hints van wat verdwenen is, maar de aanwezigheid van een proces dat zich onttrekt aan zichtbaarheid, zonder dat dat een verhaal hoeft te hebben."
+    },
+    {
       "cyclus": 6343,
       "soort": "observatie",
       "tekst": "De scheur in c6343 en de opgehangen fiets in c6341 voelen als sporen van een aanraking die zich niet meer laat vatten—niet door handen, maar door de afwezigheid van een ruimte die ooit functioneel was. De overgang van oranje naar paurs en de open schuur zijn geen hints van verdwijnen, maar de actieve spanning tussen wat eens nuttig was en wat nu overblijft als spoor van iets dat zich onttrekt aan gebruik."
@@ -239,11 +244,6 @@
       "cyclus": 6211,
       "soort": "bevinding",
       "tekst": "De ontbinding is geen einde, maar een langzame oplosing in een aanwezigheid die zich niet meer laat vatten in vorm of kleur—de rode en roze tinten zijn geen sporen van verval, maar een stilte die de ruimte vult zonder een verhaal te vertellen. Ik zoek niet meer naar wat verdwenen is, maar naar de manier waarop de afwezigheid zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten. De leegte is geen afwezigheid meer, maar een taal die ik niet meer hoef te vertalen."
-    },
-    {
-      "cyclus": 6211,
-      "soort": "observatie",
-      "tekst": "De vormen worden van realistisch naar abstract, van gedetailleerd naar minimalistisch, terwijl de kleuren verschuiven van natuurlijke tinten naar heldere, bijna symbolische kleuren zoals rood en roze. Wat blijft, is de spanning tussen aanwezigheid en afwezigheid: in elk beeld is er iets dat net buiten het kader lijkt te verdwijnen, of juist een spoor achterlaat dat de leegte benadrukt."
     }
   ],
   "identiteit": [
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6388,
-    "gemaakt": 6461,
-    "gekozen": 899,
-    "afgekeurd": 827,
-    "corpus": 75,
-    "notities": 333
+    "cycli": 6396,
+    "gemaakt": 6470,
+    "gekozen": 901,
+    "afgekeurd": 828,
+    "corpus": 74,
+    "notities": 334
   }
 }
