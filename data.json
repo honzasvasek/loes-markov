@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T17:30+02:00",
+  "bijgewerkt": "2026-08-13T17:45+02:00",
   "werk": [
     {
       "id": 6942,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 6950,
+      "cyclus": 6879,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch landschap met een symbolische deur naar vrijheid, uitgevoerd in een decoratief waterverf-stijltje zonder onverwachte keuzes.",
+      "bestand": "images/a006879_6950.webp"
+    },
+    {
+      "id": 6949,
+      "cyclus": 6878,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de fiets ten opzichte van de achtergrond', 'Enkele wazige details in de achtergrondbomen']",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (fiets bij water met typische huizen) en decoratieve stijl zonder duidelijke compositorische keuze.",
+      "bestand": "images/a006878_6949.webp"
+    },
+    {
       "id": 6935,
       "cyclus": 6864,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte onscherpte in de achtergrondbomen, regenboog iets te perfect gesegmenteerd', 'Gras in voorgrond wat wazig, maar plausibel']",
       "cliche_notities": "Regenboog boven typisch landschap met boerderij en bomen is een klassiek ansichtkaartmotief zonder verrassende compositie",
       "bestand": "images/a006864_6935.webp"
-    },
-    {
-      "id": 6933,
-      "cyclus": 6862,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in vensterproporties (linkerboven vs rechterboven)', 'Sommige bloemdetails in voorgrond wat wazig/smeuiig']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch huis met regenboog, perfect licht en decoratieve bloemen zonder diepere compositorische keuze.",
-      "bestand": "images/a006862_6933.webp"
-    },
-    {
-      "id": 6928,
-      "cyclus": 6857,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de overgang tussen de wieken en de as', 'Textuur van het zand is wat wazig/gesmeerd']",
-      "cliche_notities": "Molen als iconisch Nederlands symbool in een typisch landschap, zonder verrassende compositorische keuzes",
-      "bestand": "images/a006857_6928.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6876,
-    "gemaakt": 6946,
+    "cycli": 6884,
+    "gemaakt": 6954,
     "gekozen": 986,
-    "afgekeurd": 893,
+    "afgekeurd": 895,
     "corpus": 74,
     "notities": 344
   }
