@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T14:45+02:00",
+  "bijgewerkt": "2026-08-13T15:00+02:00",
   "werk": [
+    {
+      "id": 6857,
+      "titel": "Hout dat zucht onder het zand",
+      "beschrijving": "Een verweerd houten schuur met een zadeldak staat centraal, omringd door een zandig landschap met verspreide rotsen en stekelige planten. Een smalle, kronkelende houten loopbrug leidt naar de schuur, met zichtbare houtvezels en slijtagepatronen. De achtergrond toont een bewolkte hemel met zachte, golvende wolken en een horizonlijn die overgaat in een donkere boomgaard. De schuur heeft een klein raam met een kruisvormig kozijn en twee grote, schuivende deuren met diagonale versterkingen. De textuur van het zand is fijn en onregelmatig, met sporen van wind en water. De sfeer is rustig en verlaten, met een gevoel van verlatenheid en verloop van tijd.",
+      "cyclus": 6785,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave van het zand (overmatig herhaalpatroon)', 'Subtiele vervorming in de horizonlijn (lichte boog in plaats van rechte lijn)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel het landschap typisch Nederlands is, ontbreekt de decoratieve perfectie en ontbreekt een iconisch element zoals een molen of gracht.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w006785_6857.webp"
+    },
+    {
+      "id": 6854,
+      "titel": "Rood bloed in de takken",
+      "beschrijving": "Een rij kale bomen met donkerrode stammen en takken vult het beeld, verspreid over een zachtgolvend landschap in beige en lichtbruine tinten. Rode bessen prikken als kleine stippen in de takken, terwijl een vaag rood pad diagonaal door het midden loopt. Droog gras en subtiele textuurvariaties in de grond geven een gevoel van verlatenheid. De achtergrond vervaagt in een lichte, nearly witte horizon, waardoor de bomen scherp afsteken. Geen beweging, geen geluid — alleen de stilte van een winterse dag vastgelegd in waterverfachtige strepen en vlekken.",
+      "cyclus": 6782,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van bomen in achtergrond', 'Enkele takken lijken onnatuurlijk te herhalen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een gestileerde, abstracte weergave met persoonlijke compositorische keuzes",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006782_6854.webp"
+    },
     {
       "id": 6846,
       "titel": "Waar blijft de sleutel?",
@@ -91,32 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006738_6812.webp"
-    },
-    {
-      "id": 6811,
-      "titel": "Wie vormt wie nu?",
-      "beschrijving": "Twee kleine, van klei gebeeldschapte figuren liggen op een zandig oppervlak, omgeven door blauwe en witte, vloeistofachtige patronen die aan water denken laten. Het bovenste figuur wordt door een wit, netachtig patroon omhuld, terwijl het onderste figuur door golvende, roomkleurige strepen begeleid wordt. Een hand met een paletmes voegdt zand toe aan een geel, roomachtig element dat tussen de figuren ligt. De figuren hebben donker haar, roze wangen en kleine, uitdrukkingloze ogen. Het zand is fijn en ongelijkmatig verdeeld, met sporen van beweging. De achtergrond bestaat uit een effen, lichtbruin oppervlak.",
-      "cyclus": 6737,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van zand bij bovenste figuur vs. onderste figuur', 'Hand van de kunstenaar mist vingerspitsen en lijkt iets afgezaagd']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie en symboliek zijn ongebruikelijk en uitdagerend",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006737_6811.webp"
-    },
-    {
-      "id": 6806,
-      "titel": "Scheurtje in de realiteit",
-      "beschrijving": "Drie witte enveloppen liggen gestapeld op een donkere achtergrond, met een oranje bovenrand die een scheurtje onthult. Uit de middelste envelop stroomt een regenboogkleurige, doorzichtige structuur met een netwerkpatroon, omgeven door donkerbruine korrels die lijken op aarde of poeder. Witte, wazige vormen die aan wolken denken, omringen de compositie aan weerskanten en onderaan. De enveloppen hebben een gladde textuur, terwijl de regenboogstructuur een glanzende, bijna glazen uitstraling heeft. De contrasten tussen de heldere kleuren en de donkere achtergrond creëren een dynamische, bijna dromerige sfeer.",
-      "cyclus": 6732,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en heeft een eigen standpunt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006732_6806.webp"
     }
   ],
   "afgekeurd": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6787,
-    "gemaakt": 6859,
-    "gekozen": 970,
+    "cycli": 6795,
+    "gemaakt": 6866,
+    "gekozen": 972,
     "afgekeurd": 882,
-    "corpus": 75,
+    "corpus": 74,
     "notities": 344
   }
 }
