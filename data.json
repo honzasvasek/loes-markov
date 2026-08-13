@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T06:15+02:00",
+  "bijgewerkt": "2026-08-13T06:30+02:00",
   "werk": [
+    {
+      "id": 6586,
+      "titel": "Regenboog in glas",
+      "beschrijving": "Een glazen fles staat centraal op een donkergrijze, getekende ondergrond met kleine zwarte stippen. Achter de fles loopt een regenboog met heldere kleuren: rood, oranje, geel, groen, blauw en paars. Boven de regenboog bevindt zich een witte, wolkachtige vorm met zachte, onregelmatige randen, omgeven door grijze schaduwen. Rechtsboven liggen twee potloden schuin, waarvan één een zwarte huls heeft en de andere een houten punt. De achtergrond bestaat uit subtiel getekende verticale lijnen in verschillende grijstinten, wat een gevoel van diepte geeft. De fles heeft een smalle hals en een ronde bodem, met reflecties van licht die de glazen textuur benadrukken.",
+      "cyclus": 6512,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het flesje ten opzichte van de regenboog', 'Textuur van de potloodstrepen in de achtergrond is wat ongelijkmatig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een iconisch motief (regenboog) met een ongewone compositie (flesje als raamwerk) en toont een bewuste keuze voor monochromatie met een kleuraccent, wat boven een simpele ansichtkaart uitgaat.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006512_6586.webp"
+    },
+    {
+      "id": 6583,
+      "titel": "IJs dat zwijgt over de fiets",
+      "beschrijving": "Een glazen fles met een smalle hals staat centraal in een doorzichtig glas, omringd door ijsblokjes met schitterende reflecties. Het ijs heeft onregelmatige vormen en ligt zowel in als buiten het glas, waarbij sommige blokjes een glinsterend effect hebben. Achter de fles zweven witte, wazige wolken tegen een lichtblauwe achtergrond, terwijl rechtsboven een donkerblauwe fiets met dunne spaken en een eenvoudig frame zichtbaar is. De fles heeft een lichtgebruine tint bij de basis en een glanzende, doorschijnende textuur met subtiele patronen. Rond het glas bevindt zich een donkerblauwe vlek die lijkt op een natte vloer, met kleine glinsterende punten die waterdruppels suggereren. De algehele sfeer is koel en fris, met een mix van realistische en dromerige elementen.",
+      "cyclus": 6509,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de fiets op de achtergrond', 'Enkele ijsblokjes hebben onrealistische, bijna zwevende posities ten opzichte van de zwaartekracht']",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel de achtergrond een typisch Nederlands motief heeft (fiets), is de compositie en thematiek (ijs, fles, brokstukken) niet iconisch of bevestigend, maar juist verbeeldend en open van karakter.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006509_6583.webp"
+    },
     {
       "id": 6571,
       "titel": "Vonkenregen op het gras",
@@ -91,35 +117,18 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w006470_6544.webp"
-    },
-    {
-      "id": 6533,
-      "titel": "Schuim tussen de rafels",
-      "beschrijving": "Houten planken liggen verspreid op een groen grasveld, gedeeltelijk bedekt met wit schuim dat bubbels en holtes vormt. Een metalen scharnier verbindt twee planken, terwijl een andere plank schuin tegen de andere aan rust. Het schuim slipt tussen de houten structuren door en omhult delen van het gras, dat door de bubbels heen zichtbaar blijft. De planken tonen sporen van slijtage, met rafelige randen en donkere vlekken. Het schuim heeft een zachte, wazige textuur, in contrast met de scherpe, lineaire vormen van het hout en het gras.",
-      "cyclus": 6459,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur bij scharnier', 'Sommige bubbels hebben onnatuurlijke, herhalende patronen', 'Schaduw onder houten latten ontbreekt consistentie']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is ongewoon en niet typisch ansichtkaartmateriaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006459_6533.webp"
-    },
-    {
-      "id": 6526,
-      "titel": "Roze tegen groen met sterren",
-      "beschrijving": "Een roze bank staat schuin in een kamer met houten vloer, naast een getextureerd muurschildering van weelderig groen met monstera-achtige bladeren en sterretjes die als zonnestralen stralen. Links staat een terracotta pot met een spicchtige plant, rechts een hoge plant met lanternevormige bladeren. De achtergrond toont een blauwe lucht met zachte, witte wolken en subtiel golvend licht dat door het groen valt. De vloer reflecteert zacht de bank en planten, terwijl de muur een overgang vormt tussen binnen- en buitenruimte.",
-      "cyclus": 6452,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de wolken (smeuiig vs. gedetailleerd)', 'Subtiele halo rond de zonnestralen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigenzinnige, rustige sfeer zonder typische ansichtkaart-elementen.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w006452_6526.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6587,
+      "cyclus": 6513,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de verre steunpilaren', 'Subtiele halo rond de rand van het water']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een eenduidig, iconisch onderwerp (steiger in water) met decoratief licht en geen duidelijke compositorische keuze beyond symmetrie.",
+      "bestand": "images/a006513_6587.webp"
+    },
     {
       "id": 6584,
       "cyclus": 6510,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in grasstructuren (sommige prikkels lijken willekeurig geplaatst)', 'Subtiele halo rond de zon door hoog contrast']",
       "cliche_notities": "Het motief (zonsondergang boven grasland met rots) is een klassiek landschapsunderwerp zonder verrassende compositorische keuzes of een uniek standpunt.",
       "bestand": "images/a006486_6560.webp"
-    },
-    {
-      "id": 6549,
-      "cyclus": 6475,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de horizonlijn van de zee (te schuin)', 'Sommige grasstrepen aan de onderkant zijn te schematisch/herhalend']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch strandgezicht met perfecte golven en groen, zonder onverwachte of persoonlijke keuzes.",
-      "bestand": "images/a006475_6549.webp"
     }
   ],
   "onderzoek": {
@@ -309,10 +309,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6512,
-    "gemaakt": 6585,
-    "gekozen": 921,
-    "afgekeurd": 843,
+    "cycli": 6520,
+    "gemaakt": 6593,
+    "gekozen": 923,
+    "afgekeurd": 844,
     "corpus": 78,
     "notities": 335
   }
