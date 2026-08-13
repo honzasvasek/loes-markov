@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-13T08:00+02:00",
+  "bijgewerkt": "2026-08-13T08:15+02:00",
   "werk": [
+    {
+      "id": 6646,
+      "titel": "Zand onder de deur",
+      "beschrijving": "Een halfopen deur onthult een zanderig landschap met subtiele golven en stenen, omgeven door een muur in warme bruine en grijze tinten. Een donkere, bladloze boom met uitgestrekte takken domineert de linkerhoek, terwijl kleine groene grassprietjes langs de grond groeien. Natte plekken op de grond weerspiegelen het licht, met zachte overgangen tussen beige, bruin en grijs. De deur heeft een donkere klink en scharnieren, en de randen van het beeld vervaagen in lichte, waterverfachtige textuur.",
+      "cyclus": 6572,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de boomstam (overgang donker/licht)', 'Subtiele halo rond de deurlijst bij hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongewoon en niet-bevestigend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006572_6646.webp"
+    },
+    {
+      "id": 6643,
+      "titel": "Rode lijn door de gang",
+      "beschrijving": "Een smalle, bruine gang met rechte muren en een vloer die overgaat in een golvend patroon van lichte, witte en roze tinten. Een scherpe, rode verticale lijn loopt dwars door het midden van de gang, van voor naar achter, en snijdt het golvende vloerpatroon door midden. Aan het eind van de gang bevindt zich een gesloten deur, eveneens bruin, met een subtiele lichtinslag rond de randen. De muren zijn egaal en zonder versieringen, terwijl de vloer een textuur heeft die doet denken aan verf die in beweging is vastgevroren. Het licht komt van bovenaf en werpt zachte schaduwen, waardoor de diepte van de gang benadrukt wordt.",
+      "cyclus": 6569,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de verre muur', 'Wazige overgang tussen vloer en muren in de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is abstract en open van karakter.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006569_6643.webp"
+    },
+    {
+      "id": 6639,
+      "titel": "Getekend door tijd en glas",
+      "beschrijving": "Een glazen fles met een smalle hals en brede romp staat centraal op een verweerd houten oppervlak. Het glas is helder maar getekend door krassen, stof en lichte vervormingen, met sporen van slijtage bij de basis. Achter de fles zijn vaag twee vergelijkbare glazen vormen zichtbaar, onscherp en gedeeltelijk buiten het beeld. Het licht valt schuin van bovenaf, waardoor reflecties en subtiele schaduwvlakken over het glas lopen. De fles is leeg en heeft een groenige tint aan de randen van de bodem en hals.",
+      "cyclus": 6565,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op subtiele textuur en afwezigheid van actie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006565_6639.webp"
+    },
     {
       "id": 6631,
       "titel": "Roze wol in groene lijnen",
@@ -78,48 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006525_6599.webp"
-    },
-    {
-      "id": 6595,
-      "titel": "Richting de ribbenkast",
-      "beschrijving": "Een gescheurd stuk papier vormt een driehoekig gat, waardoor een kamer zichtbaar wordt met witte muren en een houten vloer. Centraal hangt een ribbenkast van bruine, takachtige vormen aan het plafond, met donkere en blauwe accenten. Aan weerskanten bevinden zich rechthoekige ramen met houten kozijnen, waarvan het rechter raam een donkere reflectie toont. Tegen de achterwand staat een eenvoudig houten bankje. Het papier aan de randen is onregelmatig en scheef, met een gele vlek bij de bovenkant. Het licht valt schuin de kamer in, waardoor schaduwen over de vloer en muren vallen.",
-      "cyclus": 6521,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de ramen aan weerskanten', 'Textuur van het karton dak iets te scherp/gedefinieerd voor natuurlijk scheurgedrag']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie en thematiek vragen om nadere interpretatie en zijn niet typerend voor een ansichtkaart.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006521_6595.webp"
-    },
-    {
-      "id": 6592,
-      "titel": "Gras dat door het glas groeit",
-      "beschrijving": "Een witte deur staat rechtop in een groen veld met gras en droge stengels. Door het glas van de deur is een getekende klok te zien, met een donkere klopper en een witte koord dat naar beneden loopt. Onder het glas groeien donkergroene grassprietjes. Achter de deur strekt een regenboog zich uit tegen een grijze hemel, met kleuren die overgaan in roze, oranje, geel, groen en paars. De deur heeft een metalen kruk en scharnieren, en staat schuin ten opzichte van de horizon. Het gras rondom is ongelijkmatig, met zowel groene als bruine tinten.",
-      "cyclus": 6518,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het glas (te scherp/getekend vs. realistisch)', 'Regenboog iets te perfect symmetrisch en helder voor natuurlijke situatie']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen typisch iconisch onderwerp en de compositie (deur in landschap met surrealistisch element) vraagt om nadere interpretatie",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006518_6592.webp"
-    },
-    {
-      "id": 6586,
-      "titel": "Regenboog in glas",
-      "beschrijving": "Een glazen fles staat centraal op een donkergrijze, getekende ondergrond met kleine zwarte stippen. Achter de fles loopt een regenboog met heldere kleuren: rood, oranje, geel, groen, blauw en paars. Boven de regenboog bevindt zich een witte, wolkachtige vorm met zachte, onregelmatige randen, omgeven door grijze schaduwen. Rechtsboven liggen twee potloden schuin, waarvan één een zwarte huls heeft en de andere een houten punt. De achtergrond bestaat uit subtiel getekende verticale lijnen in verschillende grijstinten, wat een gevoel van diepte geeft. De fles heeft een smalle hals en een ronde bodem, met reflecties van licht die de glazen textuur benadrukken.",
-      "cyclus": 6512,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het flesje ten opzichte van de regenboog', 'Textuur van de potloodstrepen in de achtergrond is wat ongelijkmatig']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een iconisch motief (regenboog) met een ongewone compositie (flesje als raamwerk) en toont een bewuste keuze voor monochromatie met een kleuraccent, wat boven een simpele ansichtkaart uitgaat.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006512_6586.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6651,
+      "cyclus": 6577,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van houten planken (soms te scherp, soms wazig)', 'Enkele planken lijken niet lineair uitgelijnd met de horizon']",
+      "cliche_notities": "Molen met pier en water is een klassiek Nederlands ansichtkaartmotief zonder duidelijke persoonlijke interpretatie of onverwachte compositorische keuzes.",
+      "bestand": "images/a006577_6651.webp"
+    },
     {
       "id": 6644,
       "cyclus": 6570,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van boomstam (somewhere overgang hout/zwart)', 'Rand van regenboog iets ongelijkmatig']",
       "cliche_notities": "Regenboog + boom is een klassiek symbolisch paar zonder verrassende compositorische keuze",
       "bestand": "images/a006566_6640.webp"
-    },
-    {
-      "id": 6636,
-      "cyclus": 6562,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Molen in landschap met decoratief licht en typisch Nederlands thema zonder duidelijke compositorische keuze.",
-      "bestand": "images/a006562_6636.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6571,
-    "gemaakt": 6645,
-    "gekozen": 932,
-    "afgekeurd": 854,
-    "corpus": 78,
+    "cycli": 6580,
+    "gemaakt": 6653,
+    "gekozen": 935,
+    "afgekeurd": 855,
+    "corpus": 77,
     "notities": 335
   }
 }
