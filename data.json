@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T15:00+02:00",
+  "bijgewerkt": "2026-08-13T15:15+02:00",
   "werk": [
+    {
+      "id": 6863,
+      "titel": "Hout en horizon in spiegelwachting",
+      "beschrijving": "Twee identieke landschappen, gescheiden door een smalle, mistige horizon, tonen een laan van bladloze bomen die zich uitstrekken naar een heldere, stralende zon in de verte. Het grondoppervlak is bedekt met onregelmatige, donkere houten blokken en stenen, doorspekt met spitse, grasachtige planten die in patronen lijken te groeien. De bomen vormen een symmetrische, bijna spiegelbeeldige compositie, met hun takken die zich uitstrekken als donkere silhouetten tegen de lichte hemel. De sfeer is stil en verlaten, met een scherp contrast tussen de donkere voorgrond en de lichte, open achtergrond.",
+      "cyclus": 6791,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in boomstructuren (sommige takken te symmetrisch/herhaald)', 'Subtiele halo rond zonsondergang', 'Detailverlies in donkere grondtexturen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een onpersoonlijk, bijna onwerkbare compositie met afval en dood hout, wat een ongemakkelijke, niet-decoratieve sfeer oproept.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006791_6863.webp"
+    },
+    {
+      "id": 6861,
+      "titel": "Blauw dat overgaat in stilte",
+      "beschrijving": "Een uitgestrekte hemel domineert het beeld, met diepblauwe tonen die overgaan in lichtere blauwe en witte wolkenvormingen. De wolken zijn volumineus en hebben een zachte, wazige structuur, met schaduwen die diepte suggereren. Onderaan het beeld zijn donkere silhouetten van boomtoppen zichtbaar, met fijne takken en naalden die zich aftekenen tegen de hemel. De compositie is verticaal opgebouwd, waarbij de hemel de meeste ruimte inneemt en de bomen een smalle strook aan de onderkant vormen. De sfeer is rustig en open, met een gevoel van ruimte en stilte.",
+      "cyclus": 6789,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte halo rond witte tekst tegen donkere achtergrond', 'Textuur van wolken wat plat/wazig in onderste derde']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is asymmetrisch en tekst voegt conceptuele laag toe.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006789_6861.webp"
+    },
     {
       "id": 6857,
       "titel": "Hout dat zucht onder het zand",
@@ -91,35 +117,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006752_6825.webp"
-    },
-    {
-      "id": 6813,
-      "titel": "Kool en poeder op hout",
-      "beschrijving": "Donkere, onregelmatige koolblokjes liggen verspreid naast een smalle, lichte strook poeder. Een donkere, getextureerde houten plank loopt diagonaal door het beeld, met zichtbare vezels en kleine witte vlekjes. De kool heeft een glanzende, korrelige structuur, terwijl het poeder zacht en fijn lijkt. Rechtsboven is een smalle, heldere strook zichtbaar, mogelijk een opening of reflectie. De compositie straalt een rustige, bijna industriële sfeer uit, met een scherpe focus op de contrasten tussen donker en licht, ruw en glad.",
-      "cyclus": 6739,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave bij de koolstukken (sommige delen overmatig scherp, andere wazig)', 'Subtiele haloring rond de lichtinval in de rechterbovenhoek']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is gericht op textuur en contrast zonder bevestigende iconografie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006739_6813.webp"
-    },
-    {
-      "id": 6812,
-      "titel": "Stralen die bijten",
-      "beschrijving": "Een donkere, schuine schaduw domineert het beeld, met scherpe, stralende uitsteeksels die aan een zonnestraal of doornenkrans doen denken. Onderaan loopt een lichtere, verticale strook met zachte, golvende patronen, alsof licht door een smalle spleet valt. De achtergrond is een egaal, lichtgrijze muur met een subtiel korrelig reliëf. De compositie is minimalistisch, met een sterke contrast tussen licht en donker, en een gevoel van beweging door de dynamische vormen van de schaduw.",
-      "cyclus": 6738,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006738_6812.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6872,
+      "cyclus": 6801,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met kerk, water en groen in een perfecte balans, zonder verrassende of persoonlijke keuzes.",
+      "bestand": "images/a006801_6872.webp"
+    },
+    {
+      "id": 6870,
+      "cyclus": 6799,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van huizen en molens', 'Wazige textuur in gras aan horizon']",
+      "cliche_notities": "Molens en typische Nederlandse landschapselementen in een decoratief, ansichtkaartachtig compositie zonder duidelijke persoonlijke interpretatie.",
+      "bestand": "images/a006799_6870.webp"
+    },
     {
       "id": 6856,
       "cyclus": 6784,
@@ -128,24 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een schuur met iconische details zoals het X-motief en landschap op de achtergrond, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a006784_6856.webp"
-    },
-    {
-      "id": 6850,
-      "cyclus": 6778,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolen ten opzichte van de omringende bomen', 'Enkele handen/gezichten ontbreken (niet relevant voor dit beeld)', 'Subtiele halo rond de randen van de bomen tegen de hemel']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (windmolen, waterloop, groen) in een decoratief, harmonieus kleurschema zonder duidelijke compositorische of conceptuele keuze.",
-      "bestand": "images/a006778_6850.webp"
-    },
-    {
-      "id": 6849,
-      "cyclus": 6777,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van wolken (links/rechts)', 'Sterren lijken toegevoegd en niet geïntegreerd in achtergrond']",
-      "cliche_notities": "Regenboog met wolken en sterren is een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes",
-      "bestand": "images/a006777_6849.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6795,
-    "gemaakt": 6866,
-    "gekozen": 972,
-    "afgekeurd": 882,
-    "corpus": 74,
+    "cycli": 6804,
+    "gemaakt": 6874,
+    "gekozen": 974,
+    "afgekeurd": 884,
+    "corpus": 75,
     "notities": 344
   }
 }
