@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T23:45+02:00",
+  "bijgewerkt": "2026-08-14T00:00+02:00",
   "werk": [
+    {
+      "id": 7146,
+      "titel": "Korrels in beweging",
+      "beschrijving": "Tegen een effen, lichtblauwe achtergrond lopen twee diagonale, parallelle banen van fijne, wit-pinkige korrels. De banen zijn niet rechtlijnig, maar hebben een lichte, organische golvende vorm, alsof ze met een zachte hand zijn getrokken. De korrels variëren in grootte en dichtheid, waardoor sommige delen van de banen voller en andere dunner lijken. De blauwe achtergrond heeft een subtiele textuur, die doet denken aan papier of een licht korrelig oppervlak. De compositie is minimalistisch, met de banen die de beeldvullende diagonale lijn vormen, van de linkerbovenhoek naar de rechteronderhoek. Er zijn geen andere vormen, kleuren of elementen aanwezig.",
+      "cyclus": 7076,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007076_7146.webp"
+    },
     {
       "id": 7126,
       "titel": "Vonken in het zand",
@@ -104,22 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007009_7080.webp"
-    },
-    {
-      "id": 7067,
-      "titel": "Roet en precisie",
-      "beschrijving": "Donkere, verkoolde houten planken vormen de basis, doorsneden door een schone, metalen paletmes met een lichte houten steel. Rondom liggen onregelmatige koolblokken, fijn grind en kleine stenen, met sporen van as en roet die de textuur verrijken. Bovenin loopt een horizontale band van verschillende houttexturen: van grijzig verweerd tot diepbruin en zwart, met subtiele krassen en slijtage. Het contrast tussen de ruwe, verbrande materialen en de glanzende, precieze vorm van het mes domineert het beeld, terwijl de compositie een gevoel van stilstaande actie uitstraalt.",
-      "cyclus": 6996,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave tussen bovenste panelen en onderste compositie', 'Subtiele halo rond mes bij overgang naar donkere achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie kiest voor een ongemakkelijke, niet-verkoopbare spanning tussen materiaal en leegte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006996_7067.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7142,
+      "cyclus": 7072,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een minimalistische compositie met een conceptuele boodschap.",
+      "bestand": "images/a007072_7142.webp"
+    },
     {
       "id": 7140,
       "cyclus": 7070,
@@ -137,15 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst en materiaal.",
       "bestand": "images/a007066_7136.webp"
-    },
-    {
-      "id": 7133,
-      "cyclus": 7063,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['lichte vervorming vleugels bij enkele gans', 'onduidelijke achtergrondstructuren (bomen/huizen)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische elementen (regenboog, dorpsgezicht, gans) en decoratief licht zonder eigen standpunt.",
-      "bestand": "images/a007063_7133.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7072,
-    "gemaakt": 7141,
-    "gekozen": 1018,
-    "afgekeurd": 920,
+    "cycli": 7078,
+    "gemaakt": 7147,
+    "gekozen": 1019,
+    "afgekeurd": 921,
     "corpus": 71,
     "notities": 353
   }
