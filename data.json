@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T15:45+02:00",
+  "bijgewerkt": "2026-08-13T16:00+02:00",
   "werk": [
+    {
+      "id": 6888,
+      "titel": "Druppels in glas",
+      "beschrijving": "Een glazen fles met een smalle hals staat centraal, gevuld met donkerblauwe, naaldachtige takken die bedekt zijn met kleine, glanzende druppels. De takken steken scherp en willekeurig uit de fles, met enkele dorens die zich naar buiten uitstrekken. Achter de fles loopt een subtiele regenboog door een onscherp landschap van droog gras en een helderblauwe hemel. De fles reflecteert het licht, waardoor de kleuren van de regenboog en de takken erin spiegelen. De achtergrond is zacht gefocust, waardoor de fles en de takken scherp afsteken tegen de open ruimte.",
+      "cyclus": 6817,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de naalden van de boom (herhaalpatroon)', 'Regenboog iets te scherp/getekend, niet natuurlijk']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en heeft een eigen standpunt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006817_6888.webp"
+    },
+    {
+      "id": 6887,
+      "titel": "Grijze ruimte, kleurrijk spoor",
+      "beschrijving": "Een smalle, diagonale regenboog strekt zich uit tegen een egale, grijze achtergrond. De regenboog toont subtiele overgangen tussen rood, oranje, geel, groen, blauw en paars, met een zachte, vaagere rand die overgaat in de omringende lucht. De grijze achtergrond is uniform en zonder duidelijke structuren of details, waardoor de regenboog als enige visuele focus blijft bestaan. De compositie is minimalistisch, met de regenboog die de beeldvulling domineert en een gevoel van rust en leegte uitstraalt.",
+      "cyclus": 6816,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de regenboog is een abstract element zonder culturele connotatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006816_6887.webp"
+    },
     {
       "id": 6883,
       "titel": "Zand dat onthoudt wat handen zwenkten",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006782_6854.webp"
-    },
-    {
-      "id": 6846,
-      "titel": "Waar blijft de sleutel?",
-      "beschrijving": "Een donkere houten deur met verticale panelen en een metalen klink bevindt zich centraal in een witte muur, omgeven door een thatched dak van onregelmatige, donkere stroden. Twee kale, slanke bomen met takken die diagonaal door het beeld lopen, kaderen de deur aan weerskanten. Onder de deur loopt een smalle, donkere drempel, met daarvoor een ongelijkmatige, donkere grondlaag doorset met vage, donkere vormen die op vegetatie of puin lijken. De achtergrond is egaal wit, met subtiele grijze schaduwen rond de muur en het dak. Donkere, dynamische penseelstrepen en spetters geven het tafereel een ruwe, onafgewerkte uitstraling.",
-      "cyclus": 6774,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de bomen ten opzichte van het huis', 'Enkele takken lijken zonder logische verbinding met de stam']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de bomen die het beeld omkaderen en een ongewone focus op een eenvoudige, bijna vergeten hut, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006774_6846.webp"
-    },
-    {
-      "id": 6842,
-      "titel": "Metaal tegen zand, een druppel stilte",
-      "beschrijving": "Een hand houdt een metaalpalettemes en vormt een doorschijnende, glanzende druppel op een oppervlak van fijn, lichtbruin zand. Rondom de druppel lopen donkere, bijna zwarte, golvende patronen door het zand, met sporen van beweging en textuur. Het zand heeft zachte, golvende structuren, terwijl de donkere delen een ruwere, bijna natte uitstraling hebben. De achtergrond vervaagt in een lichte, neutrale tint, waardoor de focus ligt op de interactie tussen het mes, de druppel en het zand. De scène straalt een rustige, gefocuste sfeer uit, met een subtiele spanning tussen de zachte materialen en de precieze actie van het vormen.",
-      "cyclus": 6770,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van zand bij de overgang naar donkere laag', 'Hand en mes iets te scherp gefocust ten openzicht op achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een experimentele, niet-bevestigende houding",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006770_6842.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6892,
+      "cyclus": 6821,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het regenboog-element (soms glanzend, soms mat)', 'Kleine halo rond de rand van de schuur']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse elementen (schuur, weidegras) en een decoratieve regenboog zonder diepere compositorische keuze.",
+      "bestand": "images/a006821_6892.webp"
+    },
     {
       "id": 6886,
       "cyclus": 6815,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met kerk, water en groen in een perfecte balans, zonder verrassende of persoonlijke keuzes.",
       "bestand": "images/a006801_6872.webp"
-    },
-    {
-      "id": 6870,
-      "cyclus": 6799,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van huizen en molens', 'Wazige textuur in gras aan horizon']",
-      "cliche_notities": "Molens en typische Nederlandse landschapselementen in een decoratief, ansichtkaartachtig compositie zonder duidelijke persoonlijke interpretatie.",
-      "bestand": "images/a006799_6870.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6820,
-    "gemaakt": 6890,
-    "gekozen": 977,
-    "afgekeurd": 885,
+    "cycli": 6827,
+    "gemaakt": 6898,
+    "gekozen": 979,
+    "afgekeurd": 886,
     "corpus": 75,
     "notities": 344
   }
