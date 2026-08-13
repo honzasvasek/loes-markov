@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T10:15+02:00",
+  "bijgewerkt": "2026-08-13T10:30+02:00",
   "werk": [
+    {
+      "id": 6714,
+      "titel": "Regenboog door de deur",
+      "beschrijving": "Tussen donkergrijze, waterverfacht getekende bergen met ruwe, donkere randen bevindt zich een witte, rechthoekige deur met zes panelen en een donkere klink. Onder deze deur stroomt een verticale regenboog van paars tot rood naar beneden, waarbij de kleuren overgaan in een lichtere, vaagere gloed. Verder naar beneden, op een breder deel van het landschap, staat een identieke deur, maar dan in een gedempte grijstint, met een regenboog die vanaf deze deur diagonaal naar rechtsbeneden loopt. De achtergrond is een egaal lichtgrijze, textuurloze vlakte, terwijl de bergen subtiele schaduwvlakken en donkere vlekken hebben. De compositie is symmetrisch rond de verticale as, met de deuren en regenbogen als centrale elementen die een gevoel van diepte en beweging creëren.",
+      "cyclus": 6640,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van het landschap', 'Regenboog mist subtieler overgang tussen kleuren, wat artificieel overkomt']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert surrealistische elementen (deuren met regenboog) met een minimalistisch landschap, wat afwijkt van een typische ansichtkaartcompositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006640_6714.webp"
+    },
+    {
+      "id": 6707,
+      "titel": "Hout dat zwemt op water",
+      "beschrijving": "Een houten steiger strekt zich uit over helder, lichtblauw water met zachte golven. De planken van de steiger hebben een verweerde textuur met lichte en donkere houtvezels, en zijn bevestigd met metalen bouten. Rechtsboven loopt het water tot aan de rand van de steiger, waar de overgang soepel is. In de voorgrond staat een houten bankje met een metalen onderstel, schuin geplaatst ten opzichte van de steiger. Het bankje heeft een gladde, iets donkerdere houten zitting en leuning, met zichtbare schroeven en een lichte schaduw die op de steiger valt. De kleuren zijn gedempt, met beige en grijsbruine tinten voor het hout en een koele, doorschijnende blauwtint voor het water. De compositie is rustig en symmetrisch, met de steiger die diagonaal door het beeld loopt en het water dat de rechterbovenhoek vult.",
+      "cyclus": 6633,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief; compositie is gericht op leegte en textuur, niet op een bevestigend landschap.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006633_6707.webp"
+    },
     {
       "id": 6706,
       "titel": "Wie klopt erop?",
@@ -91,35 +117,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006586_6660.webp"
-    },
-    {
-      "id": 6658,
-      "titel": "Vonken tussen de muren",
-      "beschrijving": "Donkere, verticale structuren omlijsten een smalle, witte ruimte die naar boven verbreedt. In het midden ontploft een heldere, goudgele vonkenregen, met stralen die in alle richtingen vliegen. Links en rechts lopen diagonale, donkere lijnen parallel aan de randen, terwijl de achtergrond bovenaan een egale, lichte vlak vormt. De vonken vormen een sterrenvormig patroon, met kleine, schitterende punten die zich uitstrekken naar de donkere hoeken. De compositie straalt beweging uit, met de vonken als focuspunt tussen de statische, donkere vormen.",
-      "cyclus": 6584,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte vervorming in de verticale lijnen van de gebouwen aan de linkerkant', 'Sommige vonken hebben onnatuurlijke, herhalende patronen', 'Wazige overgang tussen de witte achtergrond en de donkere structuren']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een abstracte, dynamische compositie zonder iconische of bevestigende onderwerpen, en toont een eigenzinnige keuze in licht en beweging.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006584_6658.webp"
-    },
-    {
-      "id": 6652,
-      "titel": "Wat blijft stroomt door breuklijnen",
-      "beschrijving": "Een hand houdt een gebroken stuk wit porselein vast, waar helder water uit stroomt in een eveneens beschadigde witte kop met handvat. Het water vormt een glinsterende, dynamische straal die de leegte tussen de brokstukken vult. Achter de kop staat een onscherpe, intacte witte kom tegen een getextureerde grijze muur. De scène speelt zich af op een glad, lichtgrijs oppervlak, met schaduwen die de diepte en textuur van de voorwerpen benadrukken. De gebroken randen van het porselein hebben scherpe, onregelmatige vormen, terwijl het water een vloeibare, bijna zwevende beweging suggereert.",
-      "cyclus": 6578,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een conceptuele spanning tussen intacte en gebroken vormen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006578_6652.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6721,
+      "cyclus": 6647,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de steen (te glad voor natuurlijk gesteente)', 'Subtiele halo rond de koord-steen-verbinding']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met perfecte rijstvelden, iconische Aziatische architectuur en een romantische zonsondergang, zonder duidelijke compositorische of thematische keuze beyond nostalgia.",
+      "bestand": "images/a006647_6721.webp"
+    },
     {
       "id": 6712,
       "cyclus": 6638,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van het papier bovenaan vs. onderaan', 'Kleine halo rond de overgang regenboog-papier']",
       "cliche_notities": "Regenboog als universeel symbool van hoop/positiviteit zonder verdere compositorische of conceptuele keuze",
       "bestand": "images/a006636_6710.webp"
-    },
-    {
-      "id": 6709,
-      "cyclus": 6635,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur op sommige planken (te uniform/herhalend)', 'Waterreflectie iets te glad/artistiek, niet natuurlijk plangewijs']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een symmetrische houten steiger die de kijker naar een rustige, romantiserende horizon leidt, met decoratief licht en geen duidelijke compositorische verstoren.",
-      "bestand": "images/a006635_6709.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6644,
-    "gemaakt": 6717,
-    "gekozen": 945,
-    "afgekeurd": 862,
+    "cycli": 6652,
+    "gemaakt": 6725,
+    "gekozen": 947,
+    "afgekeurd": 863,
     "corpus": 75,
     "notities": 339
   }
