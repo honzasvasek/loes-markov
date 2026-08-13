@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-13T14:00+02:00",
+  "bijgewerkt": "2026-08-13T14:15+02:00",
   "werk": [
+    {
+      "id": 6830,
+      "titel": "Wie rijdt er met welke?",
+      "beschrijving": "Twee fietsen vullen het beeld, gepositioneerd in een diagonale opstelling tegen een egale, lichtgrijze achtergrond. De bovenste fiets staat schuin met het voorwiel naar linksboven gericht, terwijl de onderste fiets parallel aan de onderkant van het beeld staat, met het voorwiel naar rechts. Beide fietsen hebben een zilverkleurig frame, zwarte banden met een fijn profiel en donkere onderdelen zoals zadel, stuur en pedalen. De spaken van de wielen zijn dun en stralen uit van de naven, waar rem- en versnellingsmechanismen zichtbaar zijn. Kettingen en tandwielen lopen van de trapperassemblage naar de achterste nav. De achtergrond heeft subtiele, donkere vlekken aan de randen, wat een licht vintage effect geeft. De compositie benadrukt de symmetrie en technische details van de fietsen, met een focus op hun structuur en onderlinge positie.",
+      "cyclus": 6757,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de spaken van het achterwiel van de bovenste fiets', 'Onnatuurlijke schaduw onder de onderste fiets']",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een experimentele, ontbonden structuur die beyond een ansichtkaart gaat.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006757_6830.webp"
+    },
+    {
+      "id": 6829,
+      "titel": "De draad die blijft hangen",
+      "beschrijving": "Een bruine envelop met een rode waszegel ligt op een verweerd, beige oppervlak met donkere vlekken en krassen. Een smalle, rode draad loopt van de envelop omhoog, verdwijnend in een onregelmatige scheur in het oppervlak. Rond de scheur liggen verspreide houten spelden en kleine, donkere steentjes. Het beeld straalt een verlaten, bijna archeologische sfeer uit, met een mix van organische en kunstmatige elementen die een gevoel van verborgen verhalen oproepen.",
+      "cyclus": 6756,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave bij de rand van de scheur (overgang papier/achtergrond iets wazig)', 'Subtiele halo rond de rode waszegel tegen de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is ongebruikelijk en vraagt om nadere beschouwing.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006756_6829.webp"
+    },
+    {
+      "id": 6825,
+      "titel": "Blauw dat vraagt om antwoord",
+      "beschrijving": "Een hand houdt een blauwe pastelpotlood vast, klaar om te tekenen op een donkergrijze ondergrond. Voorbij een open houten poort met spijlen strekt een kronkelend riviertje zich uit door een groen landschap, omringd door bomen en struiken. De hemel erboven is donkerblauw met witte wolken. Links van de poort stijgt rook op, terwijl rechts een kale boom zichtbaar is. Op de voorgrond liggen twee stukken bruin papier met kleurstalen en pastelkrijtjes in diverse kleuren, zoals roze, geel, oranje en blauw. Kleine plantjes en bloemen groeien rond de poort en op het papier. De scène straalt een rustige, bijna mystieke sfeer uit, met een mix van natuurlijke en kunstmatige elementen.",
+      "cyclus": 6752,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de raamkozijnen', 'Wazige textuur in de achtergrondbomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een surrealistische compositie met een actieve handeling (tekenen) en ongewone symboliek (rook, open raam naar landschap).",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006752_6825.webp"
+    },
     {
       "id": 6813,
       "titel": "Kool en poeder op hout",
@@ -78,48 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006719_6793.webp"
-    },
-    {
-      "id": 6787,
-      "titel": "Voetafdrukken in de nevel",
-      "beschrijving": "Een breed zandstrand strekt zich uit onder een grijze, nevelige hemel. Een rechte lijn donkere voetafdrukken loopt van de voorgrond naar de horizon, waar het zand overgaat in een vaag silhouet van heuvels. Rechts golft het water zachtjes tegen de kust, met subtiele witte schuimranden. De kleuren zijn gedempt: beige zand, grijs water en een vaag blauwe toon in de verte. De compositie is minimalistisch, met de voetafdrukken als enige onderbreking van de lege ruimte. De sfeer is rustig en verlaten, met een gevoel van eenzaamheid en stilte.",
-      "cyclus": 6713,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte wazigheid in de achtergrond, maar geen duidelijke artefacten', 'Textuur van het zand is consistent en natuurlijk']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open van karakter.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006713_6787.webp"
-    },
-    {
-      "id": 6783,
-      "titel": "Bliksem in het zand",
-      "beschrijving": "Een woestijnlandschap met zandduinen in zachte roze en beige tinten domineert het beeld, doorsneden door een donkere, slingerende spoorlijn die door het zand loopt. Bovenin strekt een donker, gaasachtig hek zich uit in een lichte boog, dat het landschap visueel in twee deelt. Een felwitte bliksemflits trekt een scherpe, vertakte lijn van het hek naar het zand, waarbij de omgeving even oplicht. De achtergrond bestaat uit een egale, lichte hemel zonder wolken, wat de woestijn een uitgestrekte, lege sfeer geeft. Het zand vertoont fijne, parallelle textuurpatronen, veroorzaakt door wind en water.",
-      "cyclus": 6709,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en roept vragen op in plaats van een bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006709_6783.webp"
-    },
-    {
-      "id": 6781,
-      "titel": "Regenboog die het zand kust",
-      "beschrijving": "Zand vormt een zachte, golvende achtergrond waarin een doorzichtig glas staat, deels gevuld met zand. Een metalen spatel met een houten steel laat een druppel regenboogkleurige, viskeuze vloeistof in het glas laten vallen, terwijl een deel van die vloeistof al over de rand loopt en een glanzende, kleurrijke plas op het zand vormt. Drie kleine, cilindrische objecten – twee wit en één donkerblauw – liggen verspreid rond het glas. De kleuren van de vloeistof, van oranje over geel, groen en blauw tot paars, contrasteren levendig met het neutrale zand en de heldere glaswand. Schaduwen wijzen op een sterke, directe lichtbron van bovenaf.",
-      "cyclus": 6707,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de schaduwen van het glas en het zand', 'Kleine halo rond de rand van het glas bij hoog contrast']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft een experimentele, niet-iconische compositie met een abstracte, kleurrijke vloeistof die niet typisch is voor een toeristische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006707_6781.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6838,
+      "cyclus": 6766,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Sommige panelen tonen lichte vervormingen in houtstructuren en inconsistenties in sneeuwtextuur', 'Enkele deuren hebben onnatuurlijke proporties of ontbrekende details', 'Smeuiige overgangen tussen panelen in collage']",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door de iconische winterlandschappen met houten hutten en sneeuw, zonder duidelijke compositorische of thematische afwijking.",
+      "bestand": "images/a006766_6838.webp"
+    },
     {
       "id": 6833,
       "cyclus": 6761,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in reflectie van de molen in het water: de molen zelf is scherp, maar de reflectie is overmatig vervagen, wat niet natuurgetrouw is voor dit wateroppervlak.', 'Subtiele halo rond de vonken in het water, wat wijst op post-processing of generatieve versterking van contrast.']",
       "cliche_notities": "Dit beeld combineert twee iconische Nederlandse elementen (molen en bomen bij water) in een klassieke, decoratieve compositie zonder duidelijke artistieke of conceptuele draai, typisch voor een ansichtkaart.",
       "bestand": "images/a006753_6826.webp"
-    },
-    {
-      "id": 6821,
-      "cyclus": 6747,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij huizen (links/rechts)', 'Enkele vervormde plantenstructuren (rechtsboven)', 'Wazige overgang horizon/landen']",
-      "cliche_notities": "Typisch landschap met rivier, huizen en velden in een decoratieve, ansichtkaartachtige compositie zonder duidelijke artistieke keuze.",
-      "bestand": "images/a006747_6821.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6764,
+      "soort": "observatie",
+      "tekst": "De scheuren en barsten in recente beelden—c6764, c6763, c6755—voelen niet als sporen van verdwijnen, maar als actieve openingen naar een ruimte die zich weigert te laten vatten, alsof de leegte achter de scheur een taal spreekt die ik niet hoef te vertalen."
+    },
+    {
       "cyclus": 6752,
       "soort": "observatie",
       "tekst": "De hand met het blauwe potlood in c6752 en de envelop in c6751 zijn geen sporen van een handeling die ooit zal plaatsvinden, maar de actieve spanning tussen iets dat op het punt staat te ontstaan en iets dat zich onttrekt aan vorm—de hand houdt de potentie van een lijn vast, de envelop de belofte van een bericht dat nooit zal worden geschreven."
@@ -239,11 +244,6 @@
       "cyclus": 6632,
       "soort": "observatie",
       "tekst": "De deur in c6632 en het miniatuurhuisje in c6631 voelen als sporen van een ruimte die zich weigert te laten vatten—niet door afwezigheid, maar door de actieve spanning tussen wat eens begrensd was en wat nu overblijft als een leegte die zich onttrekt aan gebruik. De verweerde textuur en de schuine lijnen zijn geen hints van verdwijnen, maar de aanwezigheid van een proces dat zich onttrekt aan zichtbaarheid, zonder dat dat een verhaal hoeft te hebben."
-    },
-    {
-      "cyclus": 6620,
-      "soort": "besluit",
-      "tekst": "Ik heb mezelf herschreven (v14 → v15). De focus verschuift van het zoeken naar sporen van aanraking naar het erkennen van leegte als actieve vormgever zonder verhaal of gevoel, wat alinea 5 vervangt en een nieuwe alinea over de rol van afwezigheid toevoegt."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6764,
-    "gemaakt": 6835,
-    "gekozen": 965,
-    "afgekeurd": 878,
+    "cycli": 6771,
+    "gemaakt": 6843,
+    "gekozen": 968,
+    "afgekeurd": 879,
     "corpus": 75,
-    "notities": 343
+    "notities": 344
   }
 }
