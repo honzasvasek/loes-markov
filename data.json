@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T03:15+02:00",
+  "bijgewerkt": "2026-08-13T03:30+02:00",
   "werk": [
+    {
+      "id": 6487,
+      "titel": "De steen die antwoordt",
+      "beschrijving": "Een zandige, golvende landschapsscene met een smalle, donkere spleet die diagonaal door het midden loopt. In die spleet rust een ronde, lichtgekleurde steen met donkere vlekken. Rondom de spleet groeien verspreid kleine groene grassprietjes. De achtergrond wordt gevormd door een blauwe hemel met zachte, witte wolken die de bovenste helft van het beeld vullen. De kleuren zijn gedempt, met bruine en beige tinten voor het zand en donkergrijze tot zwarte schaduwen in de spleet. De compositie straalt rust uit, met de steen als stiltecentrum in het landschap.",
+      "cyclus": 6413,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave van zand (soms te glad, soms te korrelig)', 'Gezichtsloze plantenfiguren wat schematisch/getekend in plaats van natuurlijk']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of typisch toeristisch onderwerp; compositie is gericht op een intieme, bijna abstracte weergave van een natuurlijk moment.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006413_6487.webp"
+    },
+    {
+      "id": 6482,
+      "titel": "Spleet in het asfalt",
+      "beschrijving": "Een zwarte fiets zweeft boven een donkergrijze asfaltweg, met de wielen net boven een smalle, donkere spleet in het oppervlak. Door die spleet loopt een regenboogkleurige strook, bestaande uit verticale banen rood, oranje, geel, groen, blauw en paars, die zich uitstrekt tot aan de onderkant van het beeld. De fiets is scherp getekend tegen een egale witte achtergrond, zonder schaduwen of extra details. De regenboog streep heeft een textuur die doet denken aan verf of grind, en vormt een levendig contrast met de matte, donkere weg en de strakke lijnen van de fiets.",
+      "cyclus": 6408,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is opzettelijk minimalistisch en niet-obvious.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006408_6482.webp"
+    },
     {
       "id": 6474,
       "titel": "Hand in zand, schaduw kijkt toe",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006349_6423.webp"
-    },
-    {
-      "id": 6417,
-      "titel": "Oranje paars scheurt door blauw",
-      "beschrijving": "Een verticale scheur loopt door een oppervlak met een overgang van oranje naar paars, omgeven door zachte, wazige vormen die aan wolken of vloeistof doen denken. Bovenin domineert een blauwe achtergrond met subtiele textuur, terwijl de scheur zich uitstrekt naar een donkerdere, vaag gedefinieerde onderkant. Kleurvlakken vloeien in elkaar over, met accenten van wit en grijs die diepte suggereren. Een kleine, ronde oranje vorm bevindt zich nabij de onderkant, geïsoleerd tegen de paarse achtergrond. De compositie straalt een rustige, bijna dromerige sfeer uit, met een focus op de spanning tussen de gescheurde en vloeiende elementen.",
-      "cyclus": 6343,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurovergang tussen boven- en onderkant', 'Kleine halo rond de scheur in het midden']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006343_6417.webp"
-    },
-    {
-      "id": 6408,
-      "titel": "Barsten in het water",
-      "beschrijving": "Donkere, verticaal geplaatste houten planken met diepe barsten en onregelmatigheden domineren het beeld. Wit schuim en bubbels kruipen vanaf de onderkant omhoog, waarbij ze de houtstructuur gedeeltelijk bedekken. Glanzende, donkere vloeistofdruppels verspreiden zich over het hout en het schuim, met enkele grotere, amorf gevormde vlekken die reflecties vangen. Een smalle, donkere spleet loopt verticaal door het midden, waarbij het schuim aan weerskanten verschillende hoogtes bereikt. De textuur van het hout contrasteert met de zachte, wisselende vormen van het schuim en de glanzende druppels.",
-      "cyclus": 6334,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van hout aan rechterkant: sommige vezels lijden kunstmatig glad, andere hyper-detailleerd', 'Subtiele halo rond donkere verticale spleet tegen lichte achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en uitgesproken, met een focus op textuur en contrast in plaats van herkenbaarheid.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006334_6408.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6490,
+      "cyclus": 6416,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de verre heuvels', 'Enkele dieren hebben iets onnatuurlijke proporties']",
+      "cliche_notities": "Dit is een typisch landschap met weidse natuur, koeien en een dramatische wolkenlucht, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a006416_6490.webp"
+    },
     {
       "id": 6483,
       "cyclus": 6409,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in pootstructuren van sommige gans (te slank/vervormd)', 'Wazige achtergrondtextuur (gras/bomen) toont herhaalpatronen', 'Halo-effect rond vliegende gansen tegen hemel']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische gans in een idyllisch landschap met perfect zacht licht en geen duidelijke compositorische keuze.",
       "bestand": "images/a006399_6473.webp"
-    },
-    {
-      "id": 6463,
-      "cyclus": 6389,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij schutting van schuur', 'Wazige textuur in verre bomen']",
-      "cliche_notities": "Winterlandschap met huisjes en bomen is een typisch ansichtkaartmotief zonder verrassende compositorische keuzes.",
-      "bestand": "images/a006389_6463.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6413,
-    "gemaakt": 6486,
-    "gekozen": 902,
-    "afgekeurd": 830,
-    "corpus": 75,
+    "cycli": 6421,
+    "gemaakt": 6494,
+    "gekozen": 904,
+    "afgekeurd": 831,
+    "corpus": 76,
     "notities": 334
   }
 }
