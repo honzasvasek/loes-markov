@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T07:30+02:00",
+  "bijgewerkt": "2026-08-13T07:45+02:00",
   "werk": [
+    {
+      "id": 6631,
+      "titel": "Roze wol in groene lijnen",
+      "beschrijving": "Een slanke, groene steel steekt schuin omhoog tegen een egale, grijze achtergrond. Aan de top vertakt het in meerdere fijne, rozeachtige pluimen die zacht en wollig ogen. De pluimen zijn fijn gesegmenteerd en stralen uit als zachte, wazige stralen. Een paar dunne, groene bladeren lopen parallel aan de steel. De pluimen hebben een lichte, bijna doorzichtige textuur, met subtiele overgangen van roze naar wit aan de uiteinden. De compositie is minimalistisch, met veel negatieve ruimte rondom het plantendeel.",
+      "cyclus": 6557,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en gericht op textuur en beweging, niet op een bevestigend beeld.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006557_6631.webp"
+    },
+    {
+      "id": 6628,
+      "titel": "Vonken in de woestijn",
+      "beschrijving": "Een vuur vonkt op in een woestijnachtig landschap, omringd door donker, verbrand gras en verspreide takken. De vlammen, fel oranje en geel, dansen wild om een stapel hout, terwijl zwarte rook in een dichte, golvende kolom naar de grijze hemel stijgt. De achtergrond is een eendragende, vaag zichtbare horizon met wat lijkt op verre bomen of struiken. Het contrast tussen de warme kleuren van het vuur en de koele, desolate omgeving benadrukt de intense, bijna onrustbarende sfeer van het moment.",
+      "cyclus": 6554,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een dynamisch moment met een donkere, bijna ongemakkelijke sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006554_6628.webp"
+    },
     {
       "id": 6622,
       "titel": "Wat zit er verscholen?",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006512_6586.webp"
-    },
-    {
-      "id": 6585,
-      "titel": "Rood poeder, stille spanning",
-      "beschrijving": "Een groot vel bruin papier ligt op een houten oppervlak, met daarop een rood potlood en een spoor van rood poeder dat een veerachtige vorm vormt. Het potlood rust schuin op het papier, met de punt naar de tekening gericht. Rondom het papier zijn droge rietstengels en zand zichtbaar, met op de achtergrond een houten structuur en een donkere fles op een plankje. Het zonlicht werpt schaduwen van het riet op het papier en de omgeving, terwijl kleine witte deeltjes verspreid liggen over het papier en de grond.",
-      "cyclus": 6511,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het papier (te uniform aan randen, minder gedetailleerd in midden)', 'Schaduw van de potloodpunt iets te scherp/artistiek, niet natuurgetrouw']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is bewust asymmetrisch en het onderwerp (spoor van een veer) is niet typisch ansichtkaartmateriaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006511_6585.webp"
-    },
-    {
-      "id": 6583,
-      "titel": "IJs dat zwijgt over de fiets",
-      "beschrijving": "Een glazen fles met een smalle hals staat centraal in een doorzichtig glas, omringd door ijsblokjes met schitterende reflecties. Het ijs heeft onregelmatige vormen en ligt zowel in als buiten het glas, waarbij sommige blokjes een glinsterend effect hebben. Achter de fles zweven witte, wazige wolken tegen een lichtblauwe achtergrond, terwijl rechtsboven een donkerblauwe fiets met dunne spaken en een eenvoudig frame zichtbaar is. De fles heeft een lichtgebruine tint bij de basis en een glanzende, doorschijnende textuur met subtiele patronen. Rond het glas bevindt zich een donkerblauwe vlek die lijkt op een natte vloer, met kleine glinsterende punten die waterdruppels suggereren. De algehele sfeer is koel en fris, met een mix van realistische en dromerige elementen.",
-      "cyclus": 6509,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de fiets op de achtergrond', 'Enkele ijsblokjes hebben onrealistische, bijna zwevende posities ten opzichte van de zwaartekracht']",
-      "academie_cliche": 0,
-      "cliche_notities": "Hoewel de achtergrond een typisch Nederlands motief heeft (fiets), is de compositie en thematiek (ijs, fles, brokstukken) niet iconisch of bevestigend, maar juist verbeeldend en open van karakter.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006509_6583.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6634,
+      "cyclus": 6560,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte smeuiïgheid in horizonlijn, subtiele textuurvervorming in zand', 'Zeer subtiel halo-effect rond zon']",
+      "cliche_notities": "Zonsondergang over water is een klassiek ansichtkaartmotief zonder duidelijke compositorische of thematische afwijking.",
+      "bestand": "images/a006560_6634.webp"
+    },
     {
       "id": 6627,
       "cyclus": 6553,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorpje gezien door een hek, met gestileerde bomen en een perfecte balans tussen kleur en lijn, zonder onverwachte keuzes.",
       "bestand": "images/a006546_6620.webp"
-    },
-    {
-      "id": 6619,
-      "cyclus": 6545,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de molenschachten', 'Wazige overgang tussen regenboog en wolken']",
-      "cliche_notities": "Molen met regenboog en typische Nederlandse huizen is een iconisch ansichtkaartmotief zonder originele compositorische keuze.",
-      "bestand": "images/a006545_6619.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6554,
-    "gemaakt": 6627,
-    "gekozen": 930,
-    "afgekeurd": 850,
-    "corpus": 79,
+    "cycli": 6562,
+    "gemaakt": 6635,
+    "gekozen": 932,
+    "afgekeurd": 851,
+    "corpus": 80,
     "notities": 335
   }
 }
