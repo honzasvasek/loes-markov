@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T05:45+02:00",
+  "bijgewerkt": "2026-08-13T06:00+02:00",
   "werk": [
+    {
+      "id": 6571,
+      "titel": "Vonkenregen op het gras",
+      "beschrijving": "Een rode vuurwerkstang vonkt op een wit gaaspad dat door groen gras loopt. Gouden vonken en witte sterren spatten omhoog in een donkerblauwe nachtelijke hemel, terwijl rook de lucht vult. Het gaas vormt een rechte, smalle corridor die de blik naar het vuurwerk leidt, omringd door donkere silhouetten van bomen en struiken. Vonken vallen ook naar beneden, waarbij sommige op het gras landen. De scène straalt een dynamische, feestelijke sfeer uit met een scherp contrast tussen het heldere vuurwerk en de donkere achtergrond.",
+      "cyclus": 6497,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het rooster (verdwijnt te snel in de verte)', 'Sommige vonken hebben onnatuurlijke, starre vormen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is gericht op een dynamisch moment in plaats van een statisch beeld.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w006497_6571.webp"
+    },
+    {
+      "id": 6569,
+      "titel": "Donkere golven in glas",
+      "beschrijving": "Een glazen fles staat centraal tegen een egale, lichte achtergrond. Donkere vloeistof spuit uit de hals van de fles en vormt een dynamische, spetserende beweging in de lucht. De vloeistof loopt ook over de buitenkant van de fles, waarbij het een glanzende, donkere laag vormt. De fles heeft een smalle hals en een brede body, met een duidelijke overgang tussen beide delen. Het licht valt schuin op de fles, waardoor reflecties en schaduwen de glazen textuur benadrukken. De compositie is minimalistisch, met de fles als enig focuspunt en de donkere vloeistof die een contrast vormt met de lichte achtergrond en het heldere glas.",
+      "cyclus": 6495,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in reflecties op het glas (te uniform)', 'Tekst op label iets te scherp/flat tegenover organische vervorming van vloeistof']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de combinatie van Chinees schrift en abstracte vloeistof dynamiek vraagt om interpretatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006495_6569.webp"
+    },
     {
       "id": 6562,
       "titel": "Vuur dat zwijgt in water",
@@ -91,32 +117,6 @@
       "curriculum_score": 4.0,
       "gekozen": 1,
       "bestand": "images/w006452_6526.webp"
-    },
-    {
-      "id": 6524,
-      "titel": "Regenboog in een fles met wolken",
-      "beschrijving": "Een glazen fles met een kurk staat centraal, gevuld met een regenboog van kleuren die van paars en blauw overgaan in oranje en geel. Rond de fles zweven witte en grijze wolken met zachte, wazige randen, waarbij enkele regendruppels naar beneden vallen. Onder de fles spiegelt een blauwe, golvende vorm met hints van geel en zwart, die een wateroppervlak suggereert. De achtergrond is egaal bruin, wat de fles en de omringende elementen doet uitkomen. Kleuren en vormen stralen een dromerige, bijna magische sfeer uit.",
-      "cyclus": 6450,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de fles ten opzichte van de reflectie', 'Wazige overgang tussen regenboogkleuren en glasstructuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigenzinnige, dromerige sfeer.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006450_6524.webp"
-    },
-    {
-      "id": 6522,
-      "titel": "Zand dat blijft hangen",
-      "beschrijving": "Zand valt in een smalle stroom op een brede, ronde kleikom met horizontale ribbels, die halfbegraven zit in een zandwoestijn met zachte golven. Rond de kom liggen onregelmatige, platte stenen met scherpe randen. In de achtergrond staat een onscherpe, kegelvormige structuur met een donkere punt en twee kleine donkere vlekken. Het zand in de kom vormt een kleine hoop, terwijl de vallende korrels een dynamische, vaag zichtbare beweging suggereren. De kleuren zijn neutraal: beige, lichtbruin en zandkleurig, met subtiele schaduwen die diepte geven. De compositie is centraal gericht, met de kom als focuspunt en de achtergrond die afvalt in onscherpte.",
-      "cyclus": 6448,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van zand bij rand kom, wat smeuiig', 'Schaduw onder kom iets te scherp/getekend voor natuurlijk licht']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; compositie heeft een eigen, contemplatief standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006448_6522.webp"
     }
   ],
   "afgekeurd": [
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6496,
-    "gemaakt": 6569,
-    "gekozen": 919,
+    "cycli": 6504,
+    "gemaakt": 6577,
+    "gekozen": 921,
     "afgekeurd": 842,
-    "corpus": 79,
+    "corpus": 77,
     "notities": 335
   }
 }
