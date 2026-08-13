@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T19:30+02:00",
+  "bijgewerkt": "2026-08-13T19:45+02:00",
   "werk": [
+    {
+      "id": 7008,
+      "titel": null,
+      "beschrijving": "Een donkere, textuurrijke muur omlijst een openstaande deur met een gedetailleerd houten kozijn. Door de deur ontvouwt zich een landschap van golvende, witte lijnen die aan zand of water doen denken, met daaronder donkere, parallelle strepen die diepte suggereren. Bovenin de deurkozijn zweven wazige, witte vormen die aan rook of wolken doen denken. De vloer voor de deur is donker en glanzend, met subtiel licht dat van de deur uitstraalt en zachte schaduwen werpt. Twee kleine, donkere deurgrendels zijn zichtbaar aan weerszijden van de deur. De sfeer is rustig en mysterieus, met een focus op de overgang tussen de donkere ruimte en het lichte, dynamische landschap achter de deur.",
+      "cyclus": 6937,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van de deurkozijn (links/rechts niet symmetrisch)', 'Wazige overgang tussen de golven en de achtergrond bovenin']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongebruikelijk en uitdaagend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006937_7008.webp"
+    },
+    {
+      "id": 7006,
+      "titel": "Barsten in het witte landschap",
+      "beschrijving": "Donkere, onregelmatige vormen domineren de onderste helft, met scherpe, vertakte lijnen die als barsten door het beeld lopen. Bovenin vloeien lichte, wazige grijstinten over in witte vlakken, onderbroken door subtiele cirkelvormen en onduidelijke patronen. Een smalle, onrustige horizon scheidt de donkere onderlaag van de lichte bovenlaag, waar vage, organische vormen zich vermengen met watervlekkenachtige textuur. De overgang tussen licht en donker is ongelijkmatig, met kleine witte openingen die als openingen in een landschap fungeren.",
+      "cyclus": 6935,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurovergang tussen donkere en lichte vlakken', 'Subtiele halo rond enkele witte details']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de abstracte compositie laat ruimte voor interpretatie zonder bevestigende iconografie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006935_7006.webp"
+    },
     {
       "id": 7003,
       "titel": "Diagonale panelen, onregelmatige contouren",
@@ -91,61 +117,35 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006896_6967.webp"
-    },
-    {
-      "id": 6964,
-      "titel": "Vuur in het web",
-      "beschrijving": "Een woestijnschap met zandduinen in beige en lichtbruine tinten domineert het beeld, doorsneden door donkere, spinnenwebachtige lijnen die een geometrisch patroon vormen. Rechts brandt een levendige vlam in oranje en gele kleuren, met dynamische, golvende vormen die omhoog schieten. De achtergrond bestaat uit een grijze, bewolkte hemel met zachte overgangen. Verspreid over het zand liggen donkere, ronde stenen en kleine, witte fragmenten. De sfeer is zowel rustig als onrustig door het contrast tussen het stilstaande landschap en de beweging van de vlam.",
-      "cyclus": 6893,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het draadwerk (beneden/boven)', 'Textuur van de achtergrond wat wazig/smeuiig']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongewoon en niet-bevestigend.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006893_6964.webp"
-    },
-    {
-      "id": 6962,
-      "titel": "Donkere golven op wit hout",
-      "beschrijving": "Een witte houten deur met een klassieke paneelstructuur vult het beeld, omgeven door een lichte muur. Donkere, dynamische verfstralen en spatelslagen vormen een golfachtig patroon dat van linksboven naar rechtsonder loopt, alsof de deur wordt overspoeld door een donkere vloeistof. De verf is zowel gestuurd als wild: sommige delen zijn glad en golvend, andere delen zijn korrelig en spattend. Een ronde deurknop en scharnieren zijn zichtbaar, maar worden gedeeltelijk door de verf bedekt. De contrasten tussen het heldere hout en de donkere verf creëren een gevoel van beweging en spanning, alsof de deur op het punt staat te openen naar een onzichtbare wereld.",
-      "cyclus": 6891,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houtstructuur bij de deurpanelen', 'Sommige inktvlekken tonen onnatuurlijke, digitale scherpte']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de combinatie van deur en abstracte inktvlekken vraagt om interpretatie en biedt geen voorbeeldige compositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006891_6962.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7005,
-      "cyclus": 6934,
+      "id": 7018,
+      "cyclus": 6947,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van heuvels (voorgrond/achtergrond)', 'Enkele grassprietjes hebben onnatuurlijke, herhalende patronen']",
+      "cliche_notities": "Beeld past in ansichtkaarttraditie: idyllisch landschap met regenboog en typische weidevegetatie, zonder verrassende compositorische keuzes.",
+      "bestand": "images/a006947_7018.webp"
+    },
+    {
+      "id": 7016,
+      "cyclus": 6945,
       "afkeuringsreden": "cliche",
       "tech_score": 9.0,
       "tech_notities": "",
-      "cliche_notities": "Regenboog boven golven is een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes.",
-      "bestand": "images/a006934_7005.webp"
+      "cliche_notities": "Dit is een typische ansichtkaartzonsondergang met iconische compositie en decoratief licht, zonder eigen standpunt.",
+      "bestand": "images/a006945_7016.webp"
     },
     {
-      "id": 6979,
-      "cyclus": 6908,
+      "id": 7011,
+      "cyclus": 6940,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van bakstenen muur (rechtsboven)', 'Subtiele halo rond zonsondergang']",
-      "cliche_notities": "Beeld past in categorie 'toeristische ansichtkaart' door iconisch onderwerp (traditionele poort met zonsondergang) en decoratief perfect licht zonder duidelijke compositorische keuze.",
-      "bestand": "images/a006908_6979.webp"
-    },
-    {
-      "id": 6978,
-      "cyclus": 6907,
-      "afkeuringsreden": "cliche",
-      "tech_score": 6.0,
-      "tech_notities": "['Duidelijke naad tussen boven- en onderbeeld met mismatch in horizon en lichtval', 'Herhaling van golven en rotsen met lichte vervorming aan randen', 'Onduidelijke textuur in zand en rotsen door overmatige gladstrijking']",
-      "cliche_notities": "Zonsondergang over water met perfecte reflectie en decoratieve compositie zonder onverwachte elementen of standpunt",
-      "bestand": "images/a006907_6978.webp"
+      "tech_notities": "['Lichte inconsistentie in perspectief van de molenwieken ten opzichte van de molen zelf', 'Enkele details in het gras en de achtergrond zijn wat wazig/smeuiig']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, polderlandschap) en decoratief licht zonder duidelijke compositorische of thematische keuze.",
+      "bestand": "images/a006940_7011.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6939,
-    "gemaakt": 7009,
-    "gekozen": 999,
-    "afgekeurd": 900,
+    "cycli": 6948,
+    "gemaakt": 7018,
+    "gekozen": 1001,
+    "afgekeurd": 903,
     "corpus": 72,
     "notities": 345
   }
