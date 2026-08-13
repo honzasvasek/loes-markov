@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T11:30+02:00",
+  "bijgewerkt": "2026-08-13T11:45+02:00",
   "werk": [
     {
       "id": 6754,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 6760,
+      "cyclus": 6686,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolen (wieken lijken niet helemaal in lijn met de romp)', 'Textuur van het krijtwerk is wat ongelijkmatig, met plekken waar het materiaal te fijn is verdeeld']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molen met een romantische, lege weg ernaartoe, zonder verrassende of persoonlijke invalshoek.",
+      "bestand": "images/a006686_6760.webp"
+    },
+    {
+      "id": 6757,
+      "cyclus": 6683,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte halo rond regenboog tegen hemel', 'Textuur hout wat repetitief in middenvlak']",
+      "cliche_notities": "Regenboog boven houten hek is een typisch iconisch motief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a006683_6757.webp"
+    },
+    {
       "id": 6749,
       "cyclus": 6675,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de kerkruïne (toren lijkt niet loodrecht)', 'Wazige overgang tussen water en oever, wat de diepte verzwakt']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische kerkruïne met romantisch licht en een klassieke waterreflectie, zonder verrassende of persoonlijke invalshoek.",
       "bestand": "images/a006675_6749.webp"
-    },
-    {
-      "id": 6742,
-      "cyclus": 6668,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in golfpatronen bij horizon, minimale halo rond schuimrand']",
-      "cliche_notities": "Klassiek strandmotief met tekst in zand, decoratief licht en geen duidelijke compositorische keuze beyond typische ansichtkaartcompositie",
-      "bestand": "images/a006668_6742.webp"
-    },
-    {
-      "id": 6732,
-      "cyclus": 6658,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Molens, landweg en groen landschap vormen een klassiek Nederlands ansichtkaartmotief zonder verrassende compositorische keuzes.",
-      "bestand": "images/a006658_6732.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6683,
-    "gemaakt": 6756,
+    "cycli": 6691,
+    "gemaakt": 6765,
     "gekozen": 953,
-    "afgekeurd": 867,
+    "afgekeurd": 869,
     "corpus": 73,
     "notities": 340
   }
