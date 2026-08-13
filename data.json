@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T14:15+02:00",
+  "bijgewerkt": "2026-08-13T14:30+02:00",
   "werk": [
+    {
+      "id": 6846,
+      "titel": "Waar blijft de sleutel?",
+      "beschrijving": "Een donkere houten deur met verticale panelen en een metalen klink bevindt zich centraal in een witte muur, omgeven door een thatched dak van onregelmatige, donkere stroden. Twee kale, slanke bomen met takken die diagonaal door het beeld lopen, kaderen de deur aan weerskanten. Onder de deur loopt een smalle, donkere drempel, met daarvoor een ongelijkmatige, donkere grondlaag doorset met vage, donkere vormen die op vegetatie of puin lijken. De achtergrond is egaal wit, met subtiele grijze schaduwen rond de muur en het dak. Donkere, dynamische penseelstrepen en spetters geven het tafereel een ruwe, onafgewerkte uitstraling.",
+      "cyclus": 6774,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de bomen ten opzichte van het huis', 'Enkele takken lijken zonder logische verbinding met de stam']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de bomen die het beeld omkaderen en een ongewone focus op een eenvoudige, bijna vergeten hut, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006774_6846.webp"
+    },
+    {
+      "id": 6842,
+      "titel": "Metaal tegen zand, een druppel stilte",
+      "beschrijving": "Een hand houdt een metaalpalettemes en vormt een doorschijnende, glanzende druppel op een oppervlak van fijn, lichtbruin zand. Rondom de druppel lopen donkere, bijna zwarte, golvende patronen door het zand, met sporen van beweging en textuur. Het zand heeft zachte, golvende structuren, terwijl de donkere delen een ruwere, bijna natte uitstraling hebben. De achtergrond vervaagt in een lichte, neutrale tint, waardoor de focus ligt op de interactie tussen het mes, de druppel en het zand. De scène straalt een rustige, gefocuste sfeer uit, met een subtiele spanning tussen de zachte materialen en de precieze actie van het vormen.",
+      "cyclus": 6770,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van zand bij de overgang naar donkere laag', 'Hand en mes iets te scherp gefocust ten openzicht op achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een experimentele, niet-bevestigende houding",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006770_6842.webp"
+    },
     {
       "id": 6830,
       "titel": "Wie rijdt er met welke?",
@@ -91,35 +117,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006732_6806.webp"
-    },
-    {
-      "id": 6795,
-      "titel": "Inkt die zich herinnert",
-      "beschrijving": "Een verticale, slingerende vorm van donkere, rookachtige vlekken en druppels loopt door een wit vel papier. De vorm is onregelmatig, met brede en smalle delen, en lijkt te bestaan uit inkt die door het papier is getrokken. Rondom de hoofdvorm bevinden zich verspreide donkere vlekken en druppels, sommige verbonden met dunne lijntjes. De textuur van het papier is zichtbaar, met een lichte korreligheid. De compositie is asymmetrisch, met de donkere vorm die diagonaal door het beeld loopt, terwijl de witte ruimte eromheen leeg en ongestoord blijft. De sfeer is statisch maar dynamisch door de beweging van de inktvlekken.",
-      "cyclus": 6721,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende iconografie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006721_6795.webp"
-    },
-    {
-      "id": 6793,
-      "titel": "Wit dat zich verzet",
-      "beschrijving": "Donkere, wazige vormen vullen het bovenste deel, met verticale strepen die naar beneden lopen. Onderin zijn donkere, onregelmatige figuren met uitstralende lijnen, omgeven door horizontale, golvende strepen. Zwarte vlekken en spatten zijn verspreid over het beeld, terwijl de achtergrond wit blijft. De compositie is dynamisch, met een contrast tussen de donkere vormen en de lichte ruimte eromheen.",
-      "cyclus": 6719,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurverloop bovenste helft', 'Enkele vervormde penseelstreken in middelste laag']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; abstracte compositie met bewuste keuze voor onrust en leegte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006719_6793.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6850,
+      "cyclus": 6778,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolen ten opzichte van de omringende bomen', 'Enkele handen/gezichten ontbreken (niet relevant voor dit beeld)', 'Subtiele halo rond de randen van de bomen tegen de hemel']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (windmolen, waterloop, groen) in een decoratief, harmonieus kleurschema zonder duidelijke compositorische of conceptuele keuze.",
+      "bestand": "images/a006778_6850.webp"
+    },
+    {
+      "id": 6849,
+      "cyclus": 6777,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van wolken (links/rechts)', 'Sterren lijken toegevoegd en niet geïntegreerd in achtergrond']",
+      "cliche_notities": "Regenboog met wolken en sterren is een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes",
+      "bestand": "images/a006777_6849.webp"
+    },
     {
       "id": 6838,
       "cyclus": 6766,
@@ -128,24 +146,6 @@
       "tech_notities": "['Sommige panelen tonen lichte vervormingen in houtstructuren en inconsistenties in sneeuwtextuur', 'Enkele deuren hebben onnatuurlijke proporties of ontbrekende details', 'Smeuiige overgangen tussen panelen in collage']",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door de iconische winterlandschappen met houten hutten en sneeuw, zonder duidelijke compositorische of thematische afwijking.",
       "bestand": "images/a006766_6838.webp"
-    },
-    {
-      "id": 6833,
-      "cyclus": 6761,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte halo rond horizonlijn', 'Gras in voorgrond iets te uniform gedetailleerd']",
-      "cliche_notities": "Landschap met rollende heuvels en witte wolken is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
-      "bestand": "images/a006761_6833.webp"
-    },
-    {
-      "id": 6826,
-      "cyclus": 6753,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in reflectie van de molen in het water: de molen zelf is scherp, maar de reflectie is overmatig vervagen, wat niet natuurgetrouw is voor dit wateroppervlak.', 'Subtiele halo rond de vonken in het water, wat wijst op post-processing of generatieve versterking van contrast.']",
-      "cliche_notities": "Dit beeld combineert twee iconische Nederlandse elementen (molen en bomen bij water) in een klassieke, decoratieve compositie zonder duidelijke artistieke of conceptuele draai, typisch voor een ansichtkaart.",
-      "bestand": "images/a006753_6826.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6771,
-    "gemaakt": 6843,
-    "gekozen": 968,
-    "afgekeurd": 879,
+    "cycli": 6779,
+    "gemaakt": 6850,
+    "gekozen": 970,
+    "afgekeurd": 881,
     "corpus": 75,
     "notities": 344
   }
