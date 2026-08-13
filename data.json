@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T21:45+02:00",
+  "bijgewerkt": "2026-08-13T22:00+02:00",
   "werk": [
+    {
+      "id": 7085,
+      "titel": "Rood door de wolken",
+      "beschrijving": "Een donkergrijze, textuurrijke achtergrond wordt doorsneden door een scherpe, verticale rode lijn die van boven naar beneden loopt. Tegen deze achtergrond zweven witte en lichtgrijze wolken met zachte, onregelmatige contouren, verspreid over de compositie. De wolken hebben een vloeiende, bijna dromerige vorm, met subtiele schaduwvlakken die diepte suggereren. De rode lijn snijdt door enkele wolken heen, waardoor een contrast ontstaat tussen de organische vormen en de rechte, krachtige lijn. De algehele sfeer is rustig maar met een onderliggende spanning door de tegenstelling tussen de kleuren en vormen.",
+      "cyclus": 7014,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de rode lijn en asymmetrische wolken geven een eigen compositorisch standpunt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007014_7085.webp"
+    },
+    {
+      "id": 7080,
+      "titel": "Verweerd hout over water",
+      "beschrijving": "Een breed, langgerekt houten platform strekt zich uit over een kalm wateroppervlak, met in de verte een donkere boomlijn en een vaag silhouet van een heuvel of berg. Het platform bestaat uit een complex netwerk van houten latten en balken, willekeurig maar met een onderliggende structuur, waarbij sommige delen donkerder en verweerd lijken. Het water weerspiegelt de roodbruine tinten van de hemel, die een eenduidige, wat nevelige sfeer uitstraalt. De horizon is scherp getrokken, en de compositie leidt het oog direct naar het verdwijnpunt in de verte.",
+      "cyclus": 7009,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief aan horizon (water/lанд)', 'Textuur herhaling in houtstructuur (mogelijk generatief patroon)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze (onevenwichtige horizon, close-up hout) geeft eigen standpunt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007009_7080.webp"
+    },
     {
       "id": 7067,
       "titel": "Roet en precisie",
@@ -91,35 +117,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006954_7025.webp"
-    },
-    {
-      "id": 7020,
-      "titel": "Sporen die blijven steken",
-      "beschrijving": "Een houten deur met verticale lamellen en een donkere scharnier bevindt zich aan de linkerkant, schuin in beeld. Onder de deur loopt een donkere, onregelmatige vlek die overgaat in een reeks golvende, donkere lijnen die naar voren lopen. Deze lijnen zijn ongelijkmatig en lijken door een vloeistof of poeder te zijn getrokken. De achtergrond is egaal licht, bijna wit, en vormt een scherp contrast met de donkere elementen. De textuur van het hout is zichtbaar, met sporen van slijtage en verkleuring. De compositie is minimalistisch, met veel lege ruimte aan de rechterkant.",
-      "cyclus": 6949,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte onscherpte in de hoeken van het beeld, mogelijk door crop of lensdistortie', 'Textuur van de vloer is inconsistent: links gedetailleerd, rechts overmatig glad']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en suggestief, niet bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006949_7020.webp"
-    },
-    {
-      "id": 7015,
-      "titel": "Regenboog zonder klok",
-      "beschrijving": "Twee ronde wekkers met zwarte randen en witte wijzerplaten liggen op een donkere, textuurrijke ondergrond. De bovenste wekker toont een regenboog die de wijzerplaat deels omhult, met kleuren die van rood tot paars lopen. De wijzers staan op ongeveer tien voor twaalf. Rond de wekker is het papier scheutig gescheurd, waardoor een witte laag onder de donkere achtergrond zichtbaar wordt. De onderste wekker heeft geen regenboog, maar een deel van een regenboog ligt linksboven de wijzerplaat. Deze wekker staat op twaalf uur. Rechtsboven de onderste wekker is een donkere, bewolkte hemel te zien, met grijze en zwarte tinten die een dreigende sfeer uitstralen. De contrasten tussen de heldere wijzerplaten, de levendige regenbogen en de donkere achtergrond creëren een dynamische compositie.",
-      "cyclus": 6944,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen rond de klokken', 'Textuur van het gescheurde papier wat kunstmatig']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp en geen decoratief perfect licht, maar een bewuste compositorische keuze met symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006944_7015.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7084,
+      "cyclus": 7013,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenvleugels', 'Enkele stenen in de voorgrond hebben onnatuurlijke, zwevende posities']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en decoratief licht zonder duidelijke artistieke keuze.",
+      "bestand": "images/a007013_7084.webp"
+    },
     {
       "id": 7078,
       "cyclus": 7007,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Molen en eenzame boom in een woestijnschap vormen een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes.",
       "bestand": "images/a006993_7064.webp"
-    },
-    {
-      "id": 7061,
-      "cyclus": 6990,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte vervorming in de vleugels van de molen (asymmetrische latten)', 'Wazige overgang tussen water en oever, textuur inconsistent', 'Detailverlies in donkere schaduwen van de molen']",
-      "cliche_notities": "Molen met water en typisch Nederlands landschap in een decoratief, bevestigend compositie zonder duidelijke artistieke keuze.",
-      "bestand": "images/a006990_7061.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7010,
-    "gemaakt": 7080,
-    "gekozen": 1010,
-    "afgekeurd": 912,
-    "corpus": 73,
+    "cycli": 7018,
+    "gemaakt": 7088,
+    "gekozen": 1012,
+    "afgekeurd": 913,
+    "corpus": 72,
     "notities": 348
   }
 }
