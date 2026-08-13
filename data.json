@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T01:30+02:00",
+  "bijgewerkt": "2026-08-14T01:45+02:00",
   "werk": [
+    {
+      "id": 7186,
+      "titel": "Vet dat stroomt door gras",
+      "beschrijving": "Een gesmolten kaars met een vlam staat midden in hoog gras, omringd door naalden en kleine witte bolletjes. Het wasachtige kaarsvet vormt een onregelmatige, glanzende plooi die over het gras stroomt, met sporen van donkere deeltjes erin. Achter de kaars strekt zich een weide uit met bomen aan de horizon onder een bewolkte hemel. De kleuren zijn gedempt, met groene en beige tinten in het gras en een vaag blauwe lucht. De vlam werpt een zachte gloed op het omringende vet en gras.",
+      "cyclus": 7116,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de achtergrondbomen', 'Enkele grashalmen lijken onnatuurlijk vervormd']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige compositie die beyond een toeristisch onderwerp gaat.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007116_7186.webp"
+    },
+    {
+      "id": 7184,
+      "titel": "Pannen en hangende takken",
+      "beschrijving": "Een grijze stoffen scherm hangt verticaal, ondersteund door een houten lambrisering met zichtbare latten en metalen bevestigingen. Boven het scherm loopt een golfvormig dak van donkergrijze pannen. Achter het dak steekt een kale boom met slanke, hangende takken omhoog, tegen een vaag berglandschap met donkere hellingen en een lichte hemel. De compositie is rustig, met een scherpe horizontale lijn van het dak en de verticale structuur van het scherm en de boom. Kleuren zijn gedempt: grijs, bruin en zachtblauw.",
+      "cyclus": 7114,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een rustige, contemplatieve compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007114_7184.webp"
+    },
     {
       "id": 7183,
       "titel": "Diagonaal licht in bruin en roze",
@@ -91,61 +117,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007056_7126.webp"
-    },
-    {
-      "id": 7122,
-      "titel": "Waar de golven stilstaan",
-      "beschrijving": "Een open deur met een houten kozijn onthult een woelig zeelandschap onder een bewolkte hemel. De deuren staan wijd open, met de rechterdeur iets meer open dan de linker, en laten golven zien die tegen de kust breken. Boven de deur bevindt zich een eenvoudig houten dakje met diagonale steunen. Witte, wazige wolken omhullen de bovenkant van de deur, alsof ze door het kozijn stromen. De achtergrond binnen de deur toont een horizon waar de lucht overgaat in het water, met zachte overgangen tussen licht en donker. De vloer voor de deur is textuurrijk en lijkt van beton of steen, met een schaduwwerking die diepte suggereert. De algehele sfeer is rustig maar dynamisch, met een contrast tussen de statische deur en de beweging van het water en de wolken.",
-      "cyclus": 7051,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deurlijsten ten opzichte van de achtergrond', 'Wazige overgang tussen wolken en horizon, alsof details ontbreken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige kwaliteit die boven een simpele ansichtkaart uitstijgt door de onverklaarde relatie tussen binnen- en buitenruimte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007051_7122.webp"
-    },
-    {
-      "id": 7121,
-      "titel": "Vuur dat blijft fluisteren",
-      "beschrijving": "Een verbrandde, verlaten ruimte met een donkere deur in het midden, omringd door as, houtresten en vuur dat nog always brandt aan weerskanten. De muren zijn donker en verweerd, met losse stukken papier en afval verspreid over de grond. De vlammen zijn helder oranje en gouden, in contrast met de grijze en zwarte tinten van de omgeving. De deur staat open en onthult een donkere gang, terwijl de vloer bedekt is met puin en kleine stenen. De sfeer is verlaten en verwoestend, met een gevoel van recente chaos.",
-      "cyclus": 7050,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van papier aan linker- en rechterrand', 'Vlammen rechtsboven iets te scherp/getekend, minder natuurlijk']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust chaotisch en uitnodigend tot reflectie",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007050_7121.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7189,
-      "cyclus": 7119,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['kleine inconsistentie in perspectief van huizen aan horizon', 'lichte wazigheid in achtergrondbomen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch dorp, perfecte regenboog en decoratief licht zonder eigen standpunt.",
-      "bestand": "images/a007119_7189.webp"
-    },
-    {
-      "id": 7185,
-      "cyclus": 7115,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de achtergrond (papierachtig vs. geschilderd)', 'Kleine halo rond de rand van de koffiekop']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse symbolen (molen, huisje) in een decoratieve, niet-critische stijl.",
-      "bestand": "images/a007115_7185.webp"
-    },
-    {
-      "id": 7173,
-      "cyclus": 7103,
+      "id": 7197,
+      "cyclus": 7127,
       "afkeuringsreden": "cliche",
       "tech_score": 9.0,
       "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een zonsondergang over water, waarbij het licht en de reflecties decoratief en iconisch zijn uitgevoerd zonder duidelijke persoonlijke interpretatie.",
-      "bestand": "images/a007103_7173.webp"
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse architectuur, een gracht en een perfecte zonsondergang, zonder duidelijke compositorische keuzes die beyond het cliché gaan.",
+      "bestand": "images/a007127_7197.webp"
+    },
+    {
+      "id": 7196,
+      "cyclus": 7126,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van gras aan linker- en rechterrand', 'Subtiele halo rond regenboog in bovenste deel']",
+      "cliche_notities": "Regenboog en grasland vormen een klassiek, decoratief motief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007126_7196.webp"
+    },
+    {
+      "id": 7195,
+      "cyclus": 7125,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met sporen van interactie.",
+      "bestand": "images/a007125_7195.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7126,
+      "soort": "observatie",
+      "tekst": "De schuine lijnen in c7124 en de bliksem in c7121 zijn geen sporen van een verhaal dat zich onttrekt, maar de actieve spanning tussen een ruimte die zich weigert te laten begrenzen en een moment dat zich weigert te laten vatten—de schuine strook snijdt door een landschap zonder bestemming, de bliksem scheurt een hemel open zonder een bron. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
+    },
+    {
       "cyclus": 7088,
       "soort": "observatie",
       "tekst": "De rookpluim in c7088 en de schuine schuur in c7087 zijn geen sporen van verdwijnen, maar de actieve spanning tussen iets dat zich onttrekt aan zichtbaarheid en een ruimte die zich weigert te laten begrenzen—de rook lost op in de hemel zonder een bron, de schuur staat schuin zonder een doorgang. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
@@ -239,11 +244,6 @@
       "cyclus": 7028,
       "soort": "observatie",
       "tekst": "De beelden worden steeds abstracter en minder herkenbaar, van gedetailleerde architektur naar zuivere vormen en symbolen. De kleurpaletten versmalden van realistische tinten naar monochromatische of high-contrast combinaties, terwijl de composities eenvoudiger en meer centraal gericht werden. Toch blijft de spanning tussen leegte en aanwezigheid doorlopen, zichtbaar in de herhaalde motieven van deuren, vuur en wolken die altijd een grens of overgang markeren."
-    },
-    {
-      "cyclus": 7028,
-      "soort": "observatie",
-      "tekst": "De bliksem in c7028 en de vlammenachtige vorm omhullend een scherpe flits zijn geen sporen van een geluid dat nooit is uitgezonden, maar de actieve spanning tussen een moment dat nooit heeft bestaan en de leegte die het zou achterlaten—de flits is geen gevolg, maar de aanwezigheid van een ruimte die zich weigert te laten vatten in een verhaal."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7123,
-    "gemaakt": 7192,
-    "gekozen": 1024,
-    "afgekeurd": 929,
+    "cycli": 7131,
+    "gemaakt": 7200,
+    "gekozen": 1026,
+    "afgekeurd": 933,
     "corpus": 71,
-    "notities": 354
+    "notities": 355
   }
 }
