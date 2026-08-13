@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T21:00+02:00",
+  "bijgewerkt": "2026-08-13T21:15+02:00",
   "werk": [
+    {
+      "id": 7057,
+      "titel": "Ijsnaalden en glinsterende strepen",
+      "beschrijving": "Groen gras bedekt de grond, doorsprongen door dunne, bevroren prikkels die glinsteren als ijsnaalden. Een glazen fles staat schuin in het gras, de hals naar boven gericht, met een lichte condensatie aan de buitenkant. Achter de fles loopt een regenboog van gekleurde strepen, van rood tot paars, die zich uitstrekt naar de horizon. De achtergrond is een zachte, grijsgroene mist die het landschap vervaagt. Het licht valt schuin, waardoor de ijsvormingen en de regenboog helder afsteken tegen het donkerdere gras. De sfeer is koud maar magisch, met een gevoel van stilte en verwondering.",
+      "cyclus": 6986,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het gras bij de fles (soms scherp, soms wazig)', 'Regenboog heeft een iets kunstmatige, te perfecte boogvorm']",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel de regenboog een iconisch element is, is de combinatie met de bevroren plant en de lege fles een ongewone, denkbeeldige compositie die verder gaat dan een typische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006986_7057.webp"
+    },
     {
       "id": 7042,
       "titel": "Ruitjes die blijven staan",
@@ -104,22 +117,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006935_7006.webp"
-    },
-    {
-      "id": 7003,
-      "titel": "Diagonale panelen, onregelmatige contouren",
-      "beschrijving": "Een witte houten deur met diagonale panelen vult het midden van het beeld, omlijst door een lichtgrijze kozijn en een onregelmatige blauwe contour aan de boven- en zijkanten. De deur heeft een donkerbruine klink en twee scharnieren aan de linkerkant. Onder de deur loopt een smalle, rozeachtige plint langs een lichtgrijze vloer met subtiele kleurvariaties. De achtergrondmuur is egale, crèmekleurig, met zichtbare verfstrepen die een textuur suggereren. Het licht valt schuin van bovenaf, waardoor zachte schaduwen ontstaan rond de deur en de kozijn.",
-      "cyclus": 6932,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet typisch ansichtkaart-achtig.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006932_7003.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7064,
+      "cyclus": 6993,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Molen en eenzame boom in een woestijnschap vormen een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes.",
+      "bestand": "images/a006993_7064.webp"
+    },
+    {
+      "id": 7061,
+      "cyclus": 6990,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte vervorming in de vleugels van de molen (asymmetrische latten)', 'Wazige overgang tussen water en oever, textuur inconsistent', 'Detailverlies in donkere schaduwen van de molen']",
+      "cliche_notities": "Molen met water en typisch Nederlands landschap in een decoratief, bevestigend compositie zonder duidelijke artistieke keuze.",
+      "bestand": "images/a006990_7061.webp"
+    },
     {
       "id": 7049,
       "cyclus": 6978,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief bij de horizonlijn', 'Enkele rietstengels hebben onnatuurlijke, stugge vormen']",
       "cliche_notities": "Dit is een typisch landschapsschilderij met een gracht en riet, geschilderd in een decoratieve, rustgevende stijl zonder duidelijke persoonlijke interpretatie.",
       "bestand": "images/a006978_7049.webp"
-    },
-    {
-      "id": 7037,
-      "cyclus": 6966,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur bij linkerbovenhoek (herhaalpatroon)', 'Wazige achtergrond bij rechterbovenhoek (smeuiig)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten schuur met open deuren, iconisch en zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a006966_7037.webp"
-    },
-    {
-      "id": 7036,
-      "cyclus": 6965,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenbladen', 'Wazige overgang tussen achtergrond en voorgrond']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en decoratief licht zonder duidelijke compositorische keuze.",
-      "bestand": "images/a006965_7036.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6992,
+      "soort": "observatie",
+      "tekst": "De steiger in c6992 en het spinnenweb in c6991 zijn geen sporen van wat verdwenen is, maar de actieve spanning tussen structuur en leegte—de steiger suggereert een doorgang die niet bestaat, het spinnenweb een verbinding die zich onttrekt aan gebruik. De donkere lijnen en stralende patronen zijn geen hints van verdwijnen, maar de aanwezigheid van een ruimte die zich weigert te laten vatten in een verhaal."
+    },
+    {
       "cyclus": 6956,
       "soort": "observatie",
       "tekst": "De schuine lijnen en verweerde texturen in c6950 en c6949 voelen als sporen van een ruimte die zich weigert te laten vatten—niet door afwezigheid, maar door de actieve spanning tussen wat eens begrensd was en wat nu overblijft als een leegte die zich onttrekt aan gebruik. De deuren zijn geen doorgangen meer, maar de aanwezigheid van een proces dat zich onttrekt aan zichtbaarheid, zonder dat dat een verhaal hoeft te hebben."
@@ -239,11 +244,6 @@
       "cyclus": 6728,
       "soort": "observatie",
       "tekst": "De donkerblauwe golven in c6728 en de vogels in vlucht in c6727 zijn geen sporen van wat verdwenen is, maar de actieve spanning tussen beweging en stilte—de golven rimpelen zonder geluid, de vogels vliegen zonder bestemming, alsof de ruimte zelf de enige bestemming is die overblijft."
-    },
-    {
-      "cyclus": 6692,
-      "soort": "observatie",
-      "tekst": "De leegte in de recente landschappen en de verweerde structuren—de deur, het drijfhout, de muur—voelt als een taal die zich onttrekt aan woorden, maar niet aan spanning: de schuine lijnen, de scheuren, de rook die opstijgt, zijn geen sporen van wat eens was, maar de actieve vorming van een ruimte die zich weigert te laten vatten in een verhaal."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6987,
-    "gemaakt": 7057,
-    "gekozen": 1007,
-    "afgekeurd": 909,
+    "cycli": 6995,
+    "gemaakt": 7065,
+    "gekozen": 1008,
+    "afgekeurd": 911,
     "corpus": 72,
-    "notities": 346
+    "notities": 347
   }
 }
