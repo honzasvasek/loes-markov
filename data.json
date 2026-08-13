@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T09:00+02:00",
+  "bijgewerkt": "2026-08-13T09:15+02:00",
   "werk": [
+    {
+      "id": 6679,
+      "titel": "Rook die zich onthoudt van verdwijnen",
+      "beschrijving": "Een donkere houten deur met een metalen klink staat centraal, omringd door een chaotisch patroon van roetachtige vlekken en witte, rookachtige vormen die zich uitstrekken naar de randen. Onder de deur spatten witte, vloeistofachtige vormen omhoog, met fijne druppels die zich vermengen met donkere, golvende vlakken. De achtergrond bestaat uit onregelmatige, getekende structuren die hout en verweerd materiaal suggereren, met subtiele witte highlights die diepte geven. De compositie straalde een gevoel van beweging uit, alsof de deur net open ging en een onzichtbare kracht de ruimte in stroomde.",
+      "cyclus": 6605,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deurkozijn (rechtsboven lijkt het kozijn af te wijken van de deur)', 'Enkele witte vlekken in de rookachtige vormen lijken willekeurig geplaatst zonder logische overgang', 'Textuur van het hout op de deur is gedeeltelijk wazig en mist consistente korrel']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een sterke compositorische keuze met de deur als centraal motief omringd door abstracte, dynamische vormen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006605_6679.webp"
+    },
+    {
+      "id": 6676,
+      "titel": "Vloeistof die stilstaat in een vraag",
+      "beschrijving": "Donkere, glanzende vloeistof druipt over een getextureerd oppervlak met fijne, parallelle lijnen die een houtachtige structuur suggereren. Zwarte druppels en langwerpige vlekken liggen verspreid, met reflecties die diepte toevoegen. Onderaan het beeld bevindt zich een donkere, bijna zwarte zone met witte karakters in een vreemde taal, die een scherp contrast vormen met de organische vormen erboven. De compositie straalt een rustige, bijna meditatieve sfeer uit, met een dynamische balans tussen de vloeiende beweging van de vloeistof en de statische, gestreepte achtergrond.",
+      "cyclus": 6602,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurflow bij linkerhoek', 'Enkele druppels tonen onnatuurlijke scherpte tegen achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; abstractie en textuurfocus geven een eigen standpunt",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006602_6676.webp"
+    },
     {
       "id": 6667,
       "titel": "Hout dat ademt, glas dat zwijgt",
@@ -91,35 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006572_6646.webp"
-    },
-    {
-      "id": 6643,
-      "titel": "Rode lijn door de gang",
-      "beschrijving": "Een smalle, bruine gang met rechte muren en een vloer die overgaat in een golvend patroon van lichte, witte en roze tinten. Een scherpe, rode verticale lijn loopt dwars door het midden van de gang, van voor naar achter, en snijdt het golvende vloerpatroon door midden. Aan het eind van de gang bevindt zich een gesloten deur, eveneens bruin, met een subtiele lichtinslag rond de randen. De muren zijn egaal en zonder versieringen, terwijl de vloer een textuur heeft die doet denken aan verf die in beweging is vastgevroren. Het licht komt van bovenaf en werpt zachte schaduwen, waardoor de diepte van de gang benadrukt wordt.",
-      "cyclus": 6569,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de verre muur', 'Wazige overgang tussen vloer en muren in de achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is abstract en open van karakter.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006569_6643.webp"
-    },
-    {
-      "id": 6639,
-      "titel": "Getekend door tijd en glas",
-      "beschrijving": "Een glazen fles met een smalle hals en brede romp staat centraal op een verweerd houten oppervlak. Het glas is helder maar getekend door krassen, stof en lichte vervormingen, met sporen van slijtage bij de basis. Achter de fles zijn vaag twee vergelijkbare glazen vormen zichtbaar, onscherp en gedeeltelijk buiten het beeld. Het licht valt schuin van bovenaf, waardoor reflecties en subtiele schaduwvlakken over het glas lopen. De fles is leeg en heeft een groenige tint aan de randen van de bodem en hals.",
-      "cyclus": 6565,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op subtiele textuur en afwezigheid van actie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006565_6639.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6681,
+      "cyclus": 6607,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in boomhoogtes aan horizon', 'Textuur in voorgrond iets wazig']",
+      "cliche_notities": "Landschap met fruitbomen onder dramatische hemel is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
+      "bestand": "images/a006607_6681.webp"
+    },
     {
       "id": 6651,
       "cyclus": 6577,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de molenwieken', 'Enkele wazige overgangen in de achtergrond']",
       "cliche_notities": "Molen in landschap is een klassiek iconisch onderwerp zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a006570_6644.webp"
-    },
-    {
-      "id": 6640,
-      "cyclus": 6566,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van boomstam (somewhere overgang hout/zwart)', 'Rand van regenboog iets ongelijkmatig']",
-      "cliche_notities": "Regenboog + boom is een klassiek symbolisch paar zonder verrassende compositorische keuze",
-      "bestand": "images/a006566_6640.webp"
     }
   ],
   "onderzoek": {
@@ -309,10 +309,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6604,
-    "gemaakt": 6677,
-    "gekozen": 941,
-    "afgekeurd": 855,
+    "cycli": 6612,
+    "gemaakt": 6685,
+    "gekozen": 943,
+    "afgekeurd": 856,
     "corpus": 77,
     "notities": 335
   }
