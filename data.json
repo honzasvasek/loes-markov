@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T10:30+02:00",
+  "bijgewerkt": "2026-08-13T10:45+02:00",
   "werk": [
+    {
+      "id": 6724,
+      "titel": "Regendruppels op scheurwerk",
+      "beschrijving": "Een gebroken koffiekop staat centraal, met een diepe scheur die de leegte blootlegt. Boven de kop zweeft een wolk, zacht getekend met golvende lijnen, waar regendruppels vanuit dalen. De achtergrond bestaat uit donkere, stralende cirkels die een gevoel van diepte creëren. Rond de kop liggen kleine, ronde voorwerpen die op keien lijken, verspreid over een oppervlak met houtachtige textuur. De compositie combineert realistische details met gestileerde vormen, waarbij het contrast tussen licht en donker de spanning in het beeld versterkt.",
+      "cyclus": 6650,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurweergave bij de rand van de kop (overgang donker/licht)', 'Regelmatige herhaling van lijnpatronen in achtergrond suggereert generatief algoritme']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en suggestief, niet bevestigend.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006650_6724.webp"
+    },
     {
       "id": 6714,
       "titel": "Regenboog door de deur",
@@ -104,22 +117,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006588_6662.webp"
-    },
-    {
-      "id": 6660,
-      "titel": "Vlammen tussen het gras",
-      "beschrijving": "Hoog gras met zachte, bruine pluimen domineert de voorgrond, waarbij de stengels in groen en beige door elkaar lopen. Rechts staat een klein, donker dak met blauwe pannen, waaruit oranje-gele vlammen opschieten. Achter het gras ontwaren vaag blauwe en grijze vormen die heuvels of bergen suggereren onder een lichte, bewolkte hemel. De achtergrond is vaag geschilderd, met subtiele overgangen tussen licht en donker. Verspreid liggen kleine, onduidelijke voorwerpen op de grond, zoals stukken hout en wat lijkt op afval. De sfeer is rustig, maar de vuurvlammen voegen een dynamisch element toe aan het landschap.",
-      "cyclus": 6586,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het dak van het huisje', 'Wazige overgang tussen achtergrond en middenvlak', 'Enkele rietstengels hebben onnatuurlijke vervormingen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een herkenbaar landschap met een onrustige, bijna ongemakkelijke sfeer (vuur in het huisje), wat het buiten de ansichtkaart-categorie plaatst.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006586_6660.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6732,
+      "cyclus": 6658,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Molens, landweg en groen landschap vormen een klassiek Nederlands ansichtkaartmotief zonder verrassende compositorische keuzes.",
+      "bestand": "images/a006658_6732.webp"
+    },
+    {
+      "id": 6727,
+      "cyclus": 6653,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Molen in landschap met decoratief licht en iconisch Nederlands thema, zonder duidelijke compositorische of conceptuele keuzes.",
+      "bestand": "images/a006653_6727.webp"
+    },
     {
       "id": 6721,
       "cyclus": 6647,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van de steen (te glad voor natuurlijk gesteente)', 'Subtiele halo rond de koord-steen-verbinding']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met perfecte rijstvelden, iconische Aziatische architectuur en een romantische zonsondergang, zonder duidelijke compositorische of thematische keuze beyond nostalgia.",
       "bestand": "images/a006647_6721.webp"
-    },
-    {
-      "id": 6712,
-      "cyclus": 6638,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van papierachtergrond (rechtsboven wat korreliger dan linksonder)', 'Subtiele halo rond rand van regenboog bij hoog contrast (rood/blauw)']",
-      "cliche_notities": "Regenboog als universeel symbool van hoop/verlossing zonder compositorische verrassing of conceptuele diepgang, typisch voor decoratieve ansichtkaartesthetiek.",
-      "bestand": "images/a006638_6712.webp"
-    },
-    {
-      "id": 6710,
-      "cyclus": 6636,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het papier bovenaan vs. onderaan', 'Kleine halo rond de overgang regenboog-papier']",
-      "cliche_notities": "Regenboog als universeel symbool van hoop/positiviteit zonder verdere compositorische of conceptuele keuze",
-      "bestand": "images/a006636_6710.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6652,
-    "gemaakt": 6725,
-    "gekozen": 947,
-    "afgekeurd": 863,
-    "corpus": 75,
+    "cycli": 6660,
+    "gemaakt": 6733,
+    "gekozen": 948,
+    "afgekeurd": 865,
+    "corpus": 73,
     "notities": 339
   }
 }
