@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T13:45+02:00",
+  "bijgewerkt": "2026-08-13T14:00+02:00",
   "werk": [
     {
       "id": 6813,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6833,
+      "cyclus": 6761,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte halo rond horizonlijn', 'Gras in voorgrond iets te uniform gedetailleerd']",
+      "cliche_notities": "Landschap met rollende heuvels en witte wolken is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
+      "bestand": "images/a006761_6833.webp"
+    },
+    {
       "id": 6826,
       "cyclus": 6753,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief bij huizen (links/rechts)', 'Enkele vervormde plantenstructuren (rechtsboven)', 'Wazige overgang horizon/landen']",
       "cliche_notities": "Typisch landschap met rivier, huizen en velden in een decoratieve, ansichtkaartachtige compositie zonder duidelijke artistieke keuze.",
       "bestand": "images/a006747_6821.webp"
-    },
-    {
-      "id": 6817,
-      "cyclus": 6743,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de velden (horizon lijkt te schuin)', 'Enkele penseelstreken in de regenboog zijn wat wazig/smeuiig']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische regenboog + idyllisch landschap + sentimentele symboliek (brieven, hart) zonder verrassende invalshoek.",
-      "bestand": "images/a006743_6817.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6755,
-    "gemaakt": 6827,
+    "cycli": 6764,
+    "gemaakt": 6835,
     "gekozen": 965,
-    "afgekeurd": 877,
+    "afgekeurd": 878,
     "corpus": 75,
     "notities": 343
   }
