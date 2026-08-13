@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T16:15+02:00",
+  "bijgewerkt": "2026-08-13T16:30+02:00",
   "werk": [
+    {
+      "id": 6900,
+      "titel": "Vijf vogels, één kier",
+      "beschrijving": "Een donkere, houten deur staat op een kier, waardoor helder licht een ruimte in valt. Boven de deur en langs de muren vliegen vijf vogels met gespreide vleugels, alsof ze door de opening willen. De muren hebben een verweerd, textuurrijk oppervlak met donkere vlekken en vaag bloemmotieven. De vloer is lichtgekleurd en toont sporen van slijtage. Het contrast tussen het donkere hout en het felwitte licht creëert een diepte die de blik door de deur trekt.",
+      "cyclus": 6829,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deur ten opzichte van de lijst', 'Wazige textuur in de hoeken van het behang']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en uitnodigend tot interpretatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006829_6900.webp"
+    },
+    {
+      "id": 6899,
+      "titel": "Waar blijft de horizon?",
+      "beschrijving": "Witte en grijze wolken vullen het beeld, met zachte, wazige randen die overgaan in een donkergrijze achtergrond. Door de wolken heen zijn vaag donkere, rechte structuren zichtbaar, alsof er iets achter verborgen zit. Een paar plekken in de wolken hebben een lichtbruine tint, alsof er rook of stof doorheen zweeft. De wolken lijken in beweging te zijn, met golven en kussens die elkaar overlappen. Er zijn geen duidelijke horizon of grond te zien, alleen een eindeloze, dromerige lucht die het hele beeld omhult.",
+      "cyclus": 6828,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de achtergrondstructuren', 'Subtiele halo rond de randen van de wolken bij hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is abstract en open van karakter.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006828_6899.webp"
+    },
     {
       "id": 6888,
       "titel": "Druppels in glas",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006789_6861.webp"
-    },
-    {
-      "id": 6857,
-      "titel": "Hout dat zucht onder het zand",
-      "beschrijving": "Een verweerd houten schuur met een zadeldak staat centraal, omringd door een zandig landschap met verspreide rotsen en stekelige planten. Een smalle, kronkelende houten loopbrug leidt naar de schuur, met zichtbare houtvezels en slijtagepatronen. De achtergrond toont een bewolkte hemel met zachte, golvende wolken en een horizonlijn die overgaat in een donkere boomgaard. De schuur heeft een klein raam met een kruisvormig kozijn en twee grote, schuivende deuren met diagonale versterkingen. De textuur van het zand is fijn en onregelmatig, met sporen van wind en water. De sfeer is rustig en verlaten, met een gevoel van verlatenheid en verloop van tijd.",
-      "cyclus": 6785,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave van het zand (overmatig herhaalpatroon)', 'Subtiele vervorming in de horizonlijn (lichte boog in plaats van rechte lijn)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Hoewel het landschap typisch Nederlands is, ontbreekt de decoratieve perfectie en ontbreekt een iconisch element zoals een molen of gracht.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w006785_6857.webp"
-    },
-    {
-      "id": 6854,
-      "titel": "Rood bloed in de takken",
-      "beschrijving": "Een rij kale bomen met donkerrode stammen en takken vult het beeld, verspreid over een zachtgolvend landschap in beige en lichtbruine tinten. Rode bessen prikken als kleine stippen in de takken, terwijl een vaag rood pad diagonaal door het midden loopt. Droog gras en subtiele textuurvariaties in de grond geven een gevoel van verlatenheid. De achtergrond vervaagt in een lichte, nearly witte horizon, waardoor de bomen scherp afsteken. Geen beweging, geen geluid — alleen de stilte van een winterse dag vastgelegd in waterverfachtige strepen en vlekken.",
-      "cyclus": 6782,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van bomen in achtergrond', 'Enkele takken lijken onnatuurlijk te herhalen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een gestileerde, abstracte weergave met persoonlijke compositorische keuzes",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006782_6854.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6909,
+      "cyclus": 6838,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch boerenhuis onder een dramatische hemel, zonder onverwachte compositorische keuzes of een eigen standpunt.",
+      "bestand": "images/a006838_6909.webp"
+    },
     {
       "id": 6906,
       "cyclus": 6835,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van het regenboog-element (soms glanzend, soms mat)', 'Kleine halo rond de rand van de schuur']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse elementen (schuur, weidegras) en een decoratieve regenboog zonder diepere compositorische keuze.",
       "bestand": "images/a006821_6892.webp"
-    },
-    {
-      "id": 6886,
-      "cyclus": 6815,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte vervorming in de horizonlijn (windmolen lijkt schuin te staan)', 'Sommige plantenspitsen in de voorgrond zijn onnatuurlijk scherp tegenover wazige achtergrond', 'Textuur in de wolken is overmatig herhalend']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molens in een landschap met perfecte zonsondergangslighting en geen duidelijke compositorische keuze beyond het centrale plaatje.",
-      "bestand": "images/a006815_6886.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6836,
-    "gemaakt": 6906,
-    "gekozen": 979,
-    "afgekeurd": 887,
+    "cycli": 6843,
+    "gemaakt": 6914,
+    "gekozen": 981,
+    "afgekeurd": 888,
     "corpus": 74,
     "notities": 344
   }
