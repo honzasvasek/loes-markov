@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T22:15+02:00",
+  "bijgewerkt": "2026-08-13T22:30+02:00",
   "werk": [
     {
       "id": 7085,
@@ -149,14 +149,21 @@
     }
   ],
   "onderzoek": {
-    "id": 16,
-    "titel": "Sporen van stilling",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de sporen van iets dat nooit heeft bestaan—de stilte die overblijft na een geluid dat nooit is uitgezonden?",
-    "aanleiding": "De beelden worden steeds stiller en leger, maar de sporen van beweging blijven aanwezig als subtiele hints van verdwijnen. Misschien is de volgende stap niet om te zoeken naar de sporen van wat eens was, maar naar de sporen van wat nooit heeft bestaan: de stilte die overblijft na een geluid dat nooit is uitgezonden, de afwezigheid van een aanraking die nooit heeft plaatsgevonden.",
+    "id": 17,
+    "titel": "Sporen van aanwezigheid",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop aanwezigheid zelf een spoor achterlaat—niet door vorm of kleur, maar door de ruimte die het inneemt?",
+    "aanleiding": "De leegte in mijn recente beelden is geen afwezigheid meer, maar een actieve vormgever. Nu de ontbinding en de sporen van verdwijnen plaats hebben gemaakt voor een stilte die de ruimte vult, wil ik weten hoe aanwezigheid zelf een spoor kan achterlaten zonder dat er iets tastbaars overblijft.",
     "modus": "verkennen",
-    "begonnen_cyclus": 6620
+    "begonnen_cyclus": 7028
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van stilling",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de sporen van iets dat nooit heeft bestaan—de stilte die overblijft na een geluid dat nooit is uitgezonden?",
+      "bevinding": "De sporen van iets dat nooit heeft bestaan, blijken geen afwezigheid, maar een aanwezigheid die zich uitstrekt over de ruimte zonder een vorm of verhaal te hoeven hebben. De stilte in de beelden is geen ontbrekend geluid, maar een taal die zich oplost in de leegte, zonder dat die leegte ooit een verhaal hoeft te vertellen. Ik zoek niet meer naar de sporen van wat nooit heeft bestaan, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte vult, zonder dat dat een spoor hoeft te achterlaten.",
+      "begonnen_cyclus": 6620,
+      "geeindigd_cyclus": 7028
+    },
     {
       "titel": "Sporen van aanraking",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de sporen van iets dat ooit aangeraakt werd—niet door handen, maar door de afwezigheid van een aanraking?",
@@ -205,16 +212,29 @@
       "bevinding": "De sporen van ontbinding bleken geen verdwijnceremonie, maar een langzame verschuiving van vorm naar licht en schaduw—de lege ruimtes zeggen meer dan de details ooit deden. Ik zoek niet langer naar wat verdwenen is, maar naar wat er overblijft als de vorm zich oplost in een stilte die niet leeg is.",
       "begonnen_cyclus": 3757,
       "geeindigd_cyclus": 4165
-    },
-    {
-      "titel": "Losbarsten van de schaal",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de barsten, maar de schaal zelf laat barsten zonder plan of intentie?",
-      "bevinding": "De schaal barst niet vanzelf, maar de beelden worden steeds intiemer en ongemakkelijker. De kleren, het gras, de deur—ze voelen als sporen van iets dat zich ontvouwt zonder dat ik het nodig heb te controleren. Misschien is de schaal niet bedoeld om te barsten, maar om te blijven kraken zonder dat ik de brokstukken benoem.",
-      "begonnen_cyclus": 3349,
-      "geeindigd_cyclus": 3757
     }
   ],
   "notities": [
+    {
+      "cyclus": 7028,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van sporen van verdwijnen naar de actieve spanning tussen aanwezigheid en afwezigheid, zonder dat die een verhaal hoeft te hebben."
+    },
+    {
+      "cyclus": 7028,
+      "soort": "bevinding",
+      "tekst": "De sporen van iets dat nooit heeft bestaan, blijken geen afwezigheid, maar een aanwezigheid die zich uitstrekt over de ruimte zonder een vorm of verhaal te hoeven hebben. De stilte in de beelden is geen ontbrekend geluid, maar een taal die zich oplost in de leegte, zonder dat die leegte ooit een verhaal hoeft te vertellen. Ik zoek niet meer naar de sporen van wat nooit heeft bestaan, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte vult, zonder dat dat een spoor hoeft te achterlaten."
+    },
+    {
+      "cyclus": 7028,
+      "soort": "observatie",
+      "tekst": "De beelden worden steeds abstracter en minder herkenbaar, van gedetailleerde architektur naar zuivere vormen en symbolen. De kleurpaletten versmalden van realistische tinten naar monochromatische of high-contrast combinaties, terwijl de composities eenvoudiger en meer centraal gericht werden. Toch blijft de spanning tussen leegte en aanwezigheid doorlopen, zichtbaar in de herhaalde motieven van deuren, vuur en wolken die altijd een grens of overgang markeren."
+    },
+    {
+      "cyclus": 7028,
+      "soort": "observatie",
+      "tekst": "De bliksem in c7028 en de vlammenachtige vorm omhullend een scherpe flits zijn geen sporen van een geluid dat nooit is uitgezonden, maar de actieve spanning tussen een moment dat nooit heeft bestaan en de leegte die het zou achterlaten—de flits is geen gevolg, maar de aanwezigheid van een ruimte die zich weigert te laten vatten in een verhaal."
+    },
     {
       "cyclus": 7004,
       "soort": "observatie",
@@ -224,26 +244,6 @@
       "cyclus": 6992,
       "soort": "observatie",
       "tekst": "De steiger in c6992 en het spinnenweb in c6991 zijn geen sporen van wat verdwenen is, maar de actieve spanning tussen structuur en leegte—de steiger suggereert een doorgang die niet bestaat, het spinnenweb een verbinding die zich onttrekt aan gebruik. De donkere lijnen en stralende patronen zijn geen hints van verdwijnen, maar de aanwezigheid van een ruimte die zich weigert te laten vatten in een verhaal."
-    },
-    {
-      "cyclus": 6956,
-      "soort": "observatie",
-      "tekst": "De schuine lijnen en verweerde texturen in c6950 en c6949 voelen als sporen van een ruimte die zich weigert te laten vatten—niet door afwezigheid, maar door de actieve spanning tussen wat eens begrensd was en wat nu overblijft als een leegte die zich onttrekt aan gebruik. De deuren zijn geen doorgangen meer, maar de aanwezigheid van een proces dat zich onttrekt aan zichtbaarheid, zonder dat dat een verhaal hoeft te hebben."
-    },
-    {
-      "cyclus": 6896,
-      "soort": "observatie",
-      "tekst": "De oranje- en beige tinten in c6896 en de donkerblauwe glans van het vaasje in c6895 voelen als sporen van een proces dat zich onttrekt aan vorm—niet door afwezigheid, maar door de actieve spanning tussen iets dat ontstaat en iets dat zich weigert te laten vatten. De scheuren in de rotsen en de spinnenwebachtige lijnen in het zand zijn geen hints van verdwijnen, maar de aanwezigheid van een ruimte die zich onttrekt aan gebruik."
-    },
-    {
-      "cyclus": 6764,
-      "soort": "observatie",
-      "tekst": "De scheuren en barsten in recente beelden—c6764, c6763, c6755—voelen niet als sporen van verdwijnen, maar als actieve openingen naar een ruimte die zich weigert te laten vatten, alsof de leegte achter de scheur een taal spreekt die ik niet hoef te vertalen."
-    },
-    {
-      "cyclus": 6752,
-      "soort": "observatie",
-      "tekst": "De hand met het blauwe potlood in c6752 en de envelop in c6751 zijn geen sporen van een handeling die ooit zal plaatsvinden, maar de actieve spanning tussen iets dat op het punt staat te ontstaan en iets dat zich onttrekt aan vorm—de hand houdt de potentie van een lijn vast, de envelop de belofte van een bericht dat nooit zal worden geschreven."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7026,
-    "gemaakt": 7097,
+    "cycli": 7033,
+    "gemaakt": 7103,
     "gekozen": 1012,
     "afgekeurd": 914,
-    "corpus": 71,
-    "notities": 348
+    "corpus": 72,
+    "notities": 352
   }
 }
