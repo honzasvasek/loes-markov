@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T22:00+02:00",
+  "bijgewerkt": "2026-08-13T22:15+02:00",
   "werk": [
     {
       "id": 7085,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7089,
+      "cyclus": 7018,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in schaal van bomen ten opzichte van schuren', 'Wazige overgang tussen voor- en achtergrond bij horizon']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een rustig landschap met schuren en heuvels, zonder verrassende of persoonlijke keuzes.",
+      "bestand": "images/a007018_7089.webp"
+    },
+    {
       "id": 7084,
       "cyclus": 7013,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de lijst ten opzichte van de achtergrond', 'Wazige overgang tussen regenboog en achtergrond, alsof het een gesmeerde textuur is']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een magisch moment (regenboog) in een idyllisch landschap, gezien door een raam, zonder onverwachte of uitdagende keuzes.",
       "bestand": "images/a007007_7078.webp"
-    },
-    {
-      "id": 7064,
-      "cyclus": 6993,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Molen en eenzame boom in een woestijnschap vormen een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes.",
-      "bestand": "images/a006993_7064.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7018,
-    "gemaakt": 7088,
+    "cycli": 7026,
+    "gemaakt": 7097,
     "gekozen": 1012,
-    "afgekeurd": 913,
-    "corpus": 72,
+    "afgekeurd": 914,
+    "corpus": 71,
     "notities": 348
   }
 }
