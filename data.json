@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T20:45+02:00",
+  "bijgewerkt": "2026-08-13T21:00+02:00",
   "werk": [
+    {
+      "id": 7042,
+      "titel": "Ruitjes die blijven staan",
+      "beschrijving": "Een donkere houten deur met ruitjesglas staat centraal, omringd door een verweerde muur en kale bomen tegen een oranje-roze horizon. De deur reflecteert het licht van de ondergaande zon, terwijl donkere, ruwe penseelstreken de grond en omringende structuren vormen. Verspreide donkere blokken en watervlekken liggen voor de deur, met subtiele hints van gras en modder in de textuur. De achtergrond toont een vaag silhouet van bomen en een lichtgevende zon die de lucht kleurt. De sfeer is rustig en iets verlaten, met een contrast tussen de warme achtergrond en de koele, donkere voorgrond.",
+      "cyclus": 6971,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deur ten opzichte van de muur', 'Enkele takken van de boom lijken zonder logische overgang te verdwijnen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze (deur als focus met reflectie) en geen typisch ansichtkaart-onderwerp",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006971_7042.webp"
+    },
+    {
+      "id": 7040,
+      "titel": "Verkoolde dromen in een roze kader",
+      "beschrijving": "Een roze achtergrond omlijst een waterverfachtig landschap met witte wolken, een blauwe hemel en een horizon van groene bomen en gouden velden. Daaronder bevinden zich donkere, verkoolde houten blokken in diverse vormen en maten, geplaatst in een rasterpatroon. De blokken hebben ruwe, onregelmatige randen en textuurrijke oppervlakken, sommige met sporen van houtvezels of kool. Dunne zwarte lijnen verbinden de blokken onderling, terwijl een langgerekt, rechthoekig blok centraal staat. Kleuren zijn gedempt, met contrast tussen het zachte roze en de donkere houten elementen.",
+      "cyclus": 6969,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in schaduwen onder houtblokken', 'Enkele houtstructuren iets te scherp/getekend']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of decoratief licht; compositie is experimenteel en niet-obvious.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006969_7040.webp"
+    },
     {
       "id": 7032,
       "titel": "Rook die blijft hangen",
@@ -91,32 +117,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006932_7003.webp"
-    },
-    {
-      "id": 6997,
-      "titel": "Wolken die snijden in hout",
-      "beschrijving": "Een witte, wolkvormige schaar snijdt door een lichtbruine houten ondergrond met zichtbare nerf. Onder de wolk loopt een smalle, witte strook die overgaat in een grijze, getande rand, gevolgd door een donkergrijze punt. De schaar heeft een zachte, wollige textuur en werpt een lichte schaduw op het hout. De compositie is centraal en minimalistisch, met een focus op de contrasten tussen de vormen en de textuurverschillen tussen het papier en het hout.",
-      "cyclus": 6926,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006926_6997.webp"
-    },
-    {
-      "id": 6982,
-      "titel": "Korrels zonder horizon",
-      "beschrijving": "Een uitgestrekt, homogeen zandoppervlak vult het beeld, met subtiele variaties in textuur en kleur. Het zand heeft een lichtbeige tot crèmekleurige tint, met kleine, onregelmatige korrels die een zachte, korrelige structuur vormen. Verspreid over het zand liggen enkele minimale details: een paar dunne, lichte strepen die mogelijk door wind of water zijn veroorzaakt, en een paar donkere, minuscule deeltjes die als kleine stippen door het zand steken. De compositie is extreem minimalistisch, zonder duidelijke horizon of objecten, wat een gevoel van rust en leegte uitstraalt. Het licht valt gelijkmatig, zonder scherp gedefinieerde schaduwen, waardoor het zand een bijna vlakke, maar toch textuurrijke uitstraling heeft.",
-      "cyclus": 6911,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; het beeld is radicaal leeg en uitgesproken neutraal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006911_6982.webp"
     }
   ],
   "afgekeurd": [
@@ -313,9 +313,9 @@
     }
   ],
   "metingen": {
-    "cycli": 6979,
-    "gemaakt": 7049,
-    "gekozen": 1005,
+    "cycli": 6987,
+    "gemaakt": 7057,
+    "gekozen": 1007,
     "afgekeurd": 909,
     "corpus": 72,
     "notities": 346
