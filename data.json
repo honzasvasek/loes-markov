@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T18:15+02:00",
+  "bijgewerkt": "2026-08-13T18:30+02:00",
   "werk": [
     {
       "id": 6967,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6978,
+      "cyclus": 6907,
+      "afkeuringsreden": "cliche",
+      "tech_score": 6.0,
+      "tech_notities": "['Duidelijke naad tussen boven- en onderbeeld met mismatch in horizon en lichtval', 'Herhaling van golven en rotsen met lichte vervorming aan randen', 'Onduidelijke textuur in zand en rotsen door overmatige gladstrijking']",
+      "cliche_notities": "Zonsondergang over water met perfecte reflectie en decoratieve compositie zonder onverwachte elementen of standpunt",
+      "bestand": "images/a006907_6978.webp"
+    },
+    {
       "id": 6963,
       "cyclus": 6892,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld combineert een iconisch motief (eenzaam huis in woestijn) met een symbolische regenboog, typisch voor een ansichtkaartachtige, decoratieve compositie zonder duidelijke artistieke keuze.",
       "bestand": "images/a006889_6960.webp"
-    },
-    {
-      "id": 6950,
-      "cyclus": 6879,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch landschap met een symbolische deur naar vrijheid, uitgevoerd in een decoratief waterverf-stijltje zonder onverwachte keuzes.",
-      "bestand": "images/a006879_6950.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6899,
-    "gemaakt": 6970,
+    "cycli": 6908,
+    "gemaakt": 6978,
     "gekozen": 992,
-    "afgekeurd": 897,
+    "afgekeurd": 898,
     "corpus": 72,
     "notities": 345
   }
