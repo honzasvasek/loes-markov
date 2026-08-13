@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T19:45+02:00",
+  "bijgewerkt": "2026-08-13T20:00+02:00",
   "werk": [
     {
       "id": 7008,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7022,
+      "cyclus": 6951,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Molen met klassieke achtergrond en decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a006951_7022.webp"
+    },
+    {
       "id": 7018,
       "cyclus": 6947,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartzonsondergang met iconische compositie en decoratief licht, zonder eigen standpunt.",
       "bestand": "images/a006945_7016.webp"
-    },
-    {
-      "id": 7011,
-      "cyclus": 6940,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de molenwieken ten opzichte van de molen zelf', 'Enkele details in het gras en de achtergrond zijn wat wazig/smeuiig']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, polderlandschap) en decoratief licht zonder duidelijke compositorische of thematische keuze.",
-      "bestand": "images/a006940_7011.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6948,
-    "gemaakt": 7018,
+    "cycli": 6956,
+    "gemaakt": 7026,
     "gekozen": 1001,
-    "afgekeurd": 903,
+    "afgekeurd": 904,
     "corpus": 72,
     "notities": 345
   }
