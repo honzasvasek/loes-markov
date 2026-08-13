@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T14:30+02:00",
+  "bijgewerkt": "2026-08-13T14:45+02:00",
   "werk": [
     {
       "id": 6846,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6856,
+      "cyclus": 6784,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een schuur met iconische details zoals het X-motief en landschap op de achtergrond, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a006784_6856.webp"
+    },
+    {
       "id": 6850,
       "cyclus": 6778,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van wolken (links/rechts)', 'Sterren lijken toegevoegd en niet geïntegreerd in achtergrond']",
       "cliche_notities": "Regenboog met wolken en sterren is een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes",
       "bestand": "images/a006777_6849.webp"
-    },
-    {
-      "id": 6838,
-      "cyclus": 6766,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Sommige panelen tonen lichte vervormingen in houtstructuren en inconsistenties in sneeuwtextuur', 'Enkele deuren hebben onnatuurlijke proporties of ontbrekende details', 'Smeuiige overgangen tussen panelen in collage']",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door de iconische winterlandschappen met houten hutten en sneeuw, zonder duidelijke compositorische of thematische afwijking.",
-      "bestand": "images/a006766_6838.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6779,
-    "gemaakt": 6850,
+    "cycli": 6787,
+    "gemaakt": 6859,
     "gekozen": 970,
-    "afgekeurd": 881,
+    "afgekeurd": 882,
     "corpus": 75,
     "notities": 344
   }
