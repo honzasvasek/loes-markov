@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T02:45+02:00",
+  "bijgewerkt": "2026-08-13T03:00+02:00",
   "werk": [
+    {
+      "id": 6474,
+      "titel": "Hand in zand, schaduw kijkt toe",
+      "beschrijving": "Een hand raakt een gladde, bruine massa die over een wit oppervlak is verspreid, met sporen van beweging en golvende patronen. Naast de massa bevindt zich een glazen fles, deels gevuld met een donkere, korrelige stof die lijkt op zand. Het zand is ook verspreid over het oppervlak, met kleine hoopjes en fijne korrels die de textuur van de scène verrijken. In de achtergrond valt een scherp silhouet van een hoofd en haar op het witte vlak, met een donkere schaduw die de vorm benadrukt. De kleuren zijn overwegend neutraal: wit, bruin en beige, met subtiele variaties in licht en donker die diepte aanbrengen. De compositie straalt een rustige, bijna meditatieve sfeer uit, met een focus op tactiele materialen en natuurlijke texturen.",
+      "cyclus": 6400,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in schaduwval van hand vs. fles', 'Zandtextuur iets te uniform/herhalend']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een experimentele, niet-bevestigende kwaliteit.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006400_6474.webp"
+    },
     {
       "id": 6459,
       "titel": "Vonken in de sneeuwsteen",
@@ -104,22 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006334_6408.webp"
-    },
-    {
-      "id": 6401,
-      "titel": "Mist die deuren kust",
-      "beschrijving": "Twee houten deuren staan centraal, omgeven door een dichte, mistige sfeer die de ruimte vervult. Boven de deuren loopt een houten constructie met diagonale en horizontale latten, waar slanke, hangende takken met smalle bladeren doorheen vallen. De achtergrond wordt gevormd door donkere boomstammen en een vaag zichtbare hemel door het bladerdak. Roken of mist sluipt rond de deuren en verspreidt zich naar voren, waarbij het de voorgrond domineert. Onder de deuren zijn vaag stenen of blokken te zien, gedeeltelijk bedekt door de mist. De kleuren zijn gedomineerd door koele blauwe en grijze tinten, met subtiele contrasten tussen de donkere houten elementen en de lichte, ethereal mist.",
-      "cyclus": 6327,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de boomtakken boven de deur', 'Wazige overgang tussen rook en achtergrond bij de randen van het beeld']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, verbeelding prikkende sfeer die beyond een typische ansichtkaart gaat",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006327_6401.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6473,
+      "cyclus": 6399,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in pootstructuren van sommige gans (te slank/vervormd)', 'Wazige achtergrondtextuur (gras/bomen) toont herhaalpatronen', 'Halo-effect rond vliegende gansen tegen hemel']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische gans in een idyllisch landschap met perfect zacht licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a006399_6473.webp"
+    },
     {
       "id": 6463,
       "cyclus": 6389,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van het uitzicht', 'Wazige overgang tussen de deuren en de achtergrond']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch dorpje met perfecte belichting en geen duidelijke compositorische keuze.",
       "bestand": "images/a006380_6454.webp"
-    },
-    {
-      "id": 6441,
-      "cyclus": 6367,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur bij dakkapellen (soms scherp, soms wazig)', 'Gezichten op hout lijken geplakt (geen natuurlijke integratie met houtstructuur)']",
-      "cliche_notities": "Molens en polderlandschap in achtergrond vormen typisch Nederlands ansichtkaartmotief zonder verrassende invalshoek.",
-      "bestand": "images/a006367_6441.webp"
     }
   ],
   "onderzoek": {
@@ -309,10 +309,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6396,
-    "gemaakt": 6470,
-    "gekozen": 901,
-    "afgekeurd": 828,
+    "cycli": 6405,
+    "gemaakt": 6478,
+    "gekozen": 902,
+    "afgekeurd": 829,
     "corpus": 74,
     "notities": 334
   }
