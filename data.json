@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T04:45+02:00",
+  "bijgewerkt": "2026-08-13T05:00+02:00",
   "werk": [
+    {
+      "id": 6533,
+      "titel": "Schuim tussen de rafels",
+      "beschrijving": "Houten planken liggen verspreid op een groen grasveld, gedeeltelijk bedekt met wit schuim dat bubbels en holtes vormt. Een metalen scharnier verbindt twee planken, terwijl een andere plank schuin tegen de andere aan rust. Het schuim slipt tussen de houten structuren door en omhult delen van het gras, dat door de bubbels heen zichtbaar blijft. De planken tonen sporen van slijtage, met rafelige randen en donkere vlekken. Het schuim heeft een zachte, wazige textuur, in contrast met de scherpe, lineaire vormen van het hout en het gras.",
+      "cyclus": 6459,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur bij scharnier', 'Sommige bubbels hebben onnatuurlijke, herhalende patronen', 'Schaduw onder houten latten ontbreekt consistentie']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is ongewoon en niet typisch ansichtkaartmateriaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006459_6533.webp"
+    },
     {
       "id": 6526,
       "titel": "Roze tegen groen met sterren",
@@ -13,6 +26,19 @@
       "curriculum_score": 4.0,
       "gekozen": 1,
       "bestand": "images/w006452_6526.webp"
+    },
+    {
+      "id": 6524,
+      "titel": "Regenboog in een fles met wolken",
+      "beschrijving": "Een glazen fles met een kurk staat centraal, gevuld met een regenboog van kleuren die van paars en blauw overgaan in oranje en geel. Rond de fles zweven witte en grijze wolken met zachte, wazige randen, waarbij enkele regendruppels naar beneden vallen. Onder de fles spiegelt een blauwe, golvende vorm met hints van geel en zwart, die een wateroppervlak suggereert. De achtergrond is egaal bruin, wat de fles en de omringende elementen doet uitkomen. Kleuren en vormen stralen een dromerige, bijna magische sfeer uit.",
+      "cyclus": 6450,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de fles ten opzichte van de reflectie', 'Wazige overgang tussen regenboogkleuren en glasstructuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigenzinnige, dromerige sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006450_6524.webp"
     },
     {
       "id": 6522,
@@ -91,61 +117,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006425_6499.webp"
-    },
-    {
-      "id": 6491,
-      "titel": "Waar blijft de regen?",
-      "beschrijving": "Twee kale bomen met witte, takachtige lijnen staan aan weerszijden van een donkere, verticale ruimte, verbonden door een rechte witte lijn aan de onderkant. Boven hen zweven twee onregelmatige, witte wolken met golvende contouren, waaruit fijne, verticale strepen naar beneden vallen. Rechtsboven is een donkere, rechthoekige vorm met een smalle uitsteeksels zichtbaar. De achtergrond is egaal donkergrijs, waardoor de witte elementen scherp afsteken. De compositie is symmetrisch, met de bomen en wolken die een open, bijna raamachtige structuur vormen.",
-      "cyclus": 6417,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in takstructuren (links/rechts niet spiegelbeeldig)', 'Regenstrepen iets te uniform/lineair']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte voorstelling met ruimte voor interpretatie",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006417_6491.webp"
-    },
-    {
-      "id": 6487,
-      "titel": "De steen die antwoordt",
-      "beschrijving": "Een zandige, golvende landschapsscene met een smalle, donkere spleet die diagonaal door het midden loopt. In die spleet rust een ronde, lichtgekleurde steen met donkere vlekken. Rondom de spleet groeien verspreid kleine groene grassprietjes. De achtergrond wordt gevormd door een blauwe hemel met zachte, witte wolken die de bovenste helft van het beeld vullen. De kleuren zijn gedempt, met bruine en beige tinten voor het zand en donkergrijze tot zwarte schaduwen in de spleet. De compositie straalt rust uit, met de steen als stiltecentrum in het landschap.",
-      "cyclus": 6413,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave van zand (soms te glad, soms te korrelig)', 'Gezichtsloze plantenfiguren wat schematisch/getekend in plaats van natuurlijk']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of typisch toeristisch onderwerp; compositie is gericht op een intieme, bijna abstracte weergave van een natuurlijk moment.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006413_6487.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 6528,
-      "cyclus": 6454,
+      "id": 6542,
+      "cyclus": 6468,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de windmolen (som wat pixelig)', 'Sommige takken van de bomen zijn onnatuurlijk dun en willekeurig geplaatst']",
-      "cliche_notities": "Dit is een typische Nederlandse ansichtkaartcompositie: molens, kale bomen en een dramatische hemel zonder verrassende of persoonlijke keuzes.",
-      "bestand": "images/a006454_6528.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een regenboog boven een oneindig landschap, zonder onverwachte of persoonlijke compositorische keuzes.",
+      "bestand": "images/a006468_6542.webp"
     },
     {
-      "id": 6523,
-      "cyclus": 6449,
+      "id": 6540,
+      "cyclus": 6466,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in reflectie van fles in water (te scherp/te strak)', 'Kleurenregenboog iets te perfect/glad, mist natuurlijke variatie']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: idyllisch landschap met kerkje, regenboog en symbolisch flesje, zonder onverwachte of uitdagende keuzes.",
-      "bestand": "images/a006449_6523.webp"
+      "tech_notities": "['Lichte inconsistentie in perspectief van bomen links/rechts', 'Enkele vruchten hebben onnatuurlijke vorm/positie']",
+      "cliche_notities": "Regenboog + fruitboomgaard + alleenstaande figuur vormt klassieke ansichtkaartcompositie zonder verrassend standpunt",
+      "bestand": "images/a006466_6540.webp"
     },
     {
-      "id": 6512,
-      "cyclus": 6438,
+      "id": 6536,
+      "cyclus": 6462,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen onder vogels (sommige ontbreken, andere te donker)', 'Regelmatige herhaling van vogelfiguren suggereert mogelijk generatief patroon']",
-      "cliche_notities": "Compositie en onderwerp (vogels in vlucht boven landschap met regenboog) stralen typisch ansichtkaart-esthetiek uit zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a006438_6512.webp"
+      "tech_notities": "['Lichte inconsistentie in perspectief van de molenwieken ten opzichte van de molen', 'Enkele grassprietjes in de voorgrond hebben onnatuurlijke, herhalende vormen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en een sentimentele toevoeging (brief, kaars) zonder duidelijke artistieke verbeelding of onverwachte keuzes.",
+      "bestand": "images/a006462_6536.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6462,
-    "gemaakt": 6535,
-    "gekozen": 912,
-    "afgekeurd": 836,
-    "corpus": 77,
+    "cycli": 6471,
+    "gemaakt": 6544,
+    "gekozen": 914,
+    "afgekeurd": 839,
+    "corpus": 76,
     "notities": 335
   }
 }
