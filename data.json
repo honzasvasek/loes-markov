@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-13T04:00+02:00",
+  "bijgewerkt": "2026-08-13T04:15+02:00",
   "werk": [
+    {
+      "id": 6505,
+      "titel": "Vlammen die vragen stellen",
+      "beschrijving": "Een donkere, houten deur staat op een kier, waarachter een donkere ruimte met sterrenachtige stippen zichtbaar wordt. Witte bladeren en slanke takken steken door het donker, terwijl gestileerde vlammen van onderaf omhoog likken. De vlammen hebben een vloeiende, bijna menselijke vorm, met scherpe punten en zachte golven. Onderaan de deur ligt een patroon van keien of stenen, getekend met korte, krachtige lijnen. De deur zelf heeft een klassieke, paneelvormige structuur met een ronde klink. De contrasten tussen zwart en wit zijn scherp, waardoor de beweging van de vlammen en de rust van de bladeren sterk opvallen. De compositie is verticaal en symmetrisch, met de deur als centraal element dat de kijker naar binnen trekt.",
+      "cyclus": 6431,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is bewust asymmetrisch en suggestief.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006431_6505.webp"
+    },
+    {
+      "id": 6503,
+      "titel": "De deur die niet bestaat",
+      "beschrijving": "Een kronkelende rivier snijdt door een glooiend landschap met weelderig groen en zandige vlaktes. Aan de linker-oever staat een donkere, rechthoekige deur zonder omhulling, schuin in het landschap geplaatst. De rivieroppervlakte reflecteert zacht blauw en wit licht, met golven die in vloeiende lijnen bewegen. Rotsen en kussens van gras en struikgewas omzoomen de oevers, terwijl in de verte donkere bomen en heuvels de horizon vormen. Een enkele, kale boom stekt rechts omhoog, met uitgestrekte takken tegen een lichte hemel. Gele bloemen en kleine details zoals mossus en moskleurige textuur geven het tafereel een levendige, bijna tactiele uitstraling.",
+      "cyclus": 6429,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de boom aan de rechterkant', 'Enkele textuurdetails in het water zijn wat wazig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, bijna naïeve stijl en geen typisch ansichtkaart-compositie of onderwerp.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w006429_6503.webp"
+    },
+    {
+      "id": 6502,
+      "titel": "Waar de wortels zuchten",
+      "beschrijving": "Een donkerblauwe, kale boom met uitgestrekte takken domineert het beeld, met wortels die zich uitstrekken over de onderkant. Rechts van de boom staat een glazen fles met een smalle hals, waaruit een lichte, wazige rook of vlam opstijgt en zich verstrengelt met de takken. De achtergrond is eenduidig blauw, met een lichte verloop naar wit aan de randen. De boom en de fles staan scherp tegen deze achtergrond afgetekend, met een bijna etere sfeer door de monochromatische kleurstelling en de zachte overgangen tussen licht en donker.",
+      "cyclus": 6428,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de boomstam (overgang donker/licht)', 'Rook mist plausibele dynamiek (te statisch/vlak)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is ongewoon en suggestief, niet bevestigend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006428_6502.webp"
+    },
     {
       "id": 6499,
       "titel": "Takken die de stilte doorsnijden",
@@ -78,48 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006385_6459.webp"
-    },
-    {
-      "id": 6455,
-      "titel": "Vonkenregen op hout",
-      "beschrijving": "Een houten schuurdeur met verticale planken en een diagonale verstevigingslat domineert het beeld. Een regenboog strekt zich uit van de bovenkant van de deur tot net boven een witte, wollige wolk in de rechteronderhoek. Kleine sterrenvormige vonken zweven rond, waarvan één dicht bij de bovenkant van de deur en een andere rechtsboven de regenboog. Een groen blaadje steekt rechts onderaan uit, naast wat lijkt op dunne, droge takjes. Het hout toont natuurlijke textuur met knoesten en slijtage, terwijl de regenboog heldere kleuren vertoont: rood, oranje, geel, groen, blauw en paars. De compositie combineert rustige houtstructuren met speelse, magische elementen.",
-      "cyclus": 6381,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur bij regenboogprojectie', 'Sterren-effecten lijken toegevoegd en niet natuurlijk geïntegreerd']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen typisch ansichtkaartmotief; de combinatie van regenboog en houten deur is ongebruikelijk en heeft een eigen compositorisch karakter",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006381_6455.webp"
-    },
-    {
-      "id": 6444,
-      "titel": "Rook uit gebroken glas",
-      "beschrijving": "Een glazen kop met een diepe, V-vormige scheur staat centraal op een zandige vlakte, omringd door donkere, onregelmatige stenen en droog gras. De kop is deels gevuld met een donkere vloeistof, waaruit een lichte rookstroom opstijgt. Een kleine, oranje vlek bevindt zich aan de binnenkant van de kop. De achtergrond vervaagt in een nevelige, lichtgekleurde horizon, waardoor de kop scherp afsteekt tegen het zand. De textuur van het zand is fijn en ongelijkmatig, met verspreide droge plantendelen. De kop werpt een zachte schaduw op het zand, en de scheur reflecteert het omgevingslicht.",
-      "cyclus": 6370,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de reflectie op de kop van de mok, wat de realiteit iets verzwakt', 'Randen van de gebroken mok zijn iets te scherp en kunstmatig recht, wat niet natuurlijk overkomt']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief, maar heeft een ongemakkelijke, denkprikkende sfeer",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006370_6444.webp"
-    },
-    {
-      "id": 6434,
-      "titel": "Twee daken, één weg",
-      "beschrijving": "Een landschap met twee huizen op een heuvel, getekend in donkere en lichte tinten van grijs en zwart. Een kronkelende weg loopt van de voorgrond naar de huizen, omgeven door donkere vlekken die bomen en struiken suggereren. De achtergrond bestaat uit een onscherpe, getextureerde hemel met verspreide donkere vlekken. Rechtsboven staat een kleinere, donkerdere woning naast een groter, lichter huis met een schuin dak. Donkere, spetterende vormen langs de weg en bij de huizen geven de indruk van vegetatie of rotsen. De compositie straalt een rustige, iets verlaten sfeer uit, met een focus op de relatie tussen de gebouwen en het omringende landschap.",
-      "cyclus": 6360,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van huizen (dak van middelste huis loopt te schuin)', 'Enkele vervormde takken boom links (te veel herhaling patronen)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte, sfeervolle weergave met persoonlijke compositorische keuzes (bijv. de kronkelende weg als leidende lijn).",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006360_6434.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6512,
+      "cyclus": 6438,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in schaduwen onder vogels (sommige ontbreken, andere te donker)', 'Regelmatige herhaling van vogelfiguren suggereert mogelijk generatief patroon']",
+      "cliche_notities": "Compositie en onderwerp (vogels in vlucht boven landschap met regenboog) stralen typisch ansichtkaart-esthetiek uit zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a006438_6512.webp"
+    },
     {
       "id": 6511,
       "cyclus": 6437,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch kerkje met perfecte gouden uurwerk-achtige verlichting, omringd door idyllisch grasland en een openstaande deur die de toeschouwer uitnodigt tot een romantisch verhaal, zonder compositorische verrassingen of een uniek standpunt.",
       "bestand": "images/a006424_6498.webp"
-    },
-    {
-      "id": 6490,
-      "cyclus": 6416,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de verre heuvels', 'Enkele dieren hebben iets onnatuurlijke proporties']",
-      "cliche_notities": "Dit is een typisch landschap met weidse natuur, koeien en een dramatische wolkenlucht, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a006416_6490.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6437,
-    "gemaakt": 6511,
-    "gekozen": 906,
-    "afgekeurd": 833,
-    "corpus": 74,
+    "cycli": 6446,
+    "gemaakt": 6519,
+    "gekozen": 909,
+    "afgekeurd": 834,
+    "corpus": 75,
     "notities": 334
   }
 }
