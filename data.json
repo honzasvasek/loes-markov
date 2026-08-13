@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T12:00+02:00",
+  "bijgewerkt": "2026-08-13T12:15+02:00",
   "werk": [
+    {
+      "id": 6778,
+      "titel": "Sporen die liegen",
+      "beschrijving": "Een zandweg met diepe, parallelle bandensporen loopt recht naar de horizon, waar droge, bruine rietstengels de achtergrond vormen. Het zand heeft een warme, roodbruine tint en toont subtiele textuurverschillen: gladde oppervlakken afgewisseld met grove, korrelige plekken waar de sporen dieper zijn. De rietstengels staan dicht op elkaar, met slanke, gebroken stengels die in verschillende hoogtes de lucht in reiken. De hemel erboven is lichtgrijs en egale, zonder wolken of zonlicht. De compositie is symmetrisch, met de weg als centrale as die het beeld in twee gelijke helften deelt. De sfeer is rustig en verlaten, met een gevoel van eenzaamheid en stilte.",
+      "cyclus": 6704,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of decoratief perfect licht; de compositie is gericht op sporen en stilte, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006704_6778.webp"
+    },
+    {
+      "id": 6775,
+      "titel": "Beton drinkt de horizon op",
+      "beschrijving": "Een verlaten, smalle betonnen waterloop loopt diagonaal door het beeld, omgeven door overwoekerd onkruid en dode plantenstengels. Rechts loopt een bakstenen muur parallel aan de waterloop, met daarboven een smalle horizon waar bomen en een verlaten landschap vaag zichtbaar zijn. De textuur van het beton is ruw en verweerd, met donkere vlekken en losse stenen. Het licht valt schuin, waardoor schaduwen diep en scherp zijn. Boven in het beeld bevindt zich een textblok met Aziatische karakters, dat de bovenste derde van de compositie inneemt. De algehele sfeer is verlaten en verwaarloosd, met een gevoel van stilte en vergetelheid.",
+      "cyclus": 6701,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte vervorming in de Chinese karakters (onscherpe randen, inconsistentie in grootte)', 'Textuur in het gras en puin wat wazig/smeuiig, maar niet kritiek', 'Perspectief van de muur iets onnatuurlijk schuin, maar nog plausibel']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en de tekst voegt een onrustige laag toe.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006701_6775.webp"
+    },
     {
       "id": 6764,
       "titel": "Scheuren in de realiteit",
@@ -91,35 +117,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006650_6724.webp"
-    },
-    {
-      "id": 6714,
-      "titel": "Regenboog door de deur",
-      "beschrijving": "Tussen donkergrijze, waterverfacht getekende bergen met ruwe, donkere randen bevindt zich een witte, rechthoekige deur met zes panelen en een donkere klink. Onder deze deur stroomt een verticale regenboog van paars tot rood naar beneden, waarbij de kleuren overgaan in een lichtere, vaagere gloed. Verder naar beneden, op een breder deel van het landschap, staat een identieke deur, maar dan in een gedempte grijstint, met een regenboog die vanaf deze deur diagonaal naar rechtsbeneden loopt. De achtergrond is een egaal lichtgrijze, textuurloze vlakte, terwijl de bergen subtiele schaduwvlakken en donkere vlekken hebben. De compositie is symmetrisch rond de verticale as, met de deuren en regenbogen als centrale elementen die een gevoel van diepte en beweging creëren.",
-      "cyclus": 6640,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van het landschap', 'Regenboog mist subtieler overgang tussen kleuren, wat artificieel overkomt']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert surrealistische elementen (deuren met regenboog) met een minimalistisch landschap, wat afwijkt van een typische ansichtkaartcompositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006640_6714.webp"
-    },
-    {
-      "id": 6707,
-      "titel": "Hout dat zwemt op water",
-      "beschrijving": "Een houten steiger strekt zich uit over helder, lichtblauw water met zachte golven. De planken van de steiger hebben een verweerde textuur met lichte en donkere houtvezels, en zijn bevestigd met metalen bouten. Rechtsboven loopt het water tot aan de rand van de steiger, waar de overgang soepel is. In de voorgrond staat een houten bankje met een metalen onderstel, schuin geplaatst ten opzichte van de steiger. Het bankje heeft een gladde, iets donkerdere houten zitting en leuning, met zichtbare schroeven en een lichte schaduw die op de steiger valt. De kleuren zijn gedempt, met beige en grijsbruine tinten voor het hout en een koele, doorschijnende blauwtint voor het water. De compositie is rustig en symmetrisch, met de steiger die diagonaal door het beeld loopt en het water dat de rechterbovenhoek vult.",
-      "cyclus": 6633,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands motief; compositie is gericht op leegte en textuur, niet op een bevestigend landschap.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006633_6707.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6777,
+      "cyclus": 6703,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in boomstammen: sommige takken verdwijnen abrupt zonder logische vertakking', 'Regenboog heeft onnatuurlijke scherpe randen tegen de achtergrond, alsof het een decal is']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een magische regenboog na de regen, met een verlaten schuur als decoratieve rand—geen verrassende of persoonlijke keuzes.",
+      "bestand": "images/a006703_6777.webp"
+    },
+    {
+      "id": 6776,
+      "cyclus": 6702,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de wieken ten opzichte van de toren', 'Enkele ramen hebben onduidelijke randen']",
+      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen met iconische compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a006702_6776.webp"
+    },
     {
       "id": 6760,
       "cyclus": 6686,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de windmolen (wieken lijken niet helemaal in lijn met de romp)', 'Textuur van het krijtwerk is wat ongelijkmatig, met plekken waar het materiaal te fijn is verdeeld']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molen met een romantische, lege weg ernaartoe, zonder verrassende of persoonlijke invalshoek.",
       "bestand": "images/a006686_6760.webp"
-    },
-    {
-      "id": 6757,
-      "cyclus": 6683,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte halo rond regenboog tegen hemel', 'Textuur hout wat repetitief in middenvlak']",
-      "cliche_notities": "Regenboog boven houten hek is een typisch iconisch motief zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a006683_6757.webp"
-    },
-    {
-      "id": 6749,
-      "cyclus": 6675,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de kerkruïne (toren lijkt niet loodrecht)', 'Wazige overgang tussen water en oever, wat de diepte verzwakt']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische kerkruïne met romantisch licht en een klassieke waterreflectie, zonder verrassende of persoonlijke invalshoek.",
-      "bestand": "images/a006675_6749.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6699,
-    "gemaakt": 6772,
-    "gekozen": 954,
-    "afgekeurd": 869,
+    "cycli": 6707,
+    "gemaakt": 6780,
+    "gekozen": 956,
+    "afgekeurd": 871,
     "corpus": 73,
     "notities": 341
   }
