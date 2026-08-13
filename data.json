@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T17:00+02:00",
+  "bijgewerkt": "2026-08-13T17:15+02:00",
   "werk": [
+    {
+      "id": 6926,
+      "titel": "Rook die de brug opzoekt",
+      "beschrijving": "Een houten loopbrug van planken met zichtbare schroeven leidt naar een openstaande witte deur met twee ruitvormige panelen en een donkere kruk. Links en rechts van de brug groeien sprietige grassen en kleine planten met ronde bladeren. Rechts van de deur stijgt een wazige, rookachtige vorm op in donkere, golvende lijnen, terwijl de achtergrond links donker en textuurloos is. De brug heeft een verweerd uiterlijk met schuine lijnen en donkere vlekken, en de deur werpt een schaduwwiel op de planken.",
+      "cyclus": 6855,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de houten planken (niet-lineaire verdwijnpunt)', 'Wazige overgang tussen rook en achtergrond, wat een smeuiig effect geeft']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, verbeelding opwekkende sfeer in plaats van een typisch iconisch onderwerp.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006855_6926.webp"
+    },
+    {
+      "id": 6920,
+      "titel": "Waar blijft de schilder?",
+      "beschrijving": "Een hand houdt een rechthoekig porseleinen paneel vast met een waterverfachtig landschap. In het midden staan witte huizen met oranje en blauwe daken, omringd door groene bomen en heuvels in zachte blauwe en groene tinten. Voor de huizen loopt een lichtgroene weide met kleine, kleurige bloemen en grassprijsel. De achtergrond toont vaag omlijnde bergen in lichtblauw. Onder het landschap bevindt zich een brede, witte, textuurrijke laag met subtiele groene en blauwe vlekken, die overgaat in een golvende lijn die het landschap van de rest scheidt. De randen van het paneel zijn licht onregelmatig en glanzend.",
+      "cyclus": 6849,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de huizen aan de horizon', 'Enkele bomen hebben onnatuurlijke, vervormde takken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel het een landschap is, ontbreekt het aan de typische ansichtkaart-elementen zoals iconische symbolen of een bevestigende compositie; de focus ligt op een intiem, persoonlijk moment.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006849_6920.webp"
+    },
     {
       "id": 6914,
       "titel": "Rook door het paneel",
@@ -91,35 +117,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006811_6882.webp"
-    },
-    {
-      "id": 6877,
-      "titel": "Gebroken symmetrie in blauw",
-      "beschrijving": "Een verweerde houten muur met verticale planken vormt de achtergrond, waar een kleine, blauwe houten deur met vier panelen in is geïntegreerd. Onder de deur hangt een witte keramische kom met blauwe bloemmotieven, die een scherpe schaduw werpt op het hout. De kom heeft een onregelmatige, gebroken rand en een smalle opening aan de bovenzijde. Het hout vertoont sporen van slijtage, met afblazende verf en natuurlijke houtnerf. De blauwe deur en de kom delen een vergelijkbare kleurstelling, maar de kom introduceert een glanzende, gladde textuur in tegenstelling tot het ruwe hout. Zonlicht valt schuin op het tafereel, waardoor diepe schaduwen en heldere highlights ontstaan.",
-      "cyclus": 6806,
-      "tech_score": 9.0,
-      "tech_notities": "[\"Lichte inconsistentie in houttextuur rechtsboven: planks lijken te 'schone' als de rest\", 'Schaduw van de kom is iets te perfect gesloten bij de muur, alsof de kom erdoorheen gaat']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands motief; de combinatie van kapotte kom en verweerde muur is ongewoon en heeft een eigen compositorische spanning",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006806_6877.webp"
-    },
-    {
-      "id": 6863,
-      "titel": "Hout en horizon in spiegelwachting",
-      "beschrijving": "Twee identieke landschappen, gescheiden door een smalle, mistige horizon, tonen een laan van bladloze bomen die zich uitstrekken naar een heldere, stralende zon in de verte. Het grondoppervlak is bedekt met onregelmatige, donkere houten blokken en stenen, doorspekt met spitse, grasachtige planten die in patronen lijken te groeien. De bomen vormen een symmetrische, bijna spiegelbeeldige compositie, met hun takken die zich uitstrekken als donkere silhouetten tegen de lichte hemel. De sfeer is stil en verlaten, met een scherp contrast tussen de donkere voorgrond en de lichte, open achtergrond.",
-      "cyclus": 6791,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in boomstructuren (sommige takken te symmetrisch/herhaald)', 'Subtiele halo rond zonsondergang', 'Detailverlies in donkere grondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een onpersoonlijk, bijna onwerkbare compositie met afval en dood hout, wat een ongemakkelijke, niet-decoratieve sfeer oproept.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006791_6863.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6935,
+      "cyclus": 6864,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte onscherpte in de achtergrondbomen, regenboog iets te perfect gesegmenteerd', 'Gras in voorgrond wat wazig, maar plausibel']",
+      "cliche_notities": "Regenboog boven typisch landschap met boerderij en bomen is een klassiek ansichtkaartmotief zonder verrassende compositie",
+      "bestand": "images/a006864_6935.webp"
+    },
+    {
+      "id": 6933,
+      "cyclus": 6862,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in vensterproporties (linkerboven vs rechterboven)', 'Sommige bloemdetails in voorgrond wat wazig/smeuiig']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch huis met regenboog, perfect licht en decoratieve bloemen zonder diepere compositorische keuze.",
+      "bestand": "images/a006862_6933.webp"
+    },
     {
       "id": 6928,
       "cyclus": 6857,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte vervorming in de overgang tussen de wieken en de as', 'Textuur van het zand is wat wazig/gesmeerd']",
       "cliche_notities": "Molen als iconisch Nederlands symbool in een typisch landschap, zonder verrassende compositorische keuzes",
       "bestand": "images/a006857_6928.webp"
-    },
-    {
-      "id": 6927,
-      "cyclus": 6856,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurovergang tussen hout en achtergrond', 'Regenboog iets te perfect gesegmenteerd, mist natuurlijke diffusie']",
-      "cliche_notities": "Het landschap met regenboog en bloemenveld is een klassiek ansichtkaartmotief zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a006856_6927.webp"
-    },
-    {
-      "id": 6922,
-      "cyclus": 6851,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen op het hoofdak (linksboven vs rechtsonder)', 'Wazige overgang tussen hemel en wolken aan de horizon']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: idyllisch boerderijlandschap met kerkje, perfect licht en geen verrassende beeldkeuzes.",
-      "bestand": "images/a006851_6922.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6859,
-    "gemaakt": 6930,
-    "gekozen": 982,
-    "afgekeurd": 891,
-    "corpus": 74,
+    "cycli": 6868,
+    "gemaakt": 6938,
+    "gekozen": 984,
+    "afgekeurd": 893,
+    "corpus": 75,
     "notities": 344
   }
 }
