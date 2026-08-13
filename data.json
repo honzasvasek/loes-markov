@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T07:45+02:00",
+  "bijgewerkt": "2026-08-13T08:00+02:00",
   "werk": [
     {
       "id": 6631,
@@ -121,31 +121,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 6634,
-      "cyclus": 6560,
+      "id": 6644,
+      "cyclus": 6570,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte smeuiïgheid in horizonlijn, subtiele textuurvervorming in zand', 'Zeer subtiel halo-effect rond zon']",
-      "cliche_notities": "Zonsondergang over water is een klassiek ansichtkaartmotief zonder duidelijke compositorische of thematische afwijking.",
-      "bestand": "images/a006560_6634.webp"
+      "tech_notities": "['Lichte inconsistentie in perspectief van de molenwieken', 'Enkele wazige overgangen in de achtergrond']",
+      "cliche_notities": "Molen in landschap is een klassiek iconisch onderwerp zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a006570_6644.webp"
     },
     {
-      "id": 6627,
-      "cyclus": 6553,
+      "id": 6640,
+      "cyclus": 6566,
       "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van huizen achterin', 'Sommige plantendelen hebben onnatuurlijke, herhalende patronen', 'Regendruppels op regenboog ontbreken plausibiliteit']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een magische regenboog, nostalgische huizen en een romantiserend pad door het gras—zonder onverwachte keuzes of diepgang.",
-      "bestand": "images/a006553_6627.webp"
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van boomstam (somewhere overgang hout/zwart)', 'Rand van regenboog iets ongelijkmatig']",
+      "cliche_notities": "Regenboog + boom is een klassiek symbolisch paar zonder verrassende compositorische keuze",
+      "bestand": "images/a006566_6640.webp"
     },
     {
-      "id": 6620,
-      "cyclus": 6546,
+      "id": 6636,
+      "cyclus": 6562,
       "afkeuringsreden": "cliche",
       "tech_score": 9.0,
       "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorpje gezien door een hek, met gestileerde bomen en een perfecte balans tussen kleur en lijn, zonder onverwachte keuzes.",
-      "bestand": "images/a006546_6620.webp"
+      "cliche_notities": "Molen in landschap met decoratief licht en typisch Nederlands thema zonder duidelijke compositorische keuze.",
+      "bestand": "images/a006562_6636.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6562,
-    "gemaakt": 6635,
+    "cycli": 6571,
+    "gemaakt": 6645,
     "gekozen": 932,
-    "afgekeurd": 851,
-    "corpus": 80,
+    "afgekeurd": 854,
+    "corpus": 78,
     "notities": 335
   }
 }
