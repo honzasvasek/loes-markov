@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T13:00+02:00",
+  "bijgewerkt": "2026-08-13T13:15+02:00",
   "werk": [
     {
       "id": 6795,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6810,
+      "cyclus": 6736,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de molenwiek linksboven', 'Wazige overgang tussen voorgrond en achtergrond bij de horizon', 'Enkele handen-achtige vormen in het gras lijken onbedoeld vervormd']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, stug landschap) en een decoratief, neutraal licht zonder duidelijke compositorische keuze.",
+      "bestand": "images/a006736_6810.webp"
+    },
+    {
       "id": 6796,
       "cyclus": 6722,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief: de regenboog lijkt niet perfect symmetrisch boven het landschap te zweven, de randen van de bollen aan weerszijden zijn iets te plat/getekend, textuur van het gras is plaatselijk wat schematisch/wazig', 'Geen ernstige artefacten zoals vervormde handen of onmogelijke geometrie']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische regenboog boven een simplistisch landschap met decoratief licht en geen duidelijke compositorische keuze of eigen stem",
       "bestand": "images/a006712_6786.webp"
-    },
-    {
-      "id": 6777,
-      "cyclus": 6703,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in boomstammen: sommige takken verdwijnen abrupt zonder logische vertakking', 'Regenboog heeft onnatuurlijke scherpe randen tegen de achtergrond, alsof het een decal is']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een magische regenboog na de regen, met een verlaten schuur als decoratieve rand—geen verrassende of persoonlijke keuzes.",
-      "bestand": "images/a006703_6777.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6731,
-    "gemaakt": 6804,
+    "cycli": 6739,
+    "gemaakt": 6812,
     "gekozen": 961,
-    "afgekeurd": 873,
-    "corpus": 73,
+    "afgekeurd": 874,
+    "corpus": 76,
     "notities": 342
   }
 }
