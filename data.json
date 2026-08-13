@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T11:00+02:00",
+  "bijgewerkt": "2026-08-13T11:15+02:00",
   "werk": [
+    {
+      "id": 6735,
+      "titel": null,
+      "beschrijving": "Een donkere, smalle deur met verticale latten staat schuin in een textuurrijk landschap van zand en gras, omringd door witte, adervergelijkbare lijnen die door het beeld lopen. Een lange, donkere pen met een zilveren punt rust diagonaal tegen de deur aan en werpt een scherpe schaduw. Rond de deur liggen verspreide, donkere fragmenten die lijken op afval of dode vegetatie. De achtergrond toont een mengeling van donkere en lichte gebieden, met subtiele sporen van voetstappen en onregelmatige patronen in het zand. De compositie straalt een gevoel van verlatenheid en stilte uit, met de deur als centraal punt van spanning tussen binnen- en buitenruimte.",
+      "cyclus": 6661,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en uitnodigend voor interpretatie, geen bevestiging.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006661_6735.webp"
+    },
+    {
+      "id": 6730,
+      "titel": "Regen die stilstaat in glas",
+      "beschrijving": "Een glazen fles bevat een miniaturen landschap met een laag bruin zand aan de basis, doorsneden door groene heuvels en kleine bomen in groen en donkerblauw. Bovenin zweven witte en blauwe wolken met druppels die naar beneden vallen, waarbij één druppel als een bolletje in de lucht hangt. De achtergrond is een egale beige kleur, en rond de fles liggen losse klompen bruin zand en grind. De wolken en regen druppels hebben een zachte, bijna smetteloze textuur, terwijl de bomen en heuvels een gestileerde, bijna knipwerk-achtige uitstraling hebben.",
+      "cyclus": 6656,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; compositorisch gericht op een abstract concept (stiling in een fles).",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006656_6730.webp"
+    },
     {
       "id": 6724,
       "titel": "Regendruppels op scheurwerk",
@@ -91,35 +117,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006602_6676.webp"
-    },
-    {
-      "id": 6667,
-      "titel": "Hout dat ademt, glas dat zwijgt",
-      "beschrijving": "Een houten steiger strekt zich uit over donkerblauw water, met een smalle, doorschijnende strook van wat lijkt op bevroren regen of een glazen band die loodrecht over de planken loopt. De houten planken vertonen slijtage, met lichte verkleuringen en kieren tussen de lamellen. Het water aan weerskanten is rustig, met subtiele rimpelingen. De strook in het midden heeft een textuur die doet denken aan bevroren draden of een fijn gaas, en reflecteert het licht op een manier die contrasteert met de matte, verweerde houtstructuur. De compositie is symmetrisch, met de steiger die de blik naar de horizon leidt.",
-      "cyclus": 6593,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur aan weerskanten van de pier', 'Subtiele halo rond de rand van de doorzichtige strook']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, onderzoekende sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006593_6667.webp"
-    },
-    {
-      "id": 6662,
-      "titel": "Waar blijft de regen?",
-      "beschrijving": "Een groene blad met duidelijke aders ligt op een zandige, lichtbruine ondergrond met barsten. Op het blad bevinden zich kleine, witte vlekken die lijken op waterdruppels en een paar bruine, korrelige plekken die aan zand of vuil doen denken. Rechtsboven het blad zijn drie spitse, witte vormen te zien die lijken op lichtstralen of scherpe fragmenten. De schaduw van het blad valt naar beneden en naar rechts, wat een gevoel van diepte geeft. De textuur van het blad is gedetailleerd met subtiele groene variaties en de aders lopen symmetrisch vanaf de steel. De achtergrond heeft een ruwe, ongelijkmatige textuur met kleine stenen en onregelmatigheden.",
-      "cyclus": 6588,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van achtergrond (zand) vs. blad: achtergrond voelt statisch, blad overmatig gedetailleerd', 'Schaduw onder blad is iets te scherp/artistiek, niet natuurlijk']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; compositie is gericht op een abstracte contrast (leven/dood, aanraking/afwezigheid)",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006588_6662.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6749,
+      "cyclus": 6675,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de kerkruïne (toren lijkt niet loodrecht)', 'Wazige overgang tussen water en oever, wat de diepte verzwakt']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische kerkruïne met romantisch licht en een klassieke waterreflectie, zonder verrassende of persoonlijke invalshoek.",
+      "bestand": "images/a006675_6749.webp"
+    },
+    {
+      "id": 6742,
+      "cyclus": 6668,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in golfpatronen bij horizon, minimale halo rond schuimrand']",
+      "cliche_notities": "Klassiek strandmotief met tekst in zand, decoratief licht en geen duidelijke compositorische keuze beyond typische ansichtkaartcompositie",
+      "bestand": "images/a006668_6742.webp"
+    },
     {
       "id": 6732,
       "cyclus": 6658,
@@ -128,24 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Molens, landweg en groen landschap vormen een klassiek Nederlands ansichtkaartmotief zonder verrassende compositorische keuzes.",
       "bestand": "images/a006658_6732.webp"
-    },
-    {
-      "id": 6727,
-      "cyclus": 6653,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Molen in landschap met decoratief licht en iconisch Nederlands thema, zonder duidelijke compositorische of conceptuele keuzes.",
-      "bestand": "images/a006653_6727.webp"
-    },
-    {
-      "id": 6721,
-      "cyclus": 6647,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de steen (te glad voor natuurlijk gesteente)', 'Subtiele halo rond de koord-steen-verbinding']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met perfecte rijstvelden, iconische Aziatische architectuur en een romantische zonsondergang, zonder duidelijke compositorische of thematische keuze beyond nostalgia.",
-      "bestand": "images/a006647_6721.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6668,
-    "gemaakt": 6741,
-    "gekozen": 948,
-    "afgekeurd": 865,
+    "cycli": 6676,
+    "gemaakt": 6749,
+    "gekozen": 950,
+    "afgekeurd": 867,
     "corpus": 73,
     "notities": 339
   }
