@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T06:45+02:00",
+  "bijgewerkt": "2026-08-13T07:00+02:00",
   "werk": [
+    {
+      "id": 6599,
+      "titel": "Roze stilte met een spiraal",
+      "beschrijving": "Een leeg vertrek met roze muren en een houten vloer wordt doorsneden door een spiraalvormig patroon op de achterwand, getekend in lichtere en donkerdere roze tinten. Aan de linkermuur bevindt zich een smaal raam met een wit kozijn, waar zacht daglicht door valt en een subtiele schaduw werpt op de vloer. De hoeken van de kamer zijn scherp getekend, terwijl het plafond een egaal roze kleurtje heeft. De sfeer is rustig en ietsje mysterieus door de combinatie van de lege ruimte en het opvallende spiraalmotief.",
+      "cyclus": 6525,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het raam ten opzichte van de muur', 'Subtiele halo rond de spiraal door hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de spiraal voegt een onverklaarbaar element toe dat geen bevestigend effect heeft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006525_6599.webp"
+    },
     {
       "id": 6595,
       "titel": "Richting de ribbenkast",
@@ -104,22 +117,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006488_6562.webp"
-    },
-    {
-      "id": 6559,
-      "titel": "Vuur om de drempel",
-      "beschrijving": "Een houten deur met een X-vormig patroon staat centraal in een landschap dat grotendeels in zwart-wit is getekend, met alleen twee rode vlammen die om de deur heen opstijgen. Links van de deur bevindt zich een gedetailleerde boomstam met ingewikkelde textuur en takken die zich uitstrekken naar de vlammen. Rechts in de achtergrond staat een windmolen met een klassieke vorm, getekend in lichte schakeringen. De grond rond de deur is ongelijkmatig en toont sporen van gras en kleine stenen. De vlammen hebben een vloeiende, bijna menselijke vorm en lijken de deur te omhullen, terwijl de rest van het beeld rustig en statisch aanvoelt.",
-      "cyclus": 6485,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de boomstam (overgang naar vuur)', 'Rode vlammen lijken iets out-of-place ten opzichte van rest van de tekening']",
-      "academie_cliche": 0,
-      "cliche_notities": "Hoewel een molen aanwezig is, is de compositie niet typisch ansichtkaart-achtig door de surrealistische elementen en focus op vuur/afwezigheid.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006485_6559.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6609,
+      "cyclus": 6535,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Regenbogen zijn een iconisch, decoratief motief zonder eigen compositorisch standpunt, typisch voor ansichtkaart-esthetiek.",
+      "bestand": "images/a006535_6609.webp"
+    },
+    {
+      "id": 6607,
+      "cyclus": 6533,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch natuurlandschap (rietveld) in een decoratief, gemonochromiseerd kleurschema zonder duidelijke compositorische of conceptuele keuze.",
+      "bestand": "images/a006533_6607.webp"
+    },
     {
       "id": 6602,
       "cyclus": 6528,
@@ -128,24 +146,6 @@
       "tech_notities": "['Wazige textuur in de achtergrondmolens', 'Inconsistente vensterposities in huizen', 'Smeuiige overgang tussen hemel en landschap']",
       "cliche_notities": "Molens en typische Nederlandse huizen in een nostalgisch landschap zonder unieke compositorische keuze",
       "bestand": "images/a006528_6602.webp"
-    },
-    {
-      "id": 6587,
-      "cyclus": 6513,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de verre steunpilaren', 'Subtiele halo rond de rand van het water']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een eenduidig, iconisch onderwerp (steiger in water) met decoratief licht en geen duidelijke compositorische keuze beyond symmetrie.",
-      "bestand": "images/a006513_6587.webp"
-    },
-    {
-      "id": 6584,
-      "cyclus": 6510,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in takstructuren (enkele takken verdwijnen plotseling)', 'Subtiele halos rond zonsondergang']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische zonsondergang achter een kale boom met decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a006510_6584.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6529,
-    "gemaakt": 6602,
-    "gekozen": 926,
-    "afgekeurd": 845,
-    "corpus": 78,
+    "cycli": 6537,
+    "gemaakt": 6610,
+    "gekozen": 927,
+    "afgekeurd": 847,
+    "corpus": 79,
     "notities": 335
   }
 }
