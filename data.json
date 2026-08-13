@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T00:00+02:00",
+  "bijgewerkt": "2026-08-14T00:15+02:00",
   "werk": [
     {
       "id": 7146,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7151,
+      "cyclus": 7081,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch/toeristisch onderwerp en geen decoratief perfect licht, maar een abstracte/compositorische keuze met dynamiek en spanning.",
+      "bestand": "images/a007081_7151.webp"
+    },
+    {
+      "id": 7148,
+      "cyclus": 7078,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte kaart met eigen compositorische keuzes.",
+      "bestand": "images/a007078_7148.webp"
+    },
+    {
       "id": 7142,
       "cyclus": 7072,
       "afkeuringsreden": "techniek",
@@ -128,24 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een minimalistische compositie met een conceptuele boodschap.",
       "bestand": "images/a007072_7142.webp"
-    },
-    {
-      "id": 7140,
-      "cyclus": 7070,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde Chinese karakters', 'inconsistente textuur papier vs. rook']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een conceptuele compositie met tekst en abstracte elementen.",
-      "bestand": "images/a007070_7140.webp"
-    },
-    {
-      "id": 7136,
-      "cyclus": 7066,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst en materiaal.",
-      "bestand": "images/a007066_7136.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7078,
-    "gemaakt": 7147,
+    "cycli": 7085,
+    "gemaakt": 7155,
     "gekozen": 1019,
-    "afgekeurd": 921,
+    "afgekeurd": 923,
     "corpus": 71,
     "notities": 353
   }
