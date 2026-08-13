@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T06:30+02:00",
+  "bijgewerkt": "2026-08-13T06:45+02:00",
   "werk": [
+    {
+      "id": 6595,
+      "titel": "Richting de ribbenkast",
+      "beschrijving": "Een gescheurd stuk papier vormt een driehoekig gat, waardoor een kamer zichtbaar wordt met witte muren en een houten vloer. Centraal hangt een ribbenkast van bruine, takachtige vormen aan het plafond, met donkere en blauwe accenten. Aan weerskanten bevinden zich rechthoekige ramen met houten kozijnen, waarvan het rechter raam een donkere reflectie toont. Tegen de achterwand staat een eenvoudig houten bankje. Het papier aan de randen is onregelmatig en scheef, met een gele vlek bij de bovenkant. Het licht valt schuin de kamer in, waardoor schaduwen over de vloer en muren vallen.",
+      "cyclus": 6521,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de ramen aan weerskanten', 'Textuur van het karton dak iets te scherp/gedefinieerd voor natuurlijk scheurgedrag']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie en thematiek vragen om nadere interpretatie en zijn niet typerend voor een ansichtkaart.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006521_6595.webp"
+    },
+    {
+      "id": 6592,
+      "titel": "Gras dat door het glas groeit",
+      "beschrijving": "Een witte deur staat rechtop in een groen veld met gras en droge stengels. Door het glas van de deur is een getekende klok te zien, met een donkere klopper en een witte koord dat naar beneden loopt. Onder het glas groeien donkergroene grassprietjes. Achter de deur strekt een regenboog zich uit tegen een grijze hemel, met kleuren die overgaan in roze, oranje, geel, groen en paars. De deur heeft een metalen kruk en scharnieren, en staat schuin ten opzichte van de horizon. Het gras rondom is ongelijkmatig, met zowel groene als bruine tinten.",
+      "cyclus": 6518,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het glas (te scherp/getekend vs. realistisch)', 'Regenboog iets te perfect symmetrisch en helder voor natuurlijke situatie']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen typisch iconisch onderwerp en de compositie (deur in landschap met surrealistisch element) vraagt om nadere interpretatie",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006518_6592.webp"
+    },
     {
       "id": 6586,
       "titel": "Regenboog in glas",
@@ -13,6 +39,19 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006512_6586.webp"
+    },
+    {
+      "id": 6585,
+      "titel": "Rood poeder, stille spanning",
+      "beschrijving": "Een groot vel bruin papier ligt op een houten oppervlak, met daarop een rood potlood en een spoor van rood poeder dat een veerachtige vorm vormt. Het potlood rust schuin op het papier, met de punt naar de tekening gericht. Rondom het papier zijn droge rietstengels en zand zichtbaar, met op de achtergrond een houten structuur en een donkere fles op een plankje. Het zonlicht werpt schaduwen van het riet op het papier en de omgeving, terwijl kleine witte deeltjes verspreid liggen over het papier en de grond.",
+      "cyclus": 6511,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het papier (te uniform aan randen, minder gedetailleerd in midden)', 'Schaduw van de potloodpunt iets te scherp/artistiek, niet natuurgetrouw']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de compositie is bewust asymmetrisch en het onderwerp (spoor van een veer) is niet typisch ansichtkaartmateriaal.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006511_6585.webp"
     },
     {
       "id": 6583,
@@ -78,48 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006485_6559.webp"
-    },
-    {
-      "id": 6554,
-      "titel": "Wit brekt door donker",
-      "beschrijving": "Een witte kop staat centraal tegen een donkere achtergrond, met een breuk in de rand waar donker water of vloeistof zichtbaar is. Boven de kop zweeft een witte, wollige wolk met een textuur die aan katoen of schuim doet denken. Van de wolk vallen driehoekige, witte fragmenten naar beneden, alsof ze uit de wolk breken en in de kop belanden. Kleine witte stippen verspreiden zich rond de vallende stukken en de kop, wat een gevoel van beweging en verspreiding suggereert. De kop werpt een donkere schaduw op de ondergrond, en er zit een klein, donker fragment aan de rand van de kop vast. De compositie is minimalistisch, met een scherp contrast tussen licht en donker.",
-      "cyclus": 6480,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de wolken (te uniform)', 'Schaduw onder de kop is iets te scherp/getekend']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en vraagt om nadere beschouwing.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006480_6554.webp"
-    },
-    {
-      "id": 6546,
-      "titel": "Waar blijft de afzender",
-      "beschrijving": "Een witte envelop ligt in het gras, omringd door hoge, groene stengels en watervlekken die nat gras suggereren. Achter de envelop slingeren grijze, gespikkelde slangenlichamen zich door het landschap, met witte kwastjes aan de onderkant die aan franjes doen denken. Een smalle, houten loopbrug verdwijnt in de verte, omgeven door weelderig groen en een lichte hemel met zachte wolken. De slangen en de envelop vormen een onverklaarde combinatie in dit serene, natuurgebonden tafereel.",
-      "cyclus": 6472,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het pad (verdwijnt te scherp)', 'Enkele grassprietjes hebben onnatuurlijke, herhalende vormen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een intieme, persoonlijke compositie met onverklaarde voorwerpen",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006472_6546.webp"
-    },
-    {
-      "id": 6544,
-      "titel": "Blauwe aders in het gras",
-      "beschrijving": "Een kronkelende blauwe waterloop snijdt door een groen landschap, omgeven door hoge, slanke grassen in verschillende groentinten. Witte accenten suggereren reflecties op het water en bloemachtige details in het gras. Zandige, bruine vormen vormen de oevers en een deel van de voorgrond, met zachte overgangen naar het groen. De achtergrond bestaat uit vaagere, groene stralen die diepte suggereren. De compositie is verticaal georiënteerd, met het water als leidende lijn die het oog door het beeld trekt. De sfeer is rustig en natuurlijk, met een focus op de vloeiende vormen en textuurverschillen tussen water, gras en zand.",
-      "cyclus": 6470,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de overgang tussen water en oever', 'Enkele grasstengels lijken onge motiveerd te zweven']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte, bijna surrealistische weergave van water en vegetatie zonder duidelijke locatie",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w006470_6544.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6602,
+      "cyclus": 6528,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Wazige textuur in de achtergrondmolens', 'Inconsistente vensterposities in huizen', 'Smeuiige overgang tussen hemel en landschap']",
+      "cliche_notities": "Molens en typische Nederlandse huizen in een nostalgisch landschap zonder unieke compositorische keuze",
+      "bestand": "images/a006528_6602.webp"
+    },
     {
       "id": 6587,
       "cyclus": 6513,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in takstructuren (enkele takken verdwijnen plotseling)', 'Subtiele halos rond zonsondergang']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische zonsondergang achter een kale boom met decoratief licht en geen duidelijke compositorische keuze.",
       "bestand": "images/a006510_6584.webp"
-    },
-    {
-      "id": 6560,
-      "cyclus": 6486,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in grasstructuren (sommige prikkels lijken willekeurig geplaatst)', 'Subtiele halo rond de zon door hoog contrast']",
-      "cliche_notities": "Het motief (zonsondergang boven grasland met rots) is een klassiek landschapsunderwerp zonder verrassende compositorische keuzes of een uniek standpunt.",
-      "bestand": "images/a006486_6560.webp"
     }
   ],
   "onderzoek": {
@@ -309,10 +309,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6520,
-    "gemaakt": 6593,
-    "gekozen": 923,
-    "afgekeurd": 844,
+    "cycli": 6529,
+    "gemaakt": 6602,
+    "gekozen": 926,
+    "afgekeurd": 845,
     "corpus": 78,
     "notities": 335
   }
