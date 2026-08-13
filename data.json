@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T23:30+02:00",
+  "bijgewerkt": "2026-08-13T23:45+02:00",
   "werk": [
     {
       "id": 7126,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7140,
+      "cyclus": 7070,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde Chinese karakters', 'inconsistente textuur papier vs. rook']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een conceptuele compositie met tekst en abstracte elementen.",
+      "bestand": "images/a007070_7140.webp"
+    },
+    {
+      "id": 7136,
+      "cyclus": 7066,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst en materiaal.",
+      "bestand": "images/a007066_7136.webp"
+    },
+    {
       "id": 7133,
       "cyclus": 7063,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "['lichte vervorming vleugels bij enkele gans', 'onduidelijke achtergrondstructuren (bomen/huizen)']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische elementen (regenboog, dorpsgezicht, gans) en decoratief licht zonder eigen standpunt.",
       "bestand": "images/a007063_7133.webp"
-    },
-    {
-      "id": 7129,
-      "cyclus": 7059,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van huizen op achtergrond', 'enkele grastoppen in voorgrond iets te scherp getekend voor watercolor-stijl']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorpsgezicht met roodgetegelde daken en een weids landschap, zonder duidelijke compositorische of thematische keuze die verder gaat dan een decoratief beeld.",
-      "bestand": "images/a007059_7129.webp"
-    },
-    {
-      "id": 7125,
-      "cyclus": 7055,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de molens: de linker molen staat schuiner dan de rechter, maar de horizonlijn suggereert een gelijkwaardige positie.', 'Textuur van de vlammen is iets te herhalend, met weinig variatie in detail op sommige plekken.']",
-      "cliche_notities": "Molens als iconisch Nederlands symbool, gecombineerd met een decoratief waterverf-effect en een dramatisch maar bevestigend lichteffect (vuur), zonder duidelijke compositorische of conceptuele keuze.",
-      "bestand": "images/a007055_7125.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7066,
-    "gemaakt": 7135,
+    "cycli": 7072,
+    "gemaakt": 7141,
     "gekozen": 1018,
-    "afgekeurd": 918,
+    "afgekeurd": 920,
     "corpus": 71,
     "notities": 353
   }
