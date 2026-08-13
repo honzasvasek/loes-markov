@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T01:15+02:00",
+  "bijgewerkt": "2026-08-14T01:30+02:00",
   "werk": [
+    {
+      "id": 7183,
+      "titel": "Diagonaal licht in bruin en roze",
+      "beschrijving": "Een smalle, verticale doorgang met donkerbruine muren leidt naar een helderder gebied aan het eind, waar zacht roze en wit licht de ruimte verlicht. Het licht vormt een diagonale strook die over de vloer en de muur aan de rechterkant glijdt, terwijl de linkerwand in schaduw blijft. De overgang tussen licht en donker is vloeiend, met subtiele kleurverschuivingen van bruin naar roze en wit. De compositie is minimalistisch, met een focus op de relatie tussen de smalle ruimte en het komend licht. De sfeer is rustig en bijna mystiek, door de afwezigheid van details en de nadruk op licht en schaduw.",
+      "cyclus": 7113,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ruimtelijke spanning, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007113_7183.webp"
+    },
+    {
+      "id": 7177,
+      "titel": "Licht dat zwijgt over het afval",
+      "beschrijving": "Donkere, golvende vormen domineren het beeld, met subtiele variaties in grijs die diepte en beweging suggereren. Verspreid liggen kleine, donkere voorwerpen die lijken op stukjes hout of afval, met hier en daar een glimmend detail dat het licht vangt. De textuur is ruw en onregelmatig, met sporen die aan wind of water herinneren. Het beeld straalt een verlaten, bijna ongemakkelijke sfeer uit, alsof de kijker illegaal terrein betreedt. Geen horizon of duidelijke structuur, alleen een eindeloos patroon van golven en fragmenten dat de blik vasthoudt.",
+      "cyclus": 7107,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op textuur en beweging zonder bevestigende compositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007107_7177.webp"
+    },
     {
       "id": 7161,
       "titel": null,
@@ -91,35 +117,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007050_7121.webp"
-    },
-    {
-      "id": 7117,
-      "titel": "De deur die zweeft in vergetelheid",
-      "beschrijving": "Een verweerde houten deur staat centraal in een verlaten landschap, omringd door verwaarloosde gebouwen met leemtekorten en verweerde daken. Boven de deur zweeft een donkere, slanke pijl die schuin naar beneden wijst, terwijl een gekrulde, donkere vorm als een scheur of vlam de deur lijkt te raken. Het tafereel is in zwart-wit weergegeven, met een nevelige achtergrond waarin heuvels en bomen vaag zichtbaar zijn. Graszoden en afval liggen verspreid rondom de deur, die een vergeten, bijna spookachtige sfeer uitstraalt. De compositie combineert realistische details met surrealistische elementen, waarbij de pijl en de donkere vorm een onrustige dynamiek toevoegen aan het verlaten tafereel.",
-      "cyclus": 7046,
-      "tech_score": 7.0,
-      "tech_notities": "['Wazige achtergrond met detailverlies in landschap', 'Ongemotiveerde overgang tussen pijl en scheur in muur', 'Textuur van houten deur iets te uniform/glad']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en uitnodigend tot interpretatie, geen bevestigende ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007046_7117.webp"
-    },
-    {
-      "id": 7108,
-      "titel": "Rook en glinsteringen",
-      "beschrijving": "Een ruimte met een houten dakconstructie en lichte muren, waar een donkergrijze, onregelmatige massa de vloer bedekt. Uit een opening in die massa stijgt een witte, wazige rookwolk op die zich in slingerende vormen naar boven uitstrekt. Een smalle, witte spleet loopt door de massa, met kleine, glanzende voorwerpen erbij. De sfeer is rustig, met een subtiele spanning door de rook en de onrustige textuur van de massa.",
-      "cyclus": 7037,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van houten balken plafond', 'Wazige overgang tussen rook en achtergrondmuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; beeld heeft een ongemakkelijke, verontrustende sfeer die bovenop een ansichtkaart past.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007037_7108.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7189,
+      "cyclus": 7119,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['kleine inconsistentie in perspectief van huizen aan horizon', 'lichte wazigheid in achtergrondbomen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch dorp, perfecte regenboog en decoratief licht zonder eigen standpunt.",
+      "bestand": "images/a007119_7189.webp"
+    },
+    {
+      "id": 7185,
+      "cyclus": 7115,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de achtergrond (papierachtig vs. geschilderd)', 'Kleine halo rond de rand van de koffiekop']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse symbolen (molen, huisje) in een decoratieve, niet-critische stijl.",
+      "bestand": "images/a007115_7185.webp"
+    },
     {
       "id": 7173,
       "cyclus": 7103,
@@ -128,24 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een zonsondergang over water, waarbij het licht en de reflecties decoratief en iconisch zijn uitgevoerd zonder duidelijke persoonlijke interpretatie.",
       "bestand": "images/a007103_7173.webp"
-    },
-    {
-      "id": 7171,
-      "cyclus": 7101,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de molen ten opzichte van de bomen', 'Enkele bomen hebben onnatuurlijke, herhalende takstructuren']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, bomen, water) in een decoratief, harmonieus licht zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a007101_7171.webp"
-    },
-    {
-      "id": 7167,
-      "cyclus": 7097,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een onpersoonlijke landschapsscene met tekst.",
-      "bestand": "images/a007097_7167.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7114,
-    "gemaakt": 7183,
-    "gekozen": 1022,
-    "afgekeurd": 927,
+    "cycli": 7123,
+    "gemaakt": 7192,
+    "gekozen": 1024,
+    "afgekeurd": 929,
     "corpus": 71,
     "notities": 354
   }
