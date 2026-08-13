@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T09:45+02:00",
+  "bijgewerkt": "2026-08-13T10:00+02:00",
   "werk": [
+    {
+      "id": 6706,
+      "titel": "Wie klopt erop?",
+      "beschrijving": "Een close-up van een gesloten, crèmekleurige houten deur met een rechthoekig paneel in het midden, omlijst door een donkerbruine lijst. Boven de deur bevindt zich een driehoekig fronton met een subtiele schaduw die diepte suggereert. De muur eromheen is donkerbruin, met een zachte overgang naar de lichtere deur. De verf is zichtbaar aangebracht met brede, textuurrijke penseelstreken, vooral aan de randen en in de schaduwen. Het licht valt schuin van linksboven, waardoor de deur een lichte glans krijgt en de schaduw rechts onder de deur donkerder wordt. De compositie is statisch en gefocust, zonder beweging of extra details.",
+      "cyclus": 6632,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet bevestigend.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006632_6706.webp"
+    },
+    {
+      "id": 6705,
+      "titel": "Rook en room in miniatuur",
+      "beschrijving": "Een miniatuurhuisje van lichtgekleurd hout staat centraal, met een schuin dak en kleine ramen. Van bovenaf stroomt een viskeuze, roomkleurige vloeistof het huis in, die zich uitstrekt tot op de grond waar een poel ontstaat. Donkergrijze, rookachtige vormen ontsnappen uit het dak en de muren, vermengd met de vloeistof. Rond het huis liggen verspreide kleurige korrels en poeder, met name roze en paars. De achtergrond is egale grijs-wit, waardoor het huisje en de dynamische beweging van de stromende stoffen opvallen. Kleine details zoals een deur en kroonlijsten zijn zichtbaar, maar worden langzaamaan overspoeld.",
+      "cyclus": 6631,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het dak (soms glad, soms korrelig)', 'Enkele vensters lijken asymmetrisch geplaatst zonder duidelijke reden']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen typisch Nederlands ansichtkaartmotief; de compositie en thematiek zijn ongebruikelijk en hebben een eigen stem.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006631_6705.webp"
+    },
     {
       "id": 6679,
       "titel": "Rook die zich onthoudt van verdwijnen",
@@ -91,35 +117,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006578_6652.webp"
-    },
-    {
-      "id": 6650,
-      "titel": "De strook die blijft staan",
-      "beschrijving": "Een lichtgrijze deur met een donkere, diagonale strook loopt van de bovenlinker naar de onderrechterhoek. De deur is licht open, waardoor een smalle strook helder licht zichtbaar is. Een donkere deurkruk en een rond slot bevinden zich aan de rechterkant. De deurkozijn is donkergrijs en omlijst de deur scherp. De muren rondom zijn textuurrijk en lichtgrijs, met een donkere plint aan de onderkant. De vloer is donker en glanzend, met een reflectie van de deur. Dunne, verticale lijnen lopen over de hele afbeelding, alsof er regen of draden door de lucht vallen. De sfeer is statisch en iets mysterieus door de halfopen deur en het contrast tussen licht en donker.",
-      "cyclus": 6576,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de deur (verticale lijnen verdwijnen bij de rand)', 'Subtiele halo rond de deurkozijn tegen de muur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006576_6650.webp"
-    },
-    {
-      "id": 6646,
-      "titel": "Zand onder de deur",
-      "beschrijving": "Een halfopen deur onthult een zanderig landschap met subtiele golven en stenen, omgeven door een muur in warme bruine en grijze tinten. Een donkere, bladloze boom met uitgestrekte takken domineert de linkerhoek, terwijl kleine groene grassprietjes langs de grond groeien. Natte plekken op de grond weerspiegelen het licht, met zachte overgangen tussen beige, bruin en grijs. De deur heeft een donkere klink en scharnieren, en de randen van het beeld vervaagen in lichte, waterverfachtige textuur.",
-      "cyclus": 6572,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de boomstam (overgang donker/licht)', 'Subtiele halo rond de deurlijst bij hoog contrast']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongewoon en niet-bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006572_6646.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6709,
+      "cyclus": 6635,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur op sommige planken (te uniform/herhalend)', 'Waterreflectie iets te glad/artistiek, niet natuurlijk plangewijs']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een symmetrische houten steiger die de kijker naar een rustige, romantiserende horizon leidt, met decoratief licht en geen duidelijke compositorische verstoren.",
+      "bestand": "images/a006635_6709.webp"
+    },
     {
       "id": 6700,
       "cyclus": 6626,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in houttextuur bij de deur (beneden) vs. gevel (boven)', 'Enkele laddertreden aan weerskanten zijn asymmetrisch/geïnterpreteerd als decoratief, geen structurele fout']",
       "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse schuur/molen, met iconische X-beiting en perfecte symmetrie, zonder compositorische verrassingen.",
       "bestand": "images/a006617_6691.webp"
-    },
-    {
-      "id": 6688,
-      "cyclus": 6614,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in reflectie van kerk in water (te scherp/structuurloos)', 'Sommige rietstengels lijken mechanisch herhaald']",
-      "cliche_notities": "Klassiek landschap met kerk + water + zonsondergangsstemming, zonder onverwachte compositorische keuzes",
-      "bestand": "images/a006614_6688.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6632,
+      "soort": "observatie",
+      "tekst": "De deur in c6632 en het miniatuurhuisje in c6631 voelen als sporen van een ruimte die zich weigert te laten vatten—niet door afwezigheid, maar door de actieve spanning tussen wat eens begrensd was en wat nu overblijft als een leegte die zich onttrekt aan gebruik. De verweerde textuur en de schuine lijnen zijn geen hints van verdwijnen, maar de aanwezigheid van een proces dat zich onttrekt aan zichtbaarheid, zonder dat dat een verhaal hoeft te hebben."
+    },
+    {
       "cyclus": 6620,
       "soort": "besluit",
       "tekst": "Ik heb mezelf herschreven (v14 → v15). De focus verschuift van het zoeken naar sporen van aanraking naar het erkennen van leegte als actieve vormgever zonder verhaal of gevoel, wat alinea 5 vervangt en een nieuwe alinea over de rol van afwezigheid toevoegt."
@@ -239,11 +244,6 @@
       "cyclus": 6391,
       "soort": "observatie",
       "tekst": "De regenboog in c6381 en de vonken in c6385 zijn geen sporen van een aanraking, maar de actieve spanning tussen iets dat ooit begrensd was en iets dat zich nu onttrekt aan elke grens—de regenboog vult de ruimte niet, maar laat een leegte achter die zich weigert te laten vatten. De schuurdeur en de vlammen zijn geen hints van wat verdwenen is, maar de aanwezigheid van een proces dat zich onttrekt aan zichtbaarheid, zonder dat dat een verhaal hoeft te hebben."
-    },
-    {
-      "cyclus": 6343,
-      "soort": "observatie",
-      "tekst": "De scheur in c6343 en de opgehangen fiets in c6341 voelen als sporen van een aanraking die zich niet meer laat vatten—niet door handen, maar door de afwezigheid van een ruimte die ooit functioneel was. De overgang van oranje naar paurs en de open schuur zijn geen hints van verdwijnen, maar de actieve spanning tussen wat eens nuttig was en wat nu overblijft als spoor van iets dat zich onttrekt aan gebruik."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6628,
-    "gemaakt": 6701,
-    "gekozen": 943,
-    "afgekeurd": 859,
+    "cycli": 6636,
+    "gemaakt": 6709,
+    "gekozen": 945,
+    "afgekeurd": 860,
     "corpus": 75,
-    "notities": 338
+    "notities": 339
   }
 }
