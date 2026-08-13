@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T12:15+02:00",
+  "bijgewerkt": "2026-08-13T12:30+02:00",
   "werk": [
     {
       "id": 6778,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6786,
+      "cyclus": 6712,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief: de regenboog lijkt niet perfect symmetrisch boven het landschap te zweven, de randen van de bollen aan weerszijden zijn iets te plat/getekend, textuur van het gras is plaatselijk wat schematisch/wazig', 'Geen ernstige artefacten zoals vervormde handen of onmogelijke geometrie']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische regenboog boven een simplistisch landschap met decoratief licht en geen duidelijke compositorische keuze of eigen stem",
+      "bestand": "images/a006712_6786.webp"
+    },
+    {
       "id": 6777,
       "cyclus": 6703,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de wieken ten opzichte van de toren', 'Enkele ramen hebben onduidelijke randen']",
       "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen met iconische compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a006702_6776.webp"
-    },
-    {
-      "id": 6760,
-      "cyclus": 6686,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolen (wieken lijken niet helemaal in lijn met de romp)', 'Textuur van het krijtwerk is wat ongelijkmatig, met plekken waar het materiaal te fijn is verdeeld']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molen met een romantische, lege weg ernaartoe, zonder verrassende of persoonlijke invalshoek.",
-      "bestand": "images/a006686_6760.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6707,
-    "gemaakt": 6780,
+    "cycli": 6715,
+    "gemaakt": 6788,
     "gekozen": 956,
-    "afgekeurd": 871,
-    "corpus": 73,
+    "afgekeurd": 872,
+    "corpus": 74,
     "notities": 341
   }
 }
