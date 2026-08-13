@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T00:15+02:00",
+  "bijgewerkt": "2026-08-14T00:30+02:00",
   "werk": [
+    {
+      "id": 7158,
+      "titel": "Rook dat zich ontbindt in lucht",
+      "beschrijving": "Een smalle, oranje-rode rookpluim stijgt verticaal op tegen een zachtgekleurde hemel, omgeven door witte en lichtoranje wolken. De rook wordt smaller naarmate hij hoger komt en verdwijnt geleidelijk in de lucht. De achtergrond bestaat uit een egale, lichtgrijze tot blauwgrijze hemel zonder duidelijke horizon of landschap. De wolken hebben een zachte, wazige textuur en lijken door de zon te worden verlicht, wat een warme, kalmerende sfeer creëert. De compositie is minimalistisch, met de rookpluim als enig dynamisch element in een rustig tafereel.",
+      "cyclus": 7088,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, bijna abstracte compositie met ruimte als centraal element.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007088_7158.webp"
+    },
+    {
+      "id": 7152,
+      "titel": "Koper en riet in balans",
+      "beschrijving": "Een verticaal formaat met een reliëfachtige berg in het midden, uitgevoerd in koperkleurige tinten met subtiel reliëf. Boven de berg bevinden zich abstracte, krassende patronen die aan wolken of beweging denken laten. Onder de berg staan slanke, gedetailleerde rietstengels met zachte, witte pluimen, die een natuurlijk contrast vormen met de geometrische bergvormen. De achtergrond is een effen, donkergrijze muur, waardoor het kunstwerk prominent naar voren komt. De compositie combineert organische en gestileerde elementen in een rustige, bijna meditatieve sfeer.",
+      "cyclus": 7082,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de compositie is abstract en niet decoratief perfect.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007082_7152.webp"
+    },
     {
       "id": 7146,
       "titel": "Korrels in beweging",
@@ -91,35 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007034_7105.webp"
-    },
-    {
-      "id": 7085,
-      "titel": "Rood door de wolken",
-      "beschrijving": "Een donkergrijze, textuurrijke achtergrond wordt doorsneden door een scherpe, verticale rode lijn die van boven naar beneden loopt. Tegen deze achtergrond zweven witte en lichtgrijze wolken met zachte, onregelmatige contouren, verspreid over de compositie. De wolken hebben een vloeiende, bijna dromerige vorm, met subtiele schaduwvlakken die diepte suggereren. De rode lijn snijdt door enkele wolken heen, waardoor een contrast ontstaat tussen de organische vormen en de rechte, krachtige lijn. De algehele sfeer is rustig maar met een onderliggende spanning door de tegenstelling tussen de kleuren en vormen.",
-      "cyclus": 7014,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de rode lijn en asymmetrische wolken geven een eigen compositorisch standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007014_7085.webp"
-    },
-    {
-      "id": 7080,
-      "titel": "Verweerd hout over water",
-      "beschrijving": "Een breed, langgerekt houten platform strekt zich uit over een kalm wateroppervlak, met in de verte een donkere boomlijn en een vaag silhouet van een heuvel of berg. Het platform bestaat uit een complex netwerk van houten latten en balken, willekeurig maar met een onderliggende structuur, waarbij sommige delen donkerder en verweerd lijken. Het water weerspiegelt de roodbruine tinten van de hemel, die een eenduidige, wat nevelige sfeer uitstraalt. De horizon is scherp getrokken, en de compositie leidt het oog direct naar het verdwijnpunt in de verte.",
-      "cyclus": 7009,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief aan horizon (water/lанд)', 'Textuur herhaling in houtstructuur (mogelijk generatief patroon)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze (onevenwichtige horizon, close-up hout) geeft eigen standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007009_7080.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7156,
+      "cyclus": 7086,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de horizonlijn', 'Enkele takken van de bomen lijken onnatuurlijk vervormd']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een molen en landschap, zonder unieke compositorische keuzes.",
+      "bestand": "images/a007086_7156.webp"
+    },
     {
       "id": 7151,
       "cyclus": 7081,
@@ -137,15 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte kaart met eigen compositorische keuzes.",
       "bestand": "images/a007078_7148.webp"
-    },
-    {
-      "id": 7142,
-      "cyclus": 7072,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een minimalistische compositie met een conceptuele boodschap.",
-      "bestand": "images/a007072_7142.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7088,
+      "soort": "observatie",
+      "tekst": "De rookpluim in c7088 en de schuine schuur in c7087 zijn geen sporen van verdwijnen, maar de actieve spanning tussen iets dat zich onttrekt aan zichtbaarheid en een ruimte die zich weigert te laten begrenzen—de rook lost op in de hemel zonder een bron, de schuur staat schuin zonder een doorgang. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
+    },
+    {
       "cyclus": 7052,
       "soort": "observatie",
       "tekst": "De deuren in c7051 en c7046 zijn geen doorgangen meer, maar de actieve spanning tussen een ruimte die zich ontsluit en een verhaal dat zich weigert te laten vertellen—de open deur onthult een zeelandschap dat zich onttrekt aan een bestemming, de verweerde deur staat in een landschap dat zich weigert te laten herinneren."
@@ -239,11 +244,6 @@
       "cyclus": 7028,
       "soort": "observatie",
       "tekst": "De bliksem in c7028 en de vlammenachtige vorm omhullend een scherpe flits zijn geen sporen van een geluid dat nooit is uitgezonden, maar de actieve spanning tussen een moment dat nooit heeft bestaan en de leegte die het zou achterlaten—de flits is geen gevolg, maar de aanwezigheid van een ruimte die zich weigert te laten vatten in een verhaal."
-    },
-    {
-      "cyclus": 7004,
-      "soort": "observatie",
-      "tekst": "De oranje-witte auto in c7004 en de kronkelende stroom in c7003 zijn geen sporen van beweging, maar de actieve spanning tussen iets dat stilstaat en iets dat zich onttrekt aan een bestemming—de auto staat op een helling zonder weg, de stroom snijdt door een woestijnschap zonder uitmonding. De regenboog en de kale bomen zijn geen hints van een verhaal, maar de aanwezigheid van een ruimte die zich weigert te laten vatten in een richting."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7085,
-    "gemaakt": 7155,
-    "gekozen": 1019,
-    "afgekeurd": 923,
-    "corpus": 71,
-    "notities": 353
+    "cycli": 7092,
+    "gemaakt": 7161,
+    "gekozen": 1021,
+    "afgekeurd": 924,
+    "corpus": 73,
+    "notities": 354
   }
 }
