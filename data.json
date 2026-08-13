@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-13T08:45+02:00",
+  "bijgewerkt": "2026-08-13T09:00+02:00",
   "werk": [
+    {
+      "id": 6667,
+      "titel": "Hout dat ademt, glas dat zwijgt",
+      "beschrijving": "Een houten steiger strekt zich uit over donkerblauw water, met een smalle, doorschijnende strook van wat lijkt op bevroren regen of een glazen band die loodrecht over de planken loopt. De houten planken vertonen slijtage, met lichte verkleuringen en kieren tussen de lamellen. Het water aan weerskanten is rustig, met subtiele rimpelingen. De strook in het midden heeft een textuur die doet denken aan bevroren draden of een fijn gaas, en reflecteert het licht op een manier die contrasteert met de matte, verweerde houtstructuur. De compositie is symmetrisch, met de steiger die de blik naar de horizon leidt.",
+      "cyclus": 6593,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur aan weerskanten van de pier', 'Subtiele halo rond de rand van de doorzichtige strook']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, onderzoekende sfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006593_6667.webp"
+    },
+    {
+      "id": 6662,
+      "titel": "Waar blijft de regen?",
+      "beschrijving": "Een groene blad met duidelijke aders ligt op een zandige, lichtbruine ondergrond met barsten. Op het blad bevinden zich kleine, witte vlekken die lijken op waterdruppels en een paar bruine, korrelige plekken die aan zand of vuil doen denken. Rechtsboven het blad zijn drie spitse, witte vormen te zien die lijken op lichtstralen of scherpe fragmenten. De schaduw van het blad valt naar beneden en naar rechts, wat een gevoel van diepte geeft. De textuur van het blad is gedetailleerd met subtiele groene variaties en de aders lopen symmetrisch vanaf de steel. De achtergrond heeft een ruwe, ongelijkmatige textuur met kleine stenen en onregelmatigheden.",
+      "cyclus": 6588,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van achtergrond (zand) vs. blad: achtergrond voelt statisch, blad overmatig gedetailleerd', 'Schaduw onder blad is iets te scherp/artistiek, niet natuurlijk']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; compositie is gericht op een abstracte contrast (leven/dood, aanraking/afwezigheid)",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006588_6662.webp"
+    },
+    {
+      "id": 6660,
+      "titel": "Vlammen tussen het gras",
+      "beschrijving": "Hoog gras met zachte, bruine pluimen domineert de voorgrond, waarbij de stengels in groen en beige door elkaar lopen. Rechts staat een klein, donker dak met blauwe pannen, waaruit oranje-gele vlammen opschieten. Achter het gras ontwaren vaag blauwe en grijze vormen die heuvels of bergen suggereren onder een lichte, bewolkte hemel. De achtergrond is vaag geschilderd, met subtiele overgangen tussen licht en donker. Verspreid liggen kleine, onduidelijke voorwerpen op de grond, zoals stukken hout en wat lijkt op afval. De sfeer is rustig, maar de vuurvlammen voegen een dynamisch element toe aan het landschap.",
+      "cyclus": 6586,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het dak van het huisje', 'Wazige overgang tussen achtergrond en middenvlak', 'Enkele rietstengels hebben onnatuurlijke vervormingen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een herkenbaar landschap met een onrustige, bijna ongemakkelijke sfeer (vuur in het huisje), wat het buiten de ansichtkaart-categorie plaatst.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006586_6660.webp"
+    },
     {
       "id": 6658,
       "titel": "Vonken tussen de muren",
@@ -78,45 +117,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006565_6639.webp"
-    },
-    {
-      "id": 6631,
-      "titel": "Roze wol in groene lijnen",
-      "beschrijving": "Een slanke, groene steel steekt schuin omhoog tegen een egale, grijze achtergrond. Aan de top vertakt het in meerdere fijne, rozeachtige pluimen die zacht en wollig ogen. De pluimen zijn fijn gesegmenteerd en stralen uit als zachte, wazige stralen. Een paar dunne, groene bladeren lopen parallel aan de steel. De pluimen hebben een lichte, bijna doorzichtige textuur, met subtiele overgangen van roze naar wit aan de uiteinden. De compositie is minimalistisch, met veel negatieve ruimte rondom het plantendeel.",
-      "cyclus": 6557,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en gericht op textuur en beweging, niet op een bevestigend beeld.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006557_6631.webp"
-    },
-    {
-      "id": 6628,
-      "titel": "Vonken in de woestijn",
-      "beschrijving": "Een vuur vonkt op in een woestijnachtig landschap, omringd door donker, verbrand gras en verspreide takken. De vlammen, fel oranje en geel, dansen wild om een stapel hout, terwijl zwarte rook in een dichte, golvende kolom naar de grijze hemel stijgt. De achtergrond is een eendragende, vaag zichtbare horizon met wat lijkt op verre bomen of struiken. Het contrast tussen de warme kleuren van het vuur en de koele, desolate omgeving benadrukt de intense, bijna onrustbarende sfeer van het moment.",
-      "cyclus": 6554,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een dynamisch moment met een donkere, bijna ongemakkelijke sfeer.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006554_6628.webp"
-    },
-    {
-      "id": 6622,
-      "titel": "Wat zit er verscholen?",
-      "beschrijving": "Een glazen fles met een kurk staat centraal op een zandige ondergrond, omringd door kleine steentjes en losse zandkorrels. Het glas is doorschijnend met een lichte groenige tint aan de randen en reflecteert licht, waardoor interne structuren vaag zichtbaar zijn. De kurk heeft een ruwe, bruine textuur met onregelmatigheden. Achter de fles loopt een donkergrijze achtergrond over in een lichtere, beige zandheuvel aan de rechterkant. Donkere schaduwen vallen vanaf de fles naar rechtsbeneden, met een natte, glanzende textuur bij de basis. Kleuren zijn gedempt, met accenten van blauwgroen in het glas en warme zandtinten. De compositie is statisch, met de fles als enig dynamisch element door de reflecties en transparantie.",
-      "cyclus": 6548,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in reflecties op het glas (somtimes te scherp, soms te vaag)', 'Sandschilfers rond het flesje hebben onnatuurlijke, herhalende patronen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een stillleven met een onderliggende vraag, niet op een bevestigend beeld.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006548_6622.webp"
     }
   ],
   "afgekeurd": [
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6596,
-    "gemaakt": 6669,
-    "gekozen": 938,
+    "cycli": 6604,
+    "gemaakt": 6677,
+    "gekozen": 941,
     "afgekeurd": 855,
-    "corpus": 78,
+    "corpus": 77,
     "notities": 335
   }
 }
