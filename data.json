@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T19:15+02:00",
+  "bijgewerkt": "2026-08-13T19:30+02:00",
   "werk": [
+    {
+      "id": 7003,
+      "titel": "Diagonale panelen, onregelmatige contouren",
+      "beschrijving": "Een witte houten deur met diagonale panelen vult het midden van het beeld, omlijst door een lichtgrijze kozijn en een onregelmatige blauwe contour aan de boven- en zijkanten. De deur heeft een donkerbruine klink en twee scharnieren aan de linkerkant. Onder de deur loopt een smalle, rozeachtige plint langs een lichtgrijze vloer met subtiele kleurvariaties. De achtergrondmuur is egale, crèmekleurig, met zichtbare verfstrepen die een textuur suggereren. Het licht valt schuin van bovenaf, waardoor zachte schaduwen ontstaan rond de deur en de kozijn.",
+      "cyclus": 6932,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet typisch ansichtkaart-achtig.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006932_7003.webp"
+    },
+    {
+      "id": 6997,
+      "titel": "Wolken die snijden in hout",
+      "beschrijving": "Een witte, wolkvormige schaar snijdt door een lichtbruine houten ondergrond met zichtbare nerf. Onder de wolk loopt een smalle, witte strook die overgaat in een grijze, getande rand, gevolgd door een donkergrijze punt. De schaar heeft een zachte, wollige textuur en werpt een lichte schaduw op het hout. De compositie is centraal en minimalistisch, met een focus op de contrasten tussen de vormen en de textuurverschillen tussen het papier en het hout.",
+      "cyclus": 6926,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006926_6997.webp"
+    },
     {
       "id": 6982,
       "titel": "Korrels zonder horizon",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006891_6962.webp"
-    },
-    {
-      "id": 6957,
-      "titel": "Het raster dat deelt",
-      "beschrijving": "Een smalle, houten dam strekt zich uit over een breed wateroppervlak, met aan weerskanten rustig, grijsbruin water dat de horizon raakt. Over de lengte van de dam loopt een wit, gaasachtig patroon van gekruiste koorden, dat een raster vormt met kleine vierkante openingen. Het hout is donkerbruin, met sporen van slijtage en verspreide naalden en takjes. Aan de horizon zijn vaag bomen en gebouwen zichtbaar. Het witte gaas contrasteert scherp met het donkere hout en het water, en lijkt de dam in twee gelijke helften te delen. Kleurrijke details ontbreken, behalve de subtiele bruine en grijze tinten van het landschap.",
-      "cyclus": 6886,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het water aan weerskanten', 'Enkele witte vlekken op het oppervlak lijken artificieel toegevoegd']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de compositie is gericht op een abstracte, bijna industriële structuur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006886_6957.webp"
-    },
-    {
-      "id": 6955,
-      "titel": "Negen schaduwen in geelgroen",
-      "beschrijving": "Negen gansvogels zweven door een dicht bos met slanke, donkere stammen en geelgroene bladeren die het zonlicht vangen. Hun vleugels staan wijd open, met donkergrijze veren aan de bovenzijde en witte onderdelen bij de romp. Oranje poten strekken uit in verschillende vluchtposities. Onder hen ontrolt zich een weelderig landschap van hoge, groene grassen met gele en roze bloemblaadjes verspreid. De achtergrond bestaat uit een onscherp patroon van bomen en gebladerte, waarbij licht en schaduw een diepte creëren die de vogels schijnbaar uit het beeld laat stappen. De compositie straal een gevoel van vrijheid en beweging uit, met de vogels als dynamische punten die de blik door het tafereel leiden.",
-      "cyclus": 6884,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is dynamisch en niet statisch-romantisch, met een focus op beweging en niet op een iconisch landschap.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006884_6955.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7005,
+      "cyclus": 6934,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Regenboog boven golven is een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes.",
+      "bestand": "images/a006934_7005.webp"
+    },
     {
       "id": 6979,
       "cyclus": 6908,
@@ -137,15 +146,6 @@
       "tech_notities": "['Duidelijke naad tussen boven- en onderbeeld met mismatch in horizon en lichtval', 'Herhaling van golven en rotsen met lichte vervorming aan randen', 'Onduidelijke textuur in zand en rotsen door overmatige gladstrijking']",
       "cliche_notities": "Zonsondergang over water met perfecte reflectie en decoratieve compositie zonder onverwachte elementen of standpunt",
       "bestand": "images/a006907_6978.webp"
-    },
-    {
-      "id": 6963,
-      "cyclus": 6892,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de regenboog (binnenste bogen scherper dan buitenste)', 'Wazige overgang tussen donkere achtergrond en regenboog aan de horizon']",
-      "cliche_notities": "Regenboog boven een rivier is een klassiek iconisch motief zonder duidelijke compositorische of conceptuele draai",
-      "bestand": "images/a006892_6963.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6931,
-    "gemaakt": 7002,
-    "gekozen": 997,
-    "afgekeurd": 899,
-    "corpus": 73,
+    "cycli": 6939,
+    "gemaakt": 7009,
+    "gekozen": 999,
+    "afgekeurd": 900,
+    "corpus": 72,
     "notities": 345
   }
 }
