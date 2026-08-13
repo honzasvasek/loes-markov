@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T13:15+02:00",
+  "bijgewerkt": "2026-08-13T13:30+02:00",
   "werk": [
+    {
+      "id": 6811,
+      "titel": "Wie vormt wie nu?",
+      "beschrijving": "Twee kleine, van klei gebeeldschapte figuren liggen op een zandig oppervlak, omgeven door blauwe en witte, vloeistofachtige patronen die aan water denken laten. Het bovenste figuur wordt door een wit, netachtig patroon omhuld, terwijl het onderste figuur door golvende, roomkleurige strepen begeleid wordt. Een hand met een paletmes voegdt zand toe aan een geel, roomachtig element dat tussen de figuren ligt. De figuren hebben donker haar, roze wangen en kleine, uitdrukkingloze ogen. Het zand is fijn en ongelijkmatig verdeeld, met sporen van beweging. De achtergrond bestaat uit een effen, lichtbruin oppervlak.",
+      "cyclus": 6737,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van zand bij bovenste figuur vs. onderste figuur', 'Hand van de kunstenaar mist vingerspitsen en lijkt iets afgezaagd']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie en symboliek zijn ongebruikelijk en uitdagerend",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006737_6811.webp"
+    },
+    {
+      "id": 6806,
+      "titel": "Scheurtje in de realiteit",
+      "beschrijving": "Drie witte enveloppen liggen gestapeld op een donkere achtergrond, met een oranje bovenrand die een scheurtje onthult. Uit de middelste envelop stroomt een regenboogkleurige, doorzichtige structuur met een netwerkpatroon, omgeven door donkerbruine korrels die lijken op aarde of poeder. Witte, wazige vormen die aan wolken denken, omringen de compositie aan weerskanten en onderaan. De enveloppen hebben een gladde textuur, terwijl de regenboogstructuur een glanzende, bijna glazen uitstraling heeft. De contrasten tussen de heldere kleuren en de donkere achtergrond creëren een dynamische, bijna dromerige sfeer.",
+      "cyclus": 6732,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en heeft een eigen standpunt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006732_6806.webp"
+    },
     {
       "id": 6795,
       "titel": "Inkt die zich herinnert",
@@ -91,35 +117,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006701_6775.webp"
-    },
-    {
-      "id": 6764,
-      "titel": "Scheuren in de realiteit",
-      "beschrijving": "Een verweerd stuk drijfhout domineert het beeld, schuin geplaatst tegen een donkere achtergrond. Door scheuren in het hout verschijnen dynamische scènes: aan de linkerkant golven met wit schuim in blauwe en groene tinten, aan de rechterkant vlammen in oranje en rode golven. Tussen de lagen hout door prijkt een regenboog met levendige kleuren, die zowel uit het hout als uit de vlammen lijkt te ontsnappen. Witte, gescheurde papierlagen accentueren de overgangen tussen de verschillende werelden. De textuur van het hout is ruw en gedetailleerd, met knoesten en barsten die diepte toevoegen aan de compositie.",
-      "cyclus": 6690,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van hout (soms te glad, soms te gedetailleerd)', 'Rand van regenboogvlag iets te scherp/getekend tegenover organische achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; compositorisch is er een bewuste keuze gemaakt voor fragmentatie en contrast tussen elementen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006690_6764.webp"
-    },
-    {
-      "id": 6754,
-      "titel": "Vlam in glas",
-      "beschrijving": "Een glazen kop met een handvat staat centraal, gevuld met een donkere vloeistof en een brandende vlam die omhoog schiet. De vlam toont overgangen van oranje naar rood en geel, met subtiele witte highlights. Rond de kop zijn donkere, schetsachtige lijnen getekend, die een gevoel van beweging en chaos uitstralen. De achtergrond is neutraal beige, met wat schaduwen die de kop en de vlam omringen. Binnen de kop zweven donkerrode, amorf gevormde voorwerpen, mogelijk ijsblokjes of stukken hout. De compositie is verticaal gericht, met de vlam als focal point dat het oog naar boven leidt. De sfeer is intens en dynamisch, door de combinatie van vuur en de statische glazen vorm.",
-      "cyclus": 6680,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de kop (handvat lijkt niet helemaal logisch geplaatst)', 'Sommige lijnen in de achtergrond zijn wazig en onscherp, alsof ze te snel getekend zijn']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een eigenzinnige, bijna ongemakkelijke sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006680_6754.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6817,
+      "cyclus": 6743,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de velden (horizon lijkt te schuin)', 'Enkele penseelstreken in de regenboog zijn wat wazig/smeuiig']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische regenboog + idyllisch landschap + sentimentele symboliek (brieven, hart) zonder verrassende invalshoek.",
+      "bestand": "images/a006743_6817.webp"
+    },
     {
       "id": 6810,
       "cyclus": 6736,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van houten delen (soms te scherp, soms wazig)', 'Tekst onder de molen is niet altijd even leesbaar door ongelijkmatige focus']",
       "cliche_notities": "Molen als iconisch Nederlands symbool, gepaard met poëtische tekst die geen nieuwe invalshoek biedt.",
       "bestand": "images/a006722_6796.webp"
-    },
-    {
-      "id": 6786,
-      "cyclus": 6712,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief: de regenboog lijkt niet perfect symmetrisch boven het landschap te zweven, de randen van de bollen aan weerszijden zijn iets te plat/getekend, textuur van het gras is plaatselijk wat schematisch/wazig', 'Geen ernstige artefacten zoals vervormde handen of onmogelijke geometrie']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische regenboog boven een simplistisch landschap met decoratief licht en geen duidelijke compositorische keuze of eigen stem",
-      "bestand": "images/a006712_6786.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6739,
-    "gemaakt": 6812,
-    "gekozen": 961,
-    "afgekeurd": 874,
-    "corpus": 76,
+    "cycli": 6747,
+    "gemaakt": 6820,
+    "gekozen": 963,
+    "afgekeurd": 875,
+    "corpus": 75,
     "notities": 342
   }
 }
