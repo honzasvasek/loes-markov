@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T20:15+02:00",
+  "bijgewerkt": "2026-08-13T20:30+02:00",
   "werk": [
+    {
+      "id": 7032,
+      "titel": "Rook die blijft hangen",
+      "beschrijving": "Een zilverkleurige, driehoekige vorm met ingekerkte lijnen ligt schuin op een donkergrijze, matte ondergrond. De vorm heeft een scherpe punt aan de onderkant en een breder, afgerond deel bovenaan, waar een dunne, witte rookstraal opstijgt. De rook kronkelt zachtjes en verdwijnt in de bovenhoek van het beeld. De textuur van de vorm is korrelig en reflecteert licht, terwijl de achtergrond een uniforme, effen structuur heeft. De compositie is minimalistisch, met de vorm centraal geplaatst en de rook die een dynamisch element toevoegt aan de statische scène.",
+      "cyclus": 6961,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstract concept (stroom/stilling) met een bewuste keuze voor minimalisme en textuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w006961_7032.webp"
+    },
     {
       "id": 7025,
       "titel": "Tegen de wind getekend",
@@ -104,22 +117,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006911_6982.webp"
-    },
-    {
-      "id": 6981,
-      "titel": "Korrelig licht op grijs",
-      "beschrijving": "Een effen, lichtgrijze textuur vult het beeld, met een subtiel korrelig patroon dat de gehele oppervlakte bedekt. Het licht valt schuin van linksboven, waardoor de textuur een zachte, driedimensionale uitstraling krijgt en de rechterkant van het beeld iets donkerder is. Er zijn geen duidelijke vormen, figuren of objecten te zien, noch kleuren anders dan verschillende tinten grijs. De compositie is minimalistisch en rustig, zonder afleiding of dynamiek.",
-      "cyclus": 6910,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; het beeld is abstract en open, zonder bevestigende iconografie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006910_6981.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7037,
+      "cyclus": 6966,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur bij linkerbovenhoek (herhaalpatroon)', 'Wazige achtergrond bij rechterbovenhoek (smeuiig)']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten schuur met open deuren, iconisch en zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a006966_7037.webp"
+    },
+    {
+      "id": 7036,
+      "cyclus": 6965,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenbladen', 'Wazige overgang tussen achtergrond en voorgrond']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en decoratief licht zonder duidelijke compositorische keuze.",
+      "bestand": "images/a006965_7036.webp"
+    },
     {
       "id": 7031,
       "cyclus": 6960,
@@ -128,24 +146,6 @@
       "tech_notities": "['Vermengde textuur in water: golven en reflecties inconsistent', 'Bomen links hebben onnatuurlijke, gescheurde bast met herhalende patronen', 'Molen in achtergrond mist detail in schaduwen, watervlak heeft onrealistische glans']",
       "cliche_notities": "Typisch Nederlands landschap met molen, boerderijen en waterloop in een decoratieve, ansichtkaartachtige compositie zonder duidelijke artistieke keuzes.",
       "bestand": "images/a006960_7031.webp"
-    },
-    {
-      "id": 7029,
-      "cyclus": 6958,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in golflengte en textuur aan horizon', 'Subtiele halo rond windmolen door hoog contrast']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse windmolen tegen dramatische hemel met perfect geplaatste golven, zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a006958_7029.webp"
-    },
-    {
-      "id": 7022,
-      "cyclus": 6951,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Molen met klassieke achtergrond en decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a006951_7022.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6963,
-    "gemaakt": 7033,
-    "gekozen": 1004,
-    "afgekeurd": 906,
-    "corpus": 72,
+    "cycli": 6971,
+    "gemaakt": 7041,
+    "gekozen": 1005,
+    "afgekeurd": 908,
+    "corpus": 73,
     "notities": 346
   }
 }
