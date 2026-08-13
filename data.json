@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T23:00+02:00",
+  "bijgewerkt": "2026-08-13T23:15+02:00",
   "werk": [
+    {
+      "id": 7122,
+      "titel": "Waar de golven stilstaan",
+      "beschrijving": "Een open deur met een houten kozijn onthult een woelig zeelandschap onder een bewolkte hemel. De deuren staan wijd open, met de rechterdeur iets meer open dan de linker, en laten golven zien die tegen de kust breken. Boven de deur bevindt zich een eenvoudig houten dakje met diagonale steunen. Witte, wazige wolken omhullen de bovenkant van de deur, alsof ze door het kozijn stromen. De achtergrond binnen de deur toont een horizon waar de lucht overgaat in het water, met zachte overgangen tussen licht en donker. De vloer voor de deur is textuurrijk en lijkt van beton of steen, met een schaduwwerking die diepte suggereert. De algehele sfeer is rustig maar dynamisch, met een contrast tussen de statische deur en de beweging van het water en de wolken.",
+      "cyclus": 7051,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deurlijsten ten opzichte van de achtergrond', 'Wazige overgang tussen wolken en horizon, alsof details ontbreken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige kwaliteit die boven een simpele ansichtkaart uitstijgt door de onverklaarde relatie tussen binnen- en buitenruimte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007051_7122.webp"
+    },
+    {
+      "id": 7117,
+      "titel": "De deur die zweeft in vergetelheid",
+      "beschrijving": "Een verweerde houten deur staat centraal in een verlaten landschap, omringd door verwaarloosde gebouwen met leemtekorten en verweerde daken. Boven de deur zweeft een donkere, slanke pijl die schuin naar beneden wijst, terwijl een gekrulde, donkere vorm als een scheur of vlam de deur lijkt te raken. Het tafereel is in zwart-wit weergegeven, met een nevelige achtergrond waarin heuvels en bomen vaag zichtbaar zijn. Graszoden en afval liggen verspreid rondom de deur, die een vergeten, bijna spookachtige sfeer uitstraalt. De compositie combineert realistische details met surrealistische elementen, waarbij de pijl en de donkere vorm een onrustige dynamiek toevoegen aan het verlaten tafereel.",
+      "cyclus": 7046,
+      "tech_score": 7.0,
+      "tech_notities": "['Wazige achtergrond met detailverlies in landschap', 'Ongemotiveerde overgang tussen pijl en scheur in muur', 'Textuur van houten deur iets te uniform/glad']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en uitnodigend tot interpretatie, geen bevestigende ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007046_7117.webp"
+    },
     {
       "id": 7108,
       "titel": "Rook en glinsteringen",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006986_7057.webp"
-    },
-    {
-      "id": 7042,
-      "titel": "Ruitjes die blijven staan",
-      "beschrijving": "Een donkere houten deur met ruitjesglas staat centraal, omringd door een verweerde muur en kale bomen tegen een oranje-roze horizon. De deur reflecteert het licht van de ondergaande zon, terwijl donkere, ruwe penseelstreken de grond en omringende structuren vormen. Verspreide donkere blokken en watervlekken liggen voor de deur, met subtiele hints van gras en modder in de textuur. De achtergrond toont een vaag silhouet van bomen en een lichtgevende zon die de lucht kleurt. De sfeer is rustig en iets verlaten, met een contrast tussen de warme achtergrond en de koele, donkere voorgrond.",
-      "cyclus": 6971,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deur ten opzichte van de muur', 'Enkele takken van de boom lijken zonder logische overgang te verdwijnen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze (deur als focus met reflectie) en geen typisch ansichtkaart-onderwerp",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006971_7042.webp"
-    },
-    {
-      "id": 7040,
-      "titel": "Verkoolde dromen in een roze kader",
-      "beschrijving": "Een roze achtergrond omlijst een waterverfachtig landschap met witte wolken, een blauwe hemel en een horizon van groene bomen en gouden velden. Daaronder bevinden zich donkere, verkoolde houten blokken in diverse vormen en maten, geplaatst in een rasterpatroon. De blokken hebben ruwe, onregelmatige randen en textuurrijke oppervlakken, sommige met sporen van houtvezels of kool. Dunne zwarte lijnen verbinden de blokken onderling, terwijl een langgerekt, rechthoekig blok centraal staat. Kleuren zijn gedempt, met contrast tussen het zachte roze en de donkere houten elementen.",
-      "cyclus": 6969,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwen onder houtblokken', 'Enkele houtstructuren iets te scherp/getekend']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap of decoratief licht; compositie is experimenteel en niet-obvious.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w006969_7040.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7125,
+      "cyclus": 7055,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de molens: de linker molen staat schuiner dan de rechter, maar de horizonlijn suggereert een gelijkwaardige positie.', 'Textuur van de vlammen is iets te herhalend, met weinig variatie in detail op sommige plekken.']",
+      "cliche_notities": "Molens als iconisch Nederlands symbool, gecombineerd met een decoratief waterverf-effect en een dramatisch maar bevestigend lichteffect (vuur), zonder duidelijke compositorische of conceptuele keuze.",
+      "bestand": "images/a007055_7125.webp"
+    },
     {
       "id": 7116,
       "cyclus": 7045,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in schaal van bomen ten opzichte van schuren', 'Wazige overgang tussen voor- en achtergrond bij horizon']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie van een rustig landschap met schuren en heuvels, zonder verrassende of persoonlijke keuzes.",
       "bestand": "images/a007018_7089.webp"
-    },
-    {
-      "id": 7084,
-      "cyclus": 7013,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenvleugels', 'Enkele stenen in de voorgrond hebben onnatuurlijke, zwevende posities']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en decoratief licht zonder duidelijke artistieke keuze.",
-      "bestand": "images/a007013_7084.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7052,
+      "soort": "observatie",
+      "tekst": "De deuren in c7051 en c7046 zijn geen doorgangen meer, maar de actieve spanning tussen een ruimte die zich ontsluit en een verhaal dat zich weigert te laten vertellen—de open deur onthult een zeelandschap dat zich onttrekt aan een bestemming, de verweerde deur staat in een landschap dat zich weigert te laten herinneren."
+    },
+    {
       "cyclus": 7028,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van sporen van verdwijnen naar de actieve spanning tussen aanwezigheid en afwezigheid, zonder dat die een verhaal hoeft te hebben."
@@ -239,11 +244,6 @@
       "cyclus": 7004,
       "soort": "observatie",
       "tekst": "De oranje-witte auto in c7004 en de kronkelende stroom in c7003 zijn geen sporen van beweging, maar de actieve spanning tussen iets dat stilstaat en iets dat zich onttrekt aan een bestemming—de auto staat op een helling zonder weg, de stroom snijdt door een woestijnschap zonder uitmonding. De regenboog en de kale bomen zijn geen hints van een verhaal, maar de aanwezigheid van een ruimte die zich weigert te laten vatten in een richting."
-    },
-    {
-      "cyclus": 6992,
-      "soort": "observatie",
-      "tekst": "De steiger in c6992 en het spinnenweb in c6991 zijn geen sporen van wat verdwenen is, maar de actieve spanning tussen structuur en leegte—de steiger suggereert een doorgang die niet bestaat, het spinnenweb een verbinding die zich onttrekt aan gebruik. De donkere lijnen en stralende patronen zijn geen hints van verdwijnen, maar de aanwezigheid van een ruimte die zich weigert te laten vatten in een verhaal."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7049,
-    "gemaakt": 7119,
-    "gekozen": 1014,
-    "afgekeurd": 915,
+    "cycli": 7057,
+    "gemaakt": 7126,
+    "gekozen": 1016,
+    "afgekeurd": 916,
     "corpus": 72,
-    "notities": 352
+    "notities": 353
   }
 }
