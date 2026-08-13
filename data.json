@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T20:30+02:00",
+  "bijgewerkt": "2026-08-13T20:45+02:00",
   "werk": [
     {
       "id": 7032,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7049,
+      "cyclus": 6978,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de horizonlijn', 'Enkele rietstengels hebben onnatuurlijke, stugge vormen']",
+      "cliche_notities": "Dit is een typisch landschapsschilderij met een gracht en riet, geschilderd in een decoratieve, rustgevende stijl zonder duidelijke persoonlijke interpretatie.",
+      "bestand": "images/a006978_7049.webp"
+    },
+    {
       "id": 7037,
       "cyclus": 6966,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenbladen', 'Wazige overgang tussen achtergrond en voorgrond']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en decoratief licht zonder duidelijke compositorische keuze.",
       "bestand": "images/a006965_7036.webp"
-    },
-    {
-      "id": 7031,
-      "cyclus": 6960,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Vermengde textuur in water: golven en reflecties inconsistent', 'Bomen links hebben onnatuurlijke, gescheurde bast met herhalende patronen', 'Molen in achtergrond mist detail in schaduwen, watervlak heeft onrealistische glans']",
-      "cliche_notities": "Typisch Nederlands landschap met molen, boerderijen en waterloop in een decoratieve, ansichtkaartachtige compositie zonder duidelijke artistieke keuzes.",
-      "bestand": "images/a006960_7031.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6971,
-    "gemaakt": 7041,
+    "cycli": 6979,
+    "gemaakt": 7049,
     "gekozen": 1005,
-    "afgekeurd": 908,
-    "corpus": 73,
+    "afgekeurd": 909,
+    "corpus": 72,
     "notities": 346
   }
 }
