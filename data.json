@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T22:45+02:00",
+  "bijgewerkt": "2026-08-13T23:00+02:00",
   "werk": [
     {
       "id": 7108,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7116,
+      "cyclus": 7045,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: zonsondergang over een woonstraat met silhouetbomen, decoratief licht en geen duidelijke compositorische keuze beyond het klassieke goud-adem-moment.",
+      "bestand": "images/a007045_7116.webp"
+    },
+    {
       "id": 7089,
       "cyclus": 7018,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenvleugels', 'Enkele stenen in de voorgrond hebben onnatuurlijke, zwevende posities']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, landschap) en decoratief licht zonder duidelijke artistieke keuze.",
       "bestand": "images/a007013_7084.webp"
-    },
-    {
-      "id": 7078,
-      "cyclus": 7007,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de lijst ten opzichte van de achtergrond', 'Wazige overgang tussen regenboog en achtergrond, alsof het een gesmeerde textuur is']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een magisch moment (regenboog) in een idyllisch landschap, gezien door een raam, zonder onverwachte of uitdagende keuzes.",
-      "bestand": "images/a007007_7078.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7041,
-    "gemaakt": 7111,
+    "cycli": 7049,
+    "gemaakt": 7119,
     "gekozen": 1014,
-    "afgekeurd": 914,
+    "afgekeurd": 915,
     "corpus": 72,
     "notities": 352
   }
