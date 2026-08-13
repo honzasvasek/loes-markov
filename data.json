@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T22:30+02:00",
+  "bijgewerkt": "2026-08-13T22:45+02:00",
   "werk": [
+    {
+      "id": 7108,
+      "titel": "Rook en glinsteringen",
+      "beschrijving": "Een ruimte met een houten dakconstructie en lichte muren, waar een donkergrijze, onregelmatige massa de vloer bedekt. Uit een opening in die massa stijgt een witte, wazige rookwolk op die zich in slingerende vormen naar boven uitstrekt. Een smalle, witte spleet loopt door de massa, met kleine, glanzende voorwerpen erbij. De sfeer is rustig, met een subtiele spanning door de rook en de onrustige textuur van de massa.",
+      "cyclus": 7037,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van houten balken plafond', 'Wazige overgang tussen rook en achtergrondmuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; beeld heeft een ongemakkelijke, verontrustende sfeer die bovenop een ansichtkaart past.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007037_7108.webp"
+    },
+    {
+      "id": 7105,
+      "titel": "Rook die wortelt in de aarde",
+      "beschrijving": "Donkere, korrelige aarde vormt de achtergrond, doorspekt met kleine stenen, droge takjes en verspreide zaadjes. Een smalle, witte rookstraal ontspringt in het midden en kronkelt omhoog, waarbij zich subtiele vertakkingen vormen die aan wortels of aders doen denken. De rook wordt breder naarmate hij hoger komt en lost op in zachte, wazige vormen. Het contrast tussen de donkere grond en de heldere rook is scherp, waardoor de beweging van de rook duidelijk zichtbaar is. Kleine details zoals een voetafdruk in de aarde en fijne textuurverschillen in de grond verrijken het beeld.",
+      "cyclus": 7034,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte halo rond de witte rook, vooral bij hoog contrast met de donkere achtergrond', 'Enkele dunne takjes en stengeltjes lijken inconsistent gepositioneerd ten opzichte van de textuur van de grond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief, maar gericht op een abstracte, bijna spirituele vorm van aanwezigheid.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007034_7105.webp"
+    },
     {
       "id": 7085,
       "titel": "Rood door de wolken",
@@ -91,32 +117,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006969_7040.webp"
-    },
-    {
-      "id": 7032,
-      "titel": "Rook die blijft hangen",
-      "beschrijving": "Een zilverkleurige, driehoekige vorm met ingekerkte lijnen ligt schuin op een donkergrijze, matte ondergrond. De vorm heeft een scherpe punt aan de onderkant en een breder, afgerond deel bovenaan, waar een dunne, witte rookstraal opstijgt. De rook kronkelt zachtjes en verdwijnt in de bovenhoek van het beeld. De textuur van de vorm is korrelig en reflecteert licht, terwijl de achtergrond een uniforme, effen structuur heeft. De compositie is minimalistisch, met de vorm centraal geplaatst en de rook die een dynamisch element toevoegt aan de statische scène.",
-      "cyclus": 6961,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstract concept (stroom/stilling) met een bewuste keuze voor minimalisme en textuur.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006961_7032.webp"
-    },
-    {
-      "id": 7025,
-      "titel": "Tegen de wind getekend",
-      "beschrijving": "Donkere, slanke takken strekken zich uit tegen een achtergrond van zachte roze en beige tinten, met subtiele bruine vlekken die een textuur suggereren. Kleine zwarte stippen zijn verspreid over het beeld, terwijl de takken een bijna abstract patroon vormen dat de blik door het compositie leidt. De kleuren vloeien soepel in elkaar over, met de roze tinten die een luchtige sfeer creëren tegen de earthier bruine en beige gebieden.",
-      "cyclus": 6954,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006954_7025.webp"
     }
   ],
   "afgekeurd": [
@@ -313,9 +313,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7033,
-    "gemaakt": 7103,
-    "gekozen": 1012,
+    "cycli": 7041,
+    "gemaakt": 7111,
+    "gekozen": 1014,
     "afgekeurd": 914,
     "corpus": 72,
     "notities": 352
