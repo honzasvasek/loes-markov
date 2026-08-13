@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T01:45+02:00",
+  "bijgewerkt": "2026-08-13T02:00+02:00",
   "werk": [
+    {
+      "id": 6434,
+      "titel": "Twee daken, één weg",
+      "beschrijving": "Een landschap met twee huizen op een heuvel, getekend in donkere en lichte tinten van grijs en zwart. Een kronkelende weg loopt van de voorgrond naar de huizen, omgeven door donkere vlekken die bomen en struiken suggereren. De achtergrond bestaat uit een onscherpe, getextureerde hemel met verspreide donkere vlekken. Rechtsboven staat een kleinere, donkerdere woning naast een groter, lichter huis met een schuin dak. Donkere, spetterende vormen langs de weg en bij de huizen geven de indruk van vegetatie of rotsen. De compositie straalt een rustige, iets verlaten sfeer uit, met een focus op de relatie tussen de gebouwen en het omringende landschap.",
+      "cyclus": 6360,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van huizen (dak van middelste huis loopt te schuin)', 'Enkele vervormde takken boom links (te veel herhaling patronen)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een abstracte, sfeervolle weergave met persoonlijke compositorische keuzes (bijv. de kronkelende weg als leidende lijn).",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006360_6434.webp"
+    },
+    {
+      "id": 6431,
+      "titel": "Waar de scheur begint te ademen",
+      "beschrijving": "Een open houten deur met panelen en donkere klinken onthult een lichte ruimte met een getegelde vloer. Door de deur loopt een donkere, kronkelende scheur die zich uitstrekt naar binnen, waarbij de tegels fragmentarisch en licht vervormd lijken. Boven de deur bevindt zich een golvende, rookachtige vorm die zich naar boven uitstrekt. De muren zijn licht getekend met subtiele schaduwen, en de hoeken van de ruimte zijn zacht afgerond. De sfeer is rustig, met een lichte onrust door de scheur en de onverklaarde vorm boven de deur.",
+      "cyclus": 6357,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van de lijst', 'Wazige overgang tussen muur en plafond aan weerskanten']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op een mysterieus/spiritueel moment, niet op een bevestigend landschap.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006357_6431.webp"
+    },
     {
       "id": 6423,
       "titel": "Wat blijft drijven?",
@@ -91,35 +117,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w006309_6383.webp"
-    },
-    {
-      "id": 6377,
-      "titel": "Kolen en groen achter de kier",
-      "beschrijving": "Een donkere houten deur staat op een kier in een grijze muur, met aan weerskanten verspreide kolen en kleine stenen op de betonnen vloer. Door de opening ontvouwt zich een groen landschap met hoog gras dat de voorgrond domineert. Verderop staat een metalen windmolen met zes wieken, naast een klein houten schuurtje met een donker dak. Twee bomen flankaan het schuurtje, tegen een bewolkte hemel. De deur heeft een klassieke panelenstructuur en een donkere metalen klink. Het gras lijkt in de wind te waaien, met individuele stengels scherp zichtbaar. De overgang van de grijze muur naar het levendige groen is scherp getrokken.",
-      "cyclus": 6303,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van muur vs. deurkozijn (muur te uniform, deur te gedetailleerd)', 'Schaduw onder deur logisch maar iets te scherp afgetekend']",
-      "academie_cliche": 0,
-      "cliche_notities": "Hoewel de molen een Nederlands symbool is, is de compositie (deur als raam naar verleden) en de zwart-wit/met-kleur-contrast geen standaard-ansichtkaartbehandeling",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006303_6377.webp"
-    },
-    {
-      "id": 6370,
-      "titel": "Ijs dat smelt in het zand",
-      "beschrijving": "Een glazen fles met ijsblokjes staat half in het zand, met een donkere, gladde steen ernaast. Rond de fles en de steen ligt een plas helder water dat zich uitstrekt over het zand, met kleine reflecties van licht en donker. In het water drijven zachte, witte bloemhoofdjes en kleine, donkere deeltjes. Enkele groene grassprietjes steken uit het zand, met schaduwen die over het zand vallen. Het zand heeft een textuur van kleine hobbelletjes en golven, met verspreide kleine steentjes en schelpjes. De achtergrond bestaat uit een zandlandschap met zachte, golvende patronen.",
-      "cyclus": 6296,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwval van fles en rots, textuur zand wat repetitief', 'Kleine halo rond rand van overgelopen water']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen typisch iconisch onderwerp, compositorische keuzes (overloop, dandelionzaadjes) geven eigen standpunt",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006296_6370.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6441,
+      "cyclus": 6367,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur bij dakkapellen (soms scherp, soms wazig)', 'Gezichten op hout lijken geplakt (geen natuurlijke integratie met houtstructuur)']",
+      "cliche_notities": "Molens en polderlandschap in achtergrond vormen typisch Nederlands ansichtkaartmotief zonder verrassende invalshoek.",
+      "bestand": "images/a006367_6441.webp"
+    },
+    {
+      "id": 6437,
+      "cyclus": 6363,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch kerkgebouw bij gouden uur, perfect symmetrisch en zonder onverwachte compositorische keuzes.",
+      "bestand": "images/a006363_6437.webp"
+    },
     {
       "id": 6427,
       "cyclus": 6353,
@@ -128,24 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartscompositie met een iconisch landschap (zonsondergang over een pad met gras), decoratief licht en geen duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a006353_6427.webp"
-    },
-    {
-      "id": 6420,
-      "cyclus": 6346,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte onscherpte in achtergrondmolens, maar geen duidelijke generatie-artefacten', 'Textuur van scheur in papier plausibel, maar wat kunstmatig gedetailleerd']",
-      "cliche_notities": "Molens in landschap met dramatisch licht en klassieke compositie passen bij toeristische ansichtkaart",
-      "bestand": "images/a006346_6420.webp"
-    },
-    {
-      "id": 6416,
-      "cyclus": 6342,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van houten planken (soms te scherp, soms wazig)', 'Reflectie in water iets te perfect/glad, mist natuurlijke onregelmatigheden']",
-      "cliche_notities": "Typisch romantisch landschap met wilg, water en zachte zonsondergang, zonder onverwachte compositorische keuzes",
-      "bestand": "images/a006342_6416.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6363,
-    "gemaakt": 6436,
-    "gekozen": 896,
-    "afgekeurd": 824,
-    "corpus": 74,
+    "cycli": 6371,
+    "gemaakt": 6445,
+    "gekozen": 898,
+    "afgekeurd": 826,
+    "corpus": 73,
     "notities": 333
   }
 }
