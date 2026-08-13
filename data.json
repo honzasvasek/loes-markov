@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-13T23:15+02:00",
+  "bijgewerkt": "2026-08-13T23:30+02:00",
   "werk": [
+    {
+      "id": 7126,
+      "titel": "Vonken in het zand",
+      "beschrijving": "Een verbrandde houten balk rust op zand, met een smalle strook oranje-gloeibare hitte en vonken die omhoog spatten. Het hout is zwartgeblakerd, met diepe barsten en een ruwe textuur. Rondom de balk liggen verspreid kleine donkere stenen en korrels zand, terwijl de achtergrond bestaat uit zachte, golvende zandduinen onder een heldere, neutrale hemel. Het licht valt schuin, waardoor de balk een donkere schaduw werpt en de vonken scherp afsteken tegen het zand.",
+      "cyclus": 7056,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een dynamisch moment in plaats van een statisch tafereel.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007056_7126.webp"
+    },
     {
       "id": 7122,
       "titel": "Waar de golven stilstaan",
@@ -13,6 +26,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007051_7122.webp"
+    },
+    {
+      "id": 7121,
+      "titel": "Vuur dat blijft fluisteren",
+      "beschrijving": "Een verbrandde, verlaten ruimte met een donkere deur in het midden, omringd door as, houtresten en vuur dat nog always brandt aan weerskanten. De muren zijn donker en verweerd, met losse stukken papier en afval verspreid over de grond. De vlammen zijn helder oranje en gouden, in contrast met de grijze en zwarte tinten van de omgeving. De deur staat open en onthult een donkere gang, terwijl de vloer bedekt is met puin en kleine stenen. De sfeer is verlaten en verwoestend, met een gevoel van recente chaos.",
+      "cyclus": 7050,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van papier aan linker- en rechterrand', 'Vlammen rechtsboven iets te scherp/getekend, minder natuurlijk']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust chaotisch en uitnodigend tot reflectie",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007050_7121.webp"
     },
     {
       "id": 7117,
@@ -91,35 +117,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006996_7067.webp"
-    },
-    {
-      "id": 7065,
-      "titel": "Waar de wind zachtjes kust",
-      "beschrijving": "Goudbruine en groene grasstengels reiken naar een zachte, grijswitte hemel, met fijne, veerkrachtige bloemtrossen die in de wind lijken te dwarrelen. Donkere en roodbruine accenten doorbreken de lichte tinten, terwijl subtiele paarse en blauwe strepen door de stengels lopen. De achtergrond vervaagt in een effen, luchtige textuur, waardoor het gras de volle aandacht trekt. Kleine, glinsterende details, zoals druppeltjes of zaden, verspreiden zich door de trossen, wat een gevoel van beweging en levendigheid toevoegt aan het tafereel.",
-      "cyclus": 6994,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave bij de achtergrond (smeuiig)', 'Enkele stengels tonen subtiele vervormingen in structuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschapsthema; de compositie is abstract en niet decoratief gericht",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006994_7065.webp"
-    },
-    {
-      "id": 7057,
-      "titel": "Ijsnaalden en glinsterende strepen",
-      "beschrijving": "Groen gras bedekt de grond, doorsprongen door dunne, bevroren prikkels die glinsteren als ijsnaalden. Een glazen fles staat schuin in het gras, de hals naar boven gericht, met een lichte condensatie aan de buitenkant. Achter de fles loopt een regenboog van gekleurde strepen, van rood tot paars, die zich uitstrekt naar de horizon. De achtergrond is een zachte, grijsgroene mist die het landschap vervaagt. Het licht valt schuin, waardoor de ijsvormingen en de regenboog helder afsteken tegen het donkerdere gras. De sfeer is koud maar magisch, met een gevoel van stilte en verwondering.",
-      "cyclus": 6986,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het gras bij de fles (soms scherp, soms wazig)', 'Regenboog heeft een iets kunstmatige, te perfecte boogvorm']",
-      "academie_cliche": 0,
-      "cliche_notities": "Hoewel de regenboog een iconisch element is, is de combinatie met de bevroren plant en de lege fles een ongewone, denkbeeldige compositie die verder gaat dan een typische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006986_7057.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7133,
+      "cyclus": 7063,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['lichte vervorming vleugels bij enkele gans', 'onduidelijke achtergrondstructuren (bomen/huizen)']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische elementen (regenboog, dorpsgezicht, gans) en decoratief licht zonder eigen standpunt.",
+      "bestand": "images/a007063_7133.webp"
+    },
+    {
+      "id": 7129,
+      "cyclus": 7059,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in perspectief van huizen op achtergrond', 'enkele grastoppen in voorgrond iets te scherp getekend voor watercolor-stijl']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorpsgezicht met roodgetegelde daken en een weids landschap, zonder duidelijke compositorische of thematische keuze die verder gaat dan een decoratief beeld.",
+      "bestand": "images/a007059_7129.webp"
+    },
     {
       "id": 7125,
       "cyclus": 7055,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de molens: de linker molen staat schuiner dan de rechter, maar de horizonlijn suggereert een gelijkwaardige positie.', 'Textuur van de vlammen is iets te herhalend, met weinig variatie in detail op sommige plekken.']",
       "cliche_notities": "Molens als iconisch Nederlands symbool, gecombineerd met een decoratief waterverf-effect en een dramatisch maar bevestigend lichteffect (vuur), zonder duidelijke compositorische of conceptuele keuze.",
       "bestand": "images/a007055_7125.webp"
-    },
-    {
-      "id": 7116,
-      "cyclus": 7045,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: zonsondergang over een woonstraat met silhouetbomen, decoratief licht en geen duidelijke compositorische keuze beyond het klassieke goud-adem-moment.",
-      "bestand": "images/a007045_7116.webp"
-    },
-    {
-      "id": 7089,
-      "cyclus": 7018,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaal van bomen ten opzichte van schuren', 'Wazige overgang tussen voor- en achtergrond bij horizon']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een rustig landschap met schuren en heuvels, zonder verrassende of persoonlijke keuzes.",
-      "bestand": "images/a007018_7089.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7057,
-    "gemaakt": 7126,
-    "gekozen": 1016,
-    "afgekeurd": 916,
-    "corpus": 72,
+    "cycli": 7066,
+    "gemaakt": 7135,
+    "gekozen": 1018,
+    "afgekeurd": 918,
+    "corpus": 71,
     "notities": 353
   }
 }
