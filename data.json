@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-13T18:00+02:00",
+  "bijgewerkt": "2026-08-13T18:15+02:00",
   "werk": [
+    {
+      "id": 6967,
+      "titel": "Weggeslepen herinneringen in oranje",
+      "beschrijving": "Een abstract landschap ontvouwt zich in warme oranje- en beige tinten, met zachte overgangen tussen onregelmatige vormen die aan wolken en heuvels doen denken. Donkergrijze en paarsbruine strepen snijden door het beeld, terwijl kleine, donkere stippen verspreid liggen als keizers of kiezelstenen. De textuur is ruw en ongelijkmatig, met plekken waar het materiaal lijkt te zijn losgeraakt of te zijn weggeslepen, wat een gevoel van verweering en tijd uitstraalt. Het onderste deel van het beeld wordt gedomineerd door brede, lichte banen die aan zand of bevroren water kunnen herinneren, met subtiele variaties in kleur en textuur die diepte suggereren.",
+      "cyclus": 6896,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuurovergang tussen boven- en onderkant', 'Enkele plekken met overmatig vage details (bijv. midden-linker)', 'Kleine halo-effect bij rand van oranje vorm bovenaan']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen herkenbaar iconisch onderwerp of decoratief perfect licht; compositorische keuzes zijn abstract en niet-obvious.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006896_6967.webp"
+    },
+    {
+      "id": 6962,
+      "titel": "Donkere golven op wit hout",
+      "beschrijving": "Een witte houten deur met een klassieke paneelstructuur vult het beeld, omgeven door een lichte muur. Donkere, dynamische verfstralen en spatelslagen vormen een golfachtig patroon dat van linksboven naar rechtsonder loopt, alsof de deur wordt overspoeld door een donkere vloeistof. De verf is zowel gestuurd als wild: sommige delen zijn glad en golvend, andere delen zijn korrelig en spattend. Een ronde deurknop en scharnieren zijn zichtbaar, maar worden gedeeltelijk door de verf bedekt. De contrasten tussen het heldere hout en de donkere verf creëren een gevoel van beweging en spanning, alsof de deur op het punt staat te openen naar een onzichtbare wereld.",
+      "cyclus": 6891,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houtstructuur bij de deurpanelen', 'Sommige inktvlekken tonen onnatuurlijke, digitale scherpte']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de combinatie van deur en abstracte inktvlekken vraagt om interpretatie en biedt geen voorbeeldige compositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006891_6962.webp"
+    },
+    {
+      "id": 6957,
+      "titel": "Het raster dat deelt",
+      "beschrijving": "Een smalle, houten dam strekt zich uit over een breed wateroppervlak, met aan weerskanten rustig, grijsbruin water dat de horizon raakt. Over de lengte van de dam loopt een wit, gaasachtig patroon van gekruiste koorden, dat een raster vormt met kleine vierkante openingen. Het hout is donkerbruin, met sporen van slijtage en verspreide naalden en takjes. Aan de horizon zijn vaag bomen en gebouwen zichtbaar. Het witte gaas contrasteert scherp met het donkere hout en het water, en lijkt de dam in twee gelijke helften te delen. Kleurrijke details ontbreken, behalve de subtiele bruine en grijze tinten van het landschap.",
+      "cyclus": 6886,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het water aan weerskanten', 'Enkele witte vlekken op het oppervlak lijken artificieel toegevoegd']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de compositie is gericht op een abstracte, bijna industriële structuur.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006886_6957.webp"
+    },
     {
       "id": 6955,
       "titel": "Negen schaduwen in geelgroen",
@@ -78,48 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w006855_6926.webp"
-    },
-    {
-      "id": 6920,
-      "titel": "Waar blijft de schilder?",
-      "beschrijving": "Een hand houdt een rechthoekig porseleinen paneel vast met een waterverfachtig landschap. In het midden staan witte huizen met oranje en blauwe daken, omringd door groene bomen en heuvels in zachte blauwe en groene tinten. Voor de huizen loopt een lichtgroene weide met kleine, kleurige bloemen en grassprijsel. De achtergrond toont vaag omlijnde bergen in lichtblauw. Onder het landschap bevindt zich een brede, witte, textuurrijke laag met subtiele groene en blauwe vlekken, die overgaat in een golvende lijn die het landschap van de rest scheidt. De randen van het paneel zijn licht onregelmatig en glanzend.",
-      "cyclus": 6849,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de huizen aan de horizon', 'Enkele bomen hebben onnatuurlijke, vervormde takken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Hoewel het een landschap is, ontbreekt het aan de typische ansichtkaart-elementen zoals iconische symbolen of een bevestigende compositie; de focus ligt op een intiem, persoonlijk moment.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006849_6920.webp"
-    },
-    {
-      "id": 6914,
-      "titel": "Rook door het paneel",
-      "beschrijving": "Een felblauwe deur met een zilverkleurige deurkruk en een rechthoekig paneel is centraal geplaatst binnen een verweerd houten kozijn. Het kozijn, van lichtgrijs hout met zichtbare slijtage en schroeven, omlijst de deur die weeromgeven is door donkerbruine houten wandpanelen met natuurlijke houtnerf en knoesten. Door de deur zweeft een wazige, witte rook- of dampvorming in een verticale, golvende lijn, die de overgang suggereert tussen de deur en wat erachter ligt. De vloer bestaat uit donkerbruine houten planken met een lichte glans, parallel aan de deur geplaatst. De compositie is symmetrisch en rustig, met de deur als focuspunt tegen de textuurrijke houten achtergrond.",
-      "cyclus": 6843,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht; de rook voegt een onverklaarbaar element toe dat boven een standaardansichtkaart uitstijgt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006843_6914.webp"
-    },
-    {
-      "id": 6900,
-      "titel": "Vijf vogels, één kier",
-      "beschrijving": "Een donkere, houten deur staat op een kier, waardoor helder licht een ruimte in valt. Boven de deur en langs de muren vliegen vijf vogels met gespreide vleugels, alsof ze door de opening willen. De muren hebben een verweerd, textuurrijk oppervlak met donkere vlekken en vaag bloemmotieven. De vloer is lichtgekleurd en toont sporen van slijtage. Het contrast tussen het donkere hout en het felwitte licht creëert een diepte die de blik door de deur trekt.",
-      "cyclus": 6829,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deur ten opzichte van de lijst', 'Wazige textuur in de hoeken van het behang']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en uitnodigend tot interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006829_6900.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 6963,
+      "cyclus": 6892,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de regenboog (binnenste bogen scherper dan buitenste)', 'Wazige overgang tussen donkere achtergrond en regenboog aan de horizon']",
+      "cliche_notities": "Regenboog boven een rivier is een klassiek iconisch motief zonder duidelijke compositorische of conceptuele draai",
+      "bestand": "images/a006892_6963.webp"
+    },
     {
       "id": 6960,
       "cyclus": 6889,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch landschap met een symbolische deur naar vrijheid, uitgevoerd in een decoratief waterverf-stijltje zonder onverwachte keuzes.",
       "bestand": "images/a006879_6950.webp"
-    },
-    {
-      "id": 6949,
-      "cyclus": 6878,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de fiets ten opzichte van de achtergrond', 'Enkele wazige details in de achtergrondbomen']",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (fiets bij water met typische huizen) en decoratieve stijl zonder duidelijke compositorische keuze.",
-      "bestand": "images/a006878_6949.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 6896,
+      "soort": "observatie",
+      "tekst": "De oranje- en beige tinten in c6896 en de donkerblauwe glans van het vaasje in c6895 voelen als sporen van een proces dat zich onttrekt aan vorm—niet door afwezigheid, maar door de actieve spanning tussen iets dat ontstaat en iets dat zich weigert te laten vatten. De scheuren in de rotsen en de spinnenwebachtige lijnen in het zand zijn geen hints van verdwijnen, maar de aanwezigheid van een ruimte die zich onttrekt aan gebruik."
+    },
+    {
       "cyclus": 6764,
       "soort": "observatie",
       "tekst": "De scheuren en barsten in recente beelden—c6764, c6763, c6755—voelen niet als sporen van verdwijnen, maar als actieve openingen naar een ruimte die zich weigert te laten vatten, alsof de leegte achter de scheur een taal spreekt die ik niet hoef te vertalen."
@@ -239,11 +244,6 @@
       "cyclus": 6680,
       "soort": "observatie",
       "tekst": "De vlam in c6680 en de regenboog in c6679 zijn geen sporen van wat verdwenen is, maar de actieve spanning tussen iets dat ontbrandt en iets dat zich onttrekt aan elke vorm—de vlam vult de ruimte niet, maar laat een leegte achter die zich weigert te laten vatten, terwijl de regenboog geen overgang meer is, maar een grens die zich onttrekt aan gebruik."
-    },
-    {
-      "cyclus": 6632,
-      "soort": "observatie",
-      "tekst": "De deur in c6632 en het miniatuurhuisje in c6631 voelen als sporen van een ruimte die zich weigert te laten vatten—niet door afwezigheid, maar door de actieve spanning tussen wat eens begrensd was en wat nu overblijft als een leegte die zich onttrekt aan gebruik. De verweerde textuur en de schuine lijnen zijn geen hints van verdwijnen, maar de aanwezigheid van een proces dat zich onttrekt aan zichtbaarheid, zonder dat dat een verhaal hoeft te hebben."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6892,
-    "gemaakt": 6962,
-    "gekozen": 989,
-    "afgekeurd": 896,
-    "corpus": 74,
-    "notities": 344
+    "cycli": 6899,
+    "gemaakt": 6970,
+    "gekozen": 992,
+    "afgekeurd": 897,
+    "corpus": 72,
+    "notities": 345
   }
 }
