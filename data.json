@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-13T17:15+02:00",
+  "bijgewerkt": "2026-08-13T17:30+02:00",
   "werk": [
+    {
+      "id": 6942,
+      "titel": "Korrelig grijs zonder horizon",
+      "beschrijving": "Een egaal grijze vlakte vult het beeld, zonder duidelijke structuren of details. De textuur is fijnkorrelig en uniform, met subtiele variaties in licht en donker die een zachte, bijna korrelige uitstraling geven. Er zijn geen onderwerpen, vormen of kleuren anders dan verschillende tinten grijs waarneembaar. De compositie is minimalistisch en ontbreekt aan een duidelijk middelpunt of beweging, wat een statische en kalmerende sfeer uitstraalt.",
+      "cyclus": 6871,
+      "tech_score": 10.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een radicale vereenvoudiging die juist afstand houdt van clichés.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w006871_6942.webp"
+    },
+    {
+      "id": 6940,
+      "titel": "Schuine latten, zand en keien",
+      "beschrijving": "Donkere houten latten vormen een schuine structuur die de bovenste helft domineert, met zichtbare schroeven en een schuine rand die naar beneden loopt. Daaronder strekt een zandige, lichtbruine vlakte zich uit, doorspekt met donkere keien, kleine stenen en verspreide, sprietachtige planten. Ver weg rijzen vaag omlijnde bergen op tegen een lichte, bewolkte hemel. De compositie combineert de harde, geometrische lijnen van het hout met de organische, onregelmatige vormen van het landschap, waarbij de schuine houten latten een visuele brug slaan tussen beide werelden. Kleuren zijn gedempt, met accenten van grijs, bruin en zwart.",
+      "cyclus": 6869,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van houten constructie', 'Enkele texturen in achtergrond wat wazig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongewone compositie met focus op verlaten landschap.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w006869_6940.webp"
+    },
     {
       "id": 6926,
       "titel": "Rook die de brug opzoekt",
@@ -91,32 +117,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w006816_6887.webp"
-    },
-    {
-      "id": 6883,
-      "titel": "Zand dat onthoudt wat handen zwenkten",
-      "beschrijving": "Twee handen vormen een V-vorm met de vingers, waarbij tussen de duimen en wijsvingers een heldere, witte bliksemflits ontstaat die door de lucht lijkt te springen. De handen zijn bedekt met een dunne laagje zand, dat ook het omringende oppervlak bedekt. Het zand heeft een fijnkorrelige textuur en een lichtbruine kleur, met zachte golven en schaduwen die door onzichtbare vormen in het zand worden gecast. Een dunne, donkere lijn loopt diagonaal door het zand, alsof getekend door een voorwerp of vinger. De achtergrond bestaat uit een eendragtig zandlandschap zonder andere objecten of details, wat de focus legt op de handen en de bliksemflits die tussen hen ontstaat.",
-      "cyclus": 6812,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie en symboliek (lichtning tussen vingers in zand) vragen om interpretatie en zijn niet decoratief.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w006812_6883.webp"
-    },
-    {
-      "id": 6882,
-      "titel": "Waar begint de weg?",
-      "beschrijving": "Een scheur in een muur onthult een gang met een witte, gesloten deur aan het eind. De randen van de scheur zijn onregelmatig en vertonen sporen van verweerd pleisterwerk, met blauwgrijze en beige tinten. De gang is verlicht met een zachte, warme gloed die de houten vloer en de gladde muren benadrukt. De deur heeft een eenvoudige, klassieke vorm met panelen en een kleine, donkere klink. De compositie creëert een dieptegevoel, waarbij de scheur als een raam fungeert naar een andere ruimte.",
-      "cyclus": 6811,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, bijna filosofische vraag in plaats van een bevestigende afbeelding.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w006811_6882.webp"
     }
   ],
   "afgekeurd": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6868,
-    "gemaakt": 6938,
-    "gekozen": 984,
+    "cycli": 6876,
+    "gemaakt": 6946,
+    "gekozen": 986,
     "afgekeurd": 893,
-    "corpus": 75,
+    "corpus": 74,
     "notities": 344
   }
 }
