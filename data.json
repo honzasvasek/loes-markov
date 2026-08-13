@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T03:45+02:00",
+  "bijgewerkt": "2026-08-13T04:00+02:00",
   "werk": [
     {
       "id": 6499,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6511,
+      "cyclus": 6437,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van schuur (dak lijkt niet helemaal recht)', 'Enkele rietstengels hebben onnatuurlijke, herhalende vormen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch boerderijmotief met romantisch licht en een passieve, decoratieve uitstraling zonder duidelijke artistieke keuzes.",
+      "bestand": "images/a006437_6511.webp"
+    },
+    {
       "id": 6498,
       "cyclus": 6424,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief bij de verre heuvels', 'Enkele dieren hebben iets onnatuurlijke proporties']",
       "cliche_notities": "Dit is een typisch landschap met weidse natuur, koeien en een dramatische wolkenlucht, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a006416_6490.webp"
-    },
-    {
-      "id": 6483,
-      "cyclus": 6409,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van houtblokjes (sommige te scherp, andere wazig)', 'Bliksem heeft minimale halo-effect bij rand']",
-      "cliche_notities": "Molen en zonsondergang vormen klassieke ansichtkaartcombinatie zonder verrassende compositorische keuze",
-      "bestand": "images/a006409_6483.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6429,
-    "gemaakt": 6502,
+    "cycli": 6437,
+    "gemaakt": 6511,
     "gekozen": 906,
-    "afgekeurd": 832,
-    "corpus": 75,
+    "afgekeurd": 833,
+    "corpus": 74,
     "notities": 334
   }
 }
