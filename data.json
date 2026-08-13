@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T10:00+02:00",
+  "bijgewerkt": "2026-08-13T10:15+02:00",
   "werk": [
     {
       "id": 6706,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 6712,
+      "cyclus": 6638,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van papierachtergrond (rechtsboven wat korreliger dan linksonder)', 'Subtiele halo rond rand van regenboog bij hoog contrast (rood/blauw)']",
+      "cliche_notities": "Regenboog als universeel symbool van hoop/verlossing zonder compositorische verrassing of conceptuele diepgang, typisch voor decoratieve ansichtkaartesthetiek.",
+      "bestand": "images/a006638_6712.webp"
+    },
+    {
+      "id": 6710,
+      "cyclus": 6636,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het papier bovenaan vs. onderaan', 'Kleine halo rond de overgang regenboog-papier']",
+      "cliche_notities": "Regenboog als universeel symbool van hoop/positiviteit zonder verdere compositorische of conceptuele keuze",
+      "bestand": "images/a006636_6710.webp"
+    },
+    {
       "id": 6709,
       "cyclus": 6635,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in houttextuur op sommige planken (te uniform/herhalend)', 'Waterreflectie iets te glad/artistiek, niet natuurlijk plangewijs']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een symmetrische houten steiger die de kijker naar een rustige, romantiserende horizon leidt, met decoratief licht en geen duidelijke compositorische verstoren.",
       "bestand": "images/a006635_6709.webp"
-    },
-    {
-      "id": 6700,
-      "cyclus": 6626,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse elementen (molen, stegen, water) in een decoratief, symmetrisch kader zonder verrassend of kritisch standpunt.",
-      "bestand": "images/a006626_6700.webp"
-    },
-    {
-      "id": 6691,
-      "cyclus": 6617,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur bij de deur (beneden) vs. gevel (boven)', 'Enkele laddertreden aan weerskanten zijn asymmetrisch/geïnterpreteerd als decoratief, geen structurele fout']",
-      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse schuur/molen, met iconische X-beiting en perfecte symmetrie, zonder compositorische verrassingen.",
-      "bestand": "images/a006617_6691.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6636,
-    "gemaakt": 6709,
+    "cycli": 6644,
+    "gemaakt": 6717,
     "gekozen": 945,
-    "afgekeurd": 860,
+    "afgekeurd": 862,
     "corpus": 75,
     "notities": 339
   }
