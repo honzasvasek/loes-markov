@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T07:00+02:00",
+  "bijgewerkt": "2026-08-13T07:15+02:00",
   "werk": [
     {
       "id": 6599,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6619,
+      "cyclus": 6545,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de molenschachten', 'Wazige overgang tussen regenboog en wolken']",
+      "cliche_notities": "Molen met regenboog en typische Nederlandse huizen is een iconisch ansichtkaartmotief zonder originele compositorische keuze.",
+      "bestand": "images/a006545_6619.webp"
+    },
+    {
       "id": 6609,
       "cyclus": 6535,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch natuurlandschap (rietveld) in een decoratief, gemonochromiseerd kleurschema zonder duidelijke compositorische of conceptuele keuze.",
       "bestand": "images/a006533_6607.webp"
-    },
-    {
-      "id": 6602,
-      "cyclus": 6528,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Wazige textuur in de achtergrondmolens', 'Inconsistente vensterposities in huizen', 'Smeuiige overgang tussen hemel en landschap']",
-      "cliche_notities": "Molens en typische Nederlandse huizen in een nostalgisch landschap zonder unieke compositorische keuze",
-      "bestand": "images/a006528_6602.webp"
     }
   ],
   "onderzoek": {
@@ -309,10 +309,10 @@
     }
   ],
   "metingen": {
-    "cycli": 6537,
-    "gemaakt": 6610,
+    "cycli": 6546,
+    "gemaakt": 6619,
     "gekozen": 927,
-    "afgekeurd": 847,
+    "afgekeurd": 848,
     "corpus": 79,
     "notities": 335
   }
