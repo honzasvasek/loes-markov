@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-14T00:45+02:00",
+  "bijgewerkt": "2026-08-14T01:00+02:00",
   "werk": [
+    {
+      "id": 7161,
+      "titel": null,
+      "beschrijving": "Een hand met uitgestrekte vingers raakt een effen, lichtgrijze muur aan. De huid toont subtiele roze en beige tinten, met zichtbare aderen en plooien bij de gewrichten. De nagels zijn kort en ongelijkvormig, met een licht glansje. Een donkere schaduw valt diagonaal van de hand naar beneden, de overgang van licht naar donker scherp getekend. De achtergrond is uniform, zonder afleiding, waardoor de hand centraal staat. De textuur van de muur is mat en licht korrelig, in contrast met de zachte, organische vorm van de hand.",
+      "cyclus": 7091,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, niet-toeristische momentopname.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007091_7161.webp"
+    },
     {
       "id": 7158,
       "titel": "Rook dat zich ontbindt in lucht",
@@ -104,22 +117,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007037_7108.webp"
-    },
-    {
-      "id": 7105,
-      "titel": "Rook die wortelt in de aarde",
-      "beschrijving": "Donkere, korrelige aarde vormt de achtergrond, doorspekt met kleine stenen, droge takjes en verspreide zaadjes. Een smalle, witte rookstraal ontspringt in het midden en kronkelt omhoog, waarbij zich subtiele vertakkingen vormen die aan wortels of aders doen denken. De rook wordt breder naarmate hij hoger komt en lost op in zachte, wazige vormen. Het contrast tussen de donkere grond en de heldere rook is scherp, waardoor de beweging van de rook duidelijk zichtbaar is. Kleine details zoals een voetafdruk in de aarde en fijne textuurverschillen in de grond verrijken het beeld.",
-      "cyclus": 7034,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte halo rond de witte rook, vooral bij hoog contrast met de donkere achtergrond', 'Enkele dunne takjes en stengeltjes lijken inconsistent gepositioneerd ten opzichte van de textuur van de grond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief, maar gericht op een abstracte, bijna spirituele vorm van aanwezigheid.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007034_7105.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7173,
+      "cyclus": 7103,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een zonsondergang over water, waarbij het licht en de reflecties decoratief en iconisch zijn uitgevoerd zonder duidelijke persoonlijke interpretatie.",
+      "bestand": "images/a007103_7173.webp"
+    },
+    {
+      "id": 7171,
+      "cyclus": 7101,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de molen ten opzichte van de bomen', 'Enkele bomen hebben onnatuurlijke, herhalende takstructuren']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse motieven (molen, bomen, water) in een decoratief, harmonieus licht zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a007101_7171.webp"
+    },
     {
       "id": 7167,
       "cyclus": 7097,
@@ -128,24 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een onpersoonlijke landschapsscene met tekst.",
       "bestand": "images/a007097_7167.webp"
-    },
-    {
-      "id": 7156,
-      "cyclus": 7086,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de horizonlijn', 'Enkele takken van de bomen lijken onnatuurlijk vervormd']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een molen en landschap, zonder unieke compositorische keuzes.",
-      "bestand": "images/a007086_7156.webp"
-    },
-    {
-      "id": 7151,
-      "cyclus": 7081,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch/toeristisch onderwerp en geen decoratief perfect licht, maar een abstracte/compositorische keuze met dynamiek en spanning.",
-      "bestand": "images/a007081_7151.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7099,
-    "gemaakt": 7168,
-    "gekozen": 1021,
-    "afgekeurd": 925,
+    "cycli": 7106,
+    "gemaakt": 7175,
+    "gekozen": 1022,
+    "afgekeurd": 927,
     "corpus": 71,
     "notities": 354
   }
