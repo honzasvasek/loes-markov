@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-13T06:00+02:00",
+  "bijgewerkt": "2026-08-13T06:15+02:00",
   "werk": [
     {
       "id": 6571,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 6584,
+      "cyclus": 6510,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in takstructuren (enkele takken verdwijnen plotseling)', 'Subtiele halos rond zonsondergang']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische zonsondergang achter een kale boom met decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a006510_6584.webp"
+    },
+    {
       "id": 6560,
       "cyclus": 6486,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in de horizonlijn van de zee (te schuin)', 'Sommige grasstrepen aan de onderkant zijn te schematisch/herhalend']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch strandgezicht met perfecte golven en groen, zonder onverwachte of persoonlijke keuzes.",
       "bestand": "images/a006475_6549.webp"
-    },
-    {
-      "id": 6547,
-      "cyclus": 6473,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de regenboog (overgang kleuren iets wazig)', 'Kleine donkere vlekjes in de wolken (mogelijk generatie-artefact)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch landschap met regenboog en dennenbomen, zonder onverwachte compositorische keuzes of een uniek standpunt.",
-      "bestand": "images/a006473_6547.webp"
     }
   ],
   "onderzoek": {
@@ -309,11 +309,11 @@
     }
   ],
   "metingen": {
-    "cycli": 6504,
-    "gemaakt": 6577,
+    "cycli": 6512,
+    "gemaakt": 6585,
     "gekozen": 921,
-    "afgekeurd": 842,
-    "corpus": 77,
+    "afgekeurd": 843,
+    "corpus": 78,
     "notities": 335
   }
 }
