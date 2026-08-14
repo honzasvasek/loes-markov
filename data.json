@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T21:00+02:00",
+  "bijgewerkt": "2026-08-14T21:15+02:00",
   "werk": [
     {
       "id": 7719,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7725,
+      "cyclus": 7659,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een boerderij en een klok, gefotografeerd vanuit een klassieke compositie met een boog, wat het een ansichtkaart-achtige uitstraling geeft.",
+      "bestand": "images/a007659_7725.webp"
+    },
+    {
       "id": 7713,
       "cyclus": 7647,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen wieken', 'lichte wazigheid in achtergrondbomen']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse windmolen, een smalle weg en een romantische zonsondergang, zonder duidelijke compositorische keuzes die beyond het cliché gaan.",
       "bestand": "images/a007643_7709.webp"
-    },
-    {
-      "id": 7707,
-      "cyclus": 7641,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een typisch landschap door een open raam met bergen en dorpen, een compositie die vaak op ansichtkaarten te zien is, zonder duidelijke persoonlijke of compositorische keuzes.",
-      "bestand": "images/a007641_7707.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7659,
-    "gemaakt": 7724,
+    "cycli": 7666,
+    "gemaakt": 7731,
     "gekozen": 1120,
-    "afgekeurd": 1040,
+    "afgekeurd": 1041,
     "corpus": 67,
     "notities": 365
   }
