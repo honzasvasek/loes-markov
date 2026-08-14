@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T20:45+02:00",
+  "bijgewerkt": "2026-08-14T21:00+02:00",
   "werk": [
+    {
+      "id": 7719,
+      "titel": "Wat stroomt er door die kier?",
+      "beschrijving": "Twee houten deuren vullen het beeld, de linkerdeur licht geopend, waaruit een witte, vloeiende vorm opstijgt die vuur of rook nabootst. De rechterdeur heeft een rechthoekig raam met een landschap erachter: donkere heuvels en een lichte, golvende horizon. Op de vloer liggen verspreide voorwerpen: een houten kist, een rol papier, metalen onderdelen en kleine, ronde objecten. De deuren hebben gedetailleerde beslagen en knoppen, en de houtstructuur is zichtbaar met slijtage en kieren. De achtergrond is neutraal, waardoor de deuren centraal staan. De sfeer is statisch, met een contrast tussen de rustige deuren en de dynamische vorm die eruit stroomt.",
+      "cyclus": 7653,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de vuurvlammen en de deur, wat het geen ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007653_7719.webp"
+    },
+    {
+      "id": 7717,
+      "titel": "Hout dat spreekt",
+      "beschrijving": "Een verticaal formaat vult het beeld, met een overvolledige compositie van houten balken, latten en planken die een driedimensionaal raamwerk vormen. Donkere en lichte houttexturen wisselen elkaar af, met schaduwen die diepte creëren tussen de structuren. Op de voorgrond liggen houten vloerplanken met verspreide voorwerpen: een schroevendraaier, schroeven, een wit blokje en wat onherkenbare fragmenten. Achterin is een raam met een witte kozijn zichtbaar, omringd door houten wandpanelen met subtiele patronen. De achtergrond toont nog meer houten elementen, waaronder schuine steunen en horizontale latten. Het licht valt schuin van rechtsboven, waardoor sommige delen helder zijn en andere in donkere schaduw verdwijnen. Geen mensen of beweging; de scène is stilstaand en leeg, met een focus op de textuur en structuur van het hout en de verspreide voorwerpen op de vloer.",
+      "cyclus": 7651,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in houttextuur bij dakspanten', 'lichte vervorming van schaduwen onder latten']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op structurele complexiteit zonder bevestigende symboliek",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007651_7717.webp"
+    },
     {
       "id": 7708,
       "titel": "Waar het water ontsnapt",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007606_7672.webp"
-    },
-    {
-      "id": 7667,
-      "titel": "Wat ligt achter die deuren?",
-      "beschrijving": "Twee witte deuren staan wijd open, met donkere scharnieren en handvatten. Door de deuren zie je een droog veld met gekraakt earth en dood gras. Een smalle, donkere spleet loopt dwars door het midden van het veld, omgeven door droge stengels. Ver weg staat een donkere boomlijn tegen een hemel met witte wolken. De vloer binnen is van tegels, met verspreide bladeren en puin bij de drempel. De kleuren zijn gedempt roodbruin, met schaduwen die de deuren en het veld omhullen.",
-      "cyclus": 7601,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de deur als raam naar een vergeten landschap, geen typisch ansichtkaartmotief.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007601_7667.webp"
-    },
-    {
-      "id": 7661,
-      "titel": "Waar het licht zich splitst",
-      "beschrijving": "Drie betonnen muren vormen een scherpe hoek, waarbij de linker muur donkerder en vlekkerig is dan de rechter. Tussen de muren loopt een smalle, witte spleet die licht laat doordringen, onderbroken door een donkere, vertakte barst die van boven naar beneden loopt en zich uitstrekt over beide muren en de spleet. De vloer bestaat uit twee betonnen platen met een duidelijke naad, waarbij de linker plaat donkerder is en overgaat in de muur. Kleinere vlekken en onregelmatigheden zijn zichtbaar op de muren en vloer, met name in de hoeken en langs de randen van de spleet. De barst heeft een onregelmatige vorm met dunne, uitlopende takken die zich verder uitstrekken in de muur aan de rechterkant.",
-      "cyclus": 7595,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; textuur en perspectief consistent",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is subtiel en niet-bevestigend",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007595_7661.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7653,
-    "gemaakt": 7718,
-    "gekozen": 1118,
+    "cycli": 7659,
+    "gemaakt": 7724,
+    "gekozen": 1120,
     "afgekeurd": 1040,
-    "corpus": 68,
+    "corpus": 67,
     "notities": 365
   }
 }
