@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T14:00+02:00",
+  "bijgewerkt": "2026-08-14T14:15+02:00",
   "werk": [
     {
       "id": 7539,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7549,
+      "cyclus": 7482,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van de windmolen, lichte wazigheid in de achtergrondtexturen",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse windmolen en een klassieke waterverfstijl, zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a007482_7549.webp"
+    },
+    {
       "id": 7543,
       "cyclus": 7476,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie van tekens zonder duidelijke context.",
       "bestand": "images/a007470_7538.webp"
-    },
-    {
-      "id": 7535,
-      "cyclus": 7467,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de brug ten opzichte van de windmolen', 'Watervlak mist subtiele textuurvariatie in de voorgrond']",
-      "cliche_notities": "Dit beeld past precies in de categorie 'toeristische ansichtkaart' met iconische Nederlandse motieven (windmolen, water, bomen) en een decoratief, harmonieus licht zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007467_7535.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7477,
-    "gemaakt": 7543,
+    "cycli": 7484,
+    "gemaakt": 7550,
     "gekozen": 1083,
-    "afgekeurd": 996,
+    "afgekeurd": 997,
     "corpus": 71,
     "notities": 361
   }
