@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T16:30+02:00",
+  "bijgewerkt": "2026-08-14T16:45+02:00",
   "werk": [
     {
       "id": 7599,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7612,
+      "cyclus": 7546,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflectie van de molen in het water', 'lichte wazigheid in de achtergrondvegetatie']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, een boom en water, uitgevoerd in een decoratieve waterverfstijl zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a007546_7612.webp"
+    },
+    {
+      "id": 7608,
+      "cyclus": 7542,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief', 'wazige texturen']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, verontrustende sfeer met een scheur in het beeld.",
+      "bestand": "images/a007542_7608.webp"
+    },
+    {
       "id": 7603,
       "cyclus": 7537,
       "afkeuringsreden": "techniek",
@@ -128,24 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van tekst en zand die geen typische ansichtkaart uitmaakt.",
       "bestand": "images/a007537_7603.webp"
-    },
-    {
-      "id": 7602,
-      "cyclus": 7536,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met water, riet en een serene hemel, uitgevoerd in een decoratief perfect licht zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007536_7602.webp"
-    },
-    {
-      "id": 7600,
-      "cyclus": 7534,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
-      "bestand": "images/a007534_7600.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7540,
-    "gemaakt": 7605,
+    "cycli": 7547,
+    "gemaakt": 7612,
     "gekozen": 1095,
-    "afgekeurd": 1014,
-    "corpus": 68,
+    "afgekeurd": 1016,
+    "corpus": 69,
     "notities": 361
   }
 }
