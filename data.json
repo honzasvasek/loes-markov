@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T18:30+02:00",
+  "bijgewerkt": "2026-08-14T18:45+02:00",
   "werk": [
+    {
+      "id": 7661,
+      "titel": "Waar het licht zich splitst",
+      "beschrijving": "Drie betonnen muren vormen een scherpe hoek, waarbij de linker muur donkerder en vlekkerig is dan de rechter. Tussen de muren loopt een smalle, witte spleet die licht laat doordringen, onderbroken door een donkere, vertakte barst die van boven naar beneden loopt en zich uitstrekt over beide muren en de spleet. De vloer bestaat uit twee betonnen platen met een duidelijke naad, waarbij de linker plaat donkerder is en overgaat in de muur. Kleinere vlekken en onregelmatigheden zijn zichtbaar op de muren en vloer, met name in de hoeken en langs de randen van de spleet. De barst heeft een onregelmatige vorm met dunne, uitlopende takken die zich verder uitstrekken in de muur aan de rechterkant.",
+      "cyclus": 7595,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; textuur en perspectief consistent",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is subtiel en niet-bevestigend",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007595_7661.webp"
+    },
+    {
+      "id": 7652,
+      "titel": "Rook waar niets vandaan komt",
+      "beschrijving": "Een rechte, smalle laan loopt tussen twee rijen kale bomen door een mistig landschap. De bomen hebben donkere, slanke stammen en uitgestrekte, takkenrijke silhouetten die zich tegen een grijze, bewolkte hemel aftekenen. Middenboven, boven de laan, stijgt een wazige, witte rook- of dampstraal op die zich langzaam verspreidt in de lucht. Het grondoppervlak is bedekt met droog, bruin gras en verspreide stenen. De sfeer is stil en verlaten, met een gevoel van eenzaamheid en afwezigheid van leven. De kleuren zijn gedempt en monochroom, gedomineerd door grijs, bruin en zwart.",
+      "cyclus": 7586,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de rookpluim', 'lichte inconsistentie in boomtakken aan horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust ongemakkelijk en open.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007586_7652.webp"
+    },
     {
       "id": 7648,
       "titel": "Papier dat ademt",
@@ -13,6 +39,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007582_7648.webp"
+    },
+    {
+      "id": 7647,
+      "titel": "De golf die de drempel overstapt",
+      "beschrijving": "Twee donkerbruine houten deuren staan wijd open in een muur van onregelmatige, beige en grijze stenen, met een marmeren omlijsting. Achter de deuren is een zilverkleurige auto geparkeerd op een stenen terras, met aan weerskanten een gotisch venster en een steenblok met een vensterrooster. Voor de deuren golft een levendige, gestileerde blauwe golf met wit schuim en druppels, die de onderkant van het beeld vult. De golf lijkt de deuren te raken, met spatten die over de stenen vloer en de deuren zwellen. De achtergrond is helder en zonnig, met schaduwen die de diepte van de steen en de auto benadrukken.",
+      "cyclus": 7581,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een realistische achtergrond met een gestileerde, bijna cartoonachtige voorgrond, wat geen typische ansichtkaartcompositie is.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007581_7647.webp"
     },
     {
       "id": 7637,
@@ -78,45 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007551_7617.webp"
-    },
-    {
-      "id": 7614,
-      "titel": "De schaduw die blijft hangen",
-      "beschrijving": "Een donkerblauwe deur staat op zolder open in een ruimte met crèmekleurige muren en een vloer die overloopt in een woestijnschap. Buiten de deur strekt zich een horizon uit onder een oranje-rode hemel met zachte, wolkachtige vormen. De deur werpt een scherpe, donkere schaduw die diagonaal over de vloer loopt, terwijl het licht vanuit de opening de ruimte verlicht met een warme, gouden gloed. Een kleine, onduidelijke vorm ligt op de vloer naast de deur, mogelijk een stuk hout of een gereedschap. De compositie is rustig, met de deur als centraal punt dat de blik naar buiten leidt, waar de kleuren van de hemel overgaan in de lichtere tinten van het landschap.",
-      "cyclus": 7548,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, bijna surrealistische spanning tussen de deur en de lege ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007548_7614.webp"
-    },
-    {
-      "id": 7611,
-      "titel": "Vingers in het verdwijnen",
-      "beschrijving": "Een hand met gespreide vingers domineert het beeld, getekend met fijne, realistische details: de nagels zijn kort geknipt, de huid toont aderen en subtiele roodverkleuringen, en de vingertoppen rusten op een ongelijkmatig oppervlak. Rond de hand lopen donkere, kronkeliende scheuren door een textuur die doet denken aan verweerd hout of droog klei, met witte randen die de scheuren benadrukken. De achtergrond bestaat uit een mix van grijze en bruine tinten, met fijne lijntekeningen die een gevoel van ruwheid en verwaarlozing uitstralen. Kleine, donkere vlekken en onregelmatige vormen zijn verspreid over het oppervlak, alsof er iets langzaam aan het ontfallen is. De hand zelf lijkt niet beweeglijk, maar bevriest in een moment van rust, terwijl de omgeving eromheen een gevoel van vervlakking en verval uitstraalt.",
-      "cyclus": 7545,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp (een hand in een getekende/stipstechniek) is niet iconisch of bevestigend, en de compositie toont bewuste keuzes (bijv. de scheuren en textuurcontrasten) die verder gaan dan decoratief perfect licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007545_7611.webp"
-    },
-    {
-      "id": 7605,
-      "titel": "Donkere ingang, lichte uitweg",
-      "beschrijving": "Twee deuren staan wijd open, de linkerdonker en zwaar, de rechter lichter en slanker, met ronde klinken en verticale panelen. Door de opening ontvouwt zich een landschap met golvende lijnen, donkere vlekken en stengroen, getekend in fijne strepen en stippen. De vloer voor de deuren is licht, met een kronkelende donkere lijn die naar buiten loopt. Aan weerskanten van de deuren staan sprietige planten met spitse bladeren, tegen een muur van horizontale lamellen. De achtergrond is grijs getextureerd, met subtiele krassporen boven de deuren. De compositie is symmetrisch, met de deuren als centraal frame dat het landschap omklemt.",
-      "cyclus": 7539,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deurpanelen', 'lichte wazigheid in de achtergrondtextuur boven de deur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de open deur als metaforisch element, geen typisch iconisch onderwerp",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007539_7605.webp"
     }
   ],
   "afgekeurd": [
@@ -313,9 +313,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7594,
-    "gemaakt": 7659,
-    "gekozen": 1105,
+    "cycli": 7599,
+    "gemaakt": 7664,
+    "gekozen": 1108,
     "afgekeurd": 1029,
     "corpus": 68,
     "notities": 362
