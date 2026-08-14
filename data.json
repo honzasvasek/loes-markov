@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T00:00+02:00",
+  "bijgewerkt": "2026-08-15T00:15+02:00",
   "werk": [
     {
       "id": 7799,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7809,
+      "cyclus": 7743,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte steen met onleesbare tekens.",
+      "bestand": "images/a007743_7809.webp"
+    },
+    {
       "id": 7790,
       "cyclus": 7724,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "tekst/tekens in beeld",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van tekst en beeld zonder duidelijke compositorische keuze.",
       "bestand": "images/a007719_7785.webp"
-    },
-    {
-      "id": 7776,
-      "cyclus": 7710,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in reflectie water (molen/ bomen), lichte wazigheid in achtergrondwolken",
-      "cliche_notities": "Molen met reflectie in water en typisch Nederlands landschap is een iconisch ansichtkaartmotief zonder duidelijke persoonlijke compositorische keuze.",
-      "bestand": "images/a007710_7776.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7741,
-    "gemaakt": 7807,
+    "cycli": 7748,
+    "gemaakt": 7814,
     "gekozen": 1135,
-    "afgekeurd": 1055,
+    "afgekeurd": 1056,
     "corpus": 68,
     "notities": 367
   }
