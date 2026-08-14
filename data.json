@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T05:00+02:00",
+  "bijgewerkt": "2026-08-14T05:15+02:00",
   "werk": [
+    {
+      "id": 7299,
+      "titel": "Wie pakt deze schuur vast?",
+      "beschrijving": "Een verweerde houten schuur met een openstaande deur onthult een donkere, verwaarloosde gang die uitloopt op een verlaten ruimte met een raam aan het eind. De houten planken zijn bedekt met donkere vlekken en spleten, en het dak is gedeeltelijk ingestort, waardoor puin en aarde de omgeving bedekken. Rechtsboven steekt een hand met gespreide vingers door het beeld, alsof deze de schuur vastpakt of probeert te openen. De scène is in zwart-wit weergegeven, met scherp contrast tussen de donkere schaduwen en de lichtere houttexturen. De sfeer is verlaten en iets ongemakkelijks, door de combinatie van verval en de plotselinge aanwezigheid van de hand.",
+      "cyclus": 7229,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van hout aan linker- en rechterkant', 'Hand lijkt iets te scherp gedetailleerd ten opzichte van rest van beeld']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een donkere, verlaten sfeer met een actieve hand die nieuwsgierigheid opwekt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007229_7299.webp"
+    },
+    {
+      "id": 7294,
+      "titel": "Nat spoor in natte klei",
+      "beschrijving": "Een hand houdt een onvoltooide, lichtgrijze kleikom boven een vergelijkbare kom die op een draaiende pottersschijf rust. Uit de bovenste kom stroomt een dun straaltje nat klei of water in de onderste kom, waar het een glanzende, natte spoor achterlaat. De kommen hebben een organische vorm met zichtbare draaisporen en lichte onregelmatigheden. Op de achtergrond staat een onscherpe, vergelijkbare kom. De achtergrond is neutraal beige, de tafel is licht houtkleurig. De scène straalt een rustige, focuserende sfeer uit, met aandacht voor de textuur van het materiaal en de beweging van de vloeistof.",
+      "cyclus": 7224,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp (pottenbakken) is intiem en procesgericht, met een focus op de handeling in plaats van een iconisch landschap.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007224_7294.webp"
+    },
     {
       "id": 7284,
       "titel": "De kier die luistert",
@@ -91,32 +117,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007184_7254.webp"
-    },
-    {
-      "id": 7246,
-      "titel": "Waar blijft de rest",
-      "beschrijving": "Een bolvormig object van gevlochten touw of koord hangt aan het plafond, met een netwerk van kleine, regelmatige openingen. Het materiaal heeft een warme, bruine tint en lijkt zacht en flexibel. Onder het object bevindt zich een effen, roodbruine muur die de volledige achtergrond vormt. Het licht valt schuin op het object, waardoor subtiele schaduwen ontstaan in de textuur van het gevlochten materiaal. De compositie is minimalistisch, met veel lege ruimte onder het object, wat een gevoel van rust en ruimte uitstraalt.",
-      "cyclus": 7176,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de netstructuur aan de rand', 'geen duidelijke tekst of tekens']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met ruimte als centraal element.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007176_7246.webp"
-    },
-    {
-      "id": 7242,
-      "titel": "Breuk die bloeit",
-      "beschrijving": "Een witte kop met een handvat staat centraal, met een breuk die van de rand naar de bodem loopt. Uit de kop groeien takken met dunne, uitgestrekte takken en een paar kleine bloesems. Rond de kop liggen verspreide takken en wat lijkt op dood gras of droge stengels. De achtergrond bestaat uit horizontale lijnen die een textuur suggereren. De kop heeft een subtiele, spiraalvormige versiering aan de zijkant. De scène straalt een rustige, bijna verlaten sfeer uit, met een mix van leven en verval.",
-      "cyclus": 7172,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurweergave bij de steel van de mok', 'Enkele onduidelijke overgangen in de schaduwpartijen van de takken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de mok als centraal motief en de takken die eruit groeien, wat beyond een typische ansichtkaartcompositie gaat.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007172_7242.webp"
     }
   ],
   "afgekeurd": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7231,
-    "gemaakt": 7300,
-    "gekozen": 1044,
+    "cycli": 7238,
+    "gemaakt": 7307,
+    "gekozen": 1046,
     "afgekeurd": 950,
-    "corpus": 68,
+    "corpus": 69,
     "notities": 356
   }
 }
