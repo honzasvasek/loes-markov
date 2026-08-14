@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T14:45+02:00",
+  "bijgewerkt": "2026-08-14T15:00+02:00",
   "werk": [
+    {
+      "id": 7563,
+      "titel": "Rook die de horizon kust",
+      "beschrijving": "Een smalle, witte rookpluim stijgt schuin op uit een veld met geelbruine, geometrisch ingedeelde percelen, gescheiden door donkerbruine paden. De rook vormt een slanke, wazige spiraal die overgaat in de grijze, bewolkte hemel. Rechtsboven in het midden van het beeld staat een klein, donkergroen bosje bomen aan de horizon. Een enkel donker groen object, mogelijk een boom of struik, staat rechtsonder in één van de percelen. De kleuren zijn gedempt, met zachte overgangen tussen het geel van het land, het bruin van de paden en het grijs van de lucht. De compositie is rustig en open, met veel lege ruimte die de rookpluim centraal plaatst als enig dynamisch element.",
+      "cyclus": 7496,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de rookvorm is abstract en de compositie heeft een ongemakkelijke, schuine dynamiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007496_7563.webp"
+    },
+    {
+      "id": 7553,
+      "titel": "Rook die door het gras loopt",
+      "beschrijving": "Donkere en lichte strepen van gras en stengels vullen het beeld, doorsneden door een witte, rookachtige vorm die zich in golven door het midden beweegt. Zwarte vlekken en spetters zijn verspreid over de compositie, met fijnere stippen die als stof of vonken door de lucht lijken te zweven. De achtergrond is lichtgrijs met subtiele textuur, terwijl de voorgrond donkerder en dichter begroeid is. Witte en grijze lijnen suggereren diepte en beweging, met een onrustige, bijna chaotische sfeer die door de wisselwerking van donker en licht wordt versterkt.",
+      "cyclus": 7486,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van gras aan linker- en rechterrand', 'lichte halo rond witte rookvorming']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007486_7553.webp"
+    },
     {
       "id": 7548,
       "titel": "Waar de hand stilstaat",
@@ -91,35 +117,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007452_7520.webp"
-    },
-    {
-      "id": 7512,
-      "titel": "Wit in de scheur",
-      "beschrijving": "Een brede, onregelmatige scheur loopt diagonaal door een grijze betonnen oppervlakte, van linksboven naar rechtsonder. De randen van de scheur zijn scherp en donker, met kleine stenen en puin verspreid langs de onderkant. Een horizontale naad snijdt de scheur dwars door, waarbij de betonplaten licht van elkaar afgaan. Het beton heeft een ruwe textuur met subtiele schaduwen en variaties in grijstinten. Kleine, witte bolletjes liggen verspreid binnen de scheur, vooral in het midden en onderste deel. De compositie is minimalistisch, met de scheur als enige dynamische lijn in een anderszins egaal vlak.",
-      "cyclus": 7444,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van beton aan weerskanten van scheur', 'lichte halo rond donkere spleet bij hoog contrast']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de abstracte spanning tussen vorm en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007444_7512.webp"
-    },
-    {
-      "id": 7508,
-      "titel": "Wat ligt achter die deur?",
-      "beschrijving": "Een houten deur met scharnieren is centraal geplaatst in een ruwe muur van donkere stenen en pleister. Door de open deur is een getekend landschap zichtbaar: glooiende heuvels met gestreepte velden, een kronkelend pad van kleine stenen, en verspreide vegetatie zoals palmbomen, struiken en naaldbomen. Rechtsboven staat een solitaire boom met uitgespreide takken. De achtergrond bestaat uit een egale, lichte hemel zonder details. Voor de deur liggen onregelmatige stenen plinten, deels bedekt met mos en bladeren. Het geheel heeft een zwart-wit textuur met scherp contrast tussen de donkere lijnen en lichte vlakken.",
-      "cyclus": 7439,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in textuur van muur rondom raam', 'kleine halo bij rand van raamkozijn']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze met raam als kader geeft eigen standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007439_7508.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7564,
+      "cyclus": 7497,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in schaduwen bij de kerk (linker- en rechterkant verschillend)",
+      "cliche_notities": "Kerk met toren en kruis in een winterlandschap is een iconisch motief, met decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a007497_7564.webp"
+    },
     {
       "id": 7560,
       "cyclus": 7493,
@@ -137,15 +146,6 @@
       "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de horizonlijn en reflectie",
       "cliche_notities": "zonsondergang over water is een klassiek ansichtkaartmotief zonder duidelijke persoonlijke invalshoek",
       "bestand": "images/a007490_7557.webp"
-    },
-    {
-      "id": 7556,
-      "cyclus": 7489,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde wijzers', 'inconsistent perspectief klok', 'wazige achtergrondtextuur', 'herhaalpatronen in achtergrond']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke combinatie van functioneel en abstract.",
-      "bestand": "images/a007489_7556.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7494,
-    "gemaakt": 7560,
-    "gekozen": 1086,
-    "afgekeurd": 1001,
+    "cycli": 7502,
+    "gemaakt": 7568,
+    "gekozen": 1088,
+    "afgekeurd": 1002,
     "corpus": 69,
     "notities": 361
   }
