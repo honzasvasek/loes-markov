@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T14:30+02:00",
+  "bijgewerkt": "2026-08-14T14:45+02:00",
   "werk": [
     {
       "id": 7548,
@@ -121,31 +121,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 7554,
-      "cyclus": 7487,
+      "id": 7560,
+      "cyclus": 7493,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
       "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, ongemakkelijke compositie zonder duidelijke intentie.",
-      "bestand": "images/a007487_7554.webp"
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een eigen standpunt.",
+      "bestand": "images/a007493_7560.webp"
     },
     {
-      "id": 7549,
-      "cyclus": 7482,
+      "id": 7557,
+      "cyclus": 7490,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van de windmolen, lichte wazigheid in de achtergrondtexturen",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse windmolen en een klassieke waterverfstijl, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a007482_7549.webp"
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de horizonlijn en reflectie",
+      "cliche_notities": "zonsondergang over water is een klassiek ansichtkaartmotief zonder duidelijke persoonlijke invalshoek",
+      "bestand": "images/a007490_7557.webp"
     },
     {
-      "id": 7543,
-      "cyclus": 7476,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een landschap met heuvels, velden en boerderijtjes, getekend in een decoratieve, gedetailleerde stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007476_7543.webp"
+      "id": 7556,
+      "cyclus": 7489,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde wijzers', 'inconsistent perspectief klok', 'wazige achtergrondtextuur', 'herhaalpatronen in achtergrond']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke combinatie van functioneel en abstract.",
+      "bestand": "images/a007489_7556.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7489,
-    "gemaakt": 7555,
+    "cycli": 7494,
+    "gemaakt": 7560,
     "gekozen": 1086,
-    "afgekeurd": 998,
-    "corpus": 71,
+    "afgekeurd": 1001,
+    "corpus": 69,
     "notities": 361
   }
 }
