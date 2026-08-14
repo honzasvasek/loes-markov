@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-14T18:00+02:00",
+  "bijgewerkt": "2026-08-14T18:15+02:00",
   "werk": [
+    {
+      "id": 7648,
+      "titel": "Papier dat ademt",
+      "beschrijving": "Donkere, dynamische strepen en vegen vullen het beeld, getekend met wat lijkt op kool of potlood. De lijnen lopen in verschillende richtingen, soms scherp en donker, soms vaag en grijzig, met hier en daar een kleine, donkere vlek. De achtergrond is lichtgrijs met subtiele textuur, alsof het papier de donkere strepen opzuigt. Er is geen duidelijke compositie of onderwerp, maar een gevoel van beweging en chaos, alsof de strepen in één beweging zijn gezet. De sfeer is intens en onrustig, met een onderliggende balans tussen donker en licht.",
+      "cyclus": 7582,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in lijndikte bij sommige strepen', 'lichte wazigheid in de achtergrondtextuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met persoonlijke keuzes in lijnwerk en ruimte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007582_7648.webp"
+    },
     {
       "id": 7637,
       "titel": "Rook en zaadjes in diagonaal licht",
@@ -104,48 +117,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007539_7605.webp"
-    },
-    {
-      "id": 7599,
-      "titel": "Scheuren in de gevel",
-      "beschrijving": "Een houten huis met een schuin dak staat centraal, met een voordeur onder een kleine overkapping en drie ramen. Een diepe, onregelmatige scheur loopt van het dak tot de grond, met donkere vlekken en spetters die zich uitstrekken over de gevel en het omringende pad. Het huis heeft een eenvoudige, bijna verwaarloosde uitstraling, met een donkere schaduwwerping die van de deur naar voren loopt. Achter het huis is een houten schutting zichtbaar, en aan weerskanten groeit onkruid. De achtergrond is egaal en licht, zonder verdere details. De sfeer is statisch en iets ongemakkelijks hangt in de lucht, door de scheur en de donkere vlekken die een gevoel van verwaarlozing uitstralen.",
-      "cyclus": 7533,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de scheur en donkere vlek suggereren een ongemakkelijk verhaal, geen ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007533_7599.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7644,
-      "cyclus": 7578,
+      "id": 7653,
+      "cyclus": 7587,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de wieken ten opzichte van de molen', 'Enkele penseelstreken in de achtergrond zijn wat wazig/smeuiig']",
-      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen met iconisch onderwerp en decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007578_7644.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch uitzicht op de oceaan door een open deur met perfecte belichting en geen duidelijke compositorische keuze.",
+      "bestand": "images/a007587_7653.webp"
     },
     {
-      "id": 7642,
-      "cyclus": 7576,
+      "id": 7651,
+      "cyclus": 7585,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in textuur van het graan tussen de panelen, lichte vervorming van de boom in het middelste rechterpaneel",
-      "cliche_notities": "Het beeld toont een typisch landschap met velden en bomen, zonder duidelijke compositorische keuze of eigen standpunt, wat het een ansichtkaart-achtige uitstraling geeft.",
-      "bestand": "images/a007576_7642.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch zeelandschap met perfecte zonsondergangstransformatie en geen duidelijke compositorische keuze beyond het klassieke horizon-2/3-regel.",
+      "bestand": "images/a007585_7651.webp"
     },
     {
-      "id": 7638,
-      "cyclus": 7572,
+      "id": 7649,
+      "cyclus": 7583,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deur ten opzichte van de achtergrond', 'Watervlak heeft onnatuurlijke, bijna geschilderde golven die niet helemaal logisch aansluiten bij de bomen']",
-      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, zandduinen) met een klassieke compositie (deur als kader), wat het aanvoelt als een moderne ansichtkaart zonder sterke persoonlijke stempel.",
-      "bestand": "images/a007572_7638.webp"
+      "tech_notities": "",
+      "cliche_notities": "Molens in een landschap met decoratief licht en geen duidelijke compositorische keuze maken dit een typische ansichtkaart.",
+      "bestand": "images/a007583_7649.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7581,
-    "gemaakt": 7647,
-    "gekozen": 1104,
-    "afgekeurd": 1023,
+    "cycli": 7588,
+    "gemaakt": 7653,
+    "gekozen": 1105,
+    "afgekeurd": 1026,
     "corpus": 68,
     "notities": 362
   }
