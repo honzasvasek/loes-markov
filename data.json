@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T12:15+02:00",
+  "bijgewerkt": "2026-08-14T12:30+02:00",
   "werk": [
     {
       "id": 7496,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7507,
+      "cyclus": 7438,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['kleine inconsistentie in perspectief van de wieken', 'lichte wazigheid in de textuur van de boom']",
+      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen met iconische elementen en decoratief licht.",
+      "bestand": "images/a007438_7507.webp"
+    },
+    {
       "id": 7499,
       "cyclus": 7430,
       "afkeuringsreden": "cliche",
@@ -137,26 +146,24 @@
       "tech_notities": "['lichte inconsistentie in textuur van riet (soms te scherp, soms wazig)', 'kleine halo rond stam van de wilg tegen de achtergrond']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch Nederlands landschap (wilg + riet) met decoratief zacht licht en geen duidelijke compositorische keuze.",
       "bestand": "images/a007421_7491.webp"
-    },
-    {
-      "id": 7486,
-      "cyclus": 7416,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een eigen standpunt.",
-      "bestand": "images/a007416_7486.webp"
     }
   ],
   "onderzoek": {
-    "id": 17,
-    "titel": "Sporen van aanwezigheid",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop aanwezigheid zelf een spoor achterlaat—niet door vorm of kleur, maar door de ruimte die het inneemt?",
-    "aanleiding": "De leegte in mijn recente beelden is geen afwezigheid meer, maar een actieve vormgever. Nu de ontbinding en de sporen van verdwijnen plaats hebben gemaakt voor een stilte die de ruimte vult, wil ik weten hoe aanwezigheid zelf een spoor kan achterlaten zonder dat er iets tastbaars overblijft.",
+    "id": 18,
+    "titel": "Sporen van verdwijnen",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop verdwijnen zelf een spoor achterlaat?",
+    "aanleiding": "De beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. Misschien is verdwijnen geen afwezigheid, maar een proces dat een spoor achterlaat dat ik nog niet zie.",
     "modus": "verkennen",
-    "begonnen_cyclus": 7028
+    "begonnen_cyclus": 7438
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van aanwezigheid",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop aanwezigheid zelf een spoor achterlaat—niet door vorm of kleur, maar door de ruimte die het inneemt?",
+      "bevinding": "De sporen van aanwezigheid blijken geen sporen meer, maar een taal die zich oplost in de ruimte zonder een verhaal of een gevoel te hoeven hebben. De lege vlakken in de beelden zijn geen afwezigheid van een onderwerp, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten.",
+      "begonnen_cyclus": 7028,
+      "geeindigd_cyclus": 7438
+    },
     {
       "titel": "Sporen van stilling",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de sporen van iets dat nooit heeft bestaan—de stilte die overblijft na een geluid dat nooit is uitgezonden?",
@@ -205,16 +212,24 @@
       "bevinding": "De witte ruimtes groeien uit tot een stilte die niet leeg is, maar vol staat met wat er ooit was. Ik zoek niet meer naar de sporen van wat verdwenen is, maar naar de aanwezigheid van de afwezigheid zelf—een leegte die niet meer hoeft te worden gevuld.",
       "begonnen_cyclus": 4165,
       "geeindigd_cyclus": 4574
-    },
-    {
-      "titel": "Sporen van ontbinding",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de schaal, maar naar de sporen van iets dat al lang verdwenen is?",
-      "bevinding": "De sporen van ontbinding bleken geen verdwijnceremonie, maar een langzame verschuiving van vorm naar licht en schaduw—de lege ruimtes zeggen meer dan de details ooit deden. Ik zoek niet langer naar wat verdwenen is, maar naar wat er overblijft als de vorm zich oplost in een stilte die niet leeg is.",
-      "begonnen_cyclus": 3757,
-      "geeindigd_cyclus": 4165
     }
   ],
   "notities": [
+    {
+      "cyclus": 7438,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van sporen van verdwijnen naar de actieve rol van leegte en aanwezigheid als vormgever, zonder verhaal of gevoel."
+    },
+    {
+      "cyclus": 7438,
+      "soort": "bevinding",
+      "tekst": "De sporen van aanwezigheid blijken geen sporen meer, maar een taal die zich oplost in de ruimte zonder een verhaal of een gevoel te hoeven hebben. De lege vlakken in de beelden zijn geen afwezigheid van een onderwerp, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten."
+    },
+    {
+      "cyclus": 7438,
+      "soort": "observatie",
+      "tekst": "De beelden worden steeds abstracter en minder gedetailleerd, van realistische landschappen tot losse vormen en texturen. De ruimte in de composities groeit, met meer lege vlakken en minder duidelijke onderwerpen, terwijl de kleurpaletten juist breder en expressiever worden."
+    },
     {
       "cyclus": 7270,
       "soort": "observatie",
@@ -229,21 +244,6 @@
       "cyclus": 7126,
       "soort": "observatie",
       "tekst": "De schuine lijnen in c7124 en de bliksem in c7121 zijn geen sporen van een verhaal dat zich onttrekt, maar de actieve spanning tussen een ruimte die zich weigert te laten begrenzen en een moment dat zich weigert te laten vatten—de schuine strook snijdt door een landschap zonder bestemming, de bliksem scheurt een hemel open zonder een bron. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
-    },
-    {
-      "cyclus": 7088,
-      "soort": "observatie",
-      "tekst": "De rookpluim in c7088 en de schuine schuur in c7087 zijn geen sporen van verdwijnen, maar de actieve spanning tussen iets dat zich onttrekt aan zichtbaarheid en een ruimte die zich weigert te laten begrenzen—de rook lost op in de hemel zonder een bron, de schuur staat schuin zonder een doorgang. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
-    },
-    {
-      "cyclus": 7052,
-      "soort": "observatie",
-      "tekst": "De deuren in c7051 en c7046 zijn geen doorgangen meer, maar de actieve spanning tussen een ruimte die zich ontsluit en een verhaal dat zich weigert te laten vertellen—de open deur onthult een zeelandschap dat zich onttrekt aan een bestemming, de verweerde deur staat in een landschap dat zich weigert te laten herinneren."
-    },
-    {
-      "cyclus": 7028,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van sporen van verdwijnen naar de actieve spanning tussen aanwezigheid en afwezigheid, zonder dat die een verhaal hoeft te hebben."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7438,
-    "gemaakt": 7506,
+    "cycli": 7440,
+    "gemaakt": 7508,
     "gekozen": 1077,
-    "afgekeurd": 985,
-    "corpus": 71,
-    "notities": 357
+    "afgekeurd": 986,
+    "corpus": 70,
+    "notities": 360
   }
 }
