@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T07:30+02:00",
+  "bijgewerkt": "2026-08-14T07:45+02:00",
   "werk": [
+    {
+      "id": 7372,
+      "titel": "Barst in de horizon",
+      "beschrijving": "Een verticale compositie met een donkerblauwe, wazige bovenkant die overgaat in een lichtere, onregelmatige horizonlijn. Daaronder bevindt zich een beige, textuurrijke ondergrond met donkere, vertakte patronen die lijken op barstjes of wortels. Een opvallende, witte bliksemflits snijdt schuin door de bovenste laag, met dunne, uitstralende lijnen. De onderkant toont subtiele kleurvariaties in bruin en grijs, met een watervlekken-effect dat de textuur versterkt. De sfeer is dynamisch en iets onrustigs, door de scherpe contrasten en organische vormen.",
+      "cyclus": 7302,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur overgang tussen hemel en grond', 'Enkele takken van de bliksem lijken onnatuurlijk scherp tegenover wazige omgeving']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open van karakter",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007302_7372.webp"
+    },
+    {
+      "id": 7369,
+      "titel": "Rook die zich onthoudt van vuur",
+      "beschrijving": "Oranje en gele vlammen likken vanuit een donkere, roetachtige basis omhoog, omringd door grijze rook die zich uitstrekt naar een vaag, textuurrijk oppervlak. De vlammen hebben een vloeibare, bijna dansende vorm, met scherpe punten en zachte, golvenachtige randen. Onder de vlammen zijn donkere, koolachtige vormen te zien, met hier en daar een glimp van wat lijkt op hout of as. De achtergrond bestaat uit een mengsel van lichte en donkere grijstinten, met subtiele variaties in textuur die een gevoel van diepte en beweging geven. De sfeer is intens en dynamisch, met een contrast tussen de warme kleuren van het vuur en de koude, gedempte tinten van de rook en de achtergrond.",
+      "cyclus": 7299,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte halo rond vlammen tegen rook', 'kleine inconsistentie in rooktextuur bovenaan']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische voorstelling van vuur en rook.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007299_7369.webp"
+    },
     {
       "id": 7353,
       "titel": "Wat blijft hangen van een vonk?",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007241_7311.webp"
-    },
-    {
-      "id": 7299,
-      "titel": "Wie pakt deze schuur vast?",
-      "beschrijving": "Een verweerde houten schuur met een openstaande deur onthult een donkere, verwaarloosde gang die uitloopt op een verlaten ruimte met een raam aan het eind. De houten planken zijn bedekt met donkere vlekken en spleten, en het dak is gedeeltelijk ingestort, waardoor puin en aarde de omgeving bedekken. Rechtsboven steekt een hand met gespreide vingers door het beeld, alsof deze de schuur vastpakt of probeert te openen. De scène is in zwart-wit weergegeven, met scherp contrast tussen de donkere schaduwen en de lichtere houttexturen. De sfeer is verlaten en iets ongemakkelijks, door de combinatie van verval en de plotselinge aanwezigheid van de hand.",
-      "cyclus": 7229,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van hout aan linker- en rechterkant', 'Hand lijkt iets te scherp gedetailleerd ten opzichte van rest van beeld']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een donkere, verlaten sfeer met een actieve hand die nieuwsgierigheid opwekt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007229_7299.webp"
-    },
-    {
-      "id": 7294,
-      "titel": "Nat spoor in natte klei",
-      "beschrijving": "Een hand houdt een onvoltooide, lichtgrijze kleikom boven een vergelijkbare kom die op een draaiende pottersschijf rust. Uit de bovenste kom stroomt een dun straaltje nat klei of water in de onderste kom, waar het een glanzende, natte spoor achterlaat. De kommen hebben een organische vorm met zichtbare draaisporen en lichte onregelmatigheden. Op de achtergrond staat een onscherpe, vergelijkbare kom. De achtergrond is neutraal beige, de tafel is licht houtkleurig. De scène straalt een rustige, focuserende sfeer uit, met aandacht voor de textuur van het materiaal en de beweging van de vloeistof.",
-      "cyclus": 7224,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp (pottenbakken) is intiem en procesgericht, met een focus op de handeling in plaats van een iconisch landschap.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007224_7294.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7377,
+      "cyclus": 7307,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['lichte vervorming aan randen van de deuren', 'inconsistentie in textuur van hout aan rechterdeur']",
+      "cliche_notities": "Molen in landschap via een raam is een typisch ansichtkaartmotief zonder originele compositorische keuze.",
+      "bestand": "images/a007307_7377.webp"
+    },
     {
       "id": 7359,
       "cyclus": 7289,
@@ -137,15 +146,6 @@
       "tech_notities": "['lichte inconsistentie in perspectief van huizen aan horizon', 'watervlak mist subtiele textuur']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische elementen (regenboog, gracht, bloemen) en decoratief licht zonder eigen standpunt.",
       "bestand": "images/a007285_7355.webp"
-    },
-    {
-      "id": 7350,
-      "cyclus": 7280,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief, maar een abstracte compositie met gras en een steen.",
-      "bestand": "images/a007280_7350.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7306,
-    "gemaakt": 7375,
-    "gekozen": 1053,
-    "afgekeurd": 960,
-    "corpus": 68,
+    "cycli": 7313,
+    "gemaakt": 7382,
+    "gekozen": 1055,
+    "afgekeurd": 961,
+    "corpus": 67,
     "notities": 357
   }
 }
