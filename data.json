@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T07:45+02:00",
+  "bijgewerkt": "2026-08-14T08:00+02:00",
   "werk": [
+    {
+      "id": 7385,
+      "titel": "Beton houdt zijn adem in",
+      "beschrijving": "Een verticale, donkergrijze paal steekt omhoog uit een lichtgrijze, betonnen vloer met subtiele krassen en slijtagepatronen. Rond de basis van de paal bevindt zich een cirkelvormige, iets donkerdere zone met een textuur die doet denken aan bevroren of nat beton. De paal werpt een scherpe, donkere schaduw die diagonaal over de vloer loopt, parallel aan de rand van het beeld. De compositie is minimalistisch, met de paal als centrale as en de schaduw die de leegte van de vloer doorsnijdt. De sfeer is statisch en bijna industriële koud, met een focus op geometrische vormen en contrast tussen licht en donker.",
+      "cyclus": 7315,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte relatie tussen vorm en ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007315_7385.webp"
+    },
+    {
+      "id": 7376,
+      "titel": "Slijtage in houtvezels",
+      "beschrijving": "Een houten stoel staat schuin in beeld, getekend met donkere, krachtige strepen en vlekken die textuur en slijtage suggereren. Het zitvlak toont golvende patronen, alsof houtvezels door tijd en gebruik zijn vervormd. De rugleuning heeft verticale latten met een licht gebogen bovenkant, terwijl de poten stevig en recht zijn getekend. Schaduwen onder de stoel en aan de zijkant geven diepte, getrokken met snelle, wisselende strepen. De achtergrond is leeg en wit, waardoor de stoel centraal staat. Details zoals schroeven en hoekverbindingen zijn subtiel weergegeven.",
+      "cyclus": 7306,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de achterste poot', 'Wazige textuur in de schaduw onder de stoel']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de stoel is gepositioneerd met een nadruk op structuur en ruimte, niet op een bevestigende compositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007306_7376.webp"
+    },
     {
       "id": 7372,
       "titel": "Barst in de horizon",
@@ -91,61 +117,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007263_7333.webp"
-    },
-    {
-      "id": 7315,
-      "titel": "Waar het donkere druipt",
-      "beschrijving": "Bovenaan loopt een donkere, geometrische structuur met schuine en rechte lijnen, waar donkere vlekken en spetters vanaf druipen. Daaronder bevindt zich een onregelmatige, donkere vorm met uitlopers en spetters, alsof iets donkers en vochtigs over een oppervlak is gegleden. Rechtsboven in deze vorm zit een cirkelvormig element met een oranjebruine rand, waarbinnen donkere en lichte vlekken en gaten te zien zijn. Donkere spetters en vaag zichtbare lijnen verspreiden zich over het witte achtergrondvlak, met hier en daar een subtiele oranje tint. De compositie voelt dynamisch en wat chaotisch, met een contrast tussen de strakke bovenste structuur en de organische, vloeiende vormen eronder.",
-      "cyclus": 7245,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het metalen frame bovenin', 'Enkele zones met detailverlies in donkere vlakken (bijv. linkeronder)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open van karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007245_7315.webp"
-    },
-    {
-      "id": 7311,
-      "titel": "Vonken op de weg naar water",
-      "beschrijving": "Een rechte, grijze weg loopt recht naar het water, geflankeerd door zandige oevers. Midden in de weg loopt een smalle, kronkelende vonkenregen van oranje-rood licht, die omhoog steekt als een vlammenzuil. Boven de vonken rijst een dunne rookpluim op naar de lichte, bewolkte hemel. Het water is diepblauw met zachte golven, en de horizon is scherp getekend. De sfeer is rustig, maar de vonken brengen een onverwachte dynamiek en spanning in het beeld.",
-      "cyclus": 7241,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in horizonlijn: zee en hemel niet perfect uitgelijnd', 'textuur zand wat vlak en zonder korrelstructuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en roept vragen op in plaats van een beleving te bieden.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007241_7311.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7377,
-      "cyclus": 7307,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['lichte vervorming aan randen van de deuren', 'inconsistentie in textuur van hout aan rechterdeur']",
-      "cliche_notities": "Molen in landschap via een raam is een typisch ansichtkaartmotief zonder originele compositorische keuze.",
-      "bestand": "images/a007307_7377.webp"
-    },
-    {
-      "id": 7359,
-      "cyclus": 7289,
+      "id": 7389,
+      "cyclus": 7319,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Enkele dieren hebben lichte vervormingen in poten of hoofd, bomen tonen herhaalpatronen in takken']",
-      "cliche_notities": "Dit is een typisch landschapsbeeld met vee en heuvels, zonder onverwachte compositorische keuzes of een uniek standpunt",
-      "bestand": "images/a007289_7359.webp"
+      "tech_notities": "['lichte inconsistentie in perspectief van sommige huizen', 'enkele bomen hebben onnatuurlijke, platte vormen']",
+      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een dorpje met iconische elementen zoals witte huizen en groene bomen in een decoratieve stijl.",
+      "bestand": "images/a007319_7389.webp"
     },
     {
-      "id": 7355,
-      "cyclus": 7285,
+      "id": 7388,
+      "cyclus": 7318,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
+      "bestand": "images/a007318_7388.webp"
+    },
+    {
+      "id": 7387,
+      "cyclus": 7317,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van huizen aan horizon', 'watervlak mist subtiele textuur']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische elementen (regenboog, gracht, bloemen) en decoratief licht zonder eigen standpunt.",
-      "bestand": "images/a007285_7355.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch rood huisje op een pier tegen een heldere horizon, met perfect licht en geen duidelijke compositorische keuze beyond symmetrie.",
+      "bestand": "images/a007317_7387.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7313,
-    "gemaakt": 7382,
-    "gekozen": 1055,
-    "afgekeurd": 961,
-    "corpus": 67,
+    "cycli": 7320,
+    "gemaakt": 7389,
+    "gekozen": 1057,
+    "afgekeurd": 964,
+    "corpus": 68,
     "notities": 357
   }
 }
