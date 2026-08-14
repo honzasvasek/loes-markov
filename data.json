@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-14T23:30+02:00",
+  "bijgewerkt": "2026-08-14T23:45+02:00",
   "werk": [
+    {
+      "id": 7791,
+      "titel": "Waar blijft de wind?",
+      "beschrijving": "Een solitaire boom met slanke, hangende takken domineert het midden van het beeld, getekend in fijne, donkere lijnen tegen een lichte achtergrond. Het loof bestaat uit smalle, puntige bladeren die in trossen hangen, met enkele takken die zich uitstrekken naar de horizon. De stam is slank en licht gekromd, met een donkere schaduwwerking die diepte suggereert. Rond de boom loopt een smalle, ongelijke rand van hoog gras en wilder groen, getekend met snelle, wisselende strepen. Achter de boom strekt een open veld zich uit, met zachte, golvende lijnen die een weide of landbouwgrond suggereren. Ver in de achtergrond vormt een donkere, onregelmatige boomlijn de horizon, met enkele hogere bomen die eruit steken. De hemel is vrijwel leeg, met alleen subtiele, horizontale strepen die een lichte textuur geven. De compositie is verticaal georiënteerd, met de boom als centraal punt dat het oog naar boven en naar de horizon leidt. De sfeer is rustig en iets verlaten, door de afwezigheid van beweging of levendige details.",
+      "cyclus": 7725,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de schuine lijnen en de nadruk op de leegte, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007725_7791.webp"
+    },
     {
       "id": 7778,
       "titel": "Wat blijft hangen in druppels",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007665_7731.webp"
-    },
-    {
-      "id": 7730,
-      "titel": "Greppel zonder sporen",
-      "beschrijving": "Een smalle, donkere greppel snijdt schuin door een landschap van golvende velden en ruïnes. Rechts van de greppel liggen verweerde houten planken in een chaotische stapel, doorspekt met puin, gedroogd gewas en onherkenbare fragmenten. Links strekt zich een woestijnschap uit met stekelige planten, verspreide stenen en wat lijkt op dode bloemstengels. De achtergrond bestaat uit een egaal, leeg hemelvlak dat overgaat in een horizon van vlakke, onbebouwde grond. De lijnen zijn scherp en gedetailleerd, met een contrast tussen de donkere, diepe greppel en de lichtere, textuurrijke omgeving. Geen beweging, geen leven—alleen de stilte van een verlaten, bijna postapocalyptisch tafereel.",
-      "cyclus": 7664,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp is niet iconisch en de compositie heeft een eigen, niet-decoratief karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007664_7730.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7726,
-    "gemaakt": 7791,
-    "gekozen": 1132,
+    "cycli": 7734,
+    "gemaakt": 7799,
+    "gekozen": 1133,
     "afgekeurd": 1055,
     "corpus": 68,
     "notities": 366
