@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T06:00+02:00",
+  "bijgewerkt": "2026-08-14T06:15+02:00",
   "werk": [
     {
       "id": 7315,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7338,
+      "cyclus": 7268,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de wieken', 'Enkele wazige details in de textuur van de muren']",
+      "cliche_notities": "Dit is een typische ansichtkaartafbeelding van een Nederlandse molen met decoratief licht en een iconisch onderwerp.",
+      "bestand": "images/a007268_7338.webp"
+    },
+    {
+      "id": 7335,
+      "cyclus": 7265,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch landschap met gras en lucht, gepaard met een minimalistische presentatie die geen eigen compositorische keuze toont.",
+      "bestand": "images/a007265_7335.webp"
+    },
+    {
       "id": 7316,
       "cyclus": 7246,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van schuur aan rechterkant', 'Enkele takken van bomen lijken onnatuurlijk te verdwijnen in de achtergrond']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch boerderijmotief, symmetrische opbouw en decoratief licht zonder duidelijke artistieke keuzes.",
       "bestand": "images/a007246_7316.webp"
-    },
-    {
-      "id": 7310,
-      "cyclus": 7240,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de horizonlijn', 'Wazige overgang tussen hemel en water']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een zonsondergang over water en riet, zonder unieke compositorische keuzes.",
-      "bestand": "images/a007240_7310.webp"
-    },
-    {
-      "id": 7309,
-      "cyclus": 7239,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een conceptuele compositie met een envelop en regenboog.",
-      "bestand": "images/a007239_7309.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7262,
-    "gemaakt": 7331,
+    "cycli": 7270,
+    "gemaakt": 7340,
     "gekozen": 1048,
-    "afgekeurd": 953,
+    "afgekeurd": 955,
     "corpus": 68,
     "notities": 356
   }
