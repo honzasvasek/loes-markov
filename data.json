@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T04:30+02:00",
+  "bijgewerkt": "2026-08-14T04:45+02:00",
   "werk": [
+    {
+      "id": 7284,
+      "titel": "De kier die luistert",
+      "beschrijving": "Een verweerde houten deur staat op een kier, omringd door donkere, natte rotsen en modder. Door de opening flitst een scherpe bliksemflits tegen een bewolkte hemel, met paarsachtige tinten in de wolken. De deur heeft een klassieke paneelstructuur met zichtbare scharnieren en een metalen kruk. Het hout toont sporen van slijtage, met donkere vlekken en onregelmatigheden. De grond voor de deur is glimmend nat, met kleine plassen die de omgeving weerspiegelen. De achtergrond bestaat uit een grijze, dreigende lucht met zware wolken, waarbij de bliksem een heldere, witte lijn trekt door het beeld.",
+      "cyclus": 7214,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van hout aan weerskanten van de deur', 'Bliksem mist subtieler vertakkingen in de bovenste helft']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, denkprikkende sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007214_7284.webp"
+    },
+    {
+      "id": 7282,
+      "titel": "Spleet in het hout",
+      "beschrijving": "Een hand houdt een houten voorwerp vast, gespleten in twee delen met een scherpe V-vormige opening. Het hout vertoont duidelijke, loodrechte vezels en een donkerbruine tot amberkleurige tint. Achter het voorwerp strekken donkere, kale takken zich uit tegen een grijze, bewolkte hemel. Rechtsboven hangen enkele kleine, donkere vruchten of zaden aan de takken. In de verte is vaag het silhouet van een gebouw met ramen zichtbaar. De compositie combineert de organische vormen van de takken met de geometrische scheiding in het houten object.",
+      "cyclus": 7212,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte onnauwkeurigheid in de textuur van het hout aan de rechterkant, wat een iets kunstmatige uitstraling geeft']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de focus op het brekende voorwerp tegen een kale achtergrond, wat verder gaat dan een typische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007212_7282.webp"
+    },
     {
       "id": 7275,
       "titel": "Fingers die zand herschrijven",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007172_7242.webp"
-    },
-    {
-      "id": 7234,
-      "titel": "Regenboog met een vraagteken",
-      "beschrijving": "Een gezicht met donker haar en wangen getint met zacht roze kijkt door een houten raamwerk met een driehoekige dakvorm. Een kleine blauwe deur met vier ruitjes bevindt zich links onderin het raam. Boven het dak strekt een regenboog zich uit in rood, oranje, geel, groen, blauw en paars, getekend met zachte, watervaste strepen. Rechts van het raam rust een blauwe potloodpunt tegen het hout, klaar om de lijnen verder te trekken. De achtergrond is wit, waardoor de kleuren van het gezicht, de regenboog en het hout helder afsteken.",
-      "cyclus": 7164,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het huisraam ten opzichte van het gezicht', 'Kleine halo rond de regenboog door hoog contrast']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een kindertekening met een realistisch portret, wat een ongebruikelijke en persoonlijke aanpak suggereert, geen typische ansichtkaartcompositie.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w007164_7234.webp"
-    },
-    {
-      "id": 7232,
-      "titel": "Barsten in de horizon",
-      "beschrijving": "Een gekraakt glazen beker hangt aan een dun draadje tegen een heldere hemel, schuin boven een golvend korenveld. Het glas, met scherpe barsten die door de wand lopen, reflecteert het landschap en de lucht. Het veld bestaat uit goudbruine korenschachten, waarbij enkele dichterbij scherp zijn en de achtergrond vervagen tot een horizon met donkere bomen en gebouwen. De compositie combineert de fragiliteit van het glas met de uitgestrektheid van het veld, onder een egaal blauwe lucht zonder wolken.",
-      "cyclus": 7162,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en vraagt om nadere beschouwing.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007162_7232.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7291,
+      "cyclus": 7221,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst.",
+      "bestand": "images/a007221_7291.webp"
+    },
     {
       "id": 7270,
       "cyclus": 7200,
@@ -137,15 +146,6 @@
       "tech_notities": "['kleine vervorming in de regenboog (onevenwichtige bogen)', 'wazige details in het gras aan de randen']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch huisje onder een perfecte regenboog, zonder onverwachte keuzes of diepgang.",
       "bestand": "images/a007199_7269.webp"
-    },
-    {
-      "id": 7264,
-      "cyclus": 7194,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuur bord', 'inconsistent perspectief kop/autocapotte']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een surrealistische compositie met een eigen standpunt.",
-      "bestand": "images/a007194_7264.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7216,
-    "gemaakt": 7285,
-    "gekozen": 1042,
-    "afgekeurd": 948,
-    "corpus": 68,
+    "cycli": 7223,
+    "gemaakt": 7292,
+    "gekozen": 1044,
+    "afgekeurd": 949,
+    "corpus": 69,
     "notities": 356
   }
 }
