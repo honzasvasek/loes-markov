@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T13:30+02:00",
+  "bijgewerkt": "2026-08-14T13:45+02:00",
   "werk": [
     {
       "id": 7525,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7535,
+      "cyclus": 7467,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de brug ten opzichte van de windmolen', 'Watervlak mist subtiele textuurvariatie in de voorgrond']",
+      "cliche_notities": "Dit beeld past precies in de categorie 'toeristische ansichtkaart' met iconische Nederlandse motieven (windmolen, water, bomen) en een decoratief, harmonieus licht zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007467_7535.webp"
+    },
+    {
+      "id": 7533,
+      "cyclus": 7465,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst en papier.",
+      "bestand": "images/a007465_7533.webp"
+    },
+    {
       "id": 7529,
       "cyclus": 7461,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconische, dromerige overgang van binnen naar buiten (deur naar strand) met decoratief licht en geen duidelijke compositorische keuze beyond de klassieke 'vrijheid door een deur'-metafora.",
       "bestand": "images/a007461_7529.webp"
-    },
-    {
-      "id": 7524,
-      "cyclus": 7456,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een klassieke kerkafbeelding met iconische architectuur en een serenerend landschap, typisch voor een toeristische ansichtkaart.",
-      "bestand": "images/a007456_7524.webp"
-    },
-    {
-      "id": 7522,
-      "cyclus": 7454,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'wazige texturen']",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerktoren met kruis) en de decoratieve compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a007454_7522.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7464,
-    "gemaakt": 7532,
+    "cycli": 7470,
+    "gemaakt": 7537,
     "gekozen": 1081,
-    "afgekeurd": 992,
-    "corpus": 70,
+    "afgekeurd": 994,
+    "corpus": 71,
     "notities": 360
   }
 }
