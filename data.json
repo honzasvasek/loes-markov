@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T23:00+02:00",
+  "bijgewerkt": "2026-08-14T23:15+02:00",
   "werk": [
+    {
+      "id": 7778,
+      "titel": "Wat blijft hangen in druppels",
+      "beschrijving": "Dunne, donkere stengels reiken omhoog tegen een zachtroze achtergrond, met aan de bovenkant fijne, veerachtige pluimen die licht bewegen. Een enkele, glanzende waterdruppel hangt tussen de stengels, scherp en helder, terwijl andere druppels zachtjes naar beneden vallen. De achtergrond is vaag en wazig, met subtiele schaduwen van gras en onduidelijke vormen die diepte suggereren. De kleuren zijn gedempt, met bruine en roodbruine tinten die de stengels en pluimen omhullen, terwijl de waterdruppels een zilverachtige glans hebben. De compositie is verticaal, met de stengels die de hoogte van het beeld doorsnijden en de pluimen die zich uitstrekken naar de randen. De sfeer is rustig en stillerend, met een gevoel van stilte en afwezigheid van geluid.",
+      "cyclus": 7712,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte onregelmatigheid in textuur van achtergrond, maar niet storend",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaart-materiaal",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007712_7778.webp"
+    },
+    {
+      "id": 7777,
+      "titel": "Wit bloed door donker vlees",
+      "beschrijving": "Een smalle, kronkelende strook witte, melkachtige vloeistof snijdt door donkere, ruwe rotsen. De vloeistof vormt zachte, golvende patronen, onderbroken door kleine, donkere keien en pootjes. De rotsen aan weerszijden zijn donkergrijs tot zwart, met oneffenheden, gaten en losse stenen. Het contrast tussen de gladde, lichte vloeistof en de ruwe, donkere omgeving is scherp. De compositie leidt het oog langs de S-vormige loop van de vloeistof, die verdwijnt in de verte tussen de rotsen.",
+      "cyclus": 7711,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op abstracte beweging en textuur, niet op een bevestigend landschap.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007711_7777.webp"
+    },
     {
       "id": 7765,
       "titel": "Zand dat de vloer kust",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007664_7730.webp"
-    },
-    {
-      "id": 7727,
-      "titel": "Glanzende insluitsels in zand en golfslag",
-      "beschrijving": "Een grote, onregelmatige rots met een glanzende, bijna glazen textuur domineert het midden van het beeld, omringd door zand en kleine, kleurige kiezels. De rots heeft een mengeling van beige, bruine en grijze tinten, met verspreide gele en blauwe vlekken die als ingebedde stenen of glinsterende insluitsels wirken. Achter de rots strekt zich een kalm oceaanlandschap uit met zachte golven die tegen de kust breken, onder een lichte, bijna witte hemel. Het zand is lichtgekleurd en heeft subtiele sporen van water en kleine, verspreide voorwerpen, zoals een donkere steen en een paar kleurige kiezels. De compositie is rustig en gebalanceerd, met de rots als centraal punt dat de blik trekt door zijn textuur en kleurvariatie. De sfeer is serene en wat verlaten, met een gevoel van stilte en afwezigheid van beweging, behalve de zachte beweging van het water op de achtergrond.",
-      "cyclus": 7661,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van golven aan horizon', 'lichte wazigheid in schaduw onder rots']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op de ontbinding van vorm in plaats van een bevestigend landschap.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007661_7727.webp"
-    },
-    {
-      "id": 7720,
-      "titel": "Sporen in het zand",
-      "beschrijving": "Een brede, schuine zandheuvel domineert het beeld, met diepe, parallelle sporen die diagonaal over de helling lopen. Onderaan de heuvel loopt een betonnen constructie met verticale steunpilaren, die een donkere, schaduwrijke ruimte onder zich laat zien. Voor de constructie strekt zich een kalme, bruine watervlakte uit, met subtiele rimpelingen die het licht reflecteren. De hemel erboven is egale, grijzig en zonder wolken, wat een sfeer van stilte en leegte versterkt. Rechtsboven in de heuvel is een onregelmatige, uitgesletene zone waar het zand lijkt te zijn weggespoeld, met losse stukken hout en puin zichtbaar. De kleuren zijn gedempt, met tinten beige, bruin en grijs die het landschap monochromatisch maken.",
-      "cyclus": 7654,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het zand (beneden links iets waziger dan rest)', 'Subtiele halo rond de rand van de betonnen constructie tegen de hemel']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet typisch 'ansichtkaart'",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007654_7720.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7715,
+      "soort": "observatie",
+      "tekst": "De sporen van verdwijnen in recente beelden zijn geen hints van een verdwijnd verhaal meer, maar de actieve spanning tussen een vorm die zich onttrekt aan eenheid en een ruimte die zich weigert te laten vullen—de weg loopt naar de horizon zonder bestemming, de donkere vlekken domineren zonder een onderwerp te suggereren. De leegte is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
+    },
+    {
       "cyclus": 7643,
       "soort": "observatie",
       "tekst": "De scheur in de aardewerken kom en de barsten in het keramische vat zijn geen sporen van verdwijnen, maar de actieve spanning tussen een vorm die zich onttrekt aan eenheid en een ruimte die zich weigert te laten vullen—het water stroomt eruit zonder de kom te leeg te maken, de barsten doorsnijden het vat zonder dat het instabiel wordt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een spoor te hoeven achterlaten."
@@ -252,11 +257,6 @@
       "cyclus": 7438,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van sporen van verdwijnen naar de actieve rol van leegte en aanwezigheid als vormgever, zonder verhaal of gevoel."
-    },
-    {
-      "cyclus": 7438,
-      "soort": "bevinding",
-      "tekst": "De sporen van aanwezigheid blijken geen sporen meer, maar een taal die zich oplost in de ruimte zonder een verhaal of een gevoel te hoeven hebben. De lege vlakken in de beelden zijn geen afwezigheid van een onderwerp, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7713,
-    "gemaakt": 7778,
-    "gekozen": 1130,
+    "cycli": 7719,
+    "gemaakt": 7784,
+    "gekozen": 1132,
     "afgekeurd": 1053,
     "corpus": 68,
-    "notities": 365
+    "notities": 366
   }
 }
