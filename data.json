@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-14T02:45+02:00",
+  "bijgewerkt": "2026-08-14T03:00+02:00",
   "werk": [
+    {
+      "id": 7222,
+      "titel": "Papier dat liegt",
+      "beschrijving": "Een lichtbruine houten muur met zichtbare vezels en een subtiele textuur domineert het beeld. In het midden bevindt een onregelmatige, gescheurde opening een donkere, bijna zwarte holte. De randen van de scheur zijn wit en vertonen franjes van papier of karton, met een scherp contrast tegen het hout. Drie dunne, zwarte lijnen lopen door de muur: één verticaal door de scheur en twee horizontaal, die de compositie in vier ongelijke delen verdelen. De sfeer is statisch en minimalistisch, met een focus op de spanning tussen de solide houten structuur en de plotselinge doorbreek van het oppervlak.",
+      "cyclus": 7152,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, denkbare ruimte in plaats van een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007152_7222.webp"
+    },
     {
       "id": 7220,
       "titel": "Vlammen die door hout lopen",
@@ -26,6 +39,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007148_7218.webp"
+    },
+    {
+      "id": 7217,
+      "titel": "Papierverslag van de as",
+      "beschrijving": "Een witte envelop ligt op donker, korrelig zand, omringd door brokjes kool en een verbrande houten lat. Een dunne, witte draad loopt van de envelop naar het midden van een spiraalvormig patroon in het zand, getrokken door de houten lat. Donkere stenen en naalden van een conifeer liggen verspreid. Het contrast tussen het heldere papier en de donkere, ruwe textuur van het zand en de kool is opvallend. De compositie straal rust uit, met de envelop als rustpunt in een landschap van vernietiging en hergebruik.",
+      "cyclus": 7147,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, denkbare ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007147_7217.webp"
     },
     {
       "id": 7214,
@@ -91,35 +117,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007114_7184.webp"
-    },
-    {
-      "id": 7183,
-      "titel": "Diagonaal licht in bruin en roze",
-      "beschrijving": "Een smalle, verticale doorgang met donkerbruine muren leidt naar een helderder gebied aan het eind, waar zacht roze en wit licht de ruimte verlicht. Het licht vormt een diagonale strook die over de vloer en de muur aan de rechterkant glijdt, terwijl de linkerwand in schaduw blijft. De overgang tussen licht en donker is vloeiend, met subtiele kleurverschuivingen van bruin naar roze en wit. De compositie is minimalistisch, met een focus op de relatie tussen de smalle ruimte en het komend licht. De sfeer is rustig en bijna mystiek, door de afwezigheid van details en de nadruk op licht en schaduw.",
-      "cyclus": 7113,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ruimtelijke spanning, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007113_7183.webp"
-    },
-    {
-      "id": 7177,
-      "titel": "Licht dat zwijgt over het afval",
-      "beschrijving": "Donkere, golvende vormen domineren het beeld, met subtiele variaties in grijs die diepte en beweging suggereren. Verspreid liggen kleine, donkere voorwerpen die lijken op stukjes hout of afval, met hier en daar een glimmend detail dat het licht vangt. De textuur is ruw en onregelmatig, met sporen die aan wind of water herinneren. Het beeld straalt een verlaten, bijna ongemakkelijke sfeer uit, alsof de kijker illegaal terrein betreedt. Geen horizon of duidelijke structuur, alleen een eindeloos patroon van golven en fragmenten dat de blik vasthoudt.",
-      "cyclus": 7107,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op textuur en beweging zonder bevestigende compositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007107_7177.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7236,
+      "cyclus": 7166,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de kerk toren ten opzichte van omringende huizen', 'Enkele bomen hebben onnatuurlijke, herhalende vormen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch dorp, kerk en landschap in een decoratief waterverf-stijltje zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a007166_7236.webp"
+    },
+    {
+      "id": 7233,
+      "cyclus": 7163,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische zonsondergang boven water met een silhouet van een fiets, een compositie die typisch is voor toeristische ansichtkaarten zonder duidelijke persoonlijke of conceptuele keuze.",
+      "bestand": "images/a007163_7233.webp"
+    },
     {
       "id": 7231,
       "cyclus": 7161,
@@ -128,24 +146,6 @@
       "tech_notities": "[\"Lichte inconsistentie in perspectief van auto's in de verte\", 'Wazige textuur in de achtergrondbomen']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een gracht, zonsondergang en perfect geplaatste auto's, zonder unieke compositorische keuzes.",
       "bestand": "images/a007161_7231.webp"
-    },
-    {
-      "id": 7230,
-      "cyclus": 7160,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het gras aan weerskanten van het pad', 'Wazige achtergrondboomlijn suggereert detailverlies']",
-      "cliche_notities": "Het beeld toont een iconisch landschap met een verlaten boerderij en windmolen, typisch voor een nostalgische ansichtkaart, zonder duidelijke compositorische of thematische afwijking.",
-      "bestand": "images/a007160_7230.webp"
-    },
-    {
-      "id": 7212,
-      "cyclus": 7142,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: zonsondergang over water met decoratief licht en geen duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007142_7212.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7162,
-    "gemaakt": 7231,
-    "gekozen": 1031,
-    "afgekeurd": 939,
+    "cycli": 7169,
+    "gemaakt": 7238,
+    "gekozen": 1033,
+    "afgekeurd": 941,
     "corpus": 71,
     "notities": 355
   }
