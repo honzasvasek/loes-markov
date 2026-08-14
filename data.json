@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T06:45+02:00",
+  "bijgewerkt": "2026-08-14T07:00+02:00",
   "werk": [
+    {
+      "id": 7342,
+      "titel": "Vier ruiten, één opening",
+      "beschrijving": "Donker hout vormt de gevel van een gebouw met een schuine daklijn en een centraal geplaatst raam met vier ruiten. Een luik aan de rechterkant van het raam staat open, terwijl aan de linkerkant een deel van een ander raam en een versierd houten paneel zichtbaar zijn. Het dak heeft pannen en een afvoerpijp loopt naar beneden. De houten planken hebben een verticale structuur met zichtbare korrel en slijtage. De achtergrond is egaal donker, waardoor het gebouw scherp afsteekt. De sfeer is statisch en rustig, met een focus op de textuur en details van het hout.",
+      "cyclus": 7272,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van houten lamellen bij vensterkozijn', 'Subtiele halo rond dakgoot tegen achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief, maar een close-up van een architectonisch detail met focus op textuur en ruimte, geen toeristische beleving.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007272_7342.webp"
+    },
+    {
+      "id": 7340,
+      "titel": "Beton dat ademt in witte aderen",
+      "beschrijving": "Een donkergrijze, ruwe betonnen oppervlakte wordt doorsneden door diepe, onregelmatige barsten. Door de breuken loopt een helderwitte, bliksemachtige lijn die zich vertakt in fijnere, adervergelijkbare patronen. De textuur van het beton is korrelig en ongelijkmatig, met verspreide kleine steentjes en losse delen aan de randen van de barsten. De witte lijn contrasteert scherp met de donkere achtergrond en volgt de natuurlijke, willekeurige loop van de scheuren, waardoor een gevoel van dynamiek en onverwachtse beweging ontstaat in het statische materiaal.",
+      "cyclus": 7270,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte halo rond witte bliksem', 'textuur wat kunstmatig herhaald in rechteronderhoek']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op abstracte spanning, niet op een bevestigend beeld.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007270_7340.webp"
+    },
     {
       "id": 7334,
       "titel": "Roze zonder uitweg",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007214_7284.webp"
-    },
-    {
-      "id": 7282,
-      "titel": "Spleet in het hout",
-      "beschrijving": "Een hand houdt een houten voorwerp vast, gespleten in twee delen met een scherpe V-vormige opening. Het hout vertoont duidelijke, loodrechte vezels en een donkerbruine tot amberkleurige tint. Achter het voorwerp strekken donkere, kale takken zich uit tegen een grijze, bewolkte hemel. Rechtsboven hangen enkele kleine, donkere vruchten of zaden aan de takken. In de verte is vaag het silhouet van een gebouw met ramen zichtbaar. De compositie combineert de organische vormen van de takken met de geometrische scheiding in het houten object.",
-      "cyclus": 7212,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte onnauwkeurigheid in de textuur van het hout aan de rechterkant, wat een iets kunstmatige uitstraling geeft']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de focus op het brekende voorwerp tegen een kale achtergrond, wat verder gaat dan een typische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007212_7282.webp"
-    },
-    {
-      "id": 7275,
-      "titel": "Fingers die zand herschrijven",
-      "beschrijving": "Een hand raakt nat zand aan de rand van een waterpootje, waarbij de vingers een golvend patroon trekken in het natte oppervlak. Het zand is fijn en lichtbruin, met kleine klontjes en losse korrels die de textuur benadrukken. Het water is helder en kalm, met zachte rimpelingen die de overgang vormen tussen het natte en droge zand. Donkere, dunne lijnen lopen door het natte deel, getrokken door de hand, en vormen een abstract ontwerp dat contrasteert met de natuurlijke vormen rondom. Kleurrijk licht valt schuin, waardoor schaduwen de diepte van het zand en de hand benadrukken.",
-      "cyclus": 7205,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van nat/zandig zand bij de rand van het water', 'Hand mist subtiere anatomische details (bijv. aderen, nagelrieten)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de focus ligt op een intieme, niet-verplichte actie met zand en water.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007205_7275.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7355,
+      "cyclus": 7285,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in perspectief van huizen aan horizon', 'watervlak mist subtiele textuur']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische elementen (regenboog, gracht, bloemen) en decoratief licht zonder eigen standpunt.",
+      "bestand": "images/a007285_7355.webp"
+    },
     {
       "id": 7350,
       "cyclus": 7280,
@@ -137,15 +146,6 @@
       "tech_notities": "['kleine inconsistentie in reflectie van zonsondergang in water (zon staat hoger in bovenste deel)', 'lichte wazigheid aan randen van beeld']",
       "cliche_notities": "Beeld toont een typisch landschap met zonsondergang en symmetrische compositie, zonder duidelijke persoonlijke of conceptuele draai.",
       "bestand": "images/a007275_7345.webp"
-    },
-    {
-      "id": 7344,
-      "cyclus": 7274,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een specifieke, niet-toeristische compositie.",
-      "bestand": "images/a007274_7344.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7282,
-    "gemaakt": 7352,
-    "gekozen": 1050,
-    "afgekeurd": 958,
+    "cycli": 7289,
+    "gemaakt": 7358,
+    "gekozen": 1052,
+    "afgekeurd": 959,
     "corpus": 68,
     "notities": 357
   }
