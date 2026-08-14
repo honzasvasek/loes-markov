@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T09:45+02:00",
+  "bijgewerkt": "2026-08-14T10:00+02:00",
   "werk": [
     {
       "id": 7428,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7442,
+      "cyclus": 7372,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
+      "bestand": "images/a007372_7442.webp"
+    },
+    {
+      "id": 7440,
+      "cyclus": 7370,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van regenboogbanden (soms scherper, soms waziger)', 'Kleine halo rond rand van regenboog tegen de lucht']",
+      "cliche_notities": "Regenboog tegen een heldere hemel is een klassiek, iconisch motief zonder duidelijke compositorische of conceptuele keuze.",
+      "bestand": "images/a007370_7440.webp"
+    },
+    {
       "id": 7438,
       "cyclus": 7368,
       "afkeuringsreden": "techniek",
@@ -128,24 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met persoonlijke keuzes.",
       "bestand": "images/a007368_7438.webp"
-    },
-    {
-      "id": 7436,
-      "cyclus": 7366,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met persoonlijke uitdrukking.",
-      "bestand": "images/a007366_7436.webp"
-    },
-    {
-      "id": 7435,
-      "cyclus": 7365,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde Romeinse cijfers op klok', 'inconsistente perspectief ladder']",
-      "cliche_notities": "Geen typisch toeristisch onderwerp, maar een surrealistische compositie met een klok op het strand.",
-      "bestand": "images/a007365_7435.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7369,
-    "gemaakt": 7438,
+    "cycli": 7376,
+    "gemaakt": 7445,
     "gekozen": 1065,
-    "afgekeurd": 974,
-    "corpus": 66,
+    "afgekeurd": 976,
+    "corpus": 68,
     "notities": 357
   }
 }
