@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T09:15+02:00",
+  "bijgewerkt": "2026-08-14T09:30+02:00",
   "werk": [
     {
       "id": 7418,
@@ -121,31 +121,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 7416,
-      "cyclus": 7346,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een focus op een voorwerp met een meer abstracte uitstraling.",
-      "bestand": "images/a007346_7416.webp"
-    },
-    {
-      "id": 7402,
-      "cyclus": 7332,
+      "id": 7434,
+      "cyclus": 7364,
       "afkeuringsreden": "cliche",
       "tech_score": 9.0,
       "tech_notities": "",
-      "cliche_notities": "Regenboog over het strand is een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes.",
-      "bestand": "images/a007332_7402.webp"
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch zonsondergangsmotief met decoratief licht en geen duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007364_7434.webp"
     },
     {
-      "id": 7401,
-      "cyclus": 7331,
+      "id": 7431,
+      "cyclus": 7361,
       "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Molen en kustlandschap door een open deur is een typisch Nederlands ansichtkaartmotief zonder verrassende compositorische keuzes.",
-      "bestand": "images/a007331_7401.webp"
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de steiger (linker- en rechterreling lopen niet parallel)', 'Watervlak mist subtiele textuur, wat een vlakke, bijna digitale uitstraling geeft']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molen, symmetrische bomen, perfecte reflectie en een ideale zonsondergang zonder onverwachte elementen.",
+      "bestand": "images/a007361_7431.webp"
+    },
+    {
+      "id": 7429,
+      "cyclus": 7359,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in takken rechtsboven', 'wazige overgang achtergrond/molen']",
+      "cliche_notities": "Molen met gracht en herfstvegetatie in typisch Nederlands ansichtkaartcompositie zonder verrassend standpunt",
+      "bestand": "images/a007359_7429.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7356,
-    "gemaakt": 7425,
+    "cycli": 7365,
+    "gemaakt": 7434,
     "gekozen": 1063,
-    "afgekeurd": 968,
-    "corpus": 66,
+    "afgekeurd": 971,
+    "corpus": 67,
     "notities": 357
   }
 }
