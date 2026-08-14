@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T13:00+02:00",
+  "bijgewerkt": "2026-08-14T13:15+02:00",
   "werk": [
     {
       "id": 7512,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7524,
+      "cyclus": 7456,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een klassieke kerkafbeelding met iconische architectuur en een serenerend landschap, typisch voor een toeristische ansichtkaart.",
+      "bestand": "images/a007456_7524.webp"
+    },
+    {
+      "id": 7522,
+      "cyclus": 7454,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'wazige texturen']",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerktoren met kruis) en de decoratieve compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a007454_7522.webp"
+    },
+    {
       "id": 7517,
       "cyclus": 7449,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld combineert iconische Nederlandse symbolen (molen, eenden, oranje wolken) in een decoratieve, ansichtkaartachtige compositie zonder eigen standpunt of onverwachte keuzes.",
       "bestand": "images/a007449_7517.webp"
-    },
-    {
-      "id": 7515,
-      "cyclus": 7447,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische woestijnschap met zonsondergang en perfecte, decoratieve belichting zonder duidelijke compositorische keuze.",
-      "bestand": "images/a007447_7515.webp"
-    },
-    {
-      "id": 7510,
-      "cyclus": 7442,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een typisch romantisch strandmotief met handgeschreven tekst in het zand, wat past bij een toeristische ansichtkaart zonder eigen compositorisch standpunt.",
-      "bestand": "images/a007442_7510.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7453,
-    "gemaakt": 7520,
+    "cycli": 7459,
+    "gemaakt": 7526,
     "gekozen": 1079,
-    "afgekeurd": 989,
+    "afgekeurd": 991,
     "corpus": 71,
     "notities": 360
   }
