@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T10:30+02:00",
+  "bijgewerkt": "2026-08-14T10:45+02:00",
   "werk": [
+    {
+      "id": 7458,
+      "titel": "Papier dat ademt",
+      "beschrijving": "Een wit vel papier hangt aan een touw, vastgezet met twee zwarte clipjes. Onderin is een onregelmatige scheur, waar doorheen een zwart-witlandschap zichtbaar is: een weide met lang gras, verspreide witte bloemen en in de verte bomen en struiken tegen een lichte hemel. Het gras in de voorgrond is gedetailleerd, met individuele stengels en zachte schaduwen. De scheur loopt diagonaal, waardoor het landschap lijkt te ontsnappen uit het papier. De achtergrond achter het vel is effen grijs, zonder afleiding.",
+      "cyclus": 7388,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of decoratief perfect licht, maar een gedetailleerde close-up met een ongemakkelijke compositie door de scheur.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007388_7458.webp"
+    },
+    {
+      "id": 7457,
+      "titel": "Donkere golven, witte vragen",
+      "beschrijving": "Zwart-wit golven vullen het beeld, met donkere, onregelmatige strepen die zich uitstrekken over een witte achtergrond. Kleine, verspreide witte vlekjes doorbreken de donkere golven. Onderaan steken scherpe, zwarte vormen omhoog, die lijken op lange, smalle grassprietjes of rietstengels. Deze verticale elementen contrasteren met de horizontale beweging van de golven. De compositie straalt een rustige, bijna meditatieve sfeer uit, met een subtiele dynamiek door de wisselende breedte en vorm van de golven.",
+      "cyclus": 7387,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende thematiek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007387_7457.webp"
+    },
     {
       "id": 7446,
       "titel": "As die fluistert van wat resteert",
@@ -91,61 +117,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007335_7405.webp"
-    },
-    {
-      "id": 7400,
-      "titel": "Rook die leert praten",
-      "beschrijving": "Een transparant kubusvormig object met regenboogkleurige verticale banden aan weerszijden zweeft tegen een effen bruinrode achtergrond. Witte, rookachtige vormen ontsnappen uit het kubusje en golven naar beneden, waar ze over een halve cirkel van regenboogkleuren glijden. Zwarte, onregelmatige barsten lopen door de rook en de regenboog, en breken ook de zijden van het kubusje. De rook verweven zich met de kleuren, terwijl de achtergrond een matte, textuurloze uitstraling heeft.",
-      "cyclus": 7330,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het kubusvormige frame', 'Sommige rookvormen zijn wat wazig/smeuiig']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch/toeristisch onderwerp en geen decoratief perfect licht; de compositie heeft een eigenzinnige, bijna surrealistische inslag.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007330_7400.webp"
-    },
-    {
-      "id": 7392,
-      "titel": "Roze leegte met een schuine greep",
-      "beschrijving": "Een schuine, donkere metalen hekwerkstructuur loopt diagonaal door een monochromatisch roze landschap. Het hek, bestaande uit verticale en horizontale staven met kleine ronde verbindingen, cast een subtiel schaduwpatroon op de gladde, textuurloze ondergrond. De achtergrond vloeit over in een egaal roze horizon, waarbij de overgang naar de voorgrond geleidelijk donkerder wordt. Rechtsboven suggereert een smalle, donkere strook een verre, onduidelijke horizonlijn. De compositie straalt een rustige, bijna verlaten sfeer uit, met de hekwerklijn als enige dynamische element dat de leegte doorsnijdt.",
-      "cyclus": 7322,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van hekwerk bij horizon', 'textuur in achtergrond iets te uniform/smeuig']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is ongewoon en niet-bevestigend.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007322_7392.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7453,
-      "cyclus": 7383,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een persoonlijke compositie met rook en droog gras.",
-      "bestand": "images/a007383_7453.webp"
-    },
-    {
-      "id": 7442,
-      "cyclus": 7372,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
-      "bestand": "images/a007372_7442.webp"
-    },
-    {
-      "id": 7440,
-      "cyclus": 7370,
+      "id": 7463,
+      "cyclus": 7393,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van regenboogbanden (soms scherper, soms waziger)', 'Kleine halo rond rand van regenboog tegen de lucht']",
-      "cliche_notities": "Regenboog tegen een heldere hemel is een klassiek, iconisch motief zonder duidelijke compositorische of conceptuele keuze.",
-      "bestand": "images/a007370_7440.webp"
+      "tech_notities": "['Lichte inconsistentie in textuur van hout aan weerskanten van het raam', 'Rook lijkt iets te glad en kunstmatig']",
+      "cliche_notities": "Molen door een raam is een klassiek ansichtkaartmotief zonder verrassende compositorische keuze",
+      "bestand": "images/a007393_7463.webp"
+    },
+    {
+      "id": 7461,
+      "cyclus": 7391,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst.",
+      "bestand": "images/a007391_7461.webp"
+    },
+    {
+      "id": 7459,
+      "cyclus": 7389,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij bomen op middereenheid', 'Subtiele halos rond zonsondergang']",
+      "cliche_notities": "Landschap met zonsondergang en bergen is een typisch ansichtkaartmotief zonder unieke compositorische keuze.",
+      "bestand": "images/a007389_7459.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7389,
-    "gemaakt": 7458,
-    "gekozen": 1067,
-    "afgekeurd": 977,
-    "corpus": 69,
+    "cycli": 7396,
+    "gemaakt": 7465,
+    "gekozen": 1069,
+    "afgekeurd": 980,
+    "corpus": 68,
     "notities": 357
   }
 }
