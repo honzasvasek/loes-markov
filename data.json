@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T23:45+02:00",
+  "bijgewerkt": "2026-08-15T00:00+02:00",
   "werk": [
+    {
+      "id": 7799,
+      "titel": "Lijn die blijft steken",
+      "beschrijving": "Een wit vlak beslaat de bovenhelft, scherp afgezet door een donkere, rechte lijn. Daaronder loopt een brede, lichtgrijze band met twee donkere, golvende lijnen die parallel aan elkaar lopen, maar niet symmetrisch zijn. De onderste helft van het beeld wordt ingenomen door een groter, lichtgrijs vlak, doorsneden door een enkele donkere, golvende lijn die van linksboven naar rechtsonder loopt. De penseelstreken zijn zichtbaar, met kleine textuurverschillen in de verf. De compositie is verticaal opgebouwd, met een duidelijke scheiding tussen de boven- en onderhelft. De sfeer is kalm en minimalistisch, zonder duidelijke onderwerpen of actie.",
+      "cyclus": 7733,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007733_7799.webp"
+    },
+    {
+      "id": 7797,
+      "titel": "Scherpe randen, stille val",
+      "beschrijving": "Een gebroken glazen beker ligt schuin op een zandig oppervlak, met scherpe randen en een diepe scheur die van de rand naar de bodem loopt. Een smalle, heldere lichtstraal valt schuin op de beker en verlicht de binnenkant, terwijl de schaduw eronder donker en scherp getekend is. Op de achtergrond strekt zich een heuvelachtig landschap uit met donkere bomen en struiken aan de horizon, getekend in zachte, grijze tinten. Het zand heeft subtiele textuur en een lichte gloed waar het licht valt, en een smalle, donkere spleet loopt parallel aan de beker. De compositie is rustig, met de beker als centraal punt dat de blik trekt door de contrasten tussen licht en donker.",
+      "cyclus": 7731,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van de achtergrond (bomen/heuvels) vs. voorgrond (glas)', 'Subtiele halo rond de bliksemflits tegen de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is ongemakkelijk en heeft een eigen standpunt door de focus op ontbinding en leegte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007731_7797.webp"
+    },
     {
       "id": 7791,
       "titel": "Waar blijft de wind?",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007669_7735.webp"
-    },
-    {
-      "id": 7733,
-      "titel": "Waar begint de kaart?",
-      "beschrijving": "Een houten deur staat op een kier, waardoor een helderwit vlak zichtbaar wordt met donkere, abstracte lijnen en vormen. De deur heeft een klassieke ontwerp met panelen en een donkere metalen klink. Het witte vlak achter de deur toont een netwerk van rechte en gebogen lijnen, met kleine cirkels en stippen die lijken op een schematische kaart of een onleesbaar diagram. De achtergrond rond de deur is donker en textuurloos, wat het contrast met het lichte vlak versterkt. De vloer voor de deur is lichtgrijs en reflecteert een zachte schaduw van de deur. De sfeer is statisch en mysterieus, met een focus op de spanning tussen de gesloten en open ruimte.",
-      "cyclus": 7667,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp (een open deur met abstracte lijnen) is niet iconisch en de compositie heeft een eigen, denkbeeldig karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007667_7733.webp"
-    },
-    {
-      "id": 7731,
-      "titel": null,
-      "beschrijving": "Groene bomen met donkere stammen staan in een rij, omringd door weelderig gras en kleine bloemen in wit en geel. Achter de bomen loopt een metalen hek, vaag zichtbaar door een lichte mist die de achtergrond verzwakt. Het licht valt schuin door de bladeren, waardoor glinsterende highlights op het gras en de stengels ontstaan. Kleuren variëren van donkergroen en bruin bij de bomen tot heldergroen en geelgroen in het gras, met subtiele blauwe en witte tinten in de achtergrond. De compositie is verticaal gericht, met de bomen die de hoogte benadrukken en het gras dat de voorgrond vult met een dynamische, bijna chaotische textuur. Kleine details zoals druppels op het gras en de textuur van de bast voegen een realistische, bijna tastbare laag toe aan het tafereel.",
-      "cyclus": 7665,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, bijna abstracte weergave van natuur met ruimte voor interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007665_7731.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7739,
+      "soort": "observatie",
+      "tekst": "De vogels in c7739 vliegen in een diagonale lijn, maar de witte vlekken op hun vleugels zijn geen sporen van verdwijnen—ze zijn de actieve spanning tussen een vorm die zich onttrekt aan een verhaal en een ruimte die zich weigert te laten vullen. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
+    },
+    {
       "cyclus": 7715,
       "soort": "observatie",
       "tekst": "De sporen van verdwijnen in recente beelden zijn geen hints van een verdwijnd verhaal meer, maar de actieve spanning tussen een vorm die zich onttrekt aan eenheid en een ruimte die zich weigert te laten vullen—de weg loopt naar de horizon zonder bestemming, de donkere vlekken domineren zonder een onderwerp te suggereren. De leegte is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
@@ -252,11 +257,6 @@
       "cyclus": 7559,
       "soort": "observatie",
       "tekst": "De witte draden in c7559 en het zand in c7554 zijn geen sporen van verdwijnen, maar de actieve spanning tussen een structuur die zich onttrekt aan een functie en een stof dat zich weigert te laten stilliggen—de draden spannen zich zonder een hek te verbinden, het zand stroomt zonder een kop te leeg te maken. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een spoor te hoeven achterlaten."
-    },
-    {
-      "cyclus": 7438,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van sporen van verdwijnen naar de actieve rol van leegte en aanwezigheid als vormgever, zonder verhaal of gevoel."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7734,
-    "gemaakt": 7799,
-    "gekozen": 1133,
+    "cycli": 7741,
+    "gemaakt": 7807,
+    "gekozen": 1135,
     "afgekeurd": 1055,
     "corpus": 68,
-    "notities": 366
+    "notities": 367
   }
 }
