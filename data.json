@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T22:00+02:00",
+  "bijgewerkt": "2026-08-14T22:15+02:00",
   "werk": [
+    {
+      "id": 7749,
+      "titel": "Rook die leert vallen",
+      "beschrijving": "Dunne, doorschijnende banen van roodbruin rook of damp kronkelen verticaal door een effen grijze ruimte, met subtiele overgangen naar goud en koper aan de randen. Drie druppelvormige uitsteeksels, glanzend en korrelig, volgen de lijnen naar beneden, waarbij de onderste druppel overgaat in een verspreiding van kleine, schitterende deeltjes die als stof of glinsterend zand door de lucht lijken te dwarren. De compositie is verticaal georiënteerd, met veel lege ruimte rond de vormen, wat een gevoel van zwevende, trage beweging oproept. De textuur van de achtergrond is mat en iets korrelig, terwijl de rook en deeltjes een zachte, bijna vloeibare glans hebben.",
+      "cyclus": 7683,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007683_7749.webp"
+    },
+    {
+      "id": 7745,
+      "titel": "De scheur die blijft ademen",
+      "beschrijving": "Een glad oppervlak van zilvergrijs water, doorsneden door een onregelmatige, donkere scheur die van boven naar beneden loopt en zich vertakt in smallerе lijnen. Het water heeft een glanzende, bijna vloeibare textuur met zachte golven en reflecties van wit en lichtgrijs, terwijl de scheur een scherpe, donkere lijn vormt die het beeld in twee ongelijke delen deelt. Kleuren zijn beperkt tot grijstinten, met subtiele variaties in helderheid en diepte. De horizon is vaag en lost op in een egale, lichtgrijze achtergrond, waardoor het water de volledige aandacht trekt. De sfeer is stil en statisch, met een gevoel van spanning tussen de gladde oppervlakte en de verstorende scheur.",
+      "cyclus": 7679,
+      "tech_score": 8.0,
+      "tech_notities": "subtiele inconsistenties in textuurflow bij horizon, lichte halo rond witte reflecties",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007679_7745.webp"
+    },
     {
       "id": 7735,
       "titel": "Geen titel nodig",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007651_7717.webp"
-    },
-    {
-      "id": 7708,
-      "titel": "Waar het water ontsnapt",
-      "beschrijving": "Een gebroken aardewerken kom met een scherpe, onregelmatige scheur staat centraal, waaruit een smalle stroom water stroomt die zich uitstrekt over een zandige ondergrond. Het water heeft een golvende, bijna vloeibare textuur met blauwe en witte tinten, en wordt omgeven door kleine stenen en verspreide groene plantjes. Achter de kom bevindt zich een metalen constructie met verticale en horizontale staven, en rechtsboven hangt een donker, puntig voorwerp dat lijkt op een pen of een gereedschap. De achtergrond is egaal grijs, wat de focus legt op de kom en de stroom water die zich door het zand slingert. De sfeer is stil en iets melancolisch, met een subtiele spanning tussen het gebroken voorwerp en de levendige stroom die eruit komt.",
-      "cyclus": 7642,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van het metalen frame achter de pot', 'lichte wazigheid in de textuur van de grond rond de waterstroom']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een eigen, ongemakkelijke spanning tussen vernietiging en stroming.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007642_7708.webp"
-    },
-    {
-      "id": 7699,
-      "titel": "Regenstralen boven vergeten huizen",
-      "beschrijving": "Een dorp met traditionele, donkere daken en lichte muren ligt onder een bewolkte hemel waar regen stralen vormt. Rook of mist kronkelt in golven door de lucht, met donkere en lichte tinten die een dynamische beweging suggereren. Bomen zonder bladeren en enkele groene bomen omringen de huizen, terwijl elektriciteitspalen en draden door het landschap lopen. Voor de huizen liggen verspreide voorwerpen zoals tonnen, planken en onherkenbare voorwerpen. Een smalle weg of loopbrug loopt door het midden, met aan weerskanten trappen en kleine tuinkjes. De achtergrond toont heuvels en verdwenen structuren, vaag en onscherp. De sfeer is zwaar en nat, met een gevoel van verlatenheid en stilte.",
-      "cyclus": 7633,
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele inconsistenties in perspectief van daken en bomen', 'wazige overgang tussen hemel en landschap']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, bijna verontrustende sfeer die boven een simpele ansichtkaart uitgaat.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007633_7699.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7757,
+      "cyclus": 7691,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in de reflectie van de molens in het water', 'kleine inconsistentie in de perspectief van de bomen aan weerskanten']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, een gracht en een idyllisch landschap zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a007691_7757.webp"
+    },
     {
       "id": 7744,
       "cyclus": 7678,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in reflectie van de windmolen in het water', 'lichte wazigheid in de achtergrondboomgroepen']",
       "cliche_notities": "Het beeld toont een iconische Nederlandse windmolen in een typisch landschap, met een decoratieve compositie en geen duidelijke persoonlijke invalshoek.",
       "bestand": "images/a007677_7743.webp"
-    },
-    {
-      "id": 7740,
-      "cyclus": 7674,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deur ten opzichte van de muur', 'lichte wazigheid in de achtergrond van het landschap door de deur']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische motief van een open deur naar een idyllisch landschap met bloemen en gras, gecombineerd met decoratief perfect licht en een gebrek aan eigen compositorische keuzes.",
-      "bestand": "images/a007674_7740.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7686,
-    "gemaakt": 7752,
-    "gekozen": 1126,
-    "afgekeurd": 1045,
-    "corpus": 67,
+    "cycli": 7694,
+    "gemaakt": 7759,
+    "gekozen": 1128,
+    "afgekeurd": 1046,
+    "corpus": 69,
     "notities": 365
   }
 }
