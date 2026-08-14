@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T12:30+02:00",
+  "bijgewerkt": "2026-08-14T12:45+02:00",
   "werk": [
     {
       "id": 7496,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7510,
+      "cyclus": 7442,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een typisch romantisch strandmotief met handgeschreven tekst in het zand, wat past bij een toeristische ansichtkaart zonder eigen compositorisch standpunt.",
+      "bestand": "images/a007442_7510.webp"
+    },
+    {
       "id": 7507,
       "cyclus": 7438,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van het landschap', 'Wazige details in de achtergrond bij de horizon']",
       "cliche_notities": "Het beeld straalt een typisch ansichtkaart-gevoel uit met een iconische regenboog, kindergroep en idyllisch landschap zonder duidelijke compositorische keuze.",
       "bestand": "images/a007430_7499.webp"
-    },
-    {
-      "id": 7491,
-      "cyclus": 7421,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in textuur van riet (soms te scherp, soms wazig)', 'kleine halo rond stam van de wilg tegen de achtergrond']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch Nederlands landschap (wilg + riet) met decoratief zacht licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a007421_7491.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7440,
-    "gemaakt": 7508,
+    "cycli": 7444,
+    "gemaakt": 7512,
     "gekozen": 1077,
-    "afgekeurd": 986,
+    "afgekeurd": 987,
     "corpus": 70,
     "notities": 360
   }
