@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-14T17:30+02:00",
+  "bijgewerkt": "2026-08-14T17:45+02:00",
   "werk": [
+    {
+      "id": 7637,
+      "titel": "Rook en zaadjes in diagonaal licht",
+      "beschrijving": "Een schuine, smalle strook wit scheidt een bruin-groene heuvel van een blauwe achtergrond, waar donkere silhouetten van bomen en struiken verspreid staan. Een witte, rookachtige vorm stijgt op in golven, met blauwe en witte tinten die zich vermengen met de lucht. Donkere, onregelmatige vlekken en strepen lopen door het landschap, met kleine zwarte stippen die als stenen of zaadjes verspreid lijken. De kleuren schuiven van warm bruin en roodbruin naar koel blauw en groen, met scherpe, diagonale lijnen die de compositie doorsnijden. De textuur is korrelig en textuurrijk, met zichtbare penseelstreken en een bijna korrelige structuur in de kleuren.",
+      "cyclus": 7571,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de horizonlijn', 'lichte wazigheid in de donkerblauwe bomen aan de linkerhorizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie met een focus op vorm en beweging in plaats van een herkenbaar landschap of onderwerp.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007571_7637.webp"
+    },
+    {
+      "id": 7632,
+      "titel": "Vuur dat wortelt in as",
+      "beschrijving": "Oranje en zwarte vegen vullen het bovenste deel, met donkere, rokerige vormen die naar beneden stromen en overgaan in grijze, wazige structuren. Dunne, donkere lijnen en draden doorlopen het midden, waarbij sommige zich vertakken als wortels of aders. Onderin loopt een donkere, onregelmatige horizon met kleine, donkere vlekken en wat lijkt op silhouetten van bomen of ruïnes. De achtergrond is lichtgrijs met subtiele textuur, terwijl de oranje vormen een vuurachtige, onrustige sfeer uitstralen. Donkere vlekken en spetters zijn verspreid over het hele beeld, met name in de overgang tussen oranje en grijs.",
+      "cyclus": 7566,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met eigen compositorische keuzes.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007566_7632.webp"
+    },
+    {
+      "id": 7626,
+      "titel": "Onvoltooide gedachten in hout en lucht",
+      "beschrijving": "Een verweerd houten platform, samengesteld uit ongelijkmatige planken met losse bouten en kieren waarin onkruid groeit, domineert het voorplan. Tussen het hout liggen verspreid kleine voorwerpen: een donkere steen, een gebroken pot, een gele pen en wat metaalafval. Achter het platform strekt zich een open landschap uit met lage, groene heuvels en een vaag silhouet van bomen aan de horizon. Bovenin, tegen een bleekgrijze lucht, zweeft een schetsmatig profiel van een menselijk hoofd met wapperend haar, getekend in fijne, donkere lijnen. De kleuren zijn gedempt, met bruine en grijze tinten in het hout en het landschap, doorsneden door subtiele groene en gele accenten in het onkruid en de achtergrond. De compositie is horizontaal georiënteerd, met het platform dat diagonaal door het beeld loopt en het profiel dat zich in de bovenste linkerhoek bevindt.",
+      "cyclus": 7560,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van houten planken aan horizon', 'lichte wazigheid in achtergrondlandschap']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een ongemakkelijke, denkbeeldige kwaliteit die boven een ansichtkaart uitstijgt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007560_7626.webp"
+    },
     {
       "id": 7620,
       "titel": "Zand dat onthoudt wat rook vergeet",
@@ -78,48 +117,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007533_7599.webp"
-    },
-    {
-      "id": 7597,
-      "titel": "Waar wortels stilstaan",
-      "beschrijving": "Een scheur loopt diagonaal door een houten oppervlak, omgeven door organische vormen die lijken op wortels of aderen. Achter de houten structuur staat een bakstenen gebouw met een tegeldak, gedeeltelijk omhuld door houten steigers. Raampjes en een schoorsteen zijn zichtbaar in het metselwerk. Op de voorgrond liggen keien en kleine, bolvormige objecten verspreid over een zandachtige ondergrond. De lijnen zijn scherp en gedetailleerd, met een contrast tussen de ruwe textuur van het hout en de geometrische vormen van het gebouw. De sfeer is statisch, met een spanning tussen het natuurlijke en het gebouwde.",
-      "cyclus": 7531,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de combinatie van organische en architectonische elementen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007531_7597.webp"
-    },
-    {
-      "id": 7596,
-      "titel": "Rook die vragen stelt",
-      "beschrijving": "Een hand houdt een dunne steel met een donkere, vertakte plant, waaruit een slanke rookwolk omhoog stijgt en in een spiraal verdwijnt. De achtergrond is een egale, grijze vlakte die overgaat in een donkere, korrelige ondergrond met verspreide klonten en glinsterende deeltjes. De rook vormt een zachte, witte lijn die contrasteert met de scherpe, donkere takken en de ruwe textuur van de grond. De hand grijpt de steel dicht bij de basis, met de vingers licht gekromd en de nagels kort geknipt. De plant heeft fijne, naaldvormige blaadjes en kleine, donkere zaadhoofdjes die in een waaiervormige structuur staan. De rook beweegt zich langzaam omhoog, terwijl de plant stilstaat en de grond een statische, bijna droge uitstraling heeft.",
-      "cyclus": 7530,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een subtiele spanning tussen aanwezigheid en afwezigheid, geen ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007530_7596.webp"
-    },
-    {
-      "id": 7590,
-      "titel": "Rook die blijft hangen in hout",
-      "beschrijving": "Een verbrandde houten staaf ligt schuin op een getextureerd, donkergrijs oppervlak met subtiele plooien en vlekken. Het hout is zwartgeblakerd, met diepe barsten en uitgesneden delen waar de structuur blootligt. Rond de staaf bevinden zich kleine, donkere deeltjes en watjes stof, alsof de ontbinding nog doorgaat. Enkele druppels water glanzen op het oppervlak, met een reflectie die de textuur van het materiaal benadrukt. De achtergrond is onscherp, waardoor de focus ligt op de ruwe, verweerde textuur van het hout en de stilte van het moment.",
-      "cyclus": 7523,
-      "tech_score": 8.0,
-      "tech_notities": "kleine halo rond de rand van het hout, lichte inconsistentie in textuur van de achtergrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een intieme, onopgesmukte close-up met focus op textuur en afwezigheid",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007523_7590.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7638,
+      "cyclus": 7572,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deur ten opzichte van de achtergrond', 'Watervlak heeft onnatuurlijke, bijna geschilderde golven die niet helemaal logisch aansluiten bij de bomen']",
+      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, zandduinen) met een klassieke compositie (deur als kader), wat het aanvoelt als een moderne ansichtkaart zonder sterke persoonlijke stempel.",
+      "bestand": "images/a007572_7638.webp"
+    },
     {
       "id": 7630,
       "cyclus": 7564,
@@ -137,15 +146,6 @@
       "tech_notities": "['subtiele inconsistenties in reflecties van bomen in water', 'lichte vervorming van snavels bij twee ganzen']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische ganzen op water en een serene achtergrond, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a007563_7629.webp"
-    },
-    {
-      "id": 7627,
-      "cyclus": 7561,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld combineert een klok met golven in een surrealistische compositie, geen typisch iconisch onderwerp.",
-      "bestand": "images/a007561_7627.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7567,
-    "gemaakt": 7632,
-    "gekozen": 1101,
-    "afgekeurd": 1020,
+    "cycli": 7574,
+    "gemaakt": 7639,
+    "gekozen": 1104,
+    "afgekeurd": 1021,
     "corpus": 68,
     "notities": 362
   }
