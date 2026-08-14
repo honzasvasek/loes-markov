@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T08:15+02:00",
+  "bijgewerkt": "2026-08-14T08:30+02:00",
   "werk": [
+    {
+      "id": 7392,
+      "titel": "Roze leegte met een schuine greep",
+      "beschrijving": "Een schuine, donkere metalen hekwerkstructuur loopt diagonaal door een monochromatisch roze landschap. Het hek, bestaande uit verticale en horizontale staven met kleine ronde verbindingen, cast een subtiel schaduwpatroon op de gladde, textuurloze ondergrond. De achtergrond vloeit over in een egaal roze horizon, waarbij de overgang naar de voorgrond geleidelijk donkerder wordt. Rechtsboven suggereert een smalle, donkere strook een verre, onduidelijke horizonlijn. De compositie straalt een rustige, bijna verlaten sfeer uit, met de hekwerklijn als enige dynamische element dat de leegte doorsnijdt.",
+      "cyclus": 7322,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in perspectief van hekwerk bij horizon', 'textuur in achtergrond iets te uniform/smeuig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is ongewoon en niet-bevestigend.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007322_7392.webp"
+    },
+    {
+      "id": 7390,
+      "titel": "Rook tussen het groen",
+      "beschrijving": "Groen gras vult het beeld, met lange, slanke bladeren die in verschillende hoogtes en richtingen staan. Een wolk witte rook stijgt op uit het midden van het gras, waarbij de rook zich in zachte, wazige vormen uitstrekt en langzaam verdwijnt in de lucht. Het licht valt schuin op het gras, waardoor sommige delen heldergroen zijn en andere donkerder, met subtiele schaduwen die diepte geven. De rook contrasteert met de scherpe, duidelijke vormen van het gras en voegt een dynamisch element toe aan het tafereel.",
+      "cyclus": 7320,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvieuze compositie met rook en gras.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007320_7390.webp"
+    },
     {
       "id": 7385,
       "titel": "Beton houdt zijn adem in",
@@ -91,61 +117,35 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007270_7340.webp"
-    },
-    {
-      "id": 7334,
-      "titel": "Roze zonder uitweg",
-      "beschrijving": "Een smalle, rechte gang met zachtroze muren en een lichtgrijze vloer loopt door het midden van het beeld. Twee ronde plafondlampen werpen een diffuus licht, waarbij de bovenste lamp een subtiele schaduw gooit op het plafond. De hoeken van de gang zijn scherp getrokken, en de vloer reflecteert lichtelijk het roze van de muren. Een donkergrijze plint loopt langs de onderkant van de muren, die de overgang naar de vloer markeert. De gang loopt uit op een vlakke, eveneens roze muur zonder openingen of details. De sfeer is statisch en leeg, met een minimale afwisseling in kleur en textuur.",
-      "cyclus": 7264,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de leegte en symmetrie vragen om interpretatie, geen passief genietplezier.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007264_7334.webp"
-    },
-    {
-      "id": 7333,
-      "titel": "Sporen die blijven hangen",
-      "beschrijving": "Een donkerbruine houten vloer met zichtbare planken en een glimmende, natte laag die sporen van beweging vastlegt. Witte, golvende patronen lopen door het beeld, alsof er iets zachts over de vloer is getrokken. Kleiner, donkerdere vlekken en krassen doorbreken de gladheid. Het licht valt schuin, waardoor de textuur van het hout en de vochtige reflecties benadrukt worden. De randen van de afbeelding vervaagen in duister, wat de focus legt op het midden waar de beweging het sterkst is.",
-      "cyclus": 7263,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de textuur en ruimte van het oppervlak, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007263_7333.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7389,
-      "cyclus": 7319,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van sommige huizen', 'enkele bomen hebben onnatuurlijke, platte vormen']",
-      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een dorpje met iconische elementen zoals witte huizen en groene bomen in een decoratieve stijl.",
-      "bestand": "images/a007319_7389.webp"
-    },
-    {
-      "id": 7388,
-      "cyclus": 7318,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
-      "bestand": "images/a007318_7388.webp"
-    },
-    {
-      "id": 7387,
-      "cyclus": 7317,
+      "id": 7402,
+      "cyclus": 7332,
       "afkeuringsreden": "cliche",
       "tech_score": 9.0,
       "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch rood huisje op een pier tegen een heldere horizon, met perfect licht en geen duidelijke compositorische keuze beyond symmetrie.",
-      "bestand": "images/a007317_7387.webp"
+      "cliche_notities": "Regenboog over het strand is een klassiek ansichtkaartmotief zonder verrassende compositorische keuzes.",
+      "bestand": "images/a007332_7402.webp"
+    },
+    {
+      "id": 7401,
+      "cyclus": 7331,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Molen en kustlandschap door een open deur is een typisch Nederlands ansichtkaartmotief zonder verrassende compositorische keuzes.",
+      "bestand": "images/a007331_7401.webp"
+    },
+    {
+      "id": 7397,
+      "cyclus": 7327,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een surrealistisch beeld met een eigen compositorische keuze.",
+      "bestand": "images/a007327_7397.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7327,
-    "gemaakt": 7396,
-    "gekozen": 1057,
-    "afgekeurd": 964,
-    "corpus": 69,
+    "cycli": 7335,
+    "gemaakt": 7404,
+    "gekozen": 1059,
+    "afgekeurd": 967,
+    "corpus": 67,
     "notities": 357
   }
 }
