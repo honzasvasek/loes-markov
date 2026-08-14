@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T10:15+02:00",
+  "bijgewerkt": "2026-08-14T10:30+02:00",
   "werk": [
     {
       "id": 7446,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7453,
+      "cyclus": 7383,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een persoonlijke compositie met rook en droog gras.",
+      "bestand": "images/a007383_7453.webp"
+    },
+    {
       "id": 7442,
       "cyclus": 7372,
       "afkeuringsreden": "techniek",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van regenboogbanden (soms scherper, soms waziger)', 'Kleine halo rond rand van regenboog tegen de lucht']",
       "cliche_notities": "Regenboog tegen een heldere hemel is een klassiek, iconisch motief zonder duidelijke compositorische of conceptuele keuze.",
       "bestand": "images/a007370_7440.webp"
-    },
-    {
-      "id": 7438,
-      "cyclus": 7368,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met persoonlijke keuzes.",
-      "bestand": "images/a007368_7438.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7382,
-    "gemaakt": 7451,
+    "cycli": 7389,
+    "gemaakt": 7458,
     "gekozen": 1067,
-    "afgekeurd": 976,
+    "afgekeurd": 977,
     "corpus": 69,
     "notities": 357
   }
