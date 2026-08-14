@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-14T05:45+02:00",
+  "bijgewerkt": "2026-08-14T06:00+02:00",
   "werk": [
+    {
+      "id": 7315,
+      "titel": "Waar het donkere druipt",
+      "beschrijving": "Bovenaan loopt een donkere, geometrische structuur met schuine en rechte lijnen, waar donkere vlekken en spetters vanaf druipen. Daaronder bevindt zich een onregelmatige, donkere vorm met uitlopers en spetters, alsof iets donkers en vochtigs over een oppervlak is gegleden. Rechtsboven in deze vorm zit een cirkelvormig element met een oranjebruine rand, waarbinnen donkere en lichte vlekken en gaten te zien zijn. Donkere spetters en vaag zichtbare lijnen verspreiden zich over het witte achtergrondvlak, met hier en daar een subtiele oranje tint. De compositie voelt dynamisch en wat chaotisch, met een contrast tussen de strakke bovenste structuur en de organische, vloeiende vormen eronder.",
+      "cyclus": 7245,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het metalen frame bovenin', 'Enkele zones met detailverlies in donkere vlakken (bijv. linkeronder)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open van karakter.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007245_7315.webp"
+    },
     {
       "id": 7311,
       "titel": "Vonken op de weg naar water",
@@ -104,19 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007192_7262.webp"
-    },
-    {
-      "id": 7258,
-      "titel": "Rook die blijft hangen",
-      "beschrijving": "Twee gebroken kopjes liggen op een onregelmatig, textuurrijk oppervlak dat doet denken aan verweerd steen of droog modder. Rook stijgt in slingerende, doorschijnende banen op vanaf de kop dichterbij, en verdwijnt in een donkere, vaasvormige achtergrond. Donkere vlekken en spattingen verspreiden zich over het lichtgrijze, ongelijke vlak, terwijl de kopjes subtiele blauwe en witte tinten vertonen. De compositie is asymmetrisch, met de kopjes schuin geplaatst en de rook die een verticale lijn vormt tegen de horizontale uitgestrektheid van het oppervlak.",
-      "cyclus": 7188,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaduwval bij de koppen', 'Textuur in de achtergrond iets te uniform/smeug']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en sfeervol, niet typisch ansichtkaartmateriaal.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007188_7258.webp"
     }
   ],
   "afgekeurd": [
@@ -313,9 +313,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7254,
-    "gemaakt": 7323,
-    "gekozen": 1047,
+    "cycli": 7262,
+    "gemaakt": 7331,
+    "gekozen": 1048,
     "afgekeurd": 953,
     "corpus": 68,
     "notities": 356
