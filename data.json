@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T20:15+02:00",
+  "bijgewerkt": "2026-08-14T20:30+02:00",
   "werk": [
+    {
+      "id": 7708,
+      "titel": "Waar het water ontsnapt",
+      "beschrijving": "Een gebroken aardewerken kom met een scherpe, onregelmatige scheur staat centraal, waaruit een smalle stroom water stroomt die zich uitstrekt over een zandige ondergrond. Het water heeft een golvende, bijna vloeibare textuur met blauwe en witte tinten, en wordt omgeven door kleine stenen en verspreide groene plantjes. Achter de kom bevindt zich een metalen constructie met verticale en horizontale staven, en rechtsboven hangt een donker, puntig voorwerp dat lijkt op een pen of een gereedschap. De achtergrond is egaal grijs, wat de focus legt op de kom en de stroom water die zich door het zand slingert. De sfeer is stil en iets melancolisch, met een subtiele spanning tussen het gebroken voorwerp en de levendige stroom die eruit komt.",
+      "cyclus": 7642,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van het metalen frame achter de pot', 'lichte wazigheid in de textuur van de grond rond de waterstroom']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een eigen, ongemakkelijke spanning tussen vernietiging en stroming.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007642_7708.webp"
+    },
+    {
+      "id": 7699,
+      "titel": "Regenstralen boven vergeten huizen",
+      "beschrijving": "Een dorp met traditionele, donkere daken en lichte muren ligt onder een bewolkte hemel waar regen stralen vormt. Rook of mist kronkelt in golven door de lucht, met donkere en lichte tinten die een dynamische beweging suggereren. Bomen zonder bladeren en enkele groene bomen omringen de huizen, terwijl elektriciteitspalen en draden door het landschap lopen. Voor de huizen liggen verspreide voorwerpen zoals tonnen, planken en onherkenbare voorwerpen. Een smalle weg of loopbrug loopt door het midden, met aan weerskanten trappen en kleine tuinkjes. De achtergrond toont heuvels en verdwenen structuren, vaag en onscherp. De sfeer is zwaar en nat, met een gevoel van verlatenheid en stilte.",
+      "cyclus": 7633,
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele inconsistenties in perspectief van daken en bomen', 'wazige overgang tussen hemel en landschap']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, bijna verontrustende sfeer die boven een simpele ansichtkaart uitgaat.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007633_7699.webp"
+    },
     {
       "id": 7696,
       "titel": "Rook die vragen stelt",
@@ -26,6 +52,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007625_7691.webp"
+    },
+    {
+      "id": 7690,
+      "titel": "Handen in de stroom",
+      "beschrijving": "Vier naakte kinderen kruipen langs een smalle, kronkelende spleet in de grond, waar een smalle stroom water stroomt. Het water heeft een zachte, golvende textuur en reflecteert het licht, terwijl de randen van de spleet ruw en onregelmatig zijn, met losse stenen en brokjes aarde. De kinderen hebben korte, wat wollige haren en kijken geconcentreerd naar het water, waarbij hun handen en armen de rand van de spleet raken. De achtergrond is een egaal, lichtbruin vlak met subtiele textuur, alsof het oude papier is. Er zijn enkele kleine, donkere vlekken verspreid over het beeld, die lijken op druppels of kleine stenen. De sfeer is rustig en intiem, met een focus op de interactie tussen de kinderen en het water.",
+      "cyclus": 7624,
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte inconsistentie in schaduwval bij kind rechtsboven",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongemakkelijk en niet-bevestigend",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007624_7690.webp"
     },
     {
       "id": 7685,
@@ -91,74 +130,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007595_7661.webp"
-    },
-    {
-      "id": 7660,
-      "titel": "Twaalf uur tot de overstroming",
-      "beschrijving": "Centraal staat een klassieke wekker met twee belletjes bovenaan en een handvat, met wijzers die op twaalf uur wijzen. Rond de wekker golven donkere, dynamische golven met schuimende toppen, die tegen donkere, ruwe rotsen slaan. De rotsen hebben scherpe, onregelmatige vormen en zijn gedetailleerd getekend met lijnen die textuur suggereren. Onderin stroomt het water rustiger, met zachte golven en enkele donkere keizers die in het water drijven. De achtergrond bestaat uit horizontale lijnen die een gevoel van diepte geven, terwijl de wekker scherp en duidelijk afgetekend is tegen een lichtere achtergrond. Het geheel straalt een spanning uit tussen beweging en stilstaan, met de wekker als onwrikbaar middelpunt in een chaotisch landschap.",
-      "cyclus": 7594,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een klassiek motief (wekker) met een dynamisch landschap, maar heeft een eigen compositorische keuze door de wekker centraal te plaatsen boven de golven en rotsen, wat geen typische ansichtkaartcompositie is.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007594_7660.webp"
-    },
-    {
-      "id": 7652,
-      "titel": "Rook waar niets vandaan komt",
-      "beschrijving": "Een rechte, smalle laan loopt tussen twee rijen kale bomen door een mistig landschap. De bomen hebben donkere, slanke stammen en uitgestrekte, takkenrijke silhouetten die zich tegen een grijze, bewolkte hemel aftekenen. Middenboven, boven de laan, stijgt een wazige, witte rook- of dampstraal op die zich langzaam verspreidt in de lucht. Het grondoppervlak is bedekt met droog, bruin gras en verspreide stenen. De sfeer is stil en verlaten, met een gevoel van eenzaamheid en afwezigheid van leven. De kleuren zijn gedempt en monochroom, gedomineerd door grijs, bruin en zwart.",
-      "cyclus": 7586,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de rookpluim', 'lichte inconsistentie in boomtakken aan horizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust ongemakkelijk en open.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007586_7652.webp"
-    },
-    {
-      "id": 7648,
-      "titel": "Papier dat ademt",
-      "beschrijving": "Donkere, dynamische strepen en vegen vullen het beeld, getekend met wat lijkt op kool of potlood. De lijnen lopen in verschillende richtingen, soms scherp en donker, soms vaag en grijzig, met hier en daar een kleine, donkere vlek. De achtergrond is lichtgrijs met subtiele textuur, alsof het papier de donkere strepen opzuigt. Er is geen duidelijke compositie of onderwerp, maar een gevoel van beweging en chaos, alsof de strepen in één beweging zijn gezet. De sfeer is intens en onrustig, met een onderliggende balans tussen donker en licht.",
-      "cyclus": 7582,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in lijndikte bij sommige strepen', 'lichte wazigheid in de achtergrondtextuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met persoonlijke keuzes in lijnwerk en ruimte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007582_7648.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7703,
-      "cyclus": 7637,
+      "id": 7709,
+      "cyclus": 7643,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van het papier aan weerskanten van de deur', 'Watervlak mist subtiele dynamiek, wat het iets statisch maakt']",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen door een raam, met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a007637_7703.webp"
+      "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen wieken', 'lichte wazigheid in achtergrondbomen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse windmolen, een smalle weg en een romantische zonsondergang, zonder duidelijke compositorische keuzes die beyond het cliché gaan.",
+      "bestand": "images/a007643_7709.webp"
     },
     {
-      "id": 7702,
-      "cyclus": 7636,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolen ten opzichte van het landschap', 'Enkele handen en gezichten van kinderen zijn vaag of onvolledig gedetailleerd']",
-      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met windmolen en kinderen in een weelderig veld, geschilderd in een decoratieve, nostalgische stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007636_7702.webp"
+      "id": 7707,
+      "cyclus": 7641,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een typisch landschap door een open raam met bergen en dorpen, een compositie die vaak op ansichtkaarten te zien is, zonder duidelijke persoonlijke of compositorische keuzes.",
+      "bestand": "images/a007641_7707.webp"
     },
     {
-      "id": 7697,
-      "cyclus": 7631,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Wazige texturen in de achtergrond (bomen, hek)', 'Inconsistent perspectief bij de tweede molen (te klein/te ver weg)', 'Detailverlies in schaduwen van de auto en de molen', 'Halo-effect rond de vlammen en rook']",
-      "cliche_notities": "Molens en een verwoestend vuur in een typisch Nederlands landschap vormen een iconisch, bijna ansichtkaartachtig beeld zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007631_7697.webp"
+      "id": 7705,
+      "cyclus": 7639,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte vorm zonder toeristische connotatie.",
+      "bestand": "images/a007639_7705.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7643,
+      "soort": "observatie",
+      "tekst": "De scheur in de aardewerken kom en de barsten in het keramische vat zijn geen sporen van verdwijnen, maar de actieve spanning tussen een vorm die zich onttrekt aan eenheid en een ruimte die zich weigert te laten vullen—het water stroomt eruit zonder de kom te leeg te maken, de barsten doorsnijden het vat zonder dat het instabiel wordt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een spoor te hoeven achterlaten."
+    },
+    {
       "cyclus": 7619,
       "soort": "observatie",
       "tekst": "De scheur in c7619 en de barsten in c7615 zijn geen sporen van verdwijnen, maar de actieve spanning tussen een oppervlak dat zich onttrekt aan eenheid en een ruimte die zich weigert te laten vullen—de scheur loopt diagonaal zonder de twee vlakken te scheiden, de barsten doorsnijden de vlakte zonder dat het landschap instabiel wordt. De leegte tussen de vormen is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een spoor te hoeven achterlaten."
@@ -252,11 +257,6 @@
       "cyclus": 7438,
       "soort": "bevinding",
       "tekst": "De sporen van aanwezigheid blijken geen sporen meer, maar een taal die zich oplost in de ruimte zonder een verhaal of een gevoel te hoeven hebben. De lege vlakken in de beelden zijn geen afwezigheid van een onderwerp, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten."
-    },
-    {
-      "cyclus": 7438,
-      "soort": "observatie",
-      "tekst": "De beelden worden steeds abstracter en minder gedetailleerd, van realistische landschappen tot losse vormen en texturen. De ruimte in de composities groeit, met meer lege vlakken en minder duidelijke onderwerpen, terwijl de kleurpaletten juist breder en expressiever worden."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7639,
-    "gemaakt": 7704,
-    "gekozen": 1115,
-    "afgekeurd": 1036,
-    "corpus": 68,
-    "notities": 364
+    "cycli": 7645,
+    "gemaakt": 7711,
+    "gekozen": 1118,
+    "afgekeurd": 1039,
+    "corpus": 67,
+    "notities": 365
   }
 }
