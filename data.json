@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T02:30+02:00",
+  "bijgewerkt": "2026-08-14T02:45+02:00",
   "werk": [
     {
       "id": 7220,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7231,
+      "cyclus": 7161,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "[\"Lichte inconsistentie in perspectief van auto's in de verte\", 'Wazige textuur in de achtergrondbomen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een gracht, zonsondergang en perfect geplaatste auto's, zonder unieke compositorische keuzes.",
+      "bestand": "images/a007161_7231.webp"
+    },
+    {
+      "id": 7230,
+      "cyclus": 7160,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het gras aan weerskanten van het pad', 'Wazige achtergrondboomlijn suggereert detailverlies']",
+      "cliche_notities": "Het beeld toont een iconisch landschap met een verlaten boerderij en windmolen, typisch voor een nostalgische ansichtkaart, zonder duidelijke compositorische of thematische afwijking.",
+      "bestand": "images/a007160_7230.webp"
+    },
+    {
       "id": 7212,
       "cyclus": 7142,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: zonsondergang over water met decoratief licht en geen duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a007142_7212.webp"
-    },
-    {
-      "id": 7206,
-      "cyclus": 7136,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van de weg', 'wazige overgang tussen horizon en lucht']",
-      "cliche_notities": "Dit is een typisch landschapsmotief met een weg die zich uitstrekt naar de horizon, geschilderd in een decoratieve, rustige stijl zonder duidelijke compositorische keuze.",
-      "bestand": "images/a007136_7206.webp"
-    },
-    {
-      "id": 7202,
-      "cyclus": 7132,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsonderganglandschap, decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a007132_7202.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7154,
-    "gemaakt": 7223,
+    "cycli": 7162,
+    "gemaakt": 7231,
     "gekozen": 1031,
-    "afgekeurd": 937,
-    "corpus": 70,
+    "afgekeurd": 939,
+    "corpus": 71,
     "notities": 355
   }
 }
