@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T17:45+02:00",
+  "bijgewerkt": "2026-08-14T18:00+02:00",
   "werk": [
     {
       "id": 7637,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7644,
+      "cyclus": 7578,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de wieken ten opzichte van de molen', 'Enkele penseelstreken in de achtergrond zijn wat wazig/smeuiig']",
+      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen met iconisch onderwerp en decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007578_7644.webp"
+    },
+    {
+      "id": 7642,
+      "cyclus": 7576,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistenties in textuur van het graan tussen de panelen, lichte vervorming van de boom in het middelste rechterpaneel",
+      "cliche_notities": "Het beeld toont een typisch landschap met velden en bomen, zonder duidelijke compositorische keuze of eigen standpunt, wat het een ansichtkaart-achtige uitstraling geeft.",
+      "bestand": "images/a007576_7642.webp"
+    },
+    {
       "id": 7638,
       "cyclus": 7572,
       "afkeuringsreden": "cliche",
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de deur ten opzichte van de achtergrond', 'Watervlak heeft onnatuurlijke, bijna geschilderde golven die niet helemaal logisch aansluiten bij de bomen']",
       "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, zandduinen) met een klassieke compositie (deur als kader), wat het aanvoelt als een moderne ansichtkaart zonder sterke persoonlijke stempel.",
       "bestand": "images/a007572_7638.webp"
-    },
-    {
-      "id": 7630,
-      "cyclus": 7564,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele vervorming in de houtstructuur van de deur (onrealistische scharnieren en spijkers)', 'lichte onconsistentie in perspectief van de deurlijst ten opzichte van de muur']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch strand, met perfect licht en een iconisch onderwerp zonder eigen compositorische keuzes.",
-      "bestand": "images/a007564_7630.webp"
-    },
-    {
-      "id": 7629,
-      "cyclus": 7563,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in reflecties van bomen in water', 'lichte vervorming van snavels bij twee ganzen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische ganzen op water en een serene achtergrond, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007563_7629.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7574,
-    "gemaakt": 7639,
+    "cycli": 7581,
+    "gemaakt": 7647,
     "gekozen": 1104,
-    "afgekeurd": 1021,
+    "afgekeurd": 1023,
     "corpus": 68,
     "notities": 362
   }
