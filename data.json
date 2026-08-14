@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T09:00+02:00",
+  "bijgewerkt": "2026-08-14T09:15+02:00",
   "werk": [
+    {
+      "id": 7418,
+      "titel": "Kop bij de drempel",
+      "beschrijving": "Een witte houten deur staat licht geopend, met een donkere ruimte achterin die slechts gedeeltelijk zichtbaar is. Zonlicht werpt schaduwen van bladeren en takken over de deur en de omringende muur. Onder de deur ligt een lichtgrijze keramische kop op een betonnen oppervlak, omgeven door kleine stenen, droge bladeren en wat groen. De scharnieren van de deur zijn van metaal en hebben een verweerd uiterlijk. De compositie is verticaal, met de deur als centraal element en de kop als neerpunten in het onderste deel van het beeld. De sfeer is rustig en iets verlaten, met een mix van natuurlijke en kunstmatige elementen.",
+      "cyclus": 7348,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een subtiele spanning tussen voorwerp en schaduw, geen ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007348_7418.webp"
+    },
+    {
+      "id": 7414,
+      "titel": "Koffie die verft het water",
+      "beschrijving": "Een witte kop koffie staat op een donkere, verweerde houten paal die uit donker, bewegend water steekt. Bruine vloeistof stroomt in een slanke straalm van de kop naar beneden, waar ze op een houten palet landt met kleurige vlekken verf. De achtergrond bestaat uit een grijze, bewolkte hemel en een woelige zee met kleine golven. Rook of mist stijgt op achter de paal, wat een dromerige sfeer creëert. Het water reflecteert de donkere tinten van de omgeving, terwijl het palet en de koffie een warme, contrasterende kleur toevoegen aan het tafereel.",
+      "cyclus": 7344,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en provocerend.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007344_7414.webp"
+    },
     {
       "id": 7405,
       "titel": "Waar het licht door breekt",
@@ -91,32 +117,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007302_7372.webp"
-    },
-    {
-      "id": 7369,
-      "titel": "Rook die zich onthoudt van vuur",
-      "beschrijving": "Oranje en gele vlammen likken vanuit een donkere, roetachtige basis omhoog, omringd door grijze rook die zich uitstrekt naar een vaag, textuurrijk oppervlak. De vlammen hebben een vloeibare, bijna dansende vorm, met scherpe punten en zachte, golvenachtige randen. Onder de vlammen zijn donkere, koolachtige vormen te zien, met hier en daar een glimp van wat lijkt op hout of as. De achtergrond bestaat uit een mengsel van lichte en donkere grijstinten, met subtiele variaties in textuur die een gevoel van diepte en beweging geven. De sfeer is intens en dynamisch, met een contrast tussen de warme kleuren van het vuur en de koude, gedempte tinten van de rook en de achtergrond.",
-      "cyclus": 7299,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte halo rond vlammen tegen rook', 'kleine inconsistentie in rooktextuur bovenaan']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische voorstelling van vuur en rook.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007299_7369.webp"
-    },
-    {
-      "id": 7353,
-      "titel": "Wat blijft hangen van een vonk?",
-      "beschrijving": "Een slanke, donkerbruine kolom stijgt op vanaf een onregelmatige, donkere basis met verspreide vlekken en fijne strepen. Bovenin ontbindt de kolom in een complex web van golvende, doorschijnende lijnen en spiraalvormige structuren, waarbij donkere en lichtere bruine tinten door elkaar lopen. Enkele lijnen zijn scherp en donker, andere vaag en wazig. Kleurverloop loopt van donkerbruin aan de basis naar lichtbruin en bijna wit aan de bovenkant. De achtergrond is egaal crèmekleurig, zonder extra details. De compositie is verticaal georiënteerd, met de beweging die van onder naar boven loopt.",
-      "cyclus": 7283,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007283_7353.webp"
     }
   ],
   "afgekeurd": [
@@ -313,9 +313,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7349,
-    "gemaakt": 7418,
-    "gekozen": 1061,
+    "cycli": 7356,
+    "gemaakt": 7425,
+    "gekozen": 1063,
     "afgekeurd": 968,
     "corpus": 66,
     "notities": 357
