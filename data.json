@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-14T21:15+02:00",
+  "bijgewerkt": "2026-08-14T21:30+02:00",
   "werk": [
+    {
+      "id": 7731,
+      "titel": null,
+      "beschrijving": "Groene bomen met donkere stammen staan in een rij, omringd door weelderig gras en kleine bloemen in wit en geel. Achter de bomen loopt een metalen hek, vaag zichtbaar door een lichte mist die de achtergrond verzwakt. Het licht valt schuin door de bladeren, waardoor glinsterende highlights op het gras en de stengels ontstaan. Kleuren variëren van donkergroen en bruin bij de bomen tot heldergroen en geelgroen in het gras, met subtiele blauwe en witte tinten in de achtergrond. De compositie is verticaal gericht, met de bomen die de hoogte benadrukken en het gras dat de voorgrond vult met een dynamische, bijna chaotische textuur. Kleine details zoals druppels op het gras en de textuur van de bast voegen een realistische, bijna tastbare laag toe aan het tafereel.",
+      "cyclus": 7665,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, bijna abstracte weergave van natuur met ruimte voor interpretatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007665_7731.webp"
+    },
+    {
+      "id": 7727,
+      "titel": "Glanzende insluitsels in zand en golfslag",
+      "beschrijving": "Een grote, onregelmatige rots met een glanzende, bijna glazen textuur domineert het midden van het beeld, omringd door zand en kleine, kleurige kiezels. De rots heeft een mengeling van beige, bruine en grijze tinten, met verspreide gele en blauwe vlekken die als ingebedde stenen of glinsterende insluitsels wirken. Achter de rots strekt zich een kalm oceaanlandschap uit met zachte golven die tegen de kust breken, onder een lichte, bijna witte hemel. Het zand is lichtgekleurd en heeft subtiele sporen van water en kleine, verspreide voorwerpen, zoals een donkere steen en een paar kleurige kiezels. De compositie is rustig en gebalanceerd, met de rots als centraal punt dat de blik trekt door zijn textuur en kleurvariatie. De sfeer is serene en wat verlaten, met een gevoel van stilte en afwezigheid van beweging, behalve de zachte beweging van het water op de achtergrond.",
+      "cyclus": 7661,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van golven aan horizon', 'lichte wazigheid in schaduw onder rots']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op de ontbinding van vorm in plaats van een bevestigend landschap.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007661_7727.webp"
+    },
+    {
+      "id": 7720,
+      "titel": "Sporen in het zand",
+      "beschrijving": "Een brede, schuine zandheuvel domineert het beeld, met diepe, parallelle sporen die diagonaal over de helling lopen. Onderaan de heuvel loopt een betonnen constructie met verticale steunpilaren, die een donkere, schaduwrijke ruimte onder zich laat zien. Voor de constructie strekt zich een kalme, bruine watervlakte uit, met subtiele rimpelingen die het licht reflecteren. De hemel erboven is egale, grijzig en zonder wolken, wat een sfeer van stilte en leegte versterkt. Rechtsboven in de heuvel is een onregelmatige, uitgesletene zone waar het zand lijkt te zijn weggespoeld, met losse stukken hout en puin zichtbaar. De kleuren zijn gedempt, met tinten beige, bruin en grijs die het landschap monochromatisch maken.",
+      "cyclus": 7654,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het zand (beneden links iets waziger dan rest)', 'Subtiele halo rond de rand van de betonnen constructie tegen de hemel']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet typisch 'ansichtkaart'",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007654_7720.webp"
+    },
     {
       "id": 7719,
       "titel": "Wat stroomt er door die kier?",
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007624_7690.webp"
-    },
-    {
-      "id": 7685,
-      "titel": "Waar het wit knapt",
-      "beschrijving": "Een scheur loopt diagonaal door een oppervlak dat verdeeld is in twee duidelijk verschillende vlakken: bovenaan een wit deel met zachte, golvende penseelstreken, onderaan een grijs vlak met een effen, matte textuur. De scheur is onregelmatig en onthult donkere, ruwe randen waar het materiaal is gescheurd, met hier en daar kleine brokstukken die loshangen of ontbreken. De witte laag lijkt dunner en fragiel, terwijl het grijze deel een zwaardere, meer massale indruk maakt. De overgang tussen de twee kleuren is scherp, maar de scheur maakt die grens onvoorspelbaar en dynamisch.",
-      "cyclus": 7619,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007619_7685.webp"
-    },
-    {
-      "id": 7683,
-      "titel": "De scheur in het zand",
-      "beschrijving": "Een woestijnlandschap met zandduinen omhult een klein dorpje met witte en beige huizen, voorzien van rode daken. Een diepe, donkere scheur loopt van de voorgrond tot het midden van het beeld, het zand en de bebouwing doorklemd. Linksboven in de voorgrond bevindt zich een cirkelvormig object met kleurige, glanzende patronen, omringd door witte, gescheurde randen. Enkele groene struiken en palmbomen doorbreken het zand, terwijl de achtergrond zandduinen laat zien onder een helderblauwe lucht. De scheur suggereert een plotselinge onderbreking in het landschap, terwijl het dorpje intact lijkt te blijven.",
-      "cyclus": 7617,
-      "tech_score": 8.0,
-      "tech_notities": "['kleine inconsistentie in schaal van huizen ten opzichte van omgeving', 'subtiele wazigheid in details van verre palmbomen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen typisch toeristisch onderwerp; de combinatie van woestijn, dorpslandschap en surrealistische scheur is ongebruikelijk en heeft een eigen compositorische keuze.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007617_7683.webp"
-    },
-    {
-      "id": 7672,
-      "titel": "Sporen van verwaarlozing",
-      "beschrijving": "Rechthoekige vormen met afgeronde hoeken vormen een losse, verticale stapel, afwisselend donkergrijs, zwart, beige en verweerd hout. Donkere vlekken en krassen bedekken sommige vlakken, terwijl andere subtiele bruine en grijze patronen vertonen. Een dunne, donkere lijn loopt diagonaal door het beeld, met kleine knoopjes erin. De achtergrond is lichtgrijs met vaag zichtbare, watervlekkenachtige textuur. Een smalle, verticale houten plank met spijkers en slijtage loopt aan de linkerkant parallel met de stapel. Donkere en lichte vlekken verspreiden zich over de vormen, met hier en daar een kleine, donkere druppel.",
-      "cyclus": 7606,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuurweergave bij houtstructuur linksboven', 'lichte halo rond donkere vormen rechts']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is abstract en open",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007606_7672.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7736,
+      "cyclus": 7670,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap met riet en water, uitgevoerd in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007670_7736.webp"
+    },
     {
       "id": 7725,
       "cyclus": 7659,
@@ -150,15 +159,6 @@
       "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in de textuur van het hout aan weerskanten van de deur",
       "cliche_notities": "De molen door de open deur is een iconisch Nederlands motief, uitgevoerd in een klassieke prentstijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a007647_7713.webp"
-    },
-    {
-      "id": 7709,
-      "cyclus": 7643,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen wieken', 'lichte wazigheid in achtergrondbomen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse windmolen, een smalle weg en een romantische zonsondergang, zonder duidelijke compositorische keuzes die beyond het cliché gaan.",
-      "bestand": "images/a007643_7709.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7666,
-    "gemaakt": 7731,
-    "gekozen": 1120,
-    "afgekeurd": 1041,
+    "cycli": 7673,
+    "gemaakt": 7738,
+    "gekozen": 1123,
+    "afgekeurd": 1042,
     "corpus": 67,
     "notities": 365
   }
