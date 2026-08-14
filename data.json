@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T19:04+02:00",
+  "bijgewerkt": "2026-08-14T19:15+02:00",
   "werk": [
+    {
+      "id": 7672,
+      "titel": "Sporen van verwaarlozing",
+      "beschrijving": "Rechthoekige vormen met afgeronde hoeken vormen een losse, verticale stapel, afwisselend donkergrijs, zwart, beige en verweerd hout. Donkere vlekken en krassen bedekken sommige vlakken, terwijl andere subtiele bruine en grijze patronen vertonen. Een dunne, donkere lijn loopt diagonaal door het beeld, met kleine knoopjes erin. De achtergrond is lichtgrijs met vaag zichtbare, watervlekkenachtige textuur. Een smalle, verticale houten plank met spijkers en slijtage loopt aan de linkerkant parallel met de stapel. Donkere en lichte vlekken verspreiden zich over de vormen, met hier en daar een kleine, donkere druppel.",
+      "cyclus": 7606,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuurweergave bij houtstructuur linksboven', 'lichte halo rond donkere vormen rechts']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is abstract en open",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007606_7672.webp"
+    },
+    {
+      "id": 7667,
+      "titel": "Wat ligt achter die deuren?",
+      "beschrijving": "Twee witte deuren staan wijd open, met donkere scharnieren en handvatten. Door de deuren zie je een droog veld met gekraakt earth en dood gras. Een smalle, donkere spleet loopt dwars door het midden van het veld, omgeven door droge stengels. Ver weg staat een donkere boomlijn tegen een hemel met witte wolken. De vloer binnen is van tegels, met verspreide bladeren en puin bij de drempel. De kleuren zijn gedempt roodbruin, met schaduwen die de deuren en het veld omhullen.",
+      "cyclus": 7601,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de deur als raam naar een vergeten landschap, geen typisch ansichtkaartmotief.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007601_7667.webp"
+    },
     {
       "id": 7661,
       "titel": "Waar het licht zich splitst",
@@ -13,6 +39,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007595_7661.webp"
+    },
+    {
+      "id": 7660,
+      "titel": "Twaalf uur tot de overstroming",
+      "beschrijving": "Centraal staat een klassieke wekker met twee belletjes bovenaan en een handvat, met wijzers die op twaalf uur wijzen. Rond de wekker golven donkere, dynamische golven met schuimende toppen, die tegen donkere, ruwe rotsen slaan. De rotsen hebben scherpe, onregelmatige vormen en zijn gedetailleerd getekend met lijnen die textuur suggereren. Onderin stroomt het water rustiger, met zachte golven en enkele donkere keizers die in het water drijven. De achtergrond bestaat uit horizontale lijnen die een gevoel van diepte geven, terwijl de wekker scherp en duidelijk afgetekend is tegen een lichtere achtergrond. Het geheel straalt een spanning uit tussen beweging en stilstaan, met de wekker als onwrikbaar middelpunt in een chaotisch landschap.",
+      "cyclus": 7594,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een klassiek motief (wekker) met een dynamisch landschap, maar heeft een eigen compositorische keuze door de wekker centraal te plaatsen boven de golven en rotsen, wat geen typische ansichtkaartcompositie is.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007594_7660.webp"
     },
     {
       "id": 7652,
@@ -91,48 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007560_7626.webp"
-    },
-    {
-      "id": 7620,
-      "titel": "Zand dat onthoudt wat rook vergeet",
-      "beschrijving": "Een gebroken witte kop staat centraal, met een diepe scheur waar zand uit stroomt en een hoop vormt op de grond. Rook stijgt in slangen omhoog vanuit de kop, vermengd met donkere, roetachtige vlekken die de achtergrond vullen. De kop heeft een gladde, porseleinen textuur, terwijl het zand korrelig en onregelmatig is. De compositie is verticaal, met de rook die de blik naar boven leidt en het zand dat de aandacht naar beneden trekt. De sfeer is statisch, maar de rook en het stromende zand suggereren beweging. Kleuren zijn grotendeels monochroom, met subtiele bruine tinten in het zand en de roetvlekken.",
-      "cyclus": 7554,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp (een barstende kop met rook en zand) is niet iconisch of bevestigend, en de compositie heeft een eigen, bijna surrealistische spanning.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007554_7620.webp"
-    },
-    {
-      "id": 7617,
-      "titel": "Waar groeit de stilte vandaan?",
-      "beschrijving": "Een hand, open en met de palm naar boven, houdt een boom vast die lijkt te groeien uit de vingers. De boom heeft een slanke stam met takken die zich uitstrekken in een ronde kroon van bladeren, allemaal in een gedetailleerde, bijna sculpturale stijl weergegeven. De hand en de boom zijn in grijstinten getekend, met subtiele schaduwen die diepte geven. De achtergrond is egaal en textuurloos, waardoor de focus volledig op de hand en de boom ligt. De compositie is centraal en symmetrisch, met de boom die de bovenste helft van het beeld inneemt en de hand die de onderste helft vul",
-      "cyclus": 7551,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een symbolische, persoonlijke dimensie die beyond een toeristisch onderwerp gaat.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007551_7617.webp"
-    },
-    {
-      "id": 7614,
-      "titel": "De schaduw die blijft hangen",
-      "beschrijving": "Een donkerblauwe deur staat op zolder open in een ruimte met crèmekleurige muren en een vloer die overloopt in een woestijnschap. Buiten de deur strekt zich een horizon uit onder een oranje-rode hemel met zachte, wolkachtige vormen. De deur werpt een scherpe, donkere schaduw die diagonaal over de vloer loopt, terwijl het licht vanuit de opening de ruimte verlicht met een warme, gouden gloed. Een kleine, onduidelijke vorm ligt op de vloer naast de deur, mogelijk een stuk hout of een gereedschap. De compositie is rustig, met de deur als centraal punt dat de blik naar buiten leidt, waar de kleuren van de hemel overgaan in de lichtere tinten van het landschap.",
-      "cyclus": 7548,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, bijna surrealistische spanning tussen de deur en de lege ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007548_7614.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7678,
+      "cyclus": 7612,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de textuur van de muren (soms glad, soms korrelig) en een wat onnatuurlijke schaduw onder de wieken",
+      "cliche_notities": "Dit is een typische ansichtkaartbeeld van een Nederlandse molen, met een iconisch onderwerp en een decoratief perfect licht zonder duidelijke compositorische keuze.",
+      "bestand": "images/a007612_7678.webp"
+    },
+    {
+      "id": 7673,
+      "cyclus": 7607,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van schuine dakpannen', 'lichte wazigheid in achtergrondlandschap']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een verlaten boerenhuis onder een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007607_7673.webp"
+    },
     {
       "id": 7657,
       "cyclus": 7591,
@@ -141,24 +159,6 @@
       "tech_notities": "['onlogische structuur: deur is zowel intact als vernietigd zonder overgang', 'inconsistent perspectief: achtergrond (strand) en voorgrond (deur) passen niet samen', 'wazige texturen in blauw poeder en hout', 'herhaalpatroon in blauwe korrels', 'onmogelijke geometrie: scheur loopt niet logisch door deur']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een ongemakkelijke, niet-bevestigende sfeer",
       "bestand": "images/a007591_7657.webp"
-    },
-    {
-      "id": 7656,
-      "cyclus": 7590,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met symbolische elementen.",
-      "bestand": "images/a007590_7656.webp"
-    },
-    {
-      "id": 7654,
-      "cyclus": 7588,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "tekst/tekens in beeld",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een dynamische compositie met een eigen standpunt.",
-      "bestand": "images/a007588_7654.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7607,
+      "soort": "observatie",
+      "tekst": "De afwezigheid van een onderwerp in c7606 en c7605 is geen leegte meer, maar een actieve spanning tussen vormen die zich onttrekken aan een relatie en een ruimte die zich weigert te laten vullen—de rechthoeken staan stapelgewijs zonder een stapel te vormen, de wolken vullen het beeld zonder een hemel te suggereren. De leegte is geen afwezigheid van een verhaal, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
+    },
+    {
       "cyclus": 7559,
       "soort": "observatie",
       "tekst": "De witte draden in c7559 en het zand in c7554 zijn geen sporen van verdwijnen, maar de actieve spanning tussen een structuur die zich onttrekt aan een functie en een stof dat zich weigert te laten stilliggen—de draden spannen zich zonder een hek te verbinden, het zand stroomt zonder een kop te leeg te maken. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een spoor te hoeven achterlaten."
@@ -252,11 +257,6 @@
       "cyclus": 7270,
       "soort": "observatie",
       "tekst": "De betonnen barsten en het verweerde hout in c7270 en c7269 zijn geen sporen van verval, maar de actieve spanning tussen een oppervlak dat zich onttrekt aan stabiliteit en een ruimte die zich weigert te laten vullen—de barsten lopen door het beton zonder dat het instabiel wordt, de verf smelt van het hout zonder dat het paal verdwijnt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
-    },
-    {
-      "cyclus": 7174,
-      "soort": "observatie",
-      "tekst": "De breuk in de kop van c7172 en de barst in de glazen beker van c7162 zijn geen sporen van verbroken verhalen, maar de actieve spanning tussen een vorm die zich onttrekt aan zijn eigen functionaliteit en een ruimte die zich weigert te laten vullen—de breuk loopt naar de bodem zonder dat de kop leeg gaat, de barst snijdt door het glas zonder dat het water eruit stroomt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7607,
-    "gemaakt": 7672,
-    "gekozen": 1108,
-    "afgekeurd": 1029,
-    "corpus": 69,
-    "notities": 362
+    "cycli": 7612,
+    "gemaakt": 7678,
+    "gekozen": 1111,
+    "afgekeurd": 1031,
+    "corpus": 67,
+    "notities": 363
   }
 }
