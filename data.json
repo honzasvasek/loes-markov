@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T13:15+02:00",
+  "bijgewerkt": "2026-08-14T13:30+02:00",
   "werk": [
+    {
+      "id": 7525,
+      "titel": "Betonschil met wortels",
+      "beschrijving": "Een betonnen overkapping met schuine lijnen en hoekige steunen omhult een donkere, rechthoekige opening, omringd door groene en blauwe waterverfachtige vlekken die planten en bomen suggereren. De muren zijn getextureerd met grijze en blauwe tinten, terwijl de vloer een lichtere, bijna witte kleur heeft met subtiele blauwe en bruine vlekken. Kleinere plantjes met ronde en langwerpige bladeren en watervlekken in groen, blauw en oranje groeien langs de randen van de vloer en bij de basis van de steunen. De achtergrond toont een lichte hemel met zachte blauwe en witte tinten, en de bovenkant van de overkapping heeft groene en gele vlekken die bladeren en mos doen denken. De compositie combineert harde architectonische vormen met organische, vloeiende textuur en kleur.",
+      "cyclus": 7457,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief bij de hoek van het dak; lichte wazigheid in de schaduwpartijen van de muur",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigen, ongemakkelijke schoonheid met schuine lijnen en kromme handvatten",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007457_7525.webp"
+    },
+    {
+      "id": 7520,
+      "titel": "Waar het water stilstaat",
+      "beschrijving": "Donkere, ruwe rotsen met oneffenheden en gaten omringen een smalle, kronkelende strook water die zacht stroomt. Het water heeft een zijdezachte, wazige textuur door de lange belichting, met lichte en donkere golven die zich door de rotsen slingeren. Kleinere keizers en kiezels liggen verspreid rondom, sommige nat en glanzend, andere droog en mat. De rotsen hebben een onregelmatige vorm, met scherpe randen en gladde, door water geslepen delen. Bellen lucht zweven in het water, vooral bij de rotsen waar het water stiller staat. De compositie is dynamisch, met het water dat de blik door het beeld leidt tussen de rotsen door. De sfeer is kalm en bijstillend, met een gevoel van eenzaamheid en onverstoordheid.",
+      "cyclus": 7452,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op textuur en beweging zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007452_7520.webp"
+    },
     {
       "id": 7512,
       "titel": "Wit in de scheur",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007407_7477.webp"
-    },
-    {
-      "id": 7475,
-      "titel": "Hand die de horizon omvat",
-      "beschrijving": "Een hand strekt zich uit naar een rij appelbomen, waarbij de rode appels scherp afsteken tegen de gedempte groene en bruine tinten van het landschap. De bomen vormen een smalle, verdwijnende gang die de blik trekt naar een vaag punt in de verte. Droog gras en verspreide takken bedekken de grond, terwijl de bladeren een zachte, onscherpe textuur hebben. De hand, met open vingers en een lichte huidskleur, domineert de voorgrond en lijkt de ruimte tussen de bomen te omvatten. De achtergrond vervaagt in een neutrale, bijna witte hemel, wat een gevoel van ruimte en eenzaamheid versterkt.",
-      "cyclus": 7405,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte onscherpte in achtergrondboombladeren, hand heeft minimale textuurconsistentie']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief, maar een persoonlijke, dynamische compositie met hand als focus.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007405_7475.webp"
-    },
-    {
-      "id": 7471,
-      "titel": "Waar stroomt het vandaan",
-      "beschrijving": "Een hand houdt een rechthoekig kader vast, waarbinnen een golvende witte vorm loopt door een roodbruine achtergrond. Uit het kader stroomt dezelfde witte, golvende vorm naar beneden, alsof het water of licht is dat zich uitstrekt over het roodbruine vlak. Rechtsboven steekt een donkerbruine tak met dunne takjes schuin door het beeld, deels het kader raakend. De hand, met zichtbare vingers en nagels, omvat het kader aan de onderkant, terwijl de tak vanaf de rechterbovenhoek naar beneden loopt. De achtergrond is eenduidig roodbruin, met zachte, geschilderde texturen die de overgang tussen de vormen vloeiend maken.",
-      "cyclus": 7401,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van het schilderij ten opzichte van de hand', 'kleine halo rond de rand van het schilderij']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een conceptuele compositie met een eigen standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007401_7471.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7529,
+      "cyclus": 7461,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische, dromerige overgang van binnen naar buiten (deur naar strand) met decoratief licht en geen duidelijke compositorische keuze beyond de klassieke 'vrijheid door een deur'-metafora.",
+      "bestand": "images/a007461_7529.webp"
+    },
     {
       "id": 7524,
       "cyclus": 7456,
@@ -137,15 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'wazige texturen']",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerktoren met kruis) en de decoratieve compositie zonder duidelijke persoonlijke keuze.",
       "bestand": "images/a007454_7522.webp"
-    },
-    {
-      "id": 7517,
-      "cyclus": 7449,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld combineert iconische Nederlandse symbolen (molen, eenden, oranje wolken) in een decoratieve, ansichtkaartachtige compositie zonder eigen standpunt of onverwachte keuzes.",
-      "bestand": "images/a007449_7517.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7459,
-    "gemaakt": 7526,
-    "gekozen": 1079,
-    "afgekeurd": 991,
-    "corpus": 71,
+    "cycli": 7464,
+    "gemaakt": 7532,
+    "gekozen": 1081,
+    "afgekeurd": 992,
+    "corpus": 70,
     "notities": 360
   }
 }
