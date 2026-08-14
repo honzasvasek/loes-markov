@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-14T14:15+02:00",
+  "bijgewerkt": "2026-08-14T14:30+02:00",
   "werk": [
+    {
+      "id": 7548,
+      "titel": "Waar de hand stilstaat",
+      "beschrijving": "Een hand met lichtgekleurde nagels streelt door hoge, slanke grasspelden die in een dichte, blauwgrijze massa oprijzen. De vingers liggen gespreid, zachtjes aanrakend, terwijl de pols net buiten het beeld verdwijnt. Het gras heeft een glanzende, bijna glazen textuur, met scherpe, witte highlights die het licht vangen. Achter het gras loopt een scherpe horizonlijn, waar een donkerblauwe, egaal gekleurde lucht overgaat in een lichtere, vaag witte laag. Een enkele, heldere vonk vonkt op in het gras, rechtsboven de hand. De compositie is verticaal, met de hand in het onderste derde deel, waardoor het gras de dominante, bijna overweldigende aanwezigheid heeft. De sfeer is stil, intiem en iets mysterieus, door de koude kleurtinten en de focus op de aanraking tussen hand en natuur.",
+      "cyclus": 7481,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare artefacten, maar lichte onnauwkeurigheid in de overgang tussen gras en achtergrond",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een intieme, niet-typische compositie",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007481_7548.webp"
+    },
+    {
+      "id": 7546,
+      "titel": "Verf die zwijgt",
+      "beschrijving": "Een spiegelstandaard staat schuin tegen een betonnen muur, met een brede, donkerblauwe verfstreep die van boven naar beneden loopt en bij de onderkant in een plas is gekomen. Wit schuim omhult de basis van de spiegel en loopt langs de zijkant naar beneden, waar het mengt met de blauwe verf. De spiegel reflecteert een vaag, lichtgrijs oppervlak, terwijl de betonnen achtergrond een ruwe textuur heeft. De compositie is verticaal gericht, met de spiegel als centraal element dat de verf en het schuim omvat. De sfeer is statisch, met een contrast tussen de gladde spiegel en de ruwe omgeving.",
+      "cyclus": 7479,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, onbedoelde compositie met een focus op textuur en beweging.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007479_7546.webp"
+    },
+    {
+      "id": 7542,
+      "titel": "Sporen van wat meebeweegde",
+      "beschrijving": "Donkere, ruwe takken met een ruwe textuur domineren het beeld, schuin door een lichtgrijze, korrelige achtergrond. Sommige takken hebben donkere, bijna zwarte knoesten of onregelmatigheden, terwijl andere dunner en scherper afgetekend zijn. Onder de takken ligt een lichtere, zandige of sneeuwachtige ondergrond met subtiele schaduwen en sporen van wat eens beweging moest zijn. Verspreid liggen kleine, donkere fragmenten die op stukjes hout of steen lijken. De achtergrond toont vaag zichtbare, slanke vormen die aan riet of droog gras doen denken, met een lichte onscherpte die diepte suggereert. De algehele sfeer is rustig en wat verlaten, met een focus op de ruwe, natuurlijke vormen en de contrasten tussen donker en licht.",
+      "cyclus": 7475,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onbeheerste compositie zonder duidelijke intentie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007475_7542.webp"
+    },
     {
       "id": 7539,
       "titel": "Oranje wolken boven woelig water",
@@ -78,48 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007439_7508.webp"
-    },
-    {
-      "id": 7496,
-      "titel": "Rook die de grens kust",
-      "beschrijving": "Een hand houdt een donkere steel vast, waaraan een radvormige structuur met afwisselend donkere en lichtgrijze segmenten bevestigd is. Achter deze structuur staan slanke, bladloze bomen met subtiele gele en bruine tinten in hun takken. Rechts in de achtergrond staat een klein, bruin huis met een donker dak en een lichtgekleurde deur. Rookachtige, witgrijze vormen zweven door het midden van het beeld, waarbij ze de bomen en het huis gedeeltelijk bedekken. De grond is bruin met verspreide, gedempte kleuren van bladeren en takjes. De achtergrond bestaat uit een lichte, vaag geschilderde hemel met zachte blauwe en witte tinten.",
-      "cyclus": 7426,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de molenschepen ten opzichte van de steel', 'Wazige overgang tussen rook en achtergrondboom']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen typisch ansichtkaartmotief; de compositie is ongebruikelijk en de hand voegt een persoonlijke, niet-iconische laag toe.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007426_7496.webp"
-    },
-    {
-      "id": 7492,
-      "titel": "Regenboog door de storm",
-      "beschrijving": "Een regenboog met heldere kleuren—rood, oranje, geel, groen, blauw en paars—sneed door een donkere, met potlood getekende hemel, waarbij witte rookachtige vormen erdoorheen stroomden. Onderaan stonden several traditionele huizen met schuine daken, getekend in grijstinten met fijne lijnen en schaduwen. De regenboog leek vanaf het dak van het rechterste huis te komen en strekte zich uit naar de linkerbovenhoek. De achtergrond bestond uit donkere, schetsachtige strepen die een gevoel van beweging of storm suggereerden, terwijl de huizen rustig en statisch remained.",
-      "cyclus": 7422,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van daken', 'Wazige overgang tussen rook en regenboog']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische combinatie van elementen met een eigen compositorisch standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007422_7492.webp"
-    },
-    {
-      "id": 7484,
-      "titel": "Rook die de horizon doorbreekt",
-      "beschrijving": "Golvend water in blauwe en grijze tinten vult het beeld, met witte schuimranden die dynamiek toevoegen. Verspreid drijven rechthoekige blokken in geel, roze en paars, waarvan één centraal blok rook afgeeft die in slangen door de lucht kronkelt. Het water weerspiegelt de blokken en toont subtiele rimpelingen, terwijl de achtergrond vervagt in een zachte, bewolkte horizon. De rook vormt een verticale lijn die het oog naar boven leidt, in contrast met de horizontale golven. Kleuren zijn gedempt, met uitzondering van de warme tinten van de blokken en de heldere witte schuim.",
-      "cyclus": 7414,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de zeepblokjes in de achtergrond', 'Wazige overgang tussen rook en achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigenzinnige, bijna surrealistische inslag.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007414_7484.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7554,
+      "cyclus": 7487,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, ongemakkelijke compositie zonder duidelijke intentie.",
+      "bestand": "images/a007487_7554.webp"
+    },
     {
       "id": 7549,
       "cyclus": 7482,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie van een landschap met heuvels, velden en boerderijtjes, getekend in een decoratieve, gedetailleerde stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a007476_7543.webp"
-    },
-    {
-      "id": 7538,
-      "cyclus": 7470,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie van tekens zonder duidelijke context.",
-      "bestand": "images/a007470_7538.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7484,
-    "gemaakt": 7550,
-    "gekozen": 1083,
-    "afgekeurd": 997,
+    "cycli": 7489,
+    "gemaakt": 7555,
+    "gekozen": 1086,
+    "afgekeurd": 998,
     "corpus": 71,
     "notities": 361
   }
