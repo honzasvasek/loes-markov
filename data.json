@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T16:45+02:00",
+  "bijgewerkt": "2026-08-14T17:00+02:00",
   "werk": [
+    {
+      "id": 7611,
+      "titel": "Vingers in het verdwijnen",
+      "beschrijving": "Een hand met gespreide vingers domineert het beeld, getekend met fijne, realistische details: de nagels zijn kort geknipt, de huid toont aderen en subtiele roodverkleuringen, en de vingertoppen rusten op een ongelijkmatig oppervlak. Rond de hand lopen donkere, kronkeliende scheuren door een textuur die doet denken aan verweerd hout of droog klei, met witte randen die de scheuren benadrukken. De achtergrond bestaat uit een mix van grijze en bruine tinten, met fijne lijntekeningen die een gevoel van ruwheid en verwaarlozing uitstralen. Kleine, donkere vlekken en onregelmatige vormen zijn verspreid over het oppervlak, alsof er iets langzaam aan het ontfallen is. De hand zelf lijkt niet beweeglijk, maar bevriest in een moment van rust, terwijl de omgeving eromheen een gevoel van vervlakking en verval uitstraalt.",
+      "cyclus": 7545,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp (een hand in een getekende/stipstechniek) is niet iconisch of bevestigend, en de compositie toont bewuste keuzes (bijv. de scheuren en textuurcontrasten) die verder gaan dan decoratief perfect licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007545_7611.webp"
+    },
+    {
+      "id": 7605,
+      "titel": "Donkere ingang, lichte uitweg",
+      "beschrijving": "Twee deuren staan wijd open, de linkerdonker en zwaar, de rechter lichter en slanker, met ronde klinken en verticale panelen. Door de opening ontvouwt zich een landschap met golvende lijnen, donkere vlekken en stengroen, getekend in fijne strepen en stippen. De vloer voor de deuren is licht, met een kronkelende donkere lijn die naar buiten loopt. Aan weerskanten van de deuren staan sprietige planten met spitse bladeren, tegen een muur van horizontale lamellen. De achtergrond is grijs getextureerd, met subtiele krassporen boven de deuren. De compositie is symmetrisch, met de deuren als centraal frame dat het landschap omklemt.",
+      "cyclus": 7539,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deurpanelen', 'lichte wazigheid in de achtergrondtextuur boven de deur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de open deur als metaforisch element, geen typisch iconisch onderwerp",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007539_7605.webp"
+    },
     {
       "id": 7599,
       "titel": "Scheuren in de gevel",
@@ -26,6 +52,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007531_7597.webp"
+    },
+    {
+      "id": 7596,
+      "titel": "Rook die vragen stelt",
+      "beschrijving": "Een hand houdt een dunne steel met een donkere, vertakte plant, waaruit een slanke rookwolk omhoog stijgt en in een spiraal verdwijnt. De achtergrond is een egale, grijze vlakte die overgaat in een donkere, korrelige ondergrond met verspreide klonten en glinsterende deeltjes. De rook vormt een zachte, witte lijn die contrasteert met de scherpe, donkere takken en de ruwe textuur van de grond. De hand grijpt de steel dicht bij de basis, met de vingers licht gekromd en de nagels kort geknipt. De plant heeft fijne, naaldvormige blaadjes en kleine, donkere zaadhoofdjes die in een waaiervormige structuur staan. De rook beweegt zich langzaam omhoog, terwijl de plant stilstaat en de grond een statische, bijna droge uitstraling heeft.",
+      "cyclus": 7530,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een subtiele spanning tussen aanwezigheid en afwezigheid, geen ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007530_7596.webp"
     },
     {
       "id": 7590,
@@ -78,45 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007510_7577.webp"
-    },
-    {
-      "id": 7575,
-      "titel": "Rook die de golven kust",
-      "beschrijving": "Een scheur in een wit oppervlak onthult een oceaan met donkerblauwe golven die zachtjes breken op een strand met nat zand en kleine stenen. Wit schuim omzoomt de golven, terwijl een dunne, witte rookstraal verticaal door het midden van het beeld stijgt en zich in slingerende lijnen ontbindt. De horizon is recht en ver weg, met een lichtgrijze hemel die overgaat in het water. De randen van de scheur zijn onregelmatig en wat versleten, met schaduwen die diepte suggereren. De compositie is verticaal, met de oceaan die de meeste ruimte inneemt en de rook als een subtiele, bewegende as.",
-      "cyclus": 7508,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een originele compositie met de rook als centraal motief en de scheur in het papier, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007508_7575.webp"
-    },
-    {
-      "id": 7563,
-      "titel": "Rook die de horizon kust",
-      "beschrijving": "Een smalle, witte rookpluim stijgt schuin op uit een veld met geelbruine, geometrisch ingedeelde percelen, gescheiden door donkerbruine paden. De rook vormt een slanke, wazige spiraal die overgaat in de grijze, bewolkte hemel. Rechtsboven in het midden van het beeld staat een klein, donkergroen bosje bomen aan de horizon. Een enkel donker groen object, mogelijk een boom of struik, staat rechtsonder in één van de percelen. De kleuren zijn gedempt, met zachte overgangen tussen het geel van het land, het bruin van de paden en het grijs van de lucht. De compositie is rustig en open, met veel lege ruimte die de rookpluim centraal plaatst als enig dynamisch element.",
-      "cyclus": 7496,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de rookvorm is abstract en de compositie heeft een ongemakkelijke, schuine dynamiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007496_7563.webp"
-    },
-    {
-      "id": 7553,
-      "titel": "Rook die door het gras loopt",
-      "beschrijving": "Donkere en lichte strepen van gras en stengels vullen het beeld, doorsneden door een witte, rookachtige vorm die zich in golven door het midden beweegt. Zwarte vlekken en spetters zijn verspreid over de compositie, met fijnere stippen die als stof of vonken door de lucht lijken te zweven. De achtergrond is lichtgrijs met subtiele textuur, terwijl de voorgrond donkerder en dichter begroeid is. Witte en grijze lijnen suggereren diepte en beweging, met een onrustige, bijna chaotische sfeer die door de wisselwerking van donker en licht wordt versterkt.",
-      "cyclus": 7486,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van gras aan linker- en rechterrand', 'lichte halo rond witte rookvorming']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007486_7553.webp"
     }
   ],
   "afgekeurd": [
@@ -313,9 +313,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7547,
-    "gemaakt": 7612,
-    "gekozen": 1095,
+    "cycli": 7554,
+    "gemaakt": 7620,
+    "gekozen": 1098,
     "afgekeurd": 1016,
     "corpus": 69,
     "notities": 361
