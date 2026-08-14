@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T10:45+02:00",
+  "bijgewerkt": "2026-08-14T11:00+02:00",
   "werk": [
+    {
+      "id": 7471,
+      "titel": "Waar stroomt het vandaan",
+      "beschrijving": "Een hand houdt een rechthoekig kader vast, waarbinnen een golvende witte vorm loopt door een roodbruine achtergrond. Uit het kader stroomt dezelfde witte, golvende vorm naar beneden, alsof het water of licht is dat zich uitstrekt over het roodbruine vlak. Rechtsboven steekt een donkerbruine tak met dunne takjes schuin door het beeld, deels het kader raakend. De hand, met zichtbare vingers en nagels, omvat het kader aan de onderkant, terwijl de tak vanaf de rechterbovenhoek naar beneden loopt. De achtergrond is eenduidig roodbruin, met zachte, geschilderde texturen die de overgang tussen de vormen vloeiend maken.",
+      "cyclus": 7401,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in perspectief van het schilderij ten opzichte van de hand', 'kleine halo rond de rand van het schilderij']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een conceptuele compositie met een eigen standpunt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007401_7471.webp"
+    },
+    {
+      "id": 7469,
+      "titel": "Papier dat zwijgt",
+      "beschrijving": "Twee witte enveloppen liggen verspreid op een nat, donker oppervlak dat lijkt op nat zand of modder, met subtiele patronen van water en kleine stenen. Een van de enveloppen rust op een ruwe, donkere rots, terwijl de andere schuin op het natte oppervlak ligt. Het water vormt glanzende, golvende lijnen rond de enveloppen en de rots, met kleine belletjes en reflecties. De achtergrond bestaat uit een textuur van kleine steentjes en korrels, met af en toe een lichtere vlek. De compositie is minimalistisch, met een sterke focus op de contrasten tussen het witte papier, het donkere natuurmateriaal en de vloeibare dynamiek van het water.",
+      "cyclus": 7399,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte verhouding tussen voorwerpen en ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007399_7469.webp"
+    },
     {
       "id": 7458,
       "titel": "Papier dat ademt",
@@ -91,35 +117,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007348_7418.webp"
-    },
-    {
-      "id": 7414,
-      "titel": "Koffie die verft het water",
-      "beschrijving": "Een witte kop koffie staat op een donkere, verweerde houten paal die uit donker, bewegend water steekt. Bruine vloeistof stroomt in een slanke straalm van de kop naar beneden, waar ze op een houten palet landt met kleurige vlekken verf. De achtergrond bestaat uit een grijze, bewolkte hemel en een woelige zee met kleine golven. Rook of mist stijgt op achter de paal, wat een dromerige sfeer creëert. Het water reflecteert de donkere tinten van de omgeving, terwijl het palet en de koffie een warme, contrasterende kleur toevoegen aan het tafereel.",
-      "cyclus": 7344,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en provocerend.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007344_7414.webp"
-    },
-    {
-      "id": 7405,
-      "titel": "Waar het licht door breekt",
-      "beschrijving": "Een muur van grijs beton, waar een groot deel van de pleisterlaag is losgekomen, onthult een ruwe, roodbruine onderlaag met oneffenheden en kleine gaten. Een diepe, donkere scheur loopt diagonaal van de bovenrand naar beneden, waarbij het beton aan weerskanten licht uit elkaar is gedreven. Bovenaan de muur loopt een horizontale betonnen rand, licht gekleurd en met kleine onregelmatigheden. De achtergrond wordt gevormd door een egale, lichtblauwe hemel zonder wolken. Rostinten en verkleuringen zijn zichtbaar waar de pleister nog deels aanwezig is, met verticale strepen die suggereren dat vocht ooit door de muur is gelopen.",
-      "cyclus": 7335,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op textuur en verval, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007335_7405.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7467,
+      "cyclus": 7397,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['lichte vervorming in de takken van de bomen links en rechts', 'onduidelijke details in de ramen van de kerk']",
+      "cliche_notities": "Dit is een typisch ansichtkaartmotief: een kerk in een landschap met decoratief licht en een klassieke compositie zonder verrassende keuzes.",
+      "bestand": "images/a007397_7467.webp"
+    },
     {
       "id": 7463,
       "cyclus": 7393,
@@ -137,15 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst.",
       "bestand": "images/a007391_7461.webp"
-    },
-    {
-      "id": 7459,
-      "cyclus": 7389,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij bomen op middereenheid', 'Subtiele halos rond zonsondergang']",
-      "cliche_notities": "Landschap met zonsondergang en bergen is een typisch ansichtkaartmotief zonder unieke compositorische keuze.",
-      "bestand": "images/a007389_7459.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7396,
-    "gemaakt": 7465,
-    "gekozen": 1069,
-    "afgekeurd": 980,
+    "cycli": 7403,
+    "gemaakt": 7473,
+    "gekozen": 1071,
+    "afgekeurd": 981,
     "corpus": 68,
     "notities": 357
   }
