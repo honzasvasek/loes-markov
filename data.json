@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T08:45+02:00",
+  "bijgewerkt": "2026-08-14T09:00+02:00",
   "werk": [
+    {
+      "id": 7405,
+      "titel": "Waar het licht door breekt",
+      "beschrijving": "Een muur van grijs beton, waar een groot deel van de pleisterlaag is losgekomen, onthult een ruwe, roodbruine onderlaag met oneffenheden en kleine gaten. Een diepe, donkere scheur loopt diagonaal van de bovenrand naar beneden, waarbij het beton aan weerskanten licht uit elkaar is gedreven. Bovenaan de muur loopt een horizontale betonnen rand, licht gekleurd en met kleine onregelmatigheden. De achtergrond wordt gevormd door een egale, lichtblauwe hemel zonder wolken. Rostinten en verkleuringen zijn zichtbaar waar de pleister nog deels aanwezig is, met verticale strepen die suggereren dat vocht ooit door de muur is gelopen.",
+      "cyclus": 7335,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op textuur en verval, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007335_7405.webp"
+    },
+    {
+      "id": 7400,
+      "titel": "Rook die leert praten",
+      "beschrijving": "Een transparant kubusvormig object met regenboogkleurige verticale banden aan weerszijden zweeft tegen een effen bruinrode achtergrond. Witte, rookachtige vormen ontsnappen uit het kubusje en golven naar beneden, waar ze over een halve cirkel van regenboogkleuren glijden. Zwarte, onregelmatige barsten lopen door de rook en de regenboog, en breken ook de zijden van het kubusje. De rook verweven zich met de kleuren, terwijl de achtergrond een matte, textuurloze uitstraling heeft.",
+      "cyclus": 7330,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het kubusvormige frame', 'Sommige rookvormen zijn wat wazig/smeuiig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch/toeristisch onderwerp en geen decoratief perfect licht; de compositie heeft een eigenzinnige, bijna surrealistische inslag.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007330_7400.webp"
+    },
     {
       "id": 7392,
       "titel": "Roze leegte met een schuine greep",
@@ -91,35 +117,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007283_7353.webp"
-    },
-    {
-      "id": 7342,
-      "titel": "Vier ruiten, één opening",
-      "beschrijving": "Donker hout vormt de gevel van een gebouw met een schuine daklijn en een centraal geplaatst raam met vier ruiten. Een luik aan de rechterkant van het raam staat open, terwijl aan de linkerkant een deel van een ander raam en een versierd houten paneel zichtbaar zijn. Het dak heeft pannen en een afvoerpijp loopt naar beneden. De houten planken hebben een verticale structuur met zichtbare korrel en slijtage. De achtergrond is egaal donker, waardoor het gebouw scherp afsteekt. De sfeer is statisch en rustig, met een focus op de textuur en details van het hout.",
-      "cyclus": 7272,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van houten lamellen bij vensterkozijn', 'Subtiele halo rond dakgoot tegen achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands motief, maar een close-up van een architectonisch detail met focus op textuur en ruimte, geen toeristische beleving.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007272_7342.webp"
-    },
-    {
-      "id": 7340,
-      "titel": "Beton dat ademt in witte aderen",
-      "beschrijving": "Een donkergrijze, ruwe betonnen oppervlakte wordt doorsneden door diepe, onregelmatige barsten. Door de breuken loopt een helderwitte, bliksemachtige lijn die zich vertakt in fijnere, adervergelijkbare patronen. De textuur van het beton is korrelig en ongelijkmatig, met verspreide kleine steentjes en losse delen aan de randen van de barsten. De witte lijn contrasteert scherp met de donkere achtergrond en volgt de natuurlijke, willekeurige loop van de scheuren, waardoor een gevoel van dynamiek en onverwachtse beweging ontstaat in het statische materiaal.",
-      "cyclus": 7270,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte halo rond witte bliksem', 'textuur wat kunstmatig herhaald in rechteronderhoek']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op abstracte spanning, niet op een bevestigend beeld.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007270_7340.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7416,
+      "cyclus": 7346,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een focus op een voorwerp met een meer abstracte uitstraling.",
+      "bestand": "images/a007346_7416.webp"
+    },
     {
       "id": 7402,
       "cyclus": 7332,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Molen en kustlandschap door een open deur is een typisch Nederlands ansichtkaartmotief zonder verrassende compositorische keuzes.",
       "bestand": "images/a007331_7401.webp"
-    },
-    {
-      "id": 7397,
-      "cyclus": 7327,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een surrealistisch beeld met een eigen compositorische keuze.",
-      "bestand": "images/a007327_7397.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7342,
-    "gemaakt": 7411,
-    "gekozen": 1059,
-    "afgekeurd": 967,
+    "cycli": 7349,
+    "gemaakt": 7418,
+    "gekozen": 1061,
+    "afgekeurd": 968,
     "corpus": 66,
     "notities": 357
   }
