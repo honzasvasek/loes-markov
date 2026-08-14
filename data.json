@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-14T07:00+02:00",
+  "bijgewerkt": "2026-08-14T07:15+02:00",
   "werk": [
+    {
+      "id": 7353,
+      "titel": "Wat blijft hangen van een vonk?",
+      "beschrijving": "Een slanke, donkerbruine kolom stijgt op vanaf een onregelmatige, donkere basis met verspreide vlekken en fijne strepen. Bovenin ontbindt de kolom in een complex web van golvende, doorschijnende lijnen en spiraalvormige structuren, waarbij donkere en lichtere bruine tinten door elkaar lopen. Enkele lijnen zijn scherp en donker, andere vaag en wazig. Kleurverloop loopt van donkerbruin aan de basis naar lichtbruin en bijna wit aan de bovenkant. De achtergrond is egaal crèmekleurig, zonder extra details. De compositie is verticaal georiënteerd, met de beweging die van onder naar boven loopt.",
+      "cyclus": 7283,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007283_7353.webp"
+    },
     {
       "id": 7342,
       "titel": "Vier ruiten, één opening",
@@ -104,22 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007224_7294.webp"
-    },
-    {
-      "id": 7284,
-      "titel": "De kier die luistert",
-      "beschrijving": "Een verweerde houten deur staat op een kier, omringd door donkere, natte rotsen en modder. Door de opening flitst een scherpe bliksemflits tegen een bewolkte hemel, met paarsachtige tinten in de wolken. De deur heeft een klassieke paneelstructuur met zichtbare scharnieren en een metalen kruk. Het hout toont sporen van slijtage, met donkere vlekken en onregelmatigheden. De grond voor de deur is glimmend nat, met kleine plassen die de omgeving weerspiegelen. De achtergrond bestaat uit een grijze, dreigende lucht met zware wolken, waarbij de bliksem een heldere, witte lijn trekt door het beeld.",
-      "cyclus": 7214,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van hout aan weerskanten van de deur', 'Bliksem mist subtieler vertakkingen in de bovenste helft']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, denkprikkende sfeer.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007214_7284.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7359,
+      "cyclus": 7289,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Enkele dieren hebben lichte vervormingen in poten of hoofd, bomen tonen herhaalpatronen in takken']",
+      "cliche_notities": "Dit is een typisch landschapsbeeld met vee en heuvels, zonder onverwachte compositorische keuzes of een uniek standpunt",
+      "bestand": "images/a007289_7359.webp"
+    },
     {
       "id": 7355,
       "cyclus": 7285,
@@ -137,15 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief, maar een abstracte compositie met gras en een steen.",
       "bestand": "images/a007280_7350.webp"
-    },
-    {
-      "id": 7345,
-      "cyclus": 7275,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['kleine inconsistentie in reflectie van zonsondergang in water (zon staat hoger in bovenste deel)', 'lichte wazigheid aan randen van beeld']",
-      "cliche_notities": "Beeld toont een typisch landschap met zonsondergang en symmetrische compositie, zonder duidelijke persoonlijke of conceptuele draai.",
-      "bestand": "images/a007275_7345.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7289,
-    "gemaakt": 7358,
-    "gekozen": 1052,
-    "afgekeurd": 959,
+    "cycli": 7297,
+    "gemaakt": 7367,
+    "gekozen": 1053,
+    "afgekeurd": 960,
     "corpus": 68,
     "notities": 357
   }
