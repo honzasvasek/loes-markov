@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-14T04:15+02:00",
+  "bijgewerkt": "2026-08-14T04:30+02:00",
   "werk": [
+    {
+      "id": 7275,
+      "titel": "Fingers die zand herschrijven",
+      "beschrijving": "Een hand raakt nat zand aan de rand van een waterpootje, waarbij de vingers een golvend patroon trekken in het natte oppervlak. Het zand is fijn en lichtbruin, met kleine klontjes en losse korrels die de textuur benadrukken. Het water is helder en kalm, met zachte rimpelingen die de overgang vormen tussen het natte en droge zand. Donkere, dunne lijnen lopen door het natte deel, getrokken door de hand, en vormen een abstract ontwerp dat contrasteert met de natuurlijke vormen rondom. Kleurrijk licht valt schuin, waardoor schaduwen de diepte van het zand en de hand benadrukken.",
+      "cyclus": 7205,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van nat/zandig zand bij de rand van het water', 'Hand mist subtiere anatomische details (bijv. aderen, nagelrieten)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de focus ligt op een intieme, niet-verplichte actie met zand en water.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007205_7275.webp"
+    },
     {
       "id": 7263,
       "titel": "Water dat vuur onthoudt",
@@ -104,19 +117,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007162_7232.webp"
-    },
-    {
-      "id": 7222,
-      "titel": "Papier dat liegt",
-      "beschrijving": "Een lichtbruine houten muur met zichtbare vezels en een subtiele textuur domineert het beeld. In het midden bevindt een onregelmatige, gescheurde opening een donkere, bijna zwarte holte. De randen van de scheur zijn wit en vertonen franjes van papier of karton, met een scherp contrast tegen het hout. Drie dunne, zwarte lijnen lopen door de muur: één verticaal door de scheur en twee horizontaal, die de compositie in vier ongelijke delen verdelen. De sfeer is statisch en minimalistisch, met een focus op de spanning tussen de solide houten structuur en de plotselinge doorbreek van het oppervlak.",
-      "cyclus": 7152,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, denkbare ruimte in plaats van een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007152_7222.webp"
     }
   ],
   "afgekeurd": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7209,
-    "gemaakt": 7278,
-    "gekozen": 1041,
+    "cycli": 7216,
+    "gemaakt": 7285,
+    "gekozen": 1042,
     "afgekeurd": 948,
-    "corpus": 70,
+    "corpus": 68,
     "notities": 356
   }
 }
