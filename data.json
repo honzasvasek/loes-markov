@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-14T15:45+02:00",
+  "bijgewerkt": "2026-08-14T16:00+02:00",
   "werk": [
+    {
+      "id": 7583,
+      "titel": "Geen spoor van rook meer",
+      "beschrijving": "Donkerblauw water vult het onderste deel, met donkere, slanke rietstengels die schuin omhoog steken en een vaag spoor van rook of mist die opstijgt naar een diepblauwe hemel. In de verte flakkeren gele lichten, omgeven door donkere silhouetten van bomen en vormen die op gebouwen of boten kunnen lijken. Het water weerspiegelt de lichten en de rook als onscherpe, golvende strepen. Rechts staan donkere, onduidelijke figuren of structuren, met een vaag blauwe auto-achtige vorm. De sfeer is stil en wat onrustig, door de beweging van de rook en de glinsterende reflecties op het water.",
+      "cyclus": 7516,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaart-achtig.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007516_7583.webp"
+    },
     {
       "id": 7578,
       "titel": "Waar het licht blijft hangen",
@@ -13,6 +26,19 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007511_7578.webp"
+    },
+    {
+      "id": 7577,
+      "titel": "Gras dat door hout groeit",
+      "beschrijving": "Twee verweerde, grijze houten stammen met scherpe, onregelmatige takken reiken omhoog tegen een diepblauwe achtergrond met subtiele, verticale penseelstreken. De stammen hebben een ruwe textuur met losse vezels en kleine, donkere holtes, en zijn omgeven door groene en blauwe grasachtige vormen die in willekeurige hoeken door het beeld snijden. Een paar kleine, oranje-bruine vlekken op de stammen en takken breken de koelere kleuren. De compositie is dynamisch, met de stammen die diagonaal door het midden lopen en de takken die zich uitstrekken naar de randen, waardoor een gevoel van beweging ontstaat tegen de statische achtergrond.",
+      "cyclus": 7510,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007510_7577.webp"
     },
     {
       "id": 7575,
@@ -91,35 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007475_7542.webp"
-    },
-    {
-      "id": 7539,
-      "titel": "Oranje wolken boven woelig water",
-      "beschrijving": "Een brede horizon verdeelt het beeld in twee werelden: beneden een woelig, donkerblauw water met witte spatten en golvende beweging, boven een lucht met zachte, grijze wolken doorbroken door levendige oranje vlekken. De golven hebben een textuur van dikke, zichtbare penseelstreken, met hier en daar een glimp van goudgele reflecties. De oranje vormen in de lucht lijken vaag gestalte te krijgen, met ronde en uitgesmeerde vormen die een gevoel van beweging uitstralen. Witte schuimkoppen en kleine, schitterende details in het water geven een gevoel van dynamiek, terwijl de achtergrond een rustige, bijna nevelige sfeer behoudt.",
-      "cyclus": 7471,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is dynamisch en niet typisch ansichtkaart-achtig.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007471_7539.webp"
-    },
-    {
-      "id": 7531,
-      "titel": "Vogels die een brief ontrafelen",
-      "beschrijving": "Zeven vogels in vlucht, met gespreide vleugels en gestrekte nekken, vliegen in verschillende hoogtes en hoeken tegen een effen grijze achtergrond. Onderin bevindt zich een witte envelop, licht schuin gepositioneerd, met twee vogels die erboven vliegen en één die eruit lijkt te vliegen. Rechtsboven de envelop zweeft een witte, schuimachtige vorm met bolletjes en druppels, alsof het een spoor van beweging of een opspattend element is. De vogels hebben een grijswitte vering met donkere vleugelpunten en zwarte snavels. De compositie combineert realistische vogelformen met een minimalistische, bijna abstracte achtergrond en een onverklaarde schuimvorm die een gevoel van dynamiek toevoegt aan de scène.",
-      "cyclus": 7463,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert vogels met een envelop en schuim, wat geen typisch iconisch of bevestigd onderwerp is en een eigen compositorische keuze laat zien.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007463_7531.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7593,
+      "cyclus": 7526,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een open deur naar een onduidelijke wereld.",
+      "bestand": "images/a007526_7593.webp"
+    },
     {
       "id": 7588,
       "cyclus": 7521,
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte vervorming in de windmolenwieken (asymmetrisch/onsymmetrisch)', 'Onduidelijke textuur in de muur van de molen (smeuiig/wazig)', 'Halo-effect rond de molen (hoog contrast met achtergrond)']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molen met decoratief licht en een neutrale achtergrond, zonder eigen compositorische keuzes.",
       "bestand": "images/a007518_7585.webp"
-    },
-    {
-      "id": 7584,
-      "cyclus": 7517,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in reflecties van bomen in water', 'Wazige details bij de vogels in de verte']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart met iconische Nederlandse motieven zoals een molen en een landschap met water en vogels.",
-      "bestand": "images/a007517_7584.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7522,
-    "gemaakt": 7588,
-    "gekozen": 1090,
-    "afgekeurd": 1009,
-    "corpus": 69,
+    "cycli": 7527,
+    "gemaakt": 7593,
+    "gekozen": 1092,
+    "afgekeurd": 1010,
+    "corpus": 71,
     "notities": 361
   }
 }
