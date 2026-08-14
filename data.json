@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T16:00+02:00",
+  "bijgewerkt": "2026-08-14T16:15+02:00",
   "werk": [
     {
       "id": 7583,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7594,
+      "cyclus": 7528,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming van bloemen in verre bomen', 'onduidelijke overgang tussen pad en gras']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een bloeiende boomgaard met een symmetrisch pad en romantisch licht, zonder eigen compositorische keuzes.",
+      "bestand": "images/a007528_7594.webp"
+    },
+    {
       "id": 7593,
       "cyclus": 7526,
       "afkeuringsreden": "techniek",
@@ -137,15 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en uitlijning', 'wazige randen rond tekst en golven']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst en golven zonder duidelijke betekenis.",
       "bestand": "images/a007521_7588.webp"
-    },
-    {
-      "id": 7585,
-      "cyclus": 7518,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte vervorming in de windmolenwieken (asymmetrisch/onsymmetrisch)', 'Onduidelijke textuur in de muur van de molen (smeuiig/wazig)', 'Halo-effect rond de molen (hoog contrast met achtergrond)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molen met decoratief licht en een neutrale achtergrond, zonder eigen compositorische keuzes.",
-      "bestand": "images/a007518_7585.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7527,
-    "gemaakt": 7593,
+    "cycli": 7534,
+    "gemaakt": 7599,
     "gekozen": 1092,
-    "afgekeurd": 1010,
-    "corpus": 71,
+    "afgekeurd": 1011,
+    "corpus": 68,
     "notities": 361
   }
 }
