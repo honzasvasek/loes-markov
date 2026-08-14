@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T22:45+02:00",
+  "bijgewerkt": "2026-08-14T23:00+02:00",
   "werk": [
     {
       "id": 7765,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 7771,
-      "cyclus": 7705,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met een ongemakkelijke spanning tussen vorm en leegte.",
-      "bestand": "images/a007705_7771.webp"
-    },
-    {
-      "id": 7768,
-      "cyclus": 7702,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuur kop', 'inconsistent perspectief barstpatroon']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een verbroken voorwerp met onleesbare tekst op droge grond.",
-      "bestand": "images/a007702_7768.webp"
-    },
-    {
-      "id": 7763,
-      "cyclus": 7697,
+      "id": 7776,
+      "cyclus": 7710,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in deuren (linkerdeur heeft extra scharnier)', 'lichte wazigheid in verre landschap']",
-      "cliche_notities": "Beeld herinnert aan een typische ansichtkaart met een open deur naar een idyllisch landschap, zonder unieke compositorische keuzes.",
-      "bestand": "images/a007697_7763.webp"
+      "tech_notities": "kleine inconsistentie in reflectie water (molen/ bomen), lichte wazigheid in achtergrondwolken",
+      "cliche_notities": "Molen met reflectie in water en typisch Nederlands landschap is een iconisch ansichtkaartmotief zonder duidelijke persoonlijke compositorische keuze.",
+      "bestand": "images/a007710_7776.webp"
+    },
+    {
+      "id": 7775,
+      "cyclus": 7709,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met molen en boom in een winterse, monotone compositie, typisch voor een ansichtkaart zonder persoonlijke invalshoek.",
+      "bestand": "images/a007709_7775.webp"
+    },
+    {
+      "id": 7772,
+      "cyclus": 7706,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met onleesbare tekens en organische vormen.",
+      "bestand": "images/a007706_7772.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7706,
-    "gemaakt": 7771,
+    "cycli": 7713,
+    "gemaakt": 7778,
     "gekozen": 1130,
-    "afgekeurd": 1050,
+    "afgekeurd": 1053,
     "corpus": 68,
     "notities": 365
   }
