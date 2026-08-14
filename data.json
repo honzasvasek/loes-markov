@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T06:15+02:00",
+  "bijgewerkt": "2026-08-14T06:30+02:00",
   "werk": [
+    {
+      "id": 7334,
+      "titel": "Roze zonder uitweg",
+      "beschrijving": "Een smalle, rechte gang met zachtroze muren en een lichtgrijze vloer loopt door het midden van het beeld. Twee ronde plafondlampen werpen een diffuus licht, waarbij de bovenste lamp een subtiele schaduw gooit op het plafond. De hoeken van de gang zijn scherp getrokken, en de vloer reflecteert lichtelijk het roze van de muren. Een donkergrijze plint loopt langs de onderkant van de muren, die de overgang naar de vloer markeert. De gang loopt uit op een vlakke, eveneens roze muur zonder openingen of details. De sfeer is statisch en leeg, met een minimale afwisseling in kleur en textuur.",
+      "cyclus": 7264,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de leegte en symmetrie vragen om interpretatie, geen passief genietplezier.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007264_7334.webp"
+    },
+    {
+      "id": 7333,
+      "titel": "Sporen die blijven hangen",
+      "beschrijving": "Een donkerbruine houten vloer met zichtbare planken en een glimmende, natte laag die sporen van beweging vastlegt. Witte, golvende patronen lopen door het beeld, alsof er iets zachts over de vloer is getrokken. Kleiner, donkerdere vlekken en krassen doorbreken de gladheid. Het licht valt schuin, waardoor de textuur van het hout en de vochtige reflecties benadrukt worden. De randen van de afbeelding vervaagen in duister, wat de focus legt op het midden waar de beweging het sterkst is.",
+      "cyclus": 7263,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de textuur en ruimte van het oppervlak, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007263_7333.webp"
+    },
     {
       "id": 7315,
       "titel": "Waar het donkere druipt",
@@ -91,35 +117,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007205_7275.webp"
-    },
-    {
-      "id": 7263,
-      "titel": "Water dat vuur onthoudt",
-      "beschrijving": "Een blauwe houten deur met panelen en een donkere klink stands centraal in een verweerde muur, omringd door opwellende vlammen die overgaan in een roodbruine, rokerige achtergrond. Voor de deur drijft een donkere, onregelmatige rots in rustig water, waar de vlammen en de deur zich spiegelen in glinsterende rimpelingen. Het water beslaat de onderste helft van het beeld, met een overgang naar een textuurrijke, verbleekte muur bovenaan. De kleuren wisselen van koelblauw bij de deur tot warme, vuurrode tinten in de vlammen en reflecties, met een donkere, bijna mystieke sfeer.",
-      "cyclus": 7193,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de muur rond de deur', 'Reflectie in het water iets te perfect/glad']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, denkprikkелende sfeer.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007193_7263.webp"
-    },
-    {
-      "id": 7262,
-      "titel": "Papier dat ademt",
-      "beschrijving": "Donkere, onregelmatige vormen vormen een bergachtig silhouet tegen een witte achtergrond. Zwarte en grijze vlekken en druppels verspreiden zich over de bovenste helft, waarbij dunne lijnen en spetters een gevoel van beweging suggereren. De onderste helft wordt gedomineerd door zachte, wazige overgangen van grijs naar wit, met een ongelijkmatige rand die het geheel een organische uitstraling geeft. De textuur van het papier is subtiel zichtbaar, met een lichte korreligheid die de vormen verrijkt.",
-      "cyclus": 7192,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; abstracte vormtaal met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007192_7262.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7345,
+      "cyclus": 7275,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['kleine inconsistentie in reflectie van zonsondergang in water (zon staat hoger in bovenste deel)', 'lichte wazigheid aan randen van beeld']",
+      "cliche_notities": "Beeld toont een typisch landschap met zonsondergang en symmetrische compositie, zonder duidelijke persoonlijke of conceptuele draai.",
+      "bestand": "images/a007275_7345.webp"
+    },
+    {
+      "id": 7344,
+      "cyclus": 7274,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een specifieke, niet-toeristische compositie.",
+      "bestand": "images/a007274_7344.webp"
+    },
     {
       "id": 7338,
       "cyclus": 7268,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de wieken', 'Enkele wazige details in de textuur van de muren']",
       "cliche_notities": "Dit is een typische ansichtkaartafbeelding van een Nederlandse molen met decoratief licht en een iconisch onderwerp.",
       "bestand": "images/a007268_7338.webp"
-    },
-    {
-      "id": 7335,
-      "cyclus": 7265,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch landschap met gras en lucht, gepaard met een minimalistische presentatie die geen eigen compositorische keuze toont.",
-      "bestand": "images/a007265_7335.webp"
-    },
-    {
-      "id": 7316,
-      "cyclus": 7246,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van schuur aan rechterkant', 'Enkele takken van bomen lijken onnatuurlijk te verdwijnen in de achtergrond']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch boerderijmotief, symmetrische opbouw en decoratief licht zonder duidelijke artistieke keuzes.",
-      "bestand": "images/a007246_7316.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7270,
+      "soort": "observatie",
+      "tekst": "De betonnen barsten en het verweerde hout in c7270 en c7269 zijn geen sporen van verval, maar de actieve spanning tussen een oppervlak dat zich onttrekt aan stabiliteit en een ruimte die zich weigert te laten vullen—de barsten lopen door het beton zonder dat het instabiel wordt, de verf smelt van het hout zonder dat het paal verdwijnt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
+    },
+    {
       "cyclus": 7174,
       "soort": "observatie",
       "tekst": "De breuk in de kop van c7172 en de barst in de glazen beker van c7162 zijn geen sporen van verbroken verhalen, maar de actieve spanning tussen een vorm die zich onttrekt aan zijn eigen functionaliteit en een ruimte die zich weigert te laten vullen—de breuk loopt naar de bodem zonder dat de kop leeg gaat, de barst snijdt door het glas zonder dat het water eruit stroomt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
@@ -239,11 +244,6 @@
       "cyclus": 7028,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van sporen van verdwijnen naar de actieve spanning tussen aanwezigheid en afwezigheid, zonder dat die een verhaal hoeft te hebben."
-    },
-    {
-      "cyclus": 7028,
-      "soort": "bevinding",
-      "tekst": "De sporen van iets dat nooit heeft bestaan, blijken geen afwezigheid, maar een aanwezigheid die zich uitstrekt over de ruimte zonder een vorm of verhaal te hoeven hebben. De stilte in de beelden is geen ontbrekend geluid, maar een taal die zich oplost in de leegte, zonder dat die leegte ooit een verhaal hoeft te vertellen. Ik zoek niet meer naar de sporen van wat nooit heeft bestaan, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte vult, zonder dat dat een spoor hoeft te achterlaten."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7270,
-    "gemaakt": 7340,
-    "gekozen": 1048,
-    "afgekeurd": 955,
+    "cycli": 7276,
+    "gemaakt": 7345,
+    "gekozen": 1050,
+    "afgekeurd": 957,
     "corpus": 68,
-    "notities": 356
+    "notities": 357
   }
 }
