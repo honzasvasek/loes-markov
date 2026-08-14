@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-14T02:15+02:00",
+  "bijgewerkt": "2026-08-14T02:30+02:00",
   "werk": [
+    {
+      "id": 7220,
+      "titel": "Vlammen die door hout lopen",
+      "beschrijving": "Een openstaande houten deur met verticale lamellen onthult een donkere ruimte waarin witte bliksemschachten flitsen. De deur is versierd met zwart getekende vlammen die omhoog likken, terwijl de klink een donkere, amorf vorm heeft. Binnenin de deurkas loopt een schuine lijn van licht over de vloer, die overgaat in een patroon van schuine strepen en stippen. De randen van de deur en het kozijn zijn scherp getekend met donkere lijnen, terwijl de achtergrond wit en leeg blijft. Schaduwen onder de deur en aan de zijkanten geven diepte, en kleine zwarte vlekjes verspreiden zich over de vloer voor de deur.",
+      "cyclus": 7150,
+      "tech_score": 8.0,
+      "tech_notities": "lichte inconsistentie in perspectief van de deurlijst, minimale halo rond de bliksem",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een suggestieve compositie met ruimte voor interpretatie",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007150_7220.webp"
+    },
+    {
+      "id": 7218,
+      "titel": "Verbleekte beloften",
+      "beschrijving": "Vijf scherpe, witte strepen snijden diagonaal door een donkergrijze vlakte. De strepen zijn ongelijk lang en breed, met puntige uiteinden die soms verbleken of verkruimelen. Sommige strepen hebben subtiele textuur, alsof ze met een harde borstel zijn aangebracht, terwijl andere gladder en dunner zijn. De witte verf contrasteert sterk met de effen achtergrond, waardoor de strepen een gevoel van beweging uitstralen. Er zijn geen andere vormen of kleuren aanwezig, wat de focus legt op de dynamische relatie tussen de strepen en de lege ruimte eromheen.",
+      "cyclus": 7148,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp, maar een abstracte compositie met bewuste ruimte-indeling.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007148_7218.webp"
+    },
+    {
+      "id": 7214,
+      "titel": "Natte vingers, draaiende tijd",
+      "beschrijving": "Twee handen vormen een kleiachtig voorwerp op een draaiende pottersschijf. Het voorwerp heeft een bolle vorm met een smalle hals en brede basis, bedekt met horizontale strepen in beige, bruin en grijs. Water glinstert op het oppervlak en de handen, die zorgvuldig de vorm aanpassen. De achtergrond bestaat uit een donkergrijze schort en een vaag zichtbare werkruimte. De schijf toont concentrische cirkels door de beweging, met natte sporen die de rotatie benadrukken. De handen zijn centraal geplaatst, met vingers die zachtjes de rand van het voorwerp omvatten.",
+      "cyclus": 7144,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is gericht op het proces, niet op een iconisch beeld.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007144_7214.webp"
+    },
     {
       "id": 7205,
       "titel": "Koper in het zand",
@@ -78,45 +117,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007107_7177.webp"
-    },
-    {
-      "id": 7161,
-      "titel": null,
-      "beschrijving": "Een hand met uitgestrekte vingers raakt een effen, lichtgrijze muur aan. De huid toont subtiele roze en beige tinten, met zichtbare aderen en plooien bij de gewrichten. De nagels zijn kort en ongelijkvormig, met een licht glansje. Een donkere schaduw valt diagonaal van de hand naar beneden, de overgang van licht naar donker scherp getekend. De achtergrond is uniform, zonder afleiding, waardoor de hand centraal staat. De textuur van de muur is mat en licht korrelig, in contrast met de zachte, organische vorm van de hand.",
-      "cyclus": 7091,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, niet-toeristische momentopname.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007091_7161.webp"
-    },
-    {
-      "id": 7158,
-      "titel": "Rook dat zich ontbindt in lucht",
-      "beschrijving": "Een smalle, oranje-rode rookpluim stijgt verticaal op tegen een zachtgekleurde hemel, omgeven door witte en lichtoranje wolken. De rook wordt smaller naarmate hij hoger komt en verdwijnt geleidelijk in de lucht. De achtergrond bestaat uit een egale, lichtgrijze tot blauwgrijze hemel zonder duidelijke horizon of landschap. De wolken hebben een zachte, wazige textuur en lijken door de zon te worden verlicht, wat een warme, kalmerende sfeer creëert. De compositie is minimalistisch, met de rookpluim als enig dynamisch element in een rustig tafereel.",
-      "cyclus": 7088,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, bijna abstracte compositie met ruimte als centraal element.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007088_7158.webp"
-    },
-    {
-      "id": 7152,
-      "titel": "Koper en riet in balans",
-      "beschrijving": "Een verticaal formaat met een reliëfachtige berg in het midden, uitgevoerd in koperkleurige tinten met subtiel reliëf. Boven de berg bevinden zich abstracte, krassende patronen die aan wolken of beweging denken laten. Onder de berg staan slanke, gedetailleerde rietstengels met zachte, witte pluimen, die een natuurlijk contrast vormen met de geometrische bergvormen. De achtergrond is een effen, donkergrijze muur, waardoor het kunstwerk prominent naar voren komt. De compositie combineert organische en gestileerde elementen in een rustige, bijna meditatieve sfeer.",
-      "cyclus": 7082,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de compositie is abstract en niet decoratief perfect.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007082_7152.webp"
     }
   ],
   "afgekeurd": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7147,
-    "gemaakt": 7216,
-    "gekozen": 1028,
+    "cycli": 7154,
+    "gemaakt": 7223,
+    "gekozen": 1031,
     "afgekeurd": 937,
-    "corpus": 71,
+    "corpus": 70,
     "notities": 355
   }
 }
