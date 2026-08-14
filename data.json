@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T11:30+02:00",
+  "bijgewerkt": "2026-08-14T11:45+02:00",
   "werk": [
     {
       "id": 7482,
@@ -121,6 +121,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7491,
+      "cyclus": 7421,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuur van riet (soms te scherp, soms wazig)', 'kleine halo rond stam van de wilg tegen de achtergrond']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch Nederlands landschap (wilg + riet) met decoratief zacht licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a007421_7491.webp"
+    },
+    {
+      "id": 7486,
+      "cyclus": 7416,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een eigen standpunt.",
+      "bestand": "images/a007416_7486.webp"
+    },
+    {
       "id": 7485,
       "cyclus": 7415,
       "afkeuringsreden": "techniek",
@@ -128,24 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld', \"vervormde tekst (bijv. 'Heso1a`t hove')\", 'onlogische tekstplaatsing']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is experimenteel en niet bevestigend.",
       "bestand": "images/a007415_7485.webp"
-    },
-    {
-      "id": 7467,
-      "cyclus": 7397,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['lichte vervorming in de takken van de bomen links en rechts', 'onduidelijke details in de ramen van de kerk']",
-      "cliche_notities": "Dit is een typisch ansichtkaartmotief: een kerk in een landschap met decoratief licht en een klassieke compositie zonder verrassende keuzes.",
-      "bestand": "images/a007397_7467.webp"
-    },
-    {
-      "id": 7463,
-      "cyclus": 7393,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van hout aan weerskanten van het raam', 'Rook lijkt iets te glad en kunstmatig']",
-      "cliche_notities": "Molen door een raam is een klassiek ansichtkaartmotief zonder verrassende compositorische keuze",
-      "bestand": "images/a007393_7463.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7416,
-    "gemaakt": 7485,
+    "cycli": 7422,
+    "gemaakt": 7491,
     "gekozen": 1074,
-    "afgekeurd": 982,
+    "afgekeurd": 984,
     "corpus": 70,
     "notities": 357
   }
