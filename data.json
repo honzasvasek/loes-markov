@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T04:45+02:00",
+  "bijgewerkt": "2026-08-14T05:00+02:00",
   "werk": [
     {
       "id": 7284,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7300,
+      "cyclus": 7230,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte halo rond zon', 'onduidelijke textuur in donkere voorgrond']",
+      "cliche_notities": "Zonsondergang boven silhouetlandschap is een typisch ansichtkaartmotief zonder verrassende compositorische keuzes.",
+      "bestand": "images/a007230_7300.webp"
+    },
+    {
       "id": 7291,
       "cyclus": 7221,
       "afkeuringsreden": "techniek",
@@ -137,15 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de schuur ten opzichte van de bomen', 'Enkele bladeren hebben onnatuurlijke, herhalende vormen']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische boerderijscene, molens en een idyllisch landschap zonder duidelijke persoonlijke interpretatie.",
       "bestand": "images/a007200_7270.webp"
-    },
-    {
-      "id": 7269,
-      "cyclus": 7199,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['kleine vervorming in de regenboog (onevenwichtige bogen)', 'wazige details in het gras aan de randen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch huisje onder een perfecte regenboog, zonder onverwachte keuzes of diepgang.",
-      "bestand": "images/a007199_7269.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7223,
-    "gemaakt": 7292,
+    "cycli": 7231,
+    "gemaakt": 7300,
     "gekozen": 1044,
-    "afgekeurd": 949,
-    "corpus": 69,
+    "afgekeurd": 950,
+    "corpus": 68,
     "notities": 356
   }
 }
