@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T01:00+02:00",
+  "bijgewerkt": "2026-08-15T01:15+02:00",
   "werk": [
     {
       "id": 7829,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7838,
+      "cyclus": 7772,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap (wilgentak boven water) en decoratief licht zonder eigen compositorisch standpunt.",
+      "bestand": "images/a007772_7838.webp"
+    },
+    {
+      "id": 7835,
+      "cyclus": 7769,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de perspectief van de molenwieken', 'Enkele onduidelijke details in de textuur van het hout']",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen) en de decoratieve, neutrale uitvoering zonder duidelijke compositorische keuze.",
+      "bestand": "images/a007769_7835.webp"
+    },
+    {
       "id": 7831,
       "cyclus": 7765,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en uitlijning', 'wazige randen rond sommige tekens']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder duidelijke intentie.",
       "bestand": "images/a007765_7831.webp"
-    },
-    {
-      "id": 7825,
-      "cyclus": 7759,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, water, eenden) met een decoratief, bijna naïef schilderstijl, zonder een duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007759_7825.webp"
-    },
-    {
-      "id": 7823,
-      "cyclus": 7757,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van bomen aan weerskanten van het water', 'Sommige takken van de bomen lijken onnatuurlijk vervormd of abrupt afgebroken']",
-      "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een molen en gracht, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007757_7823.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7768,
-    "gemaakt": 7833,
+    "cycli": 7775,
+    "gemaakt": 7840,
     "gekozen": 1140,
-    "afgekeurd": 1060,
-    "corpus": 68,
+    "afgekeurd": 1062,
+    "corpus": 67,
     "notities": 367
   }
 }
