@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T20:00+02:00",
+  "bijgewerkt": "2026-08-14T20:15+02:00",
   "werk": [
     {
       "id": 7696,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 7703,
+      "cyclus": 7637,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van het papier aan weerskanten van de deur', 'Watervlak mist subtiele dynamiek, wat het iets statisch maakt']",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen door een raam, met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a007637_7703.webp"
+    },
+    {
+      "id": 7702,
+      "cyclus": 7636,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolen ten opzichte van het landschap', 'Enkele handen en gezichten van kinderen zijn vaag of onvolledig gedetailleerd']",
+      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met windmolen en kinderen in een weelderig veld, geschilderd in een decoratieve, nostalgische stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007636_7702.webp"
+    },
+    {
       "id": 7697,
       "cyclus": 7631,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['Wazige texturen in de achtergrond (bomen, hek)', 'Inconsistent perspectief bij de tweede molen (te klein/te ver weg)', 'Detailverlies in schaduwen van de auto en de molen', 'Halo-effect rond de vlammen en rook']",
       "cliche_notities": "Molens en een verwoestend vuur in een typisch Nederlands landschap vormen een iconisch, bijna ansichtkaartachtig beeld zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a007631_7697.webp"
-    },
-    {
-      "id": 7692,
-      "cyclus": 7626,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflectie water/boom', 'lichte wazigheid in achtergrondvegetatie']",
-      "cliche_notities": "Klassiek landschap met wilg, brug en water herinnert aan traditionele ansichtkaarten van Nederlandse polderlandschappen.",
-      "bestand": "images/a007626_7692.webp"
-    },
-    {
-      "id": 7689,
-      "cyclus": 7623,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in schaduwval op bomen', 'lichte wazigheid in achtergrondtextuur']",
-      "cliche_notities": "Landschap met bloeiende bomen in diagonale compositie herinnert aan klassieke ansichtkaartmotieven zonder duidelijke persoonlijke interpretatie.",
-      "bestand": "images/a007623_7689.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7632,
-    "gemaakt": 7698,
+    "cycli": 7639,
+    "gemaakt": 7704,
     "gekozen": 1115,
-    "afgekeurd": 1034,
+    "afgekeurd": 1036,
     "corpus": 68,
     "notities": 364
   }
