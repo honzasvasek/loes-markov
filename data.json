@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T19:45+02:00",
+  "bijgewerkt": "2026-08-14T20:00+02:00",
   "werk": [
+    {
+      "id": 7696,
+      "titel": "Rook die vragen stelt",
+      "beschrijving": "Een gebroken keramisch vat staat centraal, met scherpe barsten die een V-vorm vormen en roetvlekken verspreid over het oppervlak. Uit de breuk stijgt een wolk rook op, getekend met spiraalvormige lijnen en donkere vlekken, die zich uitstrekt naar de bovenrand. Achter het vat bevinden zich traditionele daken met getextureerde pannen en schuine lijnen, getekend in fijne hachure. Vier onregelmatige stenen liggen verspreid op de voorgrond, met donkere schaduwen en kleine putjes. De achtergrond bestaat uit een vlakke, gestreepte horizon met kleine, rechthoekige vormen die lijken op afstandsbedieningen of blokken. Donkere en lichte grijstinten domineren, met scherpe contrasten tussen de roetvlekken en de witte ruimte. De compositie is dynamisch, met diagonale lijnen die de blik leiden van het vat naar de rook en de daken.",
+      "cyclus": 7630,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van daken achtergrond, lichte wazigheid in rookdetails",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht, maar een surrealistische compositie met persoonlijke keuzes",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007630_7696.webp"
+    },
+    {
+      "id": 7691,
+      "titel": "De kom die blijft staan",
+      "beschrijving": "Een witte, glanzende kom rust op een grijs, textuurrijk oppervlak dat lijkt op bevroren modder of verweerd beton. Een diepe, donkere spleet loopt diagonaal door het beeld, met scherpe randen en losse fragmenten die de illusie van een barst in ijs of aarde creëren. Achter de kom staan kale, slanke bomen met donkere stammen en takken die zich uitstrekken naar een vaag, nevelig landschap in de achtergrond. Kleinere details zoals een los stukje hout, een paar keizers en een subtiele, kronkelende lijn op het oppervlak voegen toe aan de onrustige, bijna verlaten sfeer. De kleuren zijn grotendeels gedempt, met accenten van donkerblauw en zwart in de spleet en de schaduwen, terwijl de kom een helder, reflecterend punt vormt in het beeld.",
+      "cyclus": 7625,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van de bomen aan de horizon, lichte wazigheid in de textuur van de sneeuw",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, denkbeeldige kwaliteit die boven een ansichtkaart uitstijgt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007625_7691.webp"
+    },
     {
       "id": 7685,
       "titel": "Waar het wit knapt",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007582_7648.webp"
-    },
-    {
-      "id": 7647,
-      "titel": "De golf die de drempel overstapt",
-      "beschrijving": "Twee donkerbruine houten deuren staan wijd open in een muur van onregelmatige, beige en grijze stenen, met een marmeren omlijsting. Achter de deuren is een zilverkleurige auto geparkeerd op een stenen terras, met aan weerskanten een gotisch venster en een steenblok met een vensterrooster. Voor de deuren golft een levendige, gestileerde blauwe golf met wit schuim en druppels, die de onderkant van het beeld vult. De golf lijkt de deuren te raken, met spatten die over de stenen vloer en de deuren zwellen. De achtergrond is helder en zonnig, met schaduwen die de diepte van de steen en de auto benadrukken.",
-      "cyclus": 7581,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een realistische achtergrond met een gestileerde, bijna cartoonachtige voorgrond, wat geen typische ansichtkaartcompositie is.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007581_7647.webp"
-    },
-    {
-      "id": 7637,
-      "titel": "Rook en zaadjes in diagonaal licht",
-      "beschrijving": "Een schuine, smalle strook wit scheidt een bruin-groene heuvel van een blauwe achtergrond, waar donkere silhouetten van bomen en struiken verspreid staan. Een witte, rookachtige vorm stijgt op in golven, met blauwe en witte tinten die zich vermengen met de lucht. Donkere, onregelmatige vlekken en strepen lopen door het landschap, met kleine zwarte stippen die als stenen of zaadjes verspreid lijken. De kleuren schuiven van warm bruin en roodbruin naar koel blauw en groen, met scherpe, diagonale lijnen die de compositie doorsnijden. De textuur is korrelig en textuurrijk, met zichtbare penseelstreken en een bijna korrelige structuur in de kleuren.",
-      "cyclus": 7571,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de horizonlijn', 'lichte wazigheid in de donkerblauwe bomen aan de linkerhorizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie met een focus op vorm en beweging in plaats van een herkenbaar landschap of onderwerp.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007571_7637.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7697,
+      "cyclus": 7631,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Wazige texturen in de achtergrond (bomen, hek)', 'Inconsistent perspectief bij de tweede molen (te klein/te ver weg)', 'Detailverlies in schaduwen van de auto en de molen', 'Halo-effect rond de vlammen en rook']",
+      "cliche_notities": "Molens en een verwoestend vuur in een typisch Nederlands landschap vormen een iconisch, bijna ansichtkaartachtig beeld zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007631_7697.webp"
+    },
+    {
+      "id": 7692,
+      "cyclus": 7626,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflectie water/boom', 'lichte wazigheid in achtergrondvegetatie']",
+      "cliche_notities": "Klassiek landschap met wilg, brug en water herinnert aan traditionele ansichtkaarten van Nederlandse polderlandschappen.",
+      "bestand": "images/a007626_7692.webp"
+    },
     {
       "id": 7689,
       "cyclus": 7623,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in schaduwval op bomen', 'lichte wazigheid in achtergrondtextuur']",
       "cliche_notities": "Landschap met bloeiende bomen in diagonale compositie herinnert aan klassieke ansichtkaartmotieven zonder duidelijke persoonlijke interpretatie.",
       "bestand": "images/a007623_7689.webp"
-    },
-    {
-      "id": 7678,
-      "cyclus": 7612,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de textuur van de muren (soms glad, soms korrelig) en een wat onnatuurlijke schaduw onder de wieken",
-      "cliche_notities": "Dit is een typische ansichtkaartbeeld van een Nederlandse molen, met een iconisch onderwerp en een decoratief perfect licht zonder duidelijke compositorische keuze.",
-      "bestand": "images/a007612_7678.webp"
-    },
-    {
-      "id": 7673,
-      "cyclus": 7607,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van schuine dakpannen', 'lichte wazigheid in achtergrondlandschap']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een verlaten boerenhuis onder een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007607_7673.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7625,
-    "gemaakt": 7691,
-    "gekozen": 1113,
-    "afgekeurd": 1032,
-    "corpus": 67,
+    "cycli": 7632,
+    "gemaakt": 7698,
+    "gekozen": 1115,
+    "afgekeurd": 1034,
+    "corpus": 68,
     "notities": 364
   }
 }
