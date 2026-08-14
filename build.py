@@ -207,8 +207,8 @@ def _verwerk_reeks(rijen: list[dict], breedte: int, voorvoegsel: str) -> list[di
 def main() -> None:
     parser = argparse.ArgumentParser()
     # Minder is hier beter: 24 werken + 8 afgekeurd + 24 notities werd één
-    # onoverzichtelijke muur. Negen beelden lezen als een keuze.
-    parser.add_argument("--aantal", type=int, default=9)
+    # onoverzichtelijke muur. Tien beelden lezen als een keuze.
+    parser.add_argument("--aantal", type=int, default=10)
     parser.add_argument("--afgekeurd", type=int, default=3)
     args = parser.parse_args()
 

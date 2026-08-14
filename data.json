@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T19:00+02:00",
+  "bijgewerkt": "2026-08-14T19:04+02:00",
   "werk": [
     {
       "id": 7661,
@@ -117,6 +117,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007551_7617.webp"
+    },
+    {
+      "id": 7614,
+      "titel": "De schaduw die blijft hangen",
+      "beschrijving": "Een donkerblauwe deur staat op zolder open in een ruimte met crèmekleurige muren en een vloer die overloopt in een woestijnschap. Buiten de deur strekt zich een horizon uit onder een oranje-rode hemel met zachte, wolkachtige vormen. De deur werpt een scherpe, donkere schaduw die diagonaal over de vloer loopt, terwijl het licht vanuit de opening de ruimte verlicht met een warme, gouden gloed. Een kleine, onduidelijke vorm ligt op de vloer naast de deur, mogelijk een stuk hout of een gereedschap. De compositie is rustig, met de deur als centraal punt dat de blik naar buiten leidt, waar de kleuren van de hemel overgaan in de lichtere tinten van het landschap.",
+      "cyclus": 7548,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, bijna surrealistische spanning tussen de deur en de lege ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007548_7614.webp"
     }
   ],
   "afgekeurd": [
@@ -313,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7606,
-    "gemaakt": 7671,
+    "cycli": 7607,
+    "gemaakt": 7672,
     "gekozen": 1108,
     "afgekeurd": 1029,
-    "corpus": 68,
+    "corpus": 69,
     "notities": 362
   }
 }

@@ -92,14 +92,14 @@ function toonWerk(werk) {
 }
 
 function werkHtml(w) {
-  // Titel en beschrijving, geen prompt: de prompt is machinerie en zei de
-  // bezoeker niets over het beeld. Wat er wél toe doet is hoe zij het noemt en
-  // wat zij erin ziet.
+  // Op het raster alleen de titel, geen prompt (machinerie, zei de bezoeker
+  // niets) en geen beschrijving (die staat pas bij het vergrote beeld — zie
+  // openLichtbak). Zo blijft het raster een overzicht in plaats van een
+  // muur tekst, en is de beschrijving de reden om te klikken.
   const titel = w.titel ? `<h3 class="titel">${esc(w.titel)}</h3>` : "";
   return `
     <figure><img src="${esc(w.bestand)}" loading="lazy" alt="${esc(w.beschrijving)}"></figure>
     ${titel}
-    <p class="gezien">${esc(w.beschrijving)}</p>
     <p class="cyclus">cyclus ${w.cyclus}</p>`;
 }
 
@@ -150,19 +150,38 @@ function toonEerder(lijst) {
 
 function toonIdentiteit(versies) {
   if (!versies.length) return;
-  $("identiteit-lijst").innerHTML = versies
-    .slice()
-    .reverse()
-    .map(
-      (v, i) => `
-      <details${i === 0 ? " open" : ""}>
-        <summary><span>${v.versie === 0 ? "grondslag" : "versie " + v.versie}</span><span>${
-          v.versie === 0 ? "vast" : i === 0 ? "nu" : "eerder"
-        }</span></summary>
-        <pre>${esc(v.tekst.replace(/^#.*\n/, "").trim())}</pre>
-      </details>`
-    )
-    .join("");
+  const nieuwsteEerst = versies.slice().reverse();
+  const grondslag = nieuwsteEerst.find((v) => v.versie === 0);
+  const persona = nieuwsteEerst.filter((v) => v.versie !== 0);
+  const huidige = persona[0];
+  const ouder = persona.slice(1);
+
+  const groot = (v, open, label) => `
+    <details${open ? " open" : ""}>
+      <summary><span>${v.versie === 0 ? "grondslag" : "versie " + v.versie}</span><span>${label}</span></summary>
+      <pre>${esc(v.tekst.replace(/^#.*\n/, "").trim())}</pre>
+    </details>`;
+
+  let html = "";
+  if (huidige) html += groot(huidige, true, "nu");
+  // Elke herziening voegt een versie toe, dus deze lijst groeit voor altijd —
+  // oudere versies daarom niet als steeds meer volle rijen, maar als een
+  // vaste, uitklapbare rij smalle labels: de sectie blijft even lang,
+  // hoeveel versies er ook bij komen.
+  if (ouder.length) {
+    html += `<div class="identiteit-ouder">${ouder
+      .map(
+        (v) => `
+        <details class="identiteit-mini">
+          <summary>v${v.versie}</summary>
+          <pre>${esc(v.tekst.replace(/^#.*\n/, "").trim())}</pre>
+        </details>`
+      )
+      .join("")}</div>`;
+  }
+  if (grondslag) html += groot(grondslag, false, "vast");
+
+  $("identiteit-lijst").innerHTML = html;
   $("identiteit").hidden = false;
 }
 
@@ -193,6 +212,11 @@ function openLichtbak(beeld) {
 function wireLichtbak() {
   const sluit = () => ($("lichtbak").hidden = true);
   $("lichtbak-sluit").addEventListener("click", sluit);
+  // Klik op de achtergrond sluit al; klik op het vergrote beeld zelf moet dat
+  // ook doen (dat is de hele interactie: klik erop, klik weer, terug naar de
+  // hoofdpagina), dus die krijgt een eigen listener in plaats van te bubbelen
+  // naar de figure/figcaption.
+  $("lichtbak-img").addEventListener("click", sluit);
   $("lichtbak").addEventListener("click", (e) => {
     if (e.target.id === "lichtbak") sluit();
   });
