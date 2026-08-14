@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T02:00+02:00",
+  "bijgewerkt": "2026-08-14T02:15+02:00",
   "werk": [
+    {
+      "id": 7205,
+      "titel": "Koper in het zand",
+      "beschrijving": "Een regenboog getekend met krijt op zand, met een glimmende koperkleurige lijn die de boog volgt. De kleuren rood, oranje, geel, groen, blauw en paars lopen soepel in elkaar over, met subtiele textuurverschillen door de krijtstrepen. Het zand vormt een neutrale, korrelige achtergrond die het contrast met de levendige kleuren versterkt. De koperen lijn voegt een onregelmatige, organische vorm toe aan de gestructureerde boog. Kleine zandkorrels en sporen van krijtpoeder zijn zichtbaar rond de tekening.",
+      "cyclus": 7135,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, close-up weergave van een regenboog met een ongewone textuur en compositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007135_7205.webp"
+    },
+    {
+      "id": 7199,
+      "titel": "Modder herinnert zich alles",
+      "beschrijving": "Een modderige, smalle loop van water snijdt door donkere, klompige aarde, omgeven door verspreide takjes en losse stenen. Drie metalen bekertjes liggen halfbegraven in de modder, waarvan één gebroken in scherven. De modder toont golvende patronen, veroorzaakt door stromend water, met kleine pootjes en sporen van beweging. De scène is monochroom, met scherp contrast tussen de natte, glanzende modder en de drogere, ruwe omgeving. Verspreid liggen kleine fragmenten van onherkenbaar afval, zoals plastic en metaal, door de aarde verspreid.",
+      "cyclus": 7129,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van modder vs. vuilnis (te scherp/te zacht)', 'Enkele takjes lijken artificieel geplaatst/herhaald']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op verwaarloosde, intieme details van verlaten ruimte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007129_7199.webp"
+    },
     {
       "id": 7186,
       "titel": "Vet dat stroomt door gras",
@@ -91,35 +117,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007082_7152.webp"
-    },
-    {
-      "id": 7146,
-      "titel": "Korrels in beweging",
-      "beschrijving": "Tegen een effen, lichtblauwe achtergrond lopen twee diagonale, parallelle banen van fijne, wit-pinkige korrels. De banen zijn niet rechtlijnig, maar hebben een lichte, organische golvende vorm, alsof ze met een zachte hand zijn getrokken. De korrels variëren in grootte en dichtheid, waardoor sommige delen van de banen voller en andere dunner lijken. De blauwe achtergrond heeft een subtiele textuur, die doet denken aan papier of een licht korrelig oppervlak. De compositie is minimalistisch, met de banen die de beeldvullende diagonale lijn vormen, van de linkerbovenhoek naar de rechteronderhoek. Er zijn geen andere vormen, kleuren of elementen aanwezig.",
-      "cyclus": 7076,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007076_7146.webp"
-    },
-    {
-      "id": 7126,
-      "titel": "Vonken in het zand",
-      "beschrijving": "Een verbrandde houten balk rust op zand, met een smalle strook oranje-gloeibare hitte en vonken die omhoog spatten. Het hout is zwartgeblakerd, met diepe barsten en een ruwe textuur. Rondom de balk liggen verspreid kleine donkere stenen en korrels zand, terwijl de achtergrond bestaat uit zachte, golvende zandduinen onder een heldere, neutrale hemel. Het licht valt schuin, waardoor de balk een donkere schaduw werpt en de vonken scherp afsteken tegen het zand.",
-      "cyclus": 7056,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een dynamisch moment in plaats van een statisch tafereel.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007056_7126.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7212,
+      "cyclus": 7142,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: zonsondergang over water met decoratief licht en geen duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007142_7212.webp"
+    },
     {
       "id": 7206,
       "cyclus": 7136,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsonderganglandschap, decoratief licht en geen duidelijke compositorische keuze.",
       "bestand": "images/a007132_7202.webp"
-    },
-    {
-      "id": 7201,
-      "cyclus": 7131,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een eigen standpunt.",
-      "bestand": "images/a007131_7201.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7138,
-    "gemaakt": 7207,
-    "gekozen": 1026,
-    "afgekeurd": 936,
-    "corpus": 70,
+    "cycli": 7147,
+    "gemaakt": 7216,
+    "gekozen": 1028,
+    "afgekeurd": 937,
+    "corpus": 71,
     "notities": 355
   }
 }
