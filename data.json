@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T04:00+02:00",
+  "bijgewerkt": "2026-08-14T04:15+02:00",
   "werk": [
     {
       "id": 7263,
@@ -121,6 +121,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7270,
+      "cyclus": 7200,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de schuur ten opzichte van de bomen', 'Enkele bladeren hebben onnatuurlijke, herhalende vormen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische boerderijscene, molens en een idyllisch landschap zonder duidelijke persoonlijke interpretatie.",
+      "bestand": "images/a007200_7270.webp"
+    },
+    {
       "id": 7269,
       "cyclus": 7199,
       "afkeuringsreden": "cliche",
@@ -137,15 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde structuur bord', 'inconsistent perspectief kop/autocapotte']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een surrealistische compositie met een eigen standpunt.",
       "bestand": "images/a007194_7264.webp"
-    },
-    {
-      "id": 7260,
-      "cyclus": 7190,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in takken boom (onlogische vertakkingen)', 'wazige overgang horizon/achtergrond']",
-      "cliche_notities": "Molen en boom in typisch Nederlands landschap met decoratief blauw licht, zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a007190_7260.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7200,
-    "gemaakt": 7269,
+    "cycli": 7209,
+    "gemaakt": 7278,
     "gekozen": 1041,
-    "afgekeurd": 947,
+    "afgekeurd": 948,
     "corpus": 70,
     "notities": 356
   }
