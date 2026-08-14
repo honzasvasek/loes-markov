@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T15:15+02:00",
+  "bijgewerkt": "2026-08-14T15:30+02:00",
   "werk": [
+    {
+      "id": 7578,
+      "titel": "Waar het licht blijft hangen",
+      "beschrijving": "Een smalle, kronkelpad van bruin en beige loopt door een weelderig landschap van hoge, groene en oranje grassen. Donkere, slingerende takken en stengels snijden door het beeld, met hier en daar kleine groene bladeren en oranje bloemachtige vormen. De achtergrond bestaat uit een zachte, vaag getekende horizon met bruine en groene tinten, waar een lichtgekleurde hemel boven hangt. Schaduwen van het gras vallen lang en donker over het pad, terwijl de kleuren van het landschap overlopen in warme, aardse tonen. Witte en gele vlekken suggereren licht dat door het gras valt.",
+      "cyclus": 7511,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van het pad (verdwijnt te scherp aan horizon)', 'enkele grashalmen hebben onnatuurlijke, herhalende vormen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of decoratief licht; de compositie kiest voor een ongemakkelijk schuine pad met ongelijkmatige details, wat geen bevestigend effect heeft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007511_7578.webp"
+    },
+    {
+      "id": 7575,
+      "titel": "Rook die de golven kust",
+      "beschrijving": "Een scheur in een wit oppervlak onthult een oceaan met donkerblauwe golven die zachtjes breken op een strand met nat zand en kleine stenen. Wit schuim omzoomt de golven, terwijl een dunne, witte rookstraal verticaal door het midden van het beeld stijgt en zich in slingerende lijnen ontbindt. De horizon is recht en ver weg, met een lichtgrijze hemel die overgaat in het water. De randen van de scheur zijn onregelmatig en wat versleten, met schaduwen die diepte suggereren. De compositie is verticaal, met de oceaan die de meeste ruimte inneemt en de rook als een subtiele, bewegende as.",
+      "cyclus": 7508,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een originele compositie met de rook als centraal motief en de scheur in het papier, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007508_7575.webp"
+    },
     {
       "id": 7563,
       "titel": "Rook die de horizon kust",
@@ -91,61 +117,35 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007463_7531.webp"
-    },
-    {
-      "id": 7525,
-      "titel": "Betonschil met wortels",
-      "beschrijving": "Een betonnen overkapping met schuine lijnen en hoekige steunen omhult een donkere, rechthoekige opening, omringd door groene en blauwe waterverfachtige vlekken die planten en bomen suggereren. De muren zijn getextureerd met grijze en blauwe tinten, terwijl de vloer een lichtere, bijna witte kleur heeft met subtiele blauwe en bruine vlekken. Kleinere plantjes met ronde en langwerpige bladeren en watervlekken in groen, blauw en oranje groeien langs de randen van de vloer en bij de basis van de steunen. De achtergrond toont een lichte hemel met zachte blauwe en witte tinten, en de bovenkant van de overkapping heeft groene en gele vlekken die bladeren en mos doen denken. De compositie combineert harde architectonische vormen met organische, vloeiende textuur en kleur.",
-      "cyclus": 7457,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief bij de hoek van het dak; lichte wazigheid in de schaduwpartijen van de muur",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigen, ongemakkelijke schoonheid met schuine lijnen en kromme handvatten",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007457_7525.webp"
-    },
-    {
-      "id": 7520,
-      "titel": "Waar het water stilstaat",
-      "beschrijving": "Donkere, ruwe rotsen met oneffenheden en gaten omringen een smalle, kronkelende strook water die zacht stroomt. Het water heeft een zijdezachte, wazige textuur door de lange belichting, met lichte en donkere golven die zich door de rotsen slingeren. Kleinere keizers en kiezels liggen verspreid rondom, sommige nat en glanzend, andere droog en mat. De rotsen hebben een onregelmatige vorm, met scherpe randen en gladde, door water geslepen delen. Bellen lucht zweven in het water, vooral bij de rotsen waar het water stiller staat. De compositie is dynamisch, met het water dat de blik door het beeld leidt tussen de rotsen door. De sfeer is kalm en bijstillend, met een gevoel van eenzaamheid en onverstoordheid.",
-      "cyclus": 7452,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op textuur en beweging zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007452_7520.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7569,
-      "cyclus": 7502,
+      "id": 7582,
+      "cyclus": 7515,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in takstructuren bovenaan, lichte wazigheid in achtergrondboom",
-      "cliche_notities": "Winterlandschap met zonsondergang door bomen is een klassiek ansichtkaartmotief zonder duidelijke persoonlijke inval",
-      "bestand": "images/a007502_7569.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een kerk als iconisch onderwerp, centraal geplaatst met een ideale lichtval en geen duidelijke compositorische keuze die verder gaat dan de genre conventies.",
+      "bestand": "images/a007515_7582.webp"
     },
     {
-      "id": 7564,
-      "cyclus": 7497,
+      "id": 7581,
+      "cyclus": 7514,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in schaduwen bij de kerk (linker- en rechterkant verschillend)",
-      "cliche_notities": "Kerk met toren en kruis in een winterlandschap is een iconisch motief, met decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a007497_7564.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische zonsondergang over water met perfecte gouden uur-licht en een horizontale horizonlijn zonder onverwachte compositorische keuzes.",
+      "bestand": "images/a007514_7581.webp"
     },
     {
-      "id": 7560,
-      "cyclus": 7493,
+      "id": 7580,
+      "cyclus": 7513,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een eigen standpunt.",
-      "bestand": "images/a007493_7560.webp"
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde tekst (onleesbaar/grammaticaal onjuist)', 'wazige textuur in landschap', 'inconsistent perspectief (water/horizon)']",
+      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de compositie is fragmenteerd en de tekst voegt een onontcijferbare laag toe.",
+      "bestand": "images/a007513_7580.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7509,
-    "gemaakt": 7576,
-    "gekozen": 1088,
-    "afgekeurd": 1003,
-    "corpus": 68,
+    "cycli": 7516,
+    "gemaakt": 7583,
+    "gekozen": 1090,
+    "afgekeurd": 1006,
+    "corpus": 69,
     "notities": 361
   }
 }
