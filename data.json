@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T01:45+02:00",
+  "bijgewerkt": "2026-08-14T02:00+02:00",
   "werk": [
     {
       "id": 7186,
@@ -121,31 +121,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 7197,
-      "cyclus": 7127,
+      "id": 7206,
+      "cyclus": 7136,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in perspectief van de weg', 'wazige overgang tussen horizon en lucht']",
+      "cliche_notities": "Dit is een typisch landschapsmotief met een weg die zich uitstrekt naar de horizon, geschilderd in een decoratieve, rustige stijl zonder duidelijke compositorische keuze.",
+      "bestand": "images/a007136_7206.webp"
+    },
+    {
+      "id": 7202,
+      "cyclus": 7132,
       "afkeuringsreden": "cliche",
       "tech_score": 9.0,
       "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse architectuur, een gracht en een perfecte zonsondergang, zonder duidelijke compositorische keuzes die beyond het cliché gaan.",
-      "bestand": "images/a007127_7197.webp"
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsonderganglandschap, decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a007132_7202.webp"
     },
     {
-      "id": 7196,
-      "cyclus": 7126,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van gras aan linker- en rechterrand', 'Subtiele halo rond regenboog in bovenste deel']",
-      "cliche_notities": "Regenboog en grasland vormen een klassiek, decoratief motief zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007126_7196.webp"
-    },
-    {
-      "id": 7195,
-      "cyclus": 7125,
+      "id": 7201,
+      "cyclus": 7131,
       "afkeuringsreden": "techniek",
       "tech_score": 3.0,
       "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met sporen van interactie.",
-      "bestand": "images/a007125_7195.webp"
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een eigen standpunt.",
+      "bestand": "images/a007131_7201.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7131,
-    "gemaakt": 7200,
+    "cycli": 7138,
+    "gemaakt": 7207,
     "gekozen": 1026,
-    "afgekeurd": 933,
-    "corpus": 71,
+    "afgekeurd": 936,
+    "corpus": 70,
     "notities": 355
   }
 }
