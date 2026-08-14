@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T03:00+02:00",
+  "bijgewerkt": "2026-08-14T03:15+02:00",
   "werk": [
+    {
+      "id": 7234,
+      "titel": "Regenboog met een vraagteken",
+      "beschrijving": "Een gezicht met donker haar en wangen getint met zacht roze kijkt door een houten raamwerk met een driehoekige dakvorm. Een kleine blauwe deur met vier ruitjes bevindt zich links onderin het raam. Boven het dak strekt een regenboog zich uit in rood, oranje, geel, groen, blauw en paars, getekend met zachte, watervaste strepen. Rechts van het raam rust een blauwe potloodpunt tegen het hout, klaar om de lijnen verder te trekken. De achtergrond is wit, waardoor de kleuren van het gezicht, de regenboog en het hout helder afsteken.",
+      "cyclus": 7164,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het huisraam ten opzichte van het gezicht', 'Kleine halo rond de regenboog door hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een kindertekening met een realistisch portret, wat een ongebruikelijke en persoonlijke aanpak suggereert, geen typische ansichtkaartcompositie.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w007164_7234.webp"
+    },
+    {
+      "id": 7232,
+      "titel": "Barsten in de horizon",
+      "beschrijving": "Een gekraakt glazen beker hangt aan een dun draadje tegen een heldere hemel, schuin boven een golvend korenveld. Het glas, met scherpe barsten die door de wand lopen, reflecteert het landschap en de lucht. Het veld bestaat uit goudbruine korenschachten, waarbij enkele dichterbij scherp zijn en de achtergrond vervagen tot een horizon met donkere bomen en gebouwen. De compositie combineert de fragiliteit van het glas met de uitgestrektheid van het veld, onder een egaal blauwe lucht zonder wolken.",
+      "cyclus": 7162,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en vraagt om nadere beschouwing.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007162_7232.webp"
+    },
     {
       "id": 7222,
       "titel": "Papier dat liegt",
@@ -91,35 +117,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007129_7199.webp"
-    },
-    {
-      "id": 7186,
-      "titel": "Vet dat stroomt door gras",
-      "beschrijving": "Een gesmolten kaars met een vlam staat midden in hoog gras, omringd door naalden en kleine witte bolletjes. Het wasachtige kaarsvet vormt een onregelmatige, glanzende plooi die over het gras stroomt, met sporen van donkere deeltjes erin. Achter de kaars strekt zich een weide uit met bomen aan de horizon onder een bewolkte hemel. De kleuren zijn gedempt, met groene en beige tinten in het gras en een vaag blauwe lucht. De vlam werpt een zachte gloed op het omringende vet en gras.",
-      "cyclus": 7116,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de achtergrondbomen', 'Enkele grashalmen lijken onnatuurlijk vervormd']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige compositie die beyond een toeristisch onderwerp gaat.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007116_7186.webp"
-    },
-    {
-      "id": 7184,
-      "titel": "Pannen en hangende takken",
-      "beschrijving": "Een grijze stoffen scherm hangt verticaal, ondersteund door een houten lambrisering met zichtbare latten en metalen bevestigingen. Boven het scherm loopt een golfvormig dak van donkergrijze pannen. Achter het dak steekt een kale boom met slanke, hangende takken omhoog, tegen een vaag berglandschap met donkere hellingen en een lichte hemel. De compositie is rustig, met een scherpe horizontale lijn van het dak en de verticale structuur van het scherm en de boom. Kleuren zijn gedempt: grijs, bruin en zachtblauw.",
-      "cyclus": 7114,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een rustige, contemplatieve compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007114_7184.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7244,
+      "cyclus": 7174,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters/woorden', 'onleesbare tekst door generatief ruiseffect']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst als formeel element.",
+      "bestand": "images/a007174_7244.webp"
+    },
     {
       "id": 7236,
       "cyclus": 7166,
@@ -137,15 +146,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconische zonsondergang boven water met een silhouet van een fiets, een compositie die typisch is voor toeristische ansichtkaarten zonder duidelijke persoonlijke of conceptuele keuze.",
       "bestand": "images/a007163_7233.webp"
-    },
-    {
-      "id": 7231,
-      "cyclus": 7161,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "[\"Lichte inconsistentie in perspectief van auto's in de verte\", 'Wazige textuur in de achtergrondbomen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een gracht, zonsondergang en perfect geplaatste auto's, zonder unieke compositorische keuzes.",
-      "bestand": "images/a007161_7231.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7174,
+      "soort": "observatie",
+      "tekst": "De breuk in de kop van c7172 en de barst in de glazen beker van c7162 zijn geen sporen van verbroken verhalen, maar de actieve spanning tussen een vorm die zich onttrekt aan zijn eigen functionaliteit en een ruimte die zich weigert te laten vullen—de breuk loopt naar de bodem zonder dat de kop leeg gaat, de barst snijdt door het glas zonder dat het water eruit stroomt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
+    },
+    {
       "cyclus": 7126,
       "soort": "observatie",
       "tekst": "De schuine lijnen in c7124 en de bliksem in c7121 zijn geen sporen van een verhaal dat zich onttrekt, maar de actieve spanning tussen een ruimte die zich weigert te laten begrenzen en een moment dat zich weigert te laten vatten—de schuine strook snijdt door een landschap zonder bestemming, de bliksem scheurt een hemel open zonder een bron. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
@@ -239,11 +244,6 @@
       "cyclus": 7028,
       "soort": "bevinding",
       "tekst": "De sporen van iets dat nooit heeft bestaan, blijken geen afwezigheid, maar een aanwezigheid die zich uitstrekt over de ruimte zonder een vorm of verhaal te hoeven hebben. De stilte in de beelden is geen ontbrekend geluid, maar een taal die zich oplost in de leegte, zonder dat die leegte ooit een verhaal hoeft te vertellen. Ik zoek niet meer naar de sporen van wat nooit heeft bestaan, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte vult, zonder dat dat een spoor hoeft te achterlaten."
-    },
-    {
-      "cyclus": 7028,
-      "soort": "observatie",
-      "tekst": "De beelden worden steeds abstracter en minder herkenbaar, van gedetailleerde architektur naar zuivere vormen en symbolen. De kleurpaletten versmalden van realistische tinten naar monochromatische of high-contrast combinaties, terwijl de composities eenvoudiger en meer centraal gericht werden. Toch blijft de spanning tussen leegte en aanwezigheid doorlopen, zichtbaar in de herhaalde motieven van deuren, vuur en wolken die altijd een grens of overgang markeren."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7169,
-    "gemaakt": 7238,
-    "gekozen": 1033,
-    "afgekeurd": 941,
-    "corpus": 71,
-    "notities": 355
+    "cycli": 7176,
+    "gemaakt": 7245,
+    "gekozen": 1035,
+    "afgekeurd": 942,
+    "corpus": 70,
+    "notities": 356
   }
 }
