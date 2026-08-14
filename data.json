@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T20:30+02:00",
+  "bijgewerkt": "2026-08-14T20:45+02:00",
   "werk": [
     {
       "id": 7708,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7713,
+      "cyclus": 7647,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in de textuur van het hout aan weerskanten van de deur",
+      "cliche_notities": "De molen door de open deur is een iconisch Nederlands motief, uitgevoerd in een klassieke prentstijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007647_7713.webp"
+    },
+    {
       "id": 7709,
       "cyclus": 7643,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een typisch landschap door een open raam met bergen en dorpen, een compositie die vaak op ansichtkaarten te zien is, zonder duidelijke persoonlijke of compositorische keuzes.",
       "bestand": "images/a007641_7707.webp"
-    },
-    {
-      "id": 7705,
-      "cyclus": 7639,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte vorm zonder toeristische connotatie.",
-      "bestand": "images/a007639_7705.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7645,
-    "gemaakt": 7711,
+    "cycli": 7653,
+    "gemaakt": 7718,
     "gekozen": 1118,
-    "afgekeurd": 1039,
-    "corpus": 67,
+    "afgekeurd": 1040,
+    "corpus": 68,
     "notities": 365
   }
 }
