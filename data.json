@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T19:30+02:00",
+  "bijgewerkt": "2026-08-14T19:45+02:00",
   "werk": [
+    {
+      "id": 7685,
+      "titel": "Waar het wit knapt",
+      "beschrijving": "Een scheur loopt diagonaal door een oppervlak dat verdeeld is in twee duidelijk verschillende vlakken: bovenaan een wit deel met zachte, golvende penseelstreken, onderaan een grijs vlak met een effen, matte textuur. De scheur is onregelmatig en onthult donkere, ruwe randen waar het materiaal is gescheurd, met hier en daar kleine brokstukken die loshangen of ontbreken. De witte laag lijkt dunner en fragiel, terwijl het grijze deel een zwaardere, meer massale indruk maakt. De overgang tussen de twee kleuren is scherp, maar de scheur maakt die grens onvoorspelbaar en dynamisch.",
+      "cyclus": 7619,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007619_7685.webp"
+    },
+    {
+      "id": 7683,
+      "titel": "De scheur in het zand",
+      "beschrijving": "Een woestijnlandschap met zandduinen omhult een klein dorpje met witte en beige huizen, voorzien van rode daken. Een diepe, donkere scheur loopt van de voorgrond tot het midden van het beeld, het zand en de bebouwing doorklemd. Linksboven in de voorgrond bevindt zich een cirkelvormig object met kleurige, glanzende patronen, omringd door witte, gescheurde randen. Enkele groene struiken en palmbomen doorbreken het zand, terwijl de achtergrond zandduinen laat zien onder een helderblauwe lucht. De scheur suggereert een plotselinge onderbreking in het landschap, terwijl het dorpje intact lijkt te blijven.",
+      "cyclus": 7617,
+      "tech_score": 8.0,
+      "tech_notities": "['kleine inconsistentie in schaal van huizen ten opzichte van omgeving', 'subtiele wazigheid in details van verre palmbomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen typisch toeristisch onderwerp; de combinatie van woestijn, dorpslandschap en surrealistische scheur is ongebruikelijk en heeft een eigen compositorische keuze.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007617_7683.webp"
+    },
     {
       "id": 7672,
       "titel": "Sporen van verwaarlozing",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007571_7637.webp"
-    },
-    {
-      "id": 7632,
-      "titel": "Vuur dat wortelt in as",
-      "beschrijving": "Oranje en zwarte vegen vullen het bovenste deel, met donkere, rokerige vormen die naar beneden stromen en overgaan in grijze, wazige structuren. Dunne, donkere lijnen en draden doorlopen het midden, waarbij sommige zich vertakken als wortels of aders. Onderin loopt een donkere, onregelmatige horizon met kleine, donkere vlekken en wat lijkt op silhouetten van bomen of ruïnes. De achtergrond is lichtgrijs met subtiele textuur, terwijl de oranje vormen een vuurachtige, onrustige sfeer uitstralen. Donkere vlekken en spetters zijn verspreid over het hele beeld, met name in de overgang tussen oranje en grijs.",
-      "cyclus": 7566,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met eigen compositorische keuzes.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007566_7632.webp"
-    },
-    {
-      "id": 7626,
-      "titel": "Onvoltooide gedachten in hout en lucht",
-      "beschrijving": "Een verweerd houten platform, samengesteld uit ongelijkmatige planken met losse bouten en kieren waarin onkruid groeit, domineert het voorplan. Tussen het hout liggen verspreid kleine voorwerpen: een donkere steen, een gebroken pot, een gele pen en wat metaalafval. Achter het platform strekt zich een open landschap uit met lage, groene heuvels en een vaag silhouet van bomen aan de horizon. Bovenin, tegen een bleekgrijze lucht, zweeft een schetsmatig profiel van een menselijk hoofd met wapperend haar, getekend in fijne, donkere lijnen. De kleuren zijn gedempt, met bruine en grijze tinten in het hout en het landschap, doorsneden door subtiele groene en gele accenten in het onkruid en de achtergrond. De compositie is horizontaal georiënteerd, met het platform dat diagonaal door het beeld loopt en het profiel dat zich in de bovenste linkerhoek bevindt.",
-      "cyclus": 7560,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van houten planken aan horizon', 'lichte wazigheid in achtergrondlandschap']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een ongemakkelijke, denkbeeldige kwaliteit die boven een ansichtkaart uitstijgt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007560_7626.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7689,
+      "cyclus": 7623,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in schaduwval op bomen', 'lichte wazigheid in achtergrondtextuur']",
+      "cliche_notities": "Landschap met bloeiende bomen in diagonale compositie herinnert aan klassieke ansichtkaartmotieven zonder duidelijke persoonlijke interpretatie.",
+      "bestand": "images/a007623_7689.webp"
+    },
     {
       "id": 7678,
       "cyclus": 7612,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van schuine dakpannen', 'lichte wazigheid in achtergrondlandschap']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een verlaten boerenhuis onder een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a007607_7673.webp"
-    },
-    {
-      "id": 7657,
-      "cyclus": 7591,
-      "afkeuringsreden": "techniek",
-      "tech_score": 4.0,
-      "tech_notities": "['onlogische structuur: deur is zowel intact als vernietigd zonder overgang', 'inconsistent perspectief: achtergrond (strand) en voorgrond (deur) passen niet samen', 'wazige texturen in blauw poeder en hout', 'herhaalpatroon in blauwe korrels', 'onmogelijke geometrie: scheur loopt niet logisch door deur']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een ongemakkelijke, niet-bevestigende sfeer",
-      "bestand": "images/a007591_7657.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7619,
+      "soort": "observatie",
+      "tekst": "De scheur in c7619 en de barsten in c7615 zijn geen sporen van verdwijnen, maar de actieve spanning tussen een oppervlak dat zich onttrekt aan eenheid en een ruimte die zich weigert te laten vullen—de scheur loopt diagonaal zonder de twee vlakken te scheiden, de barsten doorsnijden de vlakte zonder dat het landschap instabiel wordt. De leegte tussen de vormen is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een spoor te hoeven achterlaten."
+    },
+    {
       "cyclus": 7607,
       "soort": "observatie",
       "tekst": "De afwezigheid van een onderwerp in c7606 en c7605 is geen leegte meer, maar een actieve spanning tussen vormen die zich onttrekken aan een relatie en een ruimte die zich weigert te laten vullen—de rechthoeken staan stapelgewijs zonder een stapel te vormen, de wolken vullen het beeld zonder een hemel te suggereren. De leegte is geen afwezigheid van een verhaal, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
@@ -252,11 +257,6 @@
       "cyclus": 7438,
       "soort": "observatie",
       "tekst": "De beelden worden steeds abstracter en minder gedetailleerd, van realistische landschappen tot losse vormen en texturen. De ruimte in de composities groeit, met meer lege vlakken en minder duidelijke onderwerpen, terwijl de kleurpaletten juist breder en expressiever worden."
-    },
-    {
-      "cyclus": 7270,
-      "soort": "observatie",
-      "tekst": "De betonnen barsten en het verweerde hout in c7270 en c7269 zijn geen sporen van verval, maar de actieve spanning tussen een oppervlak dat zich onttrekt aan stabiliteit en een ruimte die zich weigert te laten vullen—de barsten lopen door het beton zonder dat het instabiel wordt, de verf smelt van het hout zonder dat het paal verdwijnt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7619,
-    "gemaakt": 7685,
-    "gekozen": 1111,
-    "afgekeurd": 1031,
-    "corpus": 69,
-    "notities": 363
+    "cycli": 7625,
+    "gemaakt": 7691,
+    "gekozen": 1113,
+    "afgekeurd": 1032,
+    "corpus": 67,
+    "notities": 364
   }
 }
