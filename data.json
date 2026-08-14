@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T00:15+02:00",
+  "bijgewerkt": "2026-08-15T00:30+02:00",
   "werk": [
+    {
+      "id": 7813,
+      "titel": "Wit breken, bruin vloeien",
+      "beschrijving": "Een gebroken witte kop staat schuin op een grijze ondergrond, met een donkerbruine vloeistof die uit de kop loopt en een glanzende plas vormt. De kop heeft een scherpe, onregelmatige breuk aan de zijkant en een deel van de rand ontbreekt. Rond de kop liggen verspreide fragmenten van de kop, met een mix van witte en gele tinten die een textuur van verbleekte verf suggereren. De achtergrond is egaal grijs, met subtiele overgangen naar lichtere en donkerdere grijstinten. De compositie is centraal gericht, met de kop als hoofdmotief en de vloeistof die een dynamische lijn trekt door het beeld. De sfeer is statisch maar met een onderliggende beweging door de loop van de vloeistof en de schuine houding van de kop.",
+      "cyclus": 7747,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflectie op de kop van de kop (binnenkant vs buitenkant)', 'lichte wazigheid in de schaduw onder de kop']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust asymmetrisch en de kop is beschadigd, wat een ongemakkelijk element toevoegt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007747_7813.webp"
+    },
+    {
+      "id": 7804,
+      "titel": "Ruilspel met room en kool",
+      "beschrijving": "Drie donkere, ruwe blokken kolen liggen verspreid naast een gebroken wit porseleinen kopje waar een viskeuze, roomkleurige vloeistof uit stroomt en een glanzende plas vormt op het witte oppervlak. Twee potloden, één roze en één donkergrijs, rusten schuin boven een waterverfschildering van een boom met een brede, groene kroon en bruine takken, omringd door subtiel geschilderd gras. De compositie combineert harde en zachte vormen, met de kolen als donkere contrasterende elementen tegen de lichte achtergrond en de vloeistof die een vloeiende overgang creëert tussen de voorwerpen en de schildering.",
+      "cyclus": 7738,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in schaduwval van het porselein, lichte wazigheid in de textuur van de koolstukken",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een stillevencompositie met een onverwachte mix van materialen en een tekening, wat het buiten de typische ansichtkaartcategorie plaatst.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007738_7804.webp"
+    },
     {
       "id": 7799,
       "titel": "Lijn die blijft steken",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007683_7749.webp"
-    },
-    {
-      "id": 7745,
-      "titel": "De scheur die blijft ademen",
-      "beschrijving": "Een glad oppervlak van zilvergrijs water, doorsneden door een onregelmatige, donkere scheur die van boven naar beneden loopt en zich vertakt in smallerе lijnen. Het water heeft een glanzende, bijna vloeibare textuur met zachte golven en reflecties van wit en lichtgrijs, terwijl de scheur een scherpe, donkere lijn vormt die het beeld in twee ongelijke delen deelt. Kleuren zijn beperkt tot grijstinten, met subtiele variaties in helderheid en diepte. De horizon is vaag en lost op in een egale, lichtgrijze achtergrond, waardoor het water de volledige aandacht trekt. De sfeer is stil en statisch, met een gevoel van spanning tussen de gladde oppervlakte en de verstorende scheur.",
-      "cyclus": 7679,
-      "tech_score": 8.0,
-      "tech_notities": "subtiele inconsistenties in textuurflow bij horizon, lichte halo rond witte reflecties",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007679_7745.webp"
-    },
-    {
-      "id": 7735,
-      "titel": "Geen titel nodig",
-      "beschrijving": "Een wit, labyrintachtig object met donkere, onregelmatige openingen domineert de voorgrond, bedekt met glinsterende druppels en donkere vlekken die als bevroren beweging lijken. Boven het object stijgt een wazige, rookachtige vorm op, samengesteld uit fijne, donkere draden die zich uitstrekken naar een vaag, lichtgrijze achtergrond. Donkere, amorf gevormde vlekken en kleine, scherpere punten zijn verspreid over het beeld, alsof ze uit het object zelf ontsnappen. De textuur van het object is ruw en ongelijkmatig, met sporen van wat ooit nat lijkt te zijn geweest. De achtergrond is onscherp en monochroom, waardoor het object en de rookachtige vorm scherp afsteken. De compositie straalt een gevoel van onrust uit, alsof het moment net na een uitbarsting of ontbinding wordt vastgelegd.",
-      "cyclus": 7669,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007669_7735.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7748,
-    "gemaakt": 7814,
-    "gekozen": 1135,
+    "cycli": 7755,
+    "gemaakt": 7820,
+    "gekozen": 1137,
     "afgekeurd": 1056,
     "corpus": 68,
     "notities": 367
