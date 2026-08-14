@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T18:15+02:00",
+  "bijgewerkt": "2026-08-14T18:30+02:00",
   "werk": [
     {
       "id": 7648,
@@ -121,31 +121,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 7653,
-      "cyclus": 7587,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch uitzicht op de oceaan door een open deur met perfecte belichting en geen duidelijke compositorische keuze.",
-      "bestand": "images/a007587_7653.webp"
+      "id": 7657,
+      "cyclus": 7591,
+      "afkeuringsreden": "techniek",
+      "tech_score": 4.0,
+      "tech_notities": "['onlogische structuur: deur is zowel intact als vernietigd zonder overgang', 'inconsistent perspectief: achtergrond (strand) en voorgrond (deur) passen niet samen', 'wazige texturen in blauw poeder en hout', 'herhaalpatroon in blauwe korrels', 'onmogelijke geometrie: scheur loopt niet logisch door deur']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een ongemakkelijke, niet-bevestigende sfeer",
+      "bestand": "images/a007591_7657.webp"
     },
     {
-      "id": 7651,
-      "cyclus": 7585,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch zeelandschap met perfecte zonsondergangstransformatie en geen duidelijke compositorische keuze beyond het klassieke horizon-2/3-regel.",
-      "bestand": "images/a007585_7651.webp"
+      "id": 7656,
+      "cyclus": 7590,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met symbolische elementen.",
+      "bestand": "images/a007590_7656.webp"
     },
     {
-      "id": 7649,
-      "cyclus": 7583,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Molens in een landschap met decoratief licht en geen duidelijke compositorische keuze maken dit een typische ansichtkaart.",
-      "bestand": "images/a007583_7649.webp"
+      "id": 7654,
+      "cyclus": 7588,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "tekst/tekens in beeld",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een dynamische compositie met een eigen standpunt.",
+      "bestand": "images/a007588_7654.webp"
     }
   ],
   "onderzoek": {
@@ -313,10 +313,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7588,
-    "gemaakt": 7653,
+    "cycli": 7594,
+    "gemaakt": 7659,
     "gekozen": 1105,
-    "afgekeurd": 1026,
+    "afgekeurd": 1029,
     "corpus": 68,
     "notities": 362
   }
