@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-14T17:15+02:00",
+  "bijgewerkt": "2026-08-14T17:30+02:00",
   "werk": [
     {
       "id": 7620,
@@ -121,31 +121,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 7622,
-      "cyclus": 7556,
+      "id": 7630,
+      "cyclus": 7564,
       "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch landschap, een kronkelend pad en een beek, uitgevoerd in een decoratieve waterverfstijl zonder duidelijke compositorische keuzes die verder gaan dan het bevestigen van een vertrouwbaar beeld.",
-      "bestand": "images/a007556_7622.webp"
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele vervorming in de houtstructuur van de deur (onrealistische scharnieren en spijkers)', 'lichte onconsistentie in perspectief van de deurlijst ten opzichte van de muur']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een open deur naar een idyllisch strand, met perfect licht en een iconisch onderwerp zonder eigen compositorische keuzes.",
+      "bestand": "images/a007564_7630.webp"
     },
     {
-      "id": 7612,
-      "cyclus": 7546,
+      "id": 7629,
+      "cyclus": 7563,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflectie van de molen in het water', 'lichte wazigheid in de achtergrondvegetatie']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, een boom en water, uitgevoerd in een decoratieve waterverfstijl zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a007546_7612.webp"
+      "tech_notities": "['subtiele inconsistenties in reflecties van bomen in water', 'lichte vervorming van snavels bij twee ganzen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische ganzen op water en een serene achtergrond, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007563_7629.webp"
     },
     {
-      "id": 7608,
-      "cyclus": 7542,
+      "id": 7627,
+      "cyclus": 7561,
       "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief', 'wazige texturen']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, verontrustende sfeer met een scheur in het beeld.",
-      "bestand": "images/a007542_7608.webp"
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld combineert een klok met golven in een surrealistische compositie, geen typisch iconisch onderwerp.",
+      "bestand": "images/a007561_7627.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7561,
-    "gemaakt": 7626,
+    "cycli": 7567,
+    "gemaakt": 7632,
     "gekozen": 1101,
-    "afgekeurd": 1017,
-    "corpus": 69,
+    "afgekeurd": 1020,
+    "corpus": 68,
     "notities": 362
   }
 }
