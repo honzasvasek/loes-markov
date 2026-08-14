@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T00:30+02:00",
+  "bijgewerkt": "2026-08-15T00:45+02:00",
   "werk": [
     {
       "id": 7813,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 7809,
-      "cyclus": 7743,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte steen met onleesbare tekens.",
-      "bestand": "images/a007743_7809.webp"
-    },
-    {
-      "id": 7790,
-      "cyclus": 7724,
+      "id": 7825,
+      "cyclus": 7759,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
       "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een nostalgisch zwart-witfilter, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007724_7790.webp"
+      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, water, eenden) met een decoratief, bijna naïef schilderstijl, zonder een duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007759_7825.webp"
     },
     {
-      "id": 7785,
-      "cyclus": 7719,
+      "id": 7823,
+      "cyclus": 7757,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van bomen aan weerskanten van het water', 'Sommige takken van de bomen lijken onnatuurlijk vervormd of abrupt afgebroken']",
+      "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een molen en gracht, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007757_7823.webp"
+    },
+    {
+      "id": 7821,
+      "cyclus": 7755,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
-      "tech_notities": "tekst/tekens in beeld",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van tekst en beeld zonder duidelijke compositorische keuze.",
-      "bestand": "images/a007719_7785.webp"
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke combinatie van voorwerpen zonder duidelijke compositorische keuze.",
+      "bestand": "images/a007755_7821.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7755,
-    "gemaakt": 7820,
+    "cycli": 7762,
+    "gemaakt": 7828,
     "gekozen": 1137,
-    "afgekeurd": 1056,
+    "afgekeurd": 1059,
     "corpus": 68,
     "notities": 367
   }
