@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T10:00+02:00",
+  "bijgewerkt": "2026-08-14T10:15+02:00",
   "werk": [
+    {
+      "id": 7446,
+      "titel": "As die fluistert van wat resteert",
+      "beschrijving": "Een verbrand kruis van donker hout steekt schuin in een landschap van as en gloeiende kolen, omringd door oranje vlammen die woedend opvliegen. Achter de vlammen rijzen donkere, scherp getekende bergen op tegen een beige achtergrond, met kale bomen die zich silhouetachtig aftekenen. Verspreid liggen verkoolde houtblokken en keien op een ondergrond van donkere, korrelige as, waarbij enkele vlammen nog altijd tussen het vuurwerk dansen. De scène straalt een intense, bijna dreigende hitte uit, met een contrast tussen de woestijnachtige achtergrond en de vernietigende kracht van het vuur in het hier en nu.",
+      "cyclus": 7376,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van hout aan linker- en rechterkant', 'Vlammen in achtergrond iets te symmetrisch/herhalend']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch/toeristisch onderwerp en geen decoratief perfect licht; de compositie heeft een donkere, reflecterende sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007376_7446.webp"
+    },
+    {
+      "id": 7441,
+      "titel": "Verbrande handen",
+      "beschrijving": "Een hand pakt een donkere, verbrande houten plank vast die schuin tegen een lichte houten ladder rust. Rondom de ladder ligt een hoop zwart, verbrokkelde houtkool en kleine koolstukken verspreid over de vloer. De achtergrond wordt gevormd door een effen, blauwgrijze muur met subtiele textuur. De plank heeft een ruwe, gescheurde textuur met diepe barsten en donkere, verkoolde lagen. De houten ladder heeft een eenvoudige, functionele vorm met horizontale latten en zichtbare schroeven. De hand is lichtgekleurd en de vingers omvatten de plank stevig. Het contrast tussen het donkere hout en de lichte ladder en muur is opvallend.",
+      "cyclus": 7371,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is gericht op een conceptuele spanning tussen materiaal en ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007371_7441.webp"
+    },
     {
       "id": 7428,
       "titel": "Regenboog in metaal en hout",
@@ -91,32 +117,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007322_7392.webp"
-    },
-    {
-      "id": 7390,
-      "titel": "Rook tussen het groen",
-      "beschrijving": "Groen gras vult het beeld, met lange, slanke bladeren die in verschillende hoogtes en richtingen staan. Een wolk witte rook stijgt op uit het midden van het gras, waarbij de rook zich in zachte, wazige vormen uitstrekt en langzaam verdwijnt in de lucht. Het licht valt schuin op het gras, waardoor sommige delen heldergroen zijn en andere donkerder, met subtiele schaduwen die diepte geven. De rook contrasteert met de scherpe, duidelijke vormen van het gras en voegt een dynamisch element toe aan het tafereel.",
-      "cyclus": 7320,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvieuze compositie met rook en gras.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007320_7390.webp"
-    },
-    {
-      "id": 7385,
-      "titel": "Beton houdt zijn adem in",
-      "beschrijving": "Een verticale, donkergrijze paal steekt omhoog uit een lichtgrijze, betonnen vloer met subtiele krassen en slijtagepatronen. Rond de basis van de paal bevindt zich een cirkelvormige, iets donkerdere zone met een textuur die doet denken aan bevroren of nat beton. De paal werpt een scherpe, donkere schaduw die diagonaal over de vloer loopt, parallel aan de rand van het beeld. De compositie is minimalistisch, met de paal als centrale as en de schaduw die de leegte van de vloer doorsnijdt. De sfeer is statisch en bijna industriële koud, met een focus op geometrische vormen en contrast tussen licht en donker.",
-      "cyclus": 7315,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte relatie tussen vorm en ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007315_7385.webp"
     }
   ],
   "afgekeurd": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7376,
-    "gemaakt": 7445,
-    "gekozen": 1065,
+    "cycli": 7382,
+    "gemaakt": 7451,
+    "gekozen": 1067,
     "afgekeurd": 976,
-    "corpus": 68,
+    "corpus": 69,
     "notities": 357
   }
 }
