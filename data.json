@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T12:45+02:00",
+  "bijgewerkt": "2026-08-14T13:00+02:00",
   "werk": [
+    {
+      "id": 7512,
+      "titel": "Wit in de scheur",
+      "beschrijving": "Een brede, onregelmatige scheur loopt diagonaal door een grijze betonnen oppervlakte, van linksboven naar rechtsonder. De randen van de scheur zijn scherp en donker, met kleine stenen en puin verspreid langs de onderkant. Een horizontale naad snijdt de scheur dwars door, waarbij de betonplaten licht van elkaar afgaan. Het beton heeft een ruwe textuur met subtiele schaduwen en variaties in grijstinten. Kleine, witte bolletjes liggen verspreid binnen de scheur, vooral in het midden en onderste deel. De compositie is minimalistisch, met de scheur als enige dynamische lijn in een anderszins egaal vlak.",
+      "cyclus": 7444,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van beton aan weerskanten van scheur', 'lichte halo rond donkere spleet bij hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de abstracte spanning tussen vorm en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007444_7512.webp"
+    },
+    {
+      "id": 7508,
+      "titel": "Wat ligt achter die deur?",
+      "beschrijving": "Een houten deur met scharnieren is centraal geplaatst in een ruwe muur van donkere stenen en pleister. Door de open deur is een getekend landschap zichtbaar: glooiende heuvels met gestreepte velden, een kronkelend pad van kleine stenen, en verspreide vegetatie zoals palmbomen, struiken en naaldbomen. Rechtsboven staat een solitaire boom met uitgespreide takken. De achtergrond bestaat uit een egale, lichte hemel zonder details. Voor de deur liggen onregelmatige stenen plinten, deels bedekt met mos en bladeren. Het geheel heeft een zwart-wit textuur met scherp contrast tussen de donkere lijnen en lichte vlakken.",
+      "cyclus": 7439,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuur van muur rondom raam', 'kleine halo bij rand van raamkozijn']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze met raam als kader geeft eigen standpunt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007439_7508.webp"
+    },
     {
       "id": 7496,
       "titel": "Rook die de grens kust",
@@ -91,35 +117,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007401_7471.webp"
-    },
-    {
-      "id": 7469,
-      "titel": "Papier dat zwijgt",
-      "beschrijving": "Twee witte enveloppen liggen verspreid op een nat, donker oppervlak dat lijkt op nat zand of modder, met subtiele patronen van water en kleine stenen. Een van de enveloppen rust op een ruwe, donkere rots, terwijl de andere schuin op het natte oppervlak ligt. Het water vormt glanzende, golvende lijnen rond de enveloppen en de rots, met kleine belletjes en reflecties. De achtergrond bestaat uit een textuur van kleine steentjes en korrels, met af en toe een lichtere vlek. De compositie is minimalistisch, met een sterke focus op de contrasten tussen het witte papier, het donkere natuurmateriaal en de vloeibare dynamiek van het water.",
-      "cyclus": 7399,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte verhouding tussen voorwerpen en ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007399_7469.webp"
-    },
-    {
-      "id": 7458,
-      "titel": "Papier dat ademt",
-      "beschrijving": "Een wit vel papier hangt aan een touw, vastgezet met twee zwarte clipjes. Onderin is een onregelmatige scheur, waar doorheen een zwart-witlandschap zichtbaar is: een weide met lang gras, verspreide witte bloemen en in de verte bomen en struiken tegen een lichte hemel. Het gras in de voorgrond is gedetailleerd, met individuele stengels en zachte schaduwen. De scheur loopt diagonaal, waardoor het landschap lijkt te ontsnappen uit het papier. De achtergrond achter het vel is effen grijs, zonder afleiding.",
-      "cyclus": 7388,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap of decoratief perfect licht, maar een gedetailleerde close-up met een ongemakkelijke compositie door de scheur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007388_7458.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7517,
+      "cyclus": 7449,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld combineert iconische Nederlandse symbolen (molen, eenden, oranje wolken) in een decoratieve, ansichtkaartachtige compositie zonder eigen standpunt of onverwachte keuzes.",
+      "bestand": "images/a007449_7517.webp"
+    },
+    {
+      "id": 7515,
+      "cyclus": 7447,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische woestijnschap met zonsondergang en perfecte, decoratieve belichting zonder duidelijke compositorische keuze.",
+      "bestand": "images/a007447_7515.webp"
+    },
     {
       "id": 7510,
       "cyclus": 7442,
@@ -128,24 +146,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een typisch romantisch strandmotief met handgeschreven tekst in het zand, wat past bij een toeristische ansichtkaart zonder eigen compositorisch standpunt.",
       "bestand": "images/a007442_7510.webp"
-    },
-    {
-      "id": 7507,
-      "cyclus": 7438,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['kleine inconsistentie in perspectief van de wieken', 'lichte wazigheid in de textuur van de boom']",
-      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen met iconische elementen en decoratief licht.",
-      "bestand": "images/a007438_7507.webp"
-    },
-    {
-      "id": 7499,
-      "cyclus": 7430,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deuren ten opzichte van het landschap', 'Wazige details in de achtergrond bij de horizon']",
-      "cliche_notities": "Het beeld straalt een typisch ansichtkaart-gevoel uit met een iconische regenboog, kindergroep en idyllisch landschap zonder duidelijke compositorische keuze.",
-      "bestand": "images/a007430_7499.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7444,
-    "gemaakt": 7512,
-    "gekozen": 1077,
-    "afgekeurd": 987,
-    "corpus": 70,
+    "cycli": 7453,
+    "gemaakt": 7520,
+    "gekozen": 1079,
+    "afgekeurd": 989,
+    "corpus": 71,
     "notities": 360
   }
 }
