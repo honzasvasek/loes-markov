@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T01:15+02:00",
+  "bijgewerkt": "2026-08-15T01:30+02:00",
   "werk": [
+    {
+      "id": 7833,
+      "titel": "Rook die vraagt om antwoord",
+      "beschrijving": "Een donkere, doornige steel steekt schuin omhoog uit een bed van lang, slank gras, met aan de top een klein, donker vat waaruit rook opstijgt in wazige, golvende vormen. Rechts van de steel loopt een verticale, getextureerde strook met een diagonaal patroon, die de achtergrond scheidt van een vaag, lichtgrijze horizon. Het gras is fijn en wisselt van donker tot lichtgrijs, met enkele glinsterende draden die het licht vangen. De rook is dun en doorschijnend, met donkere en lichte lagen die zich vermengen met de achtergrond. De steel heeft scherpe, uitstekende doornen en een glanzende, bijna natte textuur. Het vat is smal bij de steel en wijdert uit naar boven, met een gladde, donkere oppervlakte. De achtergrond is onscherp, met hints van bomen of struiken aan de horizon.",
+      "cyclus": 7767,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, met een focus op leegte en ontbinding.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007767_7833.webp"
+    },
+    {
+      "id": 7832,
+      "titel": "Waar blijft de zevende?",
+      "beschrijving": "Vijf figuren lopen over een gebarsten oppervlak dat op bevroren grond lijkt, met aan weerskanten twee kerken: links een donkere, rechts een lichte met een kruis. Een diepe scheur loopt door het midden, gevuld met een kronkelende stroom bruin water dat glinstert. De figuren, getekend als donkere silhouetten, werpen lange schaduwen die in de barsten verdwijnen. Een zesde figuur staat beneden in de scheur, met de rug naar de kijker, omringd door modder en losse stenen. De achtergrond is egale, lichtgrijze lucht zonder details. Kleuren zijn beperkt tot zwart, wit, grijs en bruin, met subtiele witte highlights in het water. De compositie is symmetrisch opgebouwd rond de scheur, met de kerken als tegenpolen aan weerszijden. De sfeer is stil en verlaten, met een gevoel van afstandsbediening tussen de figuren en de architectuur.",
+      "cyclus": 7766,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke spanning tussen twee werelden zonder duidelijke richting.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007766_7832.webp"
+    },
     {
       "id": 7829,
       "titel": "Wat zit achter die kier?",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007725_7791.webp"
-    },
-    {
-      "id": 7778,
-      "titel": "Wat blijft hangen in druppels",
-      "beschrijving": "Dunne, donkere stengels reiken omhoog tegen een zachtroze achtergrond, met aan de bovenkant fijne, veerachtige pluimen die licht bewegen. Een enkele, glanzende waterdruppel hangt tussen de stengels, scherp en helder, terwijl andere druppels zachtjes naar beneden vallen. De achtergrond is vaag en wazig, met subtiele schaduwen van gras en onduidelijke vormen die diepte suggereren. De kleuren zijn gedempt, met bruine en roodbruine tinten die de stengels en pluimen omhullen, terwijl de waterdruppels een zilverachtige glans hebben. De compositie is verticaal, met de stengels die de hoogte van het beeld doorsnijden en de pluimen die zich uitstrekken naar de randen. De sfeer is rustig en stillerend, met een gevoel van stilte en afwezigheid van geluid.",
-      "cyclus": 7712,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte onregelmatigheid in textuur van achtergrond, maar niet storend",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaart-materiaal",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007712_7778.webp"
-    },
-    {
-      "id": 7777,
-      "titel": "Wit bloed door donker vlees",
-      "beschrijving": "Een smalle, kronkelende strook witte, melkachtige vloeistof snijdt door donkere, ruwe rotsen. De vloeistof vormt zachte, golvende patronen, onderbroken door kleine, donkere keien en pootjes. De rotsen aan weerszijden zijn donkergrijs tot zwart, met oneffenheden, gaten en losse stenen. Het contrast tussen de gladde, lichte vloeistof en de ruwe, donkere omgeving is scherp. De compositie leidt het oog langs de S-vormige loop van de vloeistof, die verdwijnt in de verte tussen de rotsen.",
-      "cyclus": 7711,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op abstracte beweging en textuur, niet op een bevestigend landschap.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007711_7777.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7846,
+      "cyclus": 7780,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte kaart met onleesbare tekst en een ongemakkelijke compositie.",
+      "bestand": "images/a007780_7846.webp"
+    },
     {
       "id": 7838,
       "cyclus": 7772,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in de perspectief van de molenwieken', 'Enkele onduidelijke details in de textuur van het hout']",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen) en de decoratieve, neutrale uitvoering zonder duidelijke compositorische keuze.",
       "bestand": "images/a007769_7835.webp"
-    },
-    {
-      "id": 7831,
-      "cyclus": 7765,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en uitlijning', 'wazige randen rond sommige tekens']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder duidelijke intentie.",
-      "bestand": "images/a007765_7831.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7775,
-    "gemaakt": 7840,
-    "gekozen": 1140,
-    "afgekeurd": 1062,
-    "corpus": 67,
+    "cycli": 7780,
+    "gemaakt": 7846,
+    "gekozen": 1142,
+    "afgekeurd": 1063,
+    "corpus": 66,
     "notities": 367
   }
 }
