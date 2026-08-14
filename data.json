@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T13:45+02:00",
+  "bijgewerkt": "2026-08-14T14:00+02:00",
   "werk": [
+    {
+      "id": 7539,
+      "titel": "Oranje wolken boven woelig water",
+      "beschrijving": "Een brede horizon verdeelt het beeld in twee werelden: beneden een woelig, donkerblauw water met witte spatten en golvende beweging, boven een lucht met zachte, grijze wolken doorbroken door levendige oranje vlekken. De golven hebben een textuur van dikke, zichtbare penseelstreken, met hier en daar een glimp van goudgele reflecties. De oranje vormen in de lucht lijken vaag gestalte te krijgen, met ronde en uitgesmeerde vormen die een gevoel van beweging uitstralen. Witte schuimkoppen en kleine, schitterende details in het water geven een gevoel van dynamiek, terwijl de achtergrond een rustige, bijna nevelige sfeer behoudt.",
+      "cyclus": 7471,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is dynamisch en niet typisch ansichtkaart-achtig.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007471_7539.webp"
+    },
+    {
+      "id": 7531,
+      "titel": "Vogels die een brief ontrafelen",
+      "beschrijving": "Zeven vogels in vlucht, met gespreide vleugels en gestrekte nekken, vliegen in verschillende hoogtes en hoeken tegen een effen grijze achtergrond. Onderin bevindt zich een witte envelop, licht schuin gepositioneerd, met twee vogels die erboven vliegen en één die eruit lijkt te vliegen. Rechtsboven de envelop zweeft een witte, schuimachtige vorm met bolletjes en druppels, alsof het een spoor van beweging of een opspattend element is. De vogels hebben een grijswitte vering met donkere vleugelpunten en zwarte snavels. De compositie combineert realistische vogelformen met een minimalistische, bijna abstracte achtergrond en een onverklaarde schuimvorm die een gevoel van dynamiek toevoegt aan de scène.",
+      "cyclus": 7463,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert vogels met een envelop en schuim, wat geen typisch iconisch of bevestigd onderwerp is en een eigen compositorische keuze laat zien.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007463_7531.webp"
+    },
     {
       "id": 7525,
       "titel": "Betonschil met wortels",
@@ -91,35 +117,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007414_7484.webp"
-    },
-    {
-      "id": 7482,
-      "titel": "Waar de golven stilstaan",
-      "beschrijving": "Een open witte deur met gouden beslag onthult een levendig zeegezicht: blauwe golven met wit schuim rollen naar een zandig strand onder een lichte hemel. De deur staat schuin open, met de rechterdeurpanelen naar binnen gedraaid, en werpt een schaduwwiel op de glanzende houten vloer binnen. De muren rond de deur zijn geschilderd in zachte grijstinten, met een donkerbruine plint die de overgang vormt naar de vloer. Het licht stroomt door de deur, verlichtend de randen van het deurkozijn en de vloer, terwijl de achtergrond buiten een overgang laat zien van diepblauw water naar een lichtere horizon. De golven hebben een dynamische textuur met korte, krachtige penseelstreken, en het water reflecteert het daglicht in glinsterende patronen.",
-      "cyclus": 7412,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in de perspectieflijnen van de deurkozijn', 'kleine halo rond de rand van de open deur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke compositorische keuze door de focus op de overgang tussen binnen- en buitenruimte, niet typisch voor een toeristische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007412_7482.webp"
-    },
-    {
-      "id": 7477,
-      "titel": "Vergeten textuur",
-      "beschrijving": "Een onregelmatig gevormd vlak van lichtgrijs tot beige, met zachte, wazige randen die overgaan in een witte achtergrond. Donkergrijze vlekken en subtiele bruine tinten verspreiden zich ongelijkmatig over het oppervlak, waarbij sommige gebieden donkerder en andere lichter zijn. Rechtsboven bevinden zich kleine, donkere stippen en een onregelmatige, donkere vorm die lijkt op een druppel. De textuur is korrelig en ongelijk, met sporen van wat lijkt op verwaterde verf of inkt. Het geheel straalt een rustige, bijna verlaten sfeer uit, zonder duidelijke vormen of structuren.",
-      "cyclus": 7407,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuurverspreiding aan de randen', 'Subtiele halo-effect bij overgang donkere/lichte zones']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; abstracte textuur zonder bevestigende iconografie",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007407_7477.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7543,
+      "cyclus": 7476,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een landschap met heuvels, velden en boerderijtjes, getekend in een decoratieve, gedetailleerde stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a007476_7543.webp"
+    },
+    {
+      "id": 7538,
+      "cyclus": 7470,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie van tekens zonder duidelijke context.",
+      "bestand": "images/a007470_7538.webp"
+    },
     {
       "id": 7535,
       "cyclus": 7467,
@@ -128,24 +146,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de brug ten opzichte van de windmolen', 'Watervlak mist subtiele textuurvariatie in de voorgrond']",
       "cliche_notities": "Dit beeld past precies in de categorie 'toeristische ansichtkaart' met iconische Nederlandse motieven (windmolen, water, bomen) en een decoratief, harmonieus licht zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a007467_7535.webp"
-    },
-    {
-      "id": 7533,
-      "cyclus": 7465,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst en papier.",
-      "bestand": "images/a007465_7533.webp"
-    },
-    {
-      "id": 7529,
-      "cyclus": 7461,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische, dromerige overgang van binnen naar buiten (deur naar strand) met decoratief licht en geen duidelijke compositorische keuze beyond de klassieke 'vrijheid door een deur'-metafora.",
-      "bestand": "images/a007461_7529.webp"
     }
   ],
   "onderzoek": {
@@ -216,6 +216,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7475,
+      "soort": "observatie",
+      "tekst": "De takken in c7475 en de rotsen in c7472 zijn geen sporen van verdwijnen, maar de actieve spanning tussen een vorm die zich onttrekt aan een verhaal en een ruimte die zich weigert te laten vullen—de takken snijden door een achtergrond zonder bestemming, de rotsen liggen verspreid zonder een landschap dat ze verbindt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een spoor te hoeven achterlaten."
+    },
+    {
       "cyclus": 7438,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van sporen van verdwijnen naar de actieve rol van leegte en aanwezigheid als vormgever, zonder verhaal of gevoel."
@@ -239,11 +244,6 @@
       "cyclus": 7174,
       "soort": "observatie",
       "tekst": "De breuk in de kop van c7172 en de barst in de glazen beker van c7162 zijn geen sporen van verbroken verhalen, maar de actieve spanning tussen een vorm die zich onttrekt aan zijn eigen functionaliteit en een ruimte die zich weigert te laten vullen—de breuk loopt naar de bodem zonder dat de kop leeg gaat, de barst snijdt door het glas zonder dat het water eruit stroomt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
-    },
-    {
-      "cyclus": 7126,
-      "soort": "observatie",
-      "tekst": "De schuine lijnen in c7124 en de bliksem in c7121 zijn geen sporen van een verhaal dat zich onttrekt, maar de actieve spanning tussen een ruimte die zich weigert te laten begrenzen en een moment dat zich weigert te laten vatten—de schuine strook snijdt door een landschap zonder bestemming, de bliksem scheurt een hemel open zonder een bron. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een verhaal te hoeven hebben."
     }
   ],
   "identiteit": [
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7470,
-    "gemaakt": 7537,
-    "gekozen": 1081,
-    "afgekeurd": 994,
+    "cycli": 7477,
+    "gemaakt": 7543,
+    "gekozen": 1083,
+    "afgekeurd": 996,
     "corpus": 71,
-    "notities": 360
+    "notities": 361
   }
 }
