@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-14T09:30+02:00",
+  "bijgewerkt": "2026-08-14T09:45+02:00",
   "werk": [
+    {
+      "id": 7428,
+      "titel": "Regenboog in metaal en hout",
+      "beschrijving": "Een hand houdt een mes vast met een houten steel versierd met verticale regenboogstrepen in paars, blauw, groen, geel, oranje en rood. Het metaal van de mespunt is zilverkleurig en glanst licht. De achtergrond bestaat uit een grijze, zachte stof met subtiel relief, die de kleurrijke steel benadrukt. De hand ligt diagonaal in beeld, met de vingers die de steel omvatten en de duim rustend op de bovenkant. Klein detail: aan de onderkant van de steel zitten drie donkere, ronde openingen. De compositie is eenvoudig, met het mes als centraal punt van interesse tegen de neutrale achtergrond.",
+      "cyclus": 7358,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp, maar een persoonlijke voorwerp met symbolische lading, gefotografeerd met een focus op textuur en aanwezigheid.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007358_7428.webp"
+    },
+    {
+      "id": 7426,
+      "titel": "Sporen in het zand",
+      "beschrijving": "Donker, nat zand vormt een glad oppervlak waar twee cirkelvormige patronen met stralen door een onzichtbare hand zijn getekend. De figuren, verbonden door rechte lijnen, stralen uit vanuit een centraal punt dat de overgang vormt tussen het natte zand en het zacht golpend water. Zilverachtige glans van het water omhult de tekening, terwijl kleine golven de randen zachtjes aanraken. Verspreide schelpen en een enkele draden zeewier liggen verspreid over het zand, waar het licht subtiel speelt op de natte textuur. De compositie balanceert tussen de organische vormen van het water en de geometrische precisie van de tekening.",
+      "cyclus": 7356,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstract spoor in het water, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007356_7426.webp"
+    },
     {
       "id": 7418,
       "titel": "Kop bij de drempel",
@@ -91,61 +117,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007315_7385.webp"
-    },
-    {
-      "id": 7376,
-      "titel": "Slijtage in houtvezels",
-      "beschrijving": "Een houten stoel staat schuin in beeld, getekend met donkere, krachtige strepen en vlekken die textuur en slijtage suggereren. Het zitvlak toont golvende patronen, alsof houtvezels door tijd en gebruik zijn vervormd. De rugleuning heeft verticale latten met een licht gebogen bovenkant, terwijl de poten stevig en recht zijn getekend. Schaduwen onder de stoel en aan de zijkant geven diepte, getrokken met snelle, wisselende strepen. De achtergrond is leeg en wit, waardoor de stoel centraal staat. Details zoals schroeven en hoekverbindingen zijn subtiel weergegeven.",
-      "cyclus": 7306,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij de achterste poot', 'Wazige textuur in de schaduw onder de stoel']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de stoel is gepositioneerd met een nadruk op structuur en ruimte, niet op een bevestigende compositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007306_7376.webp"
-    },
-    {
-      "id": 7372,
-      "titel": "Barst in de horizon",
-      "beschrijving": "Een verticale compositie met een donkerblauwe, wazige bovenkant die overgaat in een lichtere, onregelmatige horizonlijn. Daaronder bevindt zich een beige, textuurrijke ondergrond met donkere, vertakte patronen die lijken op barstjes of wortels. Een opvallende, witte bliksemflits snijdt schuin door de bovenste laag, met dunne, uitstralende lijnen. De onderkant toont subtiele kleurvariaties in bruin en grijs, met een watervlekken-effect dat de textuur versterkt. De sfeer is dynamisch en iets onrustigs, door de scherpe contrasten en organische vormen.",
-      "cyclus": 7302,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur overgang tussen hemel en grond', 'Enkele takken van de bliksem lijken onnatuurlijk scherp tegenover wazige omgeving']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open van karakter",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007302_7372.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7434,
-      "cyclus": 7364,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch zonsondergangsmotief met decoratief licht en geen duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007364_7434.webp"
+      "id": 7438,
+      "cyclus": 7368,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met persoonlijke keuzes.",
+      "bestand": "images/a007368_7438.webp"
     },
     {
-      "id": 7431,
-      "cyclus": 7361,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de steiger (linker- en rechterreling lopen niet parallel)', 'Watervlak mist subtiele textuur, wat een vlakke, bijna digitale uitstraling geeft']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molen, symmetrische bomen, perfecte reflectie en een ideale zonsondergang zonder onverwachte elementen.",
-      "bestand": "images/a007361_7431.webp"
+      "id": 7436,
+      "cyclus": 7366,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met persoonlijke uitdrukking.",
+      "bestand": "images/a007366_7436.webp"
     },
     {
-      "id": 7429,
-      "cyclus": 7359,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in takken rechtsboven', 'wazige overgang achtergrond/molen']",
-      "cliche_notities": "Molen met gracht en herfstvegetatie in typisch Nederlands ansichtkaartcompositie zonder verrassend standpunt",
-      "bestand": "images/a007359_7429.webp"
+      "id": 7435,
+      "cyclus": 7365,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde Romeinse cijfers op klok', 'inconsistente perspectief ladder']",
+      "cliche_notities": "Geen typisch toeristisch onderwerp, maar een surrealistische compositie met een klok op het strand.",
+      "bestand": "images/a007365_7435.webp"
     }
   ],
   "onderzoek": {
@@ -313,11 +313,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7365,
-    "gemaakt": 7434,
-    "gekozen": 1063,
-    "afgekeurd": 971,
-    "corpus": 67,
+    "cycli": 7369,
+    "gemaakt": 7438,
+    "gekozen": 1065,
+    "afgekeurd": 974,
+    "corpus": 66,
     "notities": 357
   }
 }
