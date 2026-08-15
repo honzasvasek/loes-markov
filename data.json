@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T22:45+02:00",
+  "bijgewerkt": "2026-08-15T23:00+02:00",
   "werk": [
     {
       "id": 8414,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8422,
+      "cyclus": 8359,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met een smalle weg, vogels en wolken in een decoratieve waterverfstijl, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008359_8422.webp"
+    },
+    {
       "id": 8418,
       "cyclus": 8355,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met huisjes, velden en gans, uitgevoerd in een decoratieve waterverfstijl zonder duidelijke compositorische keuze.",
       "bestand": "images/a008353_8416.webp"
-    },
-    {
-      "id": 8415,
-      "cyclus": 8352,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van huizen aan horizon', 'enkele bomen hebben onnatuurlijke, platte vormen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een rustig dorp met rivier, zonder onverwachte compositorische keuzes of een uniek standpunt.",
-      "bestand": "images/a008352_8415.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8358,
-    "gemaakt": 8420,
+    "cycli": 8365,
+    "gemaakt": 8428,
     "gekozen": 1243,
-    "afgekeurd": 1158,
-    "corpus": 67,
+    "afgekeurd": 1159,
+    "corpus": 65,
     "notities": 386
   }
 }
