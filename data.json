@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T05:45+02:00",
+  "bijgewerkt": "2026-08-15T06:00+02:00",
   "werk": [
+    {
+      "id": 7966,
+      "titel": "Waar het hout zwijgt",
+      "beschrijving": "Een roodbruine houten deur met een scherpe, verticale scheur die van boven naar beneden loopt, net links van het midden. De scheur is donkerder van kleur en onregelmatig gevormd, met een golvende rand die de houtstructuur doorsnijdt. Rechtsboven is een deel van een witte kozijn te zien met een roestkleurige scharnier. Onder de deur bevindt zich een smalle, donkere kier waar licht doorheen valt, en op de grond liggen verspreid kleine houtspaantjes en vuil. De deur heeft een gladde, geschilderde textuur met subtiele horizontale panelen. De achtergrond is niet zichtbaar, de focus ligt volledig op de deur en de directe omgeving ervan.",
+      "cyclus": 7900,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de scheur in de deur is een neutraal detail zonder culturele connotatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007900_7966.webp"
+    },
+    {
+      "id": 7961,
+      "titel": "Wit dat bloedt",
+      "beschrijving": "Een witte, getextureerde muur wordt doorsneden door een donkere, onregelmatige scheur die diagonaal van linksboven naar rechtsonder loopt. De scheur is smaler bij de randen en breder in het midden, met scherp afgetekende, iets ongelijkmatige randen. Het oppervlak rondom de scheur is fijn korrelig en toont subtiele schaduwen die de diepte van de scheur benadrukken. Kleuren zijn beperkt tot verschillende tinten grijs en wit, met de scheur als enige donkere accent. De compositie is minimalistisch, met de scheur als enige dynamische element in een anderszins statisch vlak. De sfeer is rustig en bijna steril, met een ondertoon van verwaarlozing of slijtage.",
+      "cyclus": 7895,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont geen decoratief perfect licht, maar focust op een subtiele, abstracte scheur in een oppervlak.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007895_7961.webp"
+    },
     {
       "id": 7953,
       "titel": "Barsten die omarmen",
@@ -104,61 +130,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007855_7921.webp"
-    },
-    {
-      "id": 7919,
-      "titel": "Scheuring in het blauw",
-      "beschrijving": "Een verticaal formaat verdeeld door een scherpe, onregelmatige scheidslijn die van boven naar beneden loopt. Links een ruwe, lichtgrijze textuur met subtiele krassen en kleine donkere vlekken, rechts een vlakke, diepblauwe oppervlakte met zachte, wazige overgangen en enkele donkerdere cirkelvormige vlekken. De scheidslijn zelf is donker, bijna zwart, met ongelijke randen die suggestief zijn voor een scheur of afbreekrand. Kleine, donkere, onregelmatige vormen verspreid over de blauwe kant, alsof ze van de grijze kant afgebroken zijn. De compositie straalt een gevoel van spanning uit tussen de twee contrastrijke texturen en kleuren.",
-      "cyclus": 7853,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur overgang tussen grijs en blauw', 'kleine halo rond rand van blauwe vorm']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007853_7919.webp"
-    },
-    {
-      "id": 7898,
-      "titel": "De deur die ademt",
-      "beschrijving": "Een openstaande houten deur met paneeltjes en een donkere klink onthult een witte ruimte waar dunne lijnen en donkere stippen een web vormen. Onderin golven donkere, gestreepte vormen die aan water of rook doen denken, doorspekt met inktvlekken en spattingen. De randen van de deur en de omgeving zijn vaag en verbleekt, met donkere vlekken die uitstralen als vocht of verval. Witte en grijze tinten domineren, met zwarte accenten die beweging en onrust suggereren. De compositie balanceert tussen leegte en detail, waarbij de deur als raam fungeert naar een wereld van abstracte vormen en textuur.",
-      "cyclus": 7832,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de deurhendels (links/rechts), lichte wazigheid in de achtergrondtextuur",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007832_7898.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7963,
-      "cyclus": 7897,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een woestijns zonsondergang met perfecte belichting en een klassieke compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a007897_7963.webp"
-    },
-    {
-      "id": 7960,
-      "cyclus": 7894,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent perspectief huis vs landschap', 'wazige textuur in achtergrond']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een fragmentarische compositie met onopgeloste spanning tussen tekst en beeld.",
-      "bestand": "images/a007894_7960.webp"
-    },
-    {
-      "id": 7958,
-      "cyclus": 7892,
+      "id": 7974,
+      "cyclus": 7908,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in textuur van stenen (sommige te scherp, andere wazig)', 'zon iets te perfect rond en helder voor natuurlijk licht']",
-      "cliche_notities": "Zonsondergang door een muur van stenen is een iconisch motief zonder eigen compositorische keuze.",
-      "bestand": "images/a007892_7958.webp"
+      "tech_notities": "['lichte vervorming takken boom (onnatuurlijke hoeken)', 'wazige achtergrond (windmolen ontbreekt scherpheid)']",
+      "cliche_notities": "Nederlandse molens en weelderig landschap in een ideale, toeristische compositie zonder onverwachte invalshoek.",
+      "bestand": "images/a007908_7974.webp"
+    },
+    {
+      "id": 7971,
+      "cyclus": 7905,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de horizonlijn', 'lichte wazigheid in de achtergrondbomen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap, perfecte zonsondergang en een pad dat de blik leidt zonder onverwachte keuzes.",
+      "bestand": "images/a007905_7971.webp"
+    },
+    {
+      "id": 7968,
+      "cyclus": 7902,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de molenschachten ten opzichte van de molen zelf', 'Watervlekken-effect in de achtergrondlucht lijkt intentioneel, maar heeft lichte onregelmatigheden die op een generatie-artefact kunnen wijzen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische Nederlandse molen in een schemerlandschap met decoratief gouden licht en geen duidelijke compositorische keuze beyond de klassieke framing.",
+      "bestand": "images/a007902_7968.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7900,
-    "gemaakt": 7965,
-    "gekozen": 1163,
-    "afgekeurd": 1085,
+    "cycli": 7909,
+    "gemaakt": 7974,
+    "gekozen": 1165,
+    "afgekeurd": 1088,
     "corpus": 67,
     "notities": 372
   }
