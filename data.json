@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T04:30+02:00",
+  "bijgewerkt": "2026-08-15T04:45+02:00",
   "werk": [
+    {
+      "id": 7932,
+      "titel": "Wit dat zakt door bruin",
+      "beschrijving": "Een verticale, smalle strook wit poeder loopt door een effen, lichtbruine ondergrond, met een donkere, slanke lijn erdoorheen die licht gekruld is. Rond de witte strook liggen verspreid kleine, onregelmatige witte klontjes en wat dunne, witte vezels. De ondergrond heeft een korrelige textuur en enkele donkere vlekken. De compositie is minimalistisch, met de witte strook als enige verticale as in het beeld. De sfeer is neutraal en rustig, zonder duidelijke beweging of actie.",
+      "cyclus": 7866,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuur zand aan weerskanten van de witte lijn', 'enkele onduidelijke, wazige details in de witte stof (mogelijk door compressie)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007866_7932.webp"
+    },
+    {
+      "id": 7924,
+      "titel": "Gras door beton",
+      "beschrijving": "Een gebroken, lichtgrijze betonnen emmer ligt schuin op een bed van donkere, korrelige as en koolstofresten. De emmer heeft een diepe, onregelmatige barst die van de rand tot halverwege het lichaam loopt, met losse fragmenten die nog net verbonden lijken. Rondom de emmer liggen onregelmatige, zwartgrijze koolblokken met poruzeuze, golvende oppervlakken, doorspekt met kleine, glanzende stenen en droge, donkere takjes. Rechtsboven hangt een klein, verweerd houten kruisje aan een touw, met aan weerszijden smalle, groene grassprietjes die uit het hout groeien. De achtergrond wordt gevormd door donkere, ruwe koolblokken met ingewikkelde, organische patronen, terwijl de voorgrond een lichte, effen ondergrond heeft die geleidelijk overgaat in de donkere as. De sfeer is stil en verlaten, met een contrast tussen de harde, dode materialen en de subtiele levenskracht van het gras.",
+      "cyclus": 7858,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de zwarte rotsen (soms glanzend, soms mat) zonder duidelijke oorzaak', 'De houten planken van het kruisje hebben een iets te perfecte, bijna digitale textuur in tegenstelling tot de organische omgeving']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een bewuste compositorische keuze met de gebroken pot en het hangende kruisje als tegenpolen.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007858_7924.webp"
+    },
     {
       "id": 7921,
       "titel": "Goud in de rook",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007804_7870.webp"
-    },
-    {
-      "id": 7867,
-      "titel": "Sporen die liegen",
-      "beschrijving": "Een smalle, kronkelende modderstrook snijdt door donkere, losse aarde, omgeven door stenen en verspreid stro. De modder toont diepe, golvende sporen, alsof iets zwaars erlangs is gegaan. Rechts loopt een hek van donkere palen en draad parallel aan de strook, verdwijnend in de verte waar de horizon vaag is. Het licht valt schuin, waardoor de textuur van de aarde en de glans op de natte modder scherp zichtbaar zijn. Kleine reflecties van licht prikkelen door het beeld, vooral op de natte plekken en de stenen. De sfeer is stil en verlaten, zonder sporen van leven of beweging, behalve de sporen zelf die de leegte juist benadrukken.",
-      "cyclus": 7801,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de verre achtergrond (heining)', 'enkele onnatuurlijke schaduwen rond de slangen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstract spoor van verdwijnen, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007801_7867.webp"
-    },
-    {
-      "id": 7864,
-      "titel": "Wit dat blootlegt wat verborgen bleef",
-      "beschrijving": "Wit papier, scheurt loodrecht door het midden, met franjes aan de randen. Achter het scheur gleemt een donkere ruimte met horizontale en verticale metalen buizen, deels roestbruin. Linksboven lopen dunne, grijze lijnen over het papier, onregelmatig en schuin. Een smalle, verticale strook papier hangt los tussen de twee helften, met een schaduwwerking die diepte suggereert. Onder het scheur valt een donkere schaduw van het papier op een wit oppervlak, met een scherp, zigzaggend profiel. De textuur van het papier is korrelig, de randen ongelijk en fransig. Licht valt van bovenaf, waardoor de plooien en lagen papier duidelijk zichtbaar zijn.",
-      "cyclus": 7798,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van achtergrondstructuur', 'lichte wazigheid in schaduwgebieden van papier']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op abstracte spanning tussen vorm en leegte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007798_7864.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7866,
-    "gemaakt": 7931,
-    "gekozen": 1156,
+    "cycli": 7872,
+    "gemaakt": 7938,
+    "gekozen": 1158,
     "afgekeurd": 1080,
     "corpus": 66,
     "notities": 372
