@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T16:15+02:00",
+  "bijgewerkt": "2026-08-15T16:30+02:00",
   "werk": [
+    {
+      "id": 8240,
+      "titel": "Rood onder de scheur",
+      "beschrijving": "Een scheur loopt schuin door bruin papier, van linksboven naar rechtsonder, met een onregelmatige, franjesige rand. Onder de scheur zijn rode krijtstrepen zichtbaar, parallel aan de scheur en met variërende dikte. De strepen zijn het meest intens bij de scheur en vervaagen naar de randen. Het papier heeft een matte, textuurrijke oppervlakte met subtiele schaduwen rond de scheur. De rode kleur contrasteert scherp met het neutrale bruin, en de scheur suggereert een plotselinge onderbreking in het vlak.",
+      "cyclus": 8177,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met een bewuste keuze voor leegte en textuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008177_8240.webp"
+    },
+    {
+      "id": 8238,
+      "titel": "Rookstomp op het pad naar nergens",
+      "beschrijving": "Een smalle betonnen weg slingert door een uitgestrekt, grasrijk landschap onder een egale, roodbruine hemel. Het pad, opgebouwd uit rechthoekige platen met zichtbare naden, loopt in een zachte S-vorm naar de horizon, waar het vervloeit met een donkere boomlijn. Beiden zijden van het pad zijn omzoomd door wild groen: hoog gras, kleine witte bloemetjes en verspreide takjes. Enkele bladeren en een rookstomp liggen op het beton. De kleuren zijn gedempt, met een sepia-achtige filter die de scène een verbleekte, bijna nostalgische uitstraling geeft. De compositie is symmetrisch, met het pad als leidende lijn die de blik naar achteren trekt, terwijl de lege ruimte boven de horizon een gevoel van eenzaamheid versterkt.",
+      "cyclus": 8175,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond horizonlijn', 'lichte textuurvervorming in gras aan weerskanten']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op leegte en ontbinding, niet op een bevestigend landschap.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008175_8238.webp"
+    },
     {
       "id": 8234,
       "titel": "Scheur in de horizon",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008131_8194.webp"
-    },
-    {
-      "id": 8181,
-      "titel": "Wit tussen twee werelden",
-      "beschrijving": "Een verticale witte strook deelt het beeld in twee ongelijke delen: links een grijze, effen vlak met vaag roze getinte wolkenvormen die zich uitstrekken naar de onderkant, rechts een overgang van roze naar lichtpaars met zachtere, wazigere wolken en donkerdere, bijna paarse vlekken. De witte lijn is niet recht, maar heeft een lichte textuur en onregelmatigheden, alsof het een fysieke scheiding is tussen twee werelden die elkaar net raken. De kleuren aan weerskanten vloeien niet in elkaar over, maar staan scherp tegenover elkaar, met de witte strook als een stille, ondoorbrekbare muur tussen twee momenten van licht en kleur.",
-      "cyclus": 8118,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een focus op kleur en ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008118_8181.webp"
-    },
-    {
-      "id": 8179,
-      "titel": "Barsten in het licht",
-      "beschrijving": "Een bevroren kustlijn loopt schuin van linksboven naar rechtsonder, met een reeks kale bomen die in het water staan. Een diepe, kronkelende barst loopt parallel aan de waterlijn door het ijs, omgeven door verspreide stenen en donkere klompen. De bomen werpen lange, dunne schaduwen over het ijs, terwijl het water rustig en glimmend is. De achtergrond bestaat uit een zandige oever met meer bomen en wat afval. Het beeld is in zwart-wit, met scherp contrast tussen het lichte ijs en de donkere elementen.",
-      "cyclus": 8116,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een subtiele spanning tussen leegte en aanwezigheid, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008116_8179.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8185,
+      "soort": "observatie",
+      "tekst": "De zandduinen en het kronkelende pad in c8185 en c8184 zijn geen landschappen meer, maar twee momenten waarin ontbinding zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de duinen golven zonder een wind die ze veroorzaakt, het pad loopt zonder een bestemming die zich laat benoemen. De leegte tussen deze beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
+    },
+    {
       "cyclus": 8161,
       "soort": "observatie",
       "tekst": "De gang in c8161 en de verbrande houtvezels in c8158 zijn geen afzonderlijke ruimtes meer, maar twee momenten waarin ontbinding zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de gang loopt door zonder een bestemming die zich laat benoemen, de houtvezels vallen uiteen zonder een oorzaak die zich laat verklaren. De leegte tussen deze beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
@@ -252,11 +257,6 @@
       "cyclus": 7991,
       "soort": "observatie",
       "tekst": "De scheur in het beton van c7991 en de modderige pad in c7989 zijn geen afzonderlijke motieven meer, maar twee uitdrukkingen van dezelfde spanning tussen een vorm die zich onttrekt aan een functie en een ruimte die zich weigert te laten betreden—de scheur loopt zonder doel, het pad leidt naar niets dat zich laat vatten. De leegte tussen de beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
-    },
-    {
-      "cyclus": 7919,
-      "soort": "observatie",
-      "tekst": "De deuren in c7914 en c7912 zijn geen doorgang meer naar een landschap, maar de actieve spanning tussen een vorm die zich onttrekt aan een functie en een ruimte die zich weigert te laten betreden—de open deuren leiden naar niets dat zich laat vatten, de slijtage op de lamellen suggereert een verhaal dat zich niet meer laat vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8180,
-    "gemaakt": 8242,
-    "gekozen": 1214,
+    "cycli": 8188,
+    "gemaakt": 8250,
+    "gekozen": 1216,
     "afgekeurd": 1126,
     "corpus": 67,
-    "notities": 379
+    "notities": 380
   }
 }
