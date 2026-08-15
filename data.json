@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T10:45+02:00",
+  "bijgewerkt": "2026-08-15T11:00+02:00",
   "werk": [
+    {
+      "id": 8113,
+      "titel": "Waar het papier ademt",
+      "beschrijving": "Een diagonale, onregelmatige scheur loopt door een effen, grijze textuur die doet denken aan papier of pleister. De randen van de scheur zijn scherp en ongelijk, met kleine, franjesachtige uitsteeksels aan de bovenkant. Binnen de scheur is een donkerdere, bijna zwarte laag zichtbaar, met subtiele variaties in grijstinten die een gevoel van diepte suggereren. De achtergrond is homogeen en zonder afleiding, waardoor de scheur de enige focus vormt. De textuur buiten de scheur is fijnkorrelig en gelijkmatig, in contrast met de ruwe, onvoorspelbare vorm van de scheur zelf.",
+      "cyclus": 8047,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008047_8113.webp"
+    },
+    {
+      "id": 8111,
+      "titel": "Gebroken met poeder en golven",
+      "beschrijving": "Een donkergrijze, korrelige ondergrond draagt een patroon van onregelmatige, donkere barsten die een gebroken structuur vormen. Binnen de barsten lopen geelgroene en oranje strepen en vlekken, alsof er kleurrijk poeder of krijt is gestrooid. Bovenin lopen witte, golvende lijnen parallel aan elkaar, die een vloeiende beweging suggereren boven de gebroken vormen. Verspreid over de ondergrond liggen kleine, oranjebruine deeltjes en wat witte korrels, die de textuur van het oppervlak verrijken. De barsten lopen in verschillende richtingen en scheiden de kleurvlekken van elkaar, terwijl de witte golven een contrast vormen met de donkere, gebroken lijnen.",
+      "cyclus": 8045,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuur van gekleurde krijtstrepen (soms scherp, soms wazig)', 'enkele witte golflijnen lijken ongemotiveerd af te breken zonder logische overgang']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open, zonder decoratief perfect licht of typisch ansichtkaart-motief.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008045_8111.webp"
+    },
     {
       "id": 8101,
       "titel": "Scheuren in de horizon",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007995_8061.webp"
-    },
-    {
-      "id": 8057,
-      "titel": "Waar het beton zwijgt",
-      "beschrijving": "Grijs beton met een scherpe, verticale scheur die van boven naar beneden loopt, omgeven door kleinere barsten en subtiele textuurverschillen. Witte, draadachtige vormen slingeren door de scheur en over het oppervlak, met kleine brokjes beton en losse korrels verspreid rondom. De achtergrond toont lichte schaduwen en fijne krassporen, terwijl de scheur diepte suggereert door donkere spleten en afwisselende breedte.",
-      "cyclus": 7991,
-      "tech_score": 8.0,
-      "tech_notities": "subtiele inconsistentie in textuur van beton (linksboven vs rechtsonder), lichte wazigheid in schaduw van scheur",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de abstracte spanning tussen vorm en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007991_8057.webp"
-    },
-    {
-      "id": 8053,
-      "titel": "Waar blijft de kust?",
-      "beschrijving": "Een openstaande houten deur met panelen onthult een witte ruimte waar golven van donkere, golvende lijnen een rots omzwaaien. Boven de deur loopt een getegeld dak met donkere, over elkaar liggende pannen. De muren rond de deur zijn getekend met verticale strepen en baksteenpatronen, terwijl de vloer houten planken heeft met slijtage. Links onderaan steekt een plant met spitse bladeren omhoog. De deurklinken en scharnieren zijn donker en glanzend, en de rechterdeur heeft een rechthoekig raampje. De achtergrond achter de golven is volledig wit, zonder details.",
-      "cyclus": 7987,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige compositie zonder iconische of toeristische elementen, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007987_8053.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8117,
+      "cyclus": 8051,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met Chinese tekens en gescheurd papier.",
+      "bestand": "images/a008051_8117.webp"
+    },
     {
       "id": 8105,
       "cyclus": 8039,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, niet-verhalende compositie met persoonlijke symboliek.",
       "bestand": "images/a008036_8102.webp"
-    },
-    {
-      "id": 8097,
-      "cyclus": 8031,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van dakpannen (sommige pannnen lijken te vloeien)', 'Subtiele halo rond de zon aan de horizon']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch kerkje bij zonsondergang met decoratief licht en geen duidelijke compositorische keuze beyond de klassieke balans.",
-      "bestand": "images/a008031_8097.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8046,
-    "gemaakt": 8112,
-    "gekozen": 1191,
-    "afgekeurd": 1108,
+    "cycli": 8052,
+    "gemaakt": 8117,
+    "gekozen": 1193,
+    "afgekeurd": 1109,
     "corpus": 68,
     "notities": 375
   }
