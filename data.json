@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T02:30+02:00",
+  "bijgewerkt": "2026-08-15T02:45+02:00",
   "werk": [
+    {
+      "id": 7870,
+      "titel": "Waar het schuim de vloeistof kust",
+      "beschrijving": "Donkerblauwe vloeistof met zachte, golvende lijnen die vanuit het midden naar boven stralen, omgeven door wit schuim met kleine en grote bubbels. Het schuim vormt onregelmatige, organische vormen die de blauwe vloeistof omklemmen, met enkele donkerblauze, amorf gevormde plekken die door het schuim lopen. De bubbels variëren in grootte en zijn willekeurig verspreid, met enkele clusters die dicht op elkaar zitten en andere die verspreid liggen. De overgang tussen het schuim en de vloeistof is vloeiend, met subtiele schaduwen die diepte suggereren. De algehele compositie is dynamisch, met een gevoel van beweging alsof de vloeistof net is gestoord en het schuim zich nog aan het vormen is.",
+      "cyclus": 7804,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007804_7870.webp"
+    },
+    {
+      "id": 7867,
+      "titel": "Sporen die liegen",
+      "beschrijving": "Een smalle, kronkelende modderstrook snijdt door donkere, losse aarde, omgeven door stenen en verspreid stro. De modder toont diepe, golvende sporen, alsof iets zwaars erlangs is gegaan. Rechts loopt een hek van donkere palen en draad parallel aan de strook, verdwijnend in de verte waar de horizon vaag is. Het licht valt schuin, waardoor de textuur van de aarde en de glans op de natte modder scherp zichtbaar zijn. Kleine reflecties van licht prikkelen door het beeld, vooral op de natte plekken en de stenen. De sfeer is stil en verlaten, zonder sporen van leven of beweging, behalve de sporen zelf die de leegte juist benadrukken.",
+      "cyclus": 7801,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in de verre achtergrond (heining)', 'enkele onnatuurlijke schaduwen rond de slangen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstract spoor van verdwijnen, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007801_7867.webp"
+    },
     {
       "id": 7864,
       "titel": "Wit dat blootlegt wat verborgen bleef",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007763_7829.webp"
-    },
-    {
-      "id": 7826,
-      "titel": "Voetstappen in roodbruin gras",
-      "beschrijving": "Een modderige, smalle pad snijdt door een uitgestrekt veld van droog, roodbruin gras, met sporen van regen en voetstappen die de textuur van de aarde benadrukken. Bovenin het beeld lopen donkere, bladloze takken in een onregelmatige boog, die de horizon kaderen waar een rij bomen en een vaag wolkendek de achtergrond vormen. Het licht is zacht en diffuus, waardoor de kleuren gedempt en monochromatisch aankomen, met subtiele variaties in bruin, rood en grijs. Klein detail: een veer en wat afval liggen verspreid op het pad, terwijl de randen van het veld overgaan in een donkerdere, bosrijke horizon. De compositie trekt het oog langs het pad naar de verte, waar de ruimte leeg en open lijkt.",
-      "cyclus": 7760,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, contemplatieve sfeer zonder typisch toeristische elementen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007760_7826.webp"
-    },
-    {
-      "id": 7818,
-      "titel": "Waar blijft de rem?",
-      "beschrijving": "Een grijze auto zweeft schuin boven een brede, donkere scheur in de grond, omringd door witte, wazige wolken die als rook of stof opstijgen. De auto heeft een klassieke, bloemige vorm met ronde wielen en een licht gebogen dak. Onder de scheur loopt een donkere, zigzagvormige lijn die dieper in het bruine, zandige oppervlak verdwijnt, met dunne, stralende lijnen die vanuit de scheur stralen. De achtergrond is eenduidig bruin, zonder extra details, waardoor de auto en de scheur centraal staan. De sfeer is dynamisch en iets onrustigs, door de zwevende auto en de scheurende grond.",
-      "cyclus": 7752,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een originele compositorische keuze met de auto die uit een scheur in de grond komt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007752_7818.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7880,
+      "cyclus": 7814,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuur (witte vorm bovenaan)']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met een ongemakkelijke witte vorm.",
+      "bestand": "images/a007814_7880.webp"
+    },
+    {
+      "id": 7878,
+      "cyclus": 7812,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de brug ten opzichte van de kerk', 'enkele overvolle details in de vegetatie aan weerskanten']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch kerkje, gracht en brug in een harmonieus landschap, zonder duidelijke persoonlijke compositorische keuze.",
+      "bestand": "images/a007812_7878.webp"
+    },
     {
       "id": 7872,
       "cyclus": 7806,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen ten opzichte van de horizon', 'lichte wazigheid in de achtergrondboomwerk']",
       "cliche_notities": "Het beeld toont een iconische Nederlandse windmolen door een deur, met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a007806_7872.webp"
-    },
-    {
-      "id": 7852,
-      "cyclus": 7786,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'inconsistent perspectief kaart/klok']",
-      "cliche_notities": "Iconisch landschap met weg en auto, decoratief licht en geen eigen compositorisch standpunt",
-      "bestand": "images/a007786_7852.webp"
-    },
-    {
-      "id": 7847,
-      "cyclus": 7781,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-toeristische compositie met ruimte voor interpretatie.",
-      "bestand": "images/a007781_7847.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7811,
+      "soort": "observatie",
+      "tekst": "De beweging van de kinderen in c7811 en de golven in c7804 zijn geen sporen van verdwijnen, maar de actieve spanning tussen een moment dat zich onttrekt aan een verhaal en een ruimte die zich weigert te laten vatten—de kinderen rennen verspreid zonder bestemming, de golven stralen zonder een oppervlak dat ze doorsnijden. De leegte tussen de vormen is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
+    },
+    {
       "cyclus": 7739,
       "soort": "observatie",
       "tekst": "De vogels in c7739 vliegen in een diagonale lijn, maar de witte vlekken op hun vleugels zijn geen sporen van verdwijnen—ze zijn de actieve spanning tussen een vorm die zich onttrekt aan een verhaal en een ruimte die zich weigert te laten vullen. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
@@ -252,11 +257,6 @@
       "cyclus": 7607,
       "soort": "observatie",
       "tekst": "De afwezigheid van een onderwerp in c7606 en c7605 is geen leegte meer, maar een actieve spanning tussen vormen die zich onttrekken aan een relatie en een ruimte die zich weigert te laten vullen—de rechthoeken staan stapelgewijs zonder een stapel te vormen, de wolken vullen het beeld zonder een hemel te suggereren. De leegte is geen afwezigheid van een verhaal, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
-    },
-    {
-      "cyclus": 7559,
-      "soort": "observatie",
-      "tekst": "De witte draden in c7559 en het zand in c7554 zijn geen sporen van verdwijnen, maar de actieve spanning tussen een structuur die zich onttrekt aan een functie en een stof dat zich weigert te laten stilliggen—de draden spannen zich zonder een hek te verbinden, het zand stroomt zonder een kop te leeg te maken. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een spoor te hoeven achterlaten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7810,
-    "gemaakt": 7875,
-    "gekozen": 1147,
-    "afgekeurd": 1066,
-    "corpus": 67,
-    "notities": 367
+    "cycli": 7817,
+    "gemaakt": 7882,
+    "gekozen": 1149,
+    "afgekeurd": 1068,
+    "corpus": 66,
+    "notities": 368
   }
 }
