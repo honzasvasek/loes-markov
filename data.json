@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T03:15+02:00",
+  "bijgewerkt": "2026-08-15T03:30+02:00",
   "werk": [
+    {
+      "id": 7898,
+      "titel": "De deur die ademt",
+      "beschrijving": "Een openstaande houten deur met paneeltjes en een donkere klink onthult een witte ruimte waar dunne lijnen en donkere stippen een web vormen. Onderin golven donkere, gestreepte vormen die aan water of rook doen denken, doorspekt met inktvlekken en spattingen. De randen van de deur en de omgeving zijn vaag en verbleekt, met donkere vlekken die uitstralen als vocht of verval. Witte en grijze tinten domineren, met zwarte accenten die beweging en onrust suggereren. De compositie balanceert tussen leegte en detail, waarbij de deur als raam fungeert naar een wereld van abstracte vormen en textuur.",
+      "cyclus": 7832,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in de deurhendels (links/rechts), lichte wazigheid in de achtergrondtextuur",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007832_7898.webp"
+    },
+    {
+      "id": 7891,
+      "titel": "Wat ligt er achter die deuren",
+      "beschrijving": "Twee witte deuren met zwarte omlijstingen staan wijd open, waardoor een donkere, lege ruimte zichtbaar wordt. De deuren hebben klassieke panelen en zwarte metalen handvatten. De linkerdeur staat iets meer open dan de rechter, en beide deuren werpen een schuine schadewerking op de lichtgrijze vloer. In de donkere ruimte achter de deuren zijn enkele kleine, donkere strepen te zien, alsof er iets op de vloer ligt. De muren rond de deuren zijn lichtgekleurd met subtiele textuur, en de deurkozijnen hebben een lichte, bijna crèmekleurige tint. De compositie is symmetrisch, maar de asymmetrische stand van de deuren breekt de balans. De sfeer is rustig en iets mysterieus door het contrast tussen het lichte kader en de donkere, onduidelijke ruimte erachter.",
+      "cyclus": 7825,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, bijna ongemakkelijke spanning door de asymmetrie en de leegte achter de deur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007825_7891.webp"
+    },
     {
       "id": 7889,
       "titel": "Zes schaduwen op de droge weg",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007787_7853.webp"
-    },
-    {
-      "id": 7850,
-      "titel": "Vuur dat weigert te zakken",
-      "beschrijving": "Een vuur vonkt op in een regenbui, omringd door gras en bomen. De vlammen zijn fel oranje en rood, in scherp contrast met de grijze, regenachtige achtergrond. Rook stijgt op en vermengt zich met de regen, die als dunne lijnen door het beeld valt. Een stoffen zak ligt half open bij het vuur, met houten brandstof erin. Het landschap is woest en verlaten, met een smalle weg in de verte. De sfeer is intens en onrustig, door de combinatie van vuur en regen.",
-      "cyclus": 7784,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond vlammen tegen achtergrond', 'lichte inconsistentie in regenval (sommige druppels te scherp, andere vervagen)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap of typisch motief; de vuur-in-regen-compositie heeft een ongemakkelijke, niet-decoratieve spanning",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007784_7850.webp"
-    },
-    {
-      "id": 7840,
-      "titel": "De buis die wacht op regen",
-      "beschrijving": "Een lange, lege ruimte met een schuin dak van donker hout en zware balken. Aan weerskanten lopen gladde, grijze muren parallel aan elkaar, onderbroken door een donkere deuropening aan de linkerkant en een heldere, rechthoekige opening aan de verre muur, waar zacht licht door valt. De vloer is een egaal, lichtgrijs vlak met subtiele textuur, waar een witte, cilindrische buis schuin ligt, met een scherp afgesneden rand en een donkere, holle binnenkant. Rond de buis liggen kleine, donkere vlekken en losse stukjes puin. De ruimte straalt een stilte uit, met een subtiele spanning tussen de lege muren en de afwezigheid van beweging.",
-      "cyclus": 7774,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de textuur van de vloer en de muur aan de linkerkant",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is sober en heeft een eigen, contemplatief karakter",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007774_7840.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7905,
+      "cyclus": 7839,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in reflectie op water: de kerktoren is scherper weerspiegeld dan de rest van het gebouw, wat niet natuurgetrouw is', 'Watervlak heeft kunstmatige, bijna gepixelde textuur in de voorgrond, alsof de rimpels herhaald worden zonder logische variatie']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch kerkgebouw met perfecte reflectie in water, omgeven door bomen en een dramatische hemel, zonder eigen compositorische keuzes of onverwachte elementen",
+      "bestand": "images/a007839_7905.webp"
+    },
+    {
+      "id": 7899,
+      "cyclus": 7833,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie van wolken tegen een heldere hemel, zonder eigen compositorische keuzes of onverwachte elementen.",
+      "bestand": "images/a007833_7899.webp"
+    },
     {
       "id": 7897,
       "cyclus": 7831,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in handpositie ten opzichte van golven', 'lichte wazigheid in achtergrondwolken']",
       "cliche_notities": "Zonsondergang over water met golven is een klassiek ansichtkaartmotief zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a007831_7897.webp"
-    },
-    {
-      "id": 7892,
-      "cyclus": 7826,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van de achtergrond (hemel) met de rest van het beeld', 'lichte vervaging van details in de verre achtergrond (bomen/heuvel)']",
-      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap (molen, wilg, water) met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke of conceptuele keuzes.",
-      "bestand": "images/a007826_7892.webp"
-    },
-    {
-      "id": 7888,
-      "cyclus": 7822,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de wolken tegen de horizon', 'lichte vervorming in de handen van het kind in het midden']",
-      "cliche_notities": "Het beeld straalt een typisch ansichtkaart-gevoel uit met de iconische zonsondergang, silhouetten van kinderen en een romantische, decoratieve wolkenformatie zonder duidelijke compositorische keuze.",
-      "bestand": "images/a007822_7888.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7832,
-    "gemaakt": 7897,
-    "gekozen": 1152,
-    "afgekeurd": 1071,
-    "corpus": 66,
+    "cycli": 7840,
+    "gemaakt": 7906,
+    "gekozen": 1154,
+    "afgekeurd": 1073,
+    "corpus": 67,
     "notities": 368
   }
 }
