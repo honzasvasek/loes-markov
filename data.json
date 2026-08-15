@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T14:15+02:00",
+  "bijgewerkt": "2026-08-15T14:30+02:00",
   "werk": [
+    {
+      "id": 8181,
+      "titel": "Wit tussen twee werelden",
+      "beschrijving": "Een verticale witte strook deelt het beeld in twee ongelijke delen: links een grijze, effen vlak met vaag roze getinte wolkenvormen die zich uitstrekken naar de onderkant, rechts een overgang van roze naar lichtpaars met zachtere, wazigere wolken en donkerdere, bijna paarse vlekken. De witte lijn is niet recht, maar heeft een lichte textuur en onregelmatigheden, alsof het een fysieke scheiding is tussen twee werelden die elkaar net raken. De kleuren aan weerskanten vloeien niet in elkaar over, maar staan scherp tegenover elkaar, met de witte strook als een stille, ondoorbrekbare muur tussen twee momenten van licht en kleur.",
+      "cyclus": 8118,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een focus op kleur en ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008118_8181.webp"
+    },
+    {
+      "id": 8179,
+      "titel": "Barsten in het licht",
+      "beschrijving": "Een bevroren kustlijn loopt schuin van linksboven naar rechtsonder, met een reeks kale bomen die in het water staan. Een diepe, kronkelende barst loopt parallel aan de waterlijn door het ijs, omgeven door verspreide stenen en donkere klompen. De bomen werpen lange, dunne schaduwen over het ijs, terwijl het water rustig en glimmend is. De achtergrond bestaat uit een zandige oever met meer bomen en wat afval. Het beeld is in zwart-wit, met scherp contrast tussen het lichte ijs en de donkere elementen.",
+      "cyclus": 8116,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een subtiele spanning tussen leegte en aanwezigheid, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008116_8179.webp"
+    },
     {
       "id": 8173,
       "titel": "Waar de lijnen zwijgen",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008068_8133.webp"
-    },
-    {
-      "id": 8132,
-      "titel": "Goud in de scheur",
-      "beschrijving": "Een donkere theepot staat centraal op een glanzend oppervlak, met een spiegelende reflectie eronder. Achter de theepot zakt de zon onder in een oranje-roze hemel, met zachte wolken die de horizon vullen. Rechtsboven is een vaag silhouet van een gebouw te zien, met een raam dat het gouden licht van de ondergaande zon vangt. De achtergrond wordt gedomineerd door een brede, gekleurde lucht die overgaat in een donkere horizon. Een brede, onregelmatige scheur loopt diagonaal door het bovenste deel van het beeld, met losse stukken die lijken te zijn losgebarsten van een muur of oppervlak. De randen van de scheur zijn ruw en ongelijkmatig, met kleine brokstukken die eromheen liggen. Het geheel heeft een rustige, bijna verlaten sfeer, met de theepot als enig vast punt in een landschap dat langzaam verdwijnt in de avond.",
-      "cyclus": 8066,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in reflectie van de theepot op het oppervlak, lichte wazigheid in de achtergrondhorizon",
-      "academie_cliche": 1,
-      "cliche_notities": "zonsondergang met silhouet van een voorwerp is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w008066_8132.webp"
-    },
-    {
-      "id": 8128,
-      "titel": "Rook door de scheur",
-      "beschrijving": "Een verticaal gescheurd vel bruin papier domineert het beeld, met onregelmatige, frisse randen die een diepere laag blootleggen. Door de scheur is een donkere, vaag getekende achtergrond zichtbaar, met fijne, krassende lijnen die aan vegetatie of abstracte structuren doen denken. Witte, rookachtige vormen ontsnappen door de scheur en kronkelen zich door het midden, met zachte, vloeiende contouren die contrasten met de scherpe randen van het papier. De textuur van het papier is korrelig en ongelijkmatig, met lichte schaduwen die de diepte van de scheur benadrukken. De algehele compositie straalt een gevoel van onverwachte opening uit, waarbij de scheur fungeert als een dynamisch element dat de kijkers blik naar binnen leidt.",
-      "cyclus": 8062,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in textuur papier aan linker- en rechterkant, lichte halo rond rook",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, open compositie zonder bevestigende symboliek",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008062_8128.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8192,
+      "cyclus": 8129,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten, lichte onregelmatigheden in golfrichting bij horizon",
+      "cliche_notities": "zonsondergang over water is een klassiek ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt",
+      "bestand": "images/a008129_8192.webp"
+    },
+    {
+      "id": 8190,
+      "cyclus": 8127,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde vogelvorm', 'inconsistent perspectief tekst vs. afbeelding']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onontcijferbare combinatie van tekst en vorm.",
+      "bestand": "images/a008127_8190.webp"
+    },
     {
       "id": 8184,
       "cyclus": 8121,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een stilleven met kaart als achtergrond zonder duidelijke compositorische keuze.",
       "bestand": "images/a008121_8184.webp"
-    },
-    {
-      "id": 8176,
-      "cyclus": 8113,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ontbindingsmotieven.",
-      "bestand": "images/a008113_8176.webp"
-    },
-    {
-      "id": 8147,
-      "cyclus": 8083,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de klok als centraal motief omringd door dynamische, bijna chaotische lijnen, wat het geen typische ansichtkaart maakt.",
-      "bestand": "images/a008083_8147.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8125,
-    "gemaakt": 8188,
-    "gekozen": 1204,
-    "afgekeurd": 1114,
-    "corpus": 66,
+    "cycli": 8132,
+    "gemaakt": 8195,
+    "gekozen": 1206,
+    "afgekeurd": 1116,
+    "corpus": 67,
     "notities": 376
   }
 }
