@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T14:00+02:00",
+  "bijgewerkt": "2026-08-15T14:15+02:00",
   "werk": [
     {
       "id": 8173,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8184,
+      "cyclus": 8121,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een stilleven met kaart als achtergrond zonder duidelijke compositorische keuze.",
+      "bestand": "images/a008121_8184.webp"
+    },
+    {
       "id": 8176,
       "cyclus": 8113,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de klok als centraal motief omringd door dynamische, bijna chaotische lijnen, wat het geen typische ansichtkaart maakt.",
       "bestand": "images/a008083_8147.webp"
-    },
-    {
-      "id": 8143,
-      "cyclus": 8079,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren in bomen en water', 'wazige texturen in achtergrond']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met ongemakkelijke lijnen en leegte.",
-      "bestand": "images/a008079_8143.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8120,
-    "gemaakt": 8182,
+    "cycli": 8125,
+    "gemaakt": 8188,
     "gekozen": 1204,
-    "afgekeurd": 1113,
-    "corpus": 67,
+    "afgekeurd": 1114,
+    "corpus": 66,
     "notities": 376
   }
 }
