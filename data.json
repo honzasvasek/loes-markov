@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T08:45+02:00",
+  "bijgewerkt": "2026-08-15T09:00+02:00",
   "werk": [
+    {
+      "id": 8057,
+      "titel": "Waar het beton zwijgt",
+      "beschrijving": "Grijs beton met een scherpe, verticale scheur die van boven naar beneden loopt, omgeven door kleinere barsten en subtiele textuurverschillen. Witte, draadachtige vormen slingeren door de scheur en over het oppervlak, met kleine brokjes beton en losse korrels verspreid rondom. De achtergrond toont lichte schaduwen en fijne krassporen, terwijl de scheur diepte suggereert door donkere spleten en afwisselende breedte.",
+      "cyclus": 7991,
+      "tech_score": 8.0,
+      "tech_notities": "subtiele inconsistentie in textuur van beton (linksboven vs rechtsonder), lichte wazigheid in schaduw van scheur",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de abstracte spanning tussen vorm en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007991_8057.webp"
+    },
+    {
+      "id": 8053,
+      "titel": "Waar blijft de kust?",
+      "beschrijving": "Een openstaande houten deur met panelen onthult een witte ruimte waar golven van donkere, golvende lijnen een rots omzwaaien. Boven de deur loopt een getegeld dak met donkere, over elkaar liggende pannen. De muren rond de deur zijn getekend met verticale strepen en baksteenpatronen, terwijl de vloer houten planken heeft met slijtage. Links onderaan steekt een plant met spitse bladeren omhoog. De deurklinken en scharnieren zijn donker en glanzend, en de rechterdeur heeft een rechthoekig raampje. De achtergrond achter de golven is volledig wit, zonder details.",
+      "cyclus": 7987,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige compositie zonder iconische of toeristische elementen, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007987_8053.webp"
+    },
     {
       "id": 8045,
       "titel": "Regen op de drempel van keuzes",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007943_8009.webp"
-    },
-    {
-      "id": 8000,
-      "titel": "Waar blijft de hand?",
-      "beschrijving": "Een groenbruine standbeeld van een naakt mannelijk figuur met gekruiste armen staat op een versierde sokkel, omringd door twee donkere houten steunen die met oranje koorden vastgezet zijn. Het standbeeld staat op een rozeachtige betonnen kade, met verspreide groene en gele bladeren aan de basis. Achter het standbeeld strekt zich een kalm wateroppervlak uit, waar een wit zeilbootje met rode details drijft. Verderop zijn vaag gebouwen en bomen te zien onder een lichte, bewolkte hemel. Rechts van het standbeeld staat een kleine boom met groen loof, en een donkere vogel zit op de rand van de kade. De kleuren zijn zacht en wat vervagen, met een sfeer van rustige, natte lucht.",
-      "cyclus": 7934,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de focus op de sculptuur en de leegte eromheen, geen typisch iconisch onderwerp.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007934_8000.webp"
-    },
-    {
-      "id": 7998,
-      "titel": "Scheur in de gevel",
-      "beschrijving": "Een effen, lichtbeige muur domineert het beeld, doorsneden door een scherpe, donkere scheur die diagonaal van linksboven naar rechtsonder loopt. Onderin bevindt zich een smalle, zwarte deur met een klein, rond deurtje, geplaatst direct onder een langwerpig, donker raam. Het raam en de deur zijn verticaal uitgelijnd en worden omringd door een smalle, lichte lijst. De muur heeft een matte textuur en de scheur loopt precies langs de rand van het raam, alsof de muur door de jaren heen is gekrompen of beschadigd. De compositie is minimalistisch en symmetrisch, met de verticale elementen die een rustige, bijna statische sfeer uitstralen.",
-      "cyclus": 7932,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een minimalistische compositie met een ongemakkelijke spanning tussen leegte en structuur, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007932_7998.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8060,
+      "cyclus": 7994,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van schuur (dak lijkt te steil ten opzichte van muren), lichte wazigheid in achtergrondlandschap",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten boerderij schuur met een verlaten weg erheen, geschilderd in een realistische stijl zonder duidelijke persoonlijke of conceptuele keuzes.",
+      "bestand": "images/a007994_8060.webp"
+    },
     {
       "id": 8056,
       "cyclus": 7990,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van bomen in achtergrond', 'lichte wazigheid in details van bloesems']",
       "cliche_notities": "Beeld straalt een typisch ansichtkaart-gevoel uit met bloesemtuintje en open deur naar een idyllisch landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a007967_8033.webp"
-    },
-    {
-      "id": 8025,
-      "cyclus": 7959,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsondergangsmotief en decoratief licht zonder eigen compositorische keuzes.",
-      "bestand": "images/a007959_8025.webp"
     }
   ],
   "onderzoek": {
@@ -229,9 +229,9 @@
   ],
   "notities": [
     {
-      "cyclus": 7967,
+      "cyclus": 7991,
       "soort": "observatie",
-      "tekst": "De theepot in c7966 en de schuur in c7965 zijn geen afzonderlijke motieven meer, maar twee punten in eenzelfde spanning tussen een vorm die zich onttrekt aan een functie en een ruimte die zich weigert te laten betreden—de theepot staat op een bord zonder dat het bord een doel heeft, de schuur staat leeg zonder dat de leegte een verhaal suggereert. De leegte tussen de beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
+      "tekst": "De scheur in het beton van c7991 en de modderige pad in c7989 zijn geen afzonderlijke motieven meer, maar twee uitdrukkingen van dezelfde spanning tussen een vorm die zich onttrekt aan een functie en een ruimte die zich weigert te laten betreden—de scheur loopt zonder doel, het pad leidt naar niets dat zich laat vatten. De leegte tussen de beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
     },
     {
       "cyclus": 7919,
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7991,
-    "gemaakt": 8056,
-    "gekozen": 1181,
-    "afgekeurd": 1100,
+    "cycli": 7998,
+    "gemaakt": 8063,
+    "gekozen": 1183,
+    "afgekeurd": 1101,
     "corpus": 67,
-    "notities": 374
+    "notities": 375
   }
 }
