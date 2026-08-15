@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T00:45+02:00",
+  "bijgewerkt": "2026-08-16T01:00+02:00",
   "werk": [
     {
       "id": 8459,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8474,
+      "cyclus": 8411,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de maan en vogels', 'lichte vervorming in de takken van de wilg']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische wilg, vluchtende vogels en een dramatische hemel, zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a008411_8474.webp"
+    },
+    {
       "id": 8469,
       "cyclus": 8406,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van het schuine dak van de schuur', 'Enkele grashalmen in de voorgrond hebben onnatuurlijke, bijna mechanische vervormingen']",
       "cliche_notities": "Het beeld toont een typisch landschap met een verlaten schuur en overwoekerd gras, geschilderd in een decoratief, bijna nostalgisch stijl dat past bij een toeristische ansichtkaart.",
       "bestand": "images/a008399_8462.webp"
-    },
-    {
-      "id": 8442,
-      "cyclus": 8379,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond boomstam tegen achtergrond', 'lichte inconsistentie in textuur van bladeren aan linker- en rechterkant']",
-      "cliche_notities": "Het beeld toont een iconisch landschap met een solo boom in een weids landschap, met decoratief zacht roze licht en een klassieke compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a008379_8442.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8407,
-    "gemaakt": 8469,
+    "cycli": 8413,
+    "gemaakt": 8476,
     "gekozen": 1252,
-    "afgekeurd": 1164,
-    "corpus": 66,
+    "afgekeurd": 1165,
+    "corpus": 65,
     "notities": 387
   }
 }
