@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T18:30+02:00",
+  "bijgewerkt": "2026-08-15T18:45+02:00",
   "werk": [
+    {
+      "id": 8302,
+      "titel": "Rode strepen, witte deur",
+      "beschrijving": "Drie verticale panelen tonen een smalle, verwaarloosde gang met een witte deur aan de rechterkant, waar telkens twee rode strepen horizontaal over het midden lopen. In het bovenste paneel zweeft een gele hoed met een donkere band boven een hoop zand, terwijl witte rook in slangen omhoog stijgt en zich vermengt met de grijze, verweerde muren. Het middelste paneel laat het zand in beweging zien, als een wazige, bruine wolk die de gang vult en de achtergrond verdwijnt in duisternis. Het onderste paneel toont het zand weer stilstaand, maar nu met losse klompen en een enkele steen, terwijl de rook is vervangen door een donkere, korrelige nevel die de ruimte ingeperkt doet lijken. De deuren blijven identiek, met alleen de rode strepen die subtiel van positie veranderen.",
+      "cyclus": 8239,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend verhaal.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008239_8302.webp"
+    },
+    {
+      "id": 8297,
+      "titel": "Stenen die wachten op een steen",
+      "beschrijving": "Twee donkere, onregelmatig gevormde stenen drijven op een oppervlak met concentrische cirkels die uitstralen alsof ze net door een steen zijn geraakt. Een rechte, donkere staaf loopt schuin door het beeld, onderbroken door kleine, donkere vlekken die een pad vormen naar de onderste steen. De achtergrond is egaal licht, met subtiele schaduwen die de stenen en de staaf omgeven. De compositie is verticaal opgebouwd, met de stenen en de staaf die een diagonale lijn vormen door het midden van het beeld. De sfeer is statisch en rustig, met een focus op de relatie tussen de vormen en de ruimte ertussen.",
+      "cyclus": 8234,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een focus op leegte en ontbinding, geen toeristische ansichtkaartstijl.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008234_8297.webp"
+    },
     {
       "id": 8280,
       "titel": "Geen honing meer",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008177_8240.webp"
-    },
-    {
-      "id": 8238,
-      "titel": "Rookstomp op het pad naar nergens",
-      "beschrijving": "Een smalle betonnen weg slingert door een uitgestrekt, grasrijk landschap onder een egale, roodbruine hemel. Het pad, opgebouwd uit rechthoekige platen met zichtbare naden, loopt in een zachte S-vorm naar de horizon, waar het vervloeit met een donkere boomlijn. Beiden zijden van het pad zijn omzoomd door wild groen: hoog gras, kleine witte bloemetjes en verspreide takjes. Enkele bladeren en een rookstomp liggen op het beton. De kleuren zijn gedempt, met een sepia-achtige filter die de scène een verbleekte, bijna nostalgische uitstraling geeft. De compositie is symmetrisch, met het pad als leidende lijn die de blik naar achteren trekt, terwijl de lege ruimte boven de horizon een gevoel van eenzaamheid versterkt.",
-      "cyclus": 8175,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond horizonlijn', 'lichte textuurvervorming in gras aan weerskanten']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op leegte en ontbinding, niet op een bevestigend landschap.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008175_8238.webp"
-    },
-    {
-      "id": 8234,
-      "titel": "Scheur in de horizon",
-      "beschrijving": "Een open raam met witte kozijnen en donkere scharnieren onthult een landschap met een overstroomd terrein, waar bruin water tot aan de treden van een grijs huis reikt. Een omgevallen metalen kan staat op de vensterbank, waar een donkere, kronkelende scheur vandaan loopt die door het muurwerk zakt. Buiten staat een enkele boom tegen een lichtblauwe hemel met wat witte wolken, en een smalle strook groen gras omzoomt het water. Een scherpe, witte lijn loopt van de bovenkant van het raam naar beneden, alsof de lucht scheurt. De muren rond het raam zijn grijs en textuurrijk, met schaduwen die de diepte benadrukken. Het water weerspiegelt het licht en toont ronde, donkere vlekken.",
-      "cyclus": 8171,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het raam ten opzichte van de achtergrond', 'Wazige overgang tussen het water en de oever in de achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige sfeer die boven een typische ansichtkaart uitstijgt door de onverklaarde spanning tussen binnen- en buitenruimte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008171_8234.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 8239,
-    "gemaakt": 8301,
-    "gekozen": 1223,
+    "cycli": 8247,
+    "gemaakt": 8310,
+    "gekozen": 1225,
     "afgekeurd": 1135,
     "corpus": 67,
     "notities": 380
