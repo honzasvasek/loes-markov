@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-15T17:15+02:00",
+  "bijgewerkt": "2026-08-15T17:30+02:00",
   "werk": [
+    {
+      "id": 8262,
+      "titel": "Een barst in het zand",
+      "beschrijving": "Zandduinen in zachte roze en oranje tinten vullen het beeld, met fijne, golvende patronen in het zand. Een donkere, onregelmatige spleet loopt diagonaal door het midden, met scherpe, uitstralende barstjes. Kleinere barstjes en sporen zijn verspreid over het zand. De achtergrond toont zandduinen die overgaan in een lichte horizon. De sfeer is rustig en eenzaam, met een subtiele spanning door de barst in het landschap.",
+      "cyclus": 8199,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie met een focus op textuur en vorm in plaats van een herkenbaar landschap of onderwerp.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008199_8262.webp"
+    },
+    {
+      "id": 8261,
+      "titel": "Donkere aderen, witte stilte",
+      "beschrijving": "Donkere, porige rotsblokken vormen een onregelmatig landschap met diepe, smalle dalen. Glanzende, donkere vloeistof stroomt in slingerende banen door het midden, omgeven door fijne, witte stippen die als sterren of spetters door het beeld verspreid zijn. De textuur van de rotsen is ruw en ongelijkmatig, met holtes en uitstulpingen die diepte creëren. De vloeistof lijkt langzaam te bewegen, met gladde, reflecterende oppervlakken die contrasteren met de ruwe omgeving. Witte, ronde vormen, variërend in grootte, liggen verspreid over de rotsen en de vloeistof, alsof ze drijven of vastzitten. De achtergrond is een egale, lichte kleur, waardoor het donkere landschap scherp afsteekt.",
+      "cyclus": 8198,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van donkere massa (linksboven vs rechtsonder)', 'enkele witte stippen lijken kunstmatig geplaatst (niet natuurlijk verspreid)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008198_8261.webp"
+    },
+    {
+      "id": 8260,
+      "titel": "Rood dat door stilte loopt",
+      "beschrijving": "Een brede, onregelmatige scheur loopt verticaal door een beige, textuurrijke muur, met scherpe, uitgesneden randen die diepte suggereren. Door de scheur stroomt een levendige, rode substantie die lijkt op gesmolten was of lava, met zachte, golvende patronen en subtiele overgangen naar roze en oranje. De rode stroom vult de onderste helft van de scheur en loopt geleidelijk uit naar een brede, vloeiende vorm aan de onderkant. De muur heeft kleine onvolkomenheden, zoals lichte verkleuringen en fijne krassen, en de scheur werpt een donkere schaduw die de diepte versterkt. De compositie is statisch, maar de rode stroom brengt een gevoel van beweging en spanning in het beeld.",
+      "cyclus": 8197,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van het brekende oppervlak (benedenlinks)', 'lichte halo rond de rand van de scheur (rechtsboven)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de scheur en rode onderlaag voelen als een persoonlijke metaforische keuze, geen ansichtkaartmotief.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008197_8260.webp"
+    },
     {
       "id": 8254,
       "titel": "Twaalf uur zonder bladeren",
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008161_8224.webp"
-    },
-    {
-      "id": 8212,
-      "titel": "Vonken en vliegende dromen",
-      "beschrijving": "Een open houten deur met twee panelen onthult een woedende vuurhaard, waar oranje en gele vlammen hevig opvlammen en vonken in de lucht zaaien. Boven de deur vliegen vijf ganzen in een V-formatie van linksboven naar rechtsonder, hun vleugels wijd gespreid. Onder de deur, op de grond, staat een enkele gans met donkere veren en een witte buik, kijkend naar het vuur. Rond de deur verspreid liggen stenen, droge bladeren en wat grashalmen, terwijl aan weerszijden van de deur subtiele tekeningen van planten en bloemen in de muur zijn getekend. De achtergrond is een egale, lichte muur met een lichte textuur, wat de indruk van een binnenruimte geeft. De sfeer is zowel dynamisch als onrustig, door de combinatie van de vliegende ganzen, de woedende vlammen en de rustige, bijna verwaarloosde omgeving rond de deur.",
-      "cyclus": 8149,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren', 'lichte wazigheid in de achtergrondtextuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert symbolische elementen (vuur, vogels, deur) op een manier die verder gaat dan een typische ansichtkaart, met een nadruk op ontbinding en afwezigheid.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008149_8212.webp"
-    },
-    {
-      "id": 8210,
-      "titel": "Waar het water fluistert",
-      "beschrijving": "Donkere, ruwe rotsen vormen een ongelijk landschap, doorsneden door een smalle, kronkelende spleet waar wit, schuimend water stroomt. Het water heeft een glanzende, bijna vloeibare textuur en reflecteert het licht, terwijl er kleine, donkere bolletjes en bubbels doorheen drijven. Aan weerskanten van de spleet liggen kleine, donkere huisjes met koperkleurige daken, schuin en onregelmatig geplaatst. Het koper schittert in de donkere omgeving en vormt een scherp contrast met de matte, zwarte textuur van de rotsen en het zand. Een cilindervormig voorwerp, donker en textuurloos, ligt schuin in het zand, naast een kleine, ronde knoop en verspreide stenen. De achtergrond bestaat uit een onscherpe mix van donkere rotsen en kleine, onduidelijke vormen, wat de focus legt op de spleet en de details eromheen. De sfeer is stil en verlaten, met een onderliggende spanning tussen het stromende water en de starre, donkere omgeving.",
-      "cyclus": 8147,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van kuipjes (sommige schalen glanzen, andere zijn mat zonder logische reden)', 'Subtiele halo rond de witte vloeistof waar deze het koper raakt']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open, zonder decoratief perfect licht of typisch ansichtkaart-motief.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008147_8210.webp"
-    },
-    {
-      "id": 8204,
-      "titel": "Vuur dat zwemt op water",
-      "beschrijving": "Een vuur brandt in het midden van een wateroppervlak, omringd door donkere, onduidelijke vormen die lijken op rotsen of afval. De vlammen zijn helder oranje en geel, met witte en rode tinten, en werpen een spiegelbeeld op het water. De achtergrond bestaat uit een vaag landschap met donkere bomen en heuvels, geschilderd in blauwe en grijze tinten. Kleurrijke, amorf gevormde objecten—rood, groen, geel—liggen verspreid aan weerskanten van het water, sommige drijvend, andere halfondergedoken. Het water heeft ronde golven die van het vuur uitgaan, en er liggen kleine, donkere voorwerpen in en op het water, zoals takjes of steentjes. De sfeer is dromerig en iets onrustigs, door de combinatie van vuur en water en de onduidelijke vormen.",
-      "cyclus": 8141,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflectie van vuur op water', 'lichte vervorming van Romeinse cijfers op klok']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een eigen, ongemakkelijke spanning tussen tijd en ontbinding.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008141_8204.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8272,
+      "cyclus": 8209,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde architectonische details', 'inconsistent perspectief wateroppervlak']",
+      "cliche_notities": "Beide kerken en het water herinneren aan een typische toeristische ansichtkaart met decoratief licht en iconische onderwerpen.",
+      "bestand": "images/a008209_8272.webp"
+    },
     {
       "id": 8265,
       "cyclus": 8202,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', \"vervormde letters (bijv. 'O' en 'D')\", 'inconsistent perspectief letters ten opzichte van klok', 'wazige randen bij sommige letters']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet gericht op een bevestigend effect.",
       "bestand": "images/a008193_8256.webp"
-    },
-    {
-      "id": 8252,
-      "cyclus": 8189,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke vertaling naar een ansichtkaartmotief.",
-      "bestand": "images/a008189_8252.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8208,
-    "gemaakt": 8270,
-    "gekozen": 1218,
-    "afgekeurd": 1129,
-    "corpus": 68,
+    "cycli": 8213,
+    "gemaakt": 8275,
+    "gekozen": 1221,
+    "afgekeurd": 1130,
+    "corpus": 66,
     "notities": 380
   }
 }
