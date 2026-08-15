@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T05:30+02:00",
+  "bijgewerkt": "2026-08-15T05:45+02:00",
   "werk": [
+    {
+      "id": 7953,
+      "titel": "Barsten die omarmen",
+      "beschrijving": "Drie naakte, roze mannequins staan in een driehoekige opstelling tegen een grijze, betonnen achtergrond met diepe, donkere barsten die diagonaal door het beeld lopen. De mannequins hebben een gladde, matte textuur en ontbreken gezichtsuitdrukkingen, handen en haar. Hun hoofden zijn licht gekanteld, alsof ze elkaar aankijken, maar zonder directe oogcontact. De barsten in de achtergrond volgen de contouren van de figuren, alsof ze uit het beton ontstaan zijn. Het licht valt schuin van bovenaf, waardoor zachte schaduwen over de hals en schouders lopen en de textuur van het beton benadrukt wordt. De compositie is statisch, met de figuren centraal geplaatst en de barsten die de ruimte in segmenten verdelen.",
+      "cyclus": 7887,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; textuur van beton en scheuren consistent, gezichten en lichamen proportioneel en zonder vervormingen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of toeristisch onderwerp; de compositie en kleurkeuze (roze mannequins tegen beton) vragen om interpretatie zonder een voordeeltje te bieden",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007887_7953.webp"
+    },
+    {
+      "id": 7950,
+      "titel": "Donker water, groene sprieten",
+      "beschrijving": "Een glazen beker staat centraal, gevuld met donker water dat de omgeving weerspiegelt. Groene, spitse grassprietten steken door en boven de beker uit, met enkele bladeren die in het water hangen. De achtergrond is donker, bijna zwart, wat de helderheid van het glas en de groene tinten benadrukt. Het glas heeft een lichte, doorschijnende textuur met subtiele vervormingen, terwijl het water een gladde, donkere oppervlakte vormt. De compositie is rustig, met de beker als focus en het gras dat de randen van het beeld vult.",
+      "cyclus": 7884,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de combinatie van het glas en het gras.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007884_7950.webp"
+    },
     {
       "id": 7947,
       "titel": "Barst in de stilte",
@@ -13,6 +39,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007881_7947.webp"
+    },
+    {
+      "id": 7946,
+      "titel": "Waar blijft de blik?",
+      "beschrijving": "Een portret in olieverf toont een menselijk hoofd en bovenlichaam, geschilderd met zichtbare, dikke penseelstreken die een textuur creëren. Het gezicht is grotendeels wit en crème met subtiele grijze en beige tinten, waarbij de neus, mond en ogen vaag maar herkenbaar zijn door de losse schildertechniek. Het haar bestaat uit onregelmatige, witte vlekken met kleine donkere details. De hals en schouders lopen over in een effen, lichtgrijze achtergrond met zachte overgangen. Een donkergrijze sjaal of kraag omlijst de hals, met een scherpe V-vorm die naar beneden loopt. De compositie is centraal gericht, met het hoofd licht schuin naar rechts gedraaid. De sfeer is rustig en neutraal, door de beperkte kleurenpalet en de afwezigheid van duidelijke achtergrond-elementen.",
+      "cyclus": 7880,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in gezichtsuitdrukking (ogen en mond lijken niet helemaal op elkaar te passen)', 'subtiele halo rond de rand van het hoofd tegen de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie heeft een persoonlijke, niet-decoratieve uitstraling.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007880_7946.webp"
     },
     {
       "id": 7943,
@@ -91,48 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007832_7898.webp"
-    },
-    {
-      "id": 7891,
-      "titel": "Wat ligt er achter die deuren",
-      "beschrijving": "Twee witte deuren met zwarte omlijstingen staan wijd open, waardoor een donkere, lege ruimte zichtbaar wordt. De deuren hebben klassieke panelen en zwarte metalen handvatten. De linkerdeur staat iets meer open dan de rechter, en beide deuren werpen een schuine schadewerking op de lichtgrijze vloer. In de donkere ruimte achter de deuren zijn enkele kleine, donkere strepen te zien, alsof er iets op de vloer ligt. De muren rond de deuren zijn lichtgekleurd met subtiele textuur, en de deurkozijnen hebben een lichte, bijna crèmekleurige tint. De compositie is symmetrisch, maar de asymmetrische stand van de deuren breekt de balans. De sfeer is rustig en iets mysterieus door het contrast tussen het lichte kader en de donkere, onduidelijke ruimte erachter.",
-      "cyclus": 7825,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, bijna ongemakkelijke spanning door de asymmetrie en de leegte achter de deur.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007825_7891.webp"
-    },
-    {
-      "id": 7889,
-      "titel": "Zes schaduwen op de droge weg",
-      "beschrijving": "Zes donkere silhouetten van kinderen rennen over een lichtgekleurde, golvende baan die door een uitgedroogd landschap loopt. Het omringende terrein is opgesloten in donkere, onregelmatige patronen die denken aan barstend leem, met hier en daar wat droog gras. De baan loopt in een S-vorm naar de horizon, waar een kerk met een spitse toren en donkere bomen staan. De achtergrond is egaal beige, zonder details. De kinderen hebben verschillende houdingen: sommigen strekken hun armen, anderen laten ze hangen, en hun haren en kleding bewegen mee met de beweging. Kleiachtige bruine en beige tinten domineren, met donkere contouren die de vormen benadrukken. De compositie trekt het oog van de voorgrond, waar de kinderen het dichtst bij zijn, naar de achtergrond, waar de kerk de blik afsluit.",
-      "cyclus": 7823,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de kerk (dak lijkt niet in lijn met muren)', 'lichte wazigheid in de achtergrondbomen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een symbolische, niet-toeristische uitstraling met een focus op verdwijnen en leegte, geen iconisch landschap.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007823_7889.webp"
-    },
-    {
-      "id": 7886,
-      "titel": "De lijn die de ruimte deelt",
-      "beschrijving": "Twee witte houten deuren staan wijd open, met een zachte roze muur en vloer erachter. Een dunne, donkere lijn loopt schuin van linksboven naar rechtsonder over de muur, alsof er iets langwerps tegen rustte. De deuren hebben klassieke panelen en koperen klinkers. Het licht valt zacht door de deuropening, waardoor de ruimte erachter een warme, bijna dromerige gloed krijgt. De vloer is glad en reflecteert het licht subtiel. Er is niets anders zichtbaar dan de deuren, de muur, de vloer en de schuine lijn. De compositie is symmetrisch, met de deuren aan weerskanten en de lijn die de ruimte in tweeën deelt.",
-      "cyclus": 7820,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007820_7886.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7963,
+      "cyclus": 7897,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een woestijns zonsondergang met perfecte belichting en een klassieke compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a007897_7963.webp"
+    },
+    {
+      "id": 7960,
+      "cyclus": 7894,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent perspectief huis vs landschap', 'wazige textuur in achtergrond']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een fragmentarische compositie met onopgeloste spanning tussen tekst en beeld.",
+      "bestand": "images/a007894_7960.webp"
+    },
     {
       "id": 7958,
       "cyclus": 7892,
@@ -141,24 +159,6 @@
       "tech_notities": "['lichte inconsistentie in textuur van stenen (sommige te scherp, andere wazig)', 'zon iets te perfect rond en helder voor natuurlijk licht']",
       "cliche_notities": "Zonsondergang door een muur van stenen is een iconisch motief zonder eigen compositorische keuze.",
       "bestand": "images/a007892_7958.webp"
-    },
-    {
-      "id": 7957,
-      "cyclus": 7891,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst als centraal element.",
-      "bestand": "images/a007891_7957.webp"
-    },
-    {
-      "id": 7954,
-      "cyclus": 7888,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van bomen langs de weg', 'watervlak in venster iets te perfect recht']",
-      "cliche_notities": "Landschap met vogels en dorpsgezicht herinnert aan typische ansichtkaartcompositie met ideale verdeling van natuur en bewoning",
-      "bestand": "images/a007888_7954.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7894,
-    "gemaakt": 7959,
-    "gekozen": 1160,
-    "afgekeurd": 1083,
+    "cycli": 7900,
+    "gemaakt": 7965,
+    "gekozen": 1163,
+    "afgekeurd": 1085,
     "corpus": 67,
     "notities": 372
   }
