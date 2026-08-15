@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T16:45+02:00",
+  "bijgewerkt": "2026-08-15T17:00+02:00",
   "werk": [
+    {
+      "id": 8254,
+      "titel": "Twaalf uur zonder bladeren",
+      "beschrijving": "Rode en roze waterverfvlakken vullen de achtergrond, met zachte, onregelmatige randen die zich vermengen met de lichte, korrelige structuur van het oppervlak. Dunne, donkere takken zonder bladeren lopen diagonaal door het beeld, met kleine, donkere knoppen die de klok en de achtergrond doorsnijden. Bruine en zwarte vlekken en spetters verspreiden zich vooral aan de onderkant, waar een donkere, amorf vorm de indruk wekt van een oplosend oppervlak. De klok wijst precies twaalf uur aan, met de wijzers in een perfecte T-vorm.",
+      "cyclus": 8191,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de klok ten opzichte van de achtergrond', 'lichte wazigheid in de takken aan de linkerzijde']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een klassiek motief (klok) met abstracte, watervaste vormen en een ongemakkelijke compositie, wat het boven een toeristische ansichtkaart verheft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008191_8254.webp"
+    },
+    {
+      "id": 8251,
+      "titel": "Waar blijft de rand?",
+      "beschrijving": "Donkere, korrelige textuur domineert het beeld, doorsneden door een scherpe, diagonale strook van witte, parallelle lijnen die een gevoel van beweging of scheiding suggereren. De achtergrond is egaal donkergrijs met subtiele variaties in schaduw, terwijl de witte lijnen een bijna glanzende, korrelige textuur hebben die contrasteert met de matte omgeving. De compositie is minimalistisch, met de lijnen die de beeldvlak diagonaal doorkerfen en de kijker een richting geven zonder een duidelijk middelpunt. De sfeer is statisch maar spanningsrijk, door de tegenstelling tussen de rustige achtergrond en de dynamische lijnen.",
+      "cyclus": 8188,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont geen decoratief perfect licht, maar een abstracte, minimalistische compositie met een focus op textuur en lijn.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008188_8251.webp"
+    },
     {
       "id": 8240,
       "titel": "Rood onder de scheur",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008141_8204.webp"
-    },
-    {
-      "id": 8199,
-      "titel": "Wie tekende deze kringen?",
-      "beschrijving": "Zand vormt een ongelijkmatig oppervlak met verspreide kiezelstenen en kleine scherven. Een cilindrische, ruwe structuur van wat lijkt op gedroogde klei of modder staat centraal, met een onregelmatige, beschadigde rand aan de bovenkant en een klein, reliëfachtig huisje met een dak en een venster aan de zijkant. Voor deze cilinder ligt een kleiner, drie-dimensionaal huisje van hetzelfde materiaal, met een schuin dak, twee ronde openingen en een rechthoekige deuropening. Rond de structuren lopen concentrische, ingekkerde lijnen door het zand, alsof er met een puntig voorwerp in het natte zand is getekend. Kleine, glinsterende deeltjes, mogelijk glas of steen, liggen verspreid over het zand. De scène is in zwart-wit, met scherp contrast tussen de lichte en donkere gebieden, wat de textuur van het zand en de materialen benadrukt. De achtergrond vervaagt geleidelijk, waardoor de focus op de centrale objecten blijft liggen.",
-      "cyclus": 8136,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de combinatie van de cilindervormige structuur en de kleine huisjes, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008136_8199.webp"
-    },
-    {
-      "id": 8194,
-      "titel": "Wolken die een lijn trekken",
-      "beschrijving": "Twee witte, korrelige wolken zweven boven een scherp getrokken roze horizon, die de compositie in twee gelijke helften deelt. Onder de horizon loopt een smalle, verticale witte lijn omhoog, alsof de wolken eruit groeien. De achtergrond is egaal grijs, met een subtiele textuur die aan papier of beton doet denken. De wolken hebben een zachte, onregelmatige vorm, met kleine, ronde uitstulpingen die een volumineus effect geven. De roze band heeft een licht ongelijkmatige rand, alsof hij met krijt is getekend. De witte lijn is niet recht, maar heeft een lichte, natuurlijke wankelheid, alsof hij in één zwiep is getrokken. De kleuren zijn gedempt, maar de roze tint springt eruit door zijn helderheid tegen het neutrale grijs. De sfeer is kalm en ietsje surrealistisch, door de combinatie van de eenvoudige vormen en de onverwachte kleurkeuze.",
-      "cyclus": 8131,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een minimalistische compositie met een abstracte, bijna ongemakkelijke schoonheid.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008131_8194.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 8194,
-    "gemaakt": 8256,
-    "gekozen": 1216,
+    "cycli": 8201,
+    "gemaakt": 8263,
+    "gekozen": 1218,
     "afgekeurd": 1128,
     "corpus": 67,
     "notities": 380
