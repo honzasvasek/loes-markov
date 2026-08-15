@@ -15,7 +15,9 @@ Gebruik: .venv/bin/python site/build.py [--aantal 18] [--afgekeurd 8]
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
+import re
 import sqlite3
 from datetime import datetime
 from difflib import SequenceMatcher
@@ -204,6 +206,31 @@ def _verwerk_reeks(rijen: list[dict], breedte: int, voorvoegsel: str) -> list[di
     return uit
 
 
+def cachebust_index() -> None:
+    """Hangt een contenthash-query aan style.css/script.js in index.html.
+
+    data.json ontsnapt aan de browsercache via `cache: "no-cache"` in de fetch
+    (script.js) — maar style.css en script.js zelf worden met kale <link>/
+    <script>-tags geladen, en GitHub Pages serveert ze met `cache-control:
+    max-age=600`. Een bewerking aan een van die twee bleef daardoor tot tien
+    minuten onzichtbaar, exact dezelfde klasse fout als hierboven bij
+    data.json (die "een avond zoeken" kostte). Draait bij elke build, dus een
+    edit aan style.css/script.js krijgt vanzelf een nieuwe URL zodra de site
+    opnieuw gebouwd wordt (handmatig of via de tweeuurlijkse refresh)."""
+    index_pad = BASE / "index.html"
+    html = index_pad.read_text(encoding="utf-8")
+    for bestand in ("style.css", "script.js"):
+        hash_kort = hashlib.sha256((BASE / bestand).read_bytes()).hexdigest()[:8]
+        html, n = re.subn(
+            rf'{re.escape(bestand)}(\?v=[0-9a-f]+)?"',
+            f'{bestand}?v={hash_kort}"',
+            html,
+        )
+        if n != 1:
+            raise SystemExit(f"cachebust_index: verwachtte precies 1 verwijzing naar {bestand}, vond {n}")
+    index_pad.write_text(html, encoding="utf-8")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     # Minder is hier beter: 24 werken + 8 afgekeurd + 24 notities werd één
@@ -238,6 +265,7 @@ def main() -> None:
     (BASE / "data.json").write_text(
         json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+    cachebust_index()
     print(
         f"{len(data['werk'])} werken + {len(data['afgekeurd'])} afgekeurd verwerkt, "
         f"{len(data['notities'])} notities, site/data.json bijgewerkt"

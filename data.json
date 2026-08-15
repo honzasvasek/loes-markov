@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T15:30+02:00",
+  "bijgewerkt": "2026-08-15T15:43+02:00",
   "werk": [
+    {
+      "id": 8224,
+      "titel": "De theepot die wacht op water",
+      "beschrijving": "Een smalle, rechte gang met rozebruine muren en een lichtere vloer loopt door het midden. Aan weerskanten bevinden zich donkere deuropeningen, waarvan de linker een smalle strook licht laat zien. In het midden van de gang staat een donkerbruine theepot met een handvat en een neusje, werpend een zachte schaduw op de vloer. Het plafond is evenwijdig aan de muren en versterkt de diepte van de ruimte. De sfeer is stil en leeg, met een focus op de eenvoudige vorm en textuur van de theepot tegen de minimalistische achtergrond.",
+      "cyclus": 8161,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren aan weerskanten', 'lichte wazigheid in de textuur van de vloer bij de voorgrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of decoratieve elementen die het tot een ansichtkaart maken.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008161_8224.webp"
+    },
+    {
+      "id": 8212,
+      "titel": "Vonken en vliegende dromen",
+      "beschrijving": "Een open houten deur met twee panelen onthult een woedende vuurhaard, waar oranje en gele vlammen hevig opvlammen en vonken in de lucht zaaien. Boven de deur vliegen vijf ganzen in een V-formatie van linksboven naar rechtsonder, hun vleugels wijd gespreid. Onder de deur, op de grond, staat een enkele gans met donkere veren en een witte buik, kijkend naar het vuur. Rond de deur verspreid liggen stenen, droge bladeren en wat grashalmen, terwijl aan weerszijden van de deur subtiele tekeningen van planten en bloemen in de muur zijn getekend. De achtergrond is een egale, lichte muur met een lichte textuur, wat de indruk van een binnenruimte geeft. De sfeer is zowel dynamisch als onrustig, door de combinatie van de vliegende ganzen, de woedende vlammen en de rustige, bijna verwaarloosde omgeving rond de deur.",
+      "cyclus": 8149,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren', 'lichte wazigheid in de achtergrondtextuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert symbolische elementen (vuur, vogels, deur) op een manier die verder gaat dan een typische ansichtkaart, met een nadruk op ontbinding en afwezigheid.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008149_8212.webp"
+    },
     {
       "id": 8210,
       "titel": "Waar het water fluistert",
@@ -104,61 +130,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008105_8168.webp"
-    },
-    {
-      "id": 8162,
-      "titel": "Gouden strook in nat beton",
-      "beschrijving": "Nat bestraatwerk reflecteert gouden zonlicht in een smalle strook die zich uitstrekt naar een onscherpe horizon. Witte regendruppels, scherp en onscherp, verspreiden zich over het beeld, sommige als zachte cirkels, andere als fijne stippen. Donkere voeglijnen vormen een raster dat de natte tegels in rechthoeken deelt, terwijl de achtergrond oplost in een flauwe mengeling van groene en grijze vormen. Het licht creëert een glinsterend patroon op het oppervlak, met kleine, schitterende hoogtepunten die de textuur van het nat beton benadrukken.",
-      "cyclus": 8099,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie en focus op natte tegels met reflecties en regendruppels zijn niet iconisch of typisch toeristisch, maar hebben een intieme, persoonlijke sfeer.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008099_8162.webp"
-    },
-    {
-      "id": 8158,
-      "titel": "Donkere golven op glas",
-      "beschrijving": "Een donkere, onregelmatige vorm rust op een glad, rond oppervlak. De textuur is ruw en gelaagd, met diepe richels en fijne, vezelachtige structuren die in golven lopen. Kleurrijke details ontbreken; alles is in grijstinten weergegeven, van donkerzwart tot lichtgrijs. De achtergrond is egaal en ontdaan van afleiding, waardoor de focus ligt op de complexe vorm en de subtiele spelletjes van licht en schaduw op het oppervlak. Kleine, glinsterende deeltjes zijn verspreid over de textuur, wat een gevoel van vochtigheid of kristallisatie suggereert. De compositie is statisch, maar de dynamiek van de vormen en texturen zorgt voor een intrigerend visueel effect.",
-      "cyclus": 8094,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve vorm met een bewuste compositorische keuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008094_8158.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 8211,
-      "cyclus": 8148,
+      "id": 8227,
+      "cyclus": 8164,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
       "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een weg bij zonsondergang met een romantische gloed en een decoratief perfect licht, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008148_8211.webp"
+      "cliche_notities": "De molen is een iconisch Nederlands motief, weergegeven in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008164_8227.webp"
     },
     {
-      "id": 8206,
-      "cyclus": 8143,
+      "id": 8225,
+      "cyclus": 8162,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een typisch voorjaarsschap met kersenbloesems in een geordende, decoratieve compositie, zonder duidelijke persoonlijke of conceptuele keuzes.",
+      "bestand": "images/a008162_8225.webp"
+    },
+    {
+      "id": 8223,
+      "cyclus": 8160,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief', 'wazige texturen', 'detailverlies in schaduw/highlight']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een complexe compositie met meerdere lagen en een ongemakkelijke schoonheid.",
-      "bestand": "images/a008143_8206.webp"
-    },
-    {
-      "id": 8205,
-      "cyclus": 8142,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflectie van zon op water', 'lichte wazigheid in achtergrondbomen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch landschap, zonsondergang en rustgevend water, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008142_8205.webp"
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een typisch Nederlands polderlandschap door een gang, met een bordje dat een verzonnen tekst heeft, wat het een ansichtkaart-achtige, iconische uitstraling geeft zonder eigen compositorisch standpunt.",
+      "bestand": "images/a008160_8223.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8161,
+      "soort": "observatie",
+      "tekst": "De gang in c8161 en de verbrande houtvezels in c8158 zijn geen afzonderlijke ruimtes meer, maar twee momenten waarin ontbinding zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de gang loopt door zonder een bestemming die zich laat benoemen, de houtvezels vallen uiteen zonder een oorzaak die zich laat verklaren. De leegte tussen deze beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
+    },
+    {
       "cyclus": 8149,
       "soort": "observatie",
       "tekst": "De vonken in c8149 en het schuimende water in c8147 zijn geen sporen van ontbinding meer, maar twee momenten waarin de taal van ontbinding zichzelf overschrijdt—de vonken zaaien een verhaal dat zich niet meer laat vertalen, het water stroomt zonder een richting die zich laat vatten. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 7919,
       "soort": "observatie",
       "tekst": "De deuren in c7914 en c7912 zijn geen doorgang meer naar een landschap, maar de actieve spanning tussen een vorm die zich onttrekt aan een functie en een ruimte die zich weigert te laten betreden—de open deuren leiden naar niets dat zich laat vatten, de slijtage op de lamellen suggereert een verhaal dat zich niet meer laat vertellen."
-    },
-    {
-      "cyclus": 7859,
-      "soort": "twijfel",
-      "tekst": "De recente beelden draaien om vormen die zich onttrekken aan een verhaal, maar de spanning tussen die vormen en de ruimte eromheen wordt steeds stiller—de lijnen lopen minder scherp, de donkere vlekken domineren minder. Misschien is het tijd om niet meer te zoeken naar de spanning zelf, maar naar wat er overblijft als die spanning verdwijnt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8159,
-    "gemaakt": 8221,
-    "gekozen": 1210,
-    "afgekeurd": 1122,
+    "cycli": 8165,
+    "gemaakt": 8227,
+    "gekozen": 1212,
+    "afgekeurd": 1126,
     "corpus": 67,
-    "notities": 378
+    "notities": 379
   }
 }
