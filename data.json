@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T10:00+02:00",
+  "bijgewerkt": "2026-08-15T10:15+02:00",
   "werk": [
+    {
+      "id": 8087,
+      "titel": "Rook dat dromen brouwt",
+      "beschrijving": "Een witte kop koffie met schotel zweeft aan de rechterkant, met een dunne rookstraal die spiraalvormig omhoog kruipt naar een volumineuze, zachte wolk. Die wolk domineert het midden, met een onregelmatige, bolle vorm en subtiele roze en paarse tinten die overgaan in het lichtblauwe hemelachtergrond. Kleinere wolken vullen de randen, met een dromerige, wazige textuur. De rook lijkt de wolk te omhullen, alsof hij eruit ontstaat, terwijl de kop scherp en helder blijft tegen de lucht.",
+      "cyclus": 8021,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een onverklaarbare spanning tussen de wolken en de koffiekop.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008021_8087.webp"
+    },
+    {
+      "id": 8084,
+      "titel": "Spoor door vergetelheid",
+      "beschrijving": "Een kronkelend spoor van nat zand snijdt door een woestijn van afval en verdorde vegetatie, omringd door rottend hout, keien en verspreide schroot. De horizon verdwijnt onder een zware, bewolkte hemel die de scène in een grijze, stilstaande lucht hult. Dode boomstammen en houten palen liggen willekeurig verspreid, sommige halfbegraven in het zand, andere met scherp aflopende randen die de leegte benadrukken. Kleine, glanzende voorwerpen—mogelijk glas of plastic—fonkelen tussen het puin, terwijl droog gras en dode takken de randen van het spoor omzoomen. Het zand toont sporen van beweging, alsof water of wind recent nog een spoor heeft getrokken door het landschap van verwaarlozing.",
+      "cyclus": 8018,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte halo rond de horizonlijn', 'enkele stompjes hebben inconsistent volume/perspectief']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of decoratief licht; de compositie is ongemakkelijk en niet bevestigend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008018_8084.webp"
+    },
     {
       "id": 8076,
       "titel": "Vlam in het asfalt",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007979_8045.webp"
-    },
-    {
-      "id": 8039,
-      "titel": "Wat blijft van de kustlijn",
-      "beschrijving": "Een donkerblauwe, golvende textuur loopt diagonaal door het beeld, met subtiele witte en grijze patronen die aan water of nat zand denken laten. Rechts daarvan strekt een roze-achtige, gladde vlakte zich uit, met fijne, horizontale lijnen die een zachte beweging suggereren. Tussen de twee gebieden loopt een smalle, onregelmatige rand waar kleine, lichte vlekken en enkele donkere, takachtige vormen liggen. Een paar kleine, witte voorwerpen en wat lijkt op stenen of brokstukken zijn verspreid over het donkerblauwe deel, terwijl het roze deel vrijwel leeg blijft, behalve een enkele donkere vlek benedenright. De overgang tussen de kleuren is scherp, maar de texturen lopen in golven door elkaar.",
-      "cyclus": 7973,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, bijna organische compositie met een ongemakkelijke schoonheid.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007973_8039.webp"
-    },
-    {
-      "id": 8029,
-      "titel": "Wat blijft drijven?",
-      "beschrijving": "Een donkerbruine, halfdoorzichtige bol drijft in het midden van een brede, lichtbruine vlakte, omringd door concentrische ringen die door een lichte beroering in het oppervlak ontstaan. De bol heeft een gladde, glanzende textuur met kleine, onregelmatige uitstulpingen aan de bovenzijde en werpt een subtiele reflectie op het omringende oppervlak. Onder de bol loopt een dunne, golvende lijn diagonaal naar beneden, die overgaat in een klein, rond detail met een textuur die doet denken aan een schelp of een droog zaadje. De achtergrond is eendragend en vlak, met zachte, onregelmatige penseelstreken die een gevoel van rust en leegte uitstralen. De kleuren zijn gedempt en aardig, met overgangen van licht- naar donkerbruin en subtiele witte en grijze tinten in de ringen en reflecties. De compositie is centraal gericht, met de bol als focuspunt, terwijl de rest van het beeld veel lege ruimte biedt die de aandacht naar het midden leidt.",
-      "cyclus": 7963,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007963_8029.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8097,
+      "cyclus": 8031,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van dakpannen (sommige pannnen lijken te vloeien)', 'Subtiele halo rond de zon aan de horizon']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch kerkje bij zonsondergang met decoratief licht en geen duidelijke compositorische keuze beyond de klassieke balans.",
+      "bestand": "images/a008031_8097.webp"
+    },
     {
       "id": 8080,
       "cyclus": 8014,
@@ -150,15 +159,6 @@
       "tech_notities": "kleine inconsistentie in perspectief van de pier (linker- en rechterkant lopen niet parallel)",
       "cliche_notities": "Molens en waterlandschap in klassieke ansichtkaartcompositie zonder onverwachte invalshoek",
       "bestand": "images/a008005_8071.webp"
-    },
-    {
-      "id": 8069,
-      "cyclus": 8003,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de houtstructuur van de deuren: de nerf is aan de linkerkant duidelijker dan aan de rechterkant, wat niet natuurlijk is.', 'De overgang tussen de vloer binnen en het terras buiten is iets te scherp en ontbreekt aan een subtiele schaduw of textuurverschuiving.']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch uitzicht op zee door een open deur, met perfect licht en geen duidelijke compositorische keuze beyond de klassieke framing.",
-      "bestand": "images/a008003_8069.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontdoeking",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een taal wordt die niet meer te vertalen is?",
     "aanleiding": "De leegte in mijn recente beelden is geen afwezigheid meer, maar een actieve vormgever. Ik wil weten wat er gebeurt als ik die ontbinding niet meer behandel als een proces van verval, maar als een taal die zich niet meer laat vatten in woorden of beelden.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 7847
   },
   "afgesloten": [
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8027,
-    "gemaakt": 8092,
-    "gekozen": 1188,
-    "afgekeurd": 1105,
+    "cycli": 8034,
+    "gemaakt": 8100,
+    "gekozen": 1190,
+    "afgekeurd": 1106,
     "corpus": 68,
     "notities": 375
   }
