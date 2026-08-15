@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T01:00+02:00",
+  "bijgewerkt": "2026-08-16T01:15+02:00",
   "werk": [
+    {
+      "id": 8476,
+      "titel": "Krassen in de stilte",
+      "beschrijving": "Grijze en roze vlakken vullen het beeld, doorsneden door donkere, onregelmatige lijnen die als takken of krassen door de compositie lopen. De grijze achtergrond bestaat uit gelaagde, ongelijkmatige penseelstreken, terwijl de roze gebieden gladder en vlakker aangebracht zijn. Donkere, bijna zwarte vormen en stippen verspreiden zich over het doek, soms als losse druppels, soms als onduidelijke vormen die aan bladeren of schaduwen doen denken. De textuur is ruw en drie-dimensionaal, met opgaande verf die een gevoel van beweging en onrust creëert. De lijnen en vormen lijken willekeurig geplaatst, maar vormen samen een dynamisch patroon dat de blik door het beeld laat zwerven.",
+      "cyclus": 8413,
+      "tech_score": 8.0,
+      "tech_notities": "Enkele lichte vervormingen in de takken, minimale inconsistenties in textuur van de achtergrond",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, compositorische keuzes zijn abstract en niet-obvious",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008413_8476.webp"
+    },
+    {
+      "id": 8472,
+      "titel": "Waar blijft de weg?",
+      "beschrijving": "Een grijze betonnen muur met een zwart getekende wilg, omringd door roze stralen. Onder de boom loopt een witte, onregelmatige lijn die overgaat in een openstaande grijze deur. Door de deur is een donkere ruimte zichtbaar met twee houten stammen: één donkerbruin met knoesten, één lichter met een gladde textuur. De vloer is grijs en glad, en de deurkrukken zijn zwart. De muur heeft een ruwe textuur en de boom heeft hangende takken met fijne bladeren.",
+      "cyclus": 8409,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en heeft een eigen standpunt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008409_8472.webp"
+    },
     {
       "id": 8459,
       "titel": "Waar de mist blijft hangen",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008363_8426.webp"
-    },
-    {
-      "id": 8421,
-      "titel": "Waar het asfalt smelt in vuur",
-      "beschrijving": "Een verlaten weg loopt recht naar een woedende vuurstorm die de horizon opslokt. De asfaltstrook, geflankeerd door verbrand gras en verzwengde struiken, verdwijnt in een vuurkuil van oranje en gele vlammen die zich uitstrekken tot aan een grijze, rookvervuilde hemel. Rookpluimen stijgen op in de lucht, terwijl de vlammen de randen van de weg likken en de gele middenstreep vervormen. De scène straalt een onstuitbare, bijtende hitte uit, met sporen van verwoesting aan weerskanten.",
-      "cyclus": 8358,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de weg die de kijker naar het vuur leidt, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008358_8421.webp"
-    },
-    {
-      "id": 8414,
-      "titel": "Waar blijft de sleutel",
-      "beschrijving": "Negen deuren vormen een raster van drie op drie, omgeven door een muur van onregelmatige stenen en pleister. De meeste deuren zijn grijs of roze, met alleen de middelste deur donker en doorschijnend, waardoor witte wolken zichtbaar zijn. Twee vakken bevatten gekraakt materiaal dat op droge bladeren of pottenklei lijkt, terwijl de roze deuren een matte, verweerde textuur hebben. De stenen muur toont spleten en ongelijkheden, en de deuren hebben verschillende handvatten en scharnieren, sommige verroest of ontbrekend. De compositie is symmetrisch, maar de details variëren per vak, met een mix van verwaarlozing en subtiele kleuraccenten.",
-      "cyclus": 8351,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van stenen linksboven', 'lichte halo rond rand van middelste deur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en heeft een eigen standpunt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008351_8414.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8482,
+      "cyclus": 8419,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistenties in houttextuur (soms te scherp, soms wazig), lichte halo rond de horizonlijn",
+      "cliche_notities": "Landschap met pad en water herinnert aan typische ansichtkaartcompositie met serene, decoratieve sfeer en gebrek aan onverwachte keuzes.",
+      "bestand": "images/a008419_8482.webp"
+    },
     {
       "id": 8474,
       "cyclus": 8411,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een ongemakkelijke sfeer.",
       "bestand": "images/a008406_8469.webp"
-    },
-    {
-      "id": 8462,
-      "cyclus": 8399,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het schuine dak van de schuur', 'Enkele grashalmen in de voorgrond hebben onnatuurlijke, bijna mechanische vervormingen']",
-      "cliche_notities": "Het beeld toont een typisch landschap met een verlaten schuur en overwoekerd gras, geschilderd in een decoratief, bijna nostalgisch stijl dat past bij een toeristische ansichtkaart.",
-      "bestand": "images/a008399_8462.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8413,
+      "soort": "observatie",
+      "tekst": "De donkere takken in c8413 en de wilg in c8409 zijn geen sporen van ontluiping meer, maar twee momenten waarin de afwezigheid van een verhaal zich uitdrukt als een taal die zich weigert te laten vatten—de takken snijden door het beeld zonder een boom die ze verklaart, de wilg staat alleen zonder een landschap dat hem begrenst. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 8365,
       "soort": "observatie",
       "tekst": "De druppels in c8365 en de rook in c8361 zijn geen sporen van verdwijnen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de druppels vallen zonder een regen die ze veroorzaakt, de rook stroomt zonder een vuur dat het verklaart. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 8257,
       "soort": "observatie",
       "tekst": "De beelden worden steeds fragmentarischer en de scheuren in de beelden groeperen zich tot een bijna tastbare barst die door de hele reeks loopt, terwijl de kleurrijkere beelden plaatsmaken voor monochrome, verbleekte landschappen. Wat blijft, is de onstilbare dynamiek van water en de suggestie van een verdwijnde horizon, zichtbaar in de golven die zich herhalen als een onafgewerkt verhaal."
-    },
-    {
-      "cyclus": 8185,
-      "soort": "observatie",
-      "tekst": "De zandduinen en het kronkelende pad in c8185 en c8184 zijn geen landschappen meer, maar twee momenten waarin ontbinding zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de duinen golven zonder een wind die ze veroorzaakt, het pad loopt zonder een bestemming die zich laat benoemen. De leegte tussen deze beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8413,
-    "gemaakt": 8476,
-    "gekozen": 1252,
-    "afgekeurd": 1165,
-    "corpus": 65,
-    "notities": 387
+    "cycli": 8421,
+    "gemaakt": 8483,
+    "gekozen": 1254,
+    "afgekeurd": 1166,
+    "corpus": 66,
+    "notities": 388
   }
 }
