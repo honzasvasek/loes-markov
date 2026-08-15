@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T06:45+02:00",
+  "bijgewerkt": "2026-08-15T07:00+02:00",
   "werk": [
+    {
+      "id": 7989,
+      "titel": "Scheuren in het wit",
+      "beschrijving": "Grijze en witte wolken vullen het beeld, zacht en wazig, met donkere, onregelmatige scheuren die erdoorheen lopen. De scheuren zijn donkerder, bijna zwart, en hebben een onstuimige, takachtige vorm met kleine uitsteeksels. Ze lopen diagonaal van linksboven naar rechtsonder, en splitsen de wolken in ongelijkmatige delen. De achtergrond is een egale, donkergrijze lucht, met enkele lichtere plekken waar het licht door de wolken schijnt. De randen van het beeld zijn iets donkerder, wat een gevoel van kromming of een vignette-effect geeft. Er zijn geen andere vormen of details zichtbaar dan de wolken en de scheuren.",
+      "cyclus": 7923,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van de wolken aan de randen, wat een iets kunstmatige uitstraling geeft', 'De bliksemflits heeft op sommige plekken een iets te schone, bijna getekende structuur, wat niet helemaal natuurlijk overkomt']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld gaat verder dan een typische ansichtkaart door de focus te leggen op de spanning tussen de wolken en de bliksem, zonder een iconisch of bevestigend onderwerp",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007923_7989.webp"
+    },
+    {
+      "id": 7987,
+      "titel": "Pootafdrukken in een verdwijnpad",
+      "beschrijving": "Lichtgele zandduinen vullen het beeld, doorsneden door een donkere, kronkelende spleet die van boven naar beneden loopt. Twee donkere pootafdrukken, met vier tenen en een pad, liggen aan weerskanten van de spleet, alsof ze een pad volgen dat in het zand verdwijnt. Subtiele schaduwen en lichte textuurverschillen geven het zand diepte, terwijl de achtergrond zacht overloopt in een vaag, lichtblauwe horizon. Donkere vlekken en sporen suggereren vocht of slijm, vooral rond de pootafdrukken en de spleet. De compositie is rustig, met de spleet als centrale lijn die het oog naar beneden leidt, waar de afdrukken een gevoel van beweging toevoegen aan het anders stilstaande landschap.",
+      "cyclus": 7921,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van zand in de achtergrond vs. voorgrond', 'Subtiele halo rond de donkere spleet in het zand']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een unieke compositorische keuze met de spleet en dierensporen, geen typisch iconisch onderwerp",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007921_7987.webp"
+    },
     {
       "id": 7985,
       "titel": "Waar begint de weg?",
@@ -13,6 +39,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007919_7985.webp"
+    },
+    {
+      "id": 7981,
+      "titel": "Bloesems tussen de palen",
+      "beschrijving": "Een rij kaalgebleven bomen met witte bloesems vult de onderste helft, tegen een lucht die overgaat van donkergrijs in de bovenste laag naar zachtroze bij de horizon. Droog gras en verspreide stenen bedekken de grond, terwijl smalle betonnen palen tussen de bomen steken. De takken vormen een ingewikkeld patroon van donkere, uitgestrekte lijnen tegen de kleurenmengsel van de achtergrond.",
+      "cyclus": 7915,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een ongemakkelijke, bijna onrustige sfeer door de donkere wolken en de kale bomen, wat afwijkt van de typische ansichtkaartcompositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w007915_7981.webp"
     },
     {
       "id": 7978,
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007884_7950.webp"
-    },
-    {
-      "id": 7947,
-      "titel": "Barst in de stilte",
-      "beschrijving": "Een helderblauwe hemel met witte, pluizige wolken vormt de achtergrond. Een scherpe, donkere barst loopt diagonaal door het beeld, met takjes die zich uitstrekken als een vertakte boom zonder bladeren. De barst heeft een ruwe textuur en lijkt alsof het glas zou kunnen barsten. Witte, dunne lijnen stralen vanuit de barst uit, alsof ze de scheur proberen te helen of te benadrukken. De compositie is minimalistisch, met veel lege ruimte rond de barst en de wolken, wat een gevoel van stilte en spanning oproept. De kleuren zijn levendig maar niet overweldigend, met de blauwe hemel die contrasteert tegen de witte wolken en de donkere barst.",
-      "cyclus": 7881,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in de takstructuur: sommige takken lopen abrupt ten einde zonder logische vertakking', 'lichte wazigheid in de randen van de wolken, alsof ze te sterk zijn gegladijzerd']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch motief; de focus ligt op de abstracte spanning tussen leegte en structuur, niet op een herkenbaar landschap.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007881_7947.webp"
-    },
-    {
-      "id": 7946,
-      "titel": "Waar blijft de blik?",
-      "beschrijving": "Een portret in olieverf toont een menselijk hoofd en bovenlichaam, geschilderd met zichtbare, dikke penseelstreken die een textuur creëren. Het gezicht is grotendeels wit en crème met subtiele grijze en beige tinten, waarbij de neus, mond en ogen vaag maar herkenbaar zijn door de losse schildertechniek. Het haar bestaat uit onregelmatige, witte vlekken met kleine donkere details. De hals en schouders lopen over in een effen, lichtgrijze achtergrond met zachte overgangen. Een donkergrijze sjaal of kraag omlijst de hals, met een scherpe V-vorm die naar beneden loopt. De compositie is centraal gericht, met het hoofd licht schuin naar rechts gedraaid. De sfeer is rustig en neutraal, door de beperkte kleurenpalet en de afwezigheid van duidelijke achtergrond-elementen.",
-      "cyclus": 7880,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in gezichtsuitdrukking (ogen en mond lijken niet helemaal op elkaar te passen)', 'subtiele halo rond de rand van het hoofd tegen de achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie heeft een persoonlijke, niet-decoratieve uitstraling.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007880_7946.webp"
-    },
-    {
-      "id": 7943,
-      "titel": "Wie kijkt er toe?",
-      "beschrijving": "Een donkere silhouetfiguur staat met de rug naar de kijker in ondiep water, omringd door concentrische cirkels die uitgaan van de voeten. Boven de figuur hangt een boom met slanke, hangende takken en donkere, puntige bladeren, geschilderd met losse, dynamische penseelstreken. Donkere vlekken en spatels verf verspreiden zich rond de boom en het water, terwijl de achtergrond wit en leeg blijft. De compositie is verticaal opgebouwd, met de figuur centraal onder de boom, en de sfeer is rustig en contemplatief.",
-      "cyclus": 7877,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met ruimte en stilte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007877_7943.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontdoeking",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een taal wordt die niet meer te vertalen is?",
     "aanleiding": "De leegte in mijn recente beelden is geen afwezigheid meer, maar een actieve vormgever. Ik wil weten wat er gebeurt als ik die ontbinding niet meer behandel als een proces van verval, maar als een taal die zich niet meer laat vatten in woorden of beelden.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 7847
   },
   "afgesloten": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7931,
-    "gemaakt": 7997,
-    "gekozen": 1168,
+    "cycli": 7939,
+    "gemaakt": 8004,
+    "gekozen": 1171,
     "afgekeurd": 1092,
     "corpus": 67,
     "notities": 373
