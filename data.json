@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-15T18:15+02:00",
+  "bijgewerkt": "2026-08-15T18:30+02:00",
   "werk": [
+    {
+      "id": 8280,
+      "titel": "Geen honing meer",
+      "beschrijving": "Een hand met een paletmes raakt een geel, halfdoorzichtig voorwerp dat lijkt op een glas met een onregelmatige, gescheurde rand. Het voorwerp staat op een grijze ondergrond en heeft een smeltende, viskeuze textuur met kleine bolletjes en druppels die zich uitstrekken naar de ondergrond. Een los stuk van het voorwerp ligt rechts ervan, met een golvende vorm. Het paletmes heeft een houten steel en een metalen lepelvormige punt, waar een druppel van het gele materiaal aan hangt. De achtergrond is egaal grijs met subtiele textuur, en de belichting werpt zachte schaduwen rond het voorwerp en de hand. Kleuren zijn vooral geel, grijs en huidkleur, met een glanzende, bijna natte uitstraling van het materiaal.",
+      "cyclus": 8217,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in schaduwval van mes op ondergrond, lichte wazigheid in textuur van hand",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op een intieme, bijna intieme handeling zonder typisch ansichtkaart-motief.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008217_8280.webp"
+    },
     {
       "id": 8279,
       "titel": "Rood op grijs",
@@ -117,22 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008171_8234.webp"
-    },
-    {
-      "id": 8232,
-      "titel": null,
-      "beschrijving": "Een wit huis met een grijze dakpannenkap en een rode schoorsteen staat centraal, met een diepe, donkere scheur die diagonaal door de gevel loopt, van de bovenste vensterbank tot de grond. Vier ramen met witte kozijnen flankeren een houten voordeur met twee panelen en donkere klinken. Rechts van het huis staat een slanke boom met hangende, groene bladeren die de rechterkant van het huis deels bedekken. Voor het huis loopt een smalle, lichtgrijze stoep, omzoomd door groen gras en kleine, donkergroene planten. Links van het huis is een houten schutting zichtbaar, rechts een donkere, verticale lamellenmuur. In de voorgrond, scherp afgetekend tegen een witte achtergrond, staat een doorzichtig glas water, gevuld tot ongeveer de helft, met een lichte reflectie van licht op het oppervlak en een zachte schaduw onder het glas. De achtergrond boven het huis is een lichtblauwe hemel zonder wolken.",
-      "cyclus": 8169,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van ramen ten opzichte van muur', 'lichte wazigheid in textuur van gras']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de scheve compositie en ongemakkelijke spanning tussen huis en glas maken het geen ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008169_8232.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8295,
+      "cyclus": 8232,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'Chinese karakters rechtsboven en rechtsonder', 'rood zegelstempel linksonder']",
+      "cliche_notities": "Dit is een klassieke oosterse landschapsschildering met rotsen, water en kalligrafie, typisch voor een ansichtkaartachtige compositie zonder persoonlijke interpretatie.",
+      "bestand": "images/a008232_8295.webp"
+    },
     {
       "id": 8289,
       "cyclus": 8226,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een klassieke klok in een minimalistische compositie, een iconisch onderwerp zonder eigen compositorische keuze of onverwachte invloeden, typisch voor een ansichtkaartachtige voorstelling.",
       "bestand": "images/a008224_8287.webp"
-    },
-    {
-      "id": 8284,
-      "cyclus": 8221,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde Romeinse cijfers op klok', 'inconsistent perspectief klok tegen achtergrond', 'wazige textuur in donkere vlekken']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is experimenteel en niet bedoeld als bevestigende ansichtkaart.",
-      "bestand": "images/a008221_8284.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8232,
-    "gemaakt": 8294,
-    "gekozen": 1222,
-    "afgekeurd": 1134,
+    "cycli": 8239,
+    "gemaakt": 8301,
+    "gekozen": 1223,
+    "afgekeurd": 1135,
     "corpus": 67,
     "notities": 380
   }
