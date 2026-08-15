@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-15T01:45+02:00",
+  "bijgewerkt": "2026-08-15T02:00+02:00",
   "werk": [
+    {
+      "id": 7853,
+      "titel": "Zand dat praat met de wind",
+      "beschrijving": "Een uitgestrekt zandlandschap domineert het beeld, met zachtgolvende duinen die zich uitstrekken tot aan de horizon. Het zand heeft een lichtbeige tint en toont subtiele, door de wind getrokken patronen en sporen. Boven de duinen strekt zich een brede hemel uit, gevuld met zachte, witte wolken die zich langzaam lijken te ontbinden in een lichtblauwe achtergrond. De overgang tussen zand en hemel is scherp en horizontaal, waardoor het landschap een rustige, bijna statische sfeer uitstraalt. Kleine details zoals een donkere steen en een dun takje liggen verspreid over het zand, onopzettelijk en zonder duidelijke richting.",
+      "cyclus": 7787,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007787_7853.webp"
+    },
+    {
+      "id": 7850,
+      "titel": "Vuur dat weigert te zakken",
+      "beschrijving": "Een vuur vonkt op in een regenbui, omringd door gras en bomen. De vlammen zijn fel oranje en rood, in scherp contrast met de grijze, regenachtige achtergrond. Rook stijgt op en vermengt zich met de regen, die als dunne lijnen door het beeld valt. Een stoffen zak ligt half open bij het vuur, met houten brandstof erin. Het landschap is woest en verlaten, met een smalle weg in de verte. De sfeer is intens en onrustig, door de combinatie van vuur en regen.",
+      "cyclus": 7784,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond vlammen tegen achtergrond', 'lichte inconsistentie in regenval (sommige druppels te scherp, andere vervagen)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of typisch motief; de vuur-in-regen-compositie heeft een ongemakkelijke, niet-decoratieve spanning",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007784_7850.webp"
+    },
+    {
+      "id": 7840,
+      "titel": "De buis die wacht op regen",
+      "beschrijving": "Een lange, lege ruimte met een schuin dak van donker hout en zware balken. Aan weerskanten lopen gladde, grijze muren parallel aan elkaar, onderbroken door een donkere deuropening aan de linkerkant en een heldere, rechthoekige opening aan de verre muur, waar zacht licht door valt. De vloer is een egaal, lichtgrijs vlak met subtiele textuur, waar een witte, cilindrische buis schuin ligt, met een scherp afgesneden rand en een donkere, holle binnenkant. Rond de buis liggen kleine, donkere vlekken en losse stukjes puin. De ruimte straalt een stilte uit, met een subtiele spanning tussen de lege muren en de afwezigheid van beweging.",
+      "cyclus": 7774,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de textuur van de vloer en de muur aan de linkerkant",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is sober en heeft een eigen, contemplatief karakter",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007774_7840.webp"
+    },
     {
       "id": 7833,
       "titel": "Rook die vraagt om antwoord",
@@ -91,48 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007738_7804.webp"
-    },
-    {
-      "id": 7799,
-      "titel": "Lijn die blijft steken",
-      "beschrijving": "Een wit vlak beslaat de bovenhelft, scherp afgezet door een donkere, rechte lijn. Daaronder loopt een brede, lichtgrijze band met twee donkere, golvende lijnen die parallel aan elkaar lopen, maar niet symmetrisch zijn. De onderste helft van het beeld wordt ingenomen door een groter, lichtgrijs vlak, doorsneden door een enkele donkere, golvende lijn die van linksboven naar rechtsonder loopt. De penseelstreken zijn zichtbaar, met kleine textuurverschillen in de verf. De compositie is verticaal opgebouwd, met een duidelijke scheiding tussen de boven- en onderhelft. De sfeer is kalm en minimalistisch, zonder duidelijke onderwerpen of actie.",
-      "cyclus": 7733,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007733_7799.webp"
-    },
-    {
-      "id": 7797,
-      "titel": "Scherpe randen, stille val",
-      "beschrijving": "Een gebroken glazen beker ligt schuin op een zandig oppervlak, met scherpe randen en een diepe scheur die van de rand naar de bodem loopt. Een smalle, heldere lichtstraal valt schuin op de beker en verlicht de binnenkant, terwijl de schaduw eronder donker en scherp getekend is. Op de achtergrond strekt zich een heuvelachtig landschap uit met donkere bomen en struiken aan de horizon, getekend in zachte, grijze tinten. Het zand heeft subtiele textuur en een lichte gloed waar het licht valt, en een smalle, donkere spleet loopt parallel aan de beker. De compositie is rustig, met de beker als centraal punt dat de blik trekt door de contrasten tussen licht en donker.",
-      "cyclus": 7731,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van de achtergrond (bomen/heuvels) vs. voorgrond (glas)', 'Subtiele halo rond de bliksemflits tegen de achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is ongemakkelijk en heeft een eigen standpunt door de focus op ontbinding en leegte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007731_7797.webp"
-    },
-    {
-      "id": 7791,
-      "titel": "Waar blijft de wind?",
-      "beschrijving": "Een solitaire boom met slanke, hangende takken domineert het midden van het beeld, getekend in fijne, donkere lijnen tegen een lichte achtergrond. Het loof bestaat uit smalle, puntige bladeren die in trossen hangen, met enkele takken die zich uitstrekken naar de horizon. De stam is slank en licht gekromd, met een donkere schaduwwerking die diepte suggereert. Rond de boom loopt een smalle, ongelijke rand van hoog gras en wilder groen, getekend met snelle, wisselende strepen. Achter de boom strekt een open veld zich uit, met zachte, golvende lijnen die een weide of landbouwgrond suggereren. Ver in de achtergrond vormt een donkere, onregelmatige boomlijn de horizon, met enkele hogere bomen die eruit steken. De hemel is vrijwel leeg, met alleen subtiele, horizontale strepen die een lichte textuur geven. De compositie is verticaal georiënteerd, met de boom als centraal punt dat het oog naar boven en naar de horizon leidt. De sfeer is rustig en iets verlaten, door de afwezigheid van beweging of levendige details.",
-      "cyclus": 7725,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de schuine lijnen en de nadruk op de leegte, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007725_7791.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 7852,
+      "cyclus": 7786,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'inconsistent perspectief kaart/klok']",
+      "cliche_notities": "Iconisch landschap met weg en auto, decoratief licht en geen eigen compositorisch standpunt",
+      "bestand": "images/a007786_7852.webp"
+    },
     {
       "id": 7847,
       "cyclus": 7781,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte kaart met onleesbare tekst en een ongemakkelijke compositie.",
       "bestand": "images/a007780_7846.webp"
-    },
-    {
-      "id": 7838,
-      "cyclus": 7772,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap (wilgentak boven water) en decoratief licht zonder eigen compositorisch standpunt.",
-      "bestand": "images/a007772_7838.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7786,
-    "gemaakt": 7851,
-    "gekozen": 1142,
-    "afgekeurd": 1064,
-    "corpus": 68,
+    "cycli": 7794,
+    "gemaakt": 7859,
+    "gekozen": 1145,
+    "afgekeurd": 1065,
+    "corpus": 67,
     "notities": 367
   }
 }
