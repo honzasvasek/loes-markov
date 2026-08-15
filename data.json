@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T17:00+02:00",
+  "bijgewerkt": "2026-08-15T17:15+02:00",
   "werk": [
     {
       "id": 8254,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8265,
+      "cyclus": 8202,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de weg (verdwijnt te scherp)', 'enkele bloemen hebben onnatuurlijke symmetrie']",
+      "cliche_notities": "Landschap met weg en bloemen herinnert aan typische ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek",
+      "bestand": "images/a008202_8265.webp"
+    },
+    {
       "id": 8256,
       "cyclus": 8193,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke vertaling naar een ansichtkaartmotief.",
       "bestand": "images/a008189_8252.webp"
-    },
-    {
-      "id": 8227,
-      "cyclus": 8164,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "De molen is een iconisch Nederlands motief, weergegeven in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008164_8227.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8201,
-    "gemaakt": 8263,
+    "cycli": 8208,
+    "gemaakt": 8270,
     "gekozen": 1218,
-    "afgekeurd": 1128,
-    "corpus": 67,
+    "afgekeurd": 1129,
+    "corpus": 68,
     "notities": 380
   }
 }
