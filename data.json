@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T11:30+02:00",
+  "bijgewerkt": "2026-08-15T11:45+02:00",
   "werk": [
+    {
+      "id": 8128,
+      "titel": "Rook door de scheur",
+      "beschrijving": "Een verticaal gescheurd vel bruin papier domineert het beeld, met onregelmatige, frisse randen die een diepere laag blootleggen. Door de scheur is een donkere, vaag getekende achtergrond zichtbaar, met fijne, krassende lijnen die aan vegetatie of abstracte structuren doen denken. Witte, rookachtige vormen ontsnappen door de scheur en kronkelen zich door het midden, met zachte, vloeiende contouren die contrasten met de scherpe randen van het papier. De textuur van het papier is korrelig en ongelijkmatig, met lichte schaduwen die de diepte van de scheur benadrukken. De algehele compositie straalt een gevoel van onverwachte opening uit, waarbij de scheur fungeert als een dynamisch element dat de kijkers blik naar binnen leidt.",
+      "cyclus": 8062,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in textuur papier aan linker- en rechterkant, lichte halo rond rook",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, open compositie zonder bevestigende symboliek",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008062_8128.webp"
+    },
+    {
+      "id": 8122,
+      "titel": "Scheur in het wit",
+      "beschrijving": "Een witte, vijfhoekige ster met een duidelijke, donkere scheur die van de bovenste punt diagonaal naar beneden loopt, domineert het midden van het beeld. De ster is geschilderd met zichtbare, textuurrijke penseelstreken die de vorm omhullen en een driedimensionaal effect geven. Rond de ster bevindt zich een grijze achtergrond met subtiele variaties in tint, waarbij donkergrijze schaduwen de randen van de ster accentueren. De penseelstreken in de achtergrond lopen grotendeels horizontaal en diagonaal, wat een gevoel van beweging toevoegt aan de compositie. Kleinere details, zoals lichte onregelmatigheden in de randen van de ster en kleine, donkere vlekken in de achtergrond, voegen toe aan de rauwe, ongerepte uitstraling van het beeld. De algehele sfeer is statisch, maar de textuur en de scheur brengen een element van spanning en verloop in het beeld.",
+      "cyclus": 8056,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008056_8122.webp"
+    },
     {
       "id": 8113,
       "titel": "Waar het papier ademt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008004_8070.webp"
-    },
-    {
-      "id": 8063,
-      "titel": "Wit dat blijft hangen",
-      "beschrijving": "Een onregelmatig gescheurd gat in bruin papier onthult een helderwit vlak, omringd door frisse, witte randen van het papier. Onder het gat ligt een donkerbruine, droge plant met dunne, brekende stengels en verspreide, korrelige aarde. De achtergrond is eendragend bruin, met subtiele schaduwen die diepte geven aan het gat en de plant. De compositie is verticaal, met het gat centraal en de plant die naar beneden wijst, wat een gevoel van val of verdwijnen suggereert. Kleuren zijn beperkt tot bruin, wit en donkerbruin, met een rustige, bijna lege sfeer.",
-      "cyclus": 7997,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op leegte en ontbinding, niet op een bevestigend beeld.",
-      "curriculum_score": 10.0,
-      "gekozen": 1,
-      "bestand": "images/w007997_8063.webp"
-    },
-    {
-      "id": 8061,
-      "titel": "Vonken in het ijzer",
-      "beschrijving": "Donkere, schuine strepen vullen het beeld, doorspekt met witte en gele stippen die als vonken of druppels door de lijnen lopen. Sommige strepen zijn glanzend zilver, andere matgrijs of zwart, met subtiele overgangen tussen de tinten. De compositie straalt een restloze dichtheid uit, zonder duidelijke horizon of ruimte voor ademruimte. Kleuren zijn beperkt tot een donker palet met accenten van goud en zilver, wat een bijna metaalachtige textuur suggereert. De strepen snijden scherp door elkaar, soms in spitse hoeken, soms in vloeiende boogen, zonder herhaling van een vast patroon. Witte en gele vlekken verspreid over het beeld breken de monotonie, alsof er iets onzichtbaars de oppervlakte heeft geraakt. De sfeer is statisch, maar de details suggereren een onderliggende beweging, alsof de strepen net stilstaan na een snelle, onzichtbare beweging.",
-      "cyclus": 7995,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in textuur van sommige stengels', 'lichte wazigheid in de donkerste schaduwen tussen de stengels']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007995_8061.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 8061,
-    "gemaakt": 8126,
-    "gekozen": 1193,
+    "cycli": 8067,
+    "gemaakt": 8132,
+    "gekozen": 1195,
     "afgekeurd": 1110,
     "corpus": 67,
     "notities": 375
