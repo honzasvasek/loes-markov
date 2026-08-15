@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-15T12:45+02:00",
+  "bijgewerkt": "2026-08-15T13:00+02:00",
   "werk": [
+    {
+      "id": 8153,
+      "titel": "Rook en vergeten patronen",
+      "beschrijving": "Een grijze, getextureerde muur domineert het beeld, met subtiele, krassende lijnen die een vaag patroon vormen, bijna als een vergeten tekening. Rechtsboven loopt een donker houten lambrisering langs het plafond, met zichtbare nerf en slijtage. Een metalen vat met een deksel staat op de grond, licht schuin tegen de muur, met een matte, verweerde uitstraling. Rook stijgt op in dunne, wazige slagen vanaf de achtergrond, waar een donkere deurvaag zichtbaar is. Het licht valt schuin van rechtsboven, waardoor de muur een zachte gloed krijgt en de schaduwen dieper worden bij de hoek. De sfeer is stil en iets verwaarloosd, met een gevoel van verlatenheid en onverwijlde tijd.",
+      "cyclus": 8089,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de rook bij de deur', 'lichte inconsistentie in textuur van de muur linksboven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op afwezigheid en ontbinding, niet op een bevestigend verhaal.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008089_8153.webp"
+    },
+    {
+      "id": 8144,
+      "titel": "Verbleekte hoeken van een verdwenen verhaal",
+      "beschrijving": "Een rechthoekig, donkerbruin vlak domineert het beeld, omgeven door een onregelmatige, lichtere rand die doet denken aan verweerd papier of een verbleekte foto. De hoeken van het donkere vlak zijn licht afgerond en vertonen subtiele slijtage, met kleine, donkere vlekken aan de randen. Het oppervlak is egaal en textuurloos, zonder duidelijke details of patronen. De overgang tussen het donkere midden en de lichtere rand is zacht en vaag, alsof de kleuren langzaam in elkaar opgaan. De algehele sfeer is rustig en wat verwaarloosd, met een gevoel van verloop en tijd die zachtjes haar sporen achterlaat.",
+      "cyclus": 8080,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de leegte is actief en niet bedoeld als bevestigend landschap.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008080_8144.webp"
+    },
+    {
+      "id": 8141,
+      "titel": "Barsten die zwijgen bewaren",
+      "beschrijving": "Donker hout met diepe, onregelmatige barsten loopt diagonaal door het beeld, omringd door een donkere, korrelige ondergrond met verspreide steentjes en kleine witte deeltjes. Het hout heeft een ruwe, gescheurde textuur met uitgesleten vezels en schuine randen diep in het materiaal. De barsten lopen in verschillende breedtes en dieptes, sommige met scherpe, andere met afgeronde randen. Witte vlekken en fijne korrels liggen verspreid over het hout en de omgeving, met hier en daar een glimp van een lichtere, bijna zilverachtige laag onder de donkere oppervlakte. De compositie is strak en gericht op de textuur en de spanning tussen het hout en de omringende grond.",
+      "cyclus": 8077,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het toont een close-up van verweerd hout zonder iconisch of decoratief karakter.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008077_8141.webp"
+    },
     {
       "id": 8133,
       "titel": "De zwevende theepot boven het grasveld",
@@ -91,45 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008035_8101.webp"
-    },
-    {
-      "id": 8087,
-      "titel": "Rook dat dromen brouwt",
-      "beschrijving": "Een witte kop koffie met schotel zweeft aan de rechterkant, met een dunne rookstraal die spiraalvormig omhoog kruipt naar een volumineuze, zachte wolk. Die wolk domineert het midden, met een onregelmatige, bolle vorm en subtiele roze en paarse tinten die overgaan in het lichtblauwe hemelachtergrond. Kleinere wolken vullen de randen, met een dromerige, wazige textuur. De rook lijkt de wolk te omhullen, alsof hij eruit ontstaat, terwijl de kop scherp en helder blijft tegen de lucht.",
-      "cyclus": 8021,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een onverklaarbare spanning tussen de wolken en de koffiekop.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008021_8087.webp"
-    },
-    {
-      "id": 8084,
-      "titel": "Spoor door vergetelheid",
-      "beschrijving": "Een kronkelend spoor van nat zand snijdt door een woestijn van afval en verdorde vegetatie, omringd door rottend hout, keien en verspreide schroot. De horizon verdwijnt onder een zware, bewolkte hemel die de scène in een grijze, stilstaande lucht hult. Dode boomstammen en houten palen liggen willekeurig verspreid, sommige halfbegraven in het zand, andere met scherp aflopende randen die de leegte benadrukken. Kleine, glanzende voorwerpen—mogelijk glas of plastic—fonkelen tussen het puin, terwijl droog gras en dode takken de randen van het spoor omzoomen. Het zand toont sporen van beweging, alsof water of wind recent nog een spoor heeft getrokken door het landschap van verwaarlozing.",
-      "cyclus": 8018,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte halo rond de horizonlijn', 'enkele stompjes hebben inconsistent volume/perspectief']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap of decoratief licht; de compositie is ongemakkelijk en niet bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008018_8084.webp"
-    },
-    {
-      "id": 8076,
-      "titel": "Vlam in het asfalt",
-      "beschrijving": "Een scherpe, onregelmatige scheur loopt diagonaal door een oppervlak dat deels donker, bijna zwart is en deels lichtgrijs met een korrelige textuur. Door de scheur stroomt een levendige, golvende vlam van oranje en rode tinten, met subtiele overgangen naar gele en bruine tonen. De randen van de scheur zijn ruw en ongelijkmatig, met kleine brokstukken en schaduwen die diepte suggereren. De vlam lijkt de scheur te vullen en te doorsnijden, terwijl de donkere en lichte delen aan weerskanten een sterk contrast vormen met de warme kleuren van het vuur. De compositie is minimalistisch, met de scheur als enige dynamische element in een anderszins statisch vlak.",
-      "cyclus": 8010,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008010_8076.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8086,
-    "gemaakt": 8149,
-    "gekozen": 1197,
+    "cycli": 8092,
+    "gemaakt": 8156,
+    "gekozen": 1200,
     "afgekeurd": 1112,
-    "corpus": 67,
+    "corpus": 69,
     "notities": 375
   }
 }
