@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-15T22:00+02:00",
+  "bijgewerkt": "2026-08-15T22:15+02:00",
   "werk": [
+    {
+      "id": 8394,
+      "titel": "Vlammen die een boom omknellen",
+      "beschrijving": "Een donkere boom met uitgespreide takken domineert het midden, omringd door rood-oranje vlammen die in golven omhoog sluipen. De achtergrond is een zachtroze wazigheid, met twee kleine rode cirkels aan weerskanten die als ogen of planeten fungeren. De takken dragen donkere, puntige knoppen, en de stam heeft een ruwe, getekende textuur met subtiele verticale lijnen. Rode en roze tinten vloeien door het beeld, met donkerdere schaduwen bij de boom en heldere, bijna doorschijnende vlammen die de ruimte vullen. Kleine rode stippen en sporen liggen verspreid aan de basis, alsof iets langzaam oplost in de lucht.",
+      "cyclus": 8331,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met een ongemakkelijke schoonheid, geen ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008331_8394.webp"
+    },
     {
       "id": 8392,
       "titel": "Bliksem in blauw hout",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008329_8392.webp"
+    },
+    {
+      "id": 8391,
+      "titel": "Wie zette die lepel hier?",
+      "beschrijving": "Een zwart-witlandschap met een verweerd houten schuurtje aan de linkerkant, voorzien van een open deur en een klein raam. Voor het schuurtje loopt een smalle, met mos bedekte pad door hoog gras naar een waterpoot in de voorgrond. Het water weerspiegelt een boom, het schuurtje en een paar benen in donkere broek die in het water staan. Rechtsboven staat een eencilige boom met uitgestrekte takken tegen een bewolkte hemel. Een grote lepel drijft op het water, met de steel naar boven en de kom naar beneden, waarin ook de boom weerspiegeld is. Een donkere, kronkelende scheur loopt door het water en het gras, alsof het landschap aan elkaar is geplakt. De achtergrond toont een uitgestrekt veld met bomen aan de horizon onder een ruime, licht bewolkte lucht.",
+      "cyclus": 8328,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflectie van boom in lepel vs. achtergrond', 'lichte wazigheid in details van gras aan horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, denkbare spanning tussen realiteit en reflectie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008328_8391.webp"
     },
     {
       "id": 8389,
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008287_8350.webp"
-    },
-    {
-      "id": 8349,
-      "titel": "Gras dat luistert naar de wind",
-      "beschrijving": "Donkerblauwe, slanke grassprietjes vullen de onderste helft, met scherpe, wisselende breedtes en witte highlights die beweging suggereren. Achtergrond: een vaag, lichtgrijze horizon met een zachte overgang naar een effen, lichtere hemel. Composicie is verticaal, met het gras dat diagonaal door het beeld loopt, waardoor een gevoel van diepte ontstaat. Kleuren zijn gereduceerd tot blauw, wit en grijs, met een koele, rustige sfeer. Geen duidelijke vormen of objecten buiten het gras en de horizon.",
-      "cyclus": 8286,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008286_8349.webp"
-    },
-    {
-      "id": 8339,
-      "titel": "Scheuren in de gevel",
-      "beschrijving": "Een grijze houten deur met vier panelen vult het midden van een roodbruine muur. Boven de deur loopt een onregelmatige, donkere scheur door de pleisterlaag, met kleine losse stukken en zilverkleurige spijkers die de rand van de scheur markeren. De deur heeft een ronde, bruine deurknop aan de linkerkant en twee donkere scharnieren aan de rechterkant. Onder de deur bevindt zich een smalle, lichtgrijze stenen drempel met spatelsporen en kleine barstjes. Het hout van de deur toont slijtage, met verbleekte plekken en zichtbare houtvezels. De muur rond de deur is glad en egaal, zonder andere details of onderbrekingen.",
-      "cyclus": 8276,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een sobere, minimalistische compositie met een focus op textuur en structuur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008276_8339.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8404,
+      "cyclus": 8341,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een schemerige hemel met wolken in warme tinten, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008341_8404.webp"
+    },
     {
       "id": 8388,
       "cyclus": 8325,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
       "bestand": "images/a008319_8382.webp"
-    },
-    {
-      "id": 8378,
-      "cyclus": 8315,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen en landschap) en de decoratieve, niet-kritische compositie.",
-      "bestand": "images/a008315_8378.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8335,
-    "gemaakt": 8398,
-    "gekozen": 1239,
-    "afgekeurd": 1152,
-    "corpus": 67,
+    "cycli": 8343,
+    "gemaakt": 8405,
+    "gekozen": 1241,
+    "afgekeurd": 1153,
+    "corpus": 68,
     "notities": 386
   }
 }
