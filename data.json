@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T00:30+02:00",
+  "bijgewerkt": "2026-08-16T00:45+02:00",
   "werk": [
+    {
+      "id": 8459,
+      "titel": "Waar de mist blijft hangen",
+      "beschrijving": "Golvende heuvels en dalen vullen het beeld, getekend in zachte grijstinten met subtiele bruine en beige accenten. Donkere, bijna zwarte vlekken markeren de randen van de heuvels, waar de contouren scherpere, onregelmatige vormen vormen. Een smalle, witte strook loopt als een slangenlichaam door het landschap, omringd door lichtere, vaag gedefinieerde gebieden die overgaan in de achtergrond. Kleurverloop en vage overgangen geven een gevoel van diepte, terwijl kleine, verspreide bruine stippen textuur toevoegen aan de heuvels. De compositie is verticaal opgebouwd, met de heuvels die zich uitstrekken van de onderkant tot de bovenkant van het beeld, waarbij de achtergrond langzaam overgaat in een egale, lichte mist. De sfeer is kalm en verlaten, met een focus op de natuurlijke vormen en de subtiele spelletjes van licht en schaduw.",
+      "cyclus": 8396,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008396_8459.webp"
+    },
+    {
+      "id": 8454,
+      "titel": "Verbleekte lijnen, onafgewerkt verhaal",
+      "beschrijving": "Grijs en zwart domineren een landschap waarin zadeldaken met opgetrokken hoeken de voorgrond vullen, schuin en scherp getekend tegen een vaagere achtergrond van heuvels en bergen. Donkere, bijna zwarte lijnen omlijnen de daken, terwijl de muren eronder een textuur hebben van verbleekte verf en vage, verticale strepen. Een enkele, slanke plant steekt boven een dak uit, met dunne bladeren die zich uitstrekken naar de leegte. De achtergrond is een mengsel van zachte, wazige vormen en donkere vlekken, alsof mist de horizon opslokt. De compositie is asymmetrisch, met daken die de beeldvuller vormen en de achtergrond die zich uitstrekt in een onbepaalde ruimte. De sfeer is stil en verlaten, met een gevoel van verleden dat langzaam vervagt.",
+      "cyclus": 8391,
+      "tech_score": 8.0,
+      "tech_notities": "enkele lichte textuurvervormingen in de achtergrondbergen, minimale detailverlies in de donkerste schaduwen van de daken",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-typische compositie met focus op leegte en ontbinding",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008391_8454.webp"
+    },
     {
       "id": 8452,
       "titel": "Roze grassprietjes tegen blauwe stilte",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008351_8414.webp"
-    },
-    {
-      "id": 8405,
-      "titel": "Metaal tussen het gras",
-      "beschrijving": "Twee metalen theepotten met deksels en handvatten staan tussen hoge, slanke grasstengels die de compositie verticaal doorsnijden. De bovenste theepot is schuin gepositioneerd, de onderste recht en dichter bij de voorgrond. Het gras vormt een dichtheid van lijnen die zowel diepte als beweging suggereren, met donkere schaduwen tussen de stengels en lichtere, glanzende randen. De achtergrond bestaat uit vaag getekende, organische vormen en patronen, bijna als verdwenen landschapelementen. De randen van het beeld zijn onregelmatig en getekend, alsof het een uitknipsel is van een groter vlak. De tekening werkt met fijne lijnen en subtile schaduwvlakken, waardoor de metalen oppervlakken een zachte, bijna vage glans krijgen.",
-      "cyclus": 8342,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de theepotten', 'lichte wazigheid in de achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke compositie met grasspieren die de ruimte domineren.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008342_8405.webp"
-    },
-    {
-      "id": 8394,
-      "titel": "Vlammen die een boom omknellen",
-      "beschrijving": "Een donkere boom met uitgespreide takken domineert het midden, omringd door rood-oranje vlammen die in golven omhoog sluipen. De achtergrond is een zachtroze wazigheid, met twee kleine rode cirkels aan weerskanten die als ogen of planeten fungeren. De takken dragen donkere, puntige knoppen, en de stam heeft een ruwe, getekende textuur met subtiele verticale lijnen. Rode en roze tinten vloeien door het beeld, met donkerdere schaduwen bij de boom en heldere, bijna doorschijnende vlammen die de ruimte vullen. Kleine rode stippen en sporen liggen verspreid aan de basis, alsof iets langzaam oplost in de lucht.",
-      "cyclus": 8331,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met een ongemakkelijke schoonheid, geen ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008331_8394.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8469,
+      "cyclus": 8406,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een ongemakkelijke sfeer.",
+      "bestand": "images/a008406_8469.webp"
+    },
     {
       "id": 8462,
       "cyclus": 8399,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele halo rond boomstam tegen achtergrond', 'lichte inconsistentie in textuur van bladeren aan linker- en rechterkant']",
       "cliche_notities": "Het beeld toont een iconisch landschap met een solo boom in een weids landschap, met decoratief zacht roze licht en een klassieke compositie zonder duidelijke persoonlijke keuze.",
       "bestand": "images/a008379_8442.webp"
-    },
-    {
-      "id": 8441,
-      "cyclus": 8378,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in horizonlijn boven/onder, lichte vervaging in verre bomen",
-      "cliche_notities": "Landschap met typisch Nederlandse boerderij en kale bomen in een symmetrische, ansichtkaartachtige compositie zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a008378_8441.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8400,
-    "gemaakt": 8462,
-    "gekozen": 1250,
-    "afgekeurd": 1163,
+    "cycli": 8407,
+    "gemaakt": 8469,
+    "gekozen": 1252,
+    "afgekeurd": 1164,
     "corpus": 66,
     "notities": 387
   }
