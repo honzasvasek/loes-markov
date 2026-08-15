@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T20:45+02:00",
+  "bijgewerkt": "2026-08-15T21:00+02:00",
   "werk": [
     {
       "id": 8356,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8361,
+      "cyclus": 8298,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte letter op een neutrale achtergrond.",
+      "bestand": "images/a008298_8361.webp"
+    },
+    {
       "id": 8360,
       "cyclus": 8297,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, schuine compositie zonder bevestigende boodschap.",
       "bestand": "images/a008290_8353.webp"
-    },
-    {
-      "id": 8347,
-      "cyclus": 8284,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische wilg en landschap in traditionele inktstijl, zonder eigen compositorische keuzes of onverwachte elementen.",
-      "bestand": "images/a008284_8347.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8298,
-    "gemaakt": 8360,
+    "cycli": 8305,
+    "gemaakt": 8367,
     "gekozen": 1233,
-    "afgekeurd": 1146,
+    "afgekeurd": 1147,
     "corpus": 67,
     "notities": 385
   }
