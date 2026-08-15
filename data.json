@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T23:45+02:00",
+  "bijgewerkt": "2026-08-16T00:00+02:00",
   "werk": [
     {
       "id": 8437,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 8442,
+      "cyclus": 8379,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond boomstam tegen achtergrond', 'lichte inconsistentie in textuur van bladeren aan linker- en rechterkant']",
+      "cliche_notities": "Het beeld toont een iconisch landschap met een solo boom in een weids landschap, met decoratief zacht roze licht en een klassieke compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a008379_8442.webp"
+    },
+    {
+      "id": 8441,
+      "cyclus": 8378,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in horizonlijn boven/onder, lichte vervaging in verre bomen",
+      "cliche_notities": "Landschap met typisch Nederlandse boerderij en kale bomen in een symmetrische, ansichtkaartachtige compositie zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a008378_8441.webp"
+    },
+    {
       "id": 8438,
       "cyclus": 8375,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in boomtakken (enkele takken verdwijnen plotseling)', 'lichte wazigheid in achtergrondlandschap']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een kerk, bloesemtammen en water, zonder duidelijke persoonlijke compositorische keuze.",
       "bestand": "images/a008375_8438.webp"
-    },
-    {
-      "id": 8422,
-      "cyclus": 8359,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met een smalle weg, vogels en wolken in een decoratieve waterverfstijl, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008359_8422.webp"
-    },
-    {
-      "id": 8418,
-      "cyclus": 8355,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van de windmolen ten opzichte van de rotsen, lichte wazigheid in de textuur van het water",
-      "cliche_notities": "De windmolen op een rotsrijk landschap is een iconisch motief, uitgevoerd in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008355_8418.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8378,
-    "gemaakt": 8440,
+    "cycli": 8386,
+    "gemaakt": 8448,
     "gekozen": 1247,
-    "afgekeurd": 1160,
+    "afgekeurd": 1162,
     "corpus": 66,
     "notities": 387
   }
