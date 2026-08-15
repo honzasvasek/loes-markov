@@ -336,7 +336,7 @@ footer {
   color: var(--dof);
   font-size: 0.9rem;
 }
-footer p { margin: 0; max-width: 34rem; }
+footer p { margin: 0; max-width: var(--tekstbreedte); }
 /* Discreet, maar altijd zichtbaar: hieraan zie je of je naar een verse of een
    gecachete kopie kijkt. */
 footer .bijgewerkt { margin-top: 0.75rem; opacity: 0.55; font-size: 0.85em; }
@@ -372,7 +372,7 @@ footer .bijgewerkt { margin-top: 0.75rem; opacity: 0.55; font-size: 0.85em; }
   color: var(--dof);
   font-size: 0.92rem;
   line-height: 1.6;
-  max-width: 38rem;
+  max-width: var(--tekstbreedte);
   margin-inline: auto;
 }
 .lichtbak-sluit {
