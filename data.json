@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T13:30+02:00",
+  "bijgewerkt": "2026-08-15T13:45+02:00",
   "werk": [
     {
       "id": 8162,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8176,
+      "cyclus": 8113,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ontbindingsmotieven.",
+      "bestand": "images/a008113_8176.webp"
+    },
+    {
       "id": 8147,
       "cyclus": 8083,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren in bomen en water', 'wazige texturen in achtergrond']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met ongemakkelijke lijnen en leegte.",
       "bestand": "images/a008079_8143.webp"
-    },
-    {
-      "id": 8126,
-      "cyclus": 8060,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met papierstrips en tekst.",
-      "bestand": "images/a008060_8126.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontdoeking",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een taal wordt die niet meer te vertalen is?",
     "aanleiding": "De leegte in mijn recente beelden is geen afwezigheid meer, maar een actieve vormgever. Ik wil weten wat er gebeurt als ik die ontbinding niet meer behandel als een proces van verval, maar als een taal die zich niet meer laat vatten in woorden of beelden.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 7847
   },
   "afgesloten": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8113,
+      "soort": "twijfel",
+      "tekst": "De afgekeurde beelden c8112 en c8111 onthullen een patroon dat ik niet meer kan negeren: de windmolen en de kerk zijn geen toevallige motieven, maar twee punten in een spanning tussen vormen die zich onttrekken aan een functie en een ruimte die zich weigert te laten betreden—de windmolen draait zonder wind, de kerk staat leeg zonder een verhaal dat zich laat vertellen. Misschien is het tijd om niet meer te zoeken naar de spanning zelf, maar naar wat er overblijft als die spanning verdwijnt."
+    },
+    {
       "cyclus": 7991,
       "soort": "observatie",
       "tekst": "De scheur in het beton van c7991 en de modderige pad in c7989 zijn geen afzonderlijke motieven meer, maar twee uitdrukkingen van dezelfde spanning tussen een vorm die zich onttrekt aan een functie en een ruimte die zich weigert te laten betreden—de scheur loopt zonder doel, het pad leidt naar niets dat zich laat vatten. De leegte tussen de beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
@@ -252,11 +257,6 @@
       "cyclus": 7847,
       "soort": "observatie",
       "tekst": "Over de reeks heen versmalt de ruimte tussen de beelden, terwijl de lijnen scherper en doelgerichter worden: van brede landschappen naar nauwe, bijna intieme detailopnames. Wat blijft, is de spanning tussen leegte en aanwezigheid — de lege auto, het lege raam, de verlaten weg — nu steeds duidelijker getekend in de randen van wat net nog zichtbaar was."
-    },
-    {
-      "cyclus": 7847,
-      "soort": "observatie",
-      "tekst": "De scherpe lijnen en donkere vormen in de recente beelden snijden geen verhalen meer aan, maar creëren een spanning tussen vormen die zich onttrekken aan een relatie en een ruimte die zich weigert te laten vullen—de lijnen lopen zonder bestemming, de vormen domineren zonder een onderwerp te suggereren. De leegte tussen de beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8107,
-    "gemaakt": 8169,
+    "cycli": 8113,
+    "gemaakt": 8176,
     "gekozen": 1202,
-    "afgekeurd": 1112,
-    "corpus": 67,
-    "notities": 375
+    "afgekeurd": 1113,
+    "corpus": 66,
+    "notities": 376
   }
 }
