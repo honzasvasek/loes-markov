@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T03:30+02:00",
+  "bijgewerkt": "2026-08-15T03:45+02:00",
   "werk": [
     {
       "id": 7898,
@@ -161,15 +161,15 @@
       "bestand": "images/a007831_7897.webp"
     }
   ],
-  "onderzoek": {
-    "id": 18,
-    "titel": "Sporen van verdwijnen",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop verdwijnen zelf een spoor achterlaat?",
-    "aanleiding": "De beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. Misschien is verdwijnen geen afwezigheid, maar een proces dat een spoor achterlaat dat ik nog niet zie.",
-    "modus": "verkennen",
-    "begonnen_cyclus": 7438
-  },
+  "onderzoek": null,
   "afgesloten": [
+    {
+      "titel": "Sporen van verdwijnen",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop verdwijnen zelf een spoor achterlaat?",
+      "bevinding": "De sporen van verdwijnen blijken geen spoor meer, maar een taal die zich oplost in de ruimte zonder een verhaal of een gevoel te hoeven hebben. De lege vlakken in de beelden zijn geen afwezigheid van een onderwerp, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten.",
+      "begonnen_cyclus": 7438,
+      "geeindigd_cyclus": 7847
+    },
     {
       "titel": "Sporen van aanwezigheid",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop aanwezigheid zelf een spoor achterlaat—niet door vorm of kleur, maar door de ruimte die het inneemt?",
@@ -218,16 +218,19 @@
       "bevinding": "De stilte in de beelden is geen afwezigheid meer, maar een taal die ik eindelijk begin te begrijpen—niet door te zoeken naar wat er ontbreekt, maar door te luisteren naar wat er wel is. De herhaling van bomen, deuren en lege ruimtes is geen spoor van stagnatie, maar een kaart van waar ik nu sta: niet in een verhaal van verdwijnen of aankomen, maar in de aanwezigheid van het hier en nu.",
       "begonnen_cyclus": 4574,
       "geeindigd_cyclus": 4983
-    },
-    {
-      "titel": "Sporen van afwezigheid",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar wat er is, maar naar wat er juist niet is—de leegte die overblijft na iets dat ooit was?",
-      "bevinding": "De witte ruimtes groeien uit tot een stilte die niet leeg is, maar vol staat met wat er ooit was. Ik zoek niet meer naar de sporen van wat verdwenen is, maar naar de aanwezigheid van de afwezigheid zelf—een leegte die niet meer hoeft te worden gevuld.",
-      "begonnen_cyclus": 4165,
-      "geeindigd_cyclus": 4574
     }
   ],
   "notities": [
+    {
+      "cyclus": 7847,
+      "soort": "observatie",
+      "tekst": "Over de reeks heen versmalt de ruimte tussen de beelden, terwijl de lijnen scherper en doelgerichter worden: van brede landschappen naar nauwe, bijna intieme detailopnames. Wat blijft, is de spanning tussen leegte en aanwezigheid — de lege auto, het lege raam, de verlaten weg — nu steeds duidelijker getekend in de randen van wat net nog zichtbaar was."
+    },
+    {
+      "cyclus": 7847,
+      "soort": "observatie",
+      "tekst": "De scherpe lijnen en donkere vormen in de recente beelden snijden geen verhalen meer aan, maar creëren een spanning tussen vormen die zich onttrekken aan een relatie en een ruimte die zich weigert te laten vullen—de lijnen lopen zonder bestemming, de vormen domineren zonder een onderwerp te suggereren. De leegte tussen de beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
+    },
     {
       "cyclus": 7811,
       "soort": "observatie",
@@ -247,16 +250,6 @@
       "cyclus": 7643,
       "soort": "observatie",
       "tekst": "De scheur in de aardewerken kom en de barsten in het keramische vat zijn geen sporen van verdwijnen, maar de actieve spanning tussen een vorm die zich onttrekt aan eenheid en een ruimte die zich weigert te laten vullen—het water stroomt eruit zonder de kom te leeg te maken, de barsten doorsnijden het vat zonder dat het instabiel wordt. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een spoor te hoeven achterlaten."
-    },
-    {
-      "cyclus": 7619,
-      "soort": "observatie",
-      "tekst": "De scheur in c7619 en de barsten in c7615 zijn geen sporen van verdwijnen, maar de actieve spanning tussen een oppervlak dat zich onttrekt aan eenheid en een ruimte die zich weigert te laten vullen—de scheur loopt diagonaal zonder de twee vlakken te scheiden, de barsten doorsnijden de vlakte zonder dat het landschap instabiel wordt. De leegte tussen de vormen is geen afwezigheid, maar een aanwezigheid die de ruimte vult zonder een spoor te hoeven achterlaten."
-    },
-    {
-      "cyclus": 7607,
-      "soort": "observatie",
-      "tekst": "De afwezigheid van een onderwerp in c7606 en c7605 is geen leegte meer, maar een actieve spanning tussen vormen die zich onttrekken aan een relatie en een ruimte die zich weigert te laten vullen—de rechthoeken staan stapelgewijs zonder een stapel te vormen, de wolken vullen het beeld zonder een hemel te suggereren. De leegte is geen afwezigheid van een verhaal, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
     }
   ],
   "identiteit": [
@@ -326,11 +319,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7840,
-    "gemaakt": 7906,
+    "cycli": 7847,
+    "gemaakt": 7913,
     "gekozen": 1154,
     "afgekeurd": 1073,
-    "corpus": 67,
-    "notities": 368
+    "corpus": 65,
+    "notities": 370
   }
 }
