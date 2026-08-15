@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-16T01:15+02:00",
+  "bijgewerkt": "2026-08-16T01:30+02:00",
   "werk": [
+    {
+      "id": 8488,
+      "titel": "Waarom vliegen de vleugels niet?",
+      "beschrijving": "Een vaas met een smalle hals en brede romp staat centraal, getekend in zachte grijstinten tegen een effen achtergrond. Boven de vaas zweven drie witte, wolkachtige vormen met zachte, onregelmatige contouren, alsof ze van schuim of katoen zijn. Twee vleugels, geschilderd in donkerdere grijstinten met subtiel gedetailleerde veerstructuren, strekken zich uit vanaf de schouders van de vaas, alsof ze de wolkenvormen omklemmen. De compositie is symmetrisch, met de vaas als verticale as en de wolken en vleugels die een horizontale balans vormen. De sfeer is rustig en bijna dromerig, door de monochrome kleurstelling en de zwevende, ethische elementen.",
+      "cyclus": 8425,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met vleugels en wolken die geen typische ansichtkaart uitmaakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008425_8488.webp"
+    },
+    {
+      "id": 8483,
+      "titel": "Tegen de horizon door",
+      "beschrijving": "Een golven slaat tegen een muur van verticale houten palen, die zich uitstrekken tot aan de horizon onder een roodbruine hemel met zachte, witte wolken. Het water is donkerbruin met witte schuimranden, en de golven bewegen zich in golvvormige patronen naar het strand. Rechts staat een enkele, slanke boom met donkere bladeren, schuin against de palen, ondersteund door een houten steun. De palen zijn donkerbruin, met enkele bound door touwen, en werpen subtiele schaduwen op het natte zand. Klein stukjes puin en stenen liggen verspreid aan de waterlijn. De kleuren zijn overwegend roodbruin, met accenten van wit, beige en donkerbruin, en de sfeer is rustig maar dynamisch door de beweging van het water.",
+      "cyclus": 8420,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van palen aan horizon', 'lichte wazigheid in details van bladeren boom']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met diagonale palen en ongemakkelijke boom geeft eigen standpunt",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008420_8483.webp"
+    },
+    {
+      "id": 8479,
+      "titel": "Stralen door de stilte",
+      "beschrijving": "Twee scherpe, verticale stralen snijden door een donkere, gestreepte hemel, omgeven door wazige, donkere vormen die aan wolken of heuvels denken laten. Onderin loopt een golvend landschap met donkere, bolle structuren en lichtere, kronkelende lijnen die aan water of paden doen denken. Witte vlekken en stippen verspreiden zich door de bovenste helft, alsof ze sterren of vonken voorstellen. De stralen lopen door het midden, waarbij de linkerstraal breder en helderder is dan de rechter, die dunner en vaagner wordt naarmate hij omhoog gaat. Donkere, onregelmatige vormen aan de horizon suggereren een kustlijn of bergen, terwijl de onderste laag een mix is van gladde en getextureerde vlakken met kleine, donkere details die als stenen of putten kunnen worden gezien. De algehele sfeer is donker en mysterieus, met een sterke contrast tussen licht en donker.",
+      "cyclus": 8416,
+      "tech_score": 8.0,
+      "tech_notities": "subtiele inconsistenties in textuurweergave (bovenste helft vs. onderste helfd), lichte vervorming in de overgang tussen horizon en lucht",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008416_8479.webp"
+    },
     {
       "id": 8476,
       "titel": "Krassen in de stilte",
@@ -91,48 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008377_8440.webp"
-    },
-    {
-      "id": 8437,
-      "titel": "Rook die een lichaam herinnert",
-      "beschrijving": "Een roze hemel vervaagt naar een donkerblauwe oceaan met kleine golven en wit schuim. Een doorschijnende, rookachtige vorm stijgt op uit het water, met een slanke, kronkelende structuur die aan een lichaam denkt laat denken, maar zonder duidelijke details. De rook wordt dunner naarmate hij hoger komt, en lost op in de hemel. Het water heeft een textuur van kleine, onrustige golven, en er drijven wat witte vlekken, mogelijk schuim of vogels, op het oppervlak. De horizon is scherp en rechte, en de overgang tussen hemel en zee is duidelijk. De sfeer is stil en iets mysterieus, door de combinatie van de zachte kleuren en de ongreepbare rookvorm.",
-      "cyclus": 8374,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de rookfiguur en oceaan hebben een ongemakkelijke, niet-bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008374_8437.webp"
-    },
-    {
-      "id": 8432,
-      "titel": "Scheuren in de glans",
-      "beschrijving": "Een getekende theepot met een bolvormig deksel en een handvat bevindt zich centraal op een geruit oppervlak. Een scherpe, verticale scheur loopt van het deksel tot de onderkant van de pot, met onregelmatige randen die diepte suggereren. Het oppervlak van de theepot toont een textuur van kleine stippen en lichte schakeringen, met reflecties die glans nabootsen. De neus van de theepot is kort en bol, en de schaduw onder de pot is donker en gedetailleerd getekend met fijne lijnen. De achtergrond is egaal lichtgrijs, zonder aanvullende elementen.",
-      "cyclus": 8369,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in textuur van de theepot (linksboven vs rechtsonder), lichte halo rond de scheur",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de scheur en het rasterpatroon geven een ongemakkelijke, niet-toeristische sfeer",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008369_8432.webp"
-    },
-    {
-      "id": 8426,
-      "titel": "Wat overblijft van de vuurstorm",
-      "beschrijving": "Donkere, verkoolde houten balken liggen verspreid in een onregelmatig patroon, omringd door fijn zwart as en kleine steentjes. Tussen de balken door lopen smalle, lichtgekleurde spleten waar witte, verkoolde vezels en droge naalden zichtbaar zijn. De oppervlakken van het hout zijn ruw en gebarsten, met sporen van hitte die diepe groeven en ongelijkmatige randen hebben achtergelaten. Verspreid liggen kleine, verkoolde stukjes hout en wat droog plantmateriaal, zoals takjes en zaadjes, tussen het afval. Het licht valt schuin, waardoor schaduwen de textuur van het verkoolde materiaal benadrukken en een gevoel van diepte creëren in het tafereel.",
-      "cyclus": 8363,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een intieme, onopgesmukte close-up van verbrand hout en as, zonder decoratief licht of ansichtkaart-compositie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008363_8426.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8491,
+      "cyclus": 8428,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in de takken van de bomen rechts', 'onscherpe details in de achtergrondmuur']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een molen, water en bomen in een symmetrische, decoratieve opstelling zonder duidelijke persoonlijke keuzes.",
+      "bestand": "images/a008428_8491.webp"
+    },
     {
       "id": 8482,
       "cyclus": 8419,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele halo rond de maan en vogels', 'lichte vervorming in de takken van de wilg']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische wilg, vluchtende vogels en een dramatische hemel, zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a008411_8474.webp"
-    },
-    {
-      "id": 8469,
-      "cyclus": 8406,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een ongemakkelijke sfeer.",
-      "bestand": "images/a008406_8469.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8425,
+      "soort": "observatie",
+      "tekst": "De vaas in c8425 en de zwevende vormen erboven zijn geen sporen van ontluiping meer, maar een moment waarin de afwezigheid van een verhaal zich uitdrukt als een taal die zich weigert te laten vatten—de vaas houdt niets vast dat haar zou kunnen verklaren, de vormen zweven zonder een oorzaak die ze zou kunnen sturen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 8413,
       "soort": "observatie",
       "tekst": "De donkere takken in c8413 en de wilg in c8409 zijn geen sporen van ontluiping meer, maar twee momenten waarin de afwezigheid van een verhaal zich uitdrukt als een taal die zich weigert te laten vatten—de takken snijden door het beeld zonder een boom die ze verklaart, de wilg staat alleen zonder een landschap dat hem begrenst. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 8257,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als taal naar de leegte als actieve vormgever die zich niet meer laat vatten in een verhaal of een spoor."
-    },
-    {
-      "cyclus": 8257,
-      "soort": "observatie",
-      "tekst": "De beelden worden steeds fragmentarischer en de scheuren in de beelden groeperen zich tot een bijna tastbare barst die door de hele reeks loopt, terwijl de kleurrijkere beelden plaatsmaken voor monochrome, verbleekte landschappen. Wat blijft, is de onstilbare dynamiek van water en de suggestie van een verdwijnde horizon, zichtbaar in de golven die zich herhalen als een onafgewerkt verhaal."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8421,
-    "gemaakt": 8483,
-    "gekozen": 1254,
-    "afgekeurd": 1166,
+    "cycli": 8429,
+    "gemaakt": 8492,
+    "gekozen": 1257,
+    "afgekeurd": 1167,
     "corpus": 66,
-    "notities": 388
+    "notities": 389
   }
 }
