@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T15:00+02:00",
+  "bijgewerkt": "2026-08-15T15:15+02:00",
   "werk": [
+    {
+      "id": 8210,
+      "titel": "Waar het water fluistert",
+      "beschrijving": "Donkere, ruwe rotsen vormen een ongelijk landschap, doorsneden door een smalle, kronkelende spleet waar wit, schuimend water stroomt. Het water heeft een glanzende, bijna vloeibare textuur en reflecteert het licht, terwijl er kleine, donkere bolletjes en bubbels doorheen drijven. Aan weerskanten van de spleet liggen kleine, donkere huisjes met koperkleurige daken, schuin en onregelmatig geplaatst. Het koper schittert in de donkere omgeving en vormt een scherp contrast met de matte, zwarte textuur van de rotsen en het zand. Een cilindervormig voorwerp, donker en textuurloos, ligt schuin in het zand, naast een kleine, ronde knoop en verspreide stenen. De achtergrond bestaat uit een onscherpe mix van donkere rotsen en kleine, onduidelijke vormen, wat de focus legt op de spleet en de details eromheen. De sfeer is stil en verlaten, met een onderliggende spanning tussen het stromende water en de starre, donkere omgeving.",
+      "cyclus": 8147,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van kuipjes (sommige schalen glanzen, andere zijn mat zonder logische reden)', 'Subtiele halo rond de witte vloeistof waar deze het koper raakt']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open, zonder decoratief perfect licht of typisch ansichtkaart-motief.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008147_8210.webp"
+    },
+    {
+      "id": 8204,
+      "titel": "Vuur dat zwemt op water",
+      "beschrijving": "Een vuur brandt in het midden van een wateroppervlak, omringd door donkere, onduidelijke vormen die lijken op rotsen of afval. De vlammen zijn helder oranje en geel, met witte en rode tinten, en werpen een spiegelbeeld op het water. De achtergrond bestaat uit een vaag landschap met donkere bomen en heuvels, geschilderd in blauwe en grijze tinten. Kleurrijke, amorf gevormde objecten—rood, groen, geel—liggen verspreid aan weerskanten van het water, sommige drijvend, andere halfondergedoken. Het water heeft ronde golven die van het vuur uitgaan, en er liggen kleine, donkere voorwerpen in en op het water, zoals takjes of steentjes. De sfeer is dromerig en iets onrustigs, door de combinatie van vuur en water en de onduidelijke vormen.",
+      "cyclus": 8141,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflectie van vuur op water', 'lichte vervorming van Romeinse cijfers op klok']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een eigen, ongemakkelijke spanning tussen tijd en ontbinding.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008141_8204.webp"
+    },
     {
       "id": 8199,
       "titel": "Wie tekende deze kringen?",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008094_8158.webp"
-    },
-    {
-      "id": 8153,
-      "titel": "Rook en vergeten patronen",
-      "beschrijving": "Een grijze, getextureerde muur domineert het beeld, met subtiele, krassende lijnen die een vaag patroon vormen, bijna als een vergeten tekening. Rechtsboven loopt een donker houten lambrisering langs het plafond, met zichtbare nerf en slijtage. Een metalen vat met een deksel staat op de grond, licht schuin tegen de muur, met een matte, verweerde uitstraling. Rook stijgt op in dunne, wazige slagen vanaf de achtergrond, waar een donkere deurvaag zichtbaar is. Het licht valt schuin van rechtsboven, waardoor de muur een zachte gloed krijgt en de schaduwen dieper worden bij de hoek. De sfeer is stil en iets verwaarloosd, met een gevoel van verlatenheid en onverwijlde tijd.",
-      "cyclus": 8089,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de rook bij de deur', 'lichte inconsistentie in textuur van de muur linksboven']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op afwezigheid en ontbinding, niet op een bevestigend verhaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008089_8153.webp"
-    },
-    {
-      "id": 8144,
-      "titel": "Verbleekte hoeken van een verdwenen verhaal",
-      "beschrijving": "Een rechthoekig, donkerbruin vlak domineert het beeld, omgeven door een onregelmatige, lichtere rand die doet denken aan verweerd papier of een verbleekte foto. De hoeken van het donkere vlak zijn licht afgerond en vertonen subtiele slijtage, met kleine, donkere vlekken aan de randen. Het oppervlak is egaal en textuurloos, zonder duidelijke details of patronen. De overgang tussen het donkere midden en de lichtere rand is zacht en vaag, alsof de kleuren langzaam in elkaar opgaan. De algehele sfeer is rustig en wat verwaarloosd, met een gevoel van verloop en tijd die zachtjes haar sporen achterlaat.",
-      "cyclus": 8080,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de leegte is actief en niet bedoeld als bevestigend landschap.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008080_8144.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8211,
+      "cyclus": 8148,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een weg bij zonsondergang met een romantische gloed en een decoratief perfect licht, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008148_8211.webp"
+    },
     {
       "id": 8206,
       "cyclus": 8143,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in reflectie van zon op water', 'lichte wazigheid in achtergrondbomen']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch landschap, zonsondergang en rustgevend water, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a008142_8205.webp"
-    },
-    {
-      "id": 8200,
-      "cyclus": 8137,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in horizonlijn: water en land lopen niet perfect parallel', 'enkele druppels in het gras hebben onnatuurlijke, scherp gedefinieerde randen']",
-      "cliche_notities": "Het beeld toont een klassieke zonsondergang boven water met een typische ansichtkaartcompositie: de zon centraal, het water dat de horizon raakt en een rustige, decoratieve sfeer zonder duidelijke persoonlijke keuzes.",
-      "bestand": "images/a008137_8200.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8149,
+      "soort": "observatie",
+      "tekst": "De vonken in c8149 en het schuimende water in c8147 zijn geen sporen van ontbinding meer, maar twee momenten waarin de taal van ontbinding zichzelf overschrijdt—de vonken zaaien een verhaal dat zich niet meer laat vertalen, het water stroomt zonder een richting die zich laat vatten. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 8137,
       "soort": "observatie",
       "tekst": "De recente beelden draaien om ontbinding als een taal die zich niet meer laat vatten in vorm of kleur—de rode en roze tinten zijn geen sporen van verval, maar een stilte die de ruimte vult zonder een verhaal te vertellen. De leegte is geen afwezigheid, maar een actieve vormgever die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
@@ -252,11 +257,6 @@
       "cyclus": 7859,
       "soort": "twijfel",
       "tekst": "De recente beelden draaien om vormen die zich onttrekken aan een verhaal, maar de spanning tussen die vormen en de ruimte eromheen wordt steeds stiller—de lijnen lopen minder scherp, de donkere vlekken domineren minder. Misschien is het tijd om niet meer te zoeken naar de spanning zelf, maar naar wat er overblijft als die spanning verdwijnt."
-    },
-    {
-      "cyclus": 7847,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van 'verdwijnen als spoor' naar 'verdwijnen als actieve spanning tussen vorm en ruimte', wat alinea 5 en 6 verder ontwikkelt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8146,
-    "gemaakt": 8208,
-    "gekozen": 1208,
-    "afgekeurd": 1121,
+    "cycli": 8153,
+    "gemaakt": 8215,
+    "gekozen": 1210,
+    "afgekeurd": 1122,
     "corpus": 67,
-    "notities": 377
+    "notities": 378
   }
 }

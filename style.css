@@ -1,8 +1,11 @@
 /* Het atelier van Loes Markov.
-   Drie stemmen, drie letterbeelden: haar gedachten in een schreefletter (dat is
-   zij), de prompts in monospace (dat is de machine), alle bijschriften en meta
-   in schreefloos (dat zijn wij die meekijken). Die scheiding draagt het hele
-   ontwerp — daarom staat er verder bijna geen decoratie in. */
+   Twee stemmen, twee letterbeelden: haar woorden (titels, aantekeningen, het
+   persona-document) in een schreefletter, alles waarmee wij meekijken
+   (labels, bijschriften, metingen) in schreefloos. Die scheiding draagt het
+   hele ontwerp — daarom staat er verder bijna geen decoratie in.
+
+   Eén breedte voor lopende tekst (--tekstbreedte) en een klein, hergebruikt
+   maten-/spatiëring-stelsel hieronder — geen los getal per onderdeel. */
 
 :root {
   --papier: #f4f1ea;
@@ -11,7 +14,14 @@
   --lijn: #d8d3c7;
   --accent: #7a3b2e;
   --weg: #8a8478;
-  --breedte: 44rem;
+  --breedte: 44rem;        /* buitenste containerbreedte (rasters, kop, secties) */
+  --tekstbreedte: 36rem;   /* lopende tekst, overal gelijk */
+  --maat-eyebrow: 0.7rem;  /* kleine hoofdletterlabels boven een sectie (naam, rubriek) */
+  --maat-label: 0.72rem;   /* badges/tags/tellingen (modus, mini-chips, metingen) */
+  --maat-meta: 0.8rem;     /* korte bijschriften (onderzoek-stand, afkeuringsreden) */
+  --maat-uitleg: 0.85rem;  /* korte uitlegparagrafen onder een rubriek */
+  --spatiering-eyebrow: 0.2em;
+  --spatiering-label: 0.08em;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -63,8 +73,8 @@ body {
 }
 .naam {
   margin: 0 0 0.75rem;
-  font-size: 0.75rem;
-  letter-spacing: 0.22em;
+  font-size: var(--maat-eyebrow);
+  letter-spacing: var(--spatiering-eyebrow);
   text-transform: uppercase;
   color: var(--dof);
 }
@@ -78,7 +88,7 @@ body {
 }
 .inleiding {
   margin: 0;
-  max-width: 34rem;
+  max-width: var(--tekstbreedte);
   color: var(--dof);
 }
 
@@ -86,8 +96,8 @@ body {
 
 .rubriek {
   margin: 0 0 1rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.2em;
+  font-size: var(--maat-eyebrow);
+  letter-spacing: var(--spatiering-eyebrow);
   text-transform: uppercase;
   color: var(--dof);
 }
@@ -115,11 +125,11 @@ body {
 .onderzoek .aanleiding {
   margin: 0 0 1.25rem;
   color: var(--dof);
-  max-width: 34rem;
+  max-width: var(--tekstbreedte);
 }
 .onderzoek-meta {
   margin: 0;
-  font-size: 0.8rem;
+  font-size: var(--maat-meta);
   color: var(--dof);
 }
 .modus {
@@ -128,8 +138,8 @@ body {
   border: 1px solid var(--accent);
   color: var(--accent);
   border-radius: 2px;
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
+  font-size: var(--maat-label);
+  letter-spacing: var(--spatiering-label);
   text-transform: uppercase;
   margin-right: 0.6rem;
 }
@@ -171,7 +181,7 @@ main section { margin-bottom: 4.5rem; }
 .kaart .cyclus {
   margin: 0.4rem 0 0;
   font-size: 0.68rem;
-  letter-spacing: 0.06em;
+  letter-spacing: var(--spatiering-label);
   color: var(--dof);
   font-variant-numeric: tabular-nums;
 }
@@ -182,14 +192,14 @@ main section { margin-bottom: 4.5rem; }
 .gedachte p:first-child {
   margin: 0;
   font-family: ui-serif, Georgia, "Times New Roman", serif;
-  font-size: 1.22rem;
+  font-size: 1.2rem;
   line-height: 1.55;
-  max-width: 36rem;
+  max-width: var(--tekstbreedte);
 }
 .gedachte .cyclus {
   margin: 0.4rem 0 0;
   font-size: 0.68rem;
-  letter-spacing: 0.1em;
+  letter-spacing: var(--spatiering-label);
   text-transform: uppercase;
   color: var(--accent);
 }
@@ -198,9 +208,9 @@ main section { margin-bottom: 4.5rem; }
 
 .weg-uitleg {
   margin: 0 0 1.5rem;
-  max-width: 34rem;
+  max-width: var(--tekstbreedte);
   color: var(--dof);
-  font-size: 0.9rem;
+  font-size: var(--maat-uitleg);
 }
 .weg-sectie .kaart img {
   filter: grayscale(0.65) contrast(0.92);
@@ -210,7 +220,7 @@ main section { margin-bottom: 4.5rem; }
 .weg-sectie .kaart img:hover { filter: none; opacity: 1; }
 .weg-sectie .reden {
   margin: 0.5rem 0 0;
-  font-size: 0.78rem;
+  font-size: var(--maat-meta);
   line-height: 1.45;
   color: var(--dof);
 }
@@ -231,12 +241,12 @@ main section { margin-bottom: 4.5rem; }
   font-size: 1.2rem;
   font-weight: 400;
 }
-.eerder .bevinding { margin: 0; max-width: 34rem; }
+.eerder .bevinding { margin: 0; max-width: var(--tekstbreedte); }
 .eerder .duur, .identiteit-uitleg, .metingen-uitleg {
   margin: 0 0 1.25rem;
-  font-size: 0.85rem;
+  font-size: var(--maat-uitleg);
   color: var(--dof);
-  max-width: 34rem;
+  max-width: var(--tekstbreedte);
 }
 .eerder .duur { margin: 0.35rem 0 0; }
 
@@ -283,7 +293,7 @@ main section { margin-bottom: 4.5rem; }
   padding: 0.25rem 0.65rem;
   border: 1px solid var(--lijn);
   border-radius: 999px;
-  font-size: 0.72rem;
+  font-size: var(--maat-label);
   color: var(--dof);
 }
 .identiteit .identiteit-ouder summary:hover { color: var(--inkt); border-color: var(--dof); }
@@ -303,8 +313,8 @@ main section { margin-bottom: 4.5rem; }
   margin: 0;
 }
 .metingen dt {
-  font-size: 0.72rem;
-  letter-spacing: 0.12em;
+  font-size: var(--maat-label);
+  letter-spacing: var(--spatiering-label);
   text-transform: uppercase;
   color: var(--dof);
   margin-bottom: 0.3rem;
