@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T13:15+02:00",
+  "bijgewerkt": "2026-08-15T13:30+02:00",
   "werk": [
+    {
+      "id": 8162,
+      "titel": "Gouden strook in nat beton",
+      "beschrijving": "Nat bestraatwerk reflecteert gouden zonlicht in een smalle strook die zich uitstrekt naar een onscherpe horizon. Witte regendruppels, scherp en onscherp, verspreiden zich over het beeld, sommige als zachte cirkels, andere als fijne stippen. Donkere voeglijnen vormen een raster dat de natte tegels in rechthoeken deelt, terwijl de achtergrond oplost in een flauwe mengeling van groene en grijze vormen. Het licht creëert een glinsterend patroon op het oppervlak, met kleine, schitterende hoogtepunten die de textuur van het nat beton benadrukken.",
+      "cyclus": 8099,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie en focus op natte tegels met reflecties en regendruppels zijn niet iconisch of typisch toeristisch, maar hebben een intieme, persoonlijke sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008099_8162.webp"
+    },
+    {
+      "id": 8158,
+      "titel": "Donkere golven op glas",
+      "beschrijving": "Een donkere, onregelmatige vorm rust op een glad, rond oppervlak. De textuur is ruw en gelaagd, met diepe richels en fijne, vezelachtige structuren die in golven lopen. Kleurrijke details ontbreken; alles is in grijstinten weergegeven, van donkerzwart tot lichtgrijs. De achtergrond is egaal en ontdaan van afleiding, waardoor de focus ligt op de complexe vorm en de subtiele spelletjes van licht en schaduw op het oppervlak. Kleine, glinsterende deeltjes zijn verspreid over de textuur, wat een gevoel van vochtigheid of kristallisatie suggereert. De compositie is statisch, maar de dynamiek van de vormen en texturen zorgt voor een intrigerend visueel effect.",
+      "cyclus": 8094,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve vorm met een bewuste compositorische keuze.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008094_8158.webp"
+    },
     {
       "id": 8153,
       "titel": "Rook en vergeten patronen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008047_8113.webp"
-    },
-    {
-      "id": 8111,
-      "titel": "Gebroken met poeder en golven",
-      "beschrijving": "Een donkergrijze, korrelige ondergrond draagt een patroon van onregelmatige, donkere barsten die een gebroken structuur vormen. Binnen de barsten lopen geelgroene en oranje strepen en vlekken, alsof er kleurrijk poeder of krijt is gestrooid. Bovenin lopen witte, golvende lijnen parallel aan elkaar, die een vloeiende beweging suggereren boven de gebroken vormen. Verspreid over de ondergrond liggen kleine, oranjebruine deeltjes en wat witte korrels, die de textuur van het oppervlak verrijken. De barsten lopen in verschillende richtingen en scheiden de kleurvlekken van elkaar, terwijl de witte golven een contrast vormen met de donkere, gebroken lijnen.",
-      "cyclus": 8045,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in textuur van gekleurde krijtstrepen (soms scherp, soms wazig)', 'enkele witte golflijnen lijken ongemotiveerd af te breken zonder logische overgang']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp; de compositie is abstract en open, zonder decoratief perfect licht of typisch ansichtkaart-motief.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008045_8111.webp"
-    },
-    {
-      "id": 8101,
-      "titel": "Scheuren in de horizon",
-      "beschrijving": "Drie horizontale panelen tonen een kustlandschap met golven die tegen donkere rotsen en een zandstrand slaan. Een scherpe, donkere barst loopt verticaal door alle drie de panelen, van boven naar beneden, en splitst het beeld in twee ongelijke delen. De golven hebben witte, schuimende toppen, terwijl de rotsen en het zand in grijstinten worden weergegeven met fijne, gedetailleerde lijnen. De achtergrond toont een effen, lichtgrijze horizon met een vaag silhouet van een heuvel of kustlijn. De barst heeft een onregelmatige vorm, met scherpe hoeken en smalle, kronkelende lijnen die de indruk wekken van een diepe scheur in het beeld. De panelen zijn gescheiden door smalle, witte banden, en de algehele sfeer is rustig maar met een onderliggende spanning door de barst die door het midden loopt.",
-      "cyclus": 8035,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in golfpatronen tussen de drie panelen', 'lichte wazigheid in de achtergrond van het middelste paneel']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, reflecterende sfeer en geen typisch toeristisch onderwerp of decoratief licht.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008035_8101.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 8100,
-    "gemaakt": 8162,
-    "gekozen": 1200,
+    "cycli": 8107,
+    "gemaakt": 8169,
+    "gekozen": 1202,
     "afgekeurd": 1112,
     "corpus": 67,
     "notities": 375
