@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T20:15+02:00",
+  "bijgewerkt": "2026-08-15T20:30+02:00",
   "werk": [
     {
       "id": 8339,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8353,
+      "cyclus": 8290,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, schuine compositie zonder bevestigende boodschap.",
+      "bestand": "images/a008290_8353.webp"
+    },
+    {
       "id": 8347,
       "cyclus": 8284,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een neutrale, bijna onpersoonlijke compositie zonder duidelijke thematische keuze.",
       "bestand": "images/a008280_8343.webp"
-    },
-    {
-      "id": 8340,
-      "cyclus": 8277,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met eigen standpunt.",
-      "bestand": "images/a008277_8340.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8287,
-    "gemaakt": 8349,
+    "cycli": 8293,
+    "gemaakt": 8355,
     "gekozen": 1230,
-    "afgekeurd": 1144,
-    "corpus": 67,
+    "afgekeurd": 1145,
+    "corpus": 68,
     "notities": 384
   }
 }
