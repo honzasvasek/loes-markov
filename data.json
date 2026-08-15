@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-15T21:15+02:00",
+  "bijgewerkt": "2026-08-15T21:30+02:00",
   "werk": [
+    {
+      "id": 8369,
+      "titel": "Rood dat zich onthult",
+      "beschrijving": "Een verticaal, golvend gevormd vlak met onregelmatige randen domineert het beeld, geschilderd in subtiele overgangen van zilvergrijs naar zachtrood en dieprood. De kleuren vloeien in elkaar over met watervlekkenachtige structuren, waarbij het rood soms intens en anders vervaagd is. Fijne, witte krassporen en vaag zichtbare lijnen lopen door het vlak, alsof er iets is weggehaald of getekend en weer ontdaan. Kleinere details zoals een donkerrode stip, een paar witte bolletjes en een onduidelijk reliëf in de hoek breken de effen vlakken. De achtergrond is een neutraal, effen wit, waardoor het golvende vlak scherp afsteekt en een gevoel van zwevende, onvastheid uitstraalt. De textuur lijkt zowel glad als licht ruw, met sporen van materiaal dat is toegevoegd of verwijderd.",
+      "cyclus": 8306,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond rand van beeld', 'lichte inconsistentie in textuur overgang rood/grijs']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een abstracte, niet-bevestigende kwaliteit",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008306_8369.webp"
+    },
     {
       "id": 8367,
       "titel": "Zwevende marmer in glas",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008304_8367.webp"
+    },
+    {
+      "id": 8366,
+      "titel": "Sporen van wat voorbij was",
+      "beschrijving": "Grijs-wit textuur met donkere vlekken en spetters, alsof inkt of roet door lucht drijft. Linksboven een rechthoekig raam met vier ruiten, omlijst door een donkere lijst. Een verticale lijn loopt van boven naar beneden, met daarlangs een reeks donkere, onregelmatige cirkels die kleiner worden naar beneden toe. Horizontally loopt een dunne lijn dwars door het midden, met daarboven en onder vaag zichtbare, wazige vormen die aan rook of water denken laten denken. Donkere druppels en spetters zijn willekeurig verspreid, met enkele grotere, onscherpe cirkels die als vage schaduwen door het beeld gaan. De achtergrond is ongelijkmatig getextureerd, met lichte en donkere gebieden die een gevoel van diepte geven.",
+      "cyclus": 8303,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in textuurverdeling (rechtsboven vs. linksonder)",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008303_8366.webp"
     },
     {
       "id": 8356,
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008265_8328.webp"
-    },
-    {
-      "id": 8325,
-      "titel": "Groen dat zich verdedigt met zilver",
-      "beschrijving": "Een smalle, groene plant met vijf bladeren steekt omhoog uit een donkere, poreuze laag die lijkt op verbrand hout of gesteente. Rond de steel lopen glanzende, zilverkleurige draden die over de rand van de laag lopen en in een druppel eindigen. De achtergrond bestaat uit grijze, schuine vlakken met subtiele textuur, alsof het om een verlaten, industriële ruimte gaat. Het licht valt schuin, waardoor de plant en de draden een zachte schaduw werpen op de witte achtergrond. De compositie is minimalistisch, met veel lege ruimte die de focus op de plant en de draden legt.",
-      "cyclus": 8262,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, ongemakkelijke compositie met leegte als actieve vormgever.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008262_8325.webp"
-    },
-    {
-      "id": 8302,
-      "titel": "Rode strepen, witte deur",
-      "beschrijving": "Drie verticale panelen tonen een smalle, verwaarloosde gang met een witte deur aan de rechterkant, waar telkens twee rode strepen horizontaal over het midden lopen. In het bovenste paneel zweeft een gele hoed met een donkere band boven een hoop zand, terwijl witte rook in slangen omhoog stijgt en zich vermengt met de grijze, verweerde muren. Het middelste paneel laat het zand in beweging zien, als een wazige, bruine wolk die de gang vult en de achtergrond verdwijnt in duisternis. Het onderste paneel toont het zand weer stilstaand, maar nu met losse klompen en een enkele steen, terwijl de rook is vervangen door een donkere, korrelige nevel die de ruimte ingeperkt doet lijken. De deuren blijven identiek, met alleen de rode strepen die subtiel van positie veranderen.",
-      "cyclus": 8239,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend verhaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008239_8302.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8378,
+      "cyclus": 8315,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen en landschap) en de decoratieve, niet-kritische compositie.",
+      "bestand": "images/a008315_8378.webp"
+    },
     {
       "id": 8372,
       "cyclus": 8309,
@@ -150,15 +159,6 @@
       "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in schaduwen van bomen en heuvels",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een dorpsstraat, iconische huizen en een romantische zonsondergang, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a008305_8368.webp"
-    },
-    {
-      "id": 8361,
-      "cyclus": 8298,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte letter op een neutrale achtergrond.",
-      "bestand": "images/a008298_8361.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8313,
-    "gemaakt": 8376,
-    "gekozen": 1234,
-    "afgekeurd": 1149,
-    "corpus": 67,
+    "cycli": 8319,
+    "gemaakt": 8381,
+    "gekozen": 1236,
+    "afgekeurd": 1150,
+    "corpus": 68,
     "notities": 386
   }
 }
