@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T02:45+02:00",
+  "bijgewerkt": "2026-08-15T03:00+02:00",
   "werk": [
     {
       "id": 7870,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7888,
+      "cyclus": 7822,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de wolken tegen de horizon', 'lichte vervorming in de handen van het kind in het midden']",
+      "cliche_notities": "Het beeld straalt een typisch ansichtkaart-gevoel uit met de iconische zonsondergang, silhouetten van kinderen en een romantische, decoratieve wolkenformatie zonder duidelijke compositorische keuze.",
+      "bestand": "images/a007822_7888.webp"
+    },
+    {
       "id": 7880,
       "cyclus": 7814,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de brug ten opzichte van de kerk', 'enkele overvolle details in de vegetatie aan weerskanten']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch kerkje, gracht en brug in een harmonieus landschap, zonder duidelijke persoonlijke compositorische keuze.",
       "bestand": "images/a007812_7878.webp"
-    },
-    {
-      "id": 7872,
-      "cyclus": 7806,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen ten opzichte van de horizon', 'lichte wazigheid in de achtergrondboomwerk']",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse windmolen door een deur, met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a007806_7872.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7817,
-    "gemaakt": 7882,
+    "cycli": 7823,
+    "gemaakt": 7889,
     "gekozen": 1149,
-    "afgekeurd": 1068,
-    "corpus": 66,
+    "afgekeurd": 1069,
+    "corpus": 65,
     "notities": 368
   }
 }
