@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T09:00+02:00",
+  "bijgewerkt": "2026-08-15T09:15+02:00",
   "werk": [
+    {
+      "id": 8063,
+      "titel": "Wit dat blijft hangen",
+      "beschrijving": "Een onregelmatig gescheurd gat in bruin papier onthult een helderwit vlak, omringd door frisse, witte randen van het papier. Onder het gat ligt een donkerbruine, droge plant met dunne, brekende stengels en verspreide, korrelige aarde. De achtergrond is eendragend bruin, met subtiele schaduwen die diepte geven aan het gat en de plant. De compositie is verticaal, met het gat centraal en de plant die naar beneden wijst, wat een gevoel van val of verdwijnen suggereert. Kleuren zijn beperkt tot bruin, wit en donkerbruin, met een rustige, bijna lege sfeer.",
+      "cyclus": 7997,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op leegte en ontbinding, niet op een bevestigend beeld.",
+      "curriculum_score": 10.0,
+      "gekozen": 1,
+      "bestand": "images/w007997_8063.webp"
+    },
+    {
+      "id": 8061,
+      "titel": "Vonken in het ijzer",
+      "beschrijving": "Donkere, schuine strepen vullen het beeld, doorspekt met witte en gele stippen die als vonken of druppels door de lijnen lopen. Sommige strepen zijn glanzend zilver, andere matgrijs of zwart, met subtiele overgangen tussen de tinten. De compositie straalt een restloze dichtheid uit, zonder duidelijke horizon of ruimte voor ademruimte. Kleuren zijn beperkt tot een donker palet met accenten van goud en zilver, wat een bijna metaalachtige textuur suggereert. De strepen snijden scherp door elkaar, soms in spitse hoeken, soms in vloeiende boogen, zonder herhaling van een vast patroon. Witte en gele vlekken verspreid over het beeld breken de monotonie, alsof er iets onzichtbaars de oppervlakte heeft geraakt. De sfeer is statisch, maar de details suggereren een onderliggende beweging, alsof de strepen net stilstaan na een snelle, onzichtbare beweging.",
+      "cyclus": 7995,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in textuur van sommige stengels', 'lichte wazigheid in de donkerste schaduwen tussen de stengels']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007995_8061.webp"
+    },
     {
       "id": 8057,
       "titel": "Waar het beton zwijgt",
@@ -104,61 +130,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007950_8016.webp"
-    },
-    {
-      "id": 8011,
-      "titel": "Sneeuw op het raam",
-      "beschrijving": "Een grijze houten deur met een rechthoekig raam in het bovenste deel vult het grootste deel van het beeld. Door het raam is een onscherp landschap zichtbaar met donkergroene bomen en een lichte hemel. Witte vlekken, mogelijk reflecties of sneeuwvlokken, verspreiden zich over het glas. De deur heeft een donkere metalen kruk en drie scharnieren aan de linkerkant. Onder het raam bevindt zich een paneel met een reliëfpatroon. De omlijsting van de deur is lichtgrijs en de muur eromheen wit met subtiele textuur. De vloer bestaat uit lichte tegels met een zachte overgang naar de deur.",
-      "cyclus": 7945,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de reflectie van het raam (bomen lijken niet logisch gepositioneerd ten opzichte van de deur), lichte wazigheid in de schaduw van de deurklink",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een ongemakkelijke, bijna verontrustende leegte die beyond een ansichtkaart gaat",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007945_8011.webp"
-    },
-    {
-      "id": 8009,
-      "titel": "Scheuren in de stilte",
-      "beschrijving": "Een witte muur van zachte, textuurrijke stenen domineert het beeld, doorsneden door een donkere, kronkelende scheur die van linksboven naar rechtsonder loopt. Onderaan de muur rijst een dichte laag droog, goudbruin gras op, met slanke stengels en zachte, veerkrachtige bloemkoppen die in de wind lijken te bewegen. Het gras vormt een scherp contrast met de kale, effen muur, terwijl de scheur een onrustige lijn trekt door de anders zo kalme compositie. De sfeer is stil en wat verlaten, met een subtiele spanning tussen de onverbrekelijke muur en het wilde, natuurlijke gras.",
-      "cyclus": 7943,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007943_8009.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 8060,
-      "cyclus": 7994,
+      "id": 8071,
+      "cyclus": 8005,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van schuur (dak lijkt te steil ten opzichte van muren), lichte wazigheid in achtergrondlandschap",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten boerderij schuur met een verlaten weg erheen, geschilderd in een realistische stijl zonder duidelijke persoonlijke of conceptuele keuzes.",
-      "bestand": "images/a007994_8060.webp"
+      "tech_notities": "kleine inconsistentie in perspectief van de pier (linker- en rechterkant lopen niet parallel)",
+      "cliche_notities": "Molens en waterlandschap in klassieke ansichtkaartcompositie zonder onverwachte invalshoek",
+      "bestand": "images/a008005_8071.webp"
     },
     {
-      "id": 8056,
-      "cyclus": 7990,
+      "id": 8069,
+      "cyclus": 8003,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het gras (sommige stengels zijn scherp, andere wazig)', 'Subtiele halo rond de rand van de wolken tegen de oranje hemel']",
-      "cliche_notities": "Het beeld toont een iconisch landschap met een eengezinswoning tegen een dramatische zonsondergang, typisch voor een ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a007990_8056.webp"
+      "tech_notities": "['Lichte inconsistentie in de houtstructuur van de deuren: de nerf is aan de linkerkant duidelijker dan aan de rechterkant, wat niet natuurlijk is.', 'De overgang tussen de vloer binnen en het terras buiten is iets te scherp en ontbreekt aan een subtiele schaduw of textuurverschuiving.']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch uitzicht op zee door een open deur, met perfect licht en geen duidelijke compositorische keuze beyond de klassieke framing.",
+      "bestand": "images/a008003_8069.webp"
     },
     {
-      "id": 8033,
-      "cyclus": 7967,
+      "id": 8068,
+      "cyclus": 8002,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van bomen in achtergrond', 'lichte wazigheid in details van bloesems']",
-      "cliche_notities": "Beeld straalt een typisch ansichtkaart-gevoel uit met bloesemtuintje en open deur naar een idyllisch landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007967_8033.webp"
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch herfstlandschap met zonsondergang, typisch voor een toeristische ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008002_8068.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7998,
-    "gemaakt": 8063,
-    "gekozen": 1183,
-    "afgekeurd": 1101,
+    "cycli": 8006,
+    "gemaakt": 8071,
+    "gekozen": 1185,
+    "afgekeurd": 1104,
     "corpus": 67,
     "notities": 375
   }
