@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-15T17:45+02:00",
+  "bijgewerkt": "2026-08-15T18:00+02:00",
   "werk": [
+    {
+      "id": 8279,
+      "titel": "Rood op grijs",
+      "beschrijving": "Een militair uniform hangt aan een donkere hanger tegen een roodbruine muur. Het jasje is lichtgrijs met rode borden aan de schouders en mouwen, en gouden knopen loopt verticaal over de voorzijde. Twee borstzakken met kleppen en twee heuptassen voltooien het jasje. De broek is donkerblauw met rode strepen langs de zijkanten. Zwarte, glanzende laarzen staan onder de broek. Zonlicht werpt schaduwen van het uniform en de hanger op de muur en de tegelvloer. De compositie is strak en symmetrisch, met het uniform centraal in beeld. De sfeer is formeel en ordelijk.",
+      "cyclus": 8216,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de schaduwen van de broek ten opzichte van de jas', 'Kleine halo rond de gouden knopen door hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de leegte rond de uniformstukken en de focus op details zoals de rode borden en gouden knopen, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008216_8279.webp"
+    },
     {
       "id": 8262,
       "titel": "Een barst in het zand",
@@ -117,22 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008169_8232.webp"
-    },
-    {
-      "id": 8224,
-      "titel": "De theepot die wacht op water",
-      "beschrijving": "Een smalle, rechte gang met rozebruine muren en een lichtere vloer loopt door het midden. Aan weerskanten bevinden zich donkere deuropeningen, waarvan de linker een smalle strook licht laat zien. In het midden van de gang staat een donkerbruine theepot met een handvat en een neusje, werpend een zachte schaduw op de vloer. Het plafond is evenwijdig aan de muren en versterkt de diepte van de ruimte. De sfeer is stil en leeg, met een focus op de eenvoudige vorm en textuur van de theepot tegen de minimalistische achtergrond.",
-      "cyclus": 8161,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren aan weerskanten', 'lichte wazigheid in de textuur van de vloer bij de voorgrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of decoratieve elementen die het tot een ansichtkaart maken.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008161_8224.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8287,
+      "cyclus": 8224,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een klassieke klok in een minimalistische compositie, een iconisch onderwerp zonder eigen compositorische keuze of onverwachte invloeden, typisch voor een ansichtkaartachtige voorstelling.",
+      "bestand": "images/a008224_8287.webp"
+    },
+    {
+      "id": 8284,
+      "cyclus": 8221,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde Romeinse cijfers op klok', 'inconsistent perspectief klok tegen achtergrond', 'wazige textuur in donkere vlekken']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is experimenteel en niet bedoeld als bevestigende ansichtkaart.",
+      "bestand": "images/a008221_8284.webp"
+    },
     {
       "id": 8278,
       "cyclus": 8215,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk bij zonsondergang) en de decoratieve, perfecte belichting zonder duidelijke compositorische keuze.",
       "bestand": "images/a008215_8278.webp"
-    },
-    {
-      "id": 8272,
-      "cyclus": 8209,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde architectonische details', 'inconsistent perspectief wateroppervlak']",
-      "cliche_notities": "Beide kerken en het water herinneren aan een typische toeristische ansichtkaart met decoratief licht en iconische onderwerpen.",
-      "bestand": "images/a008209_8272.webp"
-    },
-    {
-      "id": 8265,
-      "cyclus": 8202,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de weg (verdwijnt te scherp)', 'enkele bloemen hebben onnatuurlijke symmetrie']",
-      "cliche_notities": "Landschap met weg en bloemen herinnert aan typische ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek",
-      "bestand": "images/a008202_8265.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8221,
-    "gemaakt": 8283,
-    "gekozen": 1221,
-    "afgekeurd": 1131,
+    "cycli": 8226,
+    "gemaakt": 8288,
+    "gekozen": 1222,
+    "afgekeurd": 1133,
     "corpus": 67,
     "notities": 380
   }
