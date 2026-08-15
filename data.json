@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T05:15+02:00",
+  "bijgewerkt": "2026-08-15T05:30+02:00",
   "werk": [
     {
       "id": 7947,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 7931,
-      "cyclus": 7865,
+      "id": 7958,
+      "cyclus": 7892,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuur van stenen (sommige te scherp, andere wazig)', 'zon iets te perfect rond en helder voor natuurlijk licht']",
+      "cliche_notities": "Zonsondergang door een muur van stenen is een iconisch motief zonder eigen compositorische keuze.",
+      "bestand": "images/a007892_7958.webp"
+    },
+    {
+      "id": 7957,
+      "cyclus": 7891,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
       "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met focus op ontbinding en leegte.",
-      "bestand": "images/a007865_7931.webp"
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst als centraal element.",
+      "bestand": "images/a007891_7957.webp"
     },
     {
-      "id": 7929,
-      "cyclus": 7863,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke compositie met een klok die niet in balans is met de achtergrond.",
-      "bestand": "images/a007863_7929.webp"
-    },
-    {
-      "id": 7925,
-      "cyclus": 7859,
+      "id": 7954,
+      "cyclus": 7888,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deurpanelen', 'lichte wazigheid in de achtergrondbomen']",
-      "cliche_notities": "Dit beeld straalt een typisch nostalgisch, ansichtkaart-achtig gevoel uit met de iconische compositie van kinderen die door een deur lopen naar een winterlandschap, zonder duidelijke persoonlijke of compositorische verbeelding.",
-      "bestand": "images/a007859_7925.webp"
+      "tech_notities": "['lichte inconsistentie in perspectief van bomen langs de weg', 'watervlak in venster iets te perfect recht']",
+      "cliche_notities": "Landschap met vogels en dorpsgezicht herinnert aan typische ansichtkaartcompositie met ideale verdeling van natuur en bewoning",
+      "bestand": "images/a007888_7954.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7886,
-    "gemaakt": 7951,
+    "cycli": 7894,
+    "gemaakt": 7959,
     "gekozen": 1160,
-    "afgekeurd": 1080,
-    "corpus": 66,
+    "afgekeurd": 1083,
+    "corpus": 67,
     "notities": 372
   }
 }
