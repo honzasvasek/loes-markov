@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T19:45+02:00",
+  "bijgewerkt": "2026-08-15T20:00+02:00",
   "werk": [
     {
       "id": 8328,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 8340,
+      "cyclus": 8277,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met eigen standpunt.",
+      "bestand": "images/a008277_8340.webp"
+    },
+    {
+      "id": 8337,
+      "cyclus": 8274,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen', 'inconsistent perspectief houten structuur']",
+      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht, maar een ongemakkelijke, bijna confronterende compositie.",
+      "bestand": "images/a008274_8337.webp"
+    },
+    {
       "id": 8332,
       "cyclus": 8269,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
       "bestand": "images/a008269_8332.webp"
-    },
-    {
-      "id": 8331,
-      "cyclus": 8268,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de overgang tussen wolken en zonlicht",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een dramatische zonsondergang over water en iconische wolkenformaties",
-      "bestand": "images/a008268_8331.webp"
-    },
-    {
-      "id": 8326,
-      "cyclus": 8263,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de vleugels van de molen: de linker- en rechtervleugel zijn niet symmetrisch en de structuur lijkt inconsistent', 'Wazige textuur in de achtergrondbomen en het landschap, alsof de details zich oplossen in een grijze nevel', 'Halo-effect rond de vlammen van het vuur, waardoor de overgang naar de achtergrond kunstmatig lijkt']",
-      "cliche_notities": "Dit beeld past bij de categorie 'toeristische ansichtkaart': een iconische Nederlandse molen tegen een romantische zonsondergang, met een decoratief vuur en palmboomachtige bomen die geen eigen standpunt of compositorische keuze uitstralen.",
-      "bestand": "images/a008263_8326.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8274,
-    "gemaakt": 8336,
+    "cycli": 8280,
+    "gemaakt": 8342,
     "gekozen": 1227,
-    "afgekeurd": 1140,
+    "afgekeurd": 1142,
     "corpus": 67,
     "notities": 383
   }
