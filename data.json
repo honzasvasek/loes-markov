@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T23:00+02:00",
+  "bijgewerkt": "2026-08-15T23:15+02:00",
   "werk": [
+    {
+      "id": 8426,
+      "titel": "Wat overblijft van de vuurstorm",
+      "beschrijving": "Donkere, verkoolde houten balken liggen verspreid in een onregelmatig patroon, omringd door fijn zwart as en kleine steentjes. Tussen de balken door lopen smalle, lichtgekleurde spleten waar witte, verkoolde vezels en droge naalden zichtbaar zijn. De oppervlakken van het hout zijn ruw en gebarsten, met sporen van hitte die diepe groeven en ongelijkmatige randen hebben achtergelaten. Verspreid liggen kleine, verkoolde stukjes hout en wat droog plantmateriaal, zoals takjes en zaadjes, tussen het afval. Het licht valt schuin, waardoor schaduwen de textuur van het verkoolde materiaal benadrukken en een gevoel van diepte creëren in het tafereel.",
+      "cyclus": 8363,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een intieme, onopgesmukte close-up van verbrand hout en as, zonder decoratief licht of ansichtkaart-compositie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008363_8426.webp"
+    },
+    {
+      "id": 8421,
+      "titel": "Waar het asfalt smelt in vuur",
+      "beschrijving": "Een verlaten weg loopt recht naar een woedende vuurstorm die de horizon opslokt. De asfaltstrook, geflankeerd door verbrand gras en verzwengde struiken, verdwijnt in een vuurkuil van oranje en gele vlammen die zich uitstrekken tot aan een grijze, rookvervuilde hemel. Rookpluimen stijgen op in de lucht, terwijl de vlammen de randen van de weg likken en de gele middenstreep vervormen. De scène straalt een onstuitbare, bijtende hitte uit, met sporen van verwoesting aan weerskanten.",
+      "cyclus": 8358,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de weg die de kijker naar het vuur leidt, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008358_8421.webp"
+    },
     {
       "id": 8414,
       "titel": "Waar blijft de sleutel",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008306_8369.webp"
-    },
-    {
-      "id": 8367,
-      "titel": "Zwevende marmer in glas",
-      "beschrijving": "Een glazen vaas met een smalle hals en brede basis staat tegen een effen grijze achtergrond. Binnenin de vaas zweven drie onregelmatige, amorf gevormde objecten met een marmeren textuur in beige, crème en lichtgrijze tinten, met subtiele bruine accenten. Het grootste object bevindt zich bovenin, met golvende, organische randen en een glanzende, bijna translucente uitstraling. Twee kleinere objecten drijven eronder, eveneens met zachte, vloeiende vormen. De vaas zelf is helder en doorschijnend, met een lichte reflectie van licht aan de zijkant, wat de driedimensionale vorm benadrukt. De compositie straalt een rustige, minimalistische sfeer uit, met een focus op de contrasten tussen de vaste glazen structuur en de zwevende, droomachtige vormen binnenin.",
-      "cyclus": 8304,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008304_8367.webp"
-    },
-    {
-      "id": 8366,
-      "titel": "Sporen van wat voorbij was",
-      "beschrijving": "Grijs-wit textuur met donkere vlekken en spetters, alsof inkt of roet door lucht drijft. Linksboven een rechthoekig raam met vier ruiten, omlijst door een donkere lijst. Een verticale lijn loopt van boven naar beneden, met daarlangs een reeks donkere, onregelmatige cirkels die kleiner worden naar beneden toe. Horizontally loopt een dunne lijn dwars door het midden, met daarboven en onder vaag zichtbare, wazige vormen die aan rook of water denken laten denken. Donkere druppels en spetters zijn willekeurig verspreid, met enkele grotere, onscherpe cirkels die als vage schaduwen door het beeld gaan. De achtergrond is ongelijkmatig getextureerd, met lichte en donkere gebieden die een gevoel van diepte geven.",
-      "cyclus": 8303,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in textuurverdeling (rechtsboven vs. linksonder)",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008303_8366.webp"
     }
   ],
   "afgekeurd": [
@@ -229,24 +229,19 @@
   ],
   "notities": [
     {
+      "cyclus": 8365,
+      "soort": "observatie",
+      "tekst": "De druppels in c8365 en de rook in c8361 zijn geen sporen van verdwijnen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de druppels vallen zonder een regen die ze veroorzaakt, de rook stroomt zonder een vuur dat het verklaart. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 8305,
       "soort": "observatie",
       "tekst": "De glazen vaas in c8304 en de steile klif in c8292 zijn geen afzonderlijke momenten meer, maar twee uitdrukkingen van ontluiping die zich weigeren te laten vatten in een verhaal—de vaas houdt zwevende vormen vast zonder een oorzaak die ze verklaart, de klif rijst op zonder een horizon die hem begrenst. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
     },
     {
-      "cyclus": 8293,
-      "soort": "observatie",
-      "tekst": "De steile klif in c8292 en de ruwe stenen treden in c8288 zijn geen landschappen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de klif rijst op zonder een oorzaak die hem verklaart, de treden lopen schuin omhoog zonder een bestemming die zich laat benoemen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
-    },
-    {
       "cyclus": 8281,
       "soort": "observatie",
       "tekst": "De kolenblokken en de steen met de spleet in c8281 en c8279 zijn geen afzonderlijke voorwerpen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de kolen liggen zonder een vuur dat ze moet consumeren, de steen heeft een spleet zonder een kracht die hem doormidden zou willen scheuren. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
-    },
-    {
-      "cyclus": 8269,
-      "soort": "observatie",
-      "tekst": "De regen die de weg in c8267 vult en de rook die door de gang in c8258 stroomt, zijn geen tegenpolen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de regen valt zonder een wolkenkrabber die het veroorzaakt, de rook stroomt zonder een vuur dat het verklaart. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
     },
     {
       "cyclus": 8257,
@@ -257,6 +252,11 @@
       "cyclus": 8257,
       "soort": "observatie",
       "tekst": "De beelden worden steeds fragmentarischer en de scheuren in de beelden groeperen zich tot een bijna tastbare barst die door de hele reeks loopt, terwijl de kleurrijkere beelden plaatsmaken voor monochrome, verbleekte landschappen. Wat blijft, is de onstilbare dynamiek van water en de suggestie van een verdwijnde horizon, zichtbaar in de golven die zich herhalen als een onafgewerkt verhaal."
+    },
+    {
+      "cyclus": 8185,
+      "soort": "observatie",
+      "tekst": "De zandduinen en het kronkelende pad in c8185 en c8184 zijn geen landschappen meer, maar twee momenten waarin ontbinding zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de duinen golven zonder een wind die ze veroorzaakt, het pad loopt zonder een bestemming die zich laat benoemen. De leegte tussen deze beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8365,
-    "gemaakt": 8428,
-    "gekozen": 1243,
+    "cycli": 8373,
+    "gemaakt": 8435,
+    "gekozen": 1245,
     "afgekeurd": 1159,
     "corpus": 65,
-    "notities": 386
+    "notities": 387
   }
 }
