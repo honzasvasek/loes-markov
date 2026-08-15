@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T17:30+02:00",
+  "bijgewerkt": "2026-08-15T17:45+02:00",
   "werk": [
     {
       "id": 8262,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8278,
+      "cyclus": 8215,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk bij zonsondergang) en de decoratieve, perfecte belichting zonder duidelijke compositorische keuze.",
+      "bestand": "images/a008215_8278.webp"
+    },
+    {
       "id": 8272,
       "cyclus": 8209,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de weg (verdwijnt te scherp)', 'enkele bloemen hebben onnatuurlijke symmetrie']",
       "cliche_notities": "Landschap met weg en bloemen herinnert aan typische ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek",
       "bestand": "images/a008202_8265.webp"
-    },
-    {
-      "id": 8256,
-      "cyclus": 8193,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', \"vervormde letters (bijv. 'O' en 'D')\", 'inconsistent perspectief letters ten opzichte van klok', 'wazige randen bij sommige letters']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet gericht op een bevestigend effect.",
-      "bestand": "images/a008193_8256.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8213,
-    "gemaakt": 8275,
+    "cycli": 8221,
+    "gemaakt": 8283,
     "gekozen": 1221,
-    "afgekeurd": 1130,
-    "corpus": 66,
+    "afgekeurd": 1131,
+    "corpus": 67,
     "notities": 380
   }
 }
