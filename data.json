@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T23:30+02:00",
+  "bijgewerkt": "2026-08-15T23:45+02:00",
   "werk": [
+    {
+      "id": 8437,
+      "titel": "Rook die een lichaam herinnert",
+      "beschrijving": "Een roze hemel vervaagt naar een donkerblauwe oceaan met kleine golven en wit schuim. Een doorschijnende, rookachtige vorm stijgt op uit het water, met een slanke, kronkelende structuur die aan een lichaam denkt laat denken, maar zonder duidelijke details. De rook wordt dunner naarmate hij hoger komt, en lost op in de hemel. Het water heeft een textuur van kleine, onrustige golven, en er drijven wat witte vlekken, mogelijk schuim of vogels, op het oppervlak. De horizon is scherp en rechte, en de overgang tussen hemel en zee is duidelijk. De sfeer is stil en iets mysterieus, door de combinatie van de zachte kleuren en de ongreepbare rookvorm.",
+      "cyclus": 8374,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de rookfiguur en oceaan hebben een ongemakkelijke, niet-bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008374_8437.webp"
+    },
+    {
+      "id": 8432,
+      "titel": "Scheuren in de glans",
+      "beschrijving": "Een getekende theepot met een bolvormig deksel en een handvat bevindt zich centraal op een geruit oppervlak. Een scherpe, verticale scheur loopt van het deksel tot de onderkant van de pot, met onregelmatige randen die diepte suggereren. Het oppervlak van de theepot toont een textuur van kleine stippen en lichte schakeringen, met reflecties die glans nabootsen. De neus van de theepot is kort en bol, en de schaduw onder de pot is donker en gedetailleerd getekend met fijne lijnen. De achtergrond is egaal lichtgrijs, zonder aanvullende elementen.",
+      "cyclus": 8369,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in textuur van de theepot (linksboven vs rechtsonder), lichte halo rond de scheur",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de scheur en het rasterpatroon geven een ongemakkelijke, niet-toeristische sfeer",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008369_8432.webp"
+    },
     {
       "id": 8426,
       "titel": "Wat overblijft van de vuurstorm",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008326_8389.webp"
-    },
-    {
-      "id": 8384,
-      "titel": "Het spoor dat verdwijnt </thinking>",
-      "beschrijving": "Een smalle gang met witte muren en een lichte houten vloer loopt door een reeks openstaande deuren, elk met donkere metalen handvatten en scharnieren. De deuren zijn symmetrisch geplaatst en verdwijnen in de verte, waar het licht zachter wordt. Over de vloer loopt een donkere, golvende lijn die vanaf de voorgrond naar de achtergrond loopt, alsof hij een spoor achterlaat. De schaduwen aan weerszijden van de gang zijn subtiel getekend, waardoor diepte ontstaat. Boven de eerste deur is een licht gebogen plafond te zien met fijne, schetsachtige lijnen. De sfeer is kalm en iets mysterieus, door de leegte en de herhalende structuur van de deuren en gang.",
-      "cyclus": 8321,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren aan weerskanten', 'lichte wazigheid in de achtergrond van de gang']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een suggestie van diepte en mysterie zonder cliché-elementen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008321_8384.webp"
-    },
-    {
-      "id": 8369,
-      "titel": "Rood dat zich onthult",
-      "beschrijving": "Een verticaal, golvend gevormd vlak met onregelmatige randen domineert het beeld, geschilderd in subtiele overgangen van zilvergrijs naar zachtrood en dieprood. De kleuren vloeien in elkaar over met watervlekkenachtige structuren, waarbij het rood soms intens en anders vervaagd is. Fijne, witte krassporen en vaag zichtbare lijnen lopen door het vlak, alsof er iets is weggehaald of getekend en weer ontdaan. Kleinere details zoals een donkerrode stip, een paar witte bolletjes en een onduidelijk reliëf in de hoek breken de effen vlakken. De achtergrond is een neutraal, effen wit, waardoor het golvende vlak scherp afsteekt en een gevoel van zwevende, onvastheid uitstraalt. De textuur lijkt zowel glad als licht ruw, met sporen van materiaal dat is toegevoegd of verwijderd.",
-      "cyclus": 8306,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond rand van beeld', 'lichte inconsistentie in textuur overgang rood/grijs']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een abstracte, niet-bevestigende kwaliteit",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008306_8369.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8375,
-    "gemaakt": 8438,
-    "gekozen": 1245,
+    "cycli": 8378,
+    "gemaakt": 8440,
+    "gekozen": 1247,
     "afgekeurd": 1160,
-    "corpus": 65,
+    "corpus": 66,
     "notities": 387
   }
 }
