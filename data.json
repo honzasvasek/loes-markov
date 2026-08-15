@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-15T20:00+02:00",
+  "bijgewerkt": "2026-08-15T20:15+02:00",
   "werk": [
+    {
+      "id": 8339,
+      "titel": "Scheuren in de gevel",
+      "beschrijving": "Een grijze houten deur met vier panelen vult het midden van een roodbruine muur. Boven de deur loopt een onregelmatige, donkere scheur door de pleisterlaag, met kleine losse stukken en zilverkleurige spijkers die de rand van de scheur markeren. De deur heeft een ronde, bruine deurknop aan de linkerkant en twee donkere scharnieren aan de rechterkant. Onder de deur bevindt zich een smalle, lichtgrijze stenen drempel met spatelsporen en kleine barstjes. Het hout van de deur toont slijtage, met verbleekte plekken en zichtbare houtvezels. De muur rond de deur is glad en egaal, zonder andere details of onderbrekingen.",
+      "cyclus": 8276,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een sobere, minimalistische compositie met een focus op textuur en structuur.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008276_8339.webp"
+    },
+    {
+      "id": 8335,
+      "titel": "De kier die blijft hangen",
+      "beschrijving": "Een grijze houten deur staat op een kier, met een verbleekt wit bordje en een bronskleurige deurkruk. Voor de deur ligt een hoop puin: gebroken hout, papier en onherkenbare fragmenten, verspreid over een betonnen vloer. Rechts staat een figuur met de rug naar de kijker, gekleed in donkere kleren en een brede hoed die in de wind waait. Voor in het beeld staat een koperen theepot met een glanzende, gebarsten oppervlakte, die een donkere schaduw werpt. De achtergrond is een effen grijze muur met subtiele textuur, en de lucht erboven is vaag geschilderd in lichtgrijze tinten. De compositie is asymmetrisch, met de deur aan de linkerkant en de figuur en theepot die de rechterhelfd balanceren. De sfeer is stil en verlaten, met sporen van verwaarlozing en een gevoel van onafgewerktheid.",
+      "cyclus": 8272,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deur ten opzichte van de vloer', 'lichte wazigheid in de achtergrondtextuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, open compositie zonder duidelijke narratieve intentie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008272_8335.webp"
+    },
+    {
+      "id": 8333,
+      "titel": "De barst die roept",
+      "beschrijving": "Rode zandduinen met donkere, vertakte barsten lopen door het landschap, omgeven door droge grassprietjes. Middenin staat een openstaande houten deur met een witte lijst, die uitkijkt op een grijzig, glooiend landschap met vage velden en heuvels. De achtergrond is vaag en textuurrijk, met een overgang van rood naar grijs. Donkere schaduwen vallen van de deur en het gras, terwijl de barsten in het zand diepe, onregelmatige lijnen vormen die naar de deur leiden.",
+      "cyclus": 8270,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008270_8333.webp"
+    },
     {
       "id": 8328,
       "titel": "Gele drift in grijze lijnen",
@@ -91,48 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008199_8262.webp"
-    },
-    {
-      "id": 8261,
-      "titel": "Donkere aderen, witte stilte",
-      "beschrijving": "Donkere, porige rotsblokken vormen een onregelmatig landschap met diepe, smalle dalen. Glanzende, donkere vloeistof stroomt in slingerende banen door het midden, omgeven door fijne, witte stippen die als sterren of spetters door het beeld verspreid zijn. De textuur van de rotsen is ruw en ongelijkmatig, met holtes en uitstulpingen die diepte creëren. De vloeistof lijkt langzaam te bewegen, met gladde, reflecterende oppervlakken die contrasteren met de ruwe omgeving. Witte, ronde vormen, variërend in grootte, liggen verspreid over de rotsen en de vloeistof, alsof ze drijven of vastzitten. De achtergrond is een egale, lichte kleur, waardoor het donkere landschap scherp afsteekt.",
-      "cyclus": 8198,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van donkere massa (linksboven vs rechtsonder)', 'enkele witte stippen lijken kunstmatig geplaatst (niet natuurlijk verspreid)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008198_8261.webp"
-    },
-    {
-      "id": 8260,
-      "titel": "Rood dat door stilte loopt",
-      "beschrijving": "Een brede, onregelmatige scheur loopt verticaal door een beige, textuurrijke muur, met scherpe, uitgesneden randen die diepte suggereren. Door de scheur stroomt een levendige, rode substantie die lijkt op gesmolten was of lava, met zachte, golvende patronen en subtiele overgangen naar roze en oranje. De rode stroom vult de onderste helft van de scheur en loopt geleidelijk uit naar een brede, vloeiende vorm aan de onderkant. De muur heeft kleine onvolkomenheden, zoals lichte verkleuringen en fijne krassen, en de scheur werpt een donkere schaduw die de diepte versterkt. De compositie is statisch, maar de rode stroom brengt een gevoel van beweging en spanning in het beeld.",
-      "cyclus": 8197,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van het brekende oppervlak (benedenlinks)', 'lichte halo rond de rand van de scheur (rechtsboven)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de scheur en rode onderlaag voelen als een persoonlijke metaforische keuze, geen ansichtkaartmotief.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008197_8260.webp"
-    },
-    {
-      "id": 8254,
-      "titel": "Twaalf uur zonder bladeren",
-      "beschrijving": "Rode en roze waterverfvlakken vullen de achtergrond, met zachte, onregelmatige randen die zich vermengen met de lichte, korrelige structuur van het oppervlak. Dunne, donkere takken zonder bladeren lopen diagonaal door het beeld, met kleine, donkere knoppen die de klok en de achtergrond doorsnijden. Bruine en zwarte vlekken en spetters verspreiden zich vooral aan de onderkant, waar een donkere, amorf vorm de indruk wekt van een oplosend oppervlak. De klok wijst precies twaalf uur aan, met de wijzers in een perfecte T-vorm.",
-      "cyclus": 8191,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de klok ten opzichte van de achtergrond', 'lichte wazigheid in de takken aan de linkerzijde']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een klassiek motief (klok) met abstracte, watervaste vormen en een ongemakkelijke compositie, wat het boven een toeristische ansichtkaart verheft.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008191_8254.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8347,
+      "cyclus": 8284,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische wilg en landschap in traditionele inktstijl, zonder eigen compositorische keuzes of onverwachte elementen.",
+      "bestand": "images/a008284_8347.webp"
+    },
+    {
+      "id": 8343,
+      "cyclus": 8280,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een neutrale, bijna onpersoonlijke compositie zonder duidelijke thematische keuze.",
+      "bestand": "images/a008280_8343.webp"
+    },
     {
       "id": 8340,
       "cyclus": 8277,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met eigen standpunt.",
       "bestand": "images/a008277_8340.webp"
-    },
-    {
-      "id": 8337,
-      "cyclus": 8274,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen', 'inconsistent perspectief houten structuur']",
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht, maar een ongemakkelijke, bijna confronterende compositie.",
-      "bestand": "images/a008274_8337.webp"
-    },
-    {
-      "id": 8332,
-      "cyclus": 8269,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
-      "bestand": "images/a008269_8332.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8281,
+      "soort": "observatie",
+      "tekst": "De kolenblokken en de steen met de spleet in c8281 en c8279 zijn geen afzonderlijke voorwerpen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de kolen liggen zonder een vuur dat ze moet consumeren, de steen heeft een spleet zonder een kracht die hem doormidden zou willen scheuren. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 8269,
       "soort": "observatie",
       "tekst": "De regen die de weg in c8267 vult en de rook die door de gang in c8258 stroomt, zijn geen tegenpolen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de regen valt zonder een wolkenkrabber die het veroorzaakt, de rook stroomt zonder een vuur dat het verklaart. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 8161,
       "soort": "observatie",
       "tekst": "De gang in c8161 en de verbrande houtvezels in c8158 zijn geen afzonderlijke ruimtes meer, maar twee momenten waarin ontbinding zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de gang loopt door zonder een bestemming die zich laat benoemen, de houtvezels vallen uiteen zonder een oorzaak die zich laat verklaren. De leegte tussen deze beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
-    },
-    {
-      "cyclus": 8149,
-      "soort": "observatie",
-      "tekst": "De vonken in c8149 en het schuimende water in c8147 zijn geen sporen van ontbinding meer, maar twee momenten waarin de taal van ontbinding zichzelf overschrijdt—de vonken zaaien een verhaal dat zich niet meer laat vertalen, het water stroomt zonder een richting die zich laat vatten. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8280,
-    "gemaakt": 8342,
-    "gekozen": 1227,
-    "afgekeurd": 1142,
+    "cycli": 8287,
+    "gemaakt": 8349,
+    "gekozen": 1230,
+    "afgekeurd": 1144,
     "corpus": 67,
-    "notities": 383
+    "notities": 384
   }
 }
