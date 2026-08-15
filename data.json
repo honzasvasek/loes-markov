@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T14:30+02:00",
+  "bijgewerkt": "2026-08-15T14:45+02:00",
   "werk": [
+    {
+      "id": 8199,
+      "titel": "Wie tekende deze kringen?",
+      "beschrijving": "Zand vormt een ongelijkmatig oppervlak met verspreide kiezelstenen en kleine scherven. Een cilindrische, ruwe structuur van wat lijkt op gedroogde klei of modder staat centraal, met een onregelmatige, beschadigde rand aan de bovenkant en een klein, reliëfachtig huisje met een dak en een venster aan de zijkant. Voor deze cilinder ligt een kleiner, drie-dimensionaal huisje van hetzelfde materiaal, met een schuin dak, twee ronde openingen en een rechthoekige deuropening. Rond de structuren lopen concentrische, ingekkerde lijnen door het zand, alsof er met een puntig voorwerp in het natte zand is getekend. Kleine, glinsterende deeltjes, mogelijk glas of steen, liggen verspreid over het zand. De scène is in zwart-wit, met scherp contrast tussen de lichte en donkere gebieden, wat de textuur van het zand en de materialen benadrukt. De achtergrond vervaagt geleidelijk, waardoor de focus op de centrale objecten blijft liggen.",
+      "cyclus": 8136,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de combinatie van de cilindervormige structuur en de kleine huisjes, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008136_8199.webp"
+    },
+    {
+      "id": 8194,
+      "titel": "Wolken die een lijn trekken",
+      "beschrijving": "Twee witte, korrelige wolken zweven boven een scherp getrokken roze horizon, die de compositie in twee gelijke helften deelt. Onder de horizon loopt een smalle, verticale witte lijn omhoog, alsof de wolken eruit groeien. De achtergrond is egaal grijs, met een subtiele textuur die aan papier of beton doet denken. De wolken hebben een zachte, onregelmatige vorm, met kleine, ronde uitstulpingen die een volumineus effect geven. De roze band heeft een licht ongelijkmatige rand, alsof hij met krijt is getekend. De witte lijn is niet recht, maar heeft een lichte, natuurlijke wankelheid, alsof hij in één zwiep is getrokken. De kleuren zijn gedempt, maar de roze tint springt eruit door zijn helderheid tegen het neutrale grijs. De sfeer is kalm en ietsje surrealistisch, door de combinatie van de eenvoudige vormen en de onverwachte kleurkeuze.",
+      "cyclus": 8131,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een minimalistische compositie met een abstracte, bijna ongemakkelijke schoonheid.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008131_8194.webp"
+    },
     {
       "id": 8181,
       "titel": "Wit tussen twee werelden",
@@ -104,61 +130,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008080_8144.webp"
-    },
-    {
-      "id": 8141,
-      "titel": "Barsten die zwijgen bewaren",
-      "beschrijving": "Donker hout met diepe, onregelmatige barsten loopt diagonaal door het beeld, omringd door een donkere, korrelige ondergrond met verspreide steentjes en kleine witte deeltjes. Het hout heeft een ruwe, gescheurde textuur met uitgesleten vezels en schuine randen diep in het materiaal. De barsten lopen in verschillende breedtes en dieptes, sommige met scherpe, andere met afgeronde randen. Witte vlekken en fijne korrels liggen verspreid over het hout en de omgeving, met hier en daar een glimp van een lichtere, bijna zilverachtige laag onder de donkere oppervlakte. De compositie is strak en gericht op de textuur en de spanning tussen het hout en de omringende grond.",
-      "cyclus": 8077,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het toont een close-up van verweerd hout zonder iconisch of decoratief karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008077_8141.webp"
-    },
-    {
-      "id": 8133,
-      "titel": "De zwevende theepot boven het grasveld",
-      "beschrijving": "Een donkere theepot met een gebogen handvat en een kleine dop zweeft centraal tegen een zacht oranje-roze achtergrond, met subtiele penseelstreken die een vaag cirkelvormig patroon vormen. Onder de theepot bevindt zich een donkere horizonlijn, bestaande uit onregelmatige, donkerblauwe en zwarte vormen die een afstandelijk landschap suggereren. Daaronder strekt zich een groen veld uit, geschilderd met verticale en schuine penseelstreken in verschillende groentinten, doorspekt met witte, crèmekleurige en geelbruine accenten die gras of riet naaien. Kleine, verspreide blauwe en witte stippen liggen verspreid over het veld en de horizon, terwijl de theepot een donkerrode glans heeft die contrasteert met de lichte achtergrond. De compositie is verticaal opgebouwd, met de theepot als focuspunt bovenin en het veld dat de onderste helft van het beeld vult.",
-      "cyclus": 8068,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, dromerige kwaliteit met een zwevende theepot en abstracte achtergrond, wat afwijkt van een typische toeristische ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008068_8133.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 8192,
-      "cyclus": 8129,
+      "id": 8200,
+      "cyclus": 8137,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten, lichte onregelmatigheden in golfrichting bij horizon",
-      "cliche_notities": "zonsondergang over water is een klassiek ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt",
-      "bestand": "images/a008129_8192.webp"
+      "tech_notities": "['subtiele inconsistentie in horizonlijn: water en land lopen niet perfect parallel', 'enkele druppels in het gras hebben onnatuurlijke, scherp gedefinieerde randen']",
+      "cliche_notities": "Het beeld toont een klassieke zonsondergang boven water met een typische ansichtkaartcompositie: de zon centraal, het water dat de horizon raakt en een rustige, decoratieve sfeer zonder duidelijke persoonlijke keuzes.",
+      "bestand": "images/a008137_8200.webp"
     },
     {
-      "id": 8190,
-      "cyclus": 8127,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde vogelvorm', 'inconsistent perspectief tekst vs. afbeelding']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onontcijferbare combinatie van tekst en vorm.",
-      "bestand": "images/a008127_8190.webp"
+      "id": 8198,
+      "cyclus": 8135,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen tegen een schemerige hemel, met een surrealistisch element (de theepot) dat de ansichtkaart-esthetiek versterkt in plaats van te doorbreken.",
+      "bestand": "images/a008135_8198.webp"
     },
     {
-      "id": 8184,
-      "cyclus": 8121,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een stilleven met kaart als achtergrond zonder duidelijke compositorische keuze.",
-      "bestand": "images/a008121_8184.webp"
+      "id": 8197,
+      "cyclus": 8134,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Molens tegen een roodere horizon met wolkensilhouetten herinneren aan typische Nederlandse ansichtkaarten, zonder duidelijke compositorische keuze die beyond het iconische onderwerp gaat.",
+      "bestand": "images/a008134_8197.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8137,
+      "soort": "observatie",
+      "tekst": "De recente beelden draaien om ontbinding als een taal die zich niet meer laat vatten in vorm of kleur—de rode en roze tinten zijn geen sporen van verval, maar een stilte die de ruimte vult zonder een verhaal te vertellen. De leegte is geen afwezigheid, maar een actieve vormgever die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
+    },
+    {
       "cyclus": 8113,
       "soort": "twijfel",
       "tekst": "De afgekeurde beelden c8112 en c8111 onthullen een patroon dat ik niet meer kan negeren: de windmolen en de kerk zijn geen toevallige motieven, maar twee punten in een spanning tussen vormen die zich onttrekken aan een functie en een ruimte die zich weigert te laten betreden—de windmolen draait zonder wind, de kerk staat leeg zonder een verhaal dat zich laat vertellen. Misschien is het tijd om niet meer te zoeken naar de spanning zelf, maar naar wat er overblijft als die spanning verdwijnt."
@@ -252,11 +257,6 @@
       "cyclus": 7847,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van 'verdwijnen als spoor' naar 'verdwijnen als actieve spanning tussen vorm en ruimte', wat alinea 5 en 6 verder ontwikkelt."
-    },
-    {
-      "cyclus": 7847,
-      "soort": "observatie",
-      "tekst": "Over de reeks heen versmalt de ruimte tussen de beelden, terwijl de lijnen scherper en doelgerichter worden: van brede landschappen naar nauwe, bijna intieme detailopnames. Wat blijft, is de spanning tussen leegte en aanwezigheid — de lege auto, het lege raam, de verlaten weg — nu steeds duidelijker getekend in de randen van wat net nog zichtbaar was."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8132,
-    "gemaakt": 8195,
-    "gekozen": 1206,
-    "afgekeurd": 1116,
+    "cycli": 8140,
+    "gemaakt": 8202,
+    "gekozen": 1208,
+    "afgekeurd": 1119,
     "corpus": 67,
-    "notities": 376
+    "notities": 377
   }
 }
