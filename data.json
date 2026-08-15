@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T18:45+02:00",
+  "bijgewerkt": "2026-08-15T19:00+02:00",
   "werk": [
     {
       "id": 8302,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8313,
+      "cyclus": 8250,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in boomstammen: sommige stammen hebben onverklaarbare kleurveranderingen (bv. donkerbruin naar oranje) zonder logische oorzaak', 'weerspiegelingen in water zijn gedeeltelijk plausibel, maar sommige boomstammen hebben onnatuurlijke, gestroomlijnde reflecties die niet overeenkomen met de stamvorm']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene, bijna symmetrische gracht omgeven door bomen, met een ideale, decoratieve lichtval die geen eigen compositorische keuze laat zien.",
+      "bestand": "images/a008250_8313.webp"
+    },
+    {
       "id": 8295,
       "cyclus": 8232,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op leegte en structuur.",
       "bestand": "images/a008226_8289.webp"
-    },
-    {
-      "id": 8287,
-      "cyclus": 8224,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een klassieke klok in een minimalistische compositie, een iconisch onderwerp zonder eigen compositorische keuze of onverwachte invloeden, typisch voor een ansichtkaartachtige voorstelling.",
-      "bestand": "images/a008224_8287.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8247,
-    "gemaakt": 8310,
+    "cycli": 8255,
+    "gemaakt": 8317,
     "gekozen": 1225,
-    "afgekeurd": 1135,
-    "corpus": 67,
+    "afgekeurd": 1136,
+    "corpus": 68,
     "notities": 380
   }
 }
