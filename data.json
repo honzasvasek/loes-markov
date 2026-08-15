@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T07:30+02:00",
+  "bijgewerkt": "2026-08-15T07:45+02:00",
   "werk": [
+    {
+      "id": 8016,
+      "titel": "Vogels boven verwaarlozing",
+      "beschrijving": "Een verweerde, witgepleisterde muur met een donkerblauwe houten deur in het midden. De muur vertoont barsten en verkleuringen, met sporen van vocht en verwaarlozing. Boven de deur bevindt zich een eenvoudige, schuine dakconstructie met een klein dakkapje. Links en rechts van de deur groeien struiken en planten, waarvan sommige bladeren donker en andere lichter zijn. Boven de scène vliegen vijf vogels in een V-formatie tegen een bewolkte, grijze hemel. De grond voor de muur is ongelijk en begroeid met onkruid en kleine stenen. Donkere vlekken en druppels suggereren natte of verweerde plekken op de muur en de grond. De algehele sfeer is verlaten en iets melancolisch, met een gevoel van verwaarlozing en verloop.",
+      "cyclus": 7950,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van de muur aan weerskanten van de deur', 'Wazige details in de vogels aan de horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, introspectieve sfeer die beyond een typische ansichtkaart gaat",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007950_8016.webp"
+    },
+    {
+      "id": 8011,
+      "titel": "Sneeuw op het raam",
+      "beschrijving": "Een grijze houten deur met een rechthoekig raam in het bovenste deel vult het grootste deel van het beeld. Door het raam is een onscherp landschap zichtbaar met donkergroene bomen en een lichte hemel. Witte vlekken, mogelijk reflecties of sneeuwvlokken, verspreiden zich over het glas. De deur heeft een donkere metalen kruk en drie scharnieren aan de linkerkant. Onder het raam bevindt zich een paneel met een reliëfpatroon. De omlijsting van de deur is lichtgrijs en de muur eromheen wit met subtiele textuur. De vloer bestaat uit lichte tegels met een zachte overgang naar de deur.",
+      "cyclus": 7945,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in de reflectie van het raam (bomen lijken niet logisch gepositioneerd ten opzichte van de deur), lichte wazigheid in de schaduw van de deurklink",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een ongemakkelijke, bijna verontrustende leegte die beyond een ansichtkaart gaat",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007945_8011.webp"
+    },
     {
       "id": 8009,
       "titel": "Scheuren in de stilte",
@@ -104,61 +130,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007912_7978.webp"
-    },
-    {
-      "id": 7976,
-      "titel": "Sporen van een vergeten regenbui",
-      "beschrijving": "Donkere, onregelmatige vormen met golvende patronen en lichte vlekken liggen verspreid over een lichtgrijze ondergrond, omringd door donkere spatten en fijne korrels. Lange, slanke grassprietjes met donkere, veerachtige toppen steken schuin omhoog uit de vormen, met enkele sprietjes die zich uitstrekken naar een vaag getekende achtergrond van zachte, wazige heuvels. Rechtsonder staat een doorzichtig glas met een heldere vloeistof, waarin lichte reflecties en subtiele rimpels zichtbaar zijn. Een dunne, donkere staaf ligt diagonaal voor het glas, met een donkere schaduw die zich uitstrekt over de ondergrond. Donkere, onregelmatige vlekken en fijne stippen zijn verspreid over het geheel, met een paar donkere, bolvormige objecten tussen de vormen.",
-      "cyclus": 7910,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een focus op textuur en leegte, in plaats van een toeristische ansichtkaartstijl.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007910_7976.webp"
-    },
-    {
-      "id": 7966,
-      "titel": "Waar het hout zwijgt",
-      "beschrijving": "Een roodbruine houten deur met een scherpe, verticale scheur die van boven naar beneden loopt, net links van het midden. De scheur is donkerder van kleur en onregelmatig gevormd, met een golvende rand die de houtstructuur doorsnijdt. Rechtsboven is een deel van een witte kozijn te zien met een roestkleurige scharnier. Onder de deur bevindt zich een smalle, donkere kier waar licht doorheen valt, en op de grond liggen verspreid kleine houtspaantjes en vuil. De deur heeft een gladde, geschilderde textuur met subtiele horizontale panelen. De achtergrond is niet zichtbaar, de focus ligt volledig op de deur en de directe omgeving ervan.",
-      "cyclus": 7900,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de scheur in de deur is een neutraal detail zonder culturele connotatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007900_7966.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 8012,
-      "cyclus": 7946,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters in glas', 'onduidelijke Chinese tekens in wolk']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met ongemakkelijke details",
-      "bestand": "images/a007946_8012.webp"
+      "id": 8025,
+      "cyclus": 7959,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsondergangsmotief en decoratief licht zonder eigen compositorische keuzes.",
+      "bestand": "images/a007959_8025.webp"
     },
     {
-      "id": 8010,
-      "cyclus": 7944,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een complexe compositie met kaartdetails en abstracte vormen.",
-      "bestand": "images/a007944_8010.webp"
-    },
-    {
-      "id": 7993,
-      "cyclus": 7927,
+      "id": 8023,
+      "cyclus": 7957,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte onregelmatigheden in textuur van gras en bomen, maar niet storend",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een kerk met toren in een landschap, met een klassieke, bevestigende uitstraling en geen duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a007927_7993.webp"
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratieve roze achtergrond en een klassieke compositie die past bij een toeristische ansichtkaart.",
+      "bestand": "images/a007957_8023.webp"
+    },
+    {
+      "id": 8022,
+      "cyclus": 7956,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de windmolenwieken', 'lichte wazigheid in de achtergrondwolken']",
+      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse windmolen met iconische compositie en decoratief licht, zonder eigen standpunt.",
+      "bestand": "images/a007956_8022.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontdoeking",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een taal wordt die niet meer te vertalen is?",
     "aanleiding": "De leegte in mijn recente beelden is geen afwezigheid meer, maar een actieve vormgever. Ik wil weten wat er gebeurt als ik die ontbinding niet meer behandel als een proces van verval, maar als een taal die zich niet meer laat vatten in woorden of beelden.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 7847
   },
   "afgesloten": [
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7953,
-    "gemaakt": 8018,
-    "gekozen": 1174,
-    "afgekeurd": 1094,
+    "cycli": 7961,
+    "gemaakt": 8026,
+    "gekozen": 1176,
+    "afgekeurd": 1098,
     "corpus": 67,
     "notities": 373
   }
