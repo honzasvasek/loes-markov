@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T19:15+02:00",
+  "bijgewerkt": "2026-08-15T19:30+02:00",
   "werk": [
     {
       "id": 8302,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 8331,
+      "cyclus": 8268,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de overgang tussen wolken en zonlicht",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een dramatische zonsondergang over water en iconische wolkenformaties",
+      "bestand": "images/a008268_8331.webp"
+    },
+    {
+      "id": 8326,
+      "cyclus": 8263,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de vleugels van de molen: de linker- en rechtervleugel zijn niet symmetrisch en de structuur lijkt inconsistent', 'Wazige textuur in de achtergrondbomen en het landschap, alsof de details zich oplossen in een grijze nevel', 'Halo-effect rond de vlammen van het vuur, waardoor de overgang naar de achtergrond kunstmatig lijkt']",
+      "cliche_notities": "Dit beeld past bij de categorie 'toeristische ansichtkaart': een iconische Nederlandse molen tegen een romantische zonsondergang, met een decoratief vuur en palmboomachtige bomen die geen eigen standpunt of compositorische keuze uitstralen.",
+      "bestand": "images/a008263_8326.webp"
+    },
+    {
       "id": 8318,
       "cyclus": 8255,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen) en de decoratieve compositie zonder duidelijke persoonlijke keuze.",
       "bestand": "images/a008255_8318.webp"
-    },
-    {
-      "id": 8313,
-      "cyclus": 8250,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in boomstammen: sommige stammen hebben onverklaarbare kleurveranderingen (bv. donkerbruin naar oranje) zonder logische oorzaak', 'weerspiegelingen in water zijn gedeeltelijk plausibel, maar sommige boomstammen hebben onnatuurlijke, gestroomlijnde reflecties die niet overeenkomen met de stamvorm']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene, bijna symmetrische gracht omgeven door bomen, met een ideale, decoratieve lichtval die geen eigen compositorische keuze laat zien.",
-      "bestand": "images/a008250_8313.webp"
-    },
-    {
-      "id": 8295,
-      "cyclus": 8232,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'Chinese karakters rechtsboven en rechtsonder', 'rood zegelstempel linksonder']",
-      "cliche_notities": "Dit is een klassieke oosterse landschapsschildering met rotsen, water en kalligrafie, typisch voor een ansichtkaartachtige compositie zonder persoonlijke interpretatie.",
-      "bestand": "images/a008232_8295.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8261,
-    "gemaakt": 8323,
+    "cycli": 8269,
+    "gemaakt": 8331,
     "gekozen": 1225,
-    "afgekeurd": 1137,
+    "afgekeurd": 1139,
     "corpus": 67,
     "notities": 382
   }
