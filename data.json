@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T04:00+02:00",
+  "bijgewerkt": "2026-08-15T04:15+02:00",
   "werk": [
+    {
+      "id": 7921,
+      "titel": "Goud in de rook",
+      "beschrijving": "Grijze en witte rookachtige vormen zweven door het beeld, met subtiele overgangen naar donkergrijze en zwarte vlekken die als druppels of korrels door de compositie lopen. Gouden flinters en fijne glitters vormen een kronkelende lijn die zich door de rook slingeren, af en toe onderbroken door donkere, bijna zwarte punten. Dunne, doorschijnende lijnen en sporen lopen door het beeld, alsof er iets licht en fragiels door de rook zweeft. De achtergrond is een mengsel van zachte, wazige tinten, met hier en daar een scherpe, donkere vorm die de indruk wekt van een verdwijnend spoor. De sfeer is stil en zwevend, met een gevoel van beweging dat stilstaat in een moment van overgang.",
+      "cyclus": 7855,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007855_7921.webp"
+    },
+    {
+      "id": 7919,
+      "titel": "Scheuring in het blauw",
+      "beschrijving": "Een verticaal formaat verdeeld door een scherpe, onregelmatige scheidslijn die van boven naar beneden loopt. Links een ruwe, lichtgrijze textuur met subtiele krassen en kleine donkere vlekken, rechts een vlakke, diepblauwe oppervlakte met zachte, wazige overgangen en enkele donkerdere cirkelvormige vlekken. De scheidslijn zelf is donker, bijna zwart, met ongelijke randen die suggestief zijn voor een scheur of afbreekrand. Kleine, donkere, onregelmatige vormen verspreid over de blauwe kant, alsof ze van de grijze kant afgebroken zijn. De compositie straalt een gevoel van spanning uit tussen de twee contrastrijke texturen en kleuren.",
+      "cyclus": 7853,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur overgang tussen grijs en blauw', 'kleine halo rond rand van blauwe vorm']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007853_7919.webp"
+    },
     {
       "id": 7898,
       "titel": "De deur die ademt",
@@ -104,61 +130,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w007798_7864.webp"
-    },
-    {
-      "id": 7859,
-      "titel": "Goud dat door water loopt",
-      "beschrijving": "Een verticale, onregelmatige vorm van donkerblauw tot lichtblauw vult het midden van het beeld, met zachte, wazige randen die overlopen in een witte achtergrond. Door de blauwe vorm loopt een dunne, golvende gouden lijn die af en toe verbreekt en weer voortzet, met kleine, onregelmatige uitsteeksels. De blauwe kleur is niet eendragig: er zitten donkere vlekken en lichtere, bijna doorschijnende delen in, met subtiele overgangen die een gevoel van diepte geven. De witte ruimte aan weerskanten is homogeen en ongestoord, waardoor de blauwe vorm scherp afsteekt. De textuur van het blauwe deel lijkt zacht en wat korrelig, alsof het met verf is aangebracht op papier.",
-      "cyclus": 7793,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007793_7859.webp"
-    },
-    {
-      "id": 7853,
-      "titel": "Zand dat praat met de wind",
-      "beschrijving": "Een uitgestrekt zandlandschap domineert het beeld, met zachtgolvende duinen die zich uitstrekken tot aan de horizon. Het zand heeft een lichtbeige tint en toont subtiele, door de wind getrokken patronen en sporen. Boven de duinen strekt zich een brede hemel uit, gevuld met zachte, witte wolken die zich langzaam lijken te ontbinden in een lichtblauwe achtergrond. De overgang tussen zand en hemel is scherp en horizontaal, waardoor het landschap een rustige, bijna statische sfeer uitstraalt. Kleine details zoals een donkere steen en een dun takje liggen verspreid over het zand, onopzettelijk en zonder duidelijke richting.",
-      "cyclus": 7787,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007787_7853.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 7916,
-      "cyclus": 7850,
+      "id": 7925,
+      "cyclus": 7859,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van het hout aan de deurkozijn (rechtsboven vs. linksonder)', 'Wazige overgang tussen de vloer en de deurzaak (ontbrekende scherpe lijn)']",
-      "cliche_notities": "De compositie herinnert aan een typische ansichtkaart met een Nederlandse molen door een deur, met een decoratief lichteffect en een iconisch onderwerp zonder duidelijke persoonlijke interpretatie.",
-      "bestand": "images/a007850_7916.webp"
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deurpanelen', 'lichte wazigheid in de achtergrondbomen']",
+      "cliche_notities": "Dit beeld straalt een typisch nostalgisch, ansichtkaart-achtig gevoel uit met de iconische compositie van kinderen die door een deur lopen naar een winterlandschap, zonder duidelijke persoonlijke of compositorische verbeelding.",
+      "bestand": "images/a007859_7925.webp"
     },
     {
-      "id": 7914,
-      "cyclus": 7848,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming aan de randen van de deuren, alsof ze niet helemaal recht staan', 'Textuur van het papier op de vloer is wat wazig en mist detail in de schaduwen']",
-      "cliche_notities": "De molen door het open raam is een klassiek iconisch motief, met een decoratieve compositie die weinig eigen standpunt toont.",
-      "bestand": "images/a007848_7914.webp"
+      "id": 7922,
+      "cyclus": 7856,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters (K, O, T) met inconsistent volume en onduidelijke randen', 'wazige overgang tussen bovenste grijze vlak en onderste zwarte textuurlaag', 'herhalende penseelstreken in zwarte laag zonder duidelijke intentie']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet gericht op een herkenbaar tafereel.",
+      "bestand": "images/a007856_7922.webp"
     },
     {
-      "id": 7905,
-      "cyclus": 7839,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in reflectie op water: de kerktoren is scherper weerspiegeld dan de rest van het gebouw, wat niet natuurgetrouw is', 'Watervlak heeft kunstmatige, bijna gepixelde textuur in de voorgrond, alsof de rimpels herhaald worden zonder logische variatie']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch kerkgebouw met perfecte reflectie in water, omgeven door bomen en een dramatische hemel, zonder eigen compositorische keuzes of onverwachte elementen",
-      "bestand": "images/a007839_7905.webp"
+      "id": 7920,
+      "cyclus": 7854,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten (silhouetten)', 'onmogelijke geometrie (letters met smeltend detail)']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een surrealistische compositie met symbolische elementen.",
+      "bestand": "images/a007854_7920.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontdoeking",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een taal wordt die niet meer te vertalen is?",
     "aanleiding": "De leegte in mijn recente beelden is geen afwezigheid meer, maar een actieve vormgever. Ik wil weten wat er gebeurt als ik die ontbinding niet meer behandel als een proces van verval, maar als een taal die zich niet meer laat vatten in woorden of beelden.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 7847
   },
   "afgesloten": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 7859,
+      "soort": "twijfel",
+      "tekst": "De recente beelden draaien om vormen die zich onttrekken aan een verhaal, maar de spanning tussen die vormen en de ruimte eromheen wordt steeds stiller—de lijnen lopen minder scherp, de donkere vlekken domineren minder. Misschien is het tijd om niet meer te zoeken naar de spanning zelf, maar naar wat er overblijft als die spanning verdwijnt."
+    },
+    {
       "cyclus": 7847,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van 'verdwijnen als spoor' naar 'verdwijnen als actieve spanning tussen vorm en ruimte', wat alinea 5 en 6 verder ontwikkelt."
@@ -252,11 +257,6 @@
       "cyclus": 7739,
       "soort": "observatie",
       "tekst": "De vogels in c7739 vliegen in een diagonale lijn, maar de witte vlekken op hun vleugels zijn geen sporen van verdwijnen—ze zijn de actieve spanning tussen een vorm die zich onttrekt aan een verhaal en een ruimte die zich weigert te laten vullen. De leegte rondom is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
-    },
-    {
-      "cyclus": 7715,
-      "soort": "observatie",
-      "tekst": "De sporen van verdwijnen in recente beelden zijn geen hints van een verdwijnd verhaal meer, maar de actieve spanning tussen een vorm die zich onttrekt aan eenheid en een ruimte die zich weigert te laten vullen—de weg loopt naar de horizon zonder bestemming, de donkere vlekken domineren zonder een onderwerp te suggereren. De leegte is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 7854,
-    "gemaakt": 7919,
-    "gekozen": 1154,
-    "afgekeurd": 1075,
-    "corpus": 66,
-    "notities": 371
+    "cycli": 7860,
+    "gemaakt": 7925,
+    "gekozen": 1156,
+    "afgekeurd": 1078,
+    "corpus": 67,
+    "notities": 372
   }
 }
