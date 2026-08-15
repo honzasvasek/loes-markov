@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T12:15+02:00",
+  "bijgewerkt": "2026-08-15T12:30+02:00",
   "werk": [
+    {
+      "id": 8133,
+      "titel": "De zwevende theepot boven het grasveld",
+      "beschrijving": "Een donkere theepot met een gebogen handvat en een kleine dop zweeft centraal tegen een zacht oranje-roze achtergrond, met subtiele penseelstreken die een vaag cirkelvormig patroon vormen. Onder de theepot bevindt zich een donkere horizonlijn, bestaande uit onregelmatige, donkerblauwe en zwarte vormen die een afstandelijk landschap suggereren. Daaronder strekt zich een groen veld uit, geschilderd met verticale en schuine penseelstreken in verschillende groentinten, doorspekt met witte, crèmekleurige en geelbruine accenten die gras of riet naaien. Kleine, verspreide blauwe en witte stippen liggen verspreid over het veld en de horizon, terwijl de theepot een donkerrode glans heeft die contrasteert met de lichte achtergrond. De compositie is verticaal opgebouwd, met de theepot als focuspunt bovenin en het veld dat de onderste helft van het beeld vult.",
+      "cyclus": 8068,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, dromerige kwaliteit met een zwevende theepot en abstracte achtergrond, wat afwijkt van een typische toeristische ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008068_8133.webp"
+    },
+    {
+      "id": 8132,
+      "titel": "Goud in de scheur",
+      "beschrijving": "Een donkere theepot staat centraal op een glanzend oppervlak, met een spiegelende reflectie eronder. Achter de theepot zakt de zon onder in een oranje-roze hemel, met zachte wolken die de horizon vullen. Rechtsboven is een vaag silhouet van een gebouw te zien, met een raam dat het gouden licht van de ondergaande zon vangt. De achtergrond wordt gedomineerd door een brede, gekleurde lucht die overgaat in een donkere horizon. Een brede, onregelmatige scheur loopt diagonaal door het bovenste deel van het beeld, met losse stukken die lijken te zijn losgebarsten van een muur of oppervlak. De randen van de scheur zijn ruw en ongelijkmatig, met kleine brokstukken die eromheen liggen. Het geheel heeft een rustige, bijna verlaten sfeer, met de theepot als enig vast punt in een landschap dat langzaam verdwijnt in de avond.",
+      "cyclus": 8066,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in reflectie van de theepot op het oppervlak, lichte wazigheid in de achtergrondhorizon",
+      "academie_cliche": 1,
+      "cliche_notities": "zonsondergang met silhouet van een voorwerp is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w008066_8132.webp"
+    },
     {
       "id": 8128,
       "titel": "Rook door de scheur",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008010_8076.webp"
-    },
-    {
-      "id": 8073,
-      "titel": "Rood dat zich uitstrekt",
-      "beschrijving": "Een wit, rechthoekig blok staat schuin in het beeld, met een scherpe rand die een donkere schaduw werpt. Vanuit de bovenkant van het blok stroomt een brede, rode vloeistof naar beneden, die zich op de grond uitstrekt als een onregelmatige, glanzende plas. Kleine rode druppels en spetters bevinden zich verspreid rond de plas, sommige dicht bij het blok, andere verder weg. De achtergrond is egaal rozebruin, zonder details of textuur, wat de focus legt op het blok en de rode vloeistof. De penseelstreken zijn zichtbaar en geven het beeld een ruwe, directe uitstraling. De rode vloeistof heeft een bijna levendige, dynamische kwaliteit, in contrast met de statische, harde vorm van het witte blok.",
-      "cyclus": 8007,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, contemplatieve compositie zonder decoratief perfect licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008007_8073.webp"
-    },
-    {
-      "id": 8070,
-      "titel": "Donkere steel, stille wind",
-      "beschrijving": "Een veld hoog, groen gras domineert de voorgrond, met lange, slanke bladeren die in de wind waaien. Een enkele, donkere grassteel steekt prominent uit, met fijne, donkere aartjes die door de lucht zwaaien. Op de achtergrond strekt zich een vlakke horizon uit met een dunne lijn donkere bomen en struiken. De hemel is grijs met zachte, wazige wolken, wat een rustige, bijna melancolische sfeer oproept. De kleuren zijn gedempt, met groene en beige tinten in het gras en een vaag grijze hemel. De compositie is verticaal, met het gras dat de volledige hoogte van het beeld vult en de horizon laag in het beeld ligt.",
-      "cyclus": 8004,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de focus op het gras in de voorgrond en de lege ruimte erboven, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008004_8070.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8075,
-    "gemaakt": 8140,
-    "gekozen": 1195,
+    "cycli": 8079,
+    "gemaakt": 8142,
+    "gekozen": 1197,
     "afgekeurd": 1110,
-    "corpus": 66,
+    "corpus": 67,
     "notities": 375
   }
 }
