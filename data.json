@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T08:15+02:00",
+  "bijgewerkt": "2026-08-15T08:30+02:00",
   "werk": [
+    {
+      "id": 8045,
+      "titel": "Regen op de drempel van keuzes",
+      "beschrijving": "Vijf deuren staan in een donkerblauwe muur, schuin ten opzichte van elkaar, met een natte, golvende vloer van bruin en zandkleurig materiaal dat door regen wordt doorsneden. De deuren verschillen in kleur: twee zijn lichtblauw, één roodbruin, één grijsblauw en één witachtig, elk met kleine details zoals kieren, handvatten en scharnieren. Regen druipt als dunne, witte lijnen van boven naar beneden, terwijl de vloer reflecties van de deuren en regen toont in golvende patronen. Droge, bruine grassprietjes steken hier en daar omhoog uit de natte vloer, met kleine druppels erop. De achtergrond is eenduidig donkerblauw, zonder horizon of extra elementen, waardoor de deuren en de natte vloer centraal staan. De sfeer is stil en nat, met een gevoel van afwezigheid en verlatenheid.",
+      "cyclus": 7979,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren aan weerskanten', 'enkele handen/gezichten ontbreken (geen relevante onderdelen in dit beeld)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie en sfeer zijn uniek en niet typisch 'ansichtkaart'",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007979_8045.webp"
+    },
+    {
+      "id": 8039,
+      "titel": "Wat blijft van de kustlijn",
+      "beschrijving": "Een donkerblauwe, golvende textuur loopt diagonaal door het beeld, met subtiele witte en grijze patronen die aan water of nat zand denken laten. Rechts daarvan strekt een roze-achtige, gladde vlakte zich uit, met fijne, horizontale lijnen die een zachte beweging suggereren. Tussen de twee gebieden loopt een smalle, onregelmatige rand waar kleine, lichte vlekken en enkele donkere, takachtige vormen liggen. Een paar kleine, witte voorwerpen en wat lijkt op stenen of brokstukken zijn verspreid over het donkerblauwe deel, terwijl het roze deel vrijwel leeg blijft, behalve een enkele donkere vlek benedenright. De overgang tussen de kleuren is scherp, maar de texturen lopen in golven door elkaar.",
+      "cyclus": 7973,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, bijna organische compositie met een ongemakkelijke schoonheid.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007973_8039.webp"
+    },
     {
       "id": 8029,
       "titel": "Wat blijft drijven?",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007932_7998.webp"
-    },
-    {
-      "id": 7989,
-      "titel": "Scheuren in het wit",
-      "beschrijving": "Grijze en witte wolken vullen het beeld, zacht en wazig, met donkere, onregelmatige scheuren die erdoorheen lopen. De scheuren zijn donkerder, bijna zwart, en hebben een onstuimige, takachtige vorm met kleine uitsteeksels. Ze lopen diagonaal van linksboven naar rechtsonder, en splitsen de wolken in ongelijkmatige delen. De achtergrond is een egale, donkergrijze lucht, met enkele lichtere plekken waar het licht door de wolken schijnt. De randen van het beeld zijn iets donkerder, wat een gevoel van kromming of een vignette-effect geeft. Er zijn geen andere vormen of details zichtbaar dan de wolken en de scheuren.",
-      "cyclus": 7923,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van de wolken aan de randen, wat een iets kunstmatige uitstraling geeft', 'De bliksemflits heeft op sommige plekken een iets te schone, bijna getekende structuur, wat niet helemaal natuurlijk overkomt']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld gaat verder dan een typische ansichtkaart door de focus te leggen op de spanning tussen de wolken en de bliksem, zonder een iconisch of bevestigend onderwerp",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007923_7989.webp"
-    },
-    {
-      "id": 7987,
-      "titel": "Pootafdrukken in een verdwijnpad",
-      "beschrijving": "Lichtgele zandduinen vullen het beeld, doorsneden door een donkere, kronkelende spleet die van boven naar beneden loopt. Twee donkere pootafdrukken, met vier tenen en een pad, liggen aan weerskanten van de spleet, alsof ze een pad volgen dat in het zand verdwijnt. Subtiele schaduwen en lichte textuurverschillen geven het zand diepte, terwijl de achtergrond zacht overloopt in een vaag, lichtblauwe horizon. Donkere vlekken en sporen suggereren vocht of slijm, vooral rond de pootafdrukken en de spleet. De compositie is rustig, met de spleet als centrale lijn die het oog naar beneden leidt, waar de afdrukken een gevoel van beweging toevoegen aan het anders stilstaande landschap.",
-      "cyclus": 7921,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van zand in de achtergrond vs. voorgrond', 'Subtiele halo rond de donkere spleet in het zand']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een unieke compositorische keuze met de spleet en dierensporen, geen typisch iconisch onderwerp",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007921_7987.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7975,
-    "gemaakt": 8040,
-    "gekozen": 1179,
+    "cycli": 7982,
+    "gemaakt": 8048,
+    "gekozen": 1181,
     "afgekeurd": 1099,
     "corpus": 67,
     "notities": 374
