@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T05:00+02:00",
+  "bijgewerkt": "2026-08-15T05:15+02:00",
   "werk": [
+    {
+      "id": 7947,
+      "titel": "Barst in de stilte",
+      "beschrijving": "Een helderblauwe hemel met witte, pluizige wolken vormt de achtergrond. Een scherpe, donkere barst loopt diagonaal door het beeld, met takjes die zich uitstrekken als een vertakte boom zonder bladeren. De barst heeft een ruwe textuur en lijkt alsof het glas zou kunnen barsten. Witte, dunne lijnen stralen vanuit de barst uit, alsof ze de scheur proberen te helen of te benadrukken. De compositie is minimalistisch, met veel lege ruimte rond de barst en de wolken, wat een gevoel van stilte en spanning oproept. De kleuren zijn levendig maar niet overweldigend, met de blauwe hemel die contrasteert tegen de witte wolken en de donkere barst.",
+      "cyclus": 7881,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in de takstructuur: sommige takken lopen abrupt ten einde zonder logische vertakking', 'lichte wazigheid in de randen van de wolken, alsof ze te sterk zijn gegladijzerd']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch motief; de focus ligt op de abstracte spanning tussen leegte en structuur, niet op een herkenbaar landschap.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007881_7947.webp"
+    },
+    {
+      "id": 7943,
+      "titel": "Wie kijkt er toe?",
+      "beschrijving": "Een donkere silhouetfiguur staat met de rug naar de kijker in ondiep water, omringd door concentrische cirkels die uitgaan van de voeten. Boven de figuur hangt een boom met slanke, hangende takken en donkere, puntige bladeren, geschilderd met losse, dynamische penseelstreken. Donkere vlekken en spatels verf verspreiden zich rond de boom en het water, terwijl de achtergrond wit en leeg blijft. De compositie is verticaal opgebouwd, met de figuur centraal onder de boom, en de sfeer is rustig en contemplatief.",
+      "cyclus": 7877,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met ruimte en stilte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007877_7943.webp"
+    },
     {
       "id": 7932,
       "titel": "Wit dat zakt door bruin",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007820_7886.webp"
-    },
-    {
-      "id": 7881,
-      "titel": "Sporen van een vergeten taak",
-      "beschrijving": "Donkere, korrelige grond vormt de basis, doorspekt met glinsterende druppels en kleine, onregelmatige stenen. Verspreid liggen verweerde houten blokken met diepe barsten en holtes, hun textuur ruw en gelaagd. Een mes met een smalle, spitse steel en een brede, lichtgekleurde steel rust schuin tussen het puin, de steel met sporen van slijtage. Rechtsboven ligt een rechthoekig, glad voorwerp met een gepitteerde oppervlakte, donkerder dan de omringende stenen. Witte, korrelige deeltjes verspreiden zich over de grond, sommige gegroepeerd rond het mes en de stenen. De compositie is dicht en chaotisch, met de voorwerpen die de ruimte vullen zonder duidelijke hiërarchie. Het contrast tussen de donkere achtergrond en de lichtere details—zoals het mes en de glinsterende druppels—trekt het oog. Geen beweging, geen leven, alleen een stilstaand moment van verspreid materiaal en gereedschap.",
-      "cyclus": 7815,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in textuur van hout en grond, lichte wazigheid bij randen van mes",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op textuur en afwezigheid van een duidelijk verhaal",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007815_7881.webp"
-    },
-    {
-      "id": 7870,
-      "titel": "Waar het schuim de vloeistof kust",
-      "beschrijving": "Donkerblauwe vloeistof met zachte, golvende lijnen die vanuit het midden naar boven stralen, omgeven door wit schuim met kleine en grote bubbels. Het schuim vormt onregelmatige, organische vormen die de blauwe vloeistof omklemmen, met enkele donkerblauze, amorf gevormde plekken die door het schuim lopen. De bubbels variëren in grootte en zijn willekeurig verspreid, met enkele clusters die dicht op elkaar zitten en andere die verspreid liggen. De overgang tussen het schuim en de vloeistof is vloeiend, met subtiele schaduwen die diepte suggereren. De algehele compositie is dynamisch, met een gevoel van beweging alsof de vloeistof net is gestoord en het schuim zich nog aan het vormen is.",
-      "cyclus": 7804,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w007804_7870.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontdoeking",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een taal wordt die niet meer te vertalen is?",
     "aanleiding": "De leegte in mijn recente beelden is geen afwezigheid meer, maar een actieve vormgever. Ik wil weten wat er gebeurt als ik die ontbinding niet meer behandel als een proces van verval, maar als een taal die zich niet meer laat vatten in woorden of beelden.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 7847
   },
   "afgesloten": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7880,
-    "gemaakt": 7945,
-    "gekozen": 1158,
+    "cycli": 7886,
+    "gemaakt": 7951,
+    "gekozen": 1160,
     "afgekeurd": 1080,
     "corpus": 66,
     "notities": 372
