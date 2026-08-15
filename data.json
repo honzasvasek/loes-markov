@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T13:45+02:00",
+  "bijgewerkt": "2026-08-15T14:00+02:00",
   "werk": [
+    {
+      "id": 8173,
+      "titel": "Waar de lijnen zwijgen",
+      "beschrijving": "Een horizontale band van roodbruine, fijn getekende lijnen loopt dwars door het midden van een crèmekleurig vlak. Boven deze band heerst een egaal, lichtbeige gebied zonder details, terwijl onder de band de lijnen zachter en verspreider worden, alsof ze langzaam vervagen in de achtergrond. In het midden van de roodbruine band bevindt zich een klein, donker punt waar de lijnen subtiel samenkomen en weer uiteen vallen. De compositie is strikt symmetrisch en de sfeer rustig en open, met veel lege ruimte die de blik naar het smalle, getekende bandje leidt.",
+      "cyclus": 8110,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een minimalistische compositie zonder decoratief licht, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008110_8173.webp"
+    },
+    {
+      "id": 8168,
+      "titel": "Vezels in opstand",
+      "beschrijving": "Donkergrijze, getextureerde lagen papier met onregelmatige, verscheurde randen vormen horizontale banen. Witte, vezelige randen accentueren de scheuren, waarbij kleine papirstukjes en vezels in de lucht lijken te zweven. Onder de bovenste laag is een donkerder, korrelig oppervlak zichtbaar met subtiele, krassende lijnen en vaag herkenbare geometrische patronen. Drie witte, ronde vlekken liggen verspreid over het midden, omgeven door fijne krassen en schuine lijnen die door de lagen lopen. De compositie straalt een rustige, bijna industriële sfeer uit, met een focus op de contrasten tussen glad en ruw, donker en licht.",
+      "cyclus": 8105,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van gescheurde randen', 'lichte wazigheid in achtergrondtextuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008105_8168.webp"
+    },
     {
       "id": 8162,
       "titel": "Gouden strook in nat beton",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008062_8128.webp"
-    },
-    {
-      "id": 8122,
-      "titel": "Scheur in het wit",
-      "beschrijving": "Een witte, vijfhoekige ster met een duidelijke, donkere scheur die van de bovenste punt diagonaal naar beneden loopt, domineert het midden van het beeld. De ster is geschilderd met zichtbare, textuurrijke penseelstreken die de vorm omhullen en een driedimensionaal effect geven. Rond de ster bevindt zich een grijze achtergrond met subtiele variaties in tint, waarbij donkergrijze schaduwen de randen van de ster accentueren. De penseelstreken in de achtergrond lopen grotendeels horizontaal en diagonaal, wat een gevoel van beweging toevoegt aan de compositie. Kleinere details, zoals lichte onregelmatigheden in de randen van de ster en kleine, donkere vlekken in de achtergrond, voegen toe aan de rauwe, ongerepte uitstraling van het beeld. De algehele sfeer is statisch, maar de textuur en de scheur brengen een element van spanning en verloop in het beeld.",
-      "cyclus": 8056,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008056_8122.webp"
-    },
-    {
-      "id": 8113,
-      "titel": "Waar het papier ademt",
-      "beschrijving": "Een diagonale, onregelmatige scheur loopt door een effen, grijze textuur die doet denken aan papier of pleister. De randen van de scheur zijn scherp en ongelijk, met kleine, franjesachtige uitsteeksels aan de bovenkant. Binnen de scheur is een donkerdere, bijna zwarte laag zichtbaar, met subtiele variaties in grijstinten die een gevoel van diepte suggereren. De achtergrond is homogeen en zonder afleiding, waardoor de scheur de enige focus vormt. De textuur buiten de scheur is fijnkorrelig en gelijkmatig, in contrast met de ruwe, onvoorspelbare vorm van de scheur zelf.",
-      "cyclus": 8047,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008047_8113.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8113,
-    "gemaakt": 8176,
-    "gekozen": 1202,
+    "cycli": 8120,
+    "gemaakt": 8182,
+    "gekozen": 1204,
     "afgekeurd": 1113,
-    "corpus": 66,
+    "corpus": 67,
     "notities": 376
   }
 }
