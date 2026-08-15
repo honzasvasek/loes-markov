@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T00:15+02:00",
+  "bijgewerkt": "2026-08-16T00:30+02:00",
   "werk": [
     {
       "id": 8452,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8462,
+      "cyclus": 8399,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het schuine dak van de schuur', 'Enkele grashalmen in de voorgrond hebben onnatuurlijke, bijna mechanische vervormingen']",
+      "cliche_notities": "Het beeld toont een typisch landschap met een verlaten schuur en overwoekerd gras, geschilderd in een decoratief, bijna nostalgisch stijl dat past bij een toeristische ansichtkaart.",
+      "bestand": "images/a008399_8462.webp"
+    },
+    {
       "id": 8442,
       "cyclus": 8379,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "kleine inconsistentie in horizonlijn boven/onder, lichte vervaging in verre bomen",
       "cliche_notities": "Landschap met typisch Nederlandse boerderij en kale bomen in een symmetrische, ansichtkaartachtige compositie zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a008378_8441.webp"
-    },
-    {
-      "id": 8438,
-      "cyclus": 8375,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in boomtakken (enkele takken verdwijnen plotseling)', 'lichte wazigheid in achtergrondlandschap']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een kerk, bloesemtammen en water, zonder duidelijke persoonlijke compositorische keuze.",
-      "bestand": "images/a008375_8438.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8392,
-    "gemaakt": 8455,
+    "cycli": 8400,
+    "gemaakt": 8462,
     "gekozen": 1250,
-    "afgekeurd": 1162,
-    "corpus": 65,
+    "afgekeurd": 1163,
+    "corpus": 66,
     "notities": 387
   }
 }
