@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T02:00+02:00",
+  "bijgewerkt": "2026-08-15T02:15+02:00",
   "werk": [
+    {
+      "id": 7864,
+      "titel": "Wit dat blootlegt wat verborgen bleef",
+      "beschrijving": "Wit papier, scheurt loodrecht door het midden, met franjes aan de randen. Achter het scheur gleemt een donkere ruimte met horizontale en verticale metalen buizen, deels roestbruin. Linksboven lopen dunne, grijze lijnen over het papier, onregelmatig en schuin. Een smalle, verticale strook papier hangt los tussen de twee helften, met een schaduwwerking die diepte suggereert. Onder het scheur valt een donkere schaduw van het papier op een wit oppervlak, met een scherp, zigzaggend profiel. De textuur van het papier is korrelig, de randen ongelijk en fransig. Licht valt van bovenaf, waardoor de plooien en lagen papier duidelijk zichtbaar zijn.",
+      "cyclus": 7798,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van achtergrondstructuur', 'lichte wazigheid in schaduwgebieden van papier']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op abstracte spanning tussen vorm en leegte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w007798_7864.webp"
+    },
+    {
+      "id": 7859,
+      "titel": "Goud dat door water loopt",
+      "beschrijving": "Een verticale, onregelmatige vorm van donkerblauw tot lichtblauw vult het midden van het beeld, met zachte, wazige randen die overlopen in een witte achtergrond. Door de blauwe vorm loopt een dunne, golvende gouden lijn die af en toe verbreekt en weer voortzet, met kleine, onregelmatige uitsteeksels. De blauwe kleur is niet eendragig: er zitten donkere vlekken en lichtere, bijna doorschijnende delen in, met subtiele overgangen die een gevoel van diepte geven. De witte ruimte aan weerskanten is homogeen en ongestoord, waardoor de blauwe vorm scherp afsteekt. De textuur van het blauwe deel lijkt zacht en wat korrelig, alsof het met verf is aangebracht op papier.",
+      "cyclus": 7793,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w007793_7859.webp"
+    },
     {
       "id": 7853,
       "titel": "Zand dat praat met de wind",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w007752_7818.webp"
-    },
-    {
-      "id": 7813,
-      "titel": "Wit breken, bruin vloeien",
-      "beschrijving": "Een gebroken witte kop staat schuin op een grijze ondergrond, met een donkerbruine vloeistof die uit de kop loopt en een glanzende plas vormt. De kop heeft een scherpe, onregelmatige breuk aan de zijkant en een deel van de rand ontbreekt. Rond de kop liggen verspreide fragmenten van de kop, met een mix van witte en gele tinten die een textuur van verbleekte verf suggereren. De achtergrond is egaal grijs, met subtiele overgangen naar lichtere en donkerdere grijstinten. De compositie is centraal gericht, met de kop als hoofdmotief en de vloeistof die een dynamische lijn trekt door het beeld. De sfeer is statisch maar met een onderliggende beweging door de loop van de vloeistof en de schuine houding van de kop.",
-      "cyclus": 7747,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflectie op de kop van de kop (binnenkant vs buitenkant)', 'lichte wazigheid in de schaduw onder de kop']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust asymmetrisch en de kop is beschadigd, wat een ongemakkelijk element toevoegt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007747_7813.webp"
-    },
-    {
-      "id": 7804,
-      "titel": "Ruilspel met room en kool",
-      "beschrijving": "Drie donkere, ruwe blokken kolen liggen verspreid naast een gebroken wit porseleinen kopje waar een viskeuze, roomkleurige vloeistof uit stroomt en een glanzende plas vormt op het witte oppervlak. Twee potloden, één roze en één donkergrijs, rusten schuin boven een waterverfschildering van een boom met een brede, groene kroon en bruine takken, omringd door subtiel geschilderd gras. De compositie combineert harde en zachte vormen, met de kolen als donkere contrasterende elementen tegen de lichte achtergrond en de vloeistof die een vloeiende overgang creëert tussen de voorwerpen en de schildering.",
-      "cyclus": 7738,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in schaduwval van het porselein, lichte wazigheid in de textuur van de koolstukken",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een stillevencompositie met een onverwachte mix van materialen en een tekening, wat het buiten de typische ansichtkaartcategorie plaatst.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w007738_7804.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 7794,
-    "gemaakt": 7859,
-    "gekozen": 1145,
+    "cycli": 7801,
+    "gemaakt": 7866,
+    "gekozen": 1147,
     "afgekeurd": 1065,
     "corpus": 67,
     "notities": 367
