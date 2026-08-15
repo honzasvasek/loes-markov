@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-15T10:15+02:00",
+  "bijgewerkt": "2026-08-15T10:30+02:00",
   "werk": [
+    {
+      "id": 8101,
+      "titel": "Scheuren in de horizon",
+      "beschrijving": "Drie horizontale panelen tonen een kustlandschap met golven die tegen donkere rotsen en een zandstrand slaan. Een scherpe, donkere barst loopt verticaal door alle drie de panelen, van boven naar beneden, en splitst het beeld in twee ongelijke delen. De golven hebben witte, schuimende toppen, terwijl de rotsen en het zand in grijstinten worden weergegeven met fijne, gedetailleerde lijnen. De achtergrond toont een effen, lichtgrijze horizon met een vaag silhouet van een heuvel of kustlijn. De barst heeft een onregelmatige vorm, met scherpe hoeken en smalle, kronkelende lijnen die de indruk wekken van een diepe scheur in het beeld. De panelen zijn gescheiden door smalle, witte banden, en de algehele sfeer is rustig maar met een onderliggende spanning door de barst die door het midden loopt.",
+      "cyclus": 8035,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in golfpatronen tussen de drie panelen', 'lichte wazigheid in de achtergrond van het middelste paneel']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, reflecterende sfeer en geen typisch toeristisch onderwerp of decoratief licht.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008035_8101.webp"
+    },
     {
       "id": 8087,
       "titel": "Rook dat dromen brouwt",
@@ -117,22 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w007987_8053.webp"
-    },
-    {
-      "id": 8045,
-      "titel": "Regen op de drempel van keuzes",
-      "beschrijving": "Vijf deuren staan in een donkerblauwe muur, schuin ten opzichte van elkaar, met een natte, golvende vloer van bruin en zandkleurig materiaal dat door regen wordt doorsneden. De deuren verschillen in kleur: twee zijn lichtblauw, één roodbruin, één grijsblauw en één witachtig, elk met kleine details zoals kieren, handvatten en scharnieren. Regen druipt als dunne, witte lijnen van boven naar beneden, terwijl de vloer reflecties van de deuren en regen toont in golvende patronen. Droge, bruine grassprietjes steken hier en daar omhoog uit de natte vloer, met kleine druppels erop. De achtergrond is eenduidig donkerblauw, zonder horizon of extra elementen, waardoor de deuren en de natte vloer centraal staan. De sfeer is stil en nat, met een gevoel van afwezigheid en verlatenheid.",
-      "cyclus": 7979,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren aan weerskanten', 'enkele handen/gezichten ontbreken (geen relevante onderdelen in dit beeld)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie en sfeer zijn uniek en niet typisch 'ansichtkaart'",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w007979_8045.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8105,
+      "cyclus": 8039,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zeefietschape, decoratief gouden-uurtje-licht en geen duidelijke compositorische keuze beyond de klassieke horizonlijn.",
+      "bestand": "images/a008039_8105.webp"
+    },
+    {
+      "id": 8102,
+      "cyclus": 8036,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, niet-verhalende compositie met persoonlijke symboliek.",
+      "bestand": "images/a008036_8102.webp"
+    },
     {
       "id": 8097,
       "cyclus": 8031,
@@ -141,24 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in textuur van dakpannen (sommige pannnen lijken te vloeien)', 'Subtiele halo rond de zon aan de horizon']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch kerkje bij zonsondergang met decoratief licht en geen duidelijke compositorische keuze beyond de klassieke balans.",
       "bestand": "images/a008031_8097.webp"
-    },
-    {
-      "id": 8080,
-      "cyclus": 8014,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de huizen aan de horizon', 'Enkele takken van de boom lijken onnatuurlijk te verdwijnen zonder logische overgang']",
-      "cliche_notities": "Dit beeld past bij een typische ansichtkaart van een rustig dorp aan water, met iconische elementen zoals een bootje, heuvels en een boom in de voorgrond, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008014_8080.webp"
-    },
-    {
-      "id": 8071,
-      "cyclus": 8005,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van de pier (linker- en rechterkant lopen niet parallel)",
-      "cliche_notities": "Molens en waterlandschap in klassieke ansichtkaartcompositie zonder onverwachte invalshoek",
-      "bestand": "images/a008005_8071.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontdoeking",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een taal wordt die niet meer te vertalen is?",
     "aanleiding": "De leegte in mijn recente beelden is geen afwezigheid meer, maar een actieve vormgever. Ik wil weten wat er gebeurt als ik die ontbinding niet meer behandel als een proces van verval, maar als een taal die zich niet meer laat vatten in woorden of beelden.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 7847
   },
   "afgesloten": [
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8034,
-    "gemaakt": 8100,
-    "gekozen": 1190,
-    "afgekeurd": 1106,
+    "cycli": 8040,
+    "gemaakt": 8105,
+    "gekozen": 1191,
+    "afgekeurd": 1108,
     "corpus": 68,
     "notities": 375
   }
