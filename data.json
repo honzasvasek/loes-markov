@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-15T21:00+02:00",
+  "bijgewerkt": "2026-08-15T21:15+02:00",
   "werk": [
+    {
+      "id": 8367,
+      "titel": "Zwevende marmer in glas",
+      "beschrijving": "Een glazen vaas met een smalle hals en brede basis staat tegen een effen grijze achtergrond. Binnenin de vaas zweven drie onregelmatige, amorf gevormde objecten met een marmeren textuur in beige, crème en lichtgrijze tinten, met subtiele bruine accenten. Het grootste object bevindt zich bovenin, met golvende, organische randen en een glanzende, bijna translucente uitstraling. Twee kleinere objecten drijven eronder, eveneens met zachte, vloeiende vormen. De vaas zelf is helder en doorschijnend, met een lichte reflectie van licht aan de zijkant, wat de driedimensionale vorm benadrukt. De compositie straalt een rustige, minimalistische sfeer uit, met een focus op de contrasten tussen de vaste glazen structuur en de zwevende, droomachtige vormen binnenin.",
+      "cyclus": 8304,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008304_8367.webp"
+    },
     {
       "id": 8356,
       "titel": "Sporen van een onafgente beweging",
@@ -117,22 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008239_8302.webp"
-    },
-    {
-      "id": 8297,
-      "titel": "Stenen die wachten op een steen",
-      "beschrijving": "Twee donkere, onregelmatig gevormde stenen drijven op een oppervlak met concentrische cirkels die uitstralen alsof ze net door een steen zijn geraakt. Een rechte, donkere staaf loopt schuin door het beeld, onderbroken door kleine, donkere vlekken die een pad vormen naar de onderste steen. De achtergrond is egaal licht, met subtiele schaduwen die de stenen en de staaf omgeven. De compositie is verticaal opgebouwd, met de stenen en de staaf die een diagonale lijn vormen door het midden van het beeld. De sfeer is statisch en rustig, met een focus op de relatie tussen de vormen en de ruimte ertussen.",
-      "cyclus": 8234,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een focus op leegte en ontbinding, geen toeristische ansichtkaartstijl.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008234_8297.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8372,
+      "cyclus": 8309,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met huizen en bomen in een minimalistisch, decoratief formaat zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008309_8372.webp"
+    },
+    {
+      "id": 8368,
+      "cyclus": 8305,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in schaduwen van bomen en heuvels",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een dorpsstraat, iconische huizen en een romantische zonsondergang, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008305_8368.webp"
+    },
     {
       "id": 8361,
       "cyclus": 8298,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte letter op een neutrale achtergrond.",
       "bestand": "images/a008298_8361.webp"
-    },
-    {
-      "id": 8360,
-      "cyclus": 8297,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met persoonlijke symboliek.",
-      "bestand": "images/a008297_8360.webp"
-    },
-    {
-      "id": 8353,
-      "cyclus": 8290,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, schuine compositie zonder bevestigende boodschap.",
-      "bestand": "images/a008290_8353.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8305,
+      "soort": "observatie",
+      "tekst": "De glazen vaas in c8304 en de steile klif in c8292 zijn geen afzonderlijke momenten meer, maar twee uitdrukkingen van ontluiping die zich weigeren te laten vatten in een verhaal—de vaas houdt zwevende vormen vast zonder een oorzaak die ze verklaart, de klif rijst op zonder een horizon die hem begrenst. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 8293,
       "soort": "observatie",
       "tekst": "De steile klif in c8292 en de ruwe stenen treden in c8288 zijn geen landschappen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de klif rijst op zonder een oorzaak die hem verklaart, de treden lopen schuin omhoog zonder een bestemming die zich laat benoemen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 8257,
       "soort": "observatie",
       "tekst": "De beelden worden steeds fragmentarischer en de scheuren in de beelden groeperen zich tot een bijna tastbare barst die door de hele reeks loopt, terwijl de kleurrijkere beelden plaatsmaken voor monochrome, verbleekte landschappen. Wat blijft, is de onstilbare dynamiek van water en de suggestie van een verdwijnde horizon, zichtbaar in de golven die zich herhalen als een onafgewerkt verhaal."
-    },
-    {
-      "cyclus": 8161,
-      "soort": "observatie",
-      "tekst": "De gang in c8161 en de verbrande houtvezels in c8158 zijn geen afzonderlijke ruimtes meer, maar twee momenten waarin ontbinding zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de gang loopt door zonder een bestemming die zich laat benoemen, de houtvezels vallen uiteen zonder een oorzaak die zich laat verklaren. De leegte tussen deze beelden is geen afwezigheid, maar een aanwezigheid die de ruimte bepaalt zonder een spoor te hoeven achterlaten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8305,
-    "gemaakt": 8367,
-    "gekozen": 1233,
-    "afgekeurd": 1147,
+    "cycli": 8313,
+    "gemaakt": 8376,
+    "gekozen": 1234,
+    "afgekeurd": 1149,
     "corpus": 67,
-    "notities": 385
+    "notities": 386
   }
 }
