@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T06:00+02:00",
+  "bijgewerkt": "2026-08-15T06:15+02:00",
   "werk": [
     {
       "id": 7966,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 7979,
+      "cyclus": 7913,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de wieken ten opzichte van de toren', 'Enkele details in de bomen zijn wat wazig en onscherp']",
+      "cliche_notities": "Dit beeld past bij de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen) en de decoratieve, bijna romantische weergave zonder duidelijke compositorische keuze.",
+      "bestand": "images/a007913_7979.webp"
+    },
+    {
       "id": 7974,
       "cyclus": 7908,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de horizonlijn', 'lichte wazigheid in de achtergrondbomen']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap, perfecte zonsondergang en een pad dat de blik leidt zonder onverwachte keuzes.",
       "bestand": "images/a007905_7971.webp"
-    },
-    {
-      "id": 7968,
-      "cyclus": 7902,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de molenschachten ten opzichte van de molen zelf', 'Watervlekken-effect in de achtergrondlucht lijkt intentioneel, maar heeft lichte onregelmatigheden die op een generatie-artefact kunnen wijzen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische Nederlandse molen in een schemerlandschap met decoratief gouden licht en geen duidelijke compositorische keuze beyond de klassieke framing.",
-      "bestand": "images/a007902_7968.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 7909,
-    "gemaakt": 7974,
+    "cycli": 7917,
+    "gemaakt": 7982,
     "gekozen": 1165,
-    "afgekeurd": 1088,
+    "afgekeurd": 1089,
     "corpus": 67,
     "notities": 372
   }
