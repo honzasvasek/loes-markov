@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-15T16:00+02:00",
+  "bijgewerkt": "2026-08-15T16:15+02:00",
   "werk": [
+    {
+      "id": 8234,
+      "titel": "Scheur in de horizon",
+      "beschrijving": "Een open raam met witte kozijnen en donkere scharnieren onthult een landschap met een overstroomd terrein, waar bruin water tot aan de treden van een grijs huis reikt. Een omgevallen metalen kan staat op de vensterbank, waar een donkere, kronkelende scheur vandaan loopt die door het muurwerk zakt. Buiten staat een enkele boom tegen een lichtblauwe hemel met wat witte wolken, en een smalle strook groen gras omzoomt het water. Een scherpe, witte lijn loopt van de bovenkant van het raam naar beneden, alsof de lucht scheurt. De muren rond het raam zijn grijs en textuurrijk, met schaduwen die de diepte benadrukken. Het water weerspiegelt het licht en toont ronde, donkere vlekken.",
+      "cyclus": 8171,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het raam ten opzichte van de achtergrond', 'Wazige overgang tussen het water en de oever in de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige sfeer die boven een typische ansichtkaart uitstijgt door de onverklaarde spanning tussen binnen- en buitenruimte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008171_8234.webp"
+    },
+    {
+      "id": 8232,
+      "titel": null,
+      "beschrijving": "Een wit huis met een grijze dakpannenkap en een rode schoorsteen staat centraal, met een diepe, donkere scheur die diagonaal door de gevel loopt, van de bovenste vensterbank tot de grond. Vier ramen met witte kozijnen flankeren een houten voordeur met twee panelen en donkere klinken. Rechts van het huis staat een slanke boom met hangende, groene bladeren die de rechterkant van het huis deels bedekken. Voor het huis loopt een smalle, lichtgrijze stoep, omzoomd door groen gras en kleine, donkergroene planten. Links van het huis is een houten schutting zichtbaar, rechts een donkere, verticale lamellenmuur. In de voorgrond, scherp afgetekend tegen een witte achtergrond, staat een doorzichtig glas water, gevuld tot ongeveer de helft, met een lichte reflectie van licht op het oppervlak en een zachte schaduw onder het glas. De achtergrond boven het huis is een lichtblauwe hemel zonder wolken.",
+      "cyclus": 8169,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van ramen ten opzichte van muur', 'lichte wazigheid in textuur van gras']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de scheve compositie en ongemakkelijke spanning tussen huis en glas maken het geen ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008169_8232.webp"
+    },
     {
       "id": 8224,
       "titel": "De theepot die wacht op water",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008116_8179.webp"
-    },
-    {
-      "id": 8173,
-      "titel": "Waar de lijnen zwijgen",
-      "beschrijving": "Een horizontale band van roodbruine, fijn getekende lijnen loopt dwars door het midden van een crèmekleurig vlak. Boven deze band heerst een egaal, lichtbeige gebied zonder details, terwijl onder de band de lijnen zachter en verspreider worden, alsof ze langzaam vervagen in de achtergrond. In het midden van de roodbruine band bevindt zich een klein, donker punt waar de lijnen subtiel samenkomen en weer uiteen vallen. De compositie is strikt symmetrisch en de sfeer rustig en open, met veel lege ruimte die de blik naar het smalle, getekende bandje leidt.",
-      "cyclus": 8110,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een minimalistische compositie zonder decoratief licht, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008110_8173.webp"
-    },
-    {
-      "id": 8168,
-      "titel": "Vezels in opstand",
-      "beschrijving": "Donkergrijze, getextureerde lagen papier met onregelmatige, verscheurde randen vormen horizontale banen. Witte, vezelige randen accentueren de scheuren, waarbij kleine papirstukjes en vezels in de lucht lijken te zweven. Onder de bovenste laag is een donkerder, korrelig oppervlak zichtbaar met subtiele, krassende lijnen en vaag herkenbare geometrische patronen. Drie witte, ronde vlekken liggen verspreid over het midden, omgeven door fijne krassen en schuine lijnen die door de lagen lopen. De compositie straalt een rustige, bijna industriële sfeer uit, met een focus op de contrasten tussen glad en ruw, donker en licht.",
-      "cyclus": 8105,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van gescheurde randen', 'lichte wazigheid in achtergrondtextuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open van karakter.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008105_8168.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8172,
-    "gemaakt": 8235,
-    "gekozen": 1212,
+    "cycli": 8180,
+    "gemaakt": 8242,
+    "gekozen": 1214,
     "afgekeurd": 1126,
-    "corpus": 66,
+    "corpus": 67,
     "notities": 379
   }
 }
