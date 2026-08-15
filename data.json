@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-15T23:15+02:00",
+  "bijgewerkt": "2026-08-15T23:30+02:00",
   "werk": [
     {
       "id": 8426,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8438,
+      "cyclus": 8375,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in boomtakken (enkele takken verdwijnen plotseling)', 'lichte wazigheid in achtergrondlandschap']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een kerk, bloesemtammen en water, zonder duidelijke persoonlijke compositorische keuze.",
+      "bestand": "images/a008375_8438.webp"
+    },
+    {
       "id": 8422,
       "cyclus": 8359,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "kleine inconsistentie in perspectief van de windmolen ten opzichte van de rotsen, lichte wazigheid in de textuur van het water",
       "cliche_notities": "De windmolen op een rotsrijk landschap is een iconisch motief, uitgevoerd in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a008355_8418.webp"
-    },
-    {
-      "id": 8416,
-      "cyclus": 8353,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met huisjes, velden en gans, uitgevoerd in een decoratieve waterverfstijl zonder duidelijke compositorische keuze.",
-      "bestand": "images/a008353_8416.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8373,
-    "gemaakt": 8435,
+    "cycli": 8375,
+    "gemaakt": 8438,
     "gekozen": 1245,
-    "afgekeurd": 1159,
+    "afgekeurd": 1160,
     "corpus": 65,
     "notities": 387
   }
