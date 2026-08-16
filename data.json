@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T12:45+02:00",
+  "bijgewerkt": "2026-08-16T13:00+02:00",
   "werk": [
+    {
+      "id": 8796,
+      "titel": "Amber in beweging",
+      "beschrijving": "Twaalf rechthoekige panelen vormen een raster van vier rijen en drie kolommen, elk met een amorf, amberkleurig vormpje dat aan een druppel of een gesmolten druppel hars doet denken. De vormen variëren in grootte en contour, met onregelmatige randen die soms spetters of kleine bolletjes bevatten. Binnen de vormen lopen subtiele aders en krassen door het materiaal, dat halftransparant is en licht buigt. De achtergrond van elk paneel is een zachtblauwe hemel met vaag zichtbare witte wolken. Boven elk vormpje zweeft een donkerdere, ronde structuur met stralen, die aan een gestileerde zon of een microscopisch organisme doet denken. Kleuren schuiven van goudbruin tot diep amber, met reflecties die een glanzende, natte textuur suggereren. De compositie is symmetrisch, maar de details per paneel verschillen subtiel, wat een gevoel van licht beweging en evolutie oproept.",
+      "cyclus": 8733,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is experimenteel en niet gericht op een bevestigend effect.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008733_8796.webp"
+    },
+    {
+      "id": 8789,
+      "titel": "Amber die stilstaat in de val",
+      "beschrijving": "Een gebroken glas staat centraal, met een scherpe scheur die van boven naar beneden loopt. Uit het glas stroomt een viskeuze, amberkleurige vloeistof die in twee onregelmatige plassen op de grond landt. De achtergrond bestaat uit stralende, donkere lijnen die een gevoel van beweging suggereren, terwijl de vloeistof glanst met subtiele blauwe en oranje tinten. De textuur van het glas is gedetailleerd getekend met fijne lijnen, en de breuk randen zijn scherp en onregelmatig. De compositie straalt een spanning uit tussen het statische glas en de dynamische vloeistof.",
+      "cyclus": 8726,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp (een gebroken glas met smeltend iets) is niet iconisch en de compositie heeft een eigen, bijna ongemakkelijke dynamiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008726_8789.webp"
+    },
     {
       "id": 8784,
       "titel": "Vonken in het water",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008685_8748.webp"
-    },
-    {
-      "id": 8735,
-      "titel": "Wat onder het papier verborgen blijft",
-      "beschrijving": "Gekreukd, beige papier met onregelmatige scheurtjes onthult een glimmende, groenbruine bol met een gat, omringd door gedroogde bloemdelen en groene, getextureerde stengels. Onderin ligt een donkere, ronde voorwerp met een reliëfpatroon, naast een klein, groen amulet met een geometrisch ontwerp. Rechtsboven vliegen donkere vogels in een losse V-vorm tegen een helderblauwe hemel, terwijl linksboven een reflectie van water met concentrische cirkels en vaag groen loof zichtbaar is. Schaduwen vallen scherp op het papier, dat plekken verkleuring en slijtage vertoont.",
-      "cyclus": 8672,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in reflectie van vogels in water (sommige vogels hebben geen spiegelbeeld), lichte wazigheid in details van de bloemmotieven",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en heeft een eigen standpunt door de scheve lijnen en onvoltooide structuren",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008672_8735.webp"
-    },
-    {
-      "id": 8703,
-      "titel": "Knopen in het raster",
-      "beschrijving": "Twaalf rechthoeken vormen een raster, elk met een eigen scène. Driehoekige takken snijden door pastelkleurige achtergronden, met donkere knopen en draden die naar twee verticale vormen lopen: zuilen met wollige, oogachtige toppen. Een verlaten landweg loopt door groen en bruin landschap, geflankeerd door donkere vlekken. Golvende, grijze vormen herinneren aan gekreukte stoffen of rotsen, met donkere aders en kleine zwarte stippen. Kleuren schuiven van roze en lavendel naar gedempt groen en blauw, met subtiele overgangen tussen de vlakken. Witte ruimtes tussen de rechthoeken benadrukken de scheiding tussen de scènes.",
-      "cyclus": 8640,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in perspectief van de takken in de bovenste panelen', 'lichte wazigheid in de achtergrond van het landschapspaneel rechtsonder']",
-      "academie_cliche": 0,
-      "cliche_notities": "De beelden hebben een persoonlijke, dromerige kwaliteit zonder iconische of toeristische onderwerpen, en de composities tonen bewuste keuzes in plaats van standaardmotieven.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008640_8703.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8799,
+      "cyclus": 8736,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaart van de oceaan met golven en een grijze horizon, zonder eigen compositorische keuze of onverwacht element.",
+      "bestand": "images/a008736_8799.webp"
+    },
     {
       "id": 8788,
       "cyclus": 8725,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van schuur (dak lijkt te steil ten opzichte van muren)', 'wazige overgang tussen hemel en horizon aan rechterkant']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten boerderij met smalle weg en stenen muur, getekend in realistische stijl zonder onverwachte compositorische keuzes.",
       "bestand": "images/a008710_8773.webp"
-    },
-    {
-      "id": 8757,
-      "cyclus": 8694,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met onverklaarbare symbolen.",
-      "bestand": "images/a008694_8757.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8736,
-    "gemaakt": 8798,
-    "gekozen": 1304,
-    "afgekeurd": 1202,
+    "cycli": 8743,
+    "gemaakt": 8805,
+    "gekozen": 1306,
+    "afgekeurd": 1203,
     "corpus": 63,
     "notities": 395
   }
