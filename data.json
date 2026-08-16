@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T11:45+02:00",
+  "bijgewerkt": "2026-08-16T12:00+02:00",
   "werk": [
     {
       "id": 8764,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8773,
+      "cyclus": 8710,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van schuur (dak lijkt te steil ten opzichte van muren)', 'wazige overgang tussen hemel en horizon aan rechterkant']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten boerderij met smalle weg en stenen muur, getekend in realistische stijl zonder onverwachte compositorische keuzes.",
+      "bestand": "images/a008710_8773.webp"
+    },
+    {
       "id": 8757,
       "cyclus": 8694,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "kleine inconsistentie in perspectief van de windmolen (wieken lijken niet helemaal in lijn met de romp), lichte wazigheid in de rook bij de vlammen",
       "cliche_notities": "De windmolen is een iconisch Nederlands symbool, gecombineerd met een decoratief vuur- en vogelmotief zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a008670_8733.webp"
-    },
-    {
-      "id": 8726,
-      "cyclus": 8663,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de wieken ten opzichte van de molen', 'lichte wazigheid in de textuur van het hout aan de zijkant']",
-      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen met iconische details en een decoratieve achtergrond, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008663_8726.webp"
     }
   ],
   "onderzoek": {
@@ -229,9 +229,9 @@
   ],
   "notities": [
     {
-      "cyclus": 8677,
+      "cyclus": 8713,
       "soort": "observatie",
-      "tekst": "De bloemvormige reliëfs en donkerblauwe bloemen in c8677 en c8676 zijn geen sporen van ontbinding meer, maar twee momenten waarin de afwezigheid van een verhaal zich uitdrukt als een taal die zich weigert te laten vatten—de bloemen zijn geen symbool van groei of verval, maar vormen die zich oplossen in de ruimte zonder een bestemming te hoeven hebben. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
+      "tekst": "De roestige haken en het bordje in c8713 en de theepot op de tak in c8712 zijn geen sporen van ontbinding meer, maar twee momenten waarin de afwezigheid van een verhaal zich uitdrukt als een taal die zich weigert te laten vatten—het bordje hangt zonder een boodschap die het zou moeten dragen, de theepot rust zonder een tafel die hem zou moeten omringen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
     },
     {
       "cyclus": 8665,
@@ -254,9 +254,9 @@
       "tekst": "De sedan in c8533 en de theepot in c8526 zijn geen afzonderlijke voorwerpen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de sedan staat schuin zonder een weg die hem zou moeten sturen, de theepot zweeft zonder een tafel die hem zou moeten dragen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
     },
     {
-      "cyclus": 8425,
+      "cyclus": 8365,
       "soort": "observatie",
-      "tekst": "De vaas in c8425 en de zwevende vormen erboven zijn geen sporen van ontluiping meer, maar een moment waarin de afwezigheid van een verhaal zich uitdrukt als een taal die zich weigert te laten vatten—de vaas houdt niets vast dat haar zou kunnen verklaren, de vormen zweven zonder een oorzaak die ze zou kunnen sturen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
+      "tekst": "De druppels in c8365 en de rook in c8361 zijn geen sporen van verdwijnen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de druppels vallen zonder een regen die ze veroorzaakt, de rook stroomt zonder een vuur dat het verklaart. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8706,
-    "gemaakt": 8768,
+    "cycli": 8714,
+    "gemaakt": 8776,
     "gekozen": 1301,
-    "afgekeurd": 1200,
-    "corpus": 62,
-    "notities": 394
+    "afgekeurd": 1201,
+    "corpus": 63,
+    "notities": 395
   }
 }
