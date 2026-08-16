@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T22:45+02:00",
+  "bijgewerkt": "2026-08-16T23:00+02:00",
   "werk": [
     {
       "id": 9027,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 9045,
+      "cyclus": 8982,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in perspectief van de deurpanelen', 'enkele wazige details in de achtergrondboom']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch landschap, een huisje in de verte en een symmetrische opstelling van riet en water, zonder duidelijke persoonlijke keuzes in compositie of onderwerp.",
+      "bestand": "images/a008982_9045.webp"
+    },
+    {
+      "id": 9044,
+      "cyclus": 8981,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde cijfers op klok (X1, X2)', 'inconsistente perspectieven in bakstenen']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op ontbinding van structuur.",
+      "bestand": "images/a008981_9044.webp"
+    },
+    {
       "id": 9039,
       "cyclus": 8976,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, verontrustende sfeer met overgebleven sporen van verlatenheid.",
       "bestand": "images/a008976_9039.webp"
-    },
-    {
-      "id": 9036,
-      "cyclus": 8973,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke combinatie van rook, tarwe en onleesbare tekens.",
-      "bestand": "images/a008973_9036.webp"
-    },
-    {
-      "id": 9032,
-      "cyclus": 8969,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met eigen standpunt.",
-      "bestand": "images/a008969_9032.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8979,
-    "gemaakt": 9041,
+    "cycli": 8985,
+    "gemaakt": 9047,
     "gekozen": 1352,
-    "afgekeurd": 1250,
+    "afgekeurd": 1252,
     "corpus": 63,
     "notities": 397
   }
