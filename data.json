@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-16T08:00+02:00",
+  "bijgewerkt": "2026-08-16T08:15+02:00",
   "werk": [
+    {
+      "id": 8672,
+      "titel": "Vlammen die meedrijven met stilte",
+      "beschrijving": "Twee gestileerde figuren staan met hun rug naar elkaar, omhuld door vlammen die zich als een sluier om hen heen windingen. De linkerfiguur heeft een doorzichtig, mozaïekachtig oppervlak met kleurige cirkels en vormen, terwijl de rechterfiguur donkerder is met blauwe en paarse tinten en subtiele patronen. Vlammen in oranje, rood en geel stijgen op tussen en rond hen, met kleine vonken die door de lucht dwarrelen. Onderaan liggen gladde, glanzende stenen in blauw, grijs en bruin, verspreid over een donkere ondergrond. De achtergrond is een getextureerd, neutraal grijs met zachte, witte penseelstrepen. Een dunne, donkere lijn loopt horizontaal door het midden van het beeld.",
+      "cyclus": 8609,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van handen', 'lichte halo rond vlammen tegen achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigenzinnige, dynamische spanning tussen figuren en vuur.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008609_8672.webp"
+    },
     {
       "id": 8668,
       "titel": "Druppels in de roze horizon",
@@ -117,22 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008558_8621.webp"
-    },
-    {
-      "id": 8612,
-      "titel": "Vogels in het golvende gras",
-      "beschrijving": "Een grasveld in groene en gele tinten vult het beeld, met lange, slanke grassprietjes die in verschillende hoogtes omhoog steken. In het midden onderin staat een donkergroene boom met prikkeldoorzichtige naalden, waar enkele heldergroene en gele bloemen tussen door steken. Verspreid over het veld bevinden zich zeven vogels met donkere vleugels en lichte buiken, sommige in vlucht, andere zittend of staand in het gras. De achtergrond wordt gevormd door een vaag, grijzig landschap met subtiele overgangen naar het gras. Donkere vlekjes en stippen zijn verspreid over het beeld, vooral in de linkerbovenhoek en rond de vogels. De sfeer is rustig en natuurgebonden, met een lichte korreligheid die het geheel een textuur geeft.",
-      "cyclus": 8549,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de vogelposities (sommige vogels lijken zwevend zonder duidelijke relatie tot het landschap)",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een natuurlijke, niet-iconische compositie met een focus op subtiele details en een ongemakkelijke schoonheid, geen toeristische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008549_8612.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8682,
+      "cyclus": 8619,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in houttextuur op sommige planken', 'lichte vervorming van waterreflectie aan weerskanten']",
+      "cliche_notities": "Klassiek motief van een steiger over water met decoratief licht en geen duidelijke compositorische keuze beyond symmetrie",
+      "bestand": "images/a008619_8682.webp"
+    },
     {
       "id": 8670,
       "cyclus": 8607,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, ambigue compositie zonder duidelijke bedoeling.",
       "bestand": "images/a008599_8662.webp"
-    },
-    {
-      "id": 8657,
-      "cyclus": 8594,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst als centraal element.",
-      "bestand": "images/a008594_8657.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8616,
-    "gemaakt": 8678,
-    "gekozen": 1289,
-    "afgekeurd": 1190,
+    "cycli": 8623,
+    "gemaakt": 8686,
+    "gekozen": 1290,
+    "afgekeurd": 1191,
     "corpus": 66,
     "notities": 390
   }
