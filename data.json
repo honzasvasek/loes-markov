@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T01:30+02:00",
+  "bijgewerkt": "2026-08-17T01:45+02:00",
   "werk": [
+    {
+      "id": 9114,
+      "titel": "Wat stroomt hier precies?",
+      "beschrijving": "Een hand houdt een zachtgele, amorf vorm vast waar een viskeus, roomkleurig materiaal uit stroomt en op een ruwe, grijze ondergrond landt. Het materiaal vormt een glanzende, onregelmatige plas met dunne, uitlopende draden die zich uitstrekken over het oppervlak. Boven de plas stijgt een dunne, witte rookspiraal op, die zich langzaam ontbindt in de lucht. De achtergrond is onscherp, maar toont donkere en lichte vlekken die een textuur suggereren. De hand en het materiaal domineren het beeld, met de rook als een subtiele, bewegend element dat de scène een dynamische kwaliteit geeft.",
+      "cyclus": 9051,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een intieme, niet-decoratieve moment van ontbinding, met een focus op textuur en beweging in plaats van een typisch ansichtkaartmotief.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009051_9114.webp"
+    },
+    {
+      "id": 9110,
+      "titel": null,
+      "beschrijving": "Een donkere, slanke rookpluim stijgt op uit een onzichtbare bron in een verlaten landschap, waar water en gras de voorgrond domineren. De rook vormt een spiraal die zich uitstrekt tot aan de horizon, waar donkere silhouetten van bomen en heuvels de achtergrond vormen. Het water weerspiegelt de rook en de omringende vegetatie, terwijl de golven zachtjes rimpelen. Een dode tak steekt schuin uit het water, en de overgang tussen land en water is scherp getekend. De scène is monochroom, met fijne lijntekeningen die de textuur van het gras, de rook en het water benadrukken. De sfeer is stil en verlaten, met een gevoel van eenzaamheid en ontbinding.",
+      "cyclus": 9047,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met ruimte en beweging.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009047_9110.webp"
+    },
     {
       "id": 9106,
       "titel": "Goud dat breekt",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009018_9081.webp"
-    },
-    {
-      "id": 9072,
-      "titel": "Rook die blijft hangen in vierkanten",
-      "beschrijving": "Een kom met rook die omhoog stijgt domineert het midden, omringd door donkere, vierkante vormen die lijken te zweven. Een tak met knoppen snijdt schuin door het beeld, terwijl op de achtergrond een zandig landschap met kale bomen en zachte heuvels uitstrekt. Witte en donkere strepen en vlekken suggereren beweging en textuur, met een schaduw die de kom omhult. De sfeer is stil en verlaten, met een focus op de contrasten tussen de vaste vormen en de vluchtige rook.",
-      "cyclus": 9009,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de tak en de kom.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009009_9072.webp"
-    },
-    {
-      "id": 9068,
-      "titel": "Damp die zwijgt",
-      "beschrijving": "Een kop thee rust op een schotel, de damp die erop stijgt vormt een slanke, golvende kolom die zich opsplitst in dunne, donkere lijnen. Boven de kop zweeft een tak met knoesten en kleine takjes, alsof deze de damp vastgrijpt en door de lucht trekt. De achtergrond bestaat uit een vaag, getekend landschap met zachte, onscherpe vormen die bomen en heuvels suggereren. De kop en schotel zijn getekend met fijne, realistische lijnen, terwijl de damp en de tak een meer losse, expressieve stijl hebben. Donkere vlekken en spetters verspreiden zich over het beeld, alsof ze door de lucht dwarren. De sfeer is stil en contemplatief, met een subtiele spanning tussen de vaste vorm van de kop en de vluchtige, onvatbare damp.",
-      "cyclus": 9005,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte onregelmatigheden in textuur van achtergrond, maar niet afbrekend",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is subtiel en niet typisch ansichtkaart-achtig",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009005_9068.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9126,
+      "cyclus": 9063,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde takken aan linkerzijde', 'inconsistent perspectief takken']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en rook.",
+      "bestand": "images/a009063_9126.webp"
+    },
     {
       "id": 9123,
       "cyclus": 9060,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "De zonsondergang met bomen en water is een klassiek ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a009058_9121.webp"
-    },
-    {
-      "id": 9111,
-      "cyclus": 9048,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van de molen ten opzichte van de horizon', 'sommige golven hebben een wat smeuiige textuur']",
-      "cliche_notities": "De molen en het water vormen een typisch Nederlands ansichtkaartmotief zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a009048_9111.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9061,
-    "gemaakt": 9124,
-    "gekozen": 1368,
-    "afgekeurd": 1261,
-    "corpus": 64,
+    "cycli": 9067,
+    "gemaakt": 9129,
+    "gekozen": 1370,
+    "afgekeurd": 1262,
+    "corpus": 63,
     "notities": 399
   }
 }
