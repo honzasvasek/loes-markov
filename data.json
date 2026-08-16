@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T01:00+02:00",
+  "bijgewerkt": "2026-08-17T01:15+02:00",
   "werk": [
+    {
+      "id": 9106,
+      "titel": "Goud dat breekt",
+      "beschrijving": "Een bruine theepot met deksel en handvat staat schuin op een lichtbruine ondergrond, met een smalle stroom goudgele vloeistof die vanuit de neus van de theepot in een rechte lijn naar beneden valt. Onder de theepot ligt een gebroken, golvend dakpannenstuk van terracottakleur, met duidelijke richels en een onregelmatige rand. De vloeistof raakt het midden van het dakpannenstuk en verspreidt zich in kleine druppels en spetters. De achtergrond is egaal witgrijs, zonder details. Donkere schaduwen onder de theepot en het dakpannenstuk geven diepte. Kleine gouden vlekjes op de theepot en het dakpannenstuk reflecteren het licht. De compositie is centraal gericht, met de theepot bovenaan en het dakpannenstuk onderaan, waardoor een verticale lijn ontstaat tussen de twee objecten.",
+      "cyclus": 9043,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in schaduw onder theepot', 'lichte wazigheid in textuur van dakpannen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stillleven met een ongemakkelijke spanning tussen voorwerpen.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009043_9106.webp"
+    },
+    {
+      "id": 9104,
+      "titel": "Waar groeit dit?",
+      "beschrijving": "Tegen een effen, lichtgrijze achtergrond rijzen slanke, donkere stengels op met een ruwe, bijna korrelige textuur. Sommige stengels zijn donkerbruin met oranje verkleuringen, andere zijn zwart met glanzende, natte plekken. Kleinere, dunne takjes vertakken zich in verschillende richtingen, waarbij sommige eindigen in spitse, donkere punten of kleine, bolvormige uitsteeksels. Een enkele, gladde, ovale steen met een marmeren patroon van grijs en beige rust op een van de stengels, omringd door donkere vlekken en kleine, zwarte druppels die als sporen door de lucht lijken te zweven. De compositie is verticaal gericht, met de stengels die zich vanuit de onderkant naar boven uitstrekken, terwijl de achtergrond leeg en ongestoord blijft, wat de focus legt op de details van de stengels en de steen. De sfeer is statisch maar dynamisch door de variatie in vormen en texturen.",
+      "cyclus": 9041,
+      "tech_score": 8.0,
+      "tech_notities": "[\"subtiele halo's rond donkere structuren\", 'lichte inconsistentie in textuur van oranje/bruine elementen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte, ongemakkelijke compositie zonder bevestigende sfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009041_9104.webp"
+    },
     {
       "id": 9095,
       "titel": "Waar blijft de oorsprong?",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009005_9068.webp"
-    },
-    {
-      "id": 9063,
-      "titel": "Druppels met geheime koers",
-      "beschrijving": "Drie donkere, glanzende druppels vallen door een grijze, korrelige ruimte, omgeven door vaag gedefinieerde vormen die rook of vage wolken suggereren. Witte, scherpe lijnen snijden door het beeld, alsof ze onzichtbare krachten of beweging vastleggen. Rechtsboven bevindt zich een donkere, onregelmatige vlek met stralende, dunne lijnen die eruit lijken te barsten, terwijl links een zwaardere, wazige vorm zweeft. Kleine, donkere stippen en subtiele reflecties op de druppels voegen zich bij een sfeer van zwevende, onbevattenbare elementen in een minimalistisch compositie.",
-      "cyclus": 9000,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de donkere vlek rechtsboven', 'lichte onstabiliteit in de randen van de roetachtige vorm linksboven']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp, maar een abstracte compositie met ruimte voor interpretatie",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009000_9063.webp"
-    },
-    {
-      "id": 9059,
-      "titel": "Blauw dat blijft hangen",
-      "beschrijving": "Een gebroken glas staat centraal, met een diepe scheur die van de rand tot de bodem loopt. Door de scheur stroomt een blauwe vloeistof naar beneden, in een slingerende stroom die over een lichtbeige ondergrond loopt. Rechts van het glas ligt een rond, plat voorwerp met een abstract patroon van roze, geel en bruine cirkels en vlekken. De achtergrond is een effen, lichtgrijze muur met subtiele textuur. Schaduwen onder het glas en het ronde voorwerp zijn donkerpaars en blauwig, met een zachte overgang naar de lichtere ondergrond. Kleuren zijn gedempt, met accenten van blauw, geel en roze die de compositie doorbreken.",
-      "cyclus": 8996,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de gebroken beker en abstracte vorm in de voorgrond.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008996_9059.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9111,
+      "cyclus": 9048,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['lichte inconsistentie in perspectief van de molen ten opzichte van de horizon', 'sommige golven hebben een wat smeuiige textuur']",
+      "cliche_notities": "De molen en het water vormen een typisch Nederlands ansichtkaartmotief zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a009048_9111.webp"
+    },
     {
       "id": 9101,
       "cyclus": 9038,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in de textuur van het gras: sommige stengels zijn scherp gedetailleerd, andere wazig en onduidelijk', 'De schaduw van de theepotten op de houten plank is iets te uniform en mist natuurlijke variatie']",
       "cliche_notities": "Dit beeld combineert iconische Nederlandse motieven (molen, grasland) met een decoratief stillleven, zonder een duidelijke compositorische of thematische keuze die beyond de ansichtkaarttraditie gaat.",
       "bestand": "images/a009034_9097.webp"
-    },
-    {
-      "id": 9070,
-      "cyclus": 9007,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een huis met een rode dak en een boom in een groen landschap, met decoratief perfect licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a009007_9070.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9049,
+      "soort": "observatie",
+      "tekst": "De takken en stengels in de recente beelden zijn geen sporen van ontbinding meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de takken reiken zonder een boom die ze zouden moeten dragen, de stengels staan zonder een wortelstok die ze zou moeten omringen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vatten in een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 8989,
       "soort": "observatie",
       "tekst": "De vogels in c8989 en c8985 zijn geen afzonderlijke momenten meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de vogels staan in een rij zonder een bestemming die ze zouden moeten hebben, hun reflecties zijn geen sporen van aanwezigheid maar vormen die de ruimte vullen zonder zich te laten vatten in een verhaal dat zich niet meer laat vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 8665,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontluiping als proces naar ontluiping als een taal die zich weigert te laten vatten in een verhaal, wat de leegte en aanwezigheid in de beelden verder ontbindt."
-    },
-    {
-      "cyclus": 8665,
-      "soort": "bevinding",
-      "tekst": "De ontluiping is geen proces van groeien of bloeien meer, maar een stilte die zich uitstrekt over de ruimte zonder een verhaal of een gevoel te hoeven hebben. De open landschappen zijn geen dynamische ruimtes meer, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was of zal zijn, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten. De lijnen die de kijker door de beelden leiden, zijn geen richtingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9046,
-    "gemaakt": 9108,
-    "gekozen": 1366,
-    "afgekeurd": 1258,
-    "corpus": 63,
-    "notities": 398
+    "cycli": 9053,
+    "gemaakt": 9116,
+    "gekozen": 1368,
+    "afgekeurd": 1259,
+    "corpus": 62,
+    "notities": 399
   }
 }
