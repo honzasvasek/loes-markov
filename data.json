@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T08:45+02:00",
+  "bijgewerkt": "2026-08-16T09:00+02:00",
   "werk": [
+    {
+      "id": 8701,
+      "titel": "Ze wachten op de thee",
+      "beschrijving": "Twee roze, gestileerde figuren staan aan weerszijden van een roze theepot met een steel en deksel, die op een brede, roze stam rust. Boven de theepot stijgen zeven slanke, golvende roze lijnen op, die aan rook of damp doen denken. De achtergrond is textuurrijk en bruin, met een ruwe, bijna modderige rand aan de onderkant waar de figuren en de theepot op staan. Het geheel heeft een gladde, bijna plastieke uitstraling, met zachte overgangen tussen de vormen en een minimale kleurvariatie. De compositie is symmetrisch, met de theepot als centraal punt tussen de twee figuren.",
+      "cyclus": 8638,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en openbaar, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008638_8701.webp"
+    },
+    {
+      "id": 8699,
+      "titel": "Papieren barsten en wollige bloemen",
+      "beschrijving": "Een witte, gescheurde vaas hangt schuin aan een lichte muur, met donkere, onregelmatige barsten die door het oppervlak lopen. Een tak steekt schuin door de vaas, met kleine, droge bloemhoofdjes die zacht en wollig ogen. Naast de vaas staan drie hoge, slanke stengels met vergelijkbare bloemhoofdjes, gebonden met dunne, bruine koorden. Op de vloer liggen verspreide houten latjes in een willekeurig patroon, met zachte schaduwen die zich uitstrekken over de muur en de vloer. De achtergrond is egaal en lichtgrijs, met subtiele, donkerdere vlekken die nat papier suggereren. De sfeer is stil en verlaten, met een focus op de textuur van het materiaal en de speelsheid van licht en schaduw.",
+      "cyclus": 8636,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in schaduwval van de tak op de muur', 'lichte wazigheid in de textuur van het droge gras']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, denkbeeldige spanning tussen de voorwerpen.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008636_8699.webp"
+    },
     {
       "id": 8684,
       "titel": "Rode aderen onder oranje druppels",
@@ -104,35 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008581_8644.webp"
-    },
-    {
-      "id": 8641,
-      "titel": "Waar blijft de sleutel?",
-      "beschrijving": "Een houten deur staat schuin in een zandig landschap, omringd door prikkeldraad en droog gras. Boven de deur waait een wirwar van takken en grassprieten in de wind, terwijl links een omgevallen paal met prikkeldraad op de grond ligt. Voor de deur bevindt zich een los stuk prikkeldraad en wat afval, zoals een stuk hout en een plastic flesje. De achtergrond toont zandduinen met wat vegetatie en een vaag silhouet van bomen aan de horizon. De scène is getekend in grijstinten, met fijne lijnen en schaduwen die diepte en textuur geven. De deur heeft een metalen kruk en een handvat, en de houten lamellen zijn duidelijk zichtbaar. Het landschap voelt verlaten en verwaarloosd, met sporen van verwaarlozing en vergetelheid.",
-      "cyclus": 8578,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna verontrustende compositie met prikkeldraad en een deur zonder context.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008578_8641.webp"
-    },
-    {
-      "id": 8632,
-      "titel": "Stenen naar de witte toren",
-      "beschrijving": "Een schuine, gescheurde witte strook snijdt door donkere, textuurrijke vlakken, met daarop een reeks donkere, onregelmatige stenen die een pad vormen. Een klein, silhouetachtig figuur staat op één steen, gericht op een hoge, witte wolkenkrabber met een spitse top in de achtergrond. Onderin de strook ligt een donkere theepot met deksel en handvat, omringd door donkere vlekken en druppels die een stromende beweging suggereren. De achtergrond bestaat uit donkere, vaag gestructureerde vlakken die diepte geven, terwijl de witte strook een scherp contrast vormt met de omringende donkerte. Donkere, gestippelde lijnen lopen parallel aan het pad van stenen, en sommige stenen hebben lichte, onregelmatige patronen. De compositie combineert architectonische en alledaagse elementen met een dromerige, bijna surrealistische sfeer.",
-      "cyclus": 8569,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in schaduwwerking bij de theepot",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met diagonale lijn en onverklaarde objecten geeft geen ansichtkaart-gevoel",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008569_8632.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8705,
+      "cyclus": 8642,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van daken linksboven', 'lichte wazigheid in textuur van bomen rechts']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een kerk als iconisch middelpunt, klassieke huizen en water, zonder duidelijke persoonlijke compositorische keuze.",
+      "bestand": "images/a008642_8705.webp"
+    },
+    {
+      "id": 8702,
+      "cyclus": 8639,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters (M, C, F, U, H)', 'onduidelijke symbolen (vraagteken, cirkel met streep)']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en takken.",
+      "bestand": "images/a008639_8702.webp"
+    },
     {
       "id": 8690,
       "cyclus": 8627,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch landschap met zonsondergang en bomen in een symmetrische opstelling, typisch voor een toeristische ansichtkaart.",
       "bestand": "images/a008627_8690.webp"
-    },
-    {
-      "id": 8682,
-      "cyclus": 8619,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houttextuur op sommige planken', 'lichte vervorming van waterreflectie aan weerskanten']",
-      "cliche_notities": "Klassiek motief van een steiger over water met decoratief licht en geen duidelijke compositorische keuze beyond symmetrie",
-      "bestand": "images/a008619_8682.webp"
-    },
-    {
-      "id": 8670,
-      "cyclus": 8607,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met eigen standpunt.",
-      "bestand": "images/a008607_8670.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8638,
-    "gemaakt": 8701,
-    "gekozen": 1292,
-    "afgekeurd": 1192,
+    "cycli": 8645,
+    "gemaakt": 8707,
+    "gekozen": 1294,
+    "afgekeurd": 1194,
     "corpus": 66,
     "notities": 390
   }
