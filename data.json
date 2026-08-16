@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T13:15+02:00",
+  "bijgewerkt": "2026-08-16T13:30+02:00",
   "werk": [
     {
       "id": 8812,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 8799,
-      "cyclus": 8736,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaart van de oceaan met golven en een grijze horizon, zonder eigen compositorische keuze of onverwacht element.",
-      "bestand": "images/a008736_8799.webp"
-    },
-    {
-      "id": 8788,
-      "cyclus": 8725,
+      "id": 8819,
+      "cyclus": 8756,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de perspectief van de deurkozijn (links/rechts niet symmetrisch), lichte wazigheid in de achtergrondhorizon",
-      "cliche_notities": "Beeld straalt een typisch ansichtkaart-gevoel uit met een ideale zonsondergang door een open deur, zonder duidelijke compositorische keuze of onverwachte elementen.",
-      "bestand": "images/a008725_8788.webp"
+      "tech_notities": "['Enkele takken van de wilg zijn inconsistent getekend: sommige hangen logisch door, andere wijzen in onmogelijke richtingen', 'Achtergrondbergen hebben een lichte vervaging aan de horizon, alsof het model de overgang niet scherp kon houden']",
+      "cliche_notities": "Dit is een klassiek oriëntaals landschap met wilg, water en verre bergen, geschilderd in een traditionele inktstijl zonder duidelijke persoonlijke interpretatie of onverwachte compositorische keuzes.",
+      "bestand": "images/a008756_8819.webp"
     },
     {
-      "id": 8773,
-      "cyclus": 8710,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van schuur (dak lijkt te steil ten opzichte van muren)', 'wazige overgang tussen hemel en horizon aan rechterkant']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten boerderij met smalle weg en stenen muur, getekend in realistische stijl zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a008710_8773.webp"
+      "id": 8817,
+      "cyclus": 8754,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld heeft geen iconisch of bevestigd onderwerp en toont een neutrale, niet-decoratieve compositie.",
+      "bestand": "images/a008754_8817.webp"
+    },
+    {
+      "id": 8813,
+      "cyclus": 8750,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst als centraal element.",
+      "bestand": "images/a008750_8813.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8750,
-    "gemaakt": 8812,
+    "cycli": 8757,
+    "gemaakt": 8819,
     "gekozen": 1309,
-    "afgekeurd": 1203,
+    "afgekeurd": 1206,
     "corpus": 63,
     "notities": 395
   }
