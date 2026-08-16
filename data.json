@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T05:00+02:00",
+  "bijgewerkt": "2026-08-16T05:15+02:00",
   "werk": [
     {
       "id": 8592,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 8603,
+      "cyclus": 8540,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke leegte zonder duidelijke compositorische keuze.",
+      "bestand": "images/a008540_8603.webp"
+    },
+    {
+      "id": 8598,
+      "cyclus": 8535,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten, maar lichte inconsistentie in de horizonlijn (water/sky overgang iets te scherp)",
+      "cliche_notities": "Iconisch landschap met vogels in vlucht en eenzame figuur herinnert aan klassieke ansichtkaartcomposities zonder duidelijke persoonlijke invalshoek",
+      "bestand": "images/a008535_8598.webp"
+    },
+    {
       "id": 8594,
       "cyclus": 8531,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "geen zichtbare generatie-artefacten, maar de overgang tussen de zon en de horizon is iets te scherp en kunstmatig",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een ondergaande zon, een eencilig landschap en een verlaten boerderijtje, zonder onverwachte compositorische keuzes",
       "bestand": "images/a008531_8594.webp"
-    },
-    {
-      "id": 8593,
-      "cyclus": 8530,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische, eenzame weg onder een dramatische hemel, typisch voor ansichtkaartfotografie zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008530_8593.webp"
-    },
-    {
-      "id": 8568,
-      "cyclus": 8505,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratief licht en een compositorische keuze die weinig afwijkt van de traditionele ansichtkaartstijl.",
-      "bestand": "images/a008505_8568.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8535,
-    "gemaakt": 8597,
+    "cycli": 8542,
+    "gemaakt": 8605,
     "gekozen": 1278,
-    "afgekeurd": 1177,
+    "afgekeurd": 1179,
     "corpus": 66,
     "notities": 390
   }
