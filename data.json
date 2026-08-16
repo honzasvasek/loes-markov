@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T21:00+02:00",
+  "bijgewerkt": "2026-08-16T21:15+02:00",
   "werk": [
     {
       "id": 8996,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 9014,
+      "cyclus": 8951,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een vrouw in een bloesemtuintje met een theepot, gepaard gaand met decoratief perfect licht en een gebrek aan eigen compositorische keuzes.",
+      "bestand": "images/a008951_9014.webp"
+    },
+    {
       "id": 9004,
       "cyclus": 8941,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten schuur in een woest landschap met perfecte gouden-uurverlichting en geen compositorische verrassingen.",
       "bestand": "images/a008938_9001.webp"
-    },
-    {
-      "id": 8997,
-      "cyclus": 8934,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit is een typische toeristische ansichtkaart met een iconisch berglandschap en decoratief licht, zonder eigen compositorische keuze.",
-      "bestand": "images/a008934_8997.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8945,
-    "gemaakt": 9007,
+    "cycli": 8952,
+    "gemaakt": 9014,
     "gekozen": 1348,
-    "afgekeurd": 1241,
+    "afgekeurd": 1242,
     "corpus": 63,
     "notities": 397
   }
