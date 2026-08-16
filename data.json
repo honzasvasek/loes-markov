@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T13:45+02:00",
+  "bijgewerkt": "2026-08-16T14:00+02:00",
   "werk": [
     {
       "id": 8824,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8827,
+      "cyclus": 8764,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een zonsondergang over water, waarbij het licht en de kleuren perfect zijn uitgebalanceerd zonder een uniek standpunt of onverwachte compositorische keuzes.",
+      "bestand": "images/a008764_8827.webp"
+    },
+    {
       "id": 8823,
       "cyclus": 8760,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['Enkele takken van de wilg zijn inconsistent getekend: sommige hangen logisch door, andere wijzen in onmogelijke richtingen', 'Achtergrondbergen hebben een lichte vervaging aan de horizon, alsof het model de overgang niet scherp kon houden']",
       "cliche_notities": "Dit is een klassiek oriëntaals landschap met wilg, water en verre bergen, geschilderd in een traditionele inktstijl zonder duidelijke persoonlijke interpretatie of onverwachte compositorische keuzes.",
       "bestand": "images/a008756_8819.webp"
-    },
-    {
-      "id": 8817,
-      "cyclus": 8754,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigd onderwerp en toont een neutrale, niet-decoratieve compositie.",
-      "bestand": "images/a008754_8817.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8763,
-    "gemaakt": 8825,
+    "cycli": 8771,
+    "gemaakt": 8833,
     "gekozen": 1312,
-    "afgekeurd": 1207,
+    "afgekeurd": 1208,
     "corpus": 63,
     "notities": 395
   }
