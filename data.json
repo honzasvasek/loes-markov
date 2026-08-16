@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T11:00+02:00",
+  "bijgewerkt": "2026-08-16T11:15+02:00",
   "werk": [
+    {
+      "id": 8750,
+      "titel": "Regen op vergeten lagen",
+      "beschrijving": "Twee betonnen platen liggen parallel op een zandige ondergrond, de bovenste met een diepe, vertakte barst die diagonaal door het midden loopt en over de rand loopt. De barst onthult donkere, ruwe lagen onder de gladde, lichtgrijze oppervlakte. De onderste plaat is intact, met een effen, licht getextureerd oppervlak en subtiele schaduwen aan de randen. De achtergrond bestaat uit een vaag, lichtblauwe hemel met zachte witte wolken en dunne, verticale regenstrepen die de scène een natte, stille sfeer geven. De compositie is asymmetrisch, met de platen schuin in beeld en veel lege ruimte rondom, vooral boven en aan de zijkanten.",
+      "cyclus": 8687,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008687_8750.webp"
+    },
+    {
+      "id": 8748,
+      "titel": "Kolen en zeep in balans",
+      "beschrijving": "Twee identieke betonnen platen liggen verticaal op een effen grijze achtergrond, elk met een cluster donkere, onregelmatige kolenstukken en een witte zeepreep. De kolen zijn ruw en gebarsten, omringd door kleine, donkere korrels die als poeder verspreid zijn over het oppervlak. De zeep is rechthoekig, glad en ligt schuin aan de rechterkant, met een zachte schaduw die diepte suggereert. De platen hebben een matte textuur met subtiele oneffenheden, en de randen zijn licht afgerond. De compositie is symmetrisch, met de objecten centraal geplaatst, maar de verspreiding van het kolenpoeder introduceert een onvoorspelbare dynamiek. Het contrast tussen de donkere kolen en de lichte zeep en achtergrond creëert een rustige, bijna meditatieve sfeer.",
+      "cyclus": 8685,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp is abstract en de compositie is minimalistisch, zonder iconische elementen of decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008685_8748.webp"
+    },
     {
       "id": 8735,
       "titel": "Wat onder het papier verborgen blijft",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008605_8668.webp"
-    },
-    {
-      "id": 8656,
-      "titel": "Vuurgolven door zand",
-      "beschrijving": "Een open deur omlijst een woestijnschap met zandduinen onder een vaag blauwe hemel. Door de deur loopt een smalle, kronkelende strook vuur die zich uitstrekt tot aan de horizon, omgeven door verbrand zand en verkoolde resten. Verspreid over het zand liggen witte, kegelvormige voorwerpen, sommige halfbegraven, andere schuin op de grond. Het zand heeft fijne, golvende patronen, met hier en daar kleine stenen en droge takjes. De rand van de deur is roodbruin, met sporen van roet en een donkere vlek bij de onderkant. Het licht is helder en direct, waardoor de schaduwen kort en scherp zijn. De vuurstrook straalt een oranje-gloeiiende warmte uit, in contrast met de koele tinten van het zand en de hemel.",
-      "cyclus": 8593,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deurlijst ten opzichte van het zandlandschap', 'lichte wazigheid in de verre woestijndunen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze (deur als raam naar een onrustige wereld) en geen typisch toeristisch onderwerp",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008593_8656.webp"
-    },
-    {
-      "id": 8653,
-      "titel": "Korrelig grensgebied",
-      "beschrijving": "Twee vlakken van textuurrijke kleur vullen het beeld, gescheiden door een scherpe horizontale lijn. Bovenaan een zacht, korrelig rozebruin, onderaan een diepere, donkerder rode tint met een vergelijkbare korrelige structuur. Geen vormen, geen details, geen afwijkingen—alleen de tegenstelling tussen de twee vlakken en hun subtiele kleurverschil. De sfeer is statisch, zonder beweging of diepte, alsof de ruimte stilstaat op het moment waarop de kleuren elkaar raken.",
-      "cyclus": 8590,
-      "tech_score": 10.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008590_8653.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8688,
-    "gemaakt": 8751,
-    "gekozen": 1296,
+    "cycli": 8694,
+    "gemaakt": 8756,
+    "gekozen": 1298,
     "afgekeurd": 1199,
-    "corpus": 64,
+    "corpus": 63,
     "notities": 394
   }
 }
