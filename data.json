@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T07:00+02:00",
+  "bijgewerkt": "2026-08-16T07:15+02:00",
   "werk": [
+    {
+      "id": 8656,
+      "titel": "Vuurgolven door zand",
+      "beschrijving": "Een open deur omlijst een woestijnschap met zandduinen onder een vaag blauwe hemel. Door de deur loopt een smalle, kronkelende strook vuur die zich uitstrekt tot aan de horizon, omgeven door verbrand zand en verkoolde resten. Verspreid over het zand liggen witte, kegelvormige voorwerpen, sommige halfbegraven, andere schuin op de grond. Het zand heeft fijne, golvende patronen, met hier en daar kleine stenen en droge takjes. De rand van de deur is roodbruin, met sporen van roet en een donkere vlek bij de onderkant. Het licht is helder en direct, waardoor de schaduwen kort en scherp zijn. De vuurstrook straalt een oranje-gloeiiende warmte uit, in contrast met de koele tinten van het zand en de hemel.",
+      "cyclus": 8593,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deurlijst ten opzichte van het zandlandschap', 'lichte wazigheid in de verre woestijndunen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze (deur als raam naar een onrustige wereld) en geen typisch toeristisch onderwerp",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008593_8656.webp"
+    },
+    {
+      "id": 8649,
+      "titel": "Waar het vuur stilstaat",
+      "beschrijving": "Een woestijnlandschap met zandduinen en grasbundels wordt doorsneden door een smalle, kronkelende strook vuur die rook afgeeft. Bovenin zweven spinnenwebben tegen een bewolkte hemel. Onderin staat een witte, gesloten deur zonder omgevingscontext, omringd door water en gras. De afbeelding is grotendeels zwart-wit, behalve het vuur, dat oranje-rood is. De compositie verdeelt het beeld in drie horizontale vlakken: boven een dynamische hemel met webben, midden een woestijn met vuur en onder een statische deur tegen een kalme achtergrond. De sfeer is onrustig door het vuur en de rook, maar ook verlaten door de afwezigheid van leven en de isolement van de deur.",
+      "cyclus": 8586,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van gras bij deur', 'lichte halo rond vuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een ongemakkelijke, denkbeeldige spanning.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008586_8649.webp"
+    },
     {
       "id": 8644,
       "titel": "Barstjes in het water",
@@ -13,6 +39,19 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008581_8644.webp"
+    },
+    {
+      "id": 8641,
+      "titel": "Waar blijft de sleutel?",
+      "beschrijving": "Een houten deur staat schuin in een zandig landschap, omringd door prikkeldraad en droog gras. Boven de deur waait een wirwar van takken en grassprieten in de wind, terwijl links een omgevallen paal met prikkeldraad op de grond ligt. Voor de deur bevindt zich een los stuk prikkeldraad en wat afval, zoals een stuk hout en een plastic flesje. De achtergrond toont zandduinen met wat vegetatie en een vaag silhouet van bomen aan de horizon. De scène is getekend in grijstinten, met fijne lijnen en schaduwen die diepte en textuur geven. De deur heeft een metalen kruk en een handvat, en de houten lamellen zijn duidelijk zichtbaar. Het landschap voelt verlaten en verwaarloosd, met sporen van verwaarlozing en vergetelheid.",
+      "cyclus": 8578,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna verontrustende compositie met prikkeldraad en een deur zonder context.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008578_8641.webp"
     },
     {
       "id": 8632,
@@ -91,48 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008529_8592.webp"
-    },
-    {
-      "id": 8589,
-      "titel": "Zand drinkt dieper dan water",
-      "beschrijving": "Een zwarte theepot met deksel zweeft boven een zandig landschap, verbonden met een diepe, kronkelende scheur die door het zand loopt en overgaat in een blauw wateroppervlak. Rond de scheur staan verspreid houten stompjes met groene grassprietjes, en kleine stenen en korrels liggen verspreid over het zand. De theepot werpt een donkere schaduw op het zand, terwijl de scheur een metalen, koperkleurige textuur heeft met scherp getekende randen die de overgang markeren tussen het droge zand en het natte water.",
-      "cyclus": 8526,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en heeft een eigen standpunt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008526_8589.webp"
-    },
-    {
-      "id": 8586,
-      "titel": "Wie liet dit spoor achter?",
-      "beschrijving": "Zandgolven met zachte, golvende patronen vullen het beeld, doorsneden door een smalle, donkere spoor die diagonaal loopt. Het spoor lijkt door iets smals en lanks te zijn getrokken, met sporen van beweging en opgewervd zand aan weerskanten. Kleine klontjes en korrels zand liggen verspreid rond het spoor, waar het het diepst is. De kleur van het zand varieert van lichtbeige tot goudbruin, met subtiele schaduwvalleien die de textuur benadrukken. De achtergrond bestaat uit oneindig herhalende zandgolven, zonder horizon of andere onderbrekingen. De sfeer is stil en woest, met een gevoel van eenzaamheid en ongerepte ruimte.",
-      "cyclus": 8523,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, onopzettelijke compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008523_8586.webp"
-    },
-    {
-      "id": 8582,
-      "titel": "Roze rook tussen de stenen",
-      "beschrijving": "Twee steile, grijze hellingen lopen schuin aan elkaar voorbij, gescheiden door een smalle, diepe kloof. Tussen de hellingen door stroomt een dichte, roze rook, die zich in golven uitstrekt en de ruimte tussen de rotsen vult. De hellingen zijn bedekt met fijn zand, losse stenen en wat droog, donker groen gras, met hier en daar een kleine, stekelige plant. De rotsen hebben een ruwe, onregelmatige textuur, met diepe groeven en scherpe randen. De rook heeft een zachte, wazige structuur en lijkt te bewegen, alsof ze langzaam door de kloof glijdt. De achtergrond is een egale, lichte hemel zonder details, wat de focus op de kloof en de rook legt. De compositie is dynamisch door de schuine lijnen van de hellingen en de stromende rook, terwijl de kleurencontrasten tussen het grijze landschap en de roze rook een sterke visuele spanning creëren.",
-      "cyclus": 8519,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk schuin en de roze rook voegt een onverklaarbaar element toe.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008519_8582.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8657,
+      "cyclus": 8594,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst als centraal element.",
+      "bestand": "images/a008594_8657.webp"
+    },
+    {
+      "id": 8655,
+      "cyclus": 8592,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een letter als vormgevend element.",
+      "bestand": "images/a008592_8655.webp"
+    },
     {
       "id": 8652,
       "cyclus": 8589,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische woestijnschap met perfecte zonsondergang en decoratieve compositie zonder duidelijk eigen standpunt.",
       "bestand": "images/a008589_8652.webp"
-    },
-    {
-      "id": 8651,
-      "cyclus": 8588,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de textuur van het gras en de achtergrondbomen",
-      "cliche_notities": "Dit beeld past bij een typische ansichtkaart van een Nederlands landschap met riet en een verre horizon, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008588_8651.webp"
-    },
-    {
-      "id": 8636,
-      "cyclus": 8573,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houttextuur ladder vs. omringend hout', 'lichte wazigheid in achtergrondgras']",
-      "cliche_notities": "Molen en tarwe in een klassieke, decoratieve compositie zonder onverwachte invalshoek",
-      "bestand": "images/a008573_8636.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8591,
-    "gemaakt": 8654,
-    "gekozen": 1284,
-    "afgekeurd": 1186,
+    "cycli": 8597,
+    "gemaakt": 8659,
+    "gekozen": 1287,
+    "afgekeurd": 1188,
     "corpus": 66,
     "notities": 390
   }
