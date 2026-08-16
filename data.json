@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T16:45+02:00",
+  "bijgewerkt": "2026-08-16T17:00+02:00",
   "werk": [
     {
       "id": 8896,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 8904,
+      "cyclus": 8841,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'onmogelijke geometrie']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistisch beeld met een eigen compositorische keuze.",
+      "bestand": "images/a008841_8904.webp"
+    },
+    {
+      "id": 8902,
+      "cyclus": 8839,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een eigen standpunt.",
+      "bestand": "images/a008839_8902.webp"
+    },
+    {
       "id": 8898,
       "cyclus": 8835,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['Lichte onscherpte in de achtergrondbomen, maar geen duidelijke artefacten', 'Subtiele halo rond de zon, typisch voor diffusiemodellen bij hoog contrast']",
       "cliche_notities": "Het beeld toont een iconische weg met zonsondergang en symmetrische bomenrij, typisch voor een toeristische ansichtkaart zonder duidelijke compositorische keuze.",
       "bestand": "images/a008835_8898.webp"
-    },
-    {
-      "id": 8893,
-      "cyclus": 8830,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, onafgewerkte sfeer met een onverklaarde klok en wegwerpstroom.",
-      "bestand": "images/a008830_8893.webp"
-    },
-    {
-      "id": 8879,
-      "cyclus": 8816,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde karakters en onleesbare woorden', 'inconsistent lettertype en uitlijning']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst als formeel element.",
-      "bestand": "images/a008816_8879.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8839,
-    "gemaakt": 8901,
+    "cycli": 8844,
+    "gemaakt": 8906,
     "gekozen": 1326,
-    "afgekeurd": 1217,
-    "corpus": 63,
+    "afgekeurd": 1219,
+    "corpus": 64,
     "notities": 395
   }
 }
