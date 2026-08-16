@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T03:30+02:00",
+  "bijgewerkt": "2026-08-16T03:45+02:00",
   "werk": [
     {
       "id": 8544,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8557,
+      "cyclus": 8494,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch landschap, molens en een harmonieus kleurenpalet zonder duidelijke compositorische keuzes of een eigen standpunt.",
+      "bestand": "images/a008494_8557.webp"
+    },
+    {
       "id": 8533,
       "cyclus": 8470,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch landschap, een verlaten huisje en een weg die zich uitstrekt naar de horizon, zonder duidelijke compositorische keuzes die beyond het cliché gaan.",
       "bestand": "images/a008468_8531.webp"
-    },
-    {
-      "id": 8524,
-      "cyclus": 8461,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief']",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van huisjes in een landschap met decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a008461_8524.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8488,
-    "gemaakt": 8551,
+    "cycli": 8496,
+    "gemaakt": 8559,
     "gekozen": 1269,
-    "afgekeurd": 1173,
-    "corpus": 66,
+    "afgekeurd": 1174,
+    "corpus": 67,
     "notities": 389
   }
 }
