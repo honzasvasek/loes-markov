@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T06:30+02:00",
+  "bijgewerkt": "2026-08-16T06:45+02:00",
   "werk": [
+    {
+      "id": 8644,
+      "titel": "Barstjes in het water",
+      "beschrijving": "Vijf keramieke theepotjes met een matte, beige textuur en subtiele barstjes staan verspreid over een wit oppervlak. Een theepot met een deksel en een bolvormig handvat giet een smalle straal helder water in het dichtstbijzijnde potje, waar het water een lichte glans en rimpels vormt. De potjes werpen zachte, paarsachtige schaduwen die zich uitstrekken over het witte vlak. De compositie is rustig en gebalanceerd, met de theepot aan de rechterkant en de potjes in een losse cirkel eromheen. De kleuren zijn gedempt, met accenten van bruin aan de randen van de potjes en het water dat een doorschijnende, bijna glazen textuur heeft. De sfeer is kalm en contemplatief, met een focus op de eenvoudige actie van gieten en de subtiele interactie tussen licht, schaduw en materiaal.",
+      "cyclus": 8581,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een rustige, onopgesmakte compositie zonder duidelijke thematische keuze.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008581_8644.webp"
+    },
+    {
+      "id": 8632,
+      "titel": "Stenen naar de witte toren",
+      "beschrijving": "Een schuine, gescheurde witte strook snijdt door donkere, textuurrijke vlakken, met daarop een reeks donkere, onregelmatige stenen die een pad vormen. Een klein, silhouetachtig figuur staat op één steen, gericht op een hoge, witte wolkenkrabber met een spitse top in de achtergrond. Onderin de strook ligt een donkere theepot met deksel en handvat, omringd door donkere vlekken en druppels die een stromende beweging suggereren. De achtergrond bestaat uit donkere, vaag gestructureerde vlakken die diepte geven, terwijl de witte strook een scherp contrast vormt met de omringende donkerte. Donkere, gestippelde lijnen lopen parallel aan het pad van stenen, en sommige stenen hebben lichte, onregelmatige patronen. De compositie combineert architectonische en alledaagse elementen met een dromerige, bijna surrealistische sfeer.",
+      "cyclus": 8569,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in schaduwwerking bij de theepot",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met diagonale lijn en onverklaarde objecten geeft geen ansichtkaart-gevoel",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008569_8632.webp"
+    },
     {
       "id": 8625,
       "titel": "Rook en beton",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008519_8582.webp"
-    },
-    {
-      "id": 8575,
-      "titel": "Rotsen die luisteren naar de wind",
-      "beschrijving": "Een eencilige boom met donkere, uitgespreide takken domineert het midden van een uitgestrekt veld, omringd door droog, roze getint gras dat in de wind zwaait. De stam is massief en licht gekromd, met een donkere, bijna zwarte textuur die contrasteert met de zachte, rozerode achtergrond. In de verte liggen vaag zichtbare bomen en heuvels onder een egale, lichtgrijze hemel die overgaat in roze bij de horizon. Donkere, onregelmatige rotsen en stukken hout liggen verspreid rond de boom, terwijl het gras in de voorgrond scherp en gedetailleerd is, met individuele halmen die de textuur van het landschap benadrukken. De sfeer is stil en verlaten, met een dromerige, bijna surrealistische kleurpalet die de leegte van het landschap versterkt.",
-      "cyclus": 8512,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een unieke, niet-iconische compositie met een ongemakkelijke schoonheid die beyond een toeristische ansichtkaart gaat.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008512_8575.webp"
-    },
-    {
-      "id": 8562,
-      "titel": "Het spoor van wat overbleef",
-      "beschrijving": "Een roodbruin landschap met een scherpe, witte diagonale strook die van linksonder naar rechtsonder loopt, alsof het een spoor of een drooggelegde waterloop is. Rond die strook liggen verspreid donkere takken, kleine stenen en wat lijkt op gedroogde bladeren of schillen. Bovenin domineert een grijze, wazige horizon met zachte overgangen naar het rood, alsof er een nevel of regen de lucht en het landschap verbindt. Dunne, verticale witte lijnen lopen door het hele beeld, alsof het regent of alsof er sporen van beweging zijn vastgelegd. De kleuren zijn gedempt, maar het wit van de diagonale strook springt erhard uit, alsof het een spoor van afwezigheid of een verdwijnpunt is. Er is geen duidelijke horizon of lichtbron, waardoor het beeld een zwevende, bijna dromerige sfeer heeft. De textuur is ruw en geschilderd, met zichtbare penseelstreken die de indruk van beweging en ontbinding versterken.",
-      "cyclus": 8499,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de witte strook', 'enkele takken hebben onnatuurlijke proporties']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en open.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008499_8562.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 8577,
-    "gemaakt": 8639,
-    "gekozen": 1282,
+    "cycli": 8584,
+    "gemaakt": 8646,
+    "gekozen": 1284,
     "afgekeurd": 1184,
     "corpus": 66,
     "notities": 390
