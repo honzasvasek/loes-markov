@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T00:30+02:00",
+  "bijgewerkt": "2026-08-17T00:45+02:00",
   "werk": [
     {
       "id": 9086,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 9097,
+      "cyclus": 9034,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van het gras: sommige stengels zijn scherp gedetailleerd, andere wazig en onduidelijk', 'De schaduw van de theepotten op de houten plank is iets te uniform en mist natuurlijke variatie']",
+      "cliche_notities": "Dit beeld combineert iconische Nederlandse motieven (molen, grasland) met een decoratief stillleven, zonder een duidelijke compositorische of thematische keuze die beyond de ansichtkaarttraditie gaat.",
+      "bestand": "images/a009034_9097.webp"
+    },
+    {
       "id": 9070,
       "cyclus": 9007,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, zonder originele compositorische keuzes of een uniek standpunt.",
       "bestand": "images/a009004_9067.webp"
-    },
-    {
-      "id": 9060,
-      "cyclus": 8997,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming van bomen aan horizon', 'onscherpe achtergrondgevels']",
-      "cliche_notities": "Gracht met boten en regen is een typisch Nederlands ansichtkaartmotief zonder duidelijke persoonlijke inval",
-      "bestand": "images/a008997_9060.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9030,
-    "gemaakt": 9092,
+    "cycli": 9037,
+    "gemaakt": 9100,
     "gekozen": 1363,
-    "afgekeurd": 1256,
-    "corpus": 63,
+    "afgekeurd": 1257,
+    "corpus": 62,
     "notities": 398
   }
 }
