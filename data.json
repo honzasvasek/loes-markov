@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-16T21:45+02:00",
+  "bijgewerkt": "2026-08-16T22:00+02:00",
   "werk": [
+    {
+      "id": 9027,
+      "titel": "Vocht dat herinneringen opzuigt",
+      "beschrijving": "Een vochtige, korrelige ondergrond, grijsbruin van kleur, met verspreide vlekken en sporen van vocht. Donkere, onregelmatige vormen stralen uit van een centraal punt, waar een glanzende, bijna zwarte vloeistof de textuur doorsnijdt. Kleurige cirkels—oranje, blauw—liggen verspreid, vaag en ongelijkmatig, alsof ze door het vocht zijn getrokken. Witte, schuimachtige randen omzoomen sommige natere plekken, terwijl kleine druppels en donkere vlekken de oppervlakte doorspekken. De achtergrond vervaagt tot een zachte, onduidelijke grijshuid, waardoor de focus ligt op de details van de vochtige textuur en de subtiele kleurverschillen.",
+      "cyclus": 8964,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008964_9027.webp"
+    },
+    {
+      "id": 9025,
+      "titel": "Onderhuidse stroming",
+      "beschrijving": "Een smalle, verticale strook van lichtgekleurd materiaal, met subtiele oranje en blauwe vlekken, daalt schuin naar beneden en raakt een donkere, onregelmatige vorm in een nat, bruinachtig oppervlak. Rondom spatten donkere vlekken en druppels, sommige scherp, andere vervagen tot zachte wolken. Witte reflecties glanzen op het natte oppervlak, dat golvende patronen vormt. De achtergrond is een effen, lichtgrijze textuur met vaag zichtbare donkere vlekken. Donkere, spierende vormen en kleine, donkere stippen verspreiden zich over het beeld, terwijl een dunne, donkere lijn diagonaal door de compositie loopt.",
+      "cyclus": 8962,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008962_9025.webp"
+    },
+    {
+      "id": 9015,
+      "titel": "De theepot die de lucht doorklift",
+      "beschrijving": "Een donkere theepot zweeft in een werveling van rookachtige vormen, met een gebogen neus en handvat dat de lucht doorkleeft. Onderaan loopt een kronkelend pad van lichte golven tussen donkere, onregelmatige rotsen en slanke, uitgestrekte planten. Rechts staat een eenvoudig gebouw met een schuin dak en een raam met ruitjes, de muren getekend met losse, donkere strepen. De achtergrond is een mengsel van zachte, wazige vormen en scherpe, donkere vlekken, alsof rook en water samen de ruimte invullen. Donkere spatten en fijne lijnen geven de scène een onrustige, bijna bewegende sfeer, terwijl de theepot als een zware, donkere bol in het midden hangt, omringd door lichte, wazige cirkels.",
+      "cyclus": 8952,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008952_9015.webp"
+    },
     {
       "id": 9007,
       "titel": "Rook die blijft hangen in zand",
@@ -91,74 +130,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008910_8973.webp"
-    },
-    {
-      "id": 8969,
-      "titel": "Waar blijft de sleutel?",
-      "beschrijving": "Een smalle gang loopt door een ruimte met diepblauwe muren en plafond, waarbij het licht vanuit een smalle opening aan de linkerkant zachtjes de vloer raakt. De vloer bestaat uit onregelmatige, blauwgrijze planken met sporen van slijtage en losse delen die licht reflecteren. Twee donkerblauwe deuren aan weerskanten van de gang zijn gesloten, terwijl aan het eind van de gang een derde deur vaag zichtbaar is. Dünne, verticale lijnen lopen van het plafond naar beneden, alsof ze iets onzichtbaars suggereren. De sfeer is stil en verlaten, met een gevoel van afwezigheid dat de ruimte vult. De kleuren zijn monochrom, met subtiele variaties in blauw en grijs die diepte en textuur geven aan de muren en vloer.",
-      "cyclus": 8906,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren aan weerskanten', 'lichte wazigheid in de achtergrond van de gang']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met de blauwe kleur en lege ruimte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008906_8969.webp"
-    },
-    {
-      "id": 8965,
-      "titel": "Bruin dat zich verontschuldigt bij grijs",
-      "beschrijving": "Een brede, golvende laag bruin hangt boven een lichtgrijze, textuurrijke ondergrond, met een onregelmatige rand die zachtjes overgaat in het grijze vlak. Daaronder lopen donkergrijze, horizontale strepen door het beeld, afwisselend breed en smal, met enkele spitse uitlopers die zich uitstrekken over het oppervlak. De kleuren zijn gedempt en de vormen eenvoudig, zonder duidelijke figuren of herkenbare objecten. De compositie is statisch, met een focus op de relatie tussen de lagen en de subtiele variaties in textuur en kleur.",
-      "cyclus": 8902,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008902_8965.webp"
-    },
-    {
-      "id": 8963,
-      "titel": "Rook overstijlt grenzen",
-      "beschrijving": "Een verticale compositie wordt doorsneden door een donkere, horizontale lijn die de afbeelding in twee ongelijke delen deelt. Boven die lijn vult een vaag, grijsgroen vlak de ruimte, met subtiele overgangen naar lichtere, bijna witte tinten aan de randen. Daaronder domineert een donkergrijs, bijna zwart vlak met een matte textuur, waar de donkere lijn scherp tegen afsteekt. Door beide delen loopt een slanke, witte rookwolk die vanaf de onderkant opstijgt en zich in slingerende, dunne lijnen uitstrekt tot boven de horizontale scheidslijn. De rook wordt breder naarmate hij hoger komt en lost langzaam op in het lichtere gedeelte, waarbij de overgang soepel en wazig is. De achtergrond blijft egaal en zonder details, waardoor de rookwolk de enige dynamische element is in een anderszins statisch beeld.",
-      "cyclus": 8900,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, contemplatieve compositie zonder toeristische connotaties.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008900_8963.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 9026,
-      "cyclus": 8963,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratief licht en een compositorische keuze die weinig afwijkt van de traditionele ansichtkaartstijl.",
-      "bestand": "images/a008963_9026.webp"
-    },
-    {
-      "id": 9018,
-      "cyclus": 8955,
+      "id": 9032,
+      "cyclus": 8969,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
       "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met douren in een kloof.",
-      "bestand": "images/a008955_9018.webp"
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met eigen standpunt.",
+      "bestand": "images/a008969_9032.webp"
     },
     {
-      "id": 9016,
-      "cyclus": 8953,
+      "id": 9031,
+      "cyclus": 8968,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vensterposities (linkerbovenste venster staat schuiner dan rechter)', 'lichte wazigheid in achtergrondboomwerk']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een rustig waterschap met architectonische details en een serene sfeer, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a008953_9016.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een zonsondergang met silhouetten van bomen, een decoratief kleureneffect en een gebrek aan unieke compositorische keuzes.",
+      "bestand": "images/a008968_9031.webp"
+    },
+    {
+      "id": 9028,
+      "cyclus": 8965,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met focus op textuur en ontbinding.",
+      "bestand": "images/a008965_9028.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8965,
-    "gemaakt": 9027,
-    "gekozen": 1349,
-    "afgekeurd": 1245,
+    "cycli": 8970,
+    "gemaakt": 9032,
+    "gekozen": 1352,
+    "afgekeurd": 1248,
     "corpus": 63,
     "notities": 397
   }
