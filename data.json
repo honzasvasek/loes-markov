@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-16T23:00+02:00",
+  "bijgewerkt": "2026-08-16T23:15+02:00",
   "werk": [
+    {
+      "id": 9052,
+      "titel": "Vijfde vogel zoekt weg",
+      "beschrijving": "Vijf witgrijze vogels met oranje snavels en poten staan in een natte, bruine polder. Vier vogels vormen een lijn aan de waterkant, hun spiegeling zichtbaar in het kalme water. Een vijfde vogel staat dichterbij, iets schuin ten opzichte van de anderen, met een lichte schaduw die over het water glijdt. Achter de vogels loopt een houten dam met verticale planken, deels in onscherpe achtergrond. Het landschap is kaal, zonder groen, en de lucht is niet zichtbaar. Het water reflecteert de vogels en de omgeving met een lichte glans, terwijl de grond rondom droog en korrelig is.",
+      "cyclus": 8989,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming van reflecties in water', 'kleine inconsistentie in pootjes van vogel rechtsboven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of typisch toeristisch motief, maar een onopzettelijke momentopname van vogels in een polderlandschap.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w008989_9052.webp"
+    },
+    {
+      "id": 9048,
+      "titel": "Vier reflecties in een vergeten waterpiegel",
+      "beschrijving": "Vier gansvogels staan in een rij in ondiep water, hun reflecties zichtbaar in de glanzende oppervlakte. De vogels hebben verschillende kleuringen: twee zijn lichtgrijs met bruine nekken, één is donkergrijs met een zwarte kop en één is wit met een lichtgrijze rug. Hun oranje poten en snavels contrasteren met de gedempte kleuren van het water, dat overgaat in een vaag, nevelig landschap met zachte groene en blauwe tinten. De achtergrond is onscherp, met suggesties van bomen en een horizon die oplossen in een lichte, mistige lucht. Het water heeft subtiele rimpelingen en drijvend afval, zoals bladeren. De compositie is symmetrisch, met de vogels centraal geplaatst en de ruimte erboven en eronder evenwichtig verdeeld. De sfeer is kalm en verlaten, met een gevoel van stilte en afwezigheid van beweging, behalve de lichte beweging in het water.",
+      "cyclus": 8985,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie en sfeer zijn niet typisch ansichtkaartmateriaal; de gansfiguren staan in een ongemakkelijke, bijna verontrustende rij, zonder iconische achtergrond of decoratief licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008985_9048.webp"
+    },
+    {
+      "id": 9042,
+      "titel": "Zes vogels, regen en riet",
+      "beschrijving": "Regendruppels dalen door een grijze lucht, waarbij ze verticale sporen trekken door een landschap van water en riet. Zes vogels vliegen in een losse V-vorm van linksboven naar rechtsonder, hun silhouetten donker tegen de bewolkte achtergrond. Het water beslaat de onderste helft, met subtiele rimpelingen die de regen en de vogels weerspiegelen. Rietstengels rijzen op aan weerskanten, donker en scherp getekend, met aan de linkerkant enkele stengels die over het water hangen. Kleine donkere stenen liggen verspreid bij de waterkant, waar het riet overgaat in het natte oppervlak. De achtergrond toont een vaag bosrandje, onscherp en gedempt, wat de diepte van het tafereel versterkt. De sfeer is stil en nat, met een monochromatisch palet van grijs, zwart en wit dat de regen en de leegte benadrukt.",
+      "cyclus": 8979,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in reflecties op water (enkele rietstengels hebben geen spiegelbeeld)",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap met perfecte zonsondergang of typisch Nederlands motief; compositie is gericht op leegte en subtiele spanning tussen water en vegetatie",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008979_9042.webp"
+    },
     {
       "id": 9027,
       "titel": "Vocht dat herinneringen opzuigt",
@@ -91,45 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008924_8987.webp"
-    },
-    {
-      "id": 8981,
-      "titel": "De druppel die bleef hangen",
-      "beschrijving": "Een donkere, glanzende druppel water stijgt op uit een ondiepe, ronde poel op een ruwe, grijze steen. Rond de druppel lopen concentrische ringen door het water, veroorzaakt door de beweging. De steen heeft een onregelmatige textuur met kleine putjes en krassen, en aan de rand liggen losse kiezelstenen en fragmenten van wit en bruin gesteente. Boven de poel bevindt zich een verticale, lichtgrijze muur met subtiele, stralende lijnen die vanuit een punt boven de druppel lijken uit te gaan. De omgeving is nat en donker, met kleine details als een groene steel en een wit schelpje verspreid over de steen. De sfeer is stilstaand, maar de ringen en de druppel suggereren een recent moment van beweging.",
-      "cyclus": 8918,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp is niet iconisch en de compositie heeft een eigen, niet-decoratief karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008918_8981.webp"
-    },
-    {
-      "id": 8976,
-      "titel": "Vlammen die hars omhelsen",
-      "beschrijving": "Een donkere, kale boom met uitgestrekte takken domineert het midden, omringd door oranje-gele vlammen die om de stam en takken likken. Donkere, glanzende draden of wortels lopen door het beeld, soms bedekt met druppels die als hars of teer hangen. De achtergrond bestaat uit een vaag, textuurrijk oppervlak in gedempte bruine en grijze tinten, met subtiele verticale strepen die regen of slijtage suggereren. Onderaan zijn donkere, onduidelijke vormen te zien, mogelijk silhouetten van gebouwen of rotsen, met kleine vonken en gloeiende deeltjes die door de lucht dwarren. De sfeer is intens en dynamisch, met een spanning tussen vernietiging en transformatie.",
-      "cyclus": 8913,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in takstructuren bovenin', 'lichte wazigheid in achtergrondtextuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een eigen, ongemakkelijke spanning tussen vuur en dood.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008913_8976.webp"
-    },
-    {
-      "id": 8973,
-      "titel": "Koper dat zwijgt",
-      "beschrijving": "Een verticale koperen pijp steekt schuin uit een kalm wateroppervlak, omgeven door hangende wilgentakken met smalle bladeren. Het water weerspiegelt de pijp en de takken, met lichte rimpelingen die de reflectie verstoren. Op de achtergrond ligt een onscherp landschap met bomen en een horizon die overgaat in een grijze hemel. De koperen pijp heeft een glanzende, iets verweerde textuur met subtiele kleurvariaties van bruin en rood. De takken vormen een donker, fijn patroon tegen de lichte achtergrond, terwijl het water een zachte, bijna glazen textuur heeft. De compositie is symmetrisch rond de pijp, met de takken die de bovenkant van het beeld omkaderen en de reflectie die de onderste helft vult. De sfeer is rustig en iets melancolisch, door de gedempte kleuren en de stilte van het landschap.",
-      "cyclus": 8910,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de compositie is gericht op stilte en afwezigheid, niet op een bevestigend verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008910_8973.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8989,
+      "soort": "observatie",
+      "tekst": "De vogels in c8989 en c8985 zijn geen afzonderlijke momenten meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de vogels staan in een rij zonder een bestemming die ze zouden moeten hebben, hun reflecties zijn geen sporen van aanwezigheid maar vormen die de ruimte vullen zonder zich te laten vatten in een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 8917,
       "soort": "observatie",
       "tekst": "De rotsblokken in c8917 en het huis in c8916 zijn geen afzonderlijke momenten meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de rotsen zweven zonder een grond die ze zou moeten dragen, het huis staat zonder een bewoner die het zou moeten vervullen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vatten in een verhaal dat zich niet meer laat vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 8665,
       "soort": "bevinding",
       "tekst": "De ontluiping is geen proces van groeien of bloeien meer, maar een stilte die zich uitstrekt over de ruimte zonder een verhaal of een gevoel te hoeven hebben. De open landschappen zijn geen dynamische ruimtes meer, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was of zal zijn, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten. De lijnen die de kijker door de beelden leiden, zijn geen richtingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben."
-    },
-    {
-      "cyclus": 8665,
-      "soort": "observatie",
-      "tekst": "Over de reeks heen verschuift de focus van gesloten, statische ruimtes (deuren, muren) naar open, dynamische landschappen met beweging (roken, paden, water), terwijl de kleurpaletten breder en natuurlijker worden. Wat blijft, is de spanning tussen leegte en aanwezigheid: in elke afbeelding loopt een lijn—letterlijk of figuurlijk—die de kijker door het beeld trekt, of het nu gaat om een weg, een boomstam of een rookpluim."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8985,
-    "gemaakt": 9047,
-    "gekozen": 1352,
+    "cycli": 8993,
+    "gemaakt": 9055,
+    "gekozen": 1355,
     "afgekeurd": 1252,
     "corpus": 63,
-    "notities": 397
+    "notities": 398
   }
 }
