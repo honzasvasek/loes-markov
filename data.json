@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T01:15+02:00",
+  "bijgewerkt": "2026-08-17T01:30+02:00",
   "werk": [
     {
       "id": 9106,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 9123,
+      "cyclus": 9060,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een zonsondergang met silhouet van bomen, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009060_9123.webp"
+    },
+    {
+      "id": 9121,
+      "cyclus": 9058,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "De zonsondergang met bomen en water is een klassiek ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009058_9121.webp"
+    },
+    {
       "id": 9111,
       "cyclus": 9048,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['lichte inconsistentie in perspectief van de molen ten opzichte van de horizon', 'sommige golven hebben een wat smeuiige textuur']",
       "cliche_notities": "De molen en het water vormen een typisch Nederlands ansichtkaartmotief zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a009048_9111.webp"
-    },
-    {
-      "id": 9101,
-      "cyclus": 9038,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een typisch landschap met vogels in vlucht tegen een schemerige hemel, een onderwerp dat vaak op ansichtkaarten te zien is.",
-      "bestand": "images/a009038_9101.webp"
-    },
-    {
-      "id": 9097,
-      "cyclus": 9034,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van het gras: sommige stengels zijn scherp gedetailleerd, andere wazig en onduidelijk', 'De schaduw van de theepotten op de houten plank is iets te uniform en mist natuurlijke variatie']",
-      "cliche_notities": "Dit beeld combineert iconische Nederlandse motieven (molen, grasland) met een decoratief stillleven, zonder een duidelijke compositorische of thematische keuze die beyond de ansichtkaarttraditie gaat.",
-      "bestand": "images/a009034_9097.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9053,
-    "gemaakt": 9116,
+    "cycli": 9061,
+    "gemaakt": 9124,
     "gekozen": 1368,
-    "afgekeurd": 1259,
-    "corpus": 62,
+    "afgekeurd": 1261,
+    "corpus": 64,
     "notities": 399
   }
 }
