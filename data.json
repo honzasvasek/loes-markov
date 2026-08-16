@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T03:15+02:00",
+  "bijgewerkt": "2026-08-16T03:30+02:00",
   "werk": [
+    {
+      "id": 8544,
+      "titel": "Druppel die keuzes maakt",
+      "beschrijving": "Twee muren vormen een hoek: links een roze muur met subtiele donkere vlekken, rechts een groene muur met een enkele, glanzende druppel die naar beneden loopt. De vloer is bruin en draagt vier voorwerpen: een oranje bol, twee gele schijfjes en een donkerrode cilinder, elk met een schaduwtje. De randen van de muren en de vloer zijn ongelijkmatig geschilderd, met zichtbare penseelstreken. De witte achtergrond omlijst het geheel.",
+      "cyclus": 8481,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008481_8544.webp"
+    },
+    {
+      "id": 8539,
+      "titel": "Goot die zwijgt",
+      "beschrijving": "Een schuine, donkere dakgoot loopt van linksboven naar rechtsonder, met een onregelmatige, wat verweerde textuur. Onder de goot, tegen een egale, lichte muur, loopt een smalle, golvende lijn die lijkt op een vage, donkere spoor of een dunne rookwolk. De lijn is niet scherp en vervloeit geleidelijk met de achtergrond, alsof hij in de lucht hangt of zachtjes beweegt. De compositie is minimalistisch, met veel lege ruimte rond de lijn en de goot, wat een gevoel van stilte en afwezigheid versterkt. De kleuren zijn beperkt tot grijstinten, van donkergrijs tot bijna wit, wat bijdraagt aan de sobere, bijna ethere sfeer.",
+      "cyclus": 8476,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008476_8539.webp"
+    },
     {
       "id": 8528,
       "titel": "Rook waar de vogels zwijgen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008434_8497.webp"
-    },
-    {
-      "id": 8493,
-      "titel": "Gras dat ademt in waterverf",
-      "beschrijving": "Twee verticale banen gras, gescheiden door een smalle, onregelmatige witte spleet, domineren het beeld. Het gras is geschilderd met fijne, puntige bladeren in groene, geelgroene en donkergroene tinten, met hier en daar bruine en donkerpaarse vlekken die vochtigheid of schaduw suggereren. De randen van de grasbanen zijn ongelijkmatig, met watervlekken en gespatten die de indruk van een waterverftechniek geven. Kleurrijke druppels en kleine donkere stippen zijn willekeurig verspreid over het gras en de achtergrond, die bestaat uit een lichte, textuurrijke witte ondergrond met subtiele groene en bruine overgangen. De compositie is asymmetrisch, met de rechter Grasbaan iets voller en dichter dan de linker, die meer ruimte laat tussen de bladeren. De sfeer is rustig en natuurlijk, met een focus op de delicate details van het gras en de organische vormen van de omringende textuur.",
-      "cyclus": 8430,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet gericht op een toeristisch effect.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008430_8493.webp"
-    },
-    {
-      "id": 8490,
-      "titel": "Gescheurde horizon",
-      "beschrijving": "Twee zwart-wit prenten liggen op een wit oppervlak. De bovenste toont een donker houten schuur met een schuin dak, vier ramen en een open deur waar een plankenloopbrug vanaf loopt. Rechts van de schuur staat een ronde, gestreepte put met een houten hek eromheen, en achteraan een wateroppervlak met golven en een donkere horizonlijn. De onderste prent heeft een zwarte lijst en toont een wilgentype boom met hangende takken en smalle bladeren, omringd door gras en water met kleine donkere vlekken die drijven. Achter de boom is een donkere heuvel met bomen en een klein huisje zichtbaar. Een gescheurde rand loopt diagonaal van de bovenrechterhoek naar beneden, waarbij de bovenste prent deels de onderste bedekt. Beide beelden hebben een gestileerde, platte uitstraling met scherpe lijnen en weinig details.",
-      "cyclus": 8427,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van het huis op de achtergrond, lichte wazigheid in de bladeren van de wilg",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de focus op de wilg en de lege ruimte, geen typisch iconisch onderwerp",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008427_8490.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 8480,
-    "gemaakt": 8543,
-    "gekozen": 1267,
+    "cycli": 8488,
+    "gemaakt": 8551,
+    "gekozen": 1269,
     "afgekeurd": 1173,
     "corpus": 66,
     "notities": 389
