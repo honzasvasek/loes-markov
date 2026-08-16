@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T18:30+02:00",
+  "bijgewerkt": "2026-08-16T18:45+02:00",
   "werk": [
     {
       "id": 8942,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 8948,
+      "cyclus": 8885,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een neutrale, bijna onpersoonlijke gang zonder duidelijke compositorische keuze.",
+      "bestand": "images/a008885_8948.webp"
+    },
+    {
+      "id": 8946,
+      "cyclus": 8883,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
+      "bestand": "images/a008883_8946.webp"
+    },
+    {
       "id": 8938,
       "cyclus": 8875,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch voorjaarsschilderij van een kersenbloesemtboom met decoratief licht en een klassieke compositie, zonder duidelijke persoonlijke of conceptuele keuzes.",
       "bestand": "images/a008875_8938.webp"
-    },
-    {
-      "id": 8929,
-      "cyclus": 8866,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (planten)', 'inconsistent perspectief (daken)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Aziatische architectuur en decoratieve planten, zonder eigen compositorische keuze.",
-      "bestand": "images/a008866_8929.webp"
-    },
-    {
-      "id": 8923,
-      "cyclus": 8860,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch landschap (zonsondergang over water met rotsen) met decoratief licht en een klassieke compositie, zonder duidelijke persoonlijke of conceptuele keuze.",
-      "bestand": "images/a008860_8923.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8882,
-    "gemaakt": 8944,
+    "cycli": 8886,
+    "gemaakt": 8949,
     "gekozen": 1336,
-    "afgekeurd": 1224,
+    "afgekeurd": 1226,
     "corpus": 63,
     "notities": 396
   }
