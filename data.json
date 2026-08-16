@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T15:45+02:00",
+  "bijgewerkt": "2026-08-16T16:00+02:00",
   "werk": [
     {
       "id": 8861,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8879,
+      "cyclus": 8816,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde karakters en onleesbare woorden', 'inconsistent lettertype en uitlijning']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst als formeel element.",
+      "bestand": "images/a008816_8879.webp"
+    },
+    {
       "id": 8863,
       "cyclus": 8800,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "De molens en kustlijn vormen een iconisch Nederlands landschap zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a008797_8860.webp"
-    },
-    {
-      "id": 8850,
-      "cyclus": 8787,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het zand bij de horizon, waar het overgaat in de achtergrond', 'Subtiele halo rond de golven waar het water de lucht raakt']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch strandlandschap met een perfecte balans tussen natuur en stedelijke achtergrond, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008787_8850.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8815,
-    "gemaakt": 8878,
+    "cycli": 8821,
+    "gemaakt": 8884,
     "gekozen": 1321,
-    "afgekeurd": 1214,
-    "corpus": 64,
+    "afgekeurd": 1215,
+    "corpus": 63,
     "notities": 395
   }
 }
