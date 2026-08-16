@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T02:30+02:00",
+  "bijgewerkt": "2026-08-16T02:45+02:00",
   "werk": [
+    {
+      "id": 8518,
+      "titel": "Druppels tussen twee werelden",
+      "beschrijving": "Een verticaal gescheurde lijn loopt door het midden, waarbij links een zachtblauwe, textuurrijke vlak zich uitstrekt en rechts een rozeachtig-rode textuur. Langs de scheur bevinden zich witte, ronde vlekken van verschillende groottes, alsof ze door de scheur heen druppen. De blauwe kant heeft een gladde, bijna waterige uitstraling, terwijl de roze kant een korreliger, papierachtige textuur heeft. De witte vlekken vormen een onregelmatige, organische rand tussen de twee kleuren, met enkele grotere druppels die dichter bij de scheur liggen en kleinere die zich uitstrekken naar de blauwe kant. De compositie is minimalistisch, met een sterke focus op de contrasten tussen kleur, textuur en vorm.",
+      "cyclus": 8455,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met subtiele spanning tussen kleuren en textuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008455_8518.webp"
+    },
+    {
+      "id": 8513,
+      "titel": "Waar het ijs zwijgt",
+      "beschrijving": "Een scherpe, witte spleet loopt diagonaal door een donkerblauwe, korrelige oppervlakte, met aan weerskanten subtiele hoogteverschillen en kleine, onregelmatige brokjes die de textuur verstoren. De randen van de spleet zijn ongelijkmatig, met hier en daar een scherp aflopende rand en daar anders een gladdere overgang. Donkere schaduwen benadrukken de diepte van de scheur, terwijl lichtere blauwe tinten aan de randen een gevoel van transparantie suggereren. Kleinere barstjes vertakken zich vanaf de hoofdspleet, en verspreide, glanzende deeltjes liggen verspreid over het oppervlak, alsof ze uit de scheur zijn gekomen. De algehele sfeer is koud en statisch, met een focus op de contrasten tussen glad en ruw, licht en donker.",
+      "cyclus": 8450,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008450_8513.webp"
+    },
     {
       "id": 8504,
       "titel": "Rood gras, verdwenen doorgangen",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008420_8483.webp"
-    },
-    {
-      "id": 8479,
-      "titel": "Stralen door de stilte",
-      "beschrijving": "Twee scherpe, verticale stralen snijden door een donkere, gestreepte hemel, omgeven door wazige, donkere vormen die aan wolken of heuvels denken laten. Onderin loopt een golvend landschap met donkere, bolle structuren en lichtere, kronkelende lijnen die aan water of paden doen denken. Witte vlekken en stippen verspreiden zich door de bovenste helft, alsof ze sterren of vonken voorstellen. De stralen lopen door het midden, waarbij de linkerstraal breder en helderder is dan de rechter, die dunner en vaagner wordt naarmate hij omhoog gaat. Donkere, onregelmatige vormen aan de horizon suggereren een kustlijn of bergen, terwijl de onderste laag een mix is van gladde en getextureerde vlakken met kleine, donkere details die als stenen of putten kunnen worden gezien. De algehele sfeer is donker en mysterieus, met een sterke contrast tussen licht en donker.",
-      "cyclus": 8416,
-      "tech_score": 8.0,
-      "tech_notities": "subtiele inconsistenties in textuurweergave (bovenste helft vs. onderste helfd), lichte vervorming in de overgang tussen horizon en lucht",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008416_8479.webp"
-    },
-    {
-      "id": 8476,
-      "titel": "Krassen in de stilte",
-      "beschrijving": "Grijze en roze vlakken vullen het beeld, doorsneden door donkere, onregelmatige lijnen die als takken of krassen door de compositie lopen. De grijze achtergrond bestaat uit gelaagde, ongelijkmatige penseelstreken, terwijl de roze gebieden gladder en vlakker aangebracht zijn. Donkere, bijna zwarte vormen en stippen verspreiden zich over het doek, soms als losse druppels, soms als onduidelijke vormen die aan bladeren of schaduwen doen denken. De textuur is ruw en drie-dimensionaal, met opgaande verf die een gevoel van beweging en onrust creëert. De lijnen en vormen lijken willekeurig geplaatst, maar vormen samen een dynamisch patroon dat de blik door het beeld laat zwerven.",
-      "cyclus": 8413,
-      "tech_score": 8.0,
-      "tech_notities": "Enkele lichte vervormingen in de takken, minimale inconsistenties in textuur van de achtergrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, compositorische keuzes zijn abstract en niet-obvious",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008413_8476.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8524,
+      "cyclus": 8461,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief']",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van huisjes in een landschap met decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a008461_8524.webp"
+    },
     {
       "id": 8516,
       "cyclus": 8453,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen taal.",
       "bestand": "images/a008448_8511.webp"
-    },
-    {
-      "id": 8509,
-      "cyclus": 8446,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in boomstructuren (links/rechts), lichte wazigheid in achtergrondbomen",
-      "cliche_notities": "Typisch ansichtkaartmotief: serene natuur met zonsondergang, stroompje en bloemen, zonder onverwachte compositorische keuzes",
-      "bestand": "images/a008446_8509.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8459,
-    "gemaakt": 8522,
-    "gekozen": 1263,
-    "afgekeurd": 1170,
-    "corpus": 66,
+    "cycli": 8466,
+    "gemaakt": 8528,
+    "gekozen": 1265,
+    "afgekeurd": 1171,
+    "corpus": 65,
     "notities": 389
   }
 }
