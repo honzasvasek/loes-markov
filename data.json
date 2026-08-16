@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T08:15+02:00",
+  "bijgewerkt": "2026-08-16T08:30+02:00",
   "werk": [
+    {
+      "id": 8684,
+      "titel": "Rode aderen onder oranje druppels",
+      "beschrijving": "Een tak met langwerpige bladeren, getekend in grijstinten met rode aderen, ligt schuin over een textuurrijk, beige vlak dat doet denken aan papier of hout. Bovenin loopt een gladde, oranje massa met druppelvormige uitlopers over de rand, die de bladeren gedeeltelijk bedekt. De bladeren hebben fijne, parallelle lijnen die de textuur nabootsen, en de schaduwen eronder geven diepte. De compositie is asymmetrisch, met de tak die van linksboven naar rechtsonder loopt en het oranje element dat de bovenkant domineert.",
+      "cyclus": 8621,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de diagonale scheiding en de contrasten tussen de gedetailleerde bladeren en de lege ruimte, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008621_8684.webp"
+    },
+    {
+      "id": 8681,
+      "titel": "Wit dat ontsnapt aan het hout",
+      "beschrijving": "Een houten kist met versleten, gekerfde planken vormt een hoekige ruimte waar een glanzende, witte substantie langzaam uit vloeit. De substantie heeft een gladde, bijna viskeuze textuur en volgt de contouren van het hout, met zachte golven en een smalle, opwaartse straaltje dat zich uitstrekt naar een van de randen. Kleine luchtbelletjes en subtiele schaduwen geven de vloeistof diepte, terwijl de achtergrond van donkere, textuurrijke houtvezels het contrast versterkt. De compositie is strak en gericht, met de vloeistof als centraal element dat de harde lijnen van het hout doorbreekt.",
+      "cyclus": 8618,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, dynamische vorm binnen een houten kader, wat geen ansichtkaart-gevoel uitstraalt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008618_8681.webp"
+    },
     {
       "id": 8672,
       "titel": "Vlammen die meedrijven met stilte",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008569_8632.webp"
-    },
-    {
-      "id": 8625,
-      "titel": "Rook en beton",
-      "beschrijving": "Een hoop donkere, onregelmatige houtblokken en rotsen ligt op een betonnen oppervlak, omgeven door fijn grind en kleine stenen. Rook stijgt op vanuit de hoop en verspreidt zich naar een achtergrond met een modern gebouw, voorzien van een rasterachtige gevel en rechthoekige ramen. De betonnen rand in het voorperspectief vormt een scherpe hoek en scheidt de hoop van de kijker. De scène is monochroom, met grijstinten die de textuur van het hout, de steen en de rook benadrukken. De rook geeft een gevoel van beweging, terwijl de rest van het beeld statisch en rustig aanvoelt.",
-      "cyclus": 8562,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongemakkelijke, niet-decoratieve scène zonder typische ansichtkaart-elementen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008562_8625.webp"
-    },
-    {
-      "id": 8621,
-      "titel": null,
-      "beschrijving": "Donkere, rechthoekige velden vormen een raster, doorsneden door smalle, lichtgrijze paden. Drie velden vallen op door hun roodachtige tint, met subtiele variaties in textuur en intensiteit. Het rood is niet egaal: hier en daar zijn donkere vlekken of verbleekte zones zichtbaar, alsof het materiaal aan het oppervlak ligt te brokkelen. De overige velden hebben een uniforme, korrelige structuur, donkergrijs tot zwart, met sporen van slijtage of vocht. Kleine stenen en losse klompen grond liggen verspreid langs de randen, waar de paden de velden scheiden. De compositie is strikt geometrisch, maar de onregelmatigheden in kleur en textuur breken de symmetrie. Geen beweging, geen leven—alleen de stilte van een landschap dat lijkt te wachten op iets dat niet komt.",
-      "cyclus": 8558,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet gericht op een bevestigend effect.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008558_8621.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8690,
+      "cyclus": 8627,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch landschap met zonsondergang en bomen in een symmetrische opstelling, typisch voor een toeristische ansichtkaart.",
+      "bestand": "images/a008627_8690.webp"
+    },
     {
       "id": 8682,
       "cyclus": 8619,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met eigen standpunt.",
       "bestand": "images/a008607_8670.webp"
-    },
-    {
-      "id": 8662,
-      "cyclus": 8599,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, ambigue compositie zonder duidelijke bedoeling.",
-      "bestand": "images/a008599_8662.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8623,
-    "gemaakt": 8686,
-    "gekozen": 1290,
-    "afgekeurd": 1191,
+    "cycli": 8631,
+    "gemaakt": 8693,
+    "gekozen": 1292,
+    "afgekeurd": 1192,
     "corpus": 66,
     "notities": 390
   }
