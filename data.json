@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-17T00:45+02:00",
+  "bijgewerkt": "2026-08-17T01:00+02:00",
   "werk": [
+    {
+      "id": 9095,
+      "titel": "Waar blijft de oorsprong?",
+      "beschrijving": "Een onregelmatige steen drijft in een bad van bruinrood water, omringd door concentrische cirkels die zich uitstrekken tot aan de randen van het beeld. De steen heeft een ruwe textuur met witte, beige en donkerbruine plekken, en reflecteert zwak het licht. Het water heeft een matte, bijna vervuilde glans, met subtiele variaties in oranje en bruin. Kleine, glinsterende druppels en lichte schaduwen geven het water een dynamische, maar rustige beweging. De achtergrond is egaal en vervaagt geleidelijk, waardoor de steen en de rimpelingen centraal staan.",
+      "cyclus": 9032,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 10.0,
+      "gekozen": 1,
+      "bestand": "images/w009032_9095.webp"
+    },
+    {
+      "id": 9092,
+      "titel": "Verloren pootjes in roze water",
+      "beschrijving": "Twee vleugels met donkerrode, doorschijnende veren vullen de bovenste helft, verbonden door een slanke, gepatroneerde staart die over een rozeachtig vlak loopt. Dat vlak, met een zachte, waterverfachtige textuur, vormt een schuine horizon waaronder donkerdere, slanke pootjes met gekromde haken hangen. De achtergrond is een effen, lichtbeige tint die de vormen omhult zonder details. Schaduwen onder het vlak en de pootjes geven diepte, terwijl de kleuren subtiel overlopen van roodbruin naar zachtroze. De compositie is verticaal georiënteerd, met de vleugels die zich uitstrekken naar de randen en de staart die een S-vorm trekt door het midden.",
+      "cyclus": 9029,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009029_9092.webp"
+    },
+    {
+      "id": 9089,
+      "titel": "Vogel in de werveling",
+      "beschrijving": "Zwart-wit golven en wolken vullen het beeld in een dynamische, bijna chaotische werveling. De vormen zijn opgebouwd uit fijne, parallelle lijnen die de indruk wekken van beweging en textuur, met donkere en lichte contrasten die diepte suggereren. Witte randen omlijnen sommige golven en wolken, waardoor ze scherp afsteken tegen de donkerdere achtergrond. In het midden van de compositie zweeft een klein, donker vogel silhouet, met gespreide vleugels, alsof het door de wervelwind wordt meegesleurd. De achtergrond bestaat uit subtiele, schuine lijnen die een gevoel van ruimte en onrust uitstralen, terwijl de voorgrond domineerd wordt door de overvloedige, bijna overweldigende aanwezigheid van de golven en wolken. Het geheel straalt een intense, bijna onrustbarende sfeer uit, zonder een duidelijk middelpunt of rustpunt.",
+      "cyclus": 9026,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; de golven en wolken zijn geen iconisch motief en de compositie heeft een eigen, dynamische spanning zonder decoratief perfect licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009026_9089.webp"
+    },
     {
       "id": 9086,
       "titel": "Vezels in de scheur",
@@ -91,48 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008996_9059.webp"
-    },
-    {
-      "id": 9052,
-      "titel": "Vijfde vogel zoekt weg",
-      "beschrijving": "Vijf witgrijze vogels met oranje snavels en poten staan in een natte, bruine polder. Vier vogels vormen een lijn aan de waterkant, hun spiegeling zichtbaar in het kalme water. Een vijfde vogel staat dichterbij, iets schuin ten opzichte van de anderen, met een lichte schaduw die over het water glijdt. Achter de vogels loopt een houten dam met verticale planken, deels in onscherpe achtergrond. Het landschap is kaal, zonder groen, en de lucht is niet zichtbaar. Het water reflecteert de vogels en de omgeving met een lichte glans, terwijl de grond rondom droog en korrelig is.",
-      "cyclus": 8989,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming van reflecties in water', 'kleine inconsistentie in pootjes van vogel rechtsboven']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of typisch toeristisch motief, maar een onopzettelijke momentopname van vogels in een polderlandschap.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w008989_9052.webp"
-    },
-    {
-      "id": 9051,
-      "titel": "Wat blijft van de aarde",
-      "beschrijving": "Twee handen raken een donkergrijze, onregelmatige steen met witte en goudkleurige aders en vlekken. Rond de steen lopen twee gebogen houten latten, donkerbruin met zwarte banden, die een ovale vorm vormen. Zand, lichtbeige met grijze en bruine tinten, omhult de steen en de latten, met verspreide kleine stenen en groene grassprietjes. De achtergrond is een vaag, lichtgrijze hemel met zachte witte wolken. De handen hebben een rozeachtige huidskleur, met zichtbare vingers en nagels. Een dunne, doorschijnende draad loopt van de bovenste hand naar de steen.",
-      "cyclus": 8988,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van rots', 'lichte wazigheid in achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongemakkelijk en niet-bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008988_9051.webp"
-    },
-    {
-      "id": 9048,
-      "titel": "Vier reflecties in een vergeten waterpiegel",
-      "beschrijving": "Vier gansvogels staan in een rij in ondiep water, hun reflecties zichtbaar in de glanzende oppervlakte. De vogels hebben verschillende kleuringen: twee zijn lichtgrijs met bruine nekken, één is donkergrijs met een zwarte kop en één is wit met een lichtgrijze rug. Hun oranje poten en snavels contrasteren met de gedempte kleuren van het water, dat overgaat in een vaag, nevelig landschap met zachte groene en blauwe tinten. De achtergrond is onscherp, met suggesties van bomen en een horizon die oplossen in een lichte, mistige lucht. Het water heeft subtiele rimpelingen en drijvend afval, zoals bladeren. De compositie is symmetrisch, met de vogels centraal geplaatst en de ruimte erboven en eronder evenwichtig verdeeld. De sfeer is kalm en verlaten, met een gevoel van stilte en afwezigheid van beweging, behalve de lichte beweging in het water.",
-      "cyclus": 8985,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie en sfeer zijn niet typisch ansichtkaartmateriaal; de gansfiguren staan in een ongemakkelijke, bijna verontrustende rij, zonder iconische achtergrond of decoratief licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008985_9048.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9101,
+      "cyclus": 9038,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een typisch landschap met vogels in vlucht tegen een schemerige hemel, een onderwerp dat vaak op ansichtkaarten te zien is.",
+      "bestand": "images/a009038_9101.webp"
+    },
     {
       "id": 9097,
       "cyclus": 9034,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een huis met een rode dak en een boom in een groen landschap, met decoratief perfect licht en geen duidelijke compositorische keuze.",
       "bestand": "images/a009007_9070.webp"
-    },
-    {
-      "id": 9067,
-      "cyclus": 9004,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, zonder originele compositorische keuzes of een uniek standpunt.",
-      "bestand": "images/a009004_9067.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9037,
-    "gemaakt": 9100,
-    "gekozen": 1363,
-    "afgekeurd": 1257,
-    "corpus": 62,
+    "cycli": 9046,
+    "gemaakt": 9108,
+    "gekozen": 1366,
+    "afgekeurd": 1258,
+    "corpus": 63,
     "notities": 398
   }
 }
