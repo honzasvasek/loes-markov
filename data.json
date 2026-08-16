@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T06:15+02:00",
+  "bijgewerkt": "2026-08-16T06:30+02:00",
   "werk": [
+    {
+      "id": 8625,
+      "titel": "Rook en beton",
+      "beschrijving": "Een hoop donkere, onregelmatige houtblokken en rotsen ligt op een betonnen oppervlak, omgeven door fijn grind en kleine stenen. Rook stijgt op vanuit de hoop en verspreidt zich naar een achtergrond met een modern gebouw, voorzien van een rasterachtige gevel en rechthoekige ramen. De betonnen rand in het voorperspectief vormt een scherpe hoek en scheidt de hoop van de kijker. De scène is monochroom, met grijstinten die de textuur van het hout, de steen en de rook benadrukken. De rook geeft een gevoel van beweging, terwijl de rest van het beeld statisch en rustig aanvoelt.",
+      "cyclus": 8562,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongemakkelijke, niet-decoratieve scène zonder typische ansichtkaart-elementen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008562_8625.webp"
+    },
+    {
+      "id": 8621,
+      "titel": null,
+      "beschrijving": "Donkere, rechthoekige velden vormen een raster, doorsneden door smalle, lichtgrijze paden. Drie velden vallen op door hun roodachtige tint, met subtiele variaties in textuur en intensiteit. Het rood is niet egaal: hier en daar zijn donkere vlekken of verbleekte zones zichtbaar, alsof het materiaal aan het oppervlak ligt te brokkelen. De overige velden hebben een uniforme, korrelige structuur, donkergrijs tot zwart, met sporen van slijtage of vocht. Kleine stenen en losse klompen grond liggen verspreid langs de randen, waar de paden de velden scheiden. De compositie is strikt geometrisch, maar de onregelmatigheden in kleur en textuur breken de symmetrie. Geen beweging, geen leven—alleen de stilte van een landschap dat lijkt te wachten op iets dat niet komt.",
+      "cyclus": 8558,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet gericht op een bevestigend effect.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008558_8621.webp"
+    },
     {
       "id": 8612,
       "titel": "Vogels in het golvende gras",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008499_8562.webp"
-    },
-    {
-      "id": 8561,
-      "titel": "Regen die blijft hangen in gras",
-      "beschrijving": "Grijs getekend gras en slanke stengels met donkere, bijna zwarte penseelstrepen, verspreid over een textuurrijk, lichtgrijs vlak. Dunne, verticale regenstrepen lopen door het beeld, met subtiele donkere vlekken die natuureffecten suggereren. Een schuine, vaag getekende lijn snijdt diagonaal door het midden, met kleine donkere knobbels erop. Zwarte en donkergrijze spetters en vage verfvlakken omringen het gras, terwijl de achtergrond een ongelijkmatige, korrelige structuur heeft. De compositie is asymmetrisch, met lege ruimtes die de aandacht naar de details van het gras en de regen leiden.",
-      "cyclus": 8498,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008498_8561.webp"
-    },
-    {
-      "id": 8553,
-      "titel": "Oranje regen op witte sporen",
-      "beschrijving": "Een kronkelende weg snijdt door een besneeuwd landschap, omzoomd door donkere bomen en struiken. De horizon wordt gedomineerd door een levendige oranje lucht, met zachte witte wolken erboven. Sneeuw bedekt de grond, met hier en daar donkergroen gras dat door de witte laag steekt. Regen druipt zachtjes uit de wolken, zichtbaar als fijne lijntjes tegen de oranje achtergrond. De weg heeft sporen van banden, alsof er recent iets overheen is gegaan. Rechts en links van de weg liggen kleine rotsen en keien, deels bedekt met sneeuw. De sfeer is rustig, met een subtiele spanning tussen de warme kleuren van de lucht en de koude, lege sneeuw.",
-      "cyclus": 8490,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de weg (verdwijnpunt te laag)', 'wazige overgang tussen sneeuw en bomen aan horizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap, maar een ongemakkelijke compositie met schuine lijnen en onbalans tussen leegte en detail",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008490_8553.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8636,
+      "cyclus": 8573,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in houttextuur ladder vs. omringend hout', 'lichte wazigheid in achtergrondgras']",
+      "cliche_notities": "Molen en tarwe in een klassieke, decoratieve compositie zonder onverwachte invalshoek",
+      "bestand": "images/a008573_8636.webp"
+    },
     {
       "id": 8627,
       "cyclus": 8564,
@@ -150,15 +159,6 @@
       "tech_notities": "['kleine vervorming in takken bovenste deel', 'lichte inconsistentie in perspectief huizen achtergrond']",
       "cliche_notities": "Typisch ansichtkaartmotief: gracht met huizen en boom in herfstkleuren, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a008561_8624.webp"
-    },
-    {
-      "id": 8623,
-      "cyclus": 8560,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een onopzettelijke compositie met subtiele details.",
-      "bestand": "images/a008560_8623.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8569,
-    "gemaakt": 8631,
-    "gekozen": 1280,
-    "afgekeurd": 1183,
+    "cycli": 8577,
+    "gemaakt": 8639,
+    "gekozen": 1282,
+    "afgekeurd": 1184,
     "corpus": 66,
     "notities": 390
   }
