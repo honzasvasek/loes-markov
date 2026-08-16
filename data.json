@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-16T16:30+02:00",
+  "bijgewerkt": "2026-08-16T16:45+02:00",
   "werk": [
+    {
+      "id": 8896,
+      "titel": "Roest die zuchtte",
+      "beschrijving": "Een roestbruine, verticale staaf met een gebogen handvat aan de onderkant domineert het midden van het beeld. Twee asymmetrische, kromme uitsteeksels met kleine gaten steken aan weerszijden uit de staaf, die bedekt is met onregelmatige, donkerdere vlekken en kleine putjes. Een goudkleurige, rechthoekige plaat met vier schroeven bevindt zich net boven het handvat. De achtergrond is egaal crèmekleurig, zonder duidelijke textuur of details, waardoor het voorwerp scherp afsteekt. Schaduwen onder de uitsteeksels en het handvat geven diepte, terwijl de roesttextuur een ruwe, verweerde indruk maakt.",
+      "cyclus": 8833,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp (een roestige haak) is niet iconisch of decoratief, en de compositie heeft een eigen, minimalistische focus zonder bevestigend licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008833_8896.webp"
+    },
+    {
+      "id": 8894,
+      "titel": "Roest en vergetelheid",
+      "beschrijving": "Tegen een crèmekleurige achtergrond loopt een verticale, roestbruine metalen staaf met twee haakvormige uitsteeksels, waarvan het onderste breder en het bovenste smaller is. Bovenin bevindt zich een donkergrijze, cilindrische greep verbonden aan de staaf via een boogvormig deel. Achter de staaf lopen drie golvende, donkergrijze lijnen horizontaal, die een vaag water- of wolkenmotief suggereren. De staaf werpt een zachte, donkergrijze schaduw naar links, en de roestvlekken op het metaal hebben een onregelmatige, korrelige textuur. Rechtsonder is een klein, vierkant metaaldelen met schroeven zichtbaar, dat de staaf aan de achtergrond bevestigt.",
+      "cyclus": 8831,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (een roestige haak tegen een neutrale achtergrond) is niet iconisch en de compositie heeft een bewuste, niet-decoratieve spanning tussen leegte en detail.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008831_8894.webp"
+    },
+    {
+      "id": 8888,
+      "titel": "Wit dat blijft liggen",
+      "beschrijving": "Een verweerd houten schuur staat centraal in een verlaten landschap onder een bewolkte hemel. Voor de schuur ontsnapt een witte, romige vloeistof met blauwe en gele tinten in een dynamische, bijna levendige spatselbeweging, die over het droge gras en het zandige terrein kruipt. Rondom de vloeistof liggen verspreid oude voorwerpen: een donkere laars, een houten plank, een omgevallen emmer en wat afval. De achtergrond toont een houten hek en een rij bomen aan de horizon, terwijl de lucht gevuld is met zachte, wazige wolken in blauwe en grijze tinten. De sfeer is stil en verlaten, maar de spatselbeweging voegt een onverwachte dynamiek toe aan het tafereel.",
+      "cyclus": 8825,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van schuur (dak lijkt te steil ten opzichte van muren)', 'enkele wazige details in achtergrondbomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een verbeelding van ontbinding met persoonlijke compositorische keuzes (bijv. de melksplash als metaforisch element).",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008825_8888.webp"
+    },
     {
       "id": 8884,
       "titel": "Glimmend afval tussen prikkeldoorneren",
@@ -91,48 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008785_8848.webp"
-    },
-    {
-      "id": 8843,
-      "titel": "Roze met bijtende stiekumpjes",
-      "beschrijving": "Een roze vlak met subtiele textuur vult het beeld, doorsneden door donkere, onregelmatige lijnen die diagonaal en verticaal door de compositie lopen. De lijnen variëren in dikte en scherpte, sommige zijn korrelig en vaag, andere duidelijker en sterker getekend. Een van de lijnen vormt een hoekige, bijna pijlachtige vorm in de linkeronderhoek, terwijl andere lijnen willekeurig verspreid lijken, zonder duidelijke richting of patroon. De randen van het roze vlak zijn ongelijkmatig en iets lichter, alsof de kleur langzaam vervaagt naar een witte achtergrond. De sfeer is minimalistisch en abstract, met een focus op de spanning tussen de lege ruimte en de donkere, uitdrukkelijke strepen.",
-      "cyclus": 8780,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008780_8843.webp"
-    },
-    {
-      "id": 8831,
-      "titel": "Barst in het witte ding",
-      "beschrijving": "Een wit, glanzend voorwerp met een organische, amorf vorm rust op een tak met knoesten en kleine takjes. Het voorwerp heeft een gladde, bijna vochtige textuur en lijkt van keramiek of gepolijst plastic. Een duidelijke, onregelmatige barst loopt door het midden, waarbij de randen licht uit elkaar liggen. Aan de zijkant zit een smaller, bolvormig deel dat het voorwerp een asymmetrische, bijna levendige uitstraling geeft. De achtergrond is egaal grijs en zonder afleiding, waardoor het voorwerp en de tak scherp afsteken. De tak loopt diagonaal door het beeld en heeft een ruwe, natuurlijke textuur in contrast met de gladheid van het voorwerp.",
-      "cyclus": 8768,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de gebroken vorm en takken.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008768_8831.webp"
-    },
-    {
-      "id": 8828,
-      "titel": "Scheuren die ademen",
-      "beschrijving": "Een wit, glanzend sculpturaal object met bolvormige uitstulpingen en onregelmatige scheuren staat op een betonnen vloer tegen een effen muur. Rechts groeien donkergrijze, spitse bladeren uit het object, met lichtere randen en verticale aderen. Een spotlicht bovenaan werpt een heldere cirkel op het plafond en een schaduwwaaier van de bladeren op de vloer. De scheuren lopen in meanderende lijnen over de bolle vormen, die een vochtige glans hebben. De compositie is centraal geplaatst, met veel lege ruimte rondom, wat de focus op het object en de bladeren legt.",
-      "cyclus": 8765,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een unieke compositorische keuze met organische vormen en een ongemakkelijke schoonheid.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008765_8828.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8898,
+      "cyclus": 8835,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte onscherpte in de achtergrondbomen, maar geen duidelijke artefacten', 'Subtiele halo rond de zon, typisch voor diffusiemodellen bij hoog contrast']",
+      "cliche_notities": "Het beeld toont een iconische weg met zonsondergang en symmetrische bomenrij, typisch voor een toeristische ansichtkaart zonder duidelijke compositorische keuze.",
+      "bestand": "images/a008835_8898.webp"
+    },
     {
       "id": 8893,
       "cyclus": 8830,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde karakters en onleesbare woorden', 'inconsistent lettertype en uitlijning']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst als formeel element.",
       "bestand": "images/a008816_8879.webp"
-    },
-    {
-      "id": 8863,
-      "cyclus": 8800,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de wieken ten opzichte van de toren', 'Enkele details in de textuur van het hout zijn wat wazig']",
-      "cliche_notities": "Dit is een typisch ansichtkaartmotief: een Nederlandse molen in een realistische, decoratieve weergave zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008800_8863.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8833,
-    "gemaakt": 8896,
-    "gekozen": 1323,
-    "afgekeurd": 1216,
-    "corpus": 62,
+    "cycli": 8839,
+    "gemaakt": 8901,
+    "gekozen": 1326,
+    "afgekeurd": 1217,
+    "corpus": 63,
     "notities": 395
   }
 }
