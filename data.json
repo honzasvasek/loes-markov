@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-16T05:45+02:00",
+  "bijgewerkt": "2026-08-16T06:00+02:00",
   "werk": [
+    {
+      "id": 8612,
+      "titel": "Vogels in het golvende gras",
+      "beschrijving": "Een grasveld in groene en gele tinten vult het beeld, met lange, slanke grassprietjes die in verschillende hoogtes omhoog steken. In het midden onderin staat een donkergroene boom met prikkeldoorzichtige naalden, waar enkele heldergroene en gele bloemen tussen door steken. Verspreid over het veld bevinden zich zeven vogels met donkere vleugels en lichte buiken, sommige in vlucht, andere zittend of staand in het gras. De achtergrond wordt gevormd door een vaag, grijzig landschap met subtiele overgangen naar het gras. Donkere vlekjes en stippen zijn verspreid over het beeld, vooral in de linkerbovenhoek en rond de vogels. De sfeer is rustig en natuurgebonden, met een lichte korreligheid die het geheel een textuur geeft.",
+      "cyclus": 8549,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de vogelposities (sommige vogels lijken zwevend zonder duidelijke relatie tot het landschap)",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een natuurlijke, niet-iconische compositie met een focus op subtiele details en een ongemakkelijke schoonheid, geen toeristische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008549_8612.webp"
+    },
     {
       "id": 8605,
       "titel": "Druppels voor de val",
@@ -117,22 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008490_8553.webp"
-    },
-    {
-      "id": 8550,
-      "titel": "Schroeven in het water",
-      "beschrijving": "Een houten structuur met donkere, versleten planken en verspreide schroeven domineert de bovenste helft, waarbij roetachtige patronen en kleine, glanzende bolletjes de textuur verrijken. Onderaan golft een vloeistofachtig oppervlak in bruine en blauwe tinten, met sporen van rook die zich door het beeld kronkelen. Vier vogels met zwart-witte veren en subtiele oranje details zweven of zwemmen door dit landschap, omgeven door golvende lijnen en kleine, donkergroene bladeren. De randen van de compositie lopen over in een zandkleurige, korrelige textuur, terwijl de overgang tussen hout en vloeistof een onrustige, bijna smeltende sfeer uitstraalt.",
-      "cyclus": 8487,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de houten planken', 'lichte wazigheid in de rookachtige structuren']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigenzinnige, abstracte dynamiek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008487_8550.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8624,
+      "cyclus": 8561,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['kleine vervorming in takken bovenste deel', 'lichte inconsistentie in perspectief huizen achtergrond']",
+      "cliche_notities": "Typisch ansichtkaartmotief: gracht met huizen en boom in herfstkleuren, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008561_8624.webp"
+    },
+    {
+      "id": 8623,
+      "cyclus": 8560,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een onopzettelijke compositie met subtiele details.",
+      "bestand": "images/a008560_8623.webp"
+    },
     {
       "id": 8615,
       "cyclus": 8552,
@@ -141,24 +159,6 @@
       "tech_notities": "['lichte inconsistentie in perspectief van de brugreling aan de linkerkant', 'enkele bomen hebben onnatuurlijke, herhalende vormen']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een idyllisch dorp met kerk, gracht en brug in een decoratieve, harmonieuze compositie zonder duidelijke persoonlijke keuzes.",
       "bestand": "images/a008552_8615.webp"
-    },
-    {
-      "id": 8603,
-      "cyclus": 8540,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke leegte zonder duidelijke compositorische keuze.",
-      "bestand": "images/a008540_8603.webp"
-    },
-    {
-      "id": 8598,
-      "cyclus": 8535,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten, maar lichte inconsistentie in de horizonlijn (water/sky overgang iets te scherp)",
-      "cliche_notities": "Iconisch landschap met vogels in vlucht en eenzame figuur herinnert aan klassieke ansichtkaartcomposities zonder duidelijke persoonlijke invalshoek",
-      "bestand": "images/a008535_8598.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8557,
-    "gemaakt": 8619,
-    "gekozen": 1279,
-    "afgekeurd": 1180,
+    "cycli": 8562,
+    "gemaakt": 8625,
+    "gekozen": 1280,
+    "afgekeurd": 1182,
     "corpus": 66,
     "notities": 390
   }
