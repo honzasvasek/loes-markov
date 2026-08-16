@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T06:00+02:00",
+  "bijgewerkt": "2026-08-16T06:15+02:00",
   "werk": [
     {
       "id": 8612,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8627,
+      "cyclus": 8564,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst die geen duidelijke betekenis heeft.",
+      "bestand": "images/a008564_8627.webp"
+    },
+    {
       "id": 8624,
       "cyclus": 8561,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een onopzettelijke compositie met subtiele details.",
       "bestand": "images/a008560_8623.webp"
-    },
-    {
-      "id": 8615,
-      "cyclus": 8552,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van de brugreling aan de linkerkant', 'enkele bomen hebben onnatuurlijke, herhalende vormen']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een idyllisch dorp met kerk, gracht en brug in een decoratieve, harmonieuze compositie zonder duidelijke persoonlijke keuzes.",
-      "bestand": "images/a008552_8615.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8562,
-    "gemaakt": 8625,
+    "cycli": 8569,
+    "gemaakt": 8631,
     "gekozen": 1280,
-    "afgekeurd": 1182,
+    "afgekeurd": 1183,
     "corpus": 66,
     "notities": 390
   }
