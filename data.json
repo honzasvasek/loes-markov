@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-16T21:15+02:00",
+  "bijgewerkt": "2026-08-16T21:30+02:00",
   "werk": [
+    {
+      "id": 9007,
+      "titel": "Rook die blijft hangen in zand",
+      "beschrijving": "Een versleten, donker potje met onregelmatige randen staat centraal, gevuld met slanke, donkere grassprietjes die schuin omhoog steeken. Rook stijgt in een slanke, golvende kolom op vanuit het potje, verdwijnend in een vaag, korrelig landschap van zand en verspreide vegetatie. Donkere vlekken en spatten omringen het potje, alsof er iets is uitgespat of aan het ontbinden is. De achtergrond toont een onscherpe, verlaten omgeving met wat lijkt op houten structuren en een smalle, lichte weg die afbuigt. De sfeer is stil en verlaten, met een gevoel van verdwijnen en ontbinding.",
+      "cyclus": 8944,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte onnauwkeurigheid in de textuur van de rook (te glad/lineair)",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008944_9007.webp"
+    },
     {
       "id": 8996,
       "titel": "Wat blijft van de vlam?",
@@ -117,22 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008900_8963.webp"
-    },
-    {
-      "id": 8957,
-      "titel": "Viskeus bloed aan de muur",
-      "beschrijving": "Regendruppels dalen verticaal door een grijze, mistige lucht boven donker, onrustig water met kleine golven en sploetjes. Zes zwarte vogels vliegen in een diagonale lijn van linksboven naar rechtsonder, silhouet tegen de nevel. Rechts loopt een witte houten muur met verticale planken schuin naar beneden, met een donkere, natte tak die er tegen aan leunt. De tak heeft kleine, kale takjes en glinstert van het water. Oranje, viskeuze druppels lopen langs de muur en de tak, met sporen die in het hout en op een natte, donkere houten plank onderaan lopen. Een tak zonder bladeren steekt vanaf de muur naar linksboven, met dunne, uitgestrekte takjes die de regen doorsteken. De achtergrond vervaagt in een grijze, onduidelijke horizon waar land en water samenvallen.",
-      "cyclus": 8894,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend verhaal.",
-      "curriculum_score": 10.0,
-      "gekozen": 1,
-      "bestand": "images/w008894_8957.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9018,
+      "cyclus": 8955,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met douren in een kloof.",
+      "bestand": "images/a008955_9018.webp"
+    },
+    {
+      "id": 9016,
+      "cyclus": 8953,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vensterposities (linkerbovenste venster staat schuiner dan rechter)', 'lichte wazigheid in achtergrondboomwerk']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een rustig waterschap met architectonische details en een serene sfeer, zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a008953_9016.webp"
+    },
     {
       "id": 9014,
       "cyclus": 8951,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een vrouw in een bloesemtuintje met een theepot, gepaard gaand met decoratief perfect licht en een gebrek aan eigen compositorische keuzes.",
       "bestand": "images/a008951_9014.webp"
-    },
-    {
-      "id": 9004,
-      "cyclus": 8941,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een gefocuste voorstelling van een deur met tekst die een specifiek concept benoemt.",
-      "bestand": "images/a008941_9004.webp"
-    },
-    {
-      "id": 9001,
-      "cyclus": 8938,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten schuur in een woest landschap met perfecte gouden-uurverlichting en geen compositorische verrassingen.",
-      "bestand": "images/a008938_9001.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8952,
-    "gemaakt": 9014,
-    "gekozen": 1348,
-    "afgekeurd": 1242,
+    "cycli": 8958,
+    "gemaakt": 9020,
+    "gekozen": 1349,
+    "afgekeurd": 1244,
     "corpus": 63,
     "notities": 397
   }
