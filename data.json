@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T22:00+02:00",
+  "bijgewerkt": "2026-08-16T22:15+02:00",
   "werk": [
     {
       "id": 9027,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 9036,
+      "cyclus": 8973,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke combinatie van rook, tarwe en onleesbare tekens.",
+      "bestand": "images/a008973_9036.webp"
+    },
+    {
       "id": 9032,
       "cyclus": 8969,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een zonsondergang met silhouetten van bomen, een decoratief kleureneffect en een gebrek aan unieke compositorische keuzes.",
       "bestand": "images/a008968_9031.webp"
-    },
-    {
-      "id": 9028,
-      "cyclus": 8965,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met focus op textuur en ontbinding.",
-      "bestand": "images/a008965_9028.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8970,
-    "gemaakt": 9032,
+    "cycli": 8975,
+    "gemaakt": 9038,
     "gekozen": 1352,
-    "afgekeurd": 1248,
-    "corpus": 63,
+    "afgekeurd": 1249,
+    "corpus": 61,
     "notities": 397
   }
 }
