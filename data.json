@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T04:30+02:00",
+  "bijgewerkt": "2026-08-16T04:45+02:00",
   "werk": [
+    {
+      "id": 8582,
+      "titel": "Roze rook tussen de stenen",
+      "beschrijving": "Twee steile, grijze hellingen lopen schuin aan elkaar voorbij, gescheiden door een smalle, diepe kloof. Tussen de hellingen door stroomt een dichte, roze rook, die zich in golven uitstrekt en de ruimte tussen de rotsen vult. De hellingen zijn bedekt met fijn zand, losse stenen en wat droog, donker groen gras, met hier en daar een kleine, stekelige plant. De rotsen hebben een ruwe, onregelmatige textuur, met diepe groeven en scherpe randen. De rook heeft een zachte, wazige structuur en lijkt te bewegen, alsof ze langzaam door de kloof glijdt. De achtergrond is een egale, lichte hemel zonder details, wat de focus op de kloof en de rook legt. De compositie is dynamisch door de schuine lijnen van de hellingen en de stromende rook, terwijl de kleurencontrasten tussen het grijze landschap en de roze rook een sterke visuele spanning creëren.",
+      "cyclus": 8519,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk schuin en de roze rook voegt een onverklaarbaar element toe.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008519_8582.webp"
+    },
+    {
+      "id": 8575,
+      "titel": "Rotsen die luisteren naar de wind",
+      "beschrijving": "Een eencilige boom met donkere, uitgespreide takken domineert het midden van een uitgestrekt veld, omringd door droog, roze getint gras dat in de wind zwaait. De stam is massief en licht gekromd, met een donkere, bijna zwarte textuur die contrasteert met de zachte, rozerode achtergrond. In de verte liggen vaag zichtbare bomen en heuvels onder een egale, lichtgrijze hemel die overgaat in roze bij de horizon. Donkere, onregelmatige rotsen en stukken hout liggen verspreid rond de boom, terwijl het gras in de voorgrond scherp en gedetailleerd is, met individuele halmen die de textuur van het landschap benadrukken. De sfeer is stil en verlaten, met een dromerige, bijna surrealistische kleurpalet die de leegte van het landschap versterkt.",
+      "cyclus": 8512,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een unieke, niet-iconische compositie met een ongemakkelijke schoonheid die beyond een toeristische ansichtkaart gaat.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008512_8575.webp"
+    },
     {
       "id": 8562,
       "titel": "Het spoor van wat overbleef",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008463_8526.webp"
-    },
-    {
-      "id": 8518,
-      "titel": "Druppels tussen twee werelden",
-      "beschrijving": "Een verticaal gescheurde lijn loopt door het midden, waarbij links een zachtblauwe, textuurrijke vlak zich uitstrekt en rechts een rozeachtig-rode textuur. Langs de scheur bevinden zich witte, ronde vlekken van verschillende groottes, alsof ze door de scheur heen druppen. De blauwe kant heeft een gladde, bijna waterige uitstraling, terwijl de roze kant een korreliger, papierachtige textuur heeft. De witte vlekken vormen een onregelmatige, organische rand tussen de twee kleuren, met enkele grotere druppels die dichter bij de scheur liggen en kleinere die zich uitstrekken naar de blauwe kant. De compositie is minimalistisch, met een sterke focus op de contrasten tussen kleur, textuur en vorm.",
-      "cyclus": 8455,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met subtiele spanning tussen kleuren en textuur.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008455_8518.webp"
-    },
-    {
-      "id": 8513,
-      "titel": "Waar het ijs zwijgt",
-      "beschrijving": "Een scherpe, witte spleet loopt diagonaal door een donkerblauwe, korrelige oppervlakte, met aan weerskanten subtiele hoogteverschillen en kleine, onregelmatige brokjes die de textuur verstoren. De randen van de spleet zijn ongelijkmatig, met hier en daar een scherp aflopende rand en daar anders een gladdere overgang. Donkere schaduwen benadrukken de diepte van de scheur, terwijl lichtere blauwe tinten aan de randen een gevoel van transparantie suggereren. Kleinere barstjes vertakken zich vanaf de hoofdspleet, en verspreide, glanzende deeltjes liggen verspreid over het oppervlak, alsof ze uit de scheur zijn gekomen. De algehele sfeer is koud en statisch, met een focus op de contrasten tussen glad en ruw, licht en donker.",
-      "cyclus": 8450,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008450_8513.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8519,
-    "gemaakt": 8581,
-    "gekozen": 1273,
+    "cycli": 8527,
+    "gemaakt": 8589,
+    "gekozen": 1275,
     "afgekeurd": 1175,
-    "corpus": 66,
+    "corpus": 68,
     "notities": 389
   }
 }
