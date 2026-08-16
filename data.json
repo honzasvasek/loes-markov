@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T17:00+02:00",
+  "bijgewerkt": "2026-08-16T17:15+02:00",
   "werk": [
+    {
+      "id": 8903,
+      "titel": "Wat overblijft van de vonk",
+      "beschrijving": "Verbrand hout met gekraakte, zwartgrijze vezels vormt een onregelmatige stapel, omgeven door as en kleine koolstofdeeltjes. Rook stijgt in slanke, witte spiraalvormige draden op, die zich langzaam vermengen met de lucht. Twee cilindervormige voorwerpen, bedekt met een grijze, korrelige textuur, liggen schuin naast elkaar op de grond, omringd door verspreide takjes en witte vonken. De achtergrond bestaat uit onscherpe, donkere houten elementen en een bodem van fijn zand en puin. De sfeer is rustig, met een subtiele beweging in de rook en de stilling van de verbrande resten.",
+      "cyclus": 8840,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond rook bij hoog contrast', 'lichte inconsistentie in textuur houtsnippers']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op ontbinding als proces, niet als sfeerbeeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008840_8903.webp"
+    },
+    {
+      "id": 8899,
+      "titel": "Druppels zonder bestemming",
+      "beschrijving": "Een roestbruine metalen bak staat centraal, met een donkerpaarse vloeistof die uit de bovenkant druipt en in druppels naar beneden valt. Boven de bak zweeft een gevouwen kaart met groene en blauwe vlakken, rode lijnen en een oranje vlek aan de rand. Rook stijgt op uit de bak en sluiert de kaart deels. Achtergrond: een houten dakconstructie en een landschap met oranje, groene en beige velden, doorsneden door donkere bomen en gras. Kleine oranje en paarse voorwerpen liggen verspreid rond de bak. De sfeer is statisch, met een subtiele beweging in de rook en de druppels. Kleuren zijn gedempt, met accenten van roest, paars en oranje.",
+      "cyclus": 8836,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van kaart ten opzichte van houder', 'lichte wazigheid in textuur van roest op linkerzijde van container']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, denkbeeldige sfeer die beyond een ansichtkaart gaat.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008836_8899.webp"
+    },
     {
       "id": 8896,
       "titel": "Roest die zuchtte",
@@ -13,6 +39,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008833_8896.webp"
+    },
+    {
+      "id": 8895,
+      "titel": "Oranje tegen de golven",
+      "beschrijving": "Een boom met fel oranje naalden domineert de linkerbovenhoek, de takken strekken zich uit boven donkere, natte rotsen die in het water steken. Golven van donkergrijs water met wit schuim slaan tegen de rotsen, waarbij waterdruppels in de lucht vliegen. De achtergrond bestaat uit een grijze, bewolkte hemel die overgaat in een kalme, donkere zee. Het oranje van de boom contrasteert scherp met de monochrome tinten van het water en de rotsen, terwijl de beweging van de golven een dynamisch element toevoegt aan de compositie.",
+      "cyclus": 8832,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een levendige boom met een dynamisch zeegezicht, wat geen typisch toeristisch motief is en een eigen compositorische keuze vertoont.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008832_8895.webp"
     },
     {
       "id": 8894,
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008796_8859.webp"
-    },
-    {
-      "id": 8855,
-      "titel": "Wat blijft drijven?",
-      "beschrijving": "Een donkergrijze, gladde vloeistof vult het grootste deel van het beeld, met een onregelmatige, witte rand waar deze een ruwe, betonnen oppervlakte raakt. In de vloeistof drijft een donkere, ronde vorm, vaag en zonder herkenbare structuur. Rechtsboven bevindt zich een ronde, verweerde steen of betonnen plug, met een ruwe textuur en een lichtere kern. De vloeistof heeft een spiegelgladde oppervlakte, met subtiele, witte sporen die door de vloeistof lopen. De compositie is minimalistisch, met een sterke contrast tussen de donkere vloeistof en de lichte, textuurrijke rand. De sfeer is statisch en bijna onbewoond, zonder aanwijzingen van beweging of leven.",
-      "cyclus": 8792,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008792_8855.webp"
-    },
-    {
-      "id": 8849,
-      "titel": "Rust in roest en glas",
-      "beschrijving": "Een verroest magneetkraan hangt aan dunne kabels tegen een oranje-grijze hemel, waarbij een vaag spoor van roet of rook een golvende lijn trekt naar een witte wolk. Rechts domineert een hoogbouw met glazen gevel, waar de ondergaande zon gouden reflecties werpt op de ramen, terwijl links een verweerde kas met tralievensters en een schuin dak van getint glas de voorgrond vult. Donkergroene planten raken de hoek van de kas, en een subtiele rookpluim stijgt op vanaf het dak, zich vermengend met de lucht. De achtergrond toont nog een onscherp kantoorgebouw en een witte muur, terwijl de sfeer een mix is van industriële vervalling en stille, avondschemering.",
-      "cyclus": 8786,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in de kranaarm (onlogische verbinding met kabels)', 'wazige textuur in de wolken (overmatig gesmeerd)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie kiest een ongemakkelijk moment tussen industrie en natuur zonder bevestigende sfeer.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008786_8849.webp"
-    },
-    {
-      "id": 8848,
-      "titel": "Scheuren in het wit",
-      "beschrijving": "Een versleten, wit papierachtig vlak domineert het beeld, met gescheurde randen die een realistisch tafereel onthullen. Links ligt een hoop houten planken, sommige verweerd en donker, andere lichter en gladder, vermengd met metaalafval, scherven en bladeren in groen en bruin. Een houten steiger loopt recht door het midden, met een houten reling aan de rechterkant, en leidt naar een witte kerk met een spitse toren en donker dak aan de horizon. Rechtsboven zweeft een schilderspalet met kleurstalen in blauw, rood, geel en zwart. Het water naast de steiger is grijsblauw en rustig, met een vaag silhouet van bomen en gebouwen aan de overkant. Kleine details zoals een ronde steen, verspreide schroeven en een donkere vlek op het papier voegen toe aan de chaotische maar gebalanceerde compositie. De sfeer is stil en iets verlaten, met een subtiele spanning tussen vervallen materiaal en de orde van de kerk in de verte.",
-      "cyclus": 8785,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in textuur van houten planken aan linkerzijde', 'kleine halo rond rand van gescheurde papierlaag bovenaan']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een realistisch landschap met abstracte, collage-achtige elementen, wat afwijkt van een typische ansichtkaartcompositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008785_8848.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8910,
+      "cyclus": 8847,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte tekstcompositie zonder toeristische connotaties.",
+      "bestand": "images/a008847_8910.webp"
+    },
     {
       "id": 8904,
       "cyclus": 8841,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een eigen standpunt.",
       "bestand": "images/a008839_8902.webp"
-    },
-    {
-      "id": 8898,
-      "cyclus": 8835,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte onscherpte in de achtergrondbomen, maar geen duidelijke artefacten', 'Subtiele halo rond de zon, typisch voor diffusiemodellen bij hoog contrast']",
-      "cliche_notities": "Het beeld toont een iconische weg met zonsondergang en symmetrische bomenrij, typisch voor een toeristische ansichtkaart zonder duidelijke compositorische keuze.",
-      "bestand": "images/a008835_8898.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8844,
-    "gemaakt": 8906,
-    "gekozen": 1326,
-    "afgekeurd": 1219,
-    "corpus": 64,
+    "cycli": 8848,
+    "gemaakt": 8910,
+    "gekozen": 1329,
+    "afgekeurd": 1220,
+    "corpus": 63,
     "notities": 395
   }
 }
