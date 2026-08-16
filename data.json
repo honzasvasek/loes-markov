@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T23:30+02:00",
+  "bijgewerkt": "2026-08-16T23:45+02:00",
   "werk": [
+    {
+      "id": 9063,
+      "titel": "Druppels met geheime koers",
+      "beschrijving": "Drie donkere, glanzende druppels vallen door een grijze, korrelige ruimte, omgeven door vaag gedefinieerde vormen die rook of vage wolken suggereren. Witte, scherpe lijnen snijden door het beeld, alsof ze onzichtbare krachten of beweging vastleggen. Rechtsboven bevindt zich een donkere, onregelmatige vlek met stralende, dunne lijnen die eruit lijken te barsten, terwijl links een zwaardere, wazige vorm zweeft. Kleine, donkere stippen en subtiele reflecties op de druppels voegen zich bij een sfeer van zwevende, onbevattenbare elementen in een minimalistisch compositie.",
+      "cyclus": 9000,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de donkere vlek rechtsboven', 'lichte onstabiliteit in de randen van de roetachtige vorm linksboven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp, maar een abstracte compositie met ruimte voor interpretatie",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009000_9063.webp"
+    },
+    {
+      "id": 9059,
+      "titel": "Blauw dat blijft hangen",
+      "beschrijving": "Een gebroken glas staat centraal, met een diepe scheur die van de rand tot de bodem loopt. Door de scheur stroomt een blauwe vloeistof naar beneden, in een slingerende stroom die over een lichtbeige ondergrond loopt. Rechts van het glas ligt een rond, plat voorwerp met een abstract patroon van roze, geel en bruine cirkels en vlekken. De achtergrond is een effen, lichtgrijze muur met subtiele textuur. Schaduwen onder het glas en het ronde voorwerp zijn donkerpaars en blauwig, met een zachte overgang naar de lichtere ondergrond. Kleuren zijn gedempt, met accenten van blauw, geel en roze die de compositie doorbreken.",
+      "cyclus": 8996,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de gebroken beker en abstracte vorm in de voorgrond.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008996_9059.webp"
+    },
     {
       "id": 9052,
       "titel": "Vijfde vogel zoekt weg",
@@ -13,6 +39,19 @@
       "curriculum_score": 4.0,
       "gekozen": 1,
       "bestand": "images/w008989_9052.webp"
+    },
+    {
+      "id": 9051,
+      "titel": "Wat blijft van de aarde",
+      "beschrijving": "Twee handen raken een donkergrijze, onregelmatige steen met witte en goudkleurige aders en vlekken. Rond de steen lopen twee gebogen houten latten, donkerbruin met zwarte banden, die een ovale vorm vormen. Zand, lichtbeige met grijze en bruine tinten, omhult de steen en de latten, met verspreide kleine stenen en groene grassprietjes. De achtergrond is een vaag, lichtgrijze hemel met zachte witte wolken. De handen hebben een rozeachtige huidskleur, met zichtbare vingers en nagels. Een dunne, doorschijnende draad loopt van de bovenste hand naar de steen.",
+      "cyclus": 8988,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van rots', 'lichte wazigheid in achtergrondtexturen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongemakkelijk en niet-bevestigend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008988_9051.webp"
     },
     {
       "id": 9048,
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008944_9007.webp"
-    },
-    {
-      "id": 8996,
-      "titel": "Wat blijft van de vlam?",
-      "beschrijving": "Rook stijgt op in een slanke, donkere spiraal van een hoop as en verbrand afval op een verlaten, bruin veld. Verspreid liggen stukken hout, metaal en onherkenbare resten tussen de losse aarde en droge stengels. Achter de rook trekt een lijn donkergroene bomen de horizon, vaag en onscherp tegen een egale, lichtgrijze lucht. Onderaan loopt een onregelmatige, witte rand parallel aan de onderkant, met een smalle, donkere schaduw eronder. De rook wordt breder naarmate hij hoger komt, met fijne, wazige draden die zich uitstrekken tot bovenin het beeld.",
-      "cyclus": 8933,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 10.0,
-      "gekozen": 1,
-      "bestand": "images/w008933_8996.webp"
-    },
-    {
-      "id": 8992,
-      "titel": null,
-      "beschrijving": "Twee slanke, doorschijnende stengels stijgen op uit een vlakke, lichtgrijze ondergrond, omgeven door concentrische cirkels die doen denken aan wateroppervlakken met lichte rimpelingen. De stengels zijn doorschijnend bruin met donkere vlekken en kleine, bolvormige uitsteeksels in oranje en zwarte tinten, verspreid over de lengte. Aan de basis van de stengels bevindt zich een mengsel van kleine, onregelmatige deeltjes in bruine, beige en donkere kleuren, met enkele glanzende, donkere bolletjes en een paar losse, ronde vormen die in de lucht lijken te zweven. De achtergrond is egaal, crèmekleurig en zonder afleiding, waardoor de stengels en de textuur van de deeltjes centraal staan. De compositie is verticaal gericht, met de stengels die zich naar boven uitstrekken en de cirkels die zich naar buiten uitbreiden, wat een gevoel van opwaartse beweging en uitstraling geeft.",
-      "cyclus": 8929,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van takken (links/rechts)', 'lichte halo rond reflectie in water']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op ontbinding en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008929_8992.webp"
-    },
-    {
-      "id": 8987,
-      "titel": "Regen die blijft hangen in schelpen",
-      "beschrijving": "Een alleenstaande figuur loopt met de rug naar de kijker over een zandstrand, de schaduw langgerekt en donker getekend voor zich uit. Regen valt in dunne, verticale lijnen, het wateroppervlak rechts rimpelend met golven die zachtjes tegen de kust slaan. Verspreid over het zand liggen kleine, donkere voorwerpen: schelpen, stenen en wat lijkt op afval. De horizon is vaag, met een donkere, onduidelijke vorm die mogelijk heuvels of een kustlijn suggereert. De kleuren zijn gedempt, gedomineerd door bruin, grijs en zwart, met subtiele lichtreflecties op het natte zand en water. De compositie is verticaal, met de figuur centraal maar iets naar links, de blik getrokken naar de leegte voor hem en de regen die de scène doortrekt. De sfeer is stil en verlaten, met een gevoel van eenzaamheid en onafgewerktheid.",
-      "cyclus": 8924,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de regenstrepen (sommige te dun/verdwenen) en een wat wazige overgang tussen figuur en achtergrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en de sfeer is ambivalent, niet bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008924_8987.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9067,
+      "cyclus": 9004,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, zonder originele compositorische keuzes of een uniek standpunt.",
+      "bestand": "images/a009004_9067.webp"
+    },
     {
       "id": 9060,
       "cyclus": 8997,
@@ -150,15 +159,6 @@
       "tech_notities": "['geen duidelijke generatie-artefacten, maar wat wazigheid in de achtergrond en wat onnauwkeurige details in de handen en gezichtsuitdrukkingen']",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molens en water) en de decoratieve, bijna nostalgische stijl zonder sterke compositorische keuze.",
       "bestand": "images/a008993_9056.webp"
-    },
-    {
-      "id": 9045,
-      "cyclus": 8982,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van de deurpanelen', 'enkele wazige details in de achtergrondboom']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch landschap, een huisje in de verte en een symmetrische opstelling van riet en water, zonder duidelijke persoonlijke keuzes in compositie of onderwerp.",
-      "bestand": "images/a008982_9045.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9001,
-    "gemaakt": 9063,
-    "gekozen": 1355,
-    "afgekeurd": 1254,
-    "corpus": 62,
+    "cycli": 9006,
+    "gemaakt": 9069,
+    "gekozen": 1358,
+    "afgekeurd": 1255,
+    "corpus": 63,
     "notities": 398
   }
 }
