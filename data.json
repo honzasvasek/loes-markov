@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-16T20:45+02:00",
+  "bijgewerkt": "2026-08-16T21:00+02:00",
   "werk": [
+    {
+      "id": 8996,
+      "titel": "Wat blijft van de vlam?",
+      "beschrijving": "Rook stijgt op in een slanke, donkere spiraal van een hoop as en verbrand afval op een verlaten, bruin veld. Verspreid liggen stukken hout, metaal en onherkenbare resten tussen de losse aarde en droge stengels. Achter de rook trekt een lijn donkergroene bomen de horizon, vaag en onscherp tegen een egale, lichtgrijze lucht. Onderaan loopt een onregelmatige, witte rand parallel aan de onderkant, met een smalle, donkere schaduw eronder. De rook wordt breder naarmate hij hoger komt, met fijne, wazige draden die zich uitstrekken tot bovenin het beeld.",
+      "cyclus": 8933,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 10.0,
+      "gekozen": 1,
+      "bestand": "images/w008933_8996.webp"
+    },
     {
       "id": 8992,
       "titel": null,
@@ -117,22 +130,27 @@
       "curriculum_score": 10.0,
       "gekozen": 1,
       "bestand": "images/w008894_8957.webp"
-    },
-    {
-      "id": 8945,
-      "titel": "Wat blijft van het verhaal?",
-      "beschrijving": "Een verfrommeld vel papier, lichtbeige met bruine vlekken en kromme randen, ligt centraal op een effen, textuurloze achtergrond van hetzelfde kleurgebied. Rechts en onder het vel loopt een donkere, krasachtige lijn die overgaat in een schaduw, alsof het papier licht van de achtergrond afstaat. Kleine, onregelmatige bruine vlekken en watervlekken verspreiden zich over het oppervlak, met name bij de randen. Onder het vel vallen enkele donkere, druppelachtige vormen naar beneden, alsof ze van het papier afkomen. Het papier heeft een matte, korrelige textuur en lijkt door tijd en gebruik verweerd. De compositie is statisch, met het papier als enig focuspunt tegen de lege achtergrond.",
-      "cyclus": 8882,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een subtiele focus op textuur en afwezigheid.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008882_8945.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9004,
+      "cyclus": 8941,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een gefocuste voorstelling van een deur met tekst die een specifiek concept benoemt.",
+      "bestand": "images/a008941_9004.webp"
+    },
+    {
+      "id": 9001,
+      "cyclus": 8938,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten schuur in een woest landschap met perfecte gouden-uurverlichting en geen compositorische verrassingen.",
+      "bestand": "images/a008938_9001.webp"
+    },
     {
       "id": 8997,
       "cyclus": 8934,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Dit is een typische toeristische ansichtkaart met een iconisch berglandschap en decoratief licht, zonder eigen compositorische keuze.",
       "bestand": "images/a008934_8997.webp"
-    },
-    {
-      "id": 8990,
-      "cyclus": 8927,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de zeilen van de molen', 'onduidelijke details in de ramen van de huisjes']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een Nederlandse molen, water en kleine huisjes in een idyllisch landschap, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a008927_8990.webp"
-    },
-    {
-      "id": 8989,
-      "cyclus": 8926,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'onlogische woordvolgorde en typografie']",
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en geen decoratief perfect licht, maar toont een chaotische, onontcijferbare tekst die juist tegen clichés ingaat.",
-      "bestand": "images/a008926_8989.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8938,
-    "gemaakt": 9000,
-    "gekozen": 1347,
-    "afgekeurd": 1239,
-    "corpus": 64,
+    "cycli": 8945,
+    "gemaakt": 9007,
+    "gekozen": 1348,
+    "afgekeurd": 1241,
+    "corpus": 63,
     "notities": 397
   }
 }
