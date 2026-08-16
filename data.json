@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T02:45+02:00",
+  "bijgewerkt": "2026-08-16T03:00+02:00",
   "werk": [
     {
       "id": 8518,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 8533,
+      "cyclus": 8470,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de textuur van het gras en de vogels (soms wazig, soms scherp)",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een eendelige scène met vogels, een huis en water, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008470_8533.webp"
+    },
+    {
+      "id": 8531,
+      "cyclus": 8468,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch landschap, een verlaten huisje en een weg die zich uitstrekt naar de horizon, zonder duidelijke compositorische keuzes die beyond het cliché gaan.",
+      "bestand": "images/a008468_8531.webp"
+    },
+    {
       "id": 8524,
       "cyclus": 8461,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief']",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van huisjes in een landschap met decoratief licht en geen duidelijke compositorische keuze.",
       "bestand": "images/a008461_8524.webp"
-    },
-    {
-      "id": 8516,
-      "cyclus": 8453,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de takken van de boom (onnatuurlijke hoeken)', 'watervlak iets te uniform/glad, mist subtiele textuurvariaties']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een eencilige boomstam tegen een perfecte oceaanhorizon, zonder onverwachte beeldkeuzes of spanning in de opstelling.",
-      "bestand": "images/a008453_8516.webp"
-    },
-    {
-      "id": 8511,
-      "cyclus": 8448,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen taal.",
-      "bestand": "images/a008448_8511.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8466,
-    "gemaakt": 8528,
+    "cycli": 8473,
+    "gemaakt": 8536,
     "gekozen": 1265,
-    "afgekeurd": 1171,
+    "afgekeurd": 1173,
     "corpus": 65,
     "notities": 389
   }
