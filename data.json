@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-16T05:15+02:00",
+  "bijgewerkt": "2026-08-16T05:30+02:00",
   "werk": [
+    {
+      "id": 8605,
+      "titel": "Druppels voor de val",
+      "beschrijving": "Een glazen vaas staat centraal op een houten oppervlak, met een donkergrijze achtergrond. De vaas is doorzichtig, met subtiele reflecties en kleine luchtbelletjes in het glas. Twee zwarte druppels hangen boven de vaas, net boven de rand, alsof ze net gaan vallen. Het glas heeft een lichte groene ondertoon en de rand van de vaas is iets breder dan de rest. De houten ondergrond heeft een donkerbruine kleur met zichtbare nerf en kleine onregelmatigheden. De compositie is rustig, met de vaas als enig focuspunt en de druppels die een gevoel van spanning toevoegen.",
+      "cyclus": 8542,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties op het glas', 'lichte wazigheid in de achtergrondtextuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele spanning tussen vorm en leegte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008542_8605.webp"
+    },
     {
       "id": 8592,
       "titel": "Wortels die door porselein groeien",
@@ -117,19 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008487_8550.webp"
-    },
-    {
-      "id": 8544,
-      "titel": "Druppel die keuzes maakt",
-      "beschrijving": "Twee muren vormen een hoek: links een roze muur met subtiele donkere vlekken, rechts een groene muur met een enkele, glanzende druppel die naar beneden loopt. De vloer is bruin en draagt vier voorwerpen: een oranje bol, twee gele schijfjes en een donkerrode cilinder, elk met een schaduwtje. De randen van de muren en de vloer zijn ongelijkmatig geschilderd, met zichtbare penseelstreken. De witte achtergrond omlijst het geheel.",
-      "cyclus": 8481,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008481_8544.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8542,
-    "gemaakt": 8605,
-    "gekozen": 1278,
+    "cycli": 8549,
+    "gemaakt": 8612,
+    "gekozen": 1279,
     "afgekeurd": 1179,
-    "corpus": 66,
+    "corpus": 65,
     "notities": 390
   }
 }
