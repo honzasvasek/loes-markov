@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T03:45+02:00",
+  "bijgewerkt": "2026-08-16T04:00+02:00",
   "werk": [
+    {
+      "id": 8553,
+      "titel": "Oranje regen op witte sporen",
+      "beschrijving": "Een kronkelende weg snijdt door een besneeuwd landschap, omzoomd door donkere bomen en struiken. De horizon wordt gedomineerd door een levendige oranje lucht, met zachte witte wolken erboven. Sneeuw bedekt de grond, met hier en daar donkergroen gras dat door de witte laag steekt. Regen druipt zachtjes uit de wolken, zichtbaar als fijne lijntjes tegen de oranje achtergrond. De weg heeft sporen van banden, alsof er recent iets overheen is gegaan. Rechts en links van de weg liggen kleine rotsen en keien, deels bedekt met sneeuw. De sfeer is rustig, met een subtiele spanning tussen de warme kleuren van de lucht en de koude, lege sneeuw.",
+      "cyclus": 8490,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de weg (verdwijnpunt te laag)', 'wazige overgang tussen sneeuw en bomen aan horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap, maar een ongemakkelijke compositie met schuine lijnen en onbalans tussen leegte en detail",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008490_8553.webp"
+    },
+    {
+      "id": 8550,
+      "titel": "Schroeven in het water",
+      "beschrijving": "Een houten structuur met donkere, versleten planken en verspreide schroeven domineert de bovenste helft, waarbij roetachtige patronen en kleine, glanzende bolletjes de textuur verrijken. Onderaan golft een vloeistofachtig oppervlak in bruine en blauwe tinten, met sporen van rook die zich door het beeld kronkelen. Vier vogels met zwart-witte veren en subtiele oranje details zweven of zwemmen door dit landschap, omgeven door golvende lijnen en kleine, donkergroene bladeren. De randen van de compositie lopen over in een zandkleurige, korrelige textuur, terwijl de overgang tussen hout en vloeistof een onrustige, bijna smeltende sfeer uitstraalt.",
+      "cyclus": 8487,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de houten planken', 'lichte wazigheid in de rookachtige structuren']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigenzinnige, abstracte dynamiek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008487_8550.webp"
+    },
     {
       "id": 8544,
       "titel": "Druppel die keuzes maakt",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008439_8502.webp"
-    },
-    {
-      "id": 8500,
-      "titel": "Verbleekte reflecties op water",
-      "beschrijving": "Een verweerd houten hutje met een schuin dak van geteerde planken staat op stelten boven een kalm wateroppervlak, waarin de spiegelbeeldige reflectie van het gebouw en de omringende vegetatie zichtbaar is. Het metselwerk toont plekken van verbleekte verf in rood en beige, met een donkere houten deur en een klein raam met witte lijsten. Riet en hoge grassen omringen de hut, met verspreide herfstbladeren in oranje en bruin. Achter de hut loopt een smalle, kronkelende weg door een dicht bos met donkergroene naaldbomen en loofbomen in gedempte herfstkleuren. De hemel is lichtgrijs met zachte, wazige wolken, en het water weerspiegelt de kleuren van de omgeving in golvende, vaag omschreven vormen. Drijfhout en dode takken liggen verspreid rond de hut, en een smalle houten steiger loopt van de hut naar het water.",
-      "cyclus": 8437,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in reflectie van hut in water', 'onduidelijke details in verre bomen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een intieme, wat verwaarloosde scène met persoonlijke compositorische keuzes.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008437_8500.webp"
-    },
-    {
-      "id": 8497,
-      "titel": "Gouden scheur in het wit",
-      "beschrijving": "Een gescheurd vel wit papier onthult een zachte, grijze ondergrond, waar door de scheur een warme, gouden gloed doorheen schijnt. Onder de scheur ligt een hoopje koperkleurige, spits toelopende vormen, reminiscent van gedroogd gras of metalen naalden, willekeurig verspreid maar met een bijna organische dynamiek. De koperen elementen vangen het licht, waardoor ze glinsteren en een driedimensionale diepte creëren tegen de matte achtergrond. De compositie balanceert tussen chaos en orde, met de scherpe, puntige vormen die een contrast vormen met de zachte, onregelmatige rand van het papier. De sfeer is zowel fragiel als krachtig, met een stilte die de ruimte tussen de elementen lijkt te vullen.",
-      "cyclus": 8434,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een focus op textuur en spanning tussen materialen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008434_8497.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8496,
-    "gemaakt": 8559,
-    "gekozen": 1269,
+    "cycli": 8504,
+    "gemaakt": 8566,
+    "gekozen": 1271,
     "afgekeurd": 1174,
-    "corpus": 67,
+    "corpus": 65,
     "notities": 389
   }
 }
