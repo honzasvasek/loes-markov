@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-16T19:00+02:00",
+  "bijgewerkt": "2026-08-16T19:15+02:00",
   "werk": [
+    {
+      "id": 8945,
+      "titel": "Wat blijft van het verhaal?",
+      "beschrijving": "Een verfrommeld vel papier, lichtbeige met bruine vlekken en kromme randen, ligt centraal op een effen, textuurloze achtergrond van hetzelfde kleurgebied. Rechts en onder het vel loopt een donkere, krasachtige lijn die overgaat in een schaduw, alsof het papier licht van de achtergrond afstaat. Kleine, onregelmatige bruine vlekken en watervlekken verspreiden zich over het oppervlak, met name bij de randen. Onder het vel vallen enkele donkere, druppelachtige vormen naar beneden, alsof ze van het papier afkomen. Het papier heeft een matte, korrelige textuur en lijkt door tijd en gebruik verweerd. De compositie is statisch, met het papier als enig focuspunt tegen de lege achtergrond.",
+      "cyclus": 8882,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een subtiele focus op textuur en afwezigheid.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008882_8945.webp"
+    },
     {
       "id": 8942,
       "titel": "Roze naar grijs",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008879_8942.webp"
+    },
+    {
+      "id": 8941,
+      "titel": "Scheidslijn zonder rust",
+      "beschrijving": "Twee rechthoeken, boven elkaar, scheiden het beeld in twee gelijke helften. De bovenste is donkergrijs, met subtiele variaties in textuur die een lichte onrust suggereren, alsof de verf in lagen is aangebracht en gedeeltelijk is weggeslepen. De onderste helft is een egaal, lichtgrijs vlak, zonder duidelijke textuur of beweging, wat een gevoel van stilte en leegte uitstraalt. De scheidslijn tussen de twee delen is scherp en horizontaal, maar niet perfect recht, wat een minimale onrust in de compositie introduceert. De randen van het beeld zijn licht afgesleten, alsof het doek ooit uit een groter vlak is geknipt. Er zijn geen andere vormen, kleuren of details aanwezig; de focus ligt volledig op het contrast tussen de twee vlakken en de subtiele spanning tussen beweging en stilstand.",
+      "cyclus": 8878,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008878_8941.webp"
     },
     {
       "id": 8940,
@@ -104,61 +130,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008840_8903.webp"
-    },
-    {
-      "id": 8899,
-      "titel": "Druppels zonder bestemming",
-      "beschrijving": "Een roestbruine metalen bak staat centraal, met een donkerpaarse vloeistof die uit de bovenkant druipt en in druppels naar beneden valt. Boven de bak zweeft een gevouwen kaart met groene en blauwe vlakken, rode lijnen en een oranje vlek aan de rand. Rook stijgt op uit de bak en sluiert de kaart deels. Achtergrond: een houten dakconstructie en een landschap met oranje, groene en beige velden, doorsneden door donkere bomen en gras. Kleine oranje en paarse voorwerpen liggen verspreid rond de bak. De sfeer is statisch, met een subtiele beweging in de rook en de druppels. Kleuren zijn gedempt, met accenten van roest, paars en oranje.",
-      "cyclus": 8836,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van kaart ten opzichte van houder', 'lichte wazigheid in textuur van roest op linkerzijde van container']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, denkbeeldige sfeer die beyond een ansichtkaart gaat.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008836_8899.webp"
-    },
-    {
-      "id": 8896,
-      "titel": "Roest die zuchtte",
-      "beschrijving": "Een roestbruine, verticale staaf met een gebogen handvat aan de onderkant domineert het midden van het beeld. Twee asymmetrische, kromme uitsteeksels met kleine gaten steken aan weerszijden uit de staaf, die bedekt is met onregelmatige, donkerdere vlekken en kleine putjes. Een goudkleurige, rechthoekige plaat met vier schroeven bevindt zich net boven het handvat. De achtergrond is egaal crèmekleurig, zonder duidelijke textuur of details, waardoor het voorwerp scherp afsteekt. Schaduwen onder de uitsteeksels en het handvat geven diepte, terwijl de roesttextuur een ruwe, verweerde indruk maakt.",
-      "cyclus": 8833,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp (een roestige haak) is niet iconisch of decoratief, en de compositie heeft een eigen, minimalistische focus zonder bevestigend licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008833_8896.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 8955,
-      "cyclus": 8892,
+      "id": 8960,
+      "cyclus": 8897,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
       "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met molen en zandduinen, uitgevoerd in een decoratief, ansichtkaartachtig formaat zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008892_8955.webp"
+      "cliche_notities": "De molens en het water herinneren aan een typisch Nederlands ansichtkaartmotief, zonder duidelijke persoonlijke compositorische keuze.",
+      "bestand": "images/a008897_8960.webp"
     },
     {
-      "id": 8950,
-      "cyclus": 8887,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een neutrale voorstelling van een gang met open deuren.",
-      "bestand": "images/a008887_8950.webp"
+      "id": 8959,
+      "cyclus": 8896,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratieve roze tint en een klassieke compositie die past bij een toeristische ansichtkaart.",
+      "bestand": "images/a008896_8959.webp"
     },
     {
-      "id": 8948,
-      "cyclus": 8885,
+      "id": 8958,
+      "cyclus": 8895,
       "afkeuringsreden": "techniek",
       "tech_score": 3.0,
       "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een neutrale, bijna onpersoonlijke gang zonder duidelijke compositorische keuze.",
-      "bestand": "images/a008885_8948.webp"
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen met een typische landschapsscene, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008895_8958.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8893,
-    "gemaakt": 8955,
-    "gekozen": 1336,
-    "afgekeurd": 1228,
+    "cycli": 8898,
+    "gemaakt": 8960,
+    "gekozen": 1338,
+    "afgekeurd": 1232,
     "corpus": 63,
     "notities": 396
   }
