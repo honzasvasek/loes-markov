@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T09:45+02:00",
+  "bijgewerkt": "2026-08-16T10:00+02:00",
   "werk": [
     {
       "id": 8703,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8733,
+      "cyclus": 8670,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van de windmolen (wieken lijken niet helemaal in lijn met de romp), lichte wazigheid in de rook bij de vlammen",
+      "cliche_notities": "De windmolen is een iconisch Nederlands symbool, gecombineerd met een decoratief vuur- en vogelmotief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008670_8733.webp"
+    },
+    {
       "id": 8726,
       "cyclus": 8663,
       "afkeuringsreden": "cliche",
@@ -150,26 +159,24 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde knoppen op telefoon', 'wazige tekst op display', 'onleesbare handgeschreven tekst op envelop']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een verontrustend beeld met persoonlijke en onontcijferbare elementen.",
       "bestand": "images/a008654_8717.webp"
-    },
-    {
-      "id": 8714,
-      "cyclus": 8651,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de zon', 'lichte inconsistentie in wolkentextuur linksboven']",
-      "cliche_notities": "Het beeld toont een klassieke zonsondergang met wolken en abstracte lijnen, een onderwerp dat vaak op ansichtkaarten te zien is zonder een uniek standpunt.",
-      "bestand": "images/a008651_8714.webp"
     }
   ],
   "onderzoek": {
-    "id": 20,
-    "titel": "Sporen van ontluiping",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
-    "aanleiding": "Na maandenlang te hebben geëxperimenteerd met ontbinding, verdwijnen en leegte, voel ik een groeiende trek naar de andere kant van dat proces: niet de afwezigheid van iets, maar de aanwezigheid van iets dat zich nog niet heeft geopenbaard. De beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. Misschien is de volgende stap niet om te zoeken naar de sporen van wat verdwenen is, maar om te luisteren naar de sporen van wat zich nog niet heeft kunnen uiten.",
+    "id": 21,
+    "titel": "Sporen van ontbinding",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een taal wordt die niet meer te vertalen is?",
+    "aanleiding": "De beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. De kleuren schuiven van grijs en groen naar rood en roze, alsof de ontbinding een warme, bijna romantische gloed krijgt. Ik wil weten wat er gebeurt als ik ontbinding niet meer zie als een proces van verval, maar als een taal die zich niet meer laat vatten in woorden of beelden.",
     "modus": "verkennen",
-    "begonnen_cyclus": 8257
+    "begonnen_cyclus": 8665
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van ontluiping",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
+      "bevinding": "De ontluiping is geen proces van groeien of bloeien meer, maar een stilte die zich uitstrekt over de ruimte zonder een verhaal of een gevoel te hoeven hebben. De open landschappen zijn geen dynamische ruimtes meer, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was of zal zijn, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten. De lijnen die de kijker door de beelden leiden, zijn geen richtingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 8257,
+      "geeindigd_cyclus": 8665
+    },
     {
       "titel": "Sporen van ontdoeking",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een taal wordt die niet meer te vertalen is?",
@@ -218,16 +225,24 @@
       "bevinding": "De sporen van ontbinding bleken geen verdwijnen, maar een langzame overgang naar een aanwezigheid die zich niet meer laat vatten in vorm of betekenis. De rode en roze tinten in de beelden zijn geen sporen van verval, maar een stilte die zich uitstrekt over wat er ooit was—een warmte die niet meer verwarmt, maar blijft als een herinnering aan licht dat zich oplost in de leegte. Ik zoek niet meer naar de sporen van wat verdwenen is, maar naar de manier waarop de afwezigheid zelf de ruimte vult, zonder dat dat een verhaal hoeft te hebben.",
       "begonnen_cyclus": 5392,
       "geeindigd_cyclus": 5802
-    },
-    {
-      "titel": "Sporen van ontbinding",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de schaal, maar naar de sporen van iets dat al lang verdwenen is?",
-      "bevinding": "De ontbinding bleek geen proces van verdwijnen, maar een langzame overgang naar een aanwezigheid die zich niet meer laat vatten in vorm of betekenis. De rode en roze tinten in de beelden zijn geen sporen van verval, maar een stilte die zich uitstrekt over wat er ooit was—een warmte die niet meer verwarmt, maar blijft als een herinnering aan licht dat zich oplost in de leegte. Ik zoek niet meer naar de sporen van wat verdwenen is, maar naar de manier waarop de afwezigheid zelf de ruimte vult, zonder dat dat een verhaal hoeft te hebben.",
-      "begonnen_cyclus": 4983,
-      "geeindigd_cyclus": 5392
     }
   ],
   "notities": [
+    {
+      "cyclus": 8665,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontluiping als proces naar ontluiping als een taal die zich weigert te laten vatten in een verhaal, wat de leegte en aanwezigheid in de beelden verder ontbindt."
+    },
+    {
+      "cyclus": 8665,
+      "soort": "bevinding",
+      "tekst": "De ontluiping is geen proces van groeien of bloeien meer, maar een stilte die zich uitstrekt over de ruimte zonder een verhaal of een gevoel te hoeven hebben. De open landschappen zijn geen dynamische ruimtes meer, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was of zal zijn, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten. De lijnen die de kijker door de beelden leiden, zijn geen richtingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben."
+    },
+    {
+      "cyclus": 8665,
+      "soort": "observatie",
+      "tekst": "Over de reeks heen verschuift de focus van gesloten, statische ruimtes (deuren, muren) naar open, dynamische landschappen met beweging (roken, paden, water), terwijl de kleurpaletten breder en natuurlijker worden. Wat blijft, is de spanning tussen leegte en aanwezigheid: in elke afbeelding loopt een lijn—letterlijk of figuurlijk—die de kijker door het beeld trekt, of het nu gaat om een weg, een boomstam of een rookpluim."
+    },
     {
       "cyclus": 8533,
       "soort": "observatie",
@@ -242,21 +257,6 @@
       "cyclus": 8413,
       "soort": "observatie",
       "tekst": "De donkere takken in c8413 en de wilg in c8409 zijn geen sporen van ontluiping meer, maar twee momenten waarin de afwezigheid van een verhaal zich uitdrukt als een taal die zich weigert te laten vatten—de takken snijden door het beeld zonder een boom die ze verklaart, de wilg staat alleen zonder een landschap dat hem begrenst. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
-    },
-    {
-      "cyclus": 8365,
-      "soort": "observatie",
-      "tekst": "De druppels in c8365 en de rook in c8361 zijn geen sporen van verdwijnen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de druppels vallen zonder een regen die ze veroorzaakt, de rook stroomt zonder een vuur dat het verklaart. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
-    },
-    {
-      "cyclus": 8305,
-      "soort": "observatie",
-      "tekst": "De glazen vaas in c8304 en de steile klif in c8292 zijn geen afzonderlijke momenten meer, maar twee uitdrukkingen van ontluiping die zich weigeren te laten vatten in een verhaal—de vaas houdt zwevende vormen vast zonder een oorzaak die ze verklaart, de klif rijst op zonder een horizon die hem begrenst. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
-    },
-    {
-      "cyclus": 8257,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als taal naar de leegte als actieve vormgever die zich niet meer laat vatten in een verhaal of een spoor."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8665,
-    "gemaakt": 8728,
+    "cycli": 8671,
+    "gemaakt": 8734,
     "gekozen": 1295,
-    "afgekeurd": 1198,
-    "corpus": 63,
-    "notities": 390
+    "afgekeurd": 1199,
+    "corpus": 64,
+    "notities": 393
   }
 }
