@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T09:00+02:00",
+  "bijgewerkt": "2026-08-16T09:15+02:00",
   "werk": [
     {
       "id": 8701,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 8714,
+      "cyclus": 8651,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de zon', 'lichte inconsistentie in wolkentextuur linksboven']",
+      "cliche_notities": "Het beeld toont een klassieke zonsondergang met wolken en abstracte lijnen, een onderwerp dat vaak op ansichtkaarten te zien is zonder een uniek standpunt.",
+      "bestand": "images/a008651_8714.webp"
+    },
+    {
+      "id": 8708,
+      "cyclus": 8645,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele gridpatronen in de lucht (mogelijk door compressie of generatieproces)', 'lichte onregelmatigheden in textuur van gras/sandduinen']",
+      "cliche_notities": "Klassiek motief van een eenzame kerk op een duin onder dramatische wolken, zonder duidelijke compositorische of thematische vernieuwing.",
+      "bestand": "images/a008645_8708.webp"
+    },
+    {
       "id": 8705,
       "cyclus": 8642,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van daken linksboven', 'lichte wazigheid in textuur van bomen rechts']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een kerk als iconisch middelpunt, klassieke huizen en water, zonder duidelijke persoonlijke compositorische keuze.",
       "bestand": "images/a008642_8705.webp"
-    },
-    {
-      "id": 8702,
-      "cyclus": 8639,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters (M, C, F, U, H)', 'onduidelijke symbolen (vraagteken, cirkel met streep)']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en takken.",
-      "bestand": "images/a008639_8702.webp"
-    },
-    {
-      "id": 8690,
-      "cyclus": 8627,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch landschap met zonsondergang en bomen in een symmetrische opstelling, typisch voor een toeristische ansichtkaart.",
-      "bestand": "images/a008627_8690.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8645,
-    "gemaakt": 8707,
+    "cycli": 8653,
+    "gemaakt": 8715,
     "gekozen": 1294,
-    "afgekeurd": 1194,
-    "corpus": 66,
+    "afgekeurd": 1196,
+    "corpus": 64,
     "notities": 390
   }
 }
