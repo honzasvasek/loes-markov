@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T04:00+02:00",
+  "bijgewerkt": "2026-08-16T04:15+02:00",
   "werk": [
+    {
+      "id": 8562,
+      "titel": "Het spoor van wat overbleef",
+      "beschrijving": "Een roodbruin landschap met een scherpe, witte diagonale strook die van linksonder naar rechtsonder loopt, alsof het een spoor of een drooggelegde waterloop is. Rond die strook liggen verspreid donkere takken, kleine stenen en wat lijkt op gedroogde bladeren of schillen. Bovenin domineert een grijze, wazige horizon met zachte overgangen naar het rood, alsof er een nevel of regen de lucht en het landschap verbindt. Dunne, verticale witte lijnen lopen door het hele beeld, alsof het regent of alsof er sporen van beweging zijn vastgelegd. De kleuren zijn gedempt, maar het wit van de diagonale strook springt erhard uit, alsof het een spoor van afwezigheid of een verdwijnpunt is. Er is geen duidelijke horizon of lichtbron, waardoor het beeld een zwevende, bijna dromerige sfeer heeft. De textuur is ruw en geschilderd, met zichtbare penseelstreken die de indruk van beweging en ontbinding versterken.",
+      "cyclus": 8499,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de witte strook', 'enkele takken hebben onnatuurlijke proporties']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en open.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008499_8562.webp"
+    },
+    {
+      "id": 8561,
+      "titel": "Regen die blijft hangen in gras",
+      "beschrijving": "Grijs getekend gras en slanke stengels met donkere, bijna zwarte penseelstrepen, verspreid over een textuurrijk, lichtgrijs vlak. Dunne, verticale regenstrepen lopen door het beeld, met subtiele donkere vlekken die natuureffecten suggereren. Een schuine, vaag getekende lijn snijdt diagonaal door het midden, met kleine donkere knobbels erop. Zwarte en donkergrijze spetters en vage verfvlakken omringen het gras, terwijl de achtergrond een ongelijkmatige, korrelige structuur heeft. De compositie is asymmetrisch, met lege ruimtes die de aandacht naar de details van het gras en de regen leiden.",
+      "cyclus": 8498,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008498_8561.webp"
+    },
     {
       "id": 8553,
       "titel": "Oranje regen op witte sporen",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008450_8513.webp"
-    },
-    {
-      "id": 8504,
-      "titel": "Rood gras, verdwenen doorgangen",
-      "beschrijving": "Twee houten deuren staan verspreid in een rood getint landschap van hoog, droog gras. De deur aan de rechteronderkant is duidelijk zichtbaar, met een donkere klink en verticale planken die slijtage tonen. Verderop, iets links van het midden, staat een tweede deur, kleiner door de afstand, omgeven door een vaag rood nevelig effect. Boven de verre deur stijgt een onregelmatige, rode stippellijn op naar de lucht, die een abstracte, bijna organische vorm suggereert. Het gras in de voorgrond is gedetailleerd, met individuele stengels die in verschillende richtingen wijzen, terwijl de achtergrond overgaat in een egale, lichte kleur. Een donkere, onherkenbare vorm ligt halfverborgen in het gras aan de linkerkant. De sfeer is stil en verlaten, met een onverwachte combinatie van realistische details en surrealistische elementen.",
-      "cyclus": 8441,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008441_8504.webp"
-    },
-    {
-      "id": 8502,
-      "titel": "Waar blijft de uitgang?",
-      "beschrijving": "Twee houten deuren staan wijd open, met de linkerdeur donkerder dan de rechter, en beide voorzien van verticale panelen en metalen handvatten. Achter de deuren ligt een stapel onregelmatige rotsen met ingewikkelde patronen van lijnen en stippen, terwijl de muur rondom de deuren bedekt is met een textuur die aan verweerd steen of mos doet denken. De vloer voor de deuren is glad en licht, met verspreide donkere vlekken en wat afval dat aan bladeren of takjes doet denken. Boven de deuren loopt een donkere lijst, en de overgang tussen de deuren en de achtergrond is scherp getekend, alsof de ruimte achter de deuren een andere wereld suggereert. De afbeelding is in zwart-wit getekend met fijne lijnen en schaduwen die diepte en textuur geven.",
-      "cyclus": 8439,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houtstructuur deuren', 'lichte wazigheid in achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een eigen, ongemakkelijke spanning",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008439_8502.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8568,
+      "cyclus": 8505,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratief licht en een compositorische keuze die weinig afwijkt van de traditionele ansichtkaartstijl.",
+      "bestand": "images/a008505_8568.webp"
+    },
     {
       "id": 8557,
       "cyclus": 8494,
@@ -150,15 +159,6 @@
       "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de textuur van het gras en de vogels (soms wazig, soms scherp)",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een eendelige scène met vogels, een huis en water, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a008470_8533.webp"
-    },
-    {
-      "id": 8531,
-      "cyclus": 8468,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch landschap, een verlaten huisje en een weg die zich uitstrekt naar de horizon, zonder duidelijke compositorische keuzes die beyond het cliché gaan.",
-      "bestand": "images/a008468_8531.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8504,
-    "gemaakt": 8566,
-    "gekozen": 1271,
-    "afgekeurd": 1174,
-    "corpus": 65,
+    "cycli": 8512,
+    "gemaakt": 8574,
+    "gekozen": 1273,
+    "afgekeurd": 1175,
+    "corpus": 66,
     "notities": 389
   }
 }
