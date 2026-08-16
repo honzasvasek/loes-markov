@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-16T19:45+02:00",
+  "bijgewerkt": "2026-08-16T20:00+02:00",
   "werk": [
+    {
+      "id": 8976,
+      "titel": "Vlammen die hars omhelsen",
+      "beschrijving": "Een donkere, kale boom met uitgestrekte takken domineert het midden, omringd door oranje-gele vlammen die om de stam en takken likken. Donkere, glanzende draden of wortels lopen door het beeld, soms bedekt met druppels die als hars of teer hangen. De achtergrond bestaat uit een vaag, textuurrijk oppervlak in gedempte bruine en grijze tinten, met subtiele verticale strepen die regen of slijtage suggereren. Onderaan zijn donkere, onduidelijke vormen te zien, mogelijk silhouetten van gebouwen of rotsen, met kleine vonken en gloeiende deeltjes die door de lucht dwarren. De sfeer is intens en dynamisch, met een spanning tussen vernietiging en transformatie.",
+      "cyclus": 8913,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in takstructuren bovenin', 'lichte wazigheid in achtergrondtextuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een eigen, ongemakkelijke spanning tussen vuur en dood.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008913_8976.webp"
+    },
+    {
+      "id": 8973,
+      "titel": "Koper dat zwijgt",
+      "beschrijving": "Een verticale koperen pijp steekt schuin uit een kalm wateroppervlak, omgeven door hangende wilgentakken met smalle bladeren. Het water weerspiegelt de pijp en de takken, met lichte rimpelingen die de reflectie verstoren. Op de achtergrond ligt een onscherp landschap met bomen en een horizon die overgaat in een grijze hemel. De koperen pijp heeft een glanzende, iets verweerde textuur met subtiele kleurvariaties van bruin en rood. De takken vormen een donker, fijn patroon tegen de lichte achtergrond, terwijl het water een zachte, bijna glazen textuur heeft. De compositie is symmetrisch rond de pijp, met de takken die de bovenkant van het beeld omkaderen en de reflectie die de onderste helft vult. De sfeer is rustig en iets melancolisch, door de gedempte kleuren en de stilte van het landschap.",
+      "cyclus": 8910,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de compositie is gericht op stilte en afwezigheid, niet op een bevestigend verhaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008910_8973.webp"
+    },
+    {
+      "id": 8969,
+      "titel": "Waar blijft de sleutel?",
+      "beschrijving": "Een smalle gang loopt door een ruimte met diepblauwe muren en plafond, waarbij het licht vanuit een smalle opening aan de linkerkant zachtjes de vloer raakt. De vloer bestaat uit onregelmatige, blauwgrijze planken met sporen van slijtage en losse delen die licht reflecteren. Twee donkerblauwe deuren aan weerskanten van de gang zijn gesloten, terwijl aan het eind van de gang een derde deur vaag zichtbaar is. Dünne, verticale lijnen lopen van het plafond naar beneden, alsof ze iets onzichtbaars suggereren. De sfeer is stil en verlaten, met een gevoel van afwezigheid dat de ruimte vult. De kleuren zijn monochrom, met subtiele variaties in blauw en grijs die diepte en textuur geven aan de muren en vloer.",
+      "cyclus": 8906,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren aan weerskanten', 'lichte wazigheid in de achtergrond van de gang']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met de blauwe kleur en lege ruimte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008906_8969.webp"
+    },
     {
       "id": 8965,
       "titel": "Bruin dat zich verontschuldigt bij grijs",
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008877_8940.webp"
-    },
-    {
-      "id": 8936,
-      "titel": "Modder en weerspiegeling",
-      "beschrijving": "Een smalle waterloop snijdt door een verlaten landschap, omzoomd door modderige oeverlanden met droog gras en kale struiken. Het water weerspiegelt de bewolkte hemel en de silhouetten van de vegetatie, terwijl de oever bedekt ligt met takken, stenen en losse kluiten aarde. De horizon verdwijnt in een vaag silhouet van bomen onder een zware, grijze lucht.",
-      "cyclus": 8873,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de horizonlijn', 'lichte vervorming in de takken van de struiken rechts']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een rustige, bijna vergeten sfeer zonder iconische of decoratieve elementen, en de compositie is niet typisch ansichtkaartachtig.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008873_8936.webp"
-    },
-    {
-      "id": 8921,
-      "titel": "Rook en ripple in blauw",
-      "beschrijving": "Twee verticale panelen tonen een rotsblok en een theepot, beide omgeven door concentrische waterrippelingen die zich uitstrekken over een lichtgrijze achtergrond. Het bovenste paneel heeft een koepelvormige compositie met de theepot rechts en de rots links, terwijl het onderste paneel een bredere, open compositie heeft met de theepot centraal en de rots aan de linkerkant. Rookachtige vormen stijgen op vanaf de rots in beide panelen, met subtiele variaties in vorm en dichtheid. De kleuren zijn gedempt: donkerblauw, grijs en zwart voor de rots en theepot, met lichtere blauwe en grijze tinten in de waterrippelingen en achtergrond. Kleine donkere vlekken en spatels verspreid over de beelden geven textuur. De theepot heeft een ronde vorm met een deksel, een tuit en een handvat, en reflecteert licht op het oppervlak. De waterrippelingen zijn fijn getekend met afwisselend dikke en dunne lijnen, en creëren een gevoel van beweging rond de objecten.",
-      "cyclus": 8858,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008858_8921.webp"
-    },
-    {
-      "id": 8920,
-      "titel": "Rook die zwijgt over de slang",
-      "beschrijving": "Rook stijgt op in slingerende, doorschijnende vormen, met een witte kern die overgaat in donkerblauwe randen. Onderaan bevinden zich onregelmatige, grijze rotsen met ruwe texturen en donkere plekken. Een donkere, slanke slang kronkelt over de rotsen en verdwijnt in de rook. De achtergrond is een egale, beige kleur die de rook en rotsen omhult. De rook vormt een verticale as die het beeld doorsnijdt, terwijl de rotsen en slang een horizontale balans creëren. De sfeer is statisch, met de rook als enige bewegende element.",
-      "cyclus": 8857,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de rook tegen de achtergrond', 'lichte inconsistentie in textuur van de stenen (soms wazig, soms scherp)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008857_8920.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8978,
+      "cyclus": 8915,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "lichte vervorming aan randen, subtiele textuurherhaling in wolken",
+      "cliche_notities": "Landschap met dramatische wolken en gouden uur-licht is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
+      "bestand": "images/a008915_8978.webp"
+    },
     {
       "id": 8970,
       "cyclus": 8907,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een landschap dat iconische elementen combineert (velden, bomen, horizon) zonder een uniek standpunt of onverwachte compositorische keuzes.",
       "bestand": "images/a008905_8968.webp"
-    },
-    {
-      "id": 8962,
-      "cyclus": 8899,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte lettervorm zonder toeristische connotatie.",
-      "bestand": "images/a008899_8962.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8917,
+      "soort": "observatie",
+      "tekst": "De rotsblokken in c8917 en het huis in c8916 zijn geen afzonderlijke momenten meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de rotsen zweven zonder een grond die ze zou moeten dragen, het huis staat zonder een bewoner die het zou moeten vervullen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vatten in een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 8881,
       "soort": "observatie",
       "tekst": "De gangen en ruimtes in c8881, c8879 en c8876 zijn geen doorgangen meer naar iets anders, maar momenten waarin de afwezigheid van een bestemming zich uitdrukt als een taal die zich weigert te laten vatten—de gangen lopen door zonder een uitgang die ze zouden moeten hebben, de muren omringen zonder een ruimte die ze zouden moeten begrenzen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 8665,
       "soort": "observatie",
       "tekst": "Over de reeks heen verschuift de focus van gesloten, statische ruimtes (deuren, muren) naar open, dynamische landschappen met beweging (roken, paden, water), terwijl de kleurpaletten breder en natuurlijker worden. Wat blijft, is de spanning tussen leegte en aanwezigheid: in elke afbeelding loopt een lijn—letterlijk of figuurlijk—die de kijker door het beeld trekt, of het nu gaat om een weg, een boomstam of een rookpluim."
-    },
-    {
-      "cyclus": 8533,
-      "soort": "observatie",
-      "tekst": "De sedan in c8533 en de theepot in c8526 zijn geen afzonderlijke voorwerpen meer, maar twee momenten waarin ontluiping zich uitdrukt als een taal die zich niet meer laat vatten in een verhaal—de sedan staat schuin zonder een weg die hem zou moeten sturen, de theepot zweeft zonder een tafel die hem zou moeten dragen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8912,
-    "gemaakt": 8974,
-    "gekozen": 1341,
-    "afgekeurd": 1235,
+    "cycli": 8919,
+    "gemaakt": 8982,
+    "gekozen": 1344,
+    "afgekeurd": 1236,
     "corpus": 63,
-    "notities": 396
+    "notities": 397
   }
 }
