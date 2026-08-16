@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T16:00+02:00",
+  "bijgewerkt": "2026-08-16T16:15+02:00",
   "werk": [
+    {
+      "id": 8884,
+      "titel": "Glimmend afval tussen prikkeldoorneren",
+      "beschrijving": "Droog gras en stenen vullen het beeld, met verdorde bloemen die zich tegen een vaag landschap aftekenen. Een amorf, glimmend voorwerp in amberkleur ligt tussen het grind, omringd door prikkeldoorneren en verspreide steentjes. De achtergrond vervaagt in een neutrale, korrelige textuur, terwijl de voorgrond gedetailleerd de textuur van droge bladeren en ruwe stenen onthult. Het licht valt schuin, waardoor schaduwen de diepte van het tafereel benadrukken.",
+      "cyclus": 8821,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele ontbinding en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 10.0,
+      "gekozen": 1,
+      "bestand": "images/w008821_8884.webp"
+    },
+    {
+      "id": 8881,
+      "titel": "Waar blijft de eigenaar",
+      "beschrijving": "Een verweerd houten schuurtje met een schuin dak drijft half ondergedompeld in onrustig water, de houten planken verbleekt en de deur wijd open. Wit schuim kabbelt tegen de romp en het zandstrand, waar een rode schoen en verspreide groene en gele voorwerpen liggen. De achtergrond bestaat uit een grijze, bewolkte hemel met vaag zichtbare, doorschijnende vierkanten die boven het water zweven. De kleuren zijn gedempt, met accenten van roestbruin, blauwgroen en beige, terwijl de golven en het zand een textuur van dikke verfstralen hebben.",
+      "cyclus": 8818,
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte onduidelijkheid in de textuur van het water bij de horizon, maar geen belemmerend",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie en sfeer zijn uniek en niet typisch voor een toeristische ansichtkaart",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008818_8881.webp"
+    },
     {
       "id": 8861,
       "titel": "Barst in het wit",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008765_8828.webp"
-    },
-    {
-      "id": 8825,
-      "titel": "Regendruppels op een groene droom",
-      "beschrijving": "Een groene heuvel domineert het beeld, met een donkere, slanke vorm die diagonaal door het gras loopt, alsof het een spoor of een langgerekte schaduw is. Het gras bestaat uit verschillende groentinten, met gele en donkergroene strepen die beweging suggereren. In de achtergrond strekt zich een blauwgrijze horizon uit, met zachte golven die zich vermengen met een bewolkte hemel. Witte, diagonale lijnen vallen van bovenaf, alsof het regent, en geven het tafereel een natte, sombere sfeer. Rechtsboven is een donkergroene heuvel zichtbaar, die de compositie afsluit met een rustige, ronde vorm. De kleuren zijn gedempt, maar het groen van de heuvel springt eruit als een levendige, bijna onrustige aanwezigheid midden in de stilte.",
-      "cyclus": 8762,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de diagonale donkere vorm die de ruimte activeert.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008762_8825.webp"
-    },
-    {
-      "id": 8824,
-      "titel": "Druppels boven het gras",
-      "beschrijving": "Een witte theepot met deksel en handvat staat op een bijpassend bord op een grijze ondergrond. Achter de theepot groeit een bundel droog, bruin gras met groene steelletjes. Boven het gras vallen vijf witte druppels naar beneden, in een verticale lijn. De achtergrond bestaat uit een donkerblauwe hemel met zachte, witte wolken en een donkere heuvel aan de horizon. De theepot heeft subtiele bruine strepen en een licht textuurpatroon. Het bord werpt een zachte schaduw op de ondergrond.",
-      "cyclus": 8761,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stilleven met subtiele dynamiek en een eigen compositorische keuze.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w008761_8824.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 8821,
-    "gemaakt": 8884,
-    "gekozen": 1321,
+    "cycli": 8829,
+    "gemaakt": 8891,
+    "gekozen": 1323,
     "afgekeurd": 1215,
     "corpus": 63,
     "notities": 395
