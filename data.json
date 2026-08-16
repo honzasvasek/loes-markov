@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T06:45+02:00",
+  "bijgewerkt": "2026-08-16T07:00+02:00",
   "werk": [
     {
       "id": 8644,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 8652,
+      "cyclus": 8589,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische woestijnschap met perfecte zonsondergang en decoratieve compositie zonder duidelijk eigen standpunt.",
+      "bestand": "images/a008589_8652.webp"
+    },
+    {
+      "id": 8651,
+      "cyclus": 8588,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de textuur van het gras en de achtergrondbomen",
+      "cliche_notities": "Dit beeld past bij een typische ansichtkaart van een Nederlands landschap met riet en een verre horizon, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a008588_8651.webp"
+    },
+    {
       "id": 8636,
       "cyclus": 8573,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in houttextuur ladder vs. omringend hout', 'lichte wazigheid in achtergrondgras']",
       "cliche_notities": "Molen en tarwe in een klassieke, decoratieve compositie zonder onverwachte invalshoek",
       "bestand": "images/a008573_8636.webp"
-    },
-    {
-      "id": 8627,
-      "cyclus": 8564,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst die geen duidelijke betekenis heeft.",
-      "bestand": "images/a008564_8627.webp"
-    },
-    {
-      "id": 8624,
-      "cyclus": 8561,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['kleine vervorming in takken bovenste deel', 'lichte inconsistentie in perspectief huizen achtergrond']",
-      "cliche_notities": "Typisch ansichtkaartmotief: gracht met huizen en boom in herfstkleuren, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a008561_8624.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8584,
-    "gemaakt": 8646,
+    "cycli": 8591,
+    "gemaakt": 8654,
     "gekozen": 1284,
-    "afgekeurd": 1184,
+    "afgekeurd": 1186,
     "corpus": 66,
     "notities": 390
   }
