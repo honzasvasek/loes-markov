@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T03:00+02:00",
+  "bijgewerkt": "2026-08-16T03:15+02:00",
   "werk": [
+    {
+      "id": 8528,
+      "titel": "Rook waar de vogels zwijgen",
+      "beschrijving": "Een landschap met zandduinen in zachtroze en beige tinten domineert de achtergrond, waarbij een donkergrijze rookpluim verticaal opstijgt en zich uitstrekt naar een egale, lichtgrijze hemel. Voor de duinen ligt een smalle strook water in gedempte blauwgroene tinten, geflankeerd door groene vegetatie met afwisselende hoogtes en texturen. Twee kale, donkerbruine bomen staan schuin tegenover elkaar in het voorgrondgras, met dunne, uitgestrekte takken die de leegte doorsnijden. Witte stippen, mogelijk vogels of reflecties, zijn verspreid over het gras en het water. De compositie is verticaal opgebouwd, met de rook als centraal visueel anker dat de blik naar boven leidt, terwijl het landschap zich horizontaal uitstrekt. De sfeer is stil en wat verlaten, met een subtiele spanning tussen de lege ruimte en de aanwezige natuur-elementen.",
+      "cyclus": 8465,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een sfeervolle, open compositie zonder duidelijke ansichtkaart-elementen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008465_8528.webp"
+    },
+    {
+      "id": 8526,
+      "titel": "Rook die blijft hangen",
+      "beschrijving": "Een verweerd schuurtje van hout en geteerde dakpannen staat alleen in een grasland, de houten planken gescheurd en verbleekt. Een donkere, wazige rookpluim stijgt op van het dak en wordt door de wind naar links geblazen, alsof het een spoor achterlaat in de lege lucht. Rond het schuurtje liggen verspreid houten afval en dode takken, terwijl het gras hoog en ongeknipt is, met hier en daar een dode steel of een stukje afval. De achtergrond bestaat uit een effen, heldere hemel zonder wolken en een horizonlijn met bomen ver weg. De scène is in zwart-wit, met scherpe contrasten tussen het donkere hout en de lichte lucht, en een gevoel van verlatenheid dat de ruimte om het schuurtje heen vul",
+      "cyclus": 8463,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de textuur van het gras en de schaduwen aan de zijkant van de schuur",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de dynamische rookpluim en de verwaarloosde schuur, wat het boven een typische ansichtkaart verheft",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w008463_8526.webp"
+    },
     {
       "id": 8518,
       "titel": "Druppels tussen twee werelden",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008427_8490.webp"
-    },
-    {
-      "id": 8488,
-      "titel": "Waarom vliegen de vleugels niet?",
-      "beschrijving": "Een vaas met een smalle hals en brede romp staat centraal, getekend in zachte grijstinten tegen een effen achtergrond. Boven de vaas zweven drie witte, wolkachtige vormen met zachte, onregelmatige contouren, alsof ze van schuim of katoen zijn. Twee vleugels, geschilderd in donkerdere grijstinten met subtiel gedetailleerde veerstructuren, strekken zich uit vanaf de schouders van de vaas, alsof ze de wolkenvormen omklemmen. De compositie is symmetrisch, met de vaas als verticale as en de wolken en vleugels die een horizontale balans vormen. De sfeer is rustig en bijna dromerig, door de monochrome kleurstelling en de zwevende, ethische elementen.",
-      "cyclus": 8425,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met vleugels en wolken die geen typische ansichtkaart uitmaakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008425_8488.webp"
-    },
-    {
-      "id": 8483,
-      "titel": "Tegen de horizon door",
-      "beschrijving": "Een golven slaat tegen een muur van verticale houten palen, die zich uitstrekken tot aan de horizon onder een roodbruine hemel met zachte, witte wolken. Het water is donkerbruin met witte schuimranden, en de golven bewegen zich in golvvormige patronen naar het strand. Rechts staat een enkele, slanke boom met donkere bladeren, schuin against de palen, ondersteund door een houten steun. De palen zijn donkerbruin, met enkele bound door touwen, en werpen subtiele schaduwen op het natte zand. Klein stukjes puin en stenen liggen verspreid aan de waterlijn. De kleuren zijn overwegend roodbruin, met accenten van wit, beige en donkerbruin, en de sfeer is rustig maar dynamisch door de beweging van het water.",
-      "cyclus": 8420,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van palen aan horizon', 'lichte wazigheid in details van bladeren boom']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met diagonale palen en ongemakkelijke boom geeft eigen standpunt",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008420_8483.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8473,
-    "gemaakt": 8536,
-    "gekozen": 1265,
+    "cycli": 8480,
+    "gemaakt": 8543,
+    "gekozen": 1267,
     "afgekeurd": 1173,
-    "corpus": 65,
+    "corpus": 66,
     "notities": 389
   }
 }
