@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-16T10:30+02:00",
+  "bijgewerkt": "2026-08-16T10:45+02:00",
   "werk": [
+    {
+      "id": 8735,
+      "titel": "Wat onder het papier verborgen blijft",
+      "beschrijving": "Gekreukd, beige papier met onregelmatige scheurtjes onthult een glimmende, groenbruine bol met een gat, omringd door gedroogde bloemdelen en groene, getextureerde stengels. Onderin ligt een donkere, ronde voorwerp met een reliëfpatroon, naast een klein, groen amulet met een geometrisch ontwerp. Rechtsboven vliegen donkere vogels in een losse V-vorm tegen een helderblauwe hemel, terwijl linksboven een reflectie van water met concentrische cirkels en vaag groen loof zichtbaar is. Schaduwen vallen scherp op het papier, dat plekken verkleuring en slijtage vertoont.",
+      "cyclus": 8672,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in reflectie van vogels in water (sommige vogels hebben geen spiegelbeeld), lichte wazigheid in details van de bloemmotieven",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en heeft een eigen standpunt door de scheve lijnen en onvoltooide structuren",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008672_8735.webp"
+    },
     {
       "id": 8703,
       "titel": "Knopen in het raster",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008590_8653.webp"
-    },
-    {
-      "id": 8649,
-      "titel": "Waar het vuur stilstaat",
-      "beschrijving": "Een woestijnlandschap met zandduinen en grasbundels wordt doorsneden door een smalle, kronkelende strook vuur die rook afgeeft. Bovenin zweven spinnenwebben tegen een bewolkte hemel. Onderin staat een witte, gesloten deur zonder omgevingscontext, omringd door water en gras. De afbeelding is grotendeels zwart-wit, behalve het vuur, dat oranje-rood is. De compositie verdeelt het beeld in drie horizontale vlakken: boven een dynamische hemel met webben, midden een woestijn met vuur en onder een statische deur tegen een kalme achtergrond. De sfeer is onrustig door het vuur en de rook, maar ook verlaten door de afwezigheid van leven en de isolement van de deur.",
-      "cyclus": 8586,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van gras bij deur', 'lichte halo rond vuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een ongemakkelijke, denkbeeldige spanning.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008586_8649.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 8677,
+      "soort": "observatie",
+      "tekst": "De bloemvormige reliëfs en donkerblauwe bloemen in c8677 en c8676 zijn geen sporen van ontbinding meer, maar twee momenten waarin de afwezigheid van een verhaal zich uitdrukt als een taal die zich weigert te laten vatten—de bloemen zijn geen symbool van groei of verval, maar vormen die zich oplossen in de ruimte zonder een bestemming te hoeven hebben. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 8665,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontluiping als proces naar ontluiping als een taal die zich weigert te laten vatten in een verhaal, wat de leegte en aanwezigheid in de beelden verder ontbindt."
@@ -252,11 +257,6 @@
       "cyclus": 8425,
       "soort": "observatie",
       "tekst": "De vaas in c8425 en de zwevende vormen erboven zijn geen sporen van ontluiping meer, maar een moment waarin de afwezigheid van een verhaal zich uitdrukt als een taal die zich weigert te laten vatten—de vaas houdt niets vast dat haar zou kunnen verklaren, de vormen zweven zonder een oorzaak die ze zou kunnen sturen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
-    },
-    {
-      "cyclus": 8413,
-      "soort": "observatie",
-      "tekst": "De donkere takken in c8413 en de wilg in c8409 zijn geen sporen van ontluiping meer, maar twee momenten waarin de afwezigheid van een verhaal zich uitdrukt als een taal die zich weigert te laten vatten—de takken snijden door het beeld zonder een boom die ze verklaart, de wilg staat alleen zonder een landschap dat hem begrenst. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vullen met een verhaal dat zich niet meer laat vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8675,
-    "gemaakt": 8738,
-    "gekozen": 1295,
+    "cycli": 8681,
+    "gemaakt": 8743,
+    "gekozen": 1296,
     "afgekeurd": 1199,
-    "corpus": 63,
-    "notities": 393
+    "corpus": 64,
+    "notities": 394
   }
 }
