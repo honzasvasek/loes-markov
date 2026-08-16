@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-16T17:30+02:00",
+  "bijgewerkt": "2026-08-16T17:45+02:00",
   "werk": [
+    {
+      "id": 8907,
+      "titel": "Druppels die vallen zonder geluid",
+      "beschrijving": "Donkere, kale takken vullen het bovenste deel, met een vaag, lichtgele cirkel erachter. Sneeuw bedekt de grond in onregelmatige, witte vlekken, doorsneden door donkere, glimmende plassen water die de maan en takken weerspiegelen. Het wateroppervlak is onrustig, met kleine golven en drijvende ijsplakjes. De takken aan de rechterkant zijn dikker en donkerder, met druppels die aan de punten hangen. De achtergrond bestaat uit een onscherp, donkerblauw bos, waarbij de bomen steeds smaller worden naarmate ze verder weg staan. De sfeer is koud en stil, met een subtiele beweging in het water en de sneeuw.",
+      "cyclus": 8844,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van takken in bovenste derde', \"Enkele druppels op takken hebben onnatuurlijke, glanzende halo's\"]",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust ongemakkelijk en niet-bevestigend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008844_8907.webp"
+    },
     {
       "id": 8903,
       "titel": "Wat overblijft van de vonk",
@@ -117,22 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008798_8861.webp"
-    },
-    {
-      "id": 8859,
-      "titel": "Penseelstreken in roze dromen",
-      "beschrijving": "Een verticaal, lichtroze, golfvormig vlak domineert het midden van het beeld, met zachte, onregelmatige contouren die naar boven toe smaller worden. Het vlak is opgebouwd uit brede, zichtbare penseelstreken die een textuur geven, met subtiele variaties in kleurintensiteit. Aan weerskanten van dit vlak bevindt zich een effen, donkerder roze achtergrond, die een scherpe contrast vormt met het lichtere midden. Een smalle, donkere lijn loopt horizontaal door het bovenste deel van het lichtroze vlak, net onder een smaller, bijna wit deel dat de top vormt. De compositie is minimalistisch, met veel lege ruimte rond het centrale motief, wat een gevoel van rust en ruimte uitstraalt. De kleuren zijn gedempt en de sfeer is contemplatief, zonder duidelijke onderwerpen of actie.",
-      "cyclus": 8796,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in de overgang tussen de roze en bruine vlakken, alsof de textuur hier iets waziger is dan elders']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met ruimte voor interpretatie, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008796_8859.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8923,
+      "cyclus": 8860,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch landschap (zonsondergang over water met rotsen) met decoratief licht en een klassieke compositie, zonder duidelijke persoonlijke of conceptuele keuze.",
+      "bestand": "images/a008860_8923.webp"
+    },
     {
       "id": 8911,
       "cyclus": 8848,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte tekstcompositie zonder toeristische connotaties.",
       "bestand": "images/a008847_8910.webp"
-    },
-    {
-      "id": 8904,
-      "cyclus": 8841,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'onmogelijke geometrie']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistisch beeld met een eigen compositorische keuze.",
-      "bestand": "images/a008841_8904.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8855,
-    "gemaakt": 8918,
-    "gekozen": 1329,
-    "afgekeurd": 1221,
+    "cycli": 8862,
+    "gemaakt": 8924,
+    "gekozen": 1330,
+    "afgekeurd": 1222,
     "corpus": 63,
     "notities": 395
   }
