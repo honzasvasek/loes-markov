@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T05:30+02:00",
+  "bijgewerkt": "2026-08-16T05:45+02:00",
   "werk": [
     {
       "id": 8605,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8615,
+      "cyclus": 8552,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in perspectief van de brugreling aan de linkerkant', 'enkele bomen hebben onnatuurlijke, herhalende vormen']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een idyllisch dorp met kerk, gracht en brug in een decoratieve, harmonieuze compositie zonder duidelijke persoonlijke keuzes.",
+      "bestand": "images/a008552_8615.webp"
+    },
+    {
       "id": 8603,
       "cyclus": 8540,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "geen zichtbare generatie-artefacten, maar lichte inconsistentie in de horizonlijn (water/sky overgang iets te scherp)",
       "cliche_notities": "Iconisch landschap met vogels in vlucht en eenzame figuur herinnert aan klassieke ansichtkaartcomposities zonder duidelijke persoonlijke invalshoek",
       "bestand": "images/a008535_8598.webp"
-    },
-    {
-      "id": 8594,
-      "cyclus": 8531,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten, maar de overgang tussen de zon en de horizon is iets te scherp en kunstmatig",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een ondergaande zon, een eencilig landschap en een verlaten boerderijtje, zonder onverwachte compositorische keuzes",
-      "bestand": "images/a008531_8594.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8549,
-    "gemaakt": 8612,
+    "cycli": 8557,
+    "gemaakt": 8619,
     "gekozen": 1279,
-    "afgekeurd": 1179,
-    "corpus": 65,
+    "afgekeurd": 1180,
+    "corpus": 66,
     "notities": 390
   }
 }
