@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-16T07:30+02:00",
+  "bijgewerkt": "2026-08-16T07:45+02:00",
   "werk": [
+    {
+      "id": 8668,
+      "titel": "Druppels in de roze horizon",
+      "beschrijving": "Een roze hemel vult het bovenste deel, met oranje-paarse wolken die zich uitstrekken in onregelmatige, zachte vormen. Drie dunne, roze lijnen snijden schuin door de lucht. Onderaan loopt een oranje-bruine horizon met een ongelijkmatige rand, waar kleine, glanzende druppels liggen. Achter de horizon vaag je een roze heuvelrug waarnemen. De onderste helft bestaat uit een effen, lichtroze vlak met subtiele textuur en een paar dunne, onzichtbare lijnen. Kleuren overlopen elkaar zacht, zonder scherpe overgangen.",
+      "cyclus": 8605,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in horizonlijn', 'lichte inconsistentie in textuur van wolken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-standaard compositie met ruimte voor interpretatie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w008605_8668.webp"
+    },
     {
       "id": 8656,
       "titel": "Vuurgolven door zand",
@@ -13,6 +26,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w008593_8656.webp"
+    },
+    {
+      "id": 8653,
+      "titel": "Korrelig grensgebied",
+      "beschrijving": "Twee vlakken van textuurrijke kleur vullen het beeld, gescheiden door een scherpe horizontale lijn. Bovenaan een zacht, korrelig rozebruin, onderaan een diepere, donkerder rode tint met een vergelijkbare korrelige structuur. Geen vormen, geen details, geen afwijkingen—alleen de tegenstelling tussen de twee vlakken en hun subtiele kleurverschil. De sfeer is statisch, zonder beweging of diepte, alsof de ruimte stilstaat op het moment waarop de kleuren elkaar raken.",
+      "cyclus": 8590,
+      "tech_score": 10.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008590_8653.webp"
     },
     {
       "id": 8649,
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008549_8612.webp"
-    },
-    {
-      "id": 8605,
-      "titel": "Druppels voor de val",
-      "beschrijving": "Een glazen vaas staat centraal op een houten oppervlak, met een donkergrijze achtergrond. De vaas is doorzichtig, met subtiele reflecties en kleine luchtbelletjes in het glas. Twee zwarte druppels hangen boven de vaas, net boven de rand, alsof ze net gaan vallen. Het glas heeft een lichte groene ondertoon en de rand van de vaas is iets breder dan de rest. De houten ondergrond heeft een donkerbruine kleur met zichtbare nerf en kleine onregelmatigheden. De compositie is rustig, met de vaas als enig focuspunt en de druppels die een gevoel van spanning toevoegen.",
-      "cyclus": 8542,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflecties op het glas', 'lichte wazigheid in de achtergrondtextuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele spanning tussen vorm en leegte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008542_8605.webp"
-    },
-    {
-      "id": 8592,
-      "titel": "Wortels die door porselein groeien",
-      "beschrijving": "Een getekende kom met een boom erin, waarbij de wortels door de bodem van de kom heen groeien en zich uitstrekken naar beneden. De kom heeft een lichte, textuurrijke oppervlakte met subtiele schaduwval, en aan weerskanten steekt een puntig, metaalachtig voorwerp uit de rand. De boom heeft een slanke stam met vertakkingspunten die overgaan in fijn getekende bladeren, terwijl de wortels een complex patroon vormen met dunne, kronkelende lijnen. De achtergrond is egaal en lichtgekleurd, waardoor de kom en de boom centraal staan. De schaduw onder de kom is donker en wazig getekend, wat diepte aan de compositie toevoegt.",
-      "cyclus": 8529,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in schaduwval aan rechterkant, lichte wazigheid in de wortels",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een surrealistische compositie met eigen taal",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008529_8592.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 8670,
+      "cyclus": 8607,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met eigen standpunt.",
+      "bestand": "images/a008607_8670.webp"
+    },
     {
       "id": 8662,
       "cyclus": 8599,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst als centraal element.",
       "bestand": "images/a008594_8657.webp"
-    },
-    {
-      "id": 8655,
-      "cyclus": 8592,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een letter als vormgevend element.",
-      "bestand": "images/a008592_8655.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8603,
-    "gemaakt": 8666,
-    "gekozen": 1287,
-    "afgekeurd": 1189,
-    "corpus": 66,
+    "cycli": 8609,
+    "gemaakt": 8671,
+    "gekozen": 1289,
+    "afgekeurd": 1190,
+    "corpus": 67,
     "notities": 390
   }
 }
