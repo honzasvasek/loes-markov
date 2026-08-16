@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T23:15+02:00",
+  "bijgewerkt": "2026-08-16T23:30+02:00",
   "werk": [
     {
       "id": 9052,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 9060,
+      "cyclus": 8997,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming van bomen aan horizon', 'onscherpe achtergrondgevels']",
+      "cliche_notities": "Gracht met boten en regen is een typisch Nederlands ansichtkaartmotief zonder duidelijke persoonlijke inval",
+      "bestand": "images/a008997_9060.webp"
+    },
+    {
+      "id": 9056,
+      "cyclus": 8993,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['geen duidelijke generatie-artefacten, maar wat wazigheid in de achtergrond en wat onnauwkeurige details in de handen en gezichtsuitdrukkingen']",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molens en water) en de decoratieve, bijna nostalgische stijl zonder sterke compositorische keuze.",
+      "bestand": "images/a008993_9056.webp"
+    },
+    {
       "id": 9045,
       "cyclus": 8982,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['lichte inconsistentie in perspectief van de deurpanelen', 'enkele wazige details in de achtergrondboom']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch landschap, een huisje in de verte en een symmetrische opstelling van riet en water, zonder duidelijke persoonlijke keuzes in compositie of onderwerp.",
       "bestand": "images/a008982_9045.webp"
-    },
-    {
-      "id": 9044,
-      "cyclus": 8981,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde cijfers op klok (X1, X2)', 'inconsistente perspectieven in bakstenen']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op ontbinding van structuur.",
-      "bestand": "images/a008981_9044.webp"
-    },
-    {
-      "id": 9039,
-      "cyclus": 8976,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, verontrustende sfeer met overgebleven sporen van verlatenheid.",
-      "bestand": "images/a008976_9039.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8993,
-    "gemaakt": 9055,
+    "cycli": 9001,
+    "gemaakt": 9063,
     "gekozen": 1355,
-    "afgekeurd": 1252,
-    "corpus": 63,
+    "afgekeurd": 1254,
+    "corpus": 62,
     "notities": 398
   }
 }
