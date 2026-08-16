@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-16T15:30+02:00",
+  "bijgewerkt": "2026-08-16T15:45+02:00",
   "werk": [
+    {
+      "id": 8861,
+      "titel": "Barst in het wit",
+      "beschrijving": "Een witte koffiekop met een diepe, donkere barst loopt van de rand tot net boven het handvat, rustend op een bijpassend kopje met een subtiele barst aan de rand. Twee bolvormige objecten flankeren de kop: links een lichtgrijze bol met goudkleurige en witte vlekken, rechts een donkerdere bol met bruine en grijze tinten en glanzende reflecties. De achtergrond is een egaal, zachtgrijs vlak dat overgaat in een witte ondergrond waar de voorwerpen op staan. Schaduwen onder de kop en de bollen zijn zacht en blauwig, terwijl het licht van linksboven komt, wat de glans op de kop en de textuur van de barsten benadrukt. De compositie is rustig en symmetrisch, met de kop als centraal punt dat de aandacht trekt door zijn imperfectie.",
+      "cyclus": 8798,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stillevens met subtiele onvolkomenheden en een eigen compositorische keuze.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w008798_8861.webp"
+    },
     {
       "id": 8859,
       "titel": "Penseelstreken in roze dromen",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w008761_8824.webp"
-    },
-    {
-      "id": 8818,
-      "titel": "Blauw door het grijs",
-      "beschrijving": "Een omgekeerde, metalen beker ligt schuin in een veld van lang, droog gras. Het gras is grotendeels grijs, maar in het midden van de afbeelding kleurt het levendig blauw, alsof er een onzichtbare cirkel van kleur doorheen loopt. De beker heeft een matte, iets verweerde textuur en reflecteert zwak het omringende licht. Rond de beker doorlopen de grasspelden verschillende lengtes en richtingen, sommige raakend aan de rand van de beker, andere wijzer. De achtergrond vervaagt langzaam naar een donkerder grijs, waardoor het blauwe deel van het gras en de beker als een stil, bijna zwevend moment blijven hangen in het beeld.",
-      "cyclus": 8755,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond het voorwerp in het gras', 'lichte inconsistentie in textuur van gras bij randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en niet bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008755_8818.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 8808,
-    "gemaakt": 8871,
-    "gekozen": 1320,
+    "cycli": 8815,
+    "gemaakt": 8878,
+    "gekozen": 1321,
     "afgekeurd": 1214,
-    "corpus": 63,
+    "corpus": 64,
     "notities": 395
   }
 }
