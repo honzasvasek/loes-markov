@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-16T23:45+02:00",
+  "bijgewerkt": "2026-08-17T00:00+02:00",
   "werk": [
+    {
+      "id": 9072,
+      "titel": "Rook die blijft hangen in vierkanten",
+      "beschrijving": "Een kom met rook die omhoog stijgt domineert het midden, omringd door donkere, vierkante vormen die lijken te zweven. Een tak met knoppen snijdt schuin door het beeld, terwijl op de achtergrond een zandig landschap met kale bomen en zachte heuvels uitstrekt. Witte en donkere strepen en vlekken suggereren beweging en textuur, met een schaduw die de kom omhult. De sfeer is stil en verlaten, met een focus op de contrasten tussen de vaste vormen en de vluchtige rook.",
+      "cyclus": 9009,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de tak en de kom.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009009_9072.webp"
+    },
+    {
+      "id": 9068,
+      "titel": "Damp die zwijgt",
+      "beschrijving": "Een kop thee rust op een schotel, de damp die erop stijgt vormt een slanke, golvende kolom die zich opsplitst in dunne, donkere lijnen. Boven de kop zweeft een tak met knoesten en kleine takjes, alsof deze de damp vastgrijpt en door de lucht trekt. De achtergrond bestaat uit een vaag, getekend landschap met zachte, onscherpe vormen die bomen en heuvels suggereren. De kop en schotel zijn getekend met fijne, realistische lijnen, terwijl de damp en de tak een meer losse, expressieve stijl hebben. Donkere vlekken en spetters verspreiden zich over het beeld, alsof ze door de lucht dwarren. De sfeer is stil en contemplatief, met een subtiele spanning tussen de vaste vorm van de kop en de vluchtige, onvatbare damp.",
+      "cyclus": 9005,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte onregelmatigheden in textuur van achtergrond, maar niet afbrekend",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is subtiel en niet typisch ansichtkaart-achtig",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009005_9068.webp"
+    },
     {
       "id": 9063,
       "titel": "Druppels met geheime koers",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w008962_9025.webp"
-    },
-    {
-      "id": 9015,
-      "titel": "De theepot die de lucht doorklift",
-      "beschrijving": "Een donkere theepot zweeft in een werveling van rookachtige vormen, met een gebogen neus en handvat dat de lucht doorkleeft. Onderaan loopt een kronkelend pad van lichte golven tussen donkere, onregelmatige rotsen en slanke, uitgestrekte planten. Rechts staat een eenvoudig gebouw met een schuin dak en een raam met ruitjes, de muren getekend met losse, donkere strepen. De achtergrond is een mengsel van zachte, wazige vormen en scherpe, donkere vlekken, alsof rook en water samen de ruimte invullen. Donkere spatten en fijne lijnen geven de scène een onrustige, bijna bewegende sfeer, terwijl de theepot als een zware, donkere bol in het midden hangt, omringd door lichte, wazige cirkels.",
-      "cyclus": 8952,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w008952_9015.webp"
-    },
-    {
-      "id": 9007,
-      "titel": "Rook die blijft hangen in zand",
-      "beschrijving": "Een versleten, donker potje met onregelmatige randen staat centraal, gevuld met slanke, donkere grassprietjes die schuin omhoog steeken. Rook stijgt in een slanke, golvende kolom op vanuit het potje, verdwijnend in een vaag, korrelig landschap van zand en verspreide vegetatie. Donkere vlekken en spatten omringen het potje, alsof er iets is uitgespat of aan het ontbinden is. De achtergrond toont een onscherpe, verlaten omgeving met wat lijkt op houten structuren en een smalle, lichte weg die afbuigt. De sfeer is stil en verlaten, met een gevoel van verdwijnen en ontbinding.",
-      "cyclus": 8944,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte onnauwkeurigheid in de textuur van de rook (te glad/lineair)",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w008944_9007.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9070,
+      "cyclus": 9007,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een huis met een rode dak en een boom in een groen landschap, met decoratief perfect licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a009007_9070.webp"
+    },
     {
       "id": 9067,
       "cyclus": 9004,
@@ -150,15 +159,6 @@
       "tech_notities": "['lichte vervorming van bomen aan horizon', 'onscherpe achtergrondgevels']",
       "cliche_notities": "Gracht met boten en regen is een typisch Nederlands ansichtkaartmotief zonder duidelijke persoonlijke inval",
       "bestand": "images/a008997_9060.webp"
-    },
-    {
-      "id": 9056,
-      "cyclus": 8993,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['geen duidelijke generatie-artefacten, maar wat wazigheid in de achtergrond en wat onnauwkeurige details in de handen en gezichtsuitdrukkingen']",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molens en water) en de decoratieve, bijna nostalgische stijl zonder sterke compositorische keuze.",
-      "bestand": "images/a008993_9056.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9006,
-    "gemaakt": 9069,
-    "gekozen": 1358,
-    "afgekeurd": 1255,
+    "cycli": 9015,
+    "gemaakt": 9077,
+    "gekozen": 1360,
+    "afgekeurd": 1256,
     "corpus": 63,
     "notities": 398
   }
