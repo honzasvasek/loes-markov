@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-16T17:45+02:00",
+  "bijgewerkt": "2026-08-16T18:00+02:00",
   "werk": [
     {
       "id": 8907,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 8929,
+      "cyclus": 8866,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (planten)', 'inconsistent perspectief (daken)']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Aziatische architectuur en decoratieve planten, zonder eigen compositorische keuze.",
+      "bestand": "images/a008866_8929.webp"
+    },
+    {
       "id": 8923,
       "cyclus": 8860,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een surrealistische compositie met symbolische elementen.",
       "bestand": "images/a008848_8911.webp"
-    },
-    {
-      "id": 8910,
-      "cyclus": 8847,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte tekstcompositie zonder toeristische connotaties.",
-      "bestand": "images/a008847_8910.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 8862,
-    "gemaakt": 8924,
+    "cycli": 8867,
+    "gemaakt": 8929,
     "gekozen": 1330,
-    "afgekeurd": 1222,
+    "afgekeurd": 1223,
     "corpus": 63,
     "notities": 395
   }
