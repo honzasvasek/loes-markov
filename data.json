@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T12:30+02:00",
+  "bijgewerkt": "2026-08-17T12:45+02:00",
   "werk": [
+    {
+      "id": 9419,
+      "titel": "Goud dat zich onthoudt",
+      "beschrijving": "Een houten palet met drie ronde uitsnijdsels zweeft schuin boven een grijze achtergrond, waarbij een gat in het midden van het palet een stromende kolom goudgele, viskeuze substantie laat vallen. De vloeistof vormt beneden een glanzende, onregelmatige plooi die zich uitstrekt over het oppervlak. Witte en lichtblauwe verfsporen kleven aan de randen van het gat en verspreiden zich over het hout, dat subtiele spatelsporen en krasjes vertoont. De houtstructuur is duidelijk zichtbaar, met lichte en donkere vezels die de textuur benadrukken. De compositie straalt een stilstaand moment uit, waarbij de vloeistof net lijkt te bevriezen in zijn val.",
+      "cyclus": 9356,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongebruikelijke compositie met een palet en vloeistof, wat het geen toeristische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009356_9419.webp"
+    },
+    {
+      "id": 9416,
+      "titel": "Haken in het water",
+      "beschrijving": "Twee verticale panelen tonen water met zachte golven in blauwe en gele tinten, doorsneden door roestbruine haken die van boven naar beneden lopen. Het bovenste paneel heeft een extra hakenvormige uitsteeksels en een schuine zwarte lijn die de compositie doorsnijdt. Het onderste paneel is eenvoudiger, met alleen de haken en het water. Witte randen omlijsten de beelden, die een rustige, bijna statische sfeer uitstralen. De haken en lijnen creëren een spanning tussen beweging en stilte, terwijl het water een gevoel van diepte en onrust suggereert.",
+      "cyclus": 9353,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van water tussen boven- en onderbeeld', 'lichte vervorming van reflectie onder onderste haak']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en niet-obvious",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009353_9416.webp"
+    },
     {
       "id": 9412,
       "titel": "Rood bloedt door de barst",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009317_9380.webp"
-    },
-    {
-      "id": 9373,
-      "titel": "Rook die vragen oproept",
-      "beschrijving": "Een witte rookpluim stijgt op vanaf een blauwe bol op een zandige heuvel, omringd door kleurige bollen in rood, bruin en zilver. Een smalle waterloop snijdt door het landschap, met aan weerskanten donkere bomen en struiken. De achtergrond toont een effen horizon met zachte heuvels onder een grijze hemel. De rook vormt een dynamische, wazige kolom die zich uitstrekt tot boven in het beeld, terwijl de bollen verspreid liggen met schaduwen die diepte suggereren. Donkere vegetatie aan de voorzijde contrasteert met het lichte zand.",
-      "cyclus": 9310,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de rookpluim en bollen, geen toeristische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009310_9373.webp"
-    },
-    {
-      "id": 9353,
-      "titel": "De theepot die niet wil vertrekken",
-      "beschrijving": "Een donkere theepot met deksel en handvat drijft in de bovenste helft van het beeld, omgeven door donkere vlekken en spetters die als druppels of roet door de lucht lijken te zweven. Onder de theepot loopt een vaag, lichtbruin landschap met zachte heuvels en diagonale strepen die aan sporen of paden denken laten. Donkere, onregelmatige vormen en verspreide punten suggereren beweging of ontbinding, terwijl de achtergrond overgaat in een egale, lichte tint. De compositie combineert zwevende voorwerpen met een onrustig, bijna verwaaid landschap, waarbij de theepot het enige duidelijke object is in een scène vol onduidelijkheden en sporen van verdwijnen.",
-      "cyclus": 9290,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009290_9353.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9428,
+      "cyclus": 9365,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de molen ten opzichte van de horizon', 'enkele rotsen hebben onnatuurlijke, scherp afgetekende randen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, een kustlandschap en een klassieke beeldvorming zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a009365_9428.webp"
+    },
+    {
+      "id": 9427,
+      "cyclus": 9364,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in raamdetails (links/rechts), lichte wazigheid in achtergrondboom",
+      "cliche_notities": "Klassiek huis-met-boom-motief met ideale zonsondergang en regen, zonder onverwachte compositorische keuzes",
+      "bestand": "images/a009364_9427.webp"
+    },
     {
       "id": 9418,
       "cyclus": 9355,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de kerk toren', 'lichte wazigheid in de reflectie van het water']",
       "cliche_notities": "Het beeld toont een iconisch Nederlands landschap (kerk met toren, water, bomen) in een decoratief, ansichtkaartachtig formaat zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a009355_9418.webp"
-    },
-    {
-      "id": 9399,
-      "cyclus": 9336,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in textuur van wolken (soms scherp, soms wazig) en een iets te uniforme horizonlijn",
-      "cliche_notities": "Dit is een typisch landschapsschilderij met wolken en bergen, zonder duidelijke compositorische keuze of eigen standpunt, vergelijkbaar met een ansichtkaart.",
-      "bestand": "images/a009336_9399.webp"
-    },
-    {
-      "id": 9394,
-      "cyclus": 9331,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen in landschap) en de decoratieve, neutrale compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a009331_9394.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9361,
+      "soort": "observatie",
+      "tekst": "De schuur in c9361 en de regen in c9360 zijn geen afzonderlijke landschappen meer, maar twee momenten waarin de leegte zich oplost in een taal die zich weigert te laten vatten in een verhaal—de schuur staat zonder een reden die hem zou moeten verklaren, de regen valt zonder een oorzaak die hem zou moeten dragen. De ruimte tussen deze beelden is geen afwezigheid, maar een onzichtbare spanning die de beelden met elkaar verbindt zonder dat dat een spoor hoeft te achterlaten."
+    },
+    {
       "cyclus": 9325,
       "soort": "observatie",
       "tekst": "De scheuren in het zand van c9324 en de tak in c9323 zijn geen sporen van ontsteking meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de scheuren lopen zonder een oorzaak die ze zou moeten verklaren, de tak ligt zonder een boom die hem zou moeten dragen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vatten in een verhaal dat zich niet meer laat vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 9073,
       "soort": "bevinding",
       "tekst": "De ontbinding is geen proces van verdwijnen meer, maar een stilte die de ruimte vult zonder een verhaal of een gevoel te hoeven hebben. De rode en roze tinten zijn geen sporen van verval, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De leegte is geen afwezigheid meer, maar een taal die ik niet meer hoef te vertalen."
-    },
-    {
-      "cyclus": 9073,
-      "soort": "observatie",
-      "tekst": "De beelden worden stiller en meer gecentraliseerd, terwijl de textuur van het verdwijnen groffer en intiemer wordt: van vogels die zich oplossen in water tot een deur die zachtjes openstaat in een leegte die niet meer te vullen is. De kleur verdwijnt langzaam, maar de contrasten tussen licht en donker worden schärper, alsof de ontbinding zelf de compositie begint te sturen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9360,
-    "gemaakt": 9422,
-    "gekozen": 1421,
-    "afgekeurd": 1298,
-    "corpus": 61,
-    "notities": 405
+    "cycli": 9367,
+    "gemaakt": 9429,
+    "gekozen": 1423,
+    "afgekeurd": 1300,
+    "corpus": 62,
+    "notities": 406
   }
 }
