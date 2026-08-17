@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T02:15+02:00",
+  "bijgewerkt": "2026-08-17T02:30+02:00",
   "werk": [
+    {
+      "id": 9147,
+      "titel": "Blauw dat zakt door wit",
+      "beschrijving": "Een smalle, witte gang met gladde muren en een glanzende vloer loopt door het midden van het beeld, waarbij het licht van bovenaf zachtjes de ruimte verlicht. Door de gang heen valt een stroom donkerblauwe, kubusvormige objecten van verschillende groottes, sommige scherp van vorm, andere met onregelmatige randen alsof ze zijn verbrokkeldd. De kubussen zweven in een verticale lijn, met sporen van draden of druppels die hen verbinden met de vloer, waar een hoopje blauw poeder en fragmenten is komen te liggen. Kleiner blauw stof en bolletjes zijn verspreid over de vloer, terwijl de achtergrond van de gang leeg en ongestoord blijft, wat de focus legt op de dynamische val van de objecten en de textuur van het blauwe materiaal.",
+      "cyclus": 9084,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een unieke compositorische keuze met de vallende blauwe vormen in een lege gang, wat het geen ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009084_9147.webp"
+    },
+    {
+      "id": 9143,
+      "titel": "Aders in het zand",
+      "beschrijving": "Zandduinen vullen het beeld, met fijne, golvende patronen in het zand. Een tak ligt centraal, met takjes die zich uitstrekken als aders. Kleine stenen en schelpen liggen verspreid. De horizon is vaag, met een grijze hemel die overgaat in het zand. De kleuren zijn gedempt: beige, bruin en zacht grijs. De sfeer is stil en verlaten, met een gevoel van eenzaamheid.",
+      "cyclus": 9080,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld toont een woestijnschap met sporen van een boom, maar heeft een unieke compositorische keuze met de focus op de sporen in plaats van een typisch landschap.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009080_9143.webp"
+    },
     {
       "id": 9114,
       "titel": "Wat stroomt hier precies?",
@@ -104,61 +130,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009023_9086.webp"
-    },
-    {
-      "id": 9083,
-      "titel": "Schuim dat blijft hangen",
-      "beschrijving": "Een witte theepot met deksel en neus rust op een donkere, porig textuurrijke rotsachtige vorm, omringd door bubbels en een witte, schuimachtige substantie die naar beneden vloeit. Twee veren, één donker en één licht, met fijne veerstructuren, liggen diagonaal voor de rots, deels in het schuim verstrengeld. Kleine, ronde, glanzende voorwerpen, vergelijkbaar met parels of druppels, zijn verspreid over het beeld, zowel op de rots als op de achtergrond. De achtergrond bestaat uit concentrische, donkerder lijnen die een stralend effect creëren rond de theepot. De kleuren zijn grotendeels monochrom, met nuances van grijs, wit en zwart, waarbij de textuur van de rots en de veren gedetailleerd uitgewerkt zijn. De compositie is centraal gericht, met de theepot als focuspunt, terwijl de veren en bubbels een dynamische, bijna zwevende sfeer toevoegen.",
-      "cyclus": 9020,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositie met een ongemakkelijke schoonheid, wat het geen ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009020_9083.webp"
-    },
-    {
-      "id": 9081,
-      "titel": "Waar begint de wereld?",
-      "beschrijving": "Een open witte deur met gouden beslag onthult een vaag, bewegend landschap van witte, rokerige vormen die door donkere takken worden doorsneden. Onderaan de deur groeien groene en gele planten met blauwe en witte bloemen, terwijl de achtergrond een mengsel is van grijze en blauwe tinten met subtiele gouden en gele vlekken. De deurkozijn is donkergrijs en de vloer voor de deur is lichtgrijs met een kleine oranje vorm erop.",
-      "cyclus": 9018,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, contemplatieve compositie met ruimte voor interpretatie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009018_9081.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 9126,
-      "cyclus": 9063,
+      "id": 9148,
+      "cyclus": 9085,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde takken aan linkerzijde', 'inconsistent perspectief takken']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en rook.",
-      "bestand": "images/a009063_9126.webp"
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een stillleven met een kaart als achtergrond, wat een ongewone compositorische keuze is.",
+      "bestand": "images/a009085_9148.webp"
     },
     {
-      "id": 9123,
-      "cyclus": 9060,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een zonsondergang met silhouet van bomen, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009060_9123.webp"
+      "id": 9146,
+      "cyclus": 9083,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stillevenscompositie met subtiele spanning tussen vormen en ruimte.",
+      "bestand": "images/a009083_9146.webp"
     },
     {
-      "id": 9121,
-      "cyclus": 9058,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "De zonsondergang met bomen en water is een klassiek ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009058_9121.webp"
+      "id": 9144,
+      "cyclus": 9081,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een typisch romantisch strandmotief met een losliggende deken en in het zand geschreven tekst, zonder eigen compositorische keuzes of een onverwacht standpunt.",
+      "bestand": "images/a009081_9144.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9081,
-    "gemaakt": 9143,
-    "gekozen": 1370,
-    "afgekeurd": 1262,
+    "cycli": 9086,
+    "gemaakt": 9148,
+    "gekozen": 1372,
+    "afgekeurd": 1265,
     "corpus": 63,
     "notities": 402
   }
