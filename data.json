@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-17T10:45+02:00",
+  "bijgewerkt": "2026-08-17T11:00+02:00",
   "werk": [
+    {
+      "id": 9373,
+      "titel": "Rook die vragen oproept",
+      "beschrijving": "Een witte rookpluim stijgt op vanaf een blauwe bol op een zandige heuvel, omringd door kleurige bollen in rood, bruin en zilver. Een smalle waterloop snijdt door het landschap, met aan weerskanten donkere bomen en struiken. De achtergrond toont een effen horizon met zachte heuvels onder een grijze hemel. De rook vormt een dynamische, wazige kolom die zich uitstrekt tot boven in het beeld, terwijl de bollen verspreid liggen met schaduwen die diepte suggereren. Donkere vegetatie aan de voorzijde contrasteert met het lichte zand.",
+      "cyclus": 9310,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de rookpluim en bollen, geen toeristische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009310_9373.webp"
+    },
     {
       "id": 9353,
       "titel": "De theepot die niet wil vertrekken",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009249_9312.webp"
-    },
-    {
-      "id": 9311,
-      "titel": "Rook die leert dansen",
-      "beschrijving": "Een slanke, witte rookpluim stijgt op tegen een donkerblauwe achtergrond die overgaat in een zachtroze horizon. De rook vormt slingerende, bijna dansende vormen met fijne, doorschijnende lagen die zich uitstrekken in een smalle, verticale lijn. Onderin verengt de rook tot een dunne stengel, terwijl hij hoger opklimt in complexe, vloeiende bochten en spiraaltjes. De overgang tussen de rook en de achtergrond is zacht en wazig, met subtiele schaduwen die de diepte van de beweging benadrukken. De sfeer is rustig en zwevend, alsof de rook in een stillzwemmend moment is bevroren.",
-      "cyclus": 9248,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische vorm die ruimte laat voor interpretatie zonder een vaststaand verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009248_9311.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9311,
-    "gemaakt": 9374,
-    "gekozen": 1412,
+    "cycli": 9319,
+    "gemaakt": 9381,
+    "gekozen": 1413,
     "afgekeurd": 1293,
-    "corpus": 62,
+    "corpus": 61,
     "notities": 404
   }
 }
