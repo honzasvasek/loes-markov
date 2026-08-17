@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-17T11:30+02:00",
+  "bijgewerkt": "2026-08-17T11:45+02:00",
   "werk": [
+    {
+      "id": 9396,
+      "titel": "De theepot wacht op regen",
+      "beschrijving": "Een zandstrand met een lichte, bijna witte textuur strekt zich uit tot aan een kalm, grijs wateroppervlak. In de voorgrond staat een donkere, glanzende theepot met een bolle vorm, een gebogen handvat en een deksel met een kleine knop. Rond de theepot liggen verspreid kleine stenen, donkere vlekken en wat lijkt op verbleekte bladeren of stukjes hout. Verderop op het strand staan twee opvouwbare stoelen, één donker en één licht, met een lichte helling alsof ze recent gebruikt zijn. De horizon is recht en verdwijnt in een egale, nevelige lucht zonder duidelijke overgang. Donkere, onregelmatige vormen en sporen lopen door het zand, alsof er iets langs is getrokken of is gevallen. De kleuren zijn gedempt, met veel beige, grijs en donkerbruin, en de sfeer is stil en verlaten.",
+      "cyclus": 9333,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de eisers op de achtergrond', 'lichte wazigheid in de textuur van het water']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een ongewone compositie met een theepot op het strand en eisers, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009333_9396.webp"
+    },
+    {
+      "id": 9392,
+      "titel": "Gras tegen de horizon",
+      "beschrijving": "Twee rechte, grijze muren vormen een scherpe hoek en sluiten een ruimte af die gevuld is met donkerblauw, bijna zwart gras. Het gras is ongelijkmatig, met lange, slanke bladeren die in alle richtingen staan en een textuur creëren die zowel wild als verwaarloosd lijkt. De muren zijn glad en zonder details, met een lichte schaduwwerking bij de hoek waar ze samenkomen. Boven de muren is een smalle strook lucht zichtbaar, lichtgrijs en bewolkt. De overgang tussen het gras en de muren is scherp, alsof de natuur hier abrupt stopt. Er zijn geen sporen van beweging of leven in het beeld, alleen de stilte van een verlaten plek.",
+      "cyclus": 9329,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een minimalistische compositie met een focus op textuur en ruimte, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009329_9392.webp"
+    },
+    {
+      "id": 9387,
+      "titel": "Scheuren in het zandverhaal",
+      "beschrijving": "Zand met fijne, golvende patronen domineert het beeld, doorsneden door twee onregelmatige, verticale scheuren die witte randen onthullen. Links en rechts van de scheuren is water zichtbaar: aan de linkerkant een smalle strook met lichte golven, aan de rechterkant een breder deel met een glimmende, natte oppervlakte. Het zand heeft een warme, beige tint, terwijl het water overgaat in zilvergrijze en lichtblauwe nuances. De scheuren lopen van boven naar beneden, met een licht schuine loop, en creëren een gevoel van diepte tussen de lagen zand en water. Schaduwen in het zand en op het natte oppervlak benadrukken de textuur en de beweging van de golven.",
+      "cyclus": 9324,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in textuur van zand aan weerskanten van scheur, lichte halo rond witte randen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op textuur en spanning tussen lagen",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009324_9387.webp"
+    },
     {
       "id": 9385,
       "titel": "Alleen tegen de golven",
@@ -91,48 +130,27 @@
       "curriculum_score": 4.0,
       "gekozen": 1,
       "bestand": "images/w009279_9342.webp"
-    },
-    {
-      "id": 9336,
-      "titel": "Wat blijft liggen onder de lichtstraal",
-      "beschrijving": "Een vaag landschap met een smalle, diagonale lichtstraal die van rechtsboven naar linksonder loopt, de grijze, nevelige achtergrond doorsnijdt. Onderaan het beeld bevindt zich een onduidelijke horizon met donkere, slanke vormen die op dood gras of takken lijken, verspreid over een roodbruine, vaag getextureerde ondergrond. Enkele kleine, onduidelijke kleuren—geel, blauw en groen—zitten verspreid in dat onderste deel, alsof er iets halfbegraven ligt. De lichtstraal heeft een zachte, onscherpe rand en verlicht een smalle strook van het landschap, terwijl de rest van het beeld in gedempte, koelere tinten verdwijnt. De sfeer is stil en verlaten, met een gevoel van leegte dat de ruimte domineert.",
-      "cyclus": 9273,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond lichtstraal', 'lichte inconsistentie in textuur ondergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust ongemakkelijk en open.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009273_9336.webp"
-    },
-    {
-      "id": 9329,
-      "titel": "Vogels snijden door de mist",
-      "beschrijving": "Een roze-oranje hemel vervaagt in een zachte, mistige horizon boven een kalm, blauwgrijs wateroppervlak met subtiele golven. Acht donkere vogels vliegen in een diagonale lijn van linksboven naar rechtsonder, terwijl aan de rechterkant donkerbruine houten balken een schuine structuur vormen die de compositie doorsnijdt. In de voorgrond lopen parallelle houten planken in een warme oranje-bruine tint schuin door het beeld, met donkere schaduwen ertussenin. Ver in de achtergrond suggereert een vaag, roze heuvelsilhouet een verre kustlijn, omhuld door een dunne laag nevel die de overgang tussen hemel en water verzacht. De sfeer is stil en ruimtelijk, met een balans tussen lege ruimte en gestructureerde lijnen.",
-      "cyclus": 9266,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op spanning tussen leegte en structuur, niet op een bevestigend landschap.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009266_9329.webp"
-    },
-    {
-      "id": 9327,
-      "titel": "Scheve schuren, zinkende daken",
-      "beschrijving": "Twee verweerde houten schuren staan schuin op een besneeuwde heuvel, omringd door kale bomen en struiken. Het bovenste schuurtje, met een scheve dakpan en donkere, leegstaande ramen, lijkt te zakken in de sneeuw, terwijl het onderste schuur, met een deels ingestort dak en een openstaande deur, zich uitstrekt over een vlakker deel van het landschap. Sneeuw bedekt de grond en de daken, met kleine donkere vlekken die rotsen of vuil suggereren. De achtergrond bestaat uit een vaag bos en een lichte hemel, wat de isolatie versterkt. De compositie is verticaal opgebouwd, met de schuren die de beeldvuller domineren en de sneeuw die de ruimte ertussen en eronder vult. De sfeer is stil en verlaten, met een gevoel van verwaarlozing en verloop.",
-      "cyclus": 9264,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie en sfeer zijn niet typisch ansichtkaartmateriaal; de verwaarloosde schuren en sneeuw evoceren een verlaten, bijna ongemakkelijke stilte zonder decoratieve intentie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009264_9327.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9399,
+      "cyclus": 9336,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in textuur van wolken (soms scherp, soms wazig) en een iets te uniforme horizonlijn",
+      "cliche_notities": "Dit is een typisch landschapsschilderij met wolken en bergen, zonder duidelijke compositorische keuze of eigen standpunt, vergelijkbaar met een ansichtkaart.",
+      "bestand": "images/a009336_9399.webp"
+    },
+    {
+      "id": 9394,
+      "cyclus": 9331,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen in landschap) en de decoratieve, neutrale compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a009331_9394.webp"
+    },
     {
       "id": 9390,
       "cyclus": 9327,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijke ansichtkaartwaarde.",
       "bestand": "images/a009327_9390.webp"
-    },
-    {
-      "id": 9388,
-      "cyclus": 9325,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een ongemakkelijke spanning tussen tekst en beeld.",
-      "bestand": "images/a009325_9388.webp"
-    },
-    {
-      "id": 9369,
-      "cyclus": 9306,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in boomtakken (enkele takken verdwijnen plotseling)', 'lichte wazigheid in verre horizon']",
-      "cliche_notities": "Landschap met solitaire boom en weids uitzicht herinnert aan typische ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a009306_9369.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9331,
-    "gemaakt": 9393,
-    "gekozen": 1415,
-    "afgekeurd": 1295,
-    "corpus": 61,
+    "cycli": 9338,
+    "gemaakt": 9400,
+    "gekozen": 1418,
+    "afgekeurd": 1297,
+    "corpus": 62,
     "notities": 405
   }
 }
