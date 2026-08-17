@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T07:00+02:00",
+  "bijgewerkt": "2026-08-17T07:15+02:00",
   "werk": [
+    {
+      "id": 9279,
+      "titel": "Vloer die liegt",
+      "beschrijving": "Een smalle gang met een houten vloer, waar donkerbruine vloeistof in onregelmatige vlekken en sporen loopt, grotendeels opgedroogd maar met natte, glimmende delen. Rook of mist vult de ruimte, dichter bij het plafond en de achtergrond, waar een open deuropening vaag zichtbaar is. Aan de rechterkant bevindt zich een gesloten houten deur met een metalen klink, en verderop nog een deur in de muur. De muren zijn glad en lichtgrijs, met een raam aan de linkerkant dat diffuus daglicht laat binnenstromen. De vloer bestaat uit houten lamellen met zichtbare nerf en knoesten, deels bedekt door de vloeistof en kleine deeltjes vuil. De sfeer is stil en verlaten, met een gevoel van onverwachte verstoring.",
+      "cyclus": 9216,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een ongemakkelijke, spannende sfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009216_9279.webp"
+    },
+    {
+      "id": 9272,
+      "titel": "Hout dat zich herinnert vuur",
+      "beschrijving": "Zes verbrande houten blokken liggen verspreid op een donkergrijze asfaltweg, gescheiden door een scherpe witte lijn die verticaal door het midden loopt. De blokken variëren in vorm en textuur: sommige zijn glad en donker, andere vertonen barsten, schilferende houtvezels of onregelmatige randen. Twee blokken aan de onderkant liggen dichter bij elkaar, waarbij één een klein brokje afbreekt. De schaduwen van het hout vallen scherp en donker op het asfalt, en de witte lijn reflecteert het licht, waardoor hij helder en strak contrasteert met de ruwe, verweerde houtstructuren. De achtergrond bestaat uit een effen, donkere weg die zich uitstrekt tot aan de horizon, zonder extra details of afleiding.",
+      "cyclus": 9209,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongewone compositie met houten blokken op een weg, wat geen toeristische ansichtkaart uitstraalt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009209_9272.webp"
+    },
     {
       "id": 9263,
       "titel": "Kristallen in beweging",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009165_9228.webp"
-    },
-    {
-      "id": 9223,
-      "titel": "Stekelige eenzaamheid",
-      "beschrijving": "Een wit, stekelig object met een langwerpige, asymmetrische vorm ligt op een donkergrijze, korrelige ondergrond. Het object heeft een smalle steel die overgaat in een bredere, amorf vorm met een lichte, vaag getekende structuur erin. Donkere, dunne lijnen lopen door de achtergrond, die een textuur heeft die aan bevroren of bevroren oppervlak denkt. De witte stekels zijn fijn en onregelmatig verdeeld, met een schaduw die het object van de achtergrond scheidt. De compositie is centraal gericht, met veel lege ruimte rond het object.",
-      "cyclus": 9160,
-      "tech_score": 8.0,
-      "tech_notities": "subtiele inconsistentie in textuur van achtergrond (linksboven/rechtsonder), lichte halo rond witte structuur",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een abstracte, niet-verhalende kwaliteit",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009160_9223.webp"
-    },
-    {
-      "id": 9216,
-      "titel": "Rook en regen op de horizon",
-      "beschrijving": "Een smalle, witte rookstraal stijgt opwaaierend op uit een donkere cirkel in het water, omgeven door concentrische ringen die zich uitstrekken over een grijze, rustige vlakte. Regen druipt van een bewolkte hemel, waarbij enkele druppels scherp zichtbaar zijn tegen de donkere silhouetten van palmbomen en heuvels aan de horizon. Donkere, spitse bladeren raken de randen van het beeld, terwijl in de verte een donkere, golvende vorm met kleine witte stippen een vaag pad of kustlijn suggereert. Het water weerspiegelt de regen en de rook, met subtiele schaduwen die de diepte benadrukken. De kleuren zijn grotendeels monochroom, met variaties in grijs, zwart en wit, wat een sfeer van stilte en eenzaamheid oproept.",
-      "cyclus": 9153,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, stilistische voorstelling met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009153_9216.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9277,
+      "cyclus": 9214,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een eenzame strandhut bij zonsondergang) en het decoratieve, kalmerende licht zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009214_9277.webp"
+    },
     {
       "id": 9274,
       "cyclus": 9211,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Beeld past bij een toeristische ansichtkaart met iconisch landschap en decoratief licht zonder eigen standpunt.",
       "bestand": "images/a009210_9273.webp"
-    },
-    {
-      "id": 9271,
-      "cyclus": 9208,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in de perspectief van de windmolen (wieken lijken niet helemaal in lijn met de toren)",
-      "cliche_notities": "De combinatie van een windmolen en een vliegtuig op een baan is een iconisch, bijna ansichtkaartachtig motief zonder duidelijke compositorische of conceptuele draai.",
-      "bestand": "images/a009208_9271.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9212,
-    "gemaakt": 9274,
-    "gekozen": 1394,
-    "afgekeurd": 1279,
-    "corpus": 62,
+    "cycli": 9219,
+    "gemaakt": 9281,
+    "gekozen": 1396,
+    "afgekeurd": 1280,
+    "corpus": 61,
     "notities": 404
   }
 }
