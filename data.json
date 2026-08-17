@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T06:00+02:00",
+  "bijgewerkt": "2026-08-17T06:15+02:00",
   "werk": [
     {
       "id": 9243,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 9254,
+      "cyclus": 9191,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'onrealistische textuur van papier en muur', 'inconsistent perspectief van de beugels en koord']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met onleesbare tekst en ongemakkelijke details.",
+      "bestand": "images/a009191_9254.webp"
+    },
+    {
       "id": 9221,
       "cyclus": 9158,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "Enkele lichte vervormingen in de achtergrondbomen en inconsistentie in de textuur van de rotsen",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart met een idyllisch dorp, kerk en bloemen in een landschap",
       "bestand": "images/a009157_9220.webp"
-    },
-    {
-      "id": 9201,
-      "cyclus": 9138,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren in heuvels en bomen', 'inconsistent perspectief schuur', 'wazige texturen in gras en schuine lijnen', 'herhaalpatronen in hek en spatten', 'detailverlies in schaduwen van schuur', \"halo's bij hoog contrast in witte ruimtes\", 'vervormde handen/gezichten niet aanwezig']",
-      "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een verlaten schuur met hek en landschap, gecombineerd met decoratief perfect licht en geen duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009138_9201.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9185,
-    "gemaakt": 9247,
+    "cycli": 9192,
+    "gemaakt": 9254,
     "gekozen": 1390,
-    "afgekeurd": 1272,
-    "corpus": 62,
+    "afgekeurd": 1273,
+    "corpus": 61,
     "notities": 403
   }
 }
