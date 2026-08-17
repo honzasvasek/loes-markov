@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T14:15+02:00",
+  "bijgewerkt": "2026-08-17T14:30+02:00",
   "werk": [
+    {
+      "id": 9470,
+      "titel": "Rook en vogelvlucht",
+      "beschrijving": "Een donkere, gesloten deur met vier panelen staat centraal in een roze muur, omgeven door een vaag, rokerig effect dat de randen van de deur en de muur onscherp maakt. Voor de deur ligt een donkere, korrelige ondergrond, bestaande uit wat lijkt op as of fijn zand, doorspekt met kleine, onregelmatige stenen, dunne takjes en wat witte, korrelige deeltjes. Een enkele, kleine, donkere vogel vliegt voorbij de deur, net boven de rook. Het licht valt schuin van bovenaf, waardoor de deur en de muur een zachte schaduw werpen op de ondergrond. De sfeer is stil en verlaten, met een gevoel van afwezigheid en ontbinding.",
+      "cyclus": 9407,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009407_9470.webp"
+    },
+    {
+      "id": 9468,
+      "titel": "Rust na de storm?",
+      "beschrijving": "Twee roestbruine haken hangen verticaal in een grijs, waterachtig vlak, omgeven door concentrische cirkels die uitgaan van een donkere stam in het midden. Zwarte bolletjes drijven verspreid, sommige met oranje reflecties. De achtergrond bestaat uit vaag geschilderde, donkere vormen die lijken op bomen of rotsen, met subtiele overgangen van lichtgrijs naar donkergrijs. De haken hebben onregelmatige, gebroken uiteinden en laten sporen van slijtage zien, met oranje-roestige plekken die contrasteren met het koele kleurenpalet. Wateroppervlakken weerspiegelen de haken en de stam, met zachte rimpelingen die de beweging van een recente störing suggereren.",
+      "cyclus": 9405,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflectie van haken in water', 'lichte wazigheid in achtergrondboom']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009405_9468.webp"
+    },
     {
       "id": 9450,
       "titel": "Licht door het raampje",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009353_9416.webp"
-    },
-    {
-      "id": 9412,
-      "titel": "Rood bloedt door de barst",
-      "beschrijving": "Een donkerrood glas met een scherpe, verticale barst loopt van de rand tot de bodem, centraal in beeld. De barst is wit en onregelmatig, met kleine uitlopers die de glazen wand doorsnijden. Het glas staat op een oppervlak met horizontale, afwisselend lichte en donkere strepen, die de achtergrond en de ondergrond vormen. De strepen zijn scherp aan de randen van het glas en vervagen naar de hoeken toe. Het licht valt schuin, waardoor het glas een zachte glans krijgt en de barst dieper lijkt. De kleuren zijn gedempt, met een warme, roodbruine tint die het hele beeld omhult.",
-      "cyclus": 9349,
-      "tech_score": 8.0,
-      "tech_notities": "lichte vervorming aan de randen van het glas, minimale inconsistentie in de schaduwval onder het glas",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een gefocuste compositie met een ongemakkelijke spanning tussen het breken en de lege ruimte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009349_9412.webp"
-    },
-    {
-      "id": 9408,
-      "titel": "Vlakbij de rand valt een vlekje",
-      "beschrijving": "Grijs papier vult het beeld, met een subtiele textuur die licht en schaduw zacht laat spelen. Drie donkere lijnen snijden door de ruimte: twee rechte, schuin lopende strepen die elkaar kruisen en een driehoekige vorm vormen, en een dunne, rechte lijn die parallel aan de onderkant loopt. Kleine, donkere vlekjes verspreiden zich willekeurig over het oppervlak, alsof ze per ongeluk zijn gevallen. De compositie is minimalistisch, met veel lege ruimte die de lijnen en vlekjes benadrukt. De sfeer is kalm en neutraal, zonder duidelijke focus of beweging.",
-      "cyclus": 9345,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009345_9408.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9407,
-    "gemaakt": 9470,
-    "gekozen": 1429,
+    "cycli": 9414,
+    "gemaakt": 9476,
+    "gekozen": 1431,
     "afgekeurd": 1304,
-    "corpus": 60,
+    "corpus": 62,
     "notities": 406
   }
 }
