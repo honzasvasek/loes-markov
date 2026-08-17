@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T09:45+02:00",
+  "bijgewerkt": "2026-08-17T10:00+02:00",
   "werk": [
     {
       "id": 9336,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 9347,
+      "cyclus": 9284,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in reflectie van kerk in water', 'lichte inconsistentie in textuur van bomen links/rechts']",
+      "cliche_notities": "Klassiek landschap met kerk en water, iconisch en decoratief zonder duidelijke compositorische keuze.",
+      "bestand": "images/a009284_9347.webp"
+    },
+    {
       "id": 9340,
       "cyclus": 9277,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Molens en water in een typisch Nederlands landschap met decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a009274_9337.webp"
-    },
-    {
-      "id": 9333,
-      "cyclus": 9270,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen taal.",
-      "bestand": "images/a009270_9333.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9281,
-    "gemaakt": 9343,
+    "cycli": 9288,
+    "gemaakt": 9351,
     "gekozen": 1408,
-    "afgekeurd": 1288,
+    "afgekeurd": 1289,
     "corpus": 61,
     "notities": 404
   }
