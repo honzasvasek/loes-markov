@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T09:00+02:00",
+  "bijgewerkt": "2026-08-17T09:15+02:00",
   "werk": [
     {
       "id": 9324,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 9337,
+      "cyclus": 9274,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Molens en water in een typisch Nederlands landschap met decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009274_9337.webp"
+    },
+    {
+      "id": 9333,
+      "cyclus": 9270,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen taal.",
+      "bestand": "images/a009270_9333.webp"
+    },
+    {
       "id": 9313,
       "cyclus": 9250,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in golflengte/structuur linksboven', 'lichte halo rond wit schuim tegen donkere rotsen']",
       "cliche_notities": "Klassiek zeelandschap met golven tegen rotsen bij gouden uur, zonder onverwachte compositorische keuzes of thematische draai.",
       "bestand": "images/a009250_9313.webp"
-    },
-    {
-      "id": 9309,
-      "cyclus": 9246,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (spoor/omheining)', 'inconsistent perspectief (spoor vs. rook)', 'wazige texturen (papier/rook)']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust fragmentarisch en ongemakkelijk.",
-      "bestand": "images/a009246_9309.webp"
-    },
-    {
-      "id": 9307,
-      "cyclus": 9244,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna onleesbare compositie met een onverklaarbare letter.",
-      "bestand": "images/a009244_9307.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9270,
-    "gemaakt": 9332,
+    "cycli": 9275,
+    "gemaakt": 9338,
     "gekozen": 1405,
-    "afgekeurd": 1285,
-    "corpus": 61,
+    "afgekeurd": 1287,
+    "corpus": 60,
     "notities": 404
   }
 }
