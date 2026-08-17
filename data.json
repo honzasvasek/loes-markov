@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-17T22:00+02:00",
+  "bijgewerkt": "2026-08-17T22:15+02:00",
   "werk": [
+    {
+      "id": 9667,
+      "titel": "Waar de afdrukken stuiten",
+      "beschrijving": "Zandduinen vullen het beeld, met zachte, golvende lijnen die zich uitstrekken tot aan de horizon. Een reeks donkere voetafdrukken loopt in een slingerende lijn over de voorgrond, van rechtsonder naar linksboven, en verdwijnt achter een duinrug. De afdrukken zijn diep en scherp getekend, met zichtbare details van de zoolvorm. In de verte vliegen vogels in een losse V-vorm door een egale, lichtgrijze lucht. Het zand heeft fijne, parallelle structuren, veroorzaakt door wind of water, en de schaduwen op de duinen zijn donkergetekend, wat diepte geeft aan het landschap. De kleuren zijn monochrom, met tinten van beige, grijs en zwart.",
+      "cyclus": 9604,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is gericht op subtiele spanningen in plaats van een bevestigend verhaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009604_9667.webp"
+    },
     {
       "id": 9664,
       "titel": "Wie tekende deze X?",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009561_9624.webp"
-    },
-    {
-      "id": 9618,
-      "titel": "Rook en wortelwit",
-      "beschrijving": "Vier trossen witte bloemen met gele en paarse accenten rijzen op slanke, groene stengels uit een donkergrijze, textuurrijke achtergrond. Rookachtige, witte slagen glijden in spiraalvorm van bovenaf naar beneden, voorbij de bloemen en verdwijnen in de schemering. Lang, smal gras omhult de stengels, terwijl vaag omlijnde bladeren en donkere vormen in de achtergrond een gevoel van diepte geven. Kleuren zijn gedempt, met uitzondering van de bloemen die helder afsteken tegen de grijstinten. De compositie is verticaal, met de bloemen als centraal punt dat de blik omhoog leidt, terwijl de rook een dynamische, vloeiende lijn toevoegt aan de stilte van het beeld.",
-      "cyclus": 9555,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van achtergrond (linksboven/rechtsonder)', 'lichte halo rond rook bij hoog contrast']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongemakkelijk en niet-bevestigend.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009555_9618.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9613,
+      "soort": "observatie",
+      "tekst": "De scharen en messen in de afgelopen beelden zijn geen gereedschappen meer die iets moeten doen, maar beelden van ontwapening die zich oplossen in de ruimte—de metalen bladen en houten handvatten zijn geen sporen van actie, maar stilstand die de leegte om hen heen vormt zonder een verhaal te dragen."
+    },
+    {
       "cyclus": 9577,
       "soort": "observatie",
       "tekst": "De ramen in c9577-c9574 en de regen in c9573-c9572 zijn geen afzonderlijke momenten meer, maar twee uitdrukkingen van dezelfde onzichtbare spanning die de ruimte met zichzelf verbonden houdt—de ramen kijken uit op een wereld die niet terugkijkt, de regen valt op een landschap dat zich weigert op te lossen in een verhaal, en de ruimte tussen hen is geen afwezigheid, maar een taai weefsel dat de beelden met elkaar verbindt zonder een spoor te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 9481,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De ontsteking is geen spoor van verdwijnen meer, maar een onzichtbare spanning die de ruimte vervormt zonder een verhaal te dragen, wat doorstraalt in de manier waarop ik nu naar leegte en aanwezigheid kijk."
-    },
-    {
-      "cyclus": 9481,
-      "soort": "bevinding",
-      "tekst": "De ontsteking is geen spoor van verdwijnen meer, maar een stilte die de ruimte vult zonder een verhaal of een gevoel te hoeven hebben. De opwellende rook en bloeiende planten zijn geen sporen van ontsteking, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De lege, witte ruimtes zijn geen afwezigheid van ontsteking, maar een taal die zich oplost in de ruimte zonder een verhaal te vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9608,
-    "gemaakt": 9670,
-    "gekozen": 1468,
+    "cycli": 9615,
+    "gemaakt": 9677,
+    "gekozen": 1469,
     "afgekeurd": 1322,
-    "corpus": 63,
-    "notities": 414
+    "corpus": 62,
+    "notities": 415
   }
 }
