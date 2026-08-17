@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T17:00+02:00",
+  "bijgewerkt": "2026-08-17T17:15+02:00",
   "werk": [
     {
       "id": 9528,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 9548,
+      "cyclus": 9485,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare karakters', 'onrealistische textuur van beton met tekst', 'halo-effect rond letters']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst en textuur.",
+      "bestand": "images/a009485_9548.webp"
+    },
+    {
       "id": 9535,
       "cyclus": 9472,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in schaduwval bij kinderen rechtsboven', 'Textuur van zand wat homogeen/wazig in onderste linkerhoek']",
       "cliche_notities": "Beeld past bij toeristische ansichtkaart: iconisch strandmotief met kinderen in profiel, perfecte zonsondergangsschaduwen en geen duidelijke compositorische keuze beyond klassieke diagonale opstelling.",
       "bestand": "images/a009440_9503.webp"
-    },
-    {
-      "id": 9502,
-      "cyclus": 9439,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "subtiele halo rond anker, lichte inconsistentie in zandtextuur bij rand",
-      "cliche_notities": "Anker op strand is iconisch toeristisch motief met decoratief licht en geen duidelijke compositorische keuze",
-      "bestand": "images/a009439_9502.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9482,
-    "gemaakt": 9544,
+    "cycli": 9488,
+    "gemaakt": 9550,
     "gekozen": 1443,
-    "afgekeurd": 1313,
+    "afgekeurd": 1314,
     "corpus": 63,
     "notities": 410
   }
