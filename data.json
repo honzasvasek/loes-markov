@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T02:45+02:00",
+  "bijgewerkt": "2026-08-17T03:00+02:00",
   "werk": [
+    {
+      "id": 9158,
+      "titel": "Vonk in het vergane bladwerk",
+      "beschrijving": "Een tak met verschrompelde, bruine bladeren domineert het beeld, de aderen donkerder en de randen verscheurd. De bladeren zijn doorschijnend met vlekken van donkerbruin en zwart, alsof ze door vuur of rot zijn getast. In het midden van de tak brandt een kleine, oranje-gloeierige vlam, die een zachte, flakkerende gloed uitstraalt die de omringende bladeren verlicht. De achtergrond is een vaag, getextureerd grijsbeige met subtiele penseelstreken, waardoor de tak en bladeren scherp afsteken. Kleine, onregelmatige vormen en vlekken—zoals een roze cirkeltje en een blauw puntje—zitten verspreid in de achtergrond, alsof ze uit het niets ontstaan zijn. De sfeer is stil en iets ongemakkelijks, alsof het moment na een plotselinge vonk wordt vastgelegd, zonder dat duidelijk is wat er voor of na gebeurde.",
+      "cyclus": 9095,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de vlammen, lichte inconsistentie in bladstructuren aan de randen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op subtiele spanning tussen verval en aanwezigheid.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009095_9158.webp"
+    },
+    {
+      "id": 9151,
+      "titel": "Vuur dat fluistert met hout",
+      "beschrijving": "Donkerbruine, verkoolde houtvezels vullen het beeld, met diepe, golvende richels en kleine, witte asdeeltjes verspreid over het oppervlak. Rechtsboven vlammen oranje-rode vlammen op, vaag en wazig, met een donkere, rokerige achtergrond die overgaat in grijsbruine tonen. Een dunne, donkere tak loopt diagonaal door de bovenste helft, scherp tegen de vlammen afgetekend. De textuur van het hout is ruw en onregelmatig, met opgeheven randen en kleine putjes. De vlammen werpen een warme gloed op de rechterkant, terwijl de linkerzijde donker en koel blijft.",
+      "cyclus": 9088,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, close-up compositie met een focus op textuur en spanning tussen vuur en hout, zonder iconische of decoratieve elementen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009088_9151.webp"
+    },
     {
       "id": 9147,
       "titel": "Blauw dat zakt door wit",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009029_9092.webp"
-    },
-    {
-      "id": 9089,
-      "titel": "Vogel in de werveling",
-      "beschrijving": "Zwart-wit golven en wolken vullen het beeld in een dynamische, bijna chaotische werveling. De vormen zijn opgebouwd uit fijne, parallelle lijnen die de indruk wekken van beweging en textuur, met donkere en lichte contrasten die diepte suggereren. Witte randen omlijnen sommige golven en wolken, waardoor ze scherp afsteken tegen de donkerdere achtergrond. In het midden van de compositie zweeft een klein, donker vogel silhouet, met gespreide vleugels, alsof het door de wervelwind wordt meegesleurd. De achtergrond bestaat uit subtiele, schuine lijnen die een gevoel van ruimte en onrust uitstralen, terwijl de voorgrond domineerd wordt door de overvloedige, bijna overweldigende aanwezigheid van de golven en wolken. Het geheel straalt een intense, bijna onrustbarende sfeer uit, zonder een duidelijk middelpunt of rustpunt.",
-      "cyclus": 9026,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; de golven en wolken zijn geen iconisch motief en de compositie heeft een eigen, dynamische spanning zonder decoratief perfect licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009026_9089.webp"
-    },
-    {
-      "id": 9086,
-      "titel": "Vezels in de scheur",
-      "beschrijving": "Een scherpe, diagonale scheur loopt door het beeld, van linksboven naar rechtsonder, en scheidt een zachtblauwe bovenkant van een crèmekleurige onderkant. De rand van de scheur is onregelmatig en vezelig, met kleine, uitstaande vezels die een ruwe textuur suggereren. Onder de scheur valt een donkere, golvende schaduw die de diepte van de scheiding benadrukt. De blauwe bovenkant heeft een gelijkmatige, bijna effen textuur, terwijl de crèmekleurige onderkant een subtiele, korrelige structuur vertoont. De compositie is minimalistisch, met de scheur als enige dynamische element in een anderszins statisch vlak. De kleuren zijn gedempt en de sfeer is kalm, met een lichte spanning tussen de twee vlakken door de scherpe scheiding.",
-      "cyclus": 9023,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009023_9086.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9094,
-    "gemaakt": 9156,
-    "gekozen": 1372,
+    "cycli": 9101,
+    "gemaakt": 9163,
+    "gekozen": 1374,
     "afgekeurd": 1265,
-    "corpus": 62,
+    "corpus": 63,
     "notities": 402
   }
 }
