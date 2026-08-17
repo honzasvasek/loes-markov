@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T10:15+02:00",
+  "bijgewerkt": "2026-08-17T10:30+02:00",
   "werk": [
+    {
+      "id": 9353,
+      "titel": "De theepot die niet wil vertrekken",
+      "beschrijving": "Een donkere theepot met deksel en handvat drijft in de bovenste helft van het beeld, omgeven door donkere vlekken en spetters die als druppels of roet door de lucht lijken te zweven. Onder de theepot loopt een vaag, lichtbruin landschap met zachte heuvels en diagonale strepen die aan sporen of paden denken laten. Donkere, onregelmatige vormen en verspreide punten suggereren beweging of ontbinding, terwijl de achtergrond overgaat in een egale, lichte tint. De compositie combineert zwevende voorwerpen met een onrustig, bijna verwaaid landschap, waarbij de theepot het enige duidelijke object is in een scène vol onduidelijkheden en sporen van verdwijnen.",
+      "cyclus": 9290,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009290_9353.webp"
+    },
+    {
+      "id": 9351,
+      "titel": "Vijf sporen in het gras",
+      "beschrijving": "Een smalle, grijze pad slingert door weelderig groen, omzoomd door hoge, slanke grasspelden in verschillende groentinten. Vijf kinderen lopen in een lijn het pad op, gezien van achteren, met hun rug naar de kijker. Het dichtstbijzijnde kind draagt een wit T-shirt en blauwe overal, het volgende een witte jurk, en verderop zijn figuren in blauwe en witte kleding zichtbaar. Een omgevallen terracotta pot ligt schuin op het pad, met donkere aarde eruit gestrooid. De achtergrond vervaagt in zachte groene en gele tinten, met subtiele witte vlekken die op lichtval of kleine bloemen lijken. De sfeer is rustig en speels, met een gevoel van beweging en onverwachte ontdekking.",
+      "cyclus": 9288,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van kinderen in de verte', 'lichte wazigheid in textuur van gras aan weerskanten']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een narratief element (de omgevallen pot en de kinderen die lopen) dat beyond een typische ansichtkaart gaat en een eigen compositorische keuze vertoont.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w009288_9351.webp"
+    },
     {
       "id": 9345,
       "titel": "Waar komt de hitte vandaan",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009248_9311.webp"
-    },
-    {
-      "id": 9308,
-      "titel": "Rook die paper verslindt",
-      "beschrijving": "Gekreukte en gescheurde papierlagen in beige, bruin en grijs omlijsten een donker, wazig vlak waar witte, rokerige spiraalvormen doorheen stromen. De randen van het papier zijn onregelmatig en frans, met kleine vlekken en verkleuringen die ouderdom suggereren. Het midden van de compositie wordt gedomineerd door de dynamische, vloeibare beweging van de witte vormen, die een gevoel van onrust en transitie uitstralen tegen de statische, verweerde achtergrond. Donkere schaduwen en lichte highlights creëren diepte, terwijl de textuur van het papier en de rokerige vormen een tactiel karakter toevoegen aan het beeld.",
-      "cyclus": 9245,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met een eigen compositorische keuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009245_9308.webp"
-    },
-    {
-      "id": 9302,
-      "titel": null,
-      "beschrijving": "Droog, bruin gras vult de voorgrond in een dicht, onregelmatig patroon, met lange, slanke stengels die in alle richtingen staan. Achter het gras stijgt een dichte, witgrijze rookpluim op, die zich uitstrekt naar een effen, bewolkte hemel. De rook heeft een zachte, wazige textuur en lijkt langzaam te bewegen, met donkerdere en lichtere delen die een gevoel van diepte geven. De achtergrond is vaag en onduidelijk, met slechts hints van donkere vormen aan de horizon. De kleuren zijn gedempt, met een overgang van warm bruin in het gras naar koud grijs in de rook en de hemel. De compositie is verticaal, met het gras in de onderste helft en de rook en hemel in de bovenste helft, wat een gevoel van ruimte en eenzaamheid oproept.",
-      "cyclus": 9239,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de rook die zich ontvouwt boven het gras, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009239_9302.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9362,
+      "cyclus": 9299,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsonderganglandschap, perfecte lichtval en geen duidelijke compositorische keuze die beyond het verwachte gaat.",
+      "bestand": "images/a009299_9362.webp"
+    },
     {
       "id": 9355,
       "cyclus": 9292,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele vervorming in reflectie van kerk in water', 'lichte inconsistentie in textuur van bomen links/rechts']",
       "cliche_notities": "Klassiek landschap met kerk en water, iconisch en decoratief zonder duidelijke compositorische keuze.",
       "bestand": "images/a009284_9347.webp"
-    },
-    {
-      "id": 9340,
-      "cyclus": 9277,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de takken van de boom aan de rechterkant', 'wazige achtergrond met gebrek aan duidelijke horizonlijn']",
-      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met een idyllisch landschap, een boom in de voorgrond en een groen veld onder een egale hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009277_9340.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9296,
-    "gemaakt": 9358,
-    "gekozen": 1410,
-    "afgekeurd": 1290,
+    "cycli": 9303,
+    "gemaakt": 9366,
+    "gekozen": 1412,
+    "afgekeurd": 1291,
     "corpus": 61,
     "notities": 404
   }
