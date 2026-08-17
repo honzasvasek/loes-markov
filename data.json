@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-17T13:45+02:00",
+  "bijgewerkt": "2026-08-17T14:00+02:00",
   "werk": [
+    {
+      "id": 9450,
+      "titel": "Licht door het raampje",
+      "beschrijving": "Een smalle gang met witte muren en een houten vloer met zichtbare nerf en slijtage. Aan weerskanten staan meerdere houten deuren met panelen, deurenkanten en metalen sloten of klinken. Een deur aan de linkerkant staat op een kier, waardoor een donkere ruimte zichtbaar is. Verderop aan het eind van de gang staat een deur met een rechthoekig raampje dat helder licht doorlaat. Aan de muur hangt een donkere kapstok met een haak. Het plafond is wit en heeft een inbouwlamp. De gang straalt een rustige, iets verlaten sfeer uit door de leegte en de monochrome kleurstelling.",
+      "cyclus": 9387,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristische ansichtkaart: de compositie is niet iconisch en het licht is functioneel, niet decoratief.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009387_9450.webp"
+    },
     {
       "id": 9444,
       "titel": "Rook die learns dansen",
@@ -117,22 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009345_9408.webp"
-    },
-    {
-      "id": 9403,
-      "titel": null,
-      "beschrijving": "Een smalle, kronkelende waterloop snijdt door een groen, overwoekerd landschap binnen een ruimte met witte muren en een houten plint. Het water, geschilderd in zachte blauwe tinten met witte highlights, stroomt van de achtergrond naar de voorgrond, omzoomd door weelderig groen met verschillende texturen: zachte, wollige struiken, spitse grassen en brede bladeren. Aan de rechterkant staat een grijze houten deur met een donkere klink, naast een metalen kruk met een ronde zitting en vier poten. Het gras rond de kruk is korter en lichter van kleur, terwijl de vegetatie aan weerskanten van het water dichter en donder groen is. Rotsen en kleine stenen lijnen de oever van de waterloop, en enkele rode bessen steken uit het groen. De sfeer is kalm en iets verlaten, met een subtiele spanning tussen de natuurlijke overgroei en de geometrische vormen van de deur en de kruk.",
-      "cyclus": 9340,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een realistische deur en stoel met een surrealistische, stromende waterloop en overgroei, wat geen typisch iconisch of decoratief onderwerp is en een eigen compositorische keuze vertoont.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009340_9403.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9462,
+      "cyclus": 9399,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een traditionele Chinese tuin met thee, rook en architectonische details, uitgevoerd in een decoratieve, klassieke stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009399_9462.webp"
+    },
+    {
+      "id": 9461,
+      "cyclus": 9398,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "Enkele lichte vervormingen in de takken van de bomen, minimale inconsistenties in de schaduwval van de theepot",
+      "cliche_notities": "Dit beeld past bij een typische oosterse ansichtkaart met een serene, decoratieve compositie en iconische elementen zoals de theepot en naaldbomen.",
+      "bestand": "images/a009398_9461.webp"
+    },
     {
       "id": 9445,
       "cyclus": 9382,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een herhalend motief met subtiele variaties en een ongemakkelijke sfeer.",
       "bestand": "images/a009382_9445.webp"
-    },
-    {
-      "id": 9430,
-      "cyclus": 9367,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst en plantenmotieven.",
-      "bestand": "images/a009367_9430.webp"
-    },
-    {
-      "id": 9428,
-      "cyclus": 9365,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de molen ten opzichte van de horizon', 'enkele rotsen hebben onnatuurlijke, scherp afgetekende randen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, een kustlandschap en een klassieke beeldvorming zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a009365_9428.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9394,
-    "gemaakt": 9457,
-    "gekozen": 1428,
-    "afgekeurd": 1302,
+    "cycli": 9400,
+    "gemaakt": 9462,
+    "gekozen": 1429,
+    "afgekeurd": 1304,
     "corpus": 61,
     "notities": 406
   }
