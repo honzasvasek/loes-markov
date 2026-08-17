@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T03:30+02:00",
+  "bijgewerkt": "2026-08-17T03:45+02:00",
   "werk": [
+    {
+      "id": 9178,
+      "titel": "Rook die vraagt om een verhaal",
+      "beschrijving": "Een donkere, textuurrijke achtergrond omhult een opstijgende rookpluim die zich in zachte, vloeiende lijnen ontvouwt. De rook, getekend met fijne, witte strepen, vormt een dynamische spiraal die naar boven wijst, terwijl de onderkant breder en donkerder is. Rondom de rook lopen schuine, donkere lijnen die een gevoel van beweging en diepte creëren. Onderaan de afbeelding bevindt zich een donkere, onregelmatige vorm die de basis van de rook lijkt te vormen, met watervlekken en losse strepen die de textuur verrijken. De sfeer is mysterieus en beweging volgend, met een contrast tussen de lichte rook en de donkere omgeving.",
+      "cyclus": 9115,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de rookvorming bij hoog contrast', 'lichte inconsistentie in textuur van de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op abstracte spanning in plaats van een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009115_9178.webp"
+    },
+    {
+      "id": 9175,
+      "titel": "Waar blijft de horizon?",
+      "beschrijving": "Een rechthoekig vlak van blauw beslaat het grootste deel van het beeld, met een onregelmatige, zacht overlopende rand die het witte papier raakt. Het blauw is niet eendragig: boven is het donkerder, bijna diep, en wordt het naar beneden toe lichter, met subtiele variaties in tint. Een dunne, donkere, verticale lijn loopt van boven naar beneden door het midden van het blauwe vlak, iets schuin en niet perfect recht. De lijn is niet uniform dik en heeft kleine onregelmatigheden. Het blauwe vlak heeft aan de onderkant een wat ruwe, bijna verfransde rand, alsof de verf in één keer is aangebracht met een brede penseelstreep. Het witte papier rondom het blauw is schoon en ongerept, behalve aan de randen waar het blauw wat uitloopt. De achtergrond buiten het papier is bruin en heeft een houten textuur.",
+      "cyclus": 9112,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009112_9175.webp"
+    },
     {
       "id": 9168,
       "titel": "Vuurspatten in ijzer en stof",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009047_9110.webp"
-    },
-    {
-      "id": 9106,
-      "titel": "Goud dat breekt",
-      "beschrijving": "Een bruine theepot met deksel en handvat staat schuin op een lichtbruine ondergrond, met een smalle stroom goudgele vloeistof die vanuit de neus van de theepot in een rechte lijn naar beneden valt. Onder de theepot ligt een gebroken, golvend dakpannenstuk van terracottakleur, met duidelijke richels en een onregelmatige rand. De vloeistof raakt het midden van het dakpannenstuk en verspreidt zich in kleine druppels en spetters. De achtergrond is egaal witgrijs, zonder details. Donkere schaduwen onder de theepot en het dakpannenstuk geven diepte. Kleine gouden vlekjes op de theepot en het dakpannenstuk reflecteren het licht. De compositie is centraal gericht, met de theepot bovenaan en het dakpannenstuk onderaan, waardoor een verticale lijn ontstaat tussen de twee objecten.",
-      "cyclus": 9043,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in schaduw onder theepot', 'lichte wazigheid in textuur van dakpannen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stillleven met een ongemakkelijke spanning tussen voorwerpen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009043_9106.webp"
-    },
-    {
-      "id": 9104,
-      "titel": "Waar groeit dit?",
-      "beschrijving": "Tegen een effen, lichtgrijze achtergrond rijzen slanke, donkere stengels op met een ruwe, bijna korrelige textuur. Sommige stengels zijn donkerbruin met oranje verkleuringen, andere zijn zwart met glanzende, natte plekken. Kleinere, dunne takjes vertakken zich in verschillende richtingen, waarbij sommige eindigen in spitse, donkere punten of kleine, bolvormige uitsteeksels. Een enkele, gladde, ovale steen met een marmeren patroon van grijs en beige rust op een van de stengels, omringd door donkere vlekken en kleine, zwarte druppels die als sporen door de lucht lijken te zweven. De compositie is verticaal gericht, met de stengels die zich vanuit de onderkant naar boven uitstrekken, terwijl de achtergrond leeg en ongestoord blijft, wat de focus legt op de details van de stengels en de steen. De sfeer is statisch maar dynamisch door de variatie in vormen en texturen.",
-      "cyclus": 9041,
-      "tech_score": 8.0,
-      "tech_notities": "[\"subtiele halo's rond donkere structuren\", 'lichte inconsistentie in textuur van oranje/bruine elementen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte, ongemakkelijke compositie zonder bevestigende sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009041_9104.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9181,
+      "cyclus": 9118,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in boomstammen: sommige stammen hebben onverklaarbare knopen of vormen die niet natuurlijk zijn', 'lichte vervaging in de achtergrondbomen, alsof ze in één blok zijn getekend zonder individuele details']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een rustig landschap, met een iconisch pad dat de blik naar de horizon leidt en een decoratief, harmonieus kleurgebruik.",
+      "bestand": "images/a009118_9181.webp"
+    },
     {
       "id": 9176,
       "cyclus": 9113,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Molen in landschap met decoratief blauw filter en typisch Nederlandse iconografie, zonder eigen compositorische keuzes.",
       "bestand": "images/a009106_9169.webp"
-    },
-    {
-      "id": 9148,
-      "cyclus": 9085,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een stillleven met een kaart als achtergrond, wat een ongewone compositorische keuze is.",
-      "bestand": "images/a009085_9148.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9116,
-    "gemaakt": 9178,
-    "gekozen": 1376,
-    "afgekeurd": 1267,
+    "cycli": 9123,
+    "gemaakt": 9185,
+    "gekozen": 1378,
+    "afgekeurd": 1268,
     "corpus": 63,
     "notities": 403
   }
