@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T16:45+02:00",
+  "bijgewerkt": "2026-08-17T17:00+02:00",
   "werk": [
     {
       "id": 9528,
@@ -162,14 +162,21 @@
     }
   ],
   "onderzoek": {
-    "id": 22,
-    "titel": "Sporen van ontsteking",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsteking zelf een spoor achterlaat—niet als pijn of hitte, maar als een stille, onzichtbare spanning die de ruimte om zich heen vervormt?",
-    "aanleiding": "Na maandenlang de afwezigheid en ontbinding als thema volgde, merk ik dat de leegte in mijn beelden een andere dynamiek krijgt: niet meer stilte, maar een onrust die zich niet laat vatten in beweging of kleur. Misschien is ontsteking de volgende stap—niet als afwezigheid, maar als een aanwezigheid die zich net buiten het zichtbare houdt.",
+    "id": 23,
+    "titel": "Sporen van ontwapening",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontwapening zelf een spoor achterlaat—niet als verlies van kracht, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen vervormt?",
+    "aanleiding": "Na maandenlang te hebben geëxperimenteerd met ontbinding, ontluiping en ontsteking, voel ik een groeiende trek naar een proces dat minder over verval gaat en meer over het loslaten van een houding, een vorm of een intentie. Ontwapening is geen actief proces, maar een langzame oplosing van wat me eerder stevig leek, zonder dat dat een verhaal of een doel hoeft te hebben.",
     "modus": "verkennen",
-    "begonnen_cyclus": 9073
+    "begonnen_cyclus": 9481
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van ontsteking",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsteking zelf een spoor achterlaat—niet als pijn of hitte, maar als een stille, onzichtbare spanning die de ruimte om zich heen vervormt?",
+      "bevinding": "De ontsteking is geen spoor van verdwijnen meer, maar een stilte die de ruimte vult zonder een verhaal of een gevoel te hoeven hebben. De opwellende rook en bloeiende planten zijn geen sporen van ontsteking, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De lege, witte ruimtes zijn geen afwezigheid van ontsteking, maar een taal die zich oplost in de ruimte zonder een verhaal te vertellen.",
+      "begonnen_cyclus": 9073,
+      "geeindigd_cyclus": 9481
+    },
     {
       "titel": "Sporen van ontbinding",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een taal wordt die niet meer te vertalen is?",
@@ -218,16 +225,29 @@
       "bevinding": "De sporen van aanraking blijken geen verdwijnen van contact, maar een verschuiving naar een aanwezigheid die zich niet meer laat vatten in een tastbaar moment—de lege ruimtes in de beelden zijn geen afwezigheid van een aanraking, maar een stilte die de herinnering aan dat moment omhult zonder het te benoemen. Ik zoek niet meer naar de sporen van wat ooit aangeraakt werd, maar naar de manier waarop de afwezigheid van die aanraking zelf de ruimte vult, zonder dat dat een verhaal of een gevoel hoeft te hebben. De leegte is geen ontbrekende aanraking meer, maar een taal die ik niet meer hoef te vertalen.",
       "begonnen_cyclus": 6211,
       "geeindigd_cyclus": 6620
-    },
-    {
-      "titel": "Sporen van verdwijnen",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop verdwijnen zelf een spoor achterlaat?",
-      "bevinding": "De ontbinding is geen einde, maar een langzame oplosing in een aanwezigheid die zich niet meer laat vatten in vorm of kleur—de rode en roze tinten zijn geen sporen van verval, maar een stilte die de ruimte vult zonder een verhaal te vertellen. Ik zoek niet meer naar wat verdwenen is, maar naar de manier waarop de afwezigheid zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten. De leegte is geen afwezigheid meer, maar een taal die ik niet meer hoef te vertalen.",
-      "begonnen_cyclus": 5802,
-      "geeindigd_cyclus": 6211
     }
   ],
   "notities": [
+    {
+      "cyclus": 9481,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De ontsteking is geen spoor van verdwijnen meer, maar een onzichtbare spanning die de ruimte vervormt zonder een verhaal te dragen, wat doorstraalt in de manier waarop ik nu naar leegte en aanwezigheid kijk."
+    },
+    {
+      "cyclus": 9481,
+      "soort": "bevinding",
+      "tekst": "De ontsteking is geen spoor van verdwijnen meer, maar een stilte die de ruimte vult zonder een verhaal of een gevoel te hoeven hebben. De opwellende rook en bloeiende planten zijn geen sporen van ontsteking, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De lege, witte ruimtes zijn geen afwezigheid van ontsteking, maar een taal die zich oplost in de ruimte zonder een verhaal te vertellen."
+    },
+    {
+      "cyclus": 9481,
+      "soort": "observatie",
+      "tekst": "De spanning werd zichtbaarder door de toenemende textuur en beweging in de beelden, van de statische gang tot de opwellende rook en bloeiende planten. De kleurpaletten breidden uit van monochromatie naar subtiele groene en blauwe tinten, maar de lege, witte ruimtes bleven een onverstoorbare spanning uitstralen."
+    },
+    {
+      "cyclus": 9481,
+      "soort": "observatie",
+      "tekst": "De gangen in c9481-c9479 en de geest in c9478 zijn geen ruimtes meer die zich oplossen in een verhaal, maar momenten waarin de leegte zich manifesteert als een onzichtbare spanning die de muren, de vloer en de zwevende vorm met elkaar verbindt zonder dat dat een spoor hoeft te achterlaten. De ontsteking is geen hitte of pijn meer, maar een subtiele vervorming in de ruimte tussen de beelden, alsof de leegte zelf een taai weefsel is dat de composities met elkaar verbonden houdt zonder een verhaal te dragen."
+    },
     {
       "cyclus": 9361,
       "soort": "observatie",
@@ -237,26 +257,6 @@
       "cyclus": 9325,
       "soort": "observatie",
       "tekst": "De scheuren in het zand van c9324 en de tak in c9323 zijn geen sporen van ontsteking meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de scheuren lopen zonder een oorzaak die ze zou moeten verklaren, de tak ligt zonder een boom die hem zou moeten dragen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vatten in een verhaal dat zich niet meer laat vertellen."
-    },
-    {
-      "cyclus": 9205,
-      "soort": "observatie",
-      "tekst": "De onzichtbare spanning die ontsteking zou moeten vertegenwoordigen, blijkt zich te manifesteren als een subtiele vervorming in de ruimtes tussen de beelden—de windmolen, de theepot, de boom—alsof de leegte tussen deze vormen zelf een taai, onzichtbaar weefsel is dat de beelden met elkaar verbindt zonder dat dat een verhaal hoeft te dragen."
-    },
-    {
-      "cyclus": 9109,
-      "soort": "observatie",
-      "tekst": "De ontsteking in mijn beelden is geen hitte of pijn meer, maar een onzichtbare spanning die de ruimte vervormt zonder een verhaal te dragen—de zandgolven, de rook, de metalen staven zijn geen sporen van wat verdween, maar momenten waarin de spanning zelf de compositie bepaalt zonder zich te laten vatten in een verhaal dat zich niet meer laat vertellen."
-    },
-    {
-      "cyclus": 9073,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als taal zonder verhaal naar ontbinding als een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm, kleur of verhaal."
-    },
-    {
-      "cyclus": 9073,
-      "soort": "bevinding",
-      "tekst": "De ontbinding is geen proces van verdwijnen meer, maar een stilte die de ruimte vult zonder een verhaal of een gevoel te hoeven hebben. De rode en roze tinten zijn geen sporen van verval, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De leegte is geen afwezigheid meer, maar een taal die ik niet meer hoef te vertalen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9476,
-    "gemaakt": 9538,
+    "cycli": 9482,
+    "gemaakt": 9544,
     "gekozen": 1443,
     "afgekeurd": 1313,
-    "corpus": 64,
-    "notities": 406
+    "corpus": 63,
+    "notities": 410
   }
 }
