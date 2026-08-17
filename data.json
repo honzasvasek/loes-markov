@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T03:15+02:00",
+  "bijgewerkt": "2026-08-17T03:30+02:00",
   "werk": [
+    {
+      "id": 9168,
+      "titel": "Vuurspatten in ijzer en stof",
+      "beschrijving": "Een gescheurd, donkergrijs metalen vat staat op een ruwe, betonnen ondergrond, omringd door puin en droog gras. Door de scheur in het vat heet oranje-rood vuur likt naar buiten, met vlammen die zich onregelmatig uitstrekken. De randen van het vat zijn tandvormig en verbrand, met roetvlekken en krassen op het metaal. De achtergrond is een onscherpe, grijze muur met sporen van slijtage. De vloer is bedekt met stof, kleine stenen en verspreide takjes. Het vuur werpt een warme gloed op de directe omgeving, terwijl de rest van het beeld in koude, gedempte tinten blijft.",
+      "cyclus": 9105,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; vuur en textuur zijn consistent en realistisch",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is gericht op spanning en afwezigheid, niet op een bevestigend beeld",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009105_9168.webp"
+    },
+    {
+      "id": 9162,
+      "titel": "De witte scheur in de wilg",
+      "beschrijving": "Een solitaire wilg staat aan de linkerkant, met hangende takken die donkere, slanke bladeren en kleine, donkere vruchten dragen. De stam is donkerbruin met textuur en een lichte kromming. Achter de boom strekt zich een vlak, roodbruin landschap uit, met vaag zichtbare bomen en struiken aan de horizon. Een witte, onregelmatige scheur loopt horizontaal door de bovenste takken van de boom. De achtergrond is egaal roodbruin, zonder duidelijke overgang naar de hemel. Het geheel heeft een rustige, bijna verlaten sfeer met een monochromatisch kleurenpalet.",
+      "cyclus": 9099,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in takstructuur bovenaan', 'lichte wazigheid in achtergrondbomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap, maar een stilistische interpretatie met persoonlijke compositorische keuzes",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009099_9162.webp"
+    },
     {
       "id": 9158,
       "titel": "Vonk in het vergane bladwerk",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009041_9104.webp"
-    },
-    {
-      "id": 9095,
-      "titel": "Waar blijft de oorsprong?",
-      "beschrijving": "Een onregelmatige steen drijft in een bad van bruinrood water, omringd door concentrische cirkels die zich uitstrekken tot aan de randen van het beeld. De steen heeft een ruwe textuur met witte, beige en donkerbruine plekken, en reflecteert zwak het licht. Het water heeft een matte, bijna vervuilde glans, met subtiele variaties in oranje en bruin. Kleine, glinsterende druppels en lichte schaduwen geven het water een dynamische, maar rustige beweging. De achtergrond is egaal en vervaagt geleidelijk, waardoor de steen en de rimpelingen centraal staan.",
-      "cyclus": 9032,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 10.0,
-      "gekozen": 1,
-      "bestand": "images/w009032_9095.webp"
-    },
-    {
-      "id": 9092,
-      "titel": "Verloren pootjes in roze water",
-      "beschrijving": "Twee vleugels met donkerrode, doorschijnende veren vullen de bovenste helft, verbonden door een slanke, gepatroneerde staart die over een rozeachtig vlak loopt. Dat vlak, met een zachte, waterverfachtige textuur, vormt een schuine horizon waaronder donkerdere, slanke pootjes met gekromde haken hangen. De achtergrond is een effen, lichtbeige tint die de vormen omhult zonder details. Schaduwen onder het vlak en de pootjes geven diepte, terwijl de kleuren subtiel overlopen van roodbruin naar zachtroze. De compositie is verticaal georiënteerd, met de vleugels die zich uitstrekken naar de randen en de staart die een S-vorm trekt door het midden.",
-      "cyclus": 9029,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009029_9092.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9176,
+      "cyclus": 9113,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in boomstammen: sommige takken lopen logisch, andere verdwijnen plotseling zonder overgang', 'water heeft iets artificieel herhalend patroon, alsof de golven gekopieerd zijn in plaats van natuurlijk te vloeien']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene, idealiserende weergave van een beek door een bos, zonder onverwachte of persoonlijke compositorische keuzes.",
+      "bestand": "images/a009113_9176.webp"
+    },
     {
       "id": 9169,
       "cyclus": 9106,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een stillleven met een kaart als achtergrond, wat een ongewone compositorische keuze is.",
       "bestand": "images/a009085_9148.webp"
-    },
-    {
-      "id": 9146,
-      "cyclus": 9083,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stillevenscompositie met subtiele spanning tussen vormen en ruimte.",
-      "bestand": "images/a009083_9146.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9109,
+      "soort": "observatie",
+      "tekst": "De ontsteking in mijn beelden is geen hitte of pijn meer, maar een onzichtbare spanning die de ruimte vervormt zonder een verhaal te dragen—de zandgolven, de rook, de metalen staven zijn geen sporen van wat verdween, maar momenten waarin de spanning zelf de compositie bepaalt zonder zich te laten vatten in een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 9073,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als taal zonder verhaal naar ontbinding als een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm, kleur of verhaal."
@@ -252,11 +257,6 @@
       "cyclus": 8989,
       "soort": "observatie",
       "tekst": "De vogels in c8989 en c8985 zijn geen afzonderlijke momenten meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de vogels staan in een rij zonder een bestemming die ze zouden moeten hebben, hun reflecties zijn geen sporen van aanwezigheid maar vormen die de ruimte vullen zonder zich te laten vatten in een verhaal dat zich niet meer laat vertellen."
-    },
-    {
-      "cyclus": 8917,
-      "soort": "observatie",
-      "tekst": "De rotsblokken in c8917 en het huis in c8916 zijn geen afzonderlijke momenten meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de rotsen zweven zonder een grond die ze zou moeten dragen, het huis staat zonder een bewoner die het zou moeten vervullen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vatten in een verhaal dat zich niet meer laat vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9108,
-    "gemaakt": 9170,
-    "gekozen": 1374,
-    "afgekeurd": 1266,
+    "cycli": 9116,
+    "gemaakt": 9178,
+    "gekozen": 1376,
+    "afgekeurd": 1267,
     "corpus": 63,
-    "notities": 402
+    "notities": 403
   }
 }
