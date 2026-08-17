@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-17T08:45+02:00",
+  "bijgewerkt": "2026-08-17T09:00+02:00",
   "werk": [
+    {
+      "id": 9324,
+      "titel": "Wat overblijft van de winter?",
+      "beschrijving": "Een dode tak met verdorde bloemen en bladeren ligt op een bevroren oppervlak, omringd door luchtbelletjes en kleine rode bolletjes. De tak loopt diagonaal door het beeld, met een donkere, ruwe textuur en fijne prikkels. De bloemen zijn bruin en bros, met uitgesneden randen, terwijl de bladeren getand en verkleurd zijn. Het ijs heeft een wazige, onregelmatige structuur met zachte golven en donkere vlekken. De rode bolletjes variëren in grootte en liggen willekeurig verspreid, met een glanzende, doorschijnende uitstraling. De achtergrond is grijswit met subtiele overgangen naar donkergrijs.",
+      "cyclus": 9261,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond rode druppels', 'lichte vervorming takbasis']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een stille, ongemakkelijke compositie zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009261_9324.webp"
+    },
     {
       "id": 9312,
       "titel": "Rook die zich onthoudt van verdwijnen",
@@ -117,19 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009216_9279.webp"
-    },
-    {
-      "id": 9272,
-      "titel": "Hout dat zich herinnert vuur",
-      "beschrijving": "Zes verbrande houten blokken liggen verspreid op een donkergrijze asfaltweg, gescheiden door een scherpe witte lijn die verticaal door het midden loopt. De blokken variëren in vorm en textuur: sommige zijn glad en donker, andere vertonen barsten, schilferende houtvezels of onregelmatige randen. Twee blokken aan de onderkant liggen dichter bij elkaar, waarbij één een klein brokje afbreekt. De schaduwen van het hout vallen scherp en donker op het asfalt, en de witte lijn reflecteert het licht, waardoor hij helder en strak contrasteert met de ruwe, verweerde houtstructuren. De achtergrond bestaat uit een effen, donkere weg die zich uitstrekt tot aan de horizon, zonder extra details of afleiding.",
-      "cyclus": 9209,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongewone compositie met houten blokken op een weg, wat geen toeristische ansichtkaart uitstraalt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009209_9272.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 9263,
-    "gemaakt": 9325,
-    "gekozen": 1404,
+    "cycli": 9270,
+    "gemaakt": 9332,
+    "gekozen": 1405,
     "afgekeurd": 1285,
     "corpus": 61,
     "notities": 404
