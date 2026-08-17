@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-17T05:45+02:00",
+  "bijgewerkt": "2026-08-17T06:00+02:00",
   "werk": [
+    {
+      "id": 9243,
+      "titel": "Sporen van verdwijnen",
+      "beschrijving": "Grijs papier vormt de achtergrond, met een subtiele textuur die het oppervlak doorspeelt. Witte, fijne grassprietjes rijzen op vanuit de linkeronderhoek, met zachte, veerkrachtige bewegingen die naar rechtsboven wijzen. De sprietjes hebben een delicate, bijna doorschijnende structuur, met fijne, uitstralende vezels die de lucht in lijken te verdwijnen. Onder de grassprietjes liggen zes ronde stenen, verspreid over de onderste helft van het beeld. De stenen variëren in grootte en textuur: sommige zijn glad en lichtgrijs, andere hebben een ruwere, donkerdere oppervlakte met kleine putjes en korrels. Een kleine, donkere steen ligt geïsoleerd in de linkeronderhoek, terwijl een nog kleinere, witte steen dicht bij de voorgrond rust. In de boven linkerhoek bevindt zich een vaag, cirkelvormig motief, getekend met een lichte, onvoltooide lijn, alsof het een spoor van een verdwenen object is. De compositie is rustig en gebalanceerd, met de grassprietjes die een dynamische lijn trekken door de stenen en de lege ruimte erboven. De sfeer is stil en contemplatief, met een focus op de subtiele verschillen in textuur en vorm.",
+      "cyclus": 9180,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de cirkel in de achtergrond', 'lichte inconsistentie in textuur van de stenen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, contemplatieve compositie zonder duidelijke narratiev.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009180_9243.webp"
+    },
+    {
+      "id": 9239,
+      "titel": "Spiegel in regen",
+      "beschrijving": "Een doorschijnende regendruppel hangt vast in een netwerk van donkere, takachtige lijnen die vanaf de bovenrand naar beneden lopen. Onder de druppel ontstaat een vervormd spiegelbeeld van een landschap met vaag zichtbare bomen en een horizonlijn in zand- en bruine tinten. De achtergrond bestaat uit golvende, witgrijze penseelstreken die nat oppervlak suggereren, met af en toe een glimp van blauw of zilver. Kleine, donkere knooppunten markeren de verbindingen tussen de lijnen, terwijl dunne, verticale strepen regen door het beeld vallen. De compositie voelt statisch, maar de druppel en de vervorming geven een gevoel van stilstaande beweging.",
+      "cyclus": 9176,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in perspectief van takken', 'enkele wazige overgangen tussen lagen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009176_9239.webp"
+    },
+    {
+      "id": 9233,
+      "titel": "Handen die de stroom vastgrijpen",
+      "beschrijving": "Vijf zwarte silhouetten van vrouwen met golvend haar zitten verspreid over een compositie van lichte houten texturen en donkere, vloeiende lijnen. Hun handen reiken uit naar elkaar of naar een stroom van bruine, korrelige substantie die door het midden loopt, omgeven door subtiele, golvende patronen. De achtergrond bestaat uit zachte, witte en beige tinten met donkere, bijna zwarte golven die de scène omkaderen. De figuren hebben geen gezichtstrekken, maar hun houding straalt een gevoel van verbondenheid uit door de uitgestrekte armen en de interactie met de korrelige stroom. De compositie is symmetrisch opgebouwd, met de vrouwen aan weerskanten en de stroom als centraal element dat de blik door het beeld leidt.",
+      "cyclus": 9170,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief bij handen', 'lichte wazigheid in textuur van zand']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuzes zijn uniek en niet typisch voor een ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009170_9233.webp"
+    },
     {
       "id": 9228,
       "titel": "Regendruppels en onafgewerkte bomen",
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009133_9196.webp"
-    },
-    {
-      "id": 9188,
-      "titel": "Oranje stilte op water",
-      "beschrijving": "Een donkergrijze hemel domineert het bovenste deel, met daarin een feloranje vierkant dat scherp afsteekt. Onderaan strekt zich een wateroppervlak uit met subtiele golven, waar het oranje vierkant als een reeks onregelmatige vlekken wordt weerspiegeld. Aan de horizon loopt een donkere, vaag omlijnde boomstrook, met achterin zacht gecontureerde heuvels die overgaan in de grijze lucht. De oranje reflecties op het water vormen een verticale as die de compositie doorsnijdt, terwijl de rest van het beeld grotendeels monochrom is. De sfeer is stil en bijna mystiek, door het contrast tussen de levendige oranje kleur en de gedempte omgeving.",
-      "cyclus": 9125,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve compositie zonder iconische of toeristische elementen, en de oranje vierkant en reflectie suggereren een persoonlijke, niet-bevestigende kijk.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009125_9188.webp"
-    },
-    {
-      "id": 9186,
-      "titel": "Modder die meedenst een gang op",
-      "beschrijving": "Een lange, smalle gang met witte muren en houten deuren aan weerskanten verdwijnt in een vaag, mistig licht aan het eind. De vloer is ondergelopen met bruin, modderig water dat rimpelt rond een hoop aarde, takjes en vuil in het midden. Zwarte vogels vliegen in een losse V-vorm door de gang, van linksboven naar het eind, waar een vaag silhouet van een boom te zien is door een raam. De randen van de afbeelding zijn onregelmatig verscheurd, alsof het een uitsnede is van een groter beeld, met een textuur die doet denken aan oud papier. De sfeer is stilstaand, maar met een onderliggende beweging door het water en de vogels.",
-      "cyclus": 9123,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de combinatie van water, modder en vogels in een gang, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009123_9186.webp"
-    },
-    {
-      "id": 9178,
-      "titel": "Rook die vraagt om een verhaal",
-      "beschrijving": "Een donkere, textuurrijke achtergrond omhult een opstijgende rookpluim die zich in zachte, vloeiende lijnen ontvouwt. De rook, getekend met fijne, witte strepen, vormt een dynamische spiraal die naar boven wijst, terwijl de onderkant breder en donkerder is. Rondom de rook lopen schuine, donkere lijnen die een gevoel van beweging en diepte creëren. Onderaan de afbeelding bevindt zich een donkere, onregelmatige vorm die de basis van de rook lijkt te vormen, met watervlekken en losse strepen die de textuur verrijken. De sfeer is mysterieus en beweging volgend, met een contrast tussen de lichte rook en de donkere omgeving.",
-      "cyclus": 9115,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de rookvorming bij hoog contrast', 'lichte inconsistentie in textuur van de achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op abstracte spanning in plaats van een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009115_9178.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9177,
-    "gemaakt": 9240,
-    "gekozen": 1387,
+    "cycli": 9185,
+    "gemaakt": 9247,
+    "gekozen": 1390,
     "afgekeurd": 1272,
-    "corpus": 60,
+    "corpus": 62,
     "notities": 403
   }
 }
