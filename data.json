@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T06:15+02:00",
+  "bijgewerkt": "2026-08-17T06:30+02:00",
   "werk": [
+    {
+      "id": 9255,
+      "titel": "Sporen van verdwijnd zout",
+      "beschrijving": "Golvende patronen in zachtbeige en wit domineren het beeld, met subtiele overgangen naar grijs en lichtbruin. Witte, roomachtige strepen snijden door de golven, omzoomd door fijne, kristallijne deeltjes die aan zout of suiker doen denken. Verspreid bevinden zich ambrate, glanzende druppels en vlekken, sommige bedekt met een laagje wit poeder. De compositie straalt een rustige, bijna meditatieve sfeer uit, met een dynamische balans tussen vloeiende lijnen en statische, korrelige texturen. Geen duidelijke figuren of herkenbare voorwerpen, maar een abstract spel van vormen en materialen dat de aandacht trekt door zijn subtiel wisselende details.",
+      "cyclus": 9192,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met subtiele spanning tussen vormen en texturen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009192_9255.webp"
+    },
+    {
+      "id": 9246,
+      "titel": "Regen op asfalt met glinsterende wonden",
+      "beschrijving": "Donkere, ruwe textuur met glinsterende, onregelmatige vormen, omringd door kleine, glanzende deeltjes en dunne, witte lijnen die door een donkere, natte ondergrond lopen. Een enkele druppel hangt in de lucht, scherp en helder tegen een vaag, donkergrijze achtergrond met subtiele verticale regenstrepen. De compositie is dynamisch, met een focus op de contrasten tussen harde, donkere structuren en zachte, glanzende details.",
+      "cyclus": 9183,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op abstracte spanning en textuur, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009183_9246.webp"
+    },
     {
       "id": 9243,
       "titel": "Sporen van verdwijnen",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009141_9204.webp"
-    },
-    {
-      "id": 9198,
-      "titel": "Vuur achter glas",
-      "beschrijving": "Een houten gevel met een schuin dak omlijst een raam met zes ruiten, waar achter oranje en gele vlammen woeden die door het glas opstijgen. Rook slingeren in witte, doorschijnende spiraal naar boven, waarbij de vlammen de onderste ruiten vullen en de bovenste ruiten slechts lichtelijk raken. Het hout rond het raam is lichtgrijs met donkere, verbrande plekken bij de hoeken en de dakgoot. Donkere schaduwen vallen onder het raam en aan weerszijden van de gevel, terwijl de achtergrond een effen, lichtgrijze textuur heeft met subtiele penseelstreken. Kleine donkere vlekken en schroefkoppen zijn zichtbaar in het hout, en de randen van het dak hebben een donkere, bijna zwarte afwerking. De vlammen hebben een dynamische, onrustige vorm met scherpere punten aan de bovenkant en bredere, vloeiendere bewegingen lager.",
-      "cyclus": 9135,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in raamkozijn (linkeronder hoek iets te scherp)', 'rook mist duidelijke overgang naar achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vuur en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009135_9198.webp"
-    },
-    {
-      "id": 9196,
-      "titel": "Regen op nat metaal",
-      "beschrijving": "Bovenin loopt een rij bruine dakpannen met donkere randen, waar dunne, verticale regenstrepen vanaf dalen. Daaronder vult een grijze, bewolkte lucht de bovenste helft, met vaag zichtbare horizontale penseelstreken die een onrustige textuur geven. De onderste helft toont een donkerder, bijna zwartgrijze vlakte met reflecterende, glanzende vormen die aan water of nat metaal doen denken. Witte en zilverkleurige strepen en vlekken doorbreken de donkere ondergrond, met enkele kleine, ronde highlights die als druppels of vonken fungeren. De regen strekt zich door het hele beeld, met een subtiele overgang van heldere boven naar donkere onder.",
-      "cyclus": 9133,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met focus op textuur en spanning.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009133_9196.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9256,
+      "cyclus": 9193,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in golflengte van schuim aan horizon', 'lichte smeuiigheid in textuur van zand bij voorgrond']",
+      "cliche_notities": "Beeld past in categorie 'toeristische ansichtkaart' door iconisch landschap (strand bij zonsondergang) met decoratief licht en gebrek aan compositorische verrassing.",
+      "bestand": "images/a009193_9256.webp"
+    },
     {
       "id": 9254,
       "cyclus": 9191,
@@ -150,15 +159,6 @@
       "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de reflecties van de palmbomen in het water en een wat vlakke overgang tussen hemel en bergen",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische palmbomen, een rustig wateroppervlak en een zachte, decoratieve belichting zonder duidelijke compositorische keuze of eigen standpunt",
       "bestand": "images/a009158_9221.webp"
-    },
-    {
-      "id": 9220,
-      "cyclus": 9157,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "Enkele lichte vervormingen in de achtergrondbomen en inconsistentie in de textuur van de rotsen",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart met een idyllisch dorp, kerk en bloemen in een landschap",
-      "bestand": "images/a009157_9220.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9192,
-    "gemaakt": 9254,
-    "gekozen": 1390,
-    "afgekeurd": 1273,
+    "cycli": 9198,
+    "gemaakt": 9260,
+    "gekozen": 1392,
+    "afgekeurd": 1274,
     "corpus": 61,
     "notities": 403
   }
