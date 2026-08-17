@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-17T14:45+02:00",
+  "bijgewerkt": "2026-08-17T15:00+02:00",
   "werk": [
+    {
+      "id": 9474,
+      "titel": "Vier haken, één verhaal",
+      "beschrijving": "Vier roestige haken hangen tegen een getextureerde betonnen muur, elk met een unieke vorm en mate van slijtage. De grootste haak aan de linkerkant heeft een lange steel en een brede, puntige kop, terwijl de andere drie kleiner zijn en variëren in kromming en detaillering. Twee haken hangen aan dunne kabels, de andere twee zijn direct bevestigd aan de muur. De roest kleurt in oranje- en bruine tinten, met donkere vlekken waar het metaal verweerd is. De achtergrond toont een ongelijkmatige, grijze textuur met subtiele schaduwen die de diepte benadrukken. De compositie is verticaal gericht, met de haken verspreid over het beeld, wat een gevoel van willekeurige plaatsing geeft. De sfeer is industrieel en verlaten, met een focus op de textuur en het verval van het metaal.",
+      "cyclus": 9411,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De beelden zijn geen iconische onderwerpen met decoratief licht, maar hebben een eigen compositorische keuze met een industriële, bijna minimalistische esthetiek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009411_9474.webp"
+    },
     {
       "id": 9470,
       "titel": "Rook en vogelvlucht",
@@ -13,6 +26,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009407_9470.webp"
+    },
+    {
+      "id": 9469,
+      "titel": "Spatten zonder richting",
+      "beschrijving": "Donkere, onregelmatige vlekken en spatten vormen een horizontale band dwars door het midden, met daarboven en -onder lichtgrijze, vaag gestructureerde vlakken. Langere, donkere strepen en prikkels stralen vanuit de onderste hoeken naar het midden, waar kleine, donkere stippen en onduidelijke vormen zweven. De achtergrond is egaal lichtgrijs, met subtiele textuurvariaties die een korrelig effect geven. Donkere, amorf vormloze vlekken en fijnere, spierende lijnen creëren een gevoel van willekeurige verspreiding, zonder duidelijke horizon of focus.",
+      "cyclus": 9406,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van wateroppervlak', 'lichte wazigheid in achtergrondtexturen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, contemplatieve compositie met ruimte voor interpretatie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009406_9469.webp"
     },
     {
       "id": 9468,
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009371_9434.webp"
-    },
-    {
-      "id": 9419,
-      "titel": "Goud dat zich onthoudt",
-      "beschrijving": "Een houten palet met drie ronde uitsnijdsels zweeft schuin boven een grijze achtergrond, waarbij een gat in het midden van het palet een stromende kolom goudgele, viskeuze substantie laat vallen. De vloeistof vormt beneden een glanzende, onregelmatige plooi die zich uitstrekt over het oppervlak. Witte en lichtblauwe verfsporen kleven aan de randen van het gat en verspreiden zich over het hout, dat subtiele spatelsporen en krasjes vertoont. De houtstructuur is duidelijk zichtbaar, met lichte en donkere vezels die de textuur benadrukken. De compositie straalt een stilstaand moment uit, waarbij de vloeistof net lijkt te bevriezen in zijn val.",
-      "cyclus": 9356,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongebruikelijke compositie met een palet en vloeistof, wat het geen toeristische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009356_9419.webp"
-    },
-    {
-      "id": 9416,
-      "titel": "Haken in het water",
-      "beschrijving": "Twee verticale panelen tonen water met zachte golven in blauwe en gele tinten, doorsneden door roestbruine haken die van boven naar beneden lopen. Het bovenste paneel heeft een extra hakenvormige uitsteeksels en een schuine zwarte lijn die de compositie doorsnijdt. Het onderste paneel is eenvoudiger, met alleen de haken en het water. Witte randen omlijsten de beelden, die een rustige, bijna statische sfeer uitstralen. De haken en lijnen creëren een spanning tussen beweging en stilte, terwijl het water een gevoel van diepte en onrust suggereert.",
-      "cyclus": 9353,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van water tussen boven- en onderbeeld', 'lichte vervorming van reflectie onder onderste haak']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en niet-obvious",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009353_9416.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9483,
+      "cyclus": 9420,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk aan water met riet) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuzes.",
+      "bestand": "images/a009420_9483.webp"
+    },
     {
       "id": 9478,
       "cyclus": 9415,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische boom, decoratief licht en een sentimentele boodschap zonder eigen standpunt.",
       "bestand": "images/a009414_9477.webp"
-    },
-    {
-      "id": 9462,
-      "cyclus": 9399,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een traditionele Chinese tuin met thee, rook en architectonische details, uitgevoerd in een decoratieve, klassieke stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009399_9462.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9419,
-    "gemaakt": 9482,
-    "gekozen": 1431,
-    "afgekeurd": 1306,
+    "cycli": 9427,
+    "gemaakt": 9489,
+    "gekozen": 1433,
+    "afgekeurd": 1307,
     "corpus": 63,
     "notities": 406
   }
