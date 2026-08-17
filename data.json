@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-17T09:30+02:00",
+  "bijgewerkt": "2026-08-17T09:45+02:00",
   "werk": [
+    {
+      "id": 9336,
+      "titel": "Wat blijft liggen onder de lichtstraal",
+      "beschrijving": "Een vaag landschap met een smalle, diagonale lichtstraal die van rechtsboven naar linksonder loopt, de grijze, nevelige achtergrond doorsnijdt. Onderaan het beeld bevindt zich een onduidelijke horizon met donkere, slanke vormen die op dood gras of takken lijken, verspreid over een roodbruine, vaag getextureerde ondergrond. Enkele kleine, onduidelijke kleuren—geel, blauw en groen—zitten verspreid in dat onderste deel, alsof er iets halfbegraven ligt. De lichtstraal heeft een zachte, onscherpe rand en verlicht een smalle strook van het landschap, terwijl de rest van het beeld in gedempte, koelere tinten verdwijnt. De sfeer is stil en verlaten, met een gevoel van leegte dat de ruimte domineert.",
+      "cyclus": 9273,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond lichtstraal', 'lichte inconsistentie in textuur ondergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust ongemakkelijk en open.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009273_9336.webp"
+    },
+    {
+      "id": 9329,
+      "titel": "Vogels snijden door de mist",
+      "beschrijving": "Een roze-oranje hemel vervaagt in een zachte, mistige horizon boven een kalm, blauwgrijs wateroppervlak met subtiele golven. Acht donkere vogels vliegen in een diagonale lijn van linksboven naar rechtsonder, terwijl aan de rechterkant donkerbruine houten balken een schuine structuur vormen die de compositie doorsnijdt. In de voorgrond lopen parallelle houten planken in een warme oranje-bruine tint schuin door het beeld, met donkere schaduwen ertussenin. Ver in de achtergrond suggereert een vaag, roze heuvelsilhouet een verre kustlijn, omhuld door een dunne laag nevel die de overgang tussen hemel en water verzacht. De sfeer is stil en ruimtelijk, met een balans tussen lege ruimte en gestructureerde lijnen.",
+      "cyclus": 9266,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op spanning tussen leegte en structuur, niet op een bevestigend landschap.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009266_9329.webp"
+    },
+    {
+      "id": 9327,
+      "titel": "Scheve schuren, zinkende daken",
+      "beschrijving": "Twee verweerde houten schuren staan schuin op een besneeuwde heuvel, omringd door kale bomen en struiken. Het bovenste schuurtje, met een scheve dakpan en donkere, leegstaande ramen, lijkt te zakken in de sneeuw, terwijl het onderste schuur, met een deels ingestort dak en een openstaande deur, zich uitstrekt over een vlakker deel van het landschap. Sneeuw bedekt de grond en de daken, met kleine donkere vlekken die rotsen of vuil suggereren. De achtergrond bestaat uit een vaag bos en een lichte hemel, wat de isolatie versterkt. De compositie is verticaal opgebouwd, met de schuren die de beeldvuller domineren en de sneeuw die de ruimte ertussen en eronder vult. De sfeer is stil en verlaten, met een gevoel van verwaarlozing en verloop.",
+      "cyclus": 9264,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie en sfeer zijn niet typisch ansichtkaartmateriaal; de verwaarloosde schuren en sneeuw evoceren een verlaten, bijna ongemakkelijke stilte zonder decoratieve intentie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009264_9327.webp"
+    },
     {
       "id": 9324,
       "titel": "Wat overblijft van de winter?",
@@ -91,48 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009227_9290.webp"
-    },
-    {
-      "id": 9287,
-      "titel": "Mos en verdwijnende bladeren",
-      "beschrijving": "Donkerblauw water vult het grootste deel van het beeld, met een smalle strook groen mos aan de rechterkant waar bruine en beige esdoornbladeren op drijven. Enkele bladeren liggen dichter bij de voorgrond, andere verdwijnen in de verte, waar het water overgaat in een donkerdere, bijna zwarte tint. Witte en grijze fragmenten, mogelijk steentjes of vuil, zijn verspreid over het water en het mos. De rand van het beeld wordt gevormd door een donkergrijze lijst, die het tafereel afschermt tegen een egale, lichtgrijze achtergrond. Het water reflecteert vaag de omgevingslicht, waardoor er subtiele golven en beweging zichtbaar zijn.",
-      "cyclus": 9224,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (dode bladeren op water met mos) is niet iconisch of bevestigend, en de compositie kiest voor een intieme, niet-decoratieve close-up zonder typisch 'mooi licht'.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009224_9287.webp"
-    },
-    {
-      "id": 9282,
-      "titel": "Regendruppels op gestileerde bloemen",
-      "beschrijving": "Een grijze, regenbestraalde muur met een gesloten, lichtgrijze houten dubbeldeur in het midden. Rechtsboven de deur bevinden zich twee witte, gestileerde bloemen met vijf bloemblaadjes. Onder de deur loopt een natte, glanzende stenen trap naar een wateroppervlak met zachte golven en reflecties. Verspreid over de trap en tegen de muur liggen onregelmatige, donkergrijze rotsen en kleine keien. Regen druipt zichtbaar van het dak aan de bovenrand en maakt de muur en het water glimmend. De kleuren zijn gedempt, met grijstinten en subtiele blauwe en groene ondertonen in het water.",
-      "cyclus": 9219,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is sober en gericht op stilte en afwezigheid, niet op een bevestigend verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009219_9282.webp"
-    },
-    {
-      "id": 9279,
-      "titel": "Vloer die liegt",
-      "beschrijving": "Een smalle gang met een houten vloer, waar donkerbruine vloeistof in onregelmatige vlekken en sporen loopt, grotendeels opgedroogd maar met natte, glimmende delen. Rook of mist vult de ruimte, dichter bij het plafond en de achtergrond, waar een open deuropening vaag zichtbaar is. Aan de rechterkant bevindt zich een gesloten houten deur met een metalen klink, en verderop nog een deur in de muur. De muren zijn glad en lichtgrijs, met een raam aan de linkerkant dat diffuus daglicht laat binnenstromen. De vloer bestaat uit houten lamellen met zichtbare nerf en knoesten, deels bedekt door de vloeistof en kleine deeltjes vuil. De sfeer is stil en verlaten, met een gevoel van onverwachte verstoring.",
-      "cyclus": 9216,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een ongemakkelijke, spannende sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009216_9279.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9340,
+      "cyclus": 9277,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in de takken van de boom aan de rechterkant', 'wazige achtergrond met gebrek aan duidelijke horizonlijn']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met een idyllisch landschap, een boom in de voorgrond en een groen veld onder een egale hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009277_9340.webp"
+    },
     {
       "id": 9337,
       "cyclus": 9274,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen taal.",
       "bestand": "images/a009270_9333.webp"
-    },
-    {
-      "id": 9313,
-      "cyclus": 9250,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in golflengte/structuur linksboven', 'lichte halo rond wit schuim tegen donkere rotsen']",
-      "cliche_notities": "Klassiek zeelandschap met golven tegen rotsen bij gouden uur, zonder onverwachte compositorische keuzes of thematische draai.",
-      "bestand": "images/a009250_9313.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9275,
-    "gemaakt": 9338,
-    "gekozen": 1405,
-    "afgekeurd": 1287,
-    "corpus": 60,
+    "cycli": 9281,
+    "gemaakt": 9343,
+    "gekozen": 1408,
+    "afgekeurd": 1288,
+    "corpus": 61,
     "notities": 404
   }
 }
