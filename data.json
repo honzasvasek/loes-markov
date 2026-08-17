@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T21:00+02:00",
+  "bijgewerkt": "2026-08-17T21:15+02:00",
   "werk": [
     {
       "id": 9633,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 9644,
+      "cyclus": 9581,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van ramen rechtsboven', 'lichte wazigheid in achtergrondlandschap']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch huisje, perfecte lucht en landschap zonder persoonlijke of compositorische verbeelding.",
+      "bestand": "images/a009581_9644.webp"
+    },
+    {
+      "id": 9643,
+      "cyclus": 9580,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflectie van de molen in het water', 'lichte vervorming van de boomtoppen aan de linkerkant']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (molen met landschap) en decoratieve belichting zonder duidelijke compositorische keuze.",
+      "bestand": "images/a009580_9643.webp"
+    },
+    {
       "id": 9626,
       "cyclus": 9563,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met actieve leegte.",
       "bestand": "images/a009563_9626.webp"
-    },
-    {
-      "id": 9625,
-      "cyclus": 9562,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Molen bij water met klassieke compositie en decoratief licht, zonder duidelijke persoonlijke inval of onverwachte keuzes.",
-      "bestand": "images/a009562_9625.webp"
-    },
-    {
-      "id": 9608,
-      "cyclus": 9545,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming aan de horizonlijn van de achtergrondgebouwen', 'wazige overgang tussen schaduw en licht op de muur rechts']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een rustige, idyllische steeg met perfecte lichtinval en geen duidelijke compositorische keuze beyond de klassieke verdwijnpuntstructuur.",
-      "bestand": "images/a009545_9608.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9580,
-    "gemaakt": 9642,
+    "cycli": 9588,
+    "gemaakt": 9650,
     "gekozen": 1462,
-    "afgekeurd": 1319,
+    "afgekeurd": 1321,
     "corpus": 63,
     "notities": 414
   }
