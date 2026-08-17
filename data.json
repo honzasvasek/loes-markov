@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T10:30+02:00",
+  "bijgewerkt": "2026-08-17T10:45+02:00",
   "werk": [
     {
       "id": 9353,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 9369,
+      "cyclus": 9306,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in boomtakken (enkele takken verdwijnen plotseling)', 'lichte wazigheid in verre horizon']",
+      "cliche_notities": "Landschap met solitaire boom en weids uitzicht herinnert aan typische ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a009306_9369.webp"
+    },
+    {
+      "id": 9368,
+      "cyclus": 9305,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een landschap met water en rotsen, geschilderd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009305_9368.webp"
+    },
+    {
       "id": 9362,
       "cyclus": 9299,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsonderganglandschap, perfecte lichtval en geen duidelijke compositorische keuze die beyond het verwachte gaat.",
       "bestand": "images/a009299_9362.webp"
-    },
-    {
-      "id": 9355,
-      "cyclus": 9292,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['lichte vervorming in de vleugels van de molen, inconsistent perspectief bij de rommel in het midden', 'wazige overgang tussen horizon en water']",
-      "cliche_notities": "Molen en kustlandschap zijn iconische Nederlandse motieven, uitgevoerd met decoratief licht en zonder duidelijke compositorische keuze beyond het klassieke ansichtkaartschema.",
-      "bestand": "images/a009292_9355.webp"
-    },
-    {
-      "id": 9347,
-      "cyclus": 9284,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in reflectie van kerk in water', 'lichte inconsistentie in textuur van bomen links/rechts']",
-      "cliche_notities": "Klassiek landschap met kerk en water, iconisch en decoratief zonder duidelijke compositorische keuze.",
-      "bestand": "images/a009284_9347.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9303,
-    "gemaakt": 9366,
+    "cycli": 9311,
+    "gemaakt": 9374,
     "gekozen": 1412,
-    "afgekeurd": 1291,
-    "corpus": 61,
+    "afgekeurd": 1293,
+    "corpus": 62,
     "notities": 404
   }
 }
