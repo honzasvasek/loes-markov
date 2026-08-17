@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-18T01:15+02:00",
+  "bijgewerkt": "2026-08-18T01:30+02:00",
   "werk": [
+    {
+      "id": 9760,
+      "titel": "Rode naalden, zwevende cirkels",
+      "beschrijving": "Een naaldboom met rode en donkere naalden domineert het midden, de stam loopt verticaal omhoog met takken die wijd uitspreiden. Rode bolletjes en vage cirkels zweven rond de boom, sommige scherp, andere onscherp. Een subtiele, lichte cirkel omhult de bovenste takken, bijna onzichtbaar tegen de witte achtergrond. Donkere vlekken en kleine stippen zijn verspreid over het beeld, vooral bij de takken en in de witte ruimte. De naalden variëren in kleur van helderrood tot donkerbruin, met grijze en witte tinten erdoorheen. De stam heeft een getextureerde, iets ruwe uitstraling met rode en grijze vlekken. De compositie is symmetrisch, met de boom als centraal punt en de witte achtergrond die de vorm benadrukt.",
+      "cyclus": 9697,
+      "tech_score": 8.0,
+      "tech_notities": "subtiele halo rond de boom, lichte inconsistentie in takstructuren",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, contemplatieve compositie",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009697_9760.webp"
+    },
     {
       "id": 9748,
       "titel": "Druppels die vragen stellen",
@@ -13,6 +26,19 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009685_9748.webp"
+    },
+    {
+      "id": 9747,
+      "titel": "Gele druppels in grijs",
+      "beschrijving": "Een solitaire boom met donker, gedetailleerd loof domineert het midden van een landschap getekend in grijstinten. Van de takken hangen vijf druppelvormige figuren in heldergele en lichtblauwe kleuren, alsof ze zachtjes aan de boom hangen of eruit druppen. Het gras rond de boomstam is fijn getekend met lange, slanke bladeren die in verschillende richtingen wijzen. Op de achtergrond strekt zich een vlakke horizon uit met een rij bomen en een open veld, getekend in zachte, vaagere lijnen. De gele en blauwe vormen contrasteren scherp met de overwegend monochrome omgeving, en de boom zelf heeft een bijna botanische, precieze uitstraling met zijn uitgespreide takken en fijn getekende bladeren. De compositie is rustig, maar de kleurrijke druppels voegen een onverklaarbare beweging toe aan het tafereel.",
+      "cyclus": 9684,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, niet-iconische compositie met onverklaarbare elementen (kleurige druppels) die geen typisch 'anschouwelijke' onderwerp vormen.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009684_9747.webp"
     },
     {
       "id": 9742,
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009649_9712.webp"
-    },
-    {
-      "id": 9709,
-      "titel": "Sporen die drijven",
-      "beschrijving": "Donkergrijze, gladde stenen drijven in stilstaand water, omgeven door zachte, concentrische rimpelingen. De bovenste steen heeft een onregelmatige, witte textuur met kleine putjes en een donkerrode, kromme lijn die als een drogende spoor over de rand loopt. Onder hem reflecteert een tweede steen vaag in het water, terwijl een derde steen rechtsonder de hoek in het beeld verschijnt, gedeeltelijk ondergedompeld. Het water is grijsblauw en helder, met een lichte glans die de overgang tussen de stenen en hun omgevings waterachtig maakt. De compositie is rustig, met de stenen schuin door het kader geplaatst en veel lege ruimte boven en onder hen.",
-      "cyclus": 9646,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009646_9709.webp"
-    },
-    {
-      "id": 9696,
-      "titel": "Metaal dat ademt",
-      "beschrijving": "Twee zilverkleurige messen vormen een V-vorm tegen een diepblauwe hemel, met de punten naar boven gericht. Het metaal reflecteert het licht, waardoor de messen een glanzende, bijna vloeibare textuur krijgen. Een smalle, rechthoekige uitsparing loopt langs de steel van het rechter mes, terwijl de handvatten samensmelten in een enkele, gestroomlijnde vorm. De achtergrond vervaagt tot een onscherpe horizon met donkergroene en bruine tinten, alsof de messen in een verlaten landschap schuiven. De scherpe lijnen van het metaal contrasteren met de zachte, ongestoorde ruimte eromheen.",
-      "cyclus": 9633,
-      "tech_score": 8.0,
-      "tech_notities": "kleine vervorming bij de overgang tussen de messen, lichte onnatuurlijke scherpte in de metalen texturen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet-obvious.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009633_9696.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9697,
-    "gemaakt": 9759,
-    "gekozen": 1484,
+    "cycli": 9704,
+    "gemaakt": 9766,
+    "gekozen": 1486,
     "afgekeurd": 1329,
-    "corpus": 63,
+    "corpus": 64,
     "notities": 415
   }
 }
