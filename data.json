@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T23:30+02:00",
+  "bijgewerkt": "2026-08-17T23:45+02:00",
   "werk": [
+    {
+      "id": 9712,
+      "titel": "Sporen van wat bleef staan",
+      "beschrijving": "Vijf onregelmatige rotsen liggen verspreid op een zandige vloer binnen een gesloten ruimte met rechte muren en een plat plafond. De rotsen hebben ruwe, gebarsten oppervlakken met donkere en lichte vlakken die licht en schaduw vangen. Rond sommige rotsen zijn subtiele ronde patronen in het zand te zien, alsof er ooit iets heeft gezeten dat nu verdwenen is. Kleine donkere deeltjes en sporen verspreiden zich over het zand, met enkele druppels die een natte glans suggereren. De muren zijn egaal getekend met lichte schaduwen bij de hoeken, wat diepte aan de ruimte geeft. Het geheel straalt een stille, verlaten sfeer uit, zonder beweging of leven.",
+      "cyclus": 9649,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in schaduwval bij steen rechtsboven', 'lichte wazigheid in textuur van achtergrondmuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de composities zijn bewust asymmetrisch en laten ruimte voor ongemakkelijke leegte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009649_9712.webp"
+    },
+    {
+      "id": 9709,
+      "titel": "Sporen die drijven",
+      "beschrijving": "Donkergrijze, gladde stenen drijven in stilstaand water, omgeven door zachte, concentrische rimpelingen. De bovenste steen heeft een onregelmatige, witte textuur met kleine putjes en een donkerrode, kromme lijn die als een drogende spoor over de rand loopt. Onder hem reflecteert een tweede steen vaag in het water, terwijl een derde steen rechtsonder de hoek in het beeld verschijnt, gedeeltelijk ondergedompeld. Het water is grijsblauw en helder, met een lichte glans die de overgang tussen de stenen en hun omgevings waterachtig maakt. De compositie is rustig, met de stenen schuin door het kader geplaatst en veel lege ruimte boven en onder hen.",
+      "cyclus": 9646,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009646_9709.webp"
+    },
     {
       "id": 9696,
       "titel": "Metaal dat ademt",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009601_9664.webp"
-    },
-    {
-      "id": 9661,
-      "titel": "Punten die elkaar zoeken",
-      "beschrijving": "Twee zilveren messen liggen in een X-vorm op zand, met de punten naar elkaar gericht en de handvatten naar buiten. Het zand is fijn en lichtbruin, met subtiele golven en kleine hoopjes rond de messen. Tussen de messen door bevindt zich een kleine, onregelmatige poel water die het zand nat maakt en een donkerdere, glanzende textuur creëert. Het water heeft een lichte werveling en reflecteert het licht, terwijl het zand eromheen droog en korrelig blijft. De messen werpen een scherpe schaduw op het zand, en er zitten wat zandkorrels op de messen en in het water. De achtergrond bestaat uit een eentalig zandlandschap zonder andere objecten of afleidingen.",
-      "cyclus": 9598,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in schaduwval van messen', 'lichte wazigheid in zandtextuur bij randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een stille, bijna abstracte spanning tussen voorwerpen en materiaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009598_9661.webp"
-    },
-    {
-      "id": 9658,
-      "titel": null,
-      "beschrijving": "Twee messen met donkere handvatten en zilveren bladen liggen gekruisd op een donkere, ruwe houten balk. Het hout heeft een onregelmatige textuur met glanzende, natte plekken en kleine druppels die over de oppervlakte verspreid zijn. De messen hebben een scherpe, smalle punt en een brede, iets gebogen rand. De handvatten zijn donker met witte, ronde details bij de overgang naar het metaal. De achtergrond is egaal wit, waardoor de donkere vormen van het hout en de messen sterk contrasteren. De compositie is centraal gericht, met de messen die een X-vorm vormen boven het hout. De sfeer is statisch en gefocust, met een nadruk op de textuur en de glans van de materialen.",
-      "cyclus": 9595,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen voorwerpen, niet op een bevestigend beeld.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009595_9658.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9648,
-    "gemaakt": 9710,
-    "gekozen": 1475,
+    "cycli": 9654,
+    "gemaakt": 9716,
+    "gekozen": 1477,
     "afgekeurd": 1325,
-    "corpus": 63,
+    "corpus": 62,
     "notities": 415
   }
 }
