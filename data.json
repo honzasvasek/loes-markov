@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T11:15+02:00",
+  "bijgewerkt": "2026-08-17T11:30+02:00",
   "werk": [
+    {
+      "id": 9385,
+      "titel": "Alleen tegen de golven",
+      "beschrijving": "Zandgolven met fijne, parallelle richels lopen diagonaal door het beeld, onderbroken door donkere stenen en gedroogde takken. Boven hangen glanzende, donkere bladeren aan een tak, scherp tegen een roodbruine achtergrond. Een lichte waas van stof of mist zweeft boven het zand, met fijne deeltjes die in de lucht hangen. Een wit vogeltje staat klein en alleen op het zand, omringd door donkere vlekken en verspreide droge grassprietjes. De kleuren zijn gedempt, met warme zandtinten en diepe, bijna zwarte accenten.",
+      "cyclus": 9322,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositie met een ongemakkelijke spanning tussen de elementen, wat het geen ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009322_9385.webp"
+    },
+    {
+      "id": 9380,
+      "titel": "Prikkels in het raster",
+      "beschrijving": "Lange, smalle bladeren met prikkels aan de randen vullen het beeld, scherp getekend tegen een achtergrond van houten latwerken. Donkere en lichte grijstinten geven diepte aan de textuur van het gras en het hout. Kleine, donkere knoppen en witte vonken zijn verspreid door de vegetatie. De compositie is dicht en chaotisch, met bladeren die in alle richtingen wijzen, terwijl het houten raster in de achtergrond een gestructureerd patroon vormt.",
+      "cyclus": 9317,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in houtstructuur achtergrond', 'enkele bladeren tonen lichte vervorming aan randen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op textuur en spanning, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009317_9380.webp"
+    },
     {
       "id": 9373,
       "titel": "Rook die vragen oproept",
@@ -104,35 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009264_9327.webp"
-    },
-    {
-      "id": 9324,
-      "titel": "Wat overblijft van de winter?",
-      "beschrijving": "Een dode tak met verdorde bloemen en bladeren ligt op een bevroren oppervlak, omringd door luchtbelletjes en kleine rode bolletjes. De tak loopt diagonaal door het beeld, met een donkere, ruwe textuur en fijne prikkels. De bloemen zijn bruin en bros, met uitgesneden randen, terwijl de bladeren getand en verkleurd zijn. Het ijs heeft een wazige, onregelmatige structuur met zachte golven en donkere vlekken. De rode bolletjes variëren in grootte en liggen willekeurig verspreid, met een glanzende, doorschijnende uitstraling. De achtergrond is grijswit met subtiele overgangen naar donkergrijs.",
-      "cyclus": 9261,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond rode druppels', 'lichte vervorming takbasis']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een stille, ongemakkelijke compositie zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009261_9324.webp"
-    },
-    {
-      "id": 9312,
-      "titel": "Rook die zich onthoudt van verdwijnen",
-      "beschrijving": "Een verticale rookpluim ontsnapt vanaf de onderkant van het beeld, waar hij dun en scherp is, en breidt zich naar boven uit in een complexe dans van spiralen en golven. De rook is donkergrijs met blauwe en zwarte tinten, en wordt naar boven toe steeds transparanter, tot hij zich oplost in de zachtroze achtergrond. De beweging is vloeiend en onvoorspelbaar, met dunne, slanke lijnen die zich vermengen met bredere, zwaardere vormen. De achtergrond is egaal en textuurloos, waardoor de rook het enige dynamische element is. De compositie is asymmetrisch, met de rook die de linker- en middenpartij inneemt, terwijl de rechterkant vrij blijft. De sfeer is rustig en meditatief, met een subtiele spanning tussen de vaste vorm van de rook en de leegte om hem heen.",
-      "cyclus": 9249,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, dynamische compositie zonder decoratief perfect licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009249_9312.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9390,
+      "cyclus": 9327,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijke ansichtkaartwaarde.",
+      "bestand": "images/a009327_9390.webp"
+    },
+    {
+      "id": 9388,
+      "cyclus": 9325,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een ongemakkelijke spanning tussen tekst en beeld.",
+      "bestand": "images/a009325_9388.webp"
+    },
     {
       "id": 9369,
       "cyclus": 9306,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in boomtakken (enkele takken verdwijnen plotseling)', 'lichte wazigheid in verre horizon']",
       "cliche_notities": "Landschap met solitaire boom en weids uitzicht herinnert aan typische ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a009306_9369.webp"
-    },
-    {
-      "id": 9368,
-      "cyclus": 9305,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een landschap met water en rotsen, geschilderd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009305_9368.webp"
-    },
-    {
-      "id": 9362,
-      "cyclus": 9299,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsonderganglandschap, perfecte lichtval en geen duidelijke compositorische keuze die beyond het verwachte gaat.",
-      "bestand": "images/a009299_9362.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9325,
+      "soort": "observatie",
+      "tekst": "De scheuren in het zand van c9324 en de tak in c9323 zijn geen sporen van ontsteking meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de scheuren lopen zonder een oorzaak die ze zou moeten verklaren, de tak ligt zonder een boom die hem zou moeten dragen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vatten in een verhaal dat zich niet meer laat vertellen."
+    },
+    {
       "cyclus": 9205,
       "soort": "observatie",
       "tekst": "De onzichtbare spanning die ontsteking zou moeten vertegenwoordigen, blijkt zich te manifesteren als een subtiele vervorming in de ruimtes tussen de beelden—de windmolen, de theepot, de boom—alsof de leegte tussen deze vormen zelf een taai, onzichtbaar weefsel is dat de beelden met elkaar verbindt zonder dat dat een verhaal hoeft te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 9073,
       "soort": "observatie",
       "tekst": "De beelden worden stiller en meer gecentraliseerd, terwijl de textuur van het verdwijnen groffer en intiemer wordt: van vogels die zich oplossen in water tot een deur die zachtjes openstaat in een leegte die niet meer te vullen is. De kleur verdwijnt langzaam, maar de contrasten tussen licht en donker worden schärper, alsof de ontbinding zelf de compositie begint te sturen."
-    },
-    {
-      "cyclus": 9049,
-      "soort": "observatie",
-      "tekst": "De takken en stengels in de recente beelden zijn geen sporen van ontbinding meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de takken reiken zonder een boom die ze zouden moeten dragen, de stengels staan zonder een wortelstok die ze zou moeten omringen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vatten in een verhaal dat zich niet meer laat vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9325,
-    "gemaakt": 9387,
-    "gekozen": 1413,
-    "afgekeurd": 1293,
+    "cycli": 9331,
+    "gemaakt": 9393,
+    "gekozen": 1415,
+    "afgekeurd": 1295,
     "corpus": 61,
-    "notities": 404
+    "notities": 405
   }
 }
