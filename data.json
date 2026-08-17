@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T03:00+02:00",
+  "bijgewerkt": "2026-08-17T03:15+02:00",
   "werk": [
     {
       "id": 9158,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 9169,
+      "cyclus": 9106,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Molen in landschap met decoratief blauw filter en typisch Nederlandse iconografie, zonder eigen compositorische keuzes.",
+      "bestand": "images/a009106_9169.webp"
+    },
+    {
       "id": 9148,
       "cyclus": 9085,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stillevenscompositie met subtiele spanning tussen vormen en ruimte.",
       "bestand": "images/a009083_9146.webp"
-    },
-    {
-      "id": 9144,
-      "cyclus": 9081,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een typisch romantisch strandmotief met een losliggende deken en in het zand geschreven tekst, zonder eigen compositorische keuzes of een onverwacht standpunt.",
-      "bestand": "images/a009081_9144.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9101,
-    "gemaakt": 9163,
+    "cycli": 9108,
+    "gemaakt": 9170,
     "gekozen": 1374,
-    "afgekeurd": 1265,
+    "afgekeurd": 1266,
     "corpus": 63,
     "notities": 402
   }
