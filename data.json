@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T05:15+02:00",
+  "bijgewerkt": "2026-08-17T05:30+02:00",
   "werk": [
+    {
+      "id": 9228,
+      "titel": "Regendruppels en onafgewerkte bomen",
+      "beschrijving": "Regendruppels dalen als fijne, donkere lijnen door een landschap van zachte, wazige bomen met donkere, onregelmatige bast. Vier figuren lopen met open paraplu’s over een nat, reflecterend pad, omringd door donkere vlekken en spetters die als modder of inktpakketten door het beeld zweven. Vogels vliegen in een losse V-vorm door de lucht, terwijl de achtergrond oplost in vaag getekende bomen en een lichte, nevelige horizon. Donkere, verticale strepen en krassende lijnen suggereren beweging en natuur die zich ontvouwt, terwijl de kleuren beperkt blijven tot grijstinten, zwart en subtiel bruin. Het beeld ademt een stille, natte sfeer met een gevoel van voorbijgang en onafgewerktheid.",
+      "cyclus": 9165,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in perspectief van bomen en figuren', 'enkele wazige overgangen tussen donkere en lichte vlakken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, introspectieve sfeer met een nadruk op leegte en spanning, geen typisch iconisch onderwerp.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009165_9228.webp"
+    },
+    {
+      "id": 9223,
+      "titel": "Stekelige eenzaamheid",
+      "beschrijving": "Een wit, stekelig object met een langwerpige, asymmetrische vorm ligt op een donkergrijze, korrelige ondergrond. Het object heeft een smalle steel die overgaat in een bredere, amorf vorm met een lichte, vaag getekende structuur erin. Donkere, dunne lijnen lopen door de achtergrond, die een textuur heeft die aan bevroren of bevroren oppervlak denkt. De witte stekels zijn fijn en onregelmatig verdeeld, met een schaduw die het object van de achtergrond scheidt. De compositie is centraal gericht, met veel lege ruimte rond het object.",
+      "cyclus": 9160,
+      "tech_score": 8.0,
+      "tech_notities": "subtiele inconsistentie in textuur van achtergrond (linksboven/rechtsonder), lichte halo rond witte structuur",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een abstracte, niet-verhalende kwaliteit",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009160_9223.webp"
+    },
     {
       "id": 9216,
       "titel": "Rook en regen op de horizon",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009115_9178.webp"
-    },
-    {
-      "id": 9175,
-      "titel": "Waar blijft de horizon?",
-      "beschrijving": "Een rechthoekig vlak van blauw beslaat het grootste deel van het beeld, met een onregelmatige, zacht overlopende rand die het witte papier raakt. Het blauw is niet eendragig: boven is het donkerder, bijna diep, en wordt het naar beneden toe lichter, met subtiele variaties in tint. Een dunne, donkere, verticale lijn loopt van boven naar beneden door het midden van het blauwe vlak, iets schuin en niet perfect recht. De lijn is niet uniform dik en heeft kleine onregelmatigheden. Het blauwe vlak heeft aan de onderkant een wat ruwe, bijna verfransde rand, alsof de verf in één keer is aangebracht met een brede penseelstreep. Het witte papier rondom het blauw is schoon en ongerept, behalve aan de randen waar het blauw wat uitloopt. De achtergrond buiten het papier is bruin en heeft een houten textuur.",
-      "cyclus": 9112,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009112_9175.webp"
-    },
-    {
-      "id": 9168,
-      "titel": "Vuurspatten in ijzer en stof",
-      "beschrijving": "Een gescheurd, donkergrijs metalen vat staat op een ruwe, betonnen ondergrond, omringd door puin en droog gras. Door de scheur in het vat heet oranje-rood vuur likt naar buiten, met vlammen die zich onregelmatig uitstrekken. De randen van het vat zijn tandvormig en verbrand, met roetvlekken en krassen op het metaal. De achtergrond is een onscherpe, grijze muur met sporen van slijtage. De vloer is bedekt met stof, kleine stenen en verspreide takjes. Het vuur werpt een warme gloed op de directe omgeving, terwijl de rest van het beeld in koude, gedempte tinten blijft.",
-      "cyclus": 9105,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; vuur en textuur zijn consistent en realistisch",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is gericht op spanning en afwezigheid, niet op een bevestigend beeld",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009105_9168.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 9164,
-    "gemaakt": 9226,
-    "gekozen": 1385,
+    "cycli": 9170,
+    "gemaakt": 9233,
+    "gekozen": 1387,
     "afgekeurd": 1272,
     "corpus": 61,
     "notities": 403
