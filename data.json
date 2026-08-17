@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T08:00+02:00",
+  "bijgewerkt": "2026-08-17T08:15+02:00",
   "werk": [
+    {
+      "id": 9302,
+      "titel": null,
+      "beschrijving": "Droog, bruin gras vult de voorgrond in een dicht, onregelmatig patroon, met lange, slanke stengels die in alle richtingen staan. Achter het gras stijgt een dichte, witgrijze rookpluim op, die zich uitstrekt naar een effen, bewolkte hemel. De rook heeft een zachte, wazige textuur en lijkt langzaam te bewegen, met donkerdere en lichtere delen die een gevoel van diepte geven. De achtergrond is vaag en onduidelijk, met slechts hints van donkere vormen aan de horizon. De kleuren zijn gedempt, met een overgang van warm bruin in het gras naar koud grijs in de rook en de hemel. De compositie is verticaal, met het gras in de onderste helft en de rook en hemel in de bovenste helft, wat een gevoel van ruimte en eenzaamheid oproept.",
+      "cyclus": 9239,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de rook die zich ontvouwt boven het gras, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009239_9302.webp"
+    },
+    {
+      "id": 9298,
+      "titel": "Schaar snijdt door storm",
+      "beschrijving": "Een roestbruine schaar met oranje vlekken steekt schuin door een chaotisch bos van grijze, blauwe en bruine takken en penseelstreken. Rechts daarvan rust een glanzende, zilvergrijze bol met vaag witte en gele reflecties, omgeven door donkerblauwe schaduwen. De achtergrond bestaat uit onscherpe, snelle streken in beige en lichtgrijs, waardoor de schaar en de bol scherp afsteken. Kleine oranje en blauwe stippen en vage takvormen verspreiden zich rond de schaar, die een bijna organische vorm lijkt te hebben met zijn gebogen handvat en spitse punten. De compositie voelt onstabiel, alsof de voorwerpen net uit een storm van verf en houtvezels ontstaan zijn.",
+      "cyclus": 9235,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met abstracte vormen en een ongemakkelijke schoonheid, wat het geen ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009235_9298.webp"
+    },
     {
       "id": 9290,
       "titel": "Mos omhult vergeten ijzer",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009192_9255.webp"
-    },
-    {
-      "id": 9246,
-      "titel": "Regen op asfalt met glinsterende wonden",
-      "beschrijving": "Donkere, ruwe textuur met glinsterende, onregelmatige vormen, omringd door kleine, glanzende deeltjes en dunne, witte lijnen die door een donkere, natte ondergrond lopen. Een enkele druppel hangt in de lucht, scherp en helder tegen een vaag, donkergrijze achtergrond met subtiele verticale regenstrepen. De compositie is dynamisch, met een focus op de contrasten tussen harde, donkere structuren en zachte, glanzende details.",
-      "cyclus": 9183,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op abstracte spanning en textuur, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009183_9246.webp"
-    },
-    {
-      "id": 9243,
-      "titel": "Sporen van verdwijnen",
-      "beschrijving": "Grijs papier vormt de achtergrond, met een subtiele textuur die het oppervlak doorspeelt. Witte, fijne grassprietjes rijzen op vanuit de linkeronderhoek, met zachte, veerkrachtige bewegingen die naar rechtsboven wijzen. De sprietjes hebben een delicate, bijna doorschijnende structuur, met fijne, uitstralende vezels die de lucht in lijken te verdwijnen. Onder de grassprietjes liggen zes ronde stenen, verspreid over de onderste helft van het beeld. De stenen variëren in grootte en textuur: sommige zijn glad en lichtgrijs, andere hebben een ruwere, donkerdere oppervlakte met kleine putjes en korrels. Een kleine, donkere steen ligt geïsoleerd in de linkeronderhoek, terwijl een nog kleinere, witte steen dicht bij de voorgrond rust. In de boven linkerhoek bevindt zich een vaag, cirkelvormig motief, getekend met een lichte, onvoltooide lijn, alsof het een spoor van een verdwenen object is. De compositie is rustig en gebalanceerd, met de grassprietjes die een dynamische lijn trekken door de stenen en de lege ruimte erboven. De sfeer is stil en contemplatief, met een focus op de subtiele verschillen in textuur en vorm.",
-      "cyclus": 9180,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de cirkel in de achtergrond', 'lichte inconsistentie in textuur van de stenen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, contemplatieve compositie zonder duidelijke narratiev.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009180_9243.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9309,
+      "cyclus": 9246,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (spoor/omheining)', 'inconsistent perspectief (spoor vs. rook)', 'wazige texturen (papier/rook)']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust fragmentarisch en ongemakkelijk.",
+      "bestand": "images/a009246_9309.webp"
+    },
+    {
+      "id": 9307,
+      "cyclus": 9244,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna onleesbare compositie met een onverklaarbare letter.",
+      "bestand": "images/a009244_9307.webp"
+    },
     {
       "id": 9303,
       "cyclus": 9240,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische woestijnschap met perfecte zandduinen en een heldere hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a009240_9303.webp"
-    },
-    {
-      "id": 9297,
-      "cyclus": 9234,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp van een verlaten schuur in de woestijn met perfecte licht- en schaduwval en een klassieke compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a009234_9297.webp"
-    },
-    {
-      "id": 9277,
-      "cyclus": 9214,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een eenzame strandhut bij zonsondergang) en het decoratieve, kalmerende licht zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009214_9277.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9241,
-    "gemaakt": 9304,
-    "gekozen": 1399,
-    "afgekeurd": 1282,
-    "corpus": 62,
+    "cycli": 9247,
+    "gemaakt": 9309,
+    "gekozen": 1401,
+    "afgekeurd": 1284,
+    "corpus": 61,
     "notities": 404
   }
 }
