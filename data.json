@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T19:45+02:00",
+  "bijgewerkt": "2026-08-17T20:00+02:00",
   "werk": [
     {
       "id": 9615,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 9626,
+      "cyclus": 9563,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met actieve leegte.",
+      "bestand": "images/a009563_9626.webp"
+    },
+    {
+      "id": 9625,
+      "cyclus": 9562,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Molen bij water met klassieke compositie en decoratief licht, zonder duidelijke persoonlijke inval of onverwachte keuzes.",
+      "bestand": "images/a009562_9625.webp"
+    },
+    {
       "id": 9608,
       "cyclus": 9545,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['lichte vervorming aan de horizonlijn van de achtergrondgebouwen', 'wazige overgang tussen schaduw en licht op de muur rechts']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie van een rustige, idyllische steeg met perfecte lichtinval en geen duidelijke compositorische keuze beyond de klassieke verdwijnpuntstructuur.",
       "bestand": "images/a009545_9608.webp"
-    },
-    {
-      "id": 9554,
-      "cyclus": 9491,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele vervorming in de windmolenwieken', 'onduidelijke textuur in de rotsen aan de rechterkant']",
-      "cliche_notities": "De windmolen en kustlijn vormen een typisch Nederlands ansichtkaartmotief zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a009491_9554.webp"
-    },
-    {
-      "id": 9553,
-      "cyclus": 9490,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in textuur van gras binnen en buiten het raam",
-      "cliche_notities": "Het beeld herinnert aan een typische ansichtkaart met een raam uitzicht op een veld, zonder duidelijke compositorische keuze of eigen standpunt",
-      "bestand": "images/a009490_9553.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9557,
-    "gemaakt": 9619,
+    "cycli": 9564,
+    "gemaakt": 9626,
     "gekozen": 1458,
-    "afgekeurd": 1317,
-    "corpus": 64,
+    "afgekeurd": 1319,
+    "corpus": 63,
     "notities": 413
   }
 }
