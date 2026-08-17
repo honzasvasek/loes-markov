@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T19:00+02:00",
+  "bijgewerkt": "2026-08-17T19:15+02:00",
   "werk": [
+    {
+      "id": 9595,
+      "titel": "Wie opent nu de eerste?",
+      "beschrijving": "Twaalf houten deuren, elk met een unieke combinatie van kleur, textuur en slijtage, vormen een raster van vier rijen en drie kolommen tegen een egale witte achtergrond. De deuren variëren van donkerbruin tot lichtgrijs en crème, met sporen van verweerding zoals barstjes, verbleekte verf en kromgetrokken hout. Sommige deuren hebben metalen handvatten of sloten, andere zijn plain. De panelen op de deuren verschillen in grootte en indeling, maar bijna alle deuren hebben een klassieke, rechthoekige vorm met een duidelijke omlijsting. De witte ruimte tussen de deuren benadrukt hun individuele karakter, terwijl de algehele compositie een rustige, bijna methodische orde uitstraalt. Geen enkele deur is hetzelfde, maar samen vormen ze een harmonieus patroon van afwijkingen.",
+      "cyclus": 9532,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De deuren zijn geen iconische onderwerpen en de compositie toont geen decoratief perfect licht of een typisch ansichtkaart-gevoel.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009532_9595.webp"
+    },
+    {
+      "id": 9594,
+      "titel": "Inkt die door de lucht vliegt",
+      "beschrijving": "Twee theepotten en twee kommen rusten op onregelmatige, donkere vlakken die lijken op natte steen of hout. De voorwerpen zijn getekend met losse, donkere penseelstrepen, waarbij de contouren vaag en soms onderbroken zijn. Donkere vlekken en spatelsers verspreiden zich rond de objecten, alsof ink dat door de lucht vliegt. De achtergrond is wit en leeg, waardoor de donkere vormen scherp afsteken. De compositie is asymmetrisch, met de bovenste theepot en kom hoger geplaatst dan de onderste, die dichter bij de onderkant van het beeld staan. De sfeer is stil en contemplatief, met een gevoel van beweging vastgelegd in de spontane, bijna chaotische penseelvoering.",
+      "cyclus": 9531,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (theepotten en kommen in een abstracte compositie) is niet iconisch of bevestigend, en de uitvoering heeft een eigen, speelse compositorische keuze met ongemakkelijke hoeken en vrije ruimte.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009531_9594.webp"
+    },
     {
       "id": 9587,
       "titel": "Oranje vlekken in de kou",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009493_9556.webp"
-    },
-    {
-      "id": 9551,
-      "titel": "Wat mist er?",
-      "beschrijving": "Een zilveren theepot hangt aan een dun draadje tegen een effen, lichtgrijze muur, schuin links van een donkergrijze, boogvormige nis. De theepot heeft een gladde, reflecterende oppervlakte met subtiele kleurafwijkingen in goud en zwart, en werpt een zachte schaduw op de muur. Rechtsboven hangt een tweede, identiek draadje met een haak, maar zonder voorwerp. De compositie is asymmetrisch, met de theepot dicht bij de linkerrand en de nis die de rechterhelft domineert. De sfeer is stil en iets verlaten, door de leegte en de afwezigheid van beweging.",
-      "cyclus": 9488,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongewone compositie met een hangende theepot en een boogvormige opening, wat geen toeristische ansichtkaart uitstraalt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009488_9551.webp"
-    },
-    {
-      "id": 9547,
-      "titel": "Bloemen uit gebroken porselein",
-      "beschrijving": "Een gebroken witte theepot met gouden randen en bloemmotieven staat op een theeschotel, de scherven nog in elkaar gestoken maar met scherpe, ongelijke randen. Binnenin de pot groeien roze en paarse bloemen met groene bladeren, alsof ze uit het porselein zelf ontsprongen. Rook stijgt in slanke, witte spiraalvormen op vanaf de pot, verdwijnend in de donkergrijze achtergrond. Rechtsboven bevindt zich een gesloten houten kastdeur met subtiele panelen en een kleine ronde knop. Linksboven is een deel van een donkerbruin houten meubelstuk zichtbaar. De tafel waar de theepot op staat, heeft een zachtroze tint met donkere schaduwen die de vorm van de schotel en de pot weerspiegelen. De bloemen in de pot en op de zijkant van de theepot hebben een levendige, bijna realistische textuur, terwijl de achtergrond en de omgeving een gedempte, bijna dromerige sfeer uitstralen. De compositie is asymmetrisch, met de theepot iets links van het midden, waardoor de oogopgang naar de rechterbovenhoek wordt geleid waar de deur zich bevindt.",
-      "cyclus": 9484,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige compositie (gebroken porselein met bloemen en rook) die beyond een typische ansichtkaart valt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009484_9547.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9537,
-    "gemaakt": 9599,
-    "gekozen": 1453,
+    "cycli": 9544,
+    "gemaakt": 9606,
+    "gekozen": 1455,
     "afgekeurd": 1316,
-    "corpus": 61,
+    "corpus": 63,
     "notities": 413
   }
 }
