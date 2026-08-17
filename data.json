@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-17T12:00+02:00",
+  "bijgewerkt": "2026-08-17T12:15+02:00",
   "werk": [
+    {
+      "id": 9412,
+      "titel": "Rood bloedt door de barst",
+      "beschrijving": "Een donkerrood glas met een scherpe, verticale barst loopt van de rand tot de bodem, centraal in beeld. De barst is wit en onregelmatig, met kleine uitlopers die de glazen wand doorsnijden. Het glas staat op een oppervlak met horizontale, afwisselend lichte en donkere strepen, die de achtergrond en de ondergrond vormen. De strepen zijn scherp aan de randen van het glas en vervagen naar de hoeken toe. Het licht valt schuin, waardoor het glas een zachte glans krijgt en de barst dieper lijkt. De kleuren zijn gedempt, met een warme, roodbruine tint die het hele beeld omhult.",
+      "cyclus": 9349,
+      "tech_score": 8.0,
+      "tech_notities": "lichte vervorming aan de randen van het glas, minimale inconsistentie in de schaduwval onder het glas",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een gefocuste compositie met een ongemakkelijke spanning tussen het breken en de lege ruimte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009349_9412.webp"
+    },
+    {
+      "id": 9408,
+      "titel": "Vlakbij de rand valt een vlekje",
+      "beschrijving": "Grijs papier vult het beeld, met een subtiele textuur die licht en schaduw zacht laat spelen. Drie donkere lijnen snijden door de ruimte: twee rechte, schuin lopende strepen die elkaar kruisen en een driehoekige vorm vormen, en een dunne, rechte lijn die parallel aan de onderkant loopt. Kleine, donkere vlekjes verspreiden zich willekeurig over het oppervlak, alsof ze per ongeluk zijn gevallen. De compositie is minimalistisch, met veel lege ruimte die de lijnen en vlekjes benadrukt. De sfeer is kalm en neutraal, zonder duidelijke focus of beweging.",
+      "cyclus": 9345,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009345_9408.webp"
+    },
+    {
+      "id": 9403,
+      "titel": null,
+      "beschrijving": "Een smalle, kronkelende waterloop snijdt door een groen, overwoekerd landschap binnen een ruimte met witte muren en een houten plint. Het water, geschilderd in zachte blauwe tinten met witte highlights, stroomt van de achtergrond naar de voorgrond, omzoomd door weelderig groen met verschillende texturen: zachte, wollige struiken, spitse grassen en brede bladeren. Aan de rechterkant staat een grijze houten deur met een donkere klink, naast een metalen kruk met een ronde zitting en vier poten. Het gras rond de kruk is korter en lichter van kleur, terwijl de vegetatie aan weerskanten van het water dichter en donder groen is. Rotsen en kleine stenen lijnen de oever van de waterloop, en enkele rode bessen steken uit het groen. De sfeer is kalm en iets verlaten, met een subtiele spanning tussen de natuurlijke overgroei en de geometrische vormen van de deur en de kruk.",
+      "cyclus": 9340,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een realistische deur en stoel met een surrealistische, stromende waterloop en overgroei, wat geen typisch iconisch of decoratief onderwerp is en een eigen compositorische keuze vertoont.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009340_9403.webp"
+    },
     {
       "id": 9396,
       "titel": "De theepot wacht op regen",
@@ -91,45 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009290_9353.webp"
-    },
-    {
-      "id": 9351,
-      "titel": "Vijf sporen in het gras",
-      "beschrijving": "Een smalle, grijze pad slingert door weelderig groen, omzoomd door hoge, slanke grasspelden in verschillende groentinten. Vijf kinderen lopen in een lijn het pad op, gezien van achteren, met hun rug naar de kijker. Het dichtstbijzijnde kind draagt een wit T-shirt en blauwe overal, het volgende een witte jurk, en verderop zijn figuren in blauwe en witte kleding zichtbaar. Een omgevallen terracotta pot ligt schuin op het pad, met donkere aarde eruit gestrooid. De achtergrond vervaagt in zachte groene en gele tinten, met subtiele witte vlekken die op lichtval of kleine bloemen lijken. De sfeer is rustig en speels, met een gevoel van beweging en onverwachte ontdekking.",
-      "cyclus": 9288,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van kinderen in de verte', 'lichte wazigheid in textuur van gras aan weerskanten']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een narratief element (de omgevallen pot en de kinderen die lopen) dat beyond een typische ansichtkaart gaat en een eigen compositorische keuze vertoont.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w009288_9351.webp"
-    },
-    {
-      "id": 9345,
-      "titel": "Waar komt de hitte vandaan",
-      "beschrijving": "Een donkere theepot met een bolle vorm, een deksel met knop en een handvat aan de rechterkant staat centraal. Van de pot lopen dunne, golvende lijnen naar beneden, die overgaan in vage, vlammende vormen. De achtergrond is een effen, korrelig grijs, waarbij de pot en de lijnen donkerder getekend zijn. De compositie is verticaal georiënteerd, met de pot in het midden en de lijnen die naar beneden lopen. De sfeer is statisch, met een subtiele beweging in de golvende lijnen.",
-      "cyclus": 9282,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een unieke, niet-iconische compositie met een abstracte, bijna organische vormtaal die niet past bij een toeristische ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009282_9345.webp"
-    },
-    {
-      "id": 9342,
-      "titel": "Waarom blijft die boom staan?",
-      "beschrijving": "Een solitaire boom met een donkerbruine stam en takken domineert het midden van het beeld, omringd door een kroon van groene en geelgroene bladeren met speelse, gespikkelde details. De grond is zandkleurig met subtiele bruine en beige tinten, doorspekt met donkere vlekken en kleine groene grassprietjes bij de wortels. Drie grote, afgeronde rotsen met blauwe en witte accenten liggen verspreid rond de boom, terwijl kleinere stenen en donkere korrels het zand doorspikkelen. De achtergrond is helderwit, met enkele vaag zichtbare beige cirkels die als verre zonnestralen of lichtvlekken fungeren. De compositie straalt een rustige, bijna speelse sfeer uit, met de boom als centraal anker in een minimalistisch landschap.",
-      "cyclus": 9279,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in takstructuur (enkele takken lopen logisch door bladeren)', 'lichte wazigheid in achtergrondcirkels']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is speels en niet-obvious",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w009279_9342.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 9345,
-    "gemaakt": 9408,
-    "gekozen": 1418,
+    "cycli": 9353,
+    "gemaakt": 9415,
+    "gekozen": 1421,
     "afgekeurd": 1297,
     "corpus": 61,
     "notities": 405
