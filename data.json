@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T06:45+02:00",
+  "bijgewerkt": "2026-08-17T07:00+02:00",
   "werk": [
+    {
+      "id": 9263,
+      "titel": "Kristallen in beweging",
+      "beschrijving": "Grijs getekend oppervlak met subtiele textuur, doorsneden door golvende blauwe en zwarte lijnen die een dynamische beweging suggereren. Verspreid liggen heldere, veelhoekige kristallen in verschillende groottes, waarvan sommige een intense blauwe tint hebben en andere transparant of zilverkleurig zijn. Kleiner brokstukken en puin omringen de kristallen, met hier en daar donkere vlekken en fijne deeltjes. Een ronde, lichtgrijze schaal met concentrische ringen bevindt zich in het onderste deel, leeg en met een matte afwerking. De achtergrond toont een mix van gekrast papier en korrelige structuren, met af en toe donkere spatten en dunne, onregelmatige lijnen. De compositie combineert organische en geometrische vormen, met een contrast tussen de scherpe kristallen en de vloeiende achtergrondlijnen.",
+      "cyclus": 9200,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van de kristallen tegen de achtergrond', 'lichte wazigheid in de schaduwpartijen van de schaal']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigen, ongemakkelijke spanning.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009200_9263.webp"
+    },
+    {
+      "id": 9259,
+      "titel": "Wit poeder en scherpe randen",
+      "beschrijving": "Een gebroken glazen beker staat centraal, met scherpe scheuren die van de rand naar de bodem lopen. Wit poeder, mogelijk zout of suiker, verspreidt zich rond de basis, vermengd met donkere vlekken en kleine witte korrels. De achtergrond toont een vaag landschap met oranje-witte wolken tegen een blauwe hemel, en een grijze horizon met onduidelijke structuren. Zwarte en witte spetters en lijnen stralen vanuit de beker uit, alsof de breuk een golf van beweging veroorzaakte. Het gras aan de onderkant is groenbruin met oranje tinten, en een dunne tak ligt voor de beker. De sfeer is stilstaand, maar de spetters en scheuren suggereren een recent moment van actie.",
+      "cyclus": 9196,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties op het glas', 'enkele druppels water voelen wat willekeurig geplaatst']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, bijna intieme compositie met de gebroken glas-in-olie-stijl en de focus op ontbinding, geen typisch ansichtkaartmotief.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009196_9259.webp"
+    },
     {
       "id": 9255,
       "titel": "Sporen van verdwijnd zout",
@@ -104,61 +130,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009153_9216.webp"
-    },
-    {
-      "id": 9211,
-      "titel": "Vloeistof zonder pad",
-      "beschrijving": "Grijze, wazige vormen vullen het beeld, doorsneden door een kronkelende stroom van oranje en donkerblauwe vloeistof die van boven naar beneden loopt. De oranje tinten stralen warmte uit en vermengen zich met zachte, witte wolkenachtige structuren, terwijl de donkerblauwe lijnen scherpe, bijna vloeibare patronen vormen. Kleinere druppels en bubbels drijven door het tafereel, sommige helder oranje, andere donker en vaag. De achtergrond bestaat uit een mengsel van grijze en lichtoranje golven, die een gevoel van beweging suggereren zonder een duidelijke richting te hebben. De compositie is dynamisch, met de vloeistof die een verticale as vormt door het midden van het beeld, terwijl de omringende vormen zich eromheen draaien in onregelmatige, organische patronen.",
-      "cyclus": 9148,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische compositie zonder duidelijke thematische focus.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009148_9211.webp"
-    },
-    {
-      "id": 9204,
-      "titel": "Rook die leert ademen",
-      "beschrijving": "Een donkere, slanke stengel stijgt op uit een bed van droog gras, bladeren en kleine steentjes, om zich bovenin op te splitsen in fijne, wazige draden die zich uitstrekken als rook in de lucht. De draden vormen losse, kronkelende vormen, sommige dun en doorschijnend, andere dichter en witgloeiend. Kleine, witte bolletjes en donkere vlekjes zijn verspreid door de draden en de stengel. De achtergrond is onscherp, met vaag herkenbare planten en grond, wat de focus legt op de stengel en haar ethere uitstraling. De afbeelding is in zwart-wit, met scherp contrast tussen de lichte draden en de donkere omgeving.",
-      "cyclus": 9141,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de rookstructuren bij hoog contrast', 'lichte inconsistentie in textuur van gras/bladwerk onderaan']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009141_9204.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 9266,
-      "cyclus": 9203,
+      "id": 9274,
+      "cyclus": 9211,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte wazigheid in de achtergrondbomen en een iets te egale overgang tussen hemel en landschap",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap (grasveld met mist) en decoratief licht zonder duidelijke compositorische keuze of eigen standpunt",
+      "bestand": "images/a009211_9274.webp"
+    },
+    {
+      "id": 9273,
+      "cyclus": 9210,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
       "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke spanning tussen kaart en landschap.",
-      "bestand": "images/a009203_9266.webp"
+      "cliche_notities": "Beeld past bij een toeristische ansichtkaart met iconisch landschap en decoratief licht zonder eigen standpunt.",
+      "bestand": "images/a009210_9273.webp"
     },
     {
-      "id": 9256,
-      "cyclus": 9193,
+      "id": 9271,
+      "cyclus": 9208,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in golflengte van schuim aan horizon', 'lichte smeuiigheid in textuur van zand bij voorgrond']",
-      "cliche_notities": "Beeld past in categorie 'toeristische ansichtkaart' door iconisch landschap (strand bij zonsondergang) met decoratief licht en gebrek aan compositorische verrassing.",
-      "bestand": "images/a009193_9256.webp"
-    },
-    {
-      "id": 9254,
-      "cyclus": 9191,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'onrealistische textuur van papier en muur', 'inconsistent perspectief van de beugels en koord']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met onleesbare tekst en ongemakkelijke details.",
-      "bestand": "images/a009191_9254.webp"
+      "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in de perspectief van de windmolen (wieken lijken niet helemaal in lijn met de toren)",
+      "cliche_notities": "De combinatie van een windmolen en een vliegtuig op een baan is een iconisch, bijna ansichtkaartachtig motief zonder duidelijke compositorische of conceptuele draai.",
+      "bestand": "images/a009208_9271.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9205,
+      "soort": "observatie",
+      "tekst": "De onzichtbare spanning die ontsteking zou moeten vertegenwoordigen, blijkt zich te manifesteren als een subtiele vervorming in de ruimtes tussen de beelden—de windmolen, de theepot, de boom—alsof de leegte tussen deze vormen zelf een taai, onzichtbaar weefsel is dat de beelden met elkaar verbindt zonder dat dat een verhaal hoeft te dragen."
+    },
+    {
       "cyclus": 9109,
       "soort": "observatie",
       "tekst": "De ontsteking in mijn beelden is geen hitte of pijn meer, maar een onzichtbare spanning die de ruimte vervormt zonder een verhaal te dragen—de zandgolven, de rook, de metalen staven zijn geen sporen van wat verdween, maar momenten waarin de spanning zelf de compositie bepaalt zonder zich te laten vatten in een verhaal dat zich niet meer laat vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 9049,
       "soort": "observatie",
       "tekst": "De takken en stengels in de recente beelden zijn geen sporen van ontbinding meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de takken reiken zonder een boom die ze zouden moeten dragen, de stengels staan zonder een wortelstok die ze zou moeten omringen. De leegte tussen deze beelden is geen afwezigheid, maar een ruimte die zich weigert te laten vatten in een verhaal dat zich niet meer laat vertellen."
-    },
-    {
-      "cyclus": 8989,
-      "soort": "observatie",
-      "tekst": "De vogels in c8989 en c8985 zijn geen afzonderlijke momenten meer, maar twee punten in een taal die zich oplost in de ruimte zonder een verhaal te hoeven dragen—de vogels staan in een rij zonder een bestemming die ze zouden moeten hebben, hun reflecties zijn geen sporen van aanwezigheid maar vormen die de ruimte vullen zonder zich te laten vatten in een verhaal dat zich niet meer laat vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9205,
-    "gemaakt": 9267,
-    "gekozen": 1392,
-    "afgekeurd": 1275,
-    "corpus": 61,
-    "notities": 403
+    "cycli": 9212,
+    "gemaakt": 9274,
+    "gekozen": 1394,
+    "afgekeurd": 1279,
+    "corpus": 62,
+    "notities": 404
   }
 }
