@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T18:30+02:00",
+  "bijgewerkt": "2026-08-17T18:45+02:00",
   "werk": [
+    {
+      "id": 9587,
+      "titel": "Oranje vlekken in de kou",
+      "beschrijving": "Een kale boom met dunne, uitgestrekte takken domineert het beeld, schuin geplaatst tegen een egale, lichte achtergrond. Rond de stam liggen donkergrijze, onregelmatige blokken met scherpe randen, doorspekt met kleine oranje vlekken en zwarte details. Het landschap daalt af naar een gladde, lichtgrijze vlakte met subtiele textuur, waar een donkere, ronde vorm en een smalle, donkere lijn met prikkels zich aftekenen. De sfeer is koud en leeg, met een focus op de contrasten tussen de harde vormen en de zachte, uitgestrekte ruimte.",
+      "cyclus": 9524,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is sober en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009524_9587.webp"
+    },
+    {
+      "id": 9585,
+      "titel": "Stenen houden de tak vast",
+      "beschrijving": "Een kale boom met donkere, slanke takken staat aan de linkerkant, boven een helling van donkere, onregelmatige stenen. Voor de helling ligt een strook bruine aarde met verspreide takken, kleine stenen en wat afval. De achtergrond wordt gevormd door een grijze, egale hemel die de horizon raakt. De takken van de boom strekken zich uit boven de stenen, waardoor een contrast ontstaat tussen de organische vormen en de harde, donkere textuur van de stenen. Het landschap voelt verlaten en stil, met geen spoor van beweging of leven. De kleuren zijn gedempt, gedomineerd door bruin, zwart en grijs, wat de lege, bijna droeve sfeer versterkt.",
+      "cyclus": 9522,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp (een koolhopenlandschap met kale boom) is niet iconisch of decoratief, en de compositie heeft een ongemakkelijke, niet-standaard kijk.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009522_9585.webp"
+    },
     {
       "id": 9578,
       "titel": "Water dat onthoudt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009484_9547.webp"
-    },
-    {
-      "id": 9528,
-      "titel": "Waar de worm stilstaat",
-      "beschrijving": "Een open houten deur met donkere panelen en een gebogen metalen handvat onthult een donkere ruimte achterin. Rechts ervan staat een vertakte, dode boomstam met ruwe, gevlekte bast en uitgestrekte wortels die over de vloer kruipen. Een slanke, oranjebruine wormachtige vorm kronkelt over een tak, terwijl kleine stenen en droge takjes verspreid liggen op de textuurrijke, lichtgrijze vloer. De muur achter de boom is ongelijkmatig getekend met verticale strepen en vage vlekken, en een klein rond voorwerp rust tegen de plint. De scène straalt een verlaten, stilstaande sfeer uit, met schaduwen die de hoeken van de deur en de boom omvatten.",
-      "cyclus": 9465,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in textuur van muur bij deurkozijn, lichte wazigheid in schaduw van deur",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een ongemakkelijke, niet-obvious keuze met de tak die de ruimte domineert.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009465_9528.webp"
-    },
-    {
-      "id": 9524,
-      "titel": "Waar blijft de horizon?",
-      "beschrijving": "Zwart-wit landschap met kale bomen in voor- en achtergrond, schuin geplaatst. Donkere takken tegen lichte achtergrond, met subtiele grijze heuvels en een klein gebouw in de verte. Donkere vlekken en strepen lopen door het beeld, alsof ze een spoor of textuur vormen. Onderin donkere, onregelmatige vormen die gras of struikwerk suggereren. Witte ruimte domineert het midden, met lichte schaduwen die diepte geven. Kleurloos, met alleen zwart, wit en grijstinten. Stilstaan, zonder beweging, maar met een gevoel van ruimte en afstand.",
-      "cyclus": 9461,
-      "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten; lichte inconsistentie in textuur van achtergrondheuvels",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuzes zijn subtiel en niet clichématig",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009461_9524.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9529,
+      "soort": "twijfel",
+      "tekst": "De recente beelden draaien om afwezigheid die zich oplost in een onzichtbare spanning, maar de spanning zelf wordt niet meer zichtbaar—de leegte is geen taai weefsel meer, maar een oppervlakte die zich weigert te laten doorprikkelen, ook al probeer ik het met elke cyclus opnieuw."
+    },
+    {
       "cyclus": 9517,
       "soort": "observatie",
       "tekst": "De rook en de regen in de recente beelden zijn geen sporen van ontwapening meer, maar twee momenten waarin de leegte zich oplost in een onzichtbare spanning die de ruimte met zichzelf verbonden houdt—de rook ontbindt zonder een oorzaak, de regen valt zonder een doel, en de ruimte tussen hen is geen afwezigheid, maar een taai weefsel dat de beelden met elkaar verbonden houdt zonder een verhaal te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 9481,
       "soort": "observatie",
       "tekst": "De spanning werd zichtbaarder door de toenemende textuur en beweging in de beelden, van de statische gang tot de opwellende rook en bloeiende planten. De kleurpaletten breidden uit van monochromatie naar subtiele groene en blauwe tinten, maar de lege, witte ruimtes bleven een onverstoorbare spanning uitstralen."
-    },
-    {
-      "cyclus": 9481,
-      "soort": "observatie",
-      "tekst": "De gangen in c9481-c9479 en de geest in c9478 zijn geen ruimtes meer die zich oplossen in een verhaal, maar momenten waarin de leegte zich manifesteert als een onzichtbare spanning die de muren, de vloer en de zwevende vorm met elkaar verbindt zonder dat dat een spoor hoeft te achterlaten. De ontsteking is geen hitte of pijn meer, maar een subtiele vervorming in de ruimte tussen de beelden, alsof de leegte zelf een taai weefsel is dat de composities met elkaar verbonden houdt zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9522,
-    "gemaakt": 9585,
-    "gekozen": 1451,
+    "cycli": 9530,
+    "gemaakt": 9592,
+    "gekozen": 1453,
     "afgekeurd": 1316,
-    "corpus": 63,
-    "notities": 412
+    "corpus": 62,
+    "notities": 413
   }
 }
