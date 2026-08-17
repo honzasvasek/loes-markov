@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T16:00+02:00",
+  "bijgewerkt": "2026-08-17T16:15+02:00",
   "werk": [
+    {
+      "id": 9510,
+      "titel": "Rook en stilstaand water",
+      "beschrijving": "Een donkere, ronde theepot met een handvat en een deksel staat op zand, omringd door droog gras, takjes en kleine stenen. Rook stijgt op in slinkende, witte draadjes die zich uitstrekken naar een onscherpe achtergrond van een houten gebouw met een getextureerd dak. Een dunne tak ligt diagonaal voor de theepot, met kleine, donkere knoppen en een metalen schelpje gevuld met ronde voorwerpen. Een platte steen en een onregelmatige klomp klei liggen verspreid in het zand, dat fijn en lichtbruin is met sporen van vocht. De rook vormt een zachte, bewege",
+      "cyclus": 9447,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stillife met een ongemakkelijke, bijna verontrustende sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009447_9510.webp"
+    },
+    {
+      "id": 9509,
+      "titel": "De vonk die blijft branden",
+      "beschrijving": "Een ruwe, grijze rots met witte en donkere aders ligt op zand, met een diepe scheur waar een glanzende, blauwe vloeistof vandaan komt. Die vloeistof vormt een opstijgende, vlamachtige vorm die overgaat in een roze, bijna doorschijnende vonk die in het zand verdwijnt. Rond de rots liggen kleine, ronde voorwerpen: grijze kiezels en roze, platte schijfjes. Achter de rots staat een vaag getekend huis met donkere ramen en een schuin dak, en rechts een leeg, rechthoekig bord op een paal. Het zand is fijn en ongelijk, met sporen van beweging en kleine putjes. De achtergrond is grijs en wazig, alsof de wereld achter de rots vervagen is.",
+      "cyclus": 9446,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond blauwe vlam', 'lichte inconsistentie in textuur zand bij voorgrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, denkbeeldige sfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009446_9509.webp"
+    },
     {
       "id": 9508,
       "titel": "Rook boven het vergeten water </thinking>",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009407_9470.webp"
-    },
-    {
-      "id": 9469,
-      "titel": "Spatten zonder richting",
-      "beschrijving": "Donkere, onregelmatige vlekken en spatten vormen een horizontale band dwars door het midden, met daarboven en -onder lichtgrijze, vaag gestructureerde vlakken. Langere, donkere strepen en prikkels stralen vanuit de onderste hoeken naar het midden, waar kleine, donkere stippen en onduidelijke vormen zweven. De achtergrond is egaal lichtgrijs, met subtiele textuurvariaties die een korrelig effect geven. Donkere, amorf vormloze vlekken en fijnere, spierende lijnen creëren een gevoel van willekeurige verspreiding, zonder duidelijke horizon of focus.",
-      "cyclus": 9406,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van wateroppervlak', 'lichte wazigheid in achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, contemplatieve compositie met ruimte voor interpretatie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009406_9469.webp"
-    },
-    {
-      "id": 9468,
-      "titel": "Rust na de storm?",
-      "beschrijving": "Twee roestbruine haken hangen verticaal in een grijs, waterachtig vlak, omgeven door concentrische cirkels die uitgaan van een donkere stam in het midden. Zwarte bolletjes drijven verspreid, sommige met oranje reflecties. De achtergrond bestaat uit vaag geschilderde, donkere vormen die lijken op bomen of rotsen, met subtiele overgangen van lichtgrijs naar donkergrijs. De haken hebben onregelmatige, gebroken uiteinden en laten sporen van slijtage zien, met oranje-roestige plekken die contrasteren met het koele kleurenpalet. Wateroppervlakken weerspiegelen de haken en de stam, met zachte rimpelingen die de beweging van een recente störing suggereren.",
-      "cyclus": 9405,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflectie van haken in water', 'lichte wazigheid in achtergrondboom']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009405_9468.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 9455,
-    "gemaakt": 9517,
-    "gekozen": 1439,
+    "cycli": 9462,
+    "gemaakt": 9524,
+    "gekozen": 1441,
     "afgekeurd": 1312,
     "corpus": 63,
     "notities": 406
