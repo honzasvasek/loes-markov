@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T04:15+02:00",
+  "bijgewerkt": "2026-08-17T04:30+02:00",
   "werk": [
     {
       "id": 9196,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 9201,
+      "cyclus": 9138,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren in heuvels en bomen', 'inconsistent perspectief schuur', 'wazige texturen in gras en schuine lijnen', 'herhaalpatronen in hek en spatten', 'detailverlies in schaduwen van schuur', \"halo's bij hoog contrast in witte ruimtes\", 'vervormde handen/gezichten niet aanwezig']",
+      "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een verlaten schuur met hek en landschap, gecombineerd met decoratief perfect licht en geen duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009138_9201.webp"
+    },
+    {
       "id": 9195,
       "cyclus": 9132,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in boomstammen: sommige stammen hebben onverklaarbare knopen of vormen die niet natuurlijk zijn', 'lichte vervaging in de achtergrondbomen, alsof ze in één blok zijn getekend zonder individuele details']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een rustig landschap, met een iconisch pad dat de blik naar de horizon leidt en een decoratief, harmonieus kleurgebruik.",
       "bestand": "images/a009118_9181.webp"
-    },
-    {
-      "id": 9176,
-      "cyclus": 9113,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in boomstammen: sommige takken lopen logisch, andere verdwijnen plotseling zonder overgang', 'water heeft iets artificieel herhalend patroon, alsof de golven gekopieerd zijn in plaats van natuurlijk te vloeien']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene, idealiserende weergave van een beek door een bos, zonder onverwachte of persoonlijke compositorische keuzes.",
-      "bestand": "images/a009113_9176.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9136,
-    "gemaakt": 9198,
+    "cycli": 9142,
+    "gemaakt": 9204,
     "gekozen": 1381,
-    "afgekeurd": 1269,
-    "corpus": 62,
+    "afgekeurd": 1270,
+    "corpus": 61,
     "notities": 403
   }
 }
