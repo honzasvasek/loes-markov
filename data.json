@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T12:45+02:00",
+  "bijgewerkt": "2026-08-17T13:00+02:00",
   "werk": [
+    {
+      "id": 9436,
+      "titel": "Vijf vogels, één schaduw",
+      "beschrijving": "Een mistig landschap met een uitgestrekt veld droog, bruin gras in de voorgrond, waar een donkere, schuine schaduw diagonaal door loopt. In de middengrond vloeit een kalme, brede watervlakte, vaag begrensd door een donkere horizon met silhouetten van bomen of struiken. Boven het water vliegen vijf vogels in een losse V-vorm, donker tegen de lichte mist. De achtergrond wordt gedomineerd door een donkere, bewolkte hemel met subtiele blauwe en grijze tinten. De sfeer is stil en verlaten, met een zachte, diffuus lichtval die de mist en het water een dromerige textuur geeft. Geen sporen van leven, behalve de vogels en de onverklaarde schaduw.",
+      "cyclus": 9373,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de vogels tegen de lucht', 'lichte vervorming in de horizonlijn waar mist en water samenkomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sfeervolle, bijna mystieke uitstraling met de mist en vogels, maar de compositie met de schuine schaduw en de focus op de leegte geven het een unieke, niet-toeristische kwaliteit.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009373_9436.webp"
+    },
+    {
+      "id": 9434,
+      "titel": null,
+      "beschrijving": "Regendruppels vallen in dunne, witte lijnen naar beneden, waarbij ze rimpels maken in een donker wateroppervlak. In het water steken donkere, spitse vormen omhoog, sommige met een bolletje erboven, alsof ze net uit het water komen. Het water overgaat in een oranjebruine, zandige kust met golvende patronen en kleine putjes. Drie zwarte, V-vormige figuren steken in het zand, met een ronde steen en wat donkere vlekken eromheen. Links loopt een houten steiger met latten schuin naar beneden, waarbij de textuur van het hout duidelijk zichtbaar is. De achtergrond toont een donkere, textuurrijke horizon met vaag zichtbare vormen die op rotsen of bomen kunnen lijken. De regen geeft het hele tafereel een dynamische, bijna onrustige sfeer, terwijl de kleuren overgaan van donkergrijs in de regen en het water naar warm oranjebruin aan de kust.",
+      "cyclus": 9371,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de regenstrepen (sommige te recht/strak) en subtiele vervorming in de houtstructuur van de steigers",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of decoratief licht; de compositie is ongemakkelijk en de onderwerpen (pijlen, steigers, water) hebben geen duidelijke symbolische lading",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009371_9434.webp"
+    },
     {
       "id": 9419,
       "titel": "Goud dat zich onthoudt",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009324_9387.webp"
-    },
-    {
-      "id": 9385,
-      "titel": "Alleen tegen de golven",
-      "beschrijving": "Zandgolven met fijne, parallelle richels lopen diagonaal door het beeld, onderbroken door donkere stenen en gedroogde takken. Boven hangen glanzende, donkere bladeren aan een tak, scherp tegen een roodbruine achtergrond. Een lichte waas van stof of mist zweeft boven het zand, met fijne deeltjes die in de lucht hangen. Een wit vogeltje staat klein en alleen op het zand, omringd door donkere vlekken en verspreide droge grassprietjes. De kleuren zijn gedempt, met warme zandtinten en diepe, bijna zwarte accenten.",
-      "cyclus": 9322,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositie met een ongemakkelijke spanning tussen de elementen, wat het geen ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009322_9385.webp"
-    },
-    {
-      "id": 9380,
-      "titel": "Prikkels in het raster",
-      "beschrijving": "Lange, smalle bladeren met prikkels aan de randen vullen het beeld, scherp getekend tegen een achtergrond van houten latwerken. Donkere en lichte grijstinten geven diepte aan de textuur van het gras en het hout. Kleine, donkere knoppen en witte vonken zijn verspreid door de vegetatie. De compositie is dicht en chaotisch, met bladeren die in alle richtingen wijzen, terwijl het houten raster in de achtergrond een gestructureerd patroon vormt.",
-      "cyclus": 9317,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in houtstructuur achtergrond', 'enkele bladeren tonen lichte vervorming aan randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op textuur en spanning, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009317_9380.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9430,
+      "cyclus": 9367,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst en plantenmotieven.",
+      "bestand": "images/a009367_9430.webp"
+    },
     {
       "id": 9428,
       "cyclus": 9365,
@@ -150,15 +159,6 @@
       "tech_notities": "kleine inconsistentie in raamdetails (links/rechts), lichte wazigheid in achtergrondboom",
       "cliche_notities": "Klassiek huis-met-boom-motief met ideale zonsondergang en regen, zonder onverwachte compositorische keuzes",
       "bestand": "images/a009364_9427.webp"
-    },
-    {
-      "id": 9418,
-      "cyclus": 9355,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de kerk toren', 'lichte wazigheid in de reflectie van het water']",
-      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap (kerk met toren, water, bomen) in een decoratief, ansichtkaartachtig formaat zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009355_9418.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9367,
-    "gemaakt": 9429,
-    "gekozen": 1423,
-    "afgekeurd": 1300,
+    "cycli": 9374,
+    "gemaakt": 9436,
+    "gekozen": 1425,
+    "afgekeurd": 1301,
     "corpus": 62,
     "notities": 406
   }
