@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T07:45+02:00",
+  "bijgewerkt": "2026-08-17T08:00+02:00",
   "werk": [
     {
       "id": 9290,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 9303,
+      "cyclus": 9240,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische woestijnschap met perfecte zandduinen en een heldere hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009240_9303.webp"
+    },
+    {
+      "id": 9297,
+      "cyclus": 9234,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp van een verlaten schuur in de woestijn met perfecte licht- en schaduwval en een klassieke compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a009234_9297.webp"
+    },
+    {
       "id": 9277,
       "cyclus": 9214,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een eenzame strandhut bij zonsondergang) en het decoratieve, kalmerende licht zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a009214_9277.webp"
-    },
-    {
-      "id": 9274,
-      "cyclus": 9211,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte wazigheid in de achtergrondbomen en een iets te egale overgang tussen hemel en landschap",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap (grasveld met mist) en decoratief licht zonder duidelijke compositorische keuze of eigen standpunt",
-      "bestand": "images/a009211_9274.webp"
-    },
-    {
-      "id": 9273,
-      "cyclus": 9210,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Beeld past bij een toeristische ansichtkaart met iconisch landschap en decoratief licht zonder eigen standpunt.",
-      "bestand": "images/a009210_9273.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9234,
-    "gemaakt": 9296,
+    "cycli": 9241,
+    "gemaakt": 9304,
     "gekozen": 1399,
-    "afgekeurd": 1280,
+    "afgekeurd": 1282,
     "corpus": 62,
     "notities": 404
   }
