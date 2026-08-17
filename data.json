@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T00:15+02:00",
+  "bijgewerkt": "2026-08-18T00:30+02:00",
   "werk": [
+    {
+      "id": 9732,
+      "titel": "Stippen die weglopen",
+      "beschrijving": "Een gebogen, grijze spoor loopt diagonaal door een crèmekleurig vlak, omgeven door donkerpaarse en zwarte stippen van verschillende grootte. Langs het spoor bevinden zich onregelmatige, waterverfachtige vlekken in paars, roze, rood en blauw, met scherpe en zachte randen. Kleine rode en oranje stippen zijn verspreid rond de kleurrijke vlekken. De achtergrond blijft egaal en ongestoord, waardoor de kleuren en vormen scherp afsteken. De compositie straalt een gevoel van beweging uit, alsof de elementen net over het vlak zijn gegleden en zich langzaam ontbinden in de ruimte.",
+      "cyclus": 9669,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009669_9732.webp"
+    },
+    {
+      "id": 9727,
+      "titel": "Prikkeling zonder geluid",
+      "beschrijving": "Een donkere, onregelmatige rots vormt de linkerhoek, met scherpe randen en verspreide, fijne prikkels die als dode takken of gedroogd gras uitsteken. Rechtsboven steekt een slanke, donkere stengel met een pluim van fijne, sprieterige bloemen uit een onzichtbaar oppervlak, waar concentrische cirkels een lichte beweging suggereren. Onderaan het beeld drijft een kleinere, donkere klomp, omringd door bredere, zachtere cirkels die zich uitstrekken over een glad, lichtgrijs vlak. De achtergrond is een ongelijkmatig, vaag patroon van donkere en lichte vlekken, alsof rook of mist de ruimte vult zonder een duidelijke vorm aan te nemen. De kleuren zijn beperkt tot donkerbruin, zwart en beige, met subtiele overgangen die een gevoel van stilte en afwezigheid creëren.",
+      "cyclus": 9664,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009664_9727.webp"
+    },
     {
       "id": 9722,
       "titel": "Wat overblijft van de oever",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009625_9688.webp"
-    },
-    {
-      "id": 9685,
-      "titel": "Noten die wachten op regen",
-      "beschrijving": "Zwart-wit beeld met een kale boom rechts, takken die scherp naar boven en links wijzen. Links staan hoge, slanke grasspieren met donkere, wuivende toppen, waar kleine, lichtgekleurde zaadjes of noten tussen hangen. Middenonder loopt een golvend patroon van donkere, parallelle lijnen, alsof het water of zand is, met hier en daar witte vlekken die textuur suggereren. Drie ronde, bruine voorwerpen—misschien noten of steentjes—zitten verspreid: één tussen het gras, één midden in het golvende patroon, één dichter bij de boom. De achtergrond is helderwit, zonder details, waardoor de donkere vormen scherp afsteken. Een dunne zwarte rand omlijst het hele beeld.",
-      "cyclus": 9622,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009622_9685.webp"
-    },
-    {
-      "id": 9681,
-      "titel": "Druiven zonder stengel",
-      "beschrijving": "In de rechterbovenhoek hangt een tros donkerpaarse druiven met glanzende, ronde vormen en subtiele roodbruine en paarsrode tinten. Groene bladeren met gele en donkergroene accenten omringen de druiven, met zichtbare aders en zachte, onregelmatige randen. Drie mesjes met metalen lemmeten en bruine houten handvatten liggen schuin in de rechteronderhoek, waarbij de punt van het middelste mes naar de druiven wijst. Verspreid over het witte, licht getextureerde oppervlak liggen enkele losse druiven en kleine, donkere zaadjes, sommige met een glans die licht reflecteert. De compositie laat veel lege ruimte aan de linkerkant, waardoor de druiven en mesjes een zwevende, bijna zwevende houding krijgen. De kleuren zijn gedempt maar levendig, met een contrast tussen de donkere druiven en het heldere witte achtergrondmateriaal.",
-      "cyclus": 9618,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in schaduwval van messen', 'lichte vervorming van druivenstelen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met lege ruimte en ongemakkelijke spanning tussen voorwerpen",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009618_9681.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9734,
+      "cyclus": 9671,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische zonsondergang boven de oceaan, een typisch ansichtkaartmotief zonder duidelijke compositorische of thematische afwijking.",
+      "bestand": "images/a009671_9734.webp"
+    },
     {
       "id": 9729,
       "cyclus": 9666,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in horizonlijn (lichte boog in plaats van rechte lijn)', 'watervlak toont herhalende textuurpatronen die artificieel aanvoelen']",
       "cliche_notities": "Dit is een typische landschapsweergave met iconische elementen (water, riet, verre huizen) en een klassieke compositie zonder duidelijke persoonlijke keuzes of verontrustende elementen.",
       "bestand": "images/a009642_9705.webp"
-    },
-    {
-      "id": 9695,
-      "cyclus": 9632,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld heeft een minimalistische, reflectieve compositie zonder typisch toeristische iconen, maar de aanwezigheid van tekst maakt het geen ansichtkaart.",
-      "bestand": "images/a009632_9695.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9667,
-    "gemaakt": 9729,
-    "gekozen": 1479,
-    "afgekeurd": 1326,
+    "cycli": 9675,
+    "gemaakt": 9738,
+    "gekozen": 1481,
+    "afgekeurd": 1327,
     "corpus": 63,
     "notities": 415
   }
