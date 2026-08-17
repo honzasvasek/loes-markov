@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T22:45+02:00",
+  "bijgewerkt": "2026-08-17T23:00+02:00",
   "werk": [
     {
       "id": 9688,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 9695,
+      "cyclus": 9632,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld heeft een minimalistische, reflectieve compositie zonder typisch toeristische iconen, maar de aanwezigheid van tekst maakt het geen ansichtkaart.",
+      "bestand": "images/a009632_9695.webp"
+    },
+    {
+      "id": 9691,
+      "cyclus": 9628,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met ongemakkelijke details en leegte.",
+      "bestand": "images/a009628_9691.webp"
+    },
+    {
       "id": 9651,
       "cyclus": 9588,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van daken links/rechts', 'lichte wazigheid in verre achtergrond (bergen/horizon)']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met kerkje, water en rook in de lucht, geschilderd in een decoratief, rustgevend palet zonder duidelijke compositorische verbeelding.",
       "bestand": "images/a009588_9651.webp"
-    },
-    {
-      "id": 9644,
-      "cyclus": 9581,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van ramen rechtsboven', 'lichte wazigheid in achtergrondlandschap']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch huisje, perfecte lucht en landschap zonder persoonlijke of compositorische verbeelding.",
-      "bestand": "images/a009581_9644.webp"
-    },
-    {
-      "id": 9643,
-      "cyclus": 9580,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflectie van de molen in het water', 'lichte vervorming van de boomtoppen aan de linkerkant']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (molen met landschap) en decoratieve belichting zonder duidelijke compositorische keuze.",
-      "bestand": "images/a009580_9643.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9628,
-    "gemaakt": 9690,
+    "cycli": 9634,
+    "gemaakt": 9697,
     "gekozen": 1472,
-    "afgekeurd": 1322,
+    "afgekeurd": 1324,
     "corpus": 63,
     "notities": 415
   }
