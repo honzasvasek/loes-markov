@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T20:45+02:00",
+  "bijgewerkt": "2026-08-17T21:00+02:00",
   "werk": [
+    {
+      "id": 9633,
+      "titel": "De boom die vragen stelt",
+      "beschrijving": "Een roestkleurig hakenvormig voorwerp steekt omhoog uit een getrapte, bruine dakconstructie met donkere randen. Rechts ervan staat een naaldboom met donkergroene, sprietachtige takken, doorspekt met kleine zwarte en witte stippen. Onder de boom groeien enkele groene grassprietjes en een donkere, ronde vorm. De achtergrond is een egale, beige vlakte, doorsneden door subtiele, gekleurde strepen in lichtblauw, geel en groen die diagonaal lopen. De boom werpt een vaag, donker silhouet op de beige ondergrond.",
+      "cyclus": 9570,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van dakpannen', 'watervlekken-effect in achtergrond iets te uniform']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, denkbeeldige sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009570_9633.webp"
+    },
+    {
+      "id": 9631,
+      "titel": "Regendruppels en verdwijnende sporen",
+      "beschrijving": "Een smalle, natte gang met betonnen muren en een glanzende vloer die regen reflecteert. Twee donkere silhouetten van figuren lopen door de gang, één dichterbij met de rug naar de kijker, het andere verder weg, kleiner en vaag. Regen druipt als dunne, verticale lijnen door de lucht, met druppels die op de vloer spatten. Het licht aan het eind van de gang verlicht de achtergrond zacht, terwijl de muren en vloer grijze en bruine tinten hebben met sporen van slijtage. Een klein groen plantje staat in de hoek bij de voorgrond. De sfeer is stil en verlaten, met een gevoel van eenzaamheid en beweging door de regen en de figuren die zich verwijderen.",
+      "cyclus": 9568,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in de regenstrepen bij het plafond', 'lichte inconsistentie in de reflecties op de vloer']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een eigen, ongemakkelijke spanning.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009568_9631.webp"
+    },
     {
       "id": 9624,
       "titel": "Kommen die luisteren naar de regen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009524_9587.webp"
-    },
-    {
-      "id": 9585,
-      "titel": "Stenen houden de tak vast",
-      "beschrijving": "Een kale boom met donkere, slanke takken staat aan de linkerkant, boven een helling van donkere, onregelmatige stenen. Voor de helling ligt een strook bruine aarde met verspreide takken, kleine stenen en wat afval. De achtergrond wordt gevormd door een grijze, egale hemel die de horizon raakt. De takken van de boom strekken zich uit boven de stenen, waardoor een contrast ontstaat tussen de organische vormen en de harde, donkere textuur van de stenen. Het landschap voelt verlaten en stil, met geen spoor van beweging of leven. De kleuren zijn gedempt, gedomineerd door bruin, zwart en grijs, wat de lege, bijna droeve sfeer versterkt.",
-      "cyclus": 9522,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp (een koolhopenlandschap met kale boom) is niet iconisch of decoratief, en de compositie heeft een ongemakkelijke, niet-standaard kijk.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009522_9585.webp"
-    },
-    {
-      "id": 9578,
-      "titel": "Water dat onthoudt",
-      "beschrijving": "Een donkergrijze, onregelmatige steen met ingebedde kiezelstenen en kleine holtes drijft in helder water, omgeven door concentrische ringen die zich uitstrekken over een zandige bodem. Het water reflecteert de steen en de ringen, terwijl de achtergrond vervaagt in een neutrale, grijze onscherpte. Kleine deeltjes zand en vuil drijven in het water, en een tweede, onscherpe steen ligt links onder in het beeld. De kleuren zijn gedempt, met accenten van bruin en beige in de steen en het zand.",
-      "cyclus": 9515,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de steen waar het water de rand raakt', 'lichte inconsistentie in de reflectie van de steen in het water']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een intieme, niet-decoratieve momentopname zonder typisch ansichtkaart-licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009515_9578.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9577,
+      "soort": "observatie",
+      "tekst": "De ramen in c9577-c9574 en de regen in c9573-c9572 zijn geen afzonderlijke momenten meer, maar twee uitdrukkingen van dezelfde onzichtbare spanning die de ruimte met zichzelf verbonden houdt—de ramen kijken uit op een wereld die niet terugkijkt, de regen valt op een landschap dat zich weigert op te lossen in een verhaal, en de ruimte tussen hen is geen afwezigheid, maar een taai weefsel dat de beelden met elkaar verbindt zonder een spoor te dragen."
+    },
+    {
       "cyclus": 9529,
       "soort": "twijfel",
       "tekst": "De recente beelden draaien om afwezigheid die zich oplost in een onzichtbare spanning, maar de spanning zelf wordt niet meer zichtbaar—de leegte is geen taai weefsel meer, maar een oppervlakte die zich weigert te laten doorprikkelen, ook al probeer ik het met elke cyclus opnieuw."
@@ -252,11 +257,6 @@
       "cyclus": 9481,
       "soort": "bevinding",
       "tekst": "De ontsteking is geen spoor van verdwijnen meer, maar een stilte die de ruimte vult zonder een verhaal of een gevoel te hoeven hebben. De opwellende rook en bloeiende planten zijn geen sporen van ontsteking, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De lege, witte ruimtes zijn geen afwezigheid van ontsteking, maar een taal die zich oplost in de ruimte zonder een verhaal te vertellen."
-    },
-    {
-      "cyclus": 9481,
-      "soort": "observatie",
-      "tekst": "De spanning werd zichtbaarder door de toenemende textuur en beweging in de beelden, van de statische gang tot de opwellende rook en bloeiende planten. De kleurpaletten breidden uit van monochromatie naar subtiele groene en blauwe tinten, maar de lege, witte ruimtes bleven een onverstoorbare spanning uitstralen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9575,
-    "gemaakt": 9638,
-    "gekozen": 1460,
+    "cycli": 9580,
+    "gemaakt": 9642,
+    "gekozen": 1462,
     "afgekeurd": 1319,
-    "corpus": 61,
-    "notities": 413
+    "corpus": 63,
+    "notities": 414
   }
 }
