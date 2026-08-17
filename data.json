@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T04:30+02:00",
+  "bijgewerkt": "2026-08-17T04:45+02:00",
   "werk": [
+    {
+      "id": 9204,
+      "titel": "Rook die leert ademen",
+      "beschrijving": "Een donkere, slanke stengel stijgt op uit een bed van droog gras, bladeren en kleine steentjes, om zich bovenin op te splitsen in fijne, wazige draden die zich uitstrekken als rook in de lucht. De draden vormen losse, kronkelende vormen, sommige dun en doorschijnend, andere dichter en witgloeiend. Kleine, witte bolletjes en donkere vlekjes zijn verspreid door de draden en de stengel. De achtergrond is onscherp, met vaag herkenbare planten en grond, wat de focus legt op de stengel en haar ethere uitstraling. De afbeelding is in zwart-wit, met scherp contrast tussen de lichte draden en de donkere omgeving.",
+      "cyclus": 9141,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de rookstructuren bij hoog contrast', 'lichte inconsistentie in textuur van gras/bladwerk onderaan']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009141_9204.webp"
+    },
+    {
+      "id": 9198,
+      "titel": "Vuur achter glas",
+      "beschrijving": "Een houten gevel met een schuin dak omlijst een raam met zes ruiten, waar achter oranje en gele vlammen woeden die door het glas opstijgen. Rook slingeren in witte, doorschijnende spiraal naar boven, waarbij de vlammen de onderste ruiten vullen en de bovenste ruiten slechts lichtelijk raken. Het hout rond het raam is lichtgrijs met donkere, verbrande plekken bij de hoeken en de dakgoot. Donkere schaduwen vallen onder het raam en aan weerszijden van de gevel, terwijl de achtergrond een effen, lichtgrijze textuur heeft met subtiele penseelstreken. Kleine donkere vlekken en schroefkoppen zijn zichtbaar in het hout, en de randen van het dak hebben een donkere, bijna zwarte afwerking. De vlammen hebben een dynamische, onrustige vorm met scherpere punten aan de bovenkant en bredere, vloeiendere bewegingen lager.",
+      "cyclus": 9135,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in raamkozijn (linkeronder hoek iets te scherp)', 'rook mist duidelijke overgang naar achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vuur en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009135_9198.webp"
+    },
     {
       "id": 9196,
       "titel": "Regen op nat metaal",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009095_9158.webp"
-    },
-    {
-      "id": 9151,
-      "titel": "Vuur dat fluistert met hout",
-      "beschrijving": "Donkerbruine, verkoolde houtvezels vullen het beeld, met diepe, golvende richels en kleine, witte asdeeltjes verspreid over het oppervlak. Rechtsboven vlammen oranje-rode vlammen op, vaag en wazig, met een donkere, rokerige achtergrond die overgaat in grijsbruine tonen. Een dunne, donkere tak loopt diagonaal door de bovenste helft, scherp tegen de vlammen afgetekend. De textuur van het hout is ruw en onregelmatig, met opgeheven randen en kleine putjes. De vlammen werpen een warme gloed op de rechterkant, terwijl de linkerzijde donker en koel blijft.",
-      "cyclus": 9088,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, close-up compositie met een focus op textuur en spanning tussen vuur en hout, zonder iconische of decoratieve elementen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009088_9151.webp"
-    },
-    {
-      "id": 9147,
-      "titel": "Blauw dat zakt door wit",
-      "beschrijving": "Een smalle, witte gang met gladde muren en een glanzende vloer loopt door het midden van het beeld, waarbij het licht van bovenaf zachtjes de ruimte verlicht. Door de gang heen valt een stroom donkerblauwe, kubusvormige objecten van verschillende groottes, sommige scherp van vorm, andere met onregelmatige randen alsof ze zijn verbrokkeldd. De kubussen zweven in een verticale lijn, met sporen van draden of druppels die hen verbinden met de vloer, waar een hoopje blauw poeder en fragmenten is komen te liggen. Kleiner blauw stof en bolletjes zijn verspreid over de vloer, terwijl de achtergrond van de gang leeg en ongestoord blijft, wat de focus legt op de dynamische val van de objecten en de textuur van het blauwe materiaal.",
-      "cyclus": 9084,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een unieke compositorische keuze met de vallende blauwe vormen in een lege gang, wat het geen ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009084_9147.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 9142,
-    "gemaakt": 9204,
-    "gekozen": 1381,
+    "cycli": 9149,
+    "gemaakt": 9211,
+    "gekozen": 1383,
     "afgekeurd": 1270,
     "corpus": 61,
     "notities": 403
