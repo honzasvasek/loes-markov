@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T05:00+02:00",
+  "bijgewerkt": "2026-08-17T05:15+02:00",
   "werk": [
+    {
+      "id": 9216,
+      "titel": "Rook en regen op de horizon",
+      "beschrijving": "Een smalle, witte rookstraal stijgt opwaaierend op uit een donkere cirkel in het water, omgeven door concentrische ringen die zich uitstrekken over een grijze, rustige vlakte. Regen druipt van een bewolkte hemel, waarbij enkele druppels scherp zichtbaar zijn tegen de donkere silhouetten van palmbomen en heuvels aan de horizon. Donkere, spitse bladeren raken de randen van het beeld, terwijl in de verte een donkere, golvende vorm met kleine witte stippen een vaag pad of kustlijn suggereert. Het water weerspiegelt de regen en de rook, met subtiele schaduwen die de diepte benadrukken. De kleuren zijn grotendeels monochroom, met variaties in grijs, zwart en wit, wat een sfeer van stilte en eenzaamheid oproept.",
+      "cyclus": 9153,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, stilistische voorstelling met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009153_9216.webp"
+    },
+    {
+      "id": 9211,
+      "titel": "Vloeistof zonder pad",
+      "beschrijving": "Grijze, wazige vormen vullen het beeld, doorsneden door een kronkelende stroom van oranje en donkerblauwe vloeistof die van boven naar beneden loopt. De oranje tinten stralen warmte uit en vermengen zich met zachte, witte wolkenachtige structuren, terwijl de donkerblauwe lijnen scherpe, bijna vloeibare patronen vormen. Kleinere druppels en bubbels drijven door het tafereel, sommige helder oranje, andere donker en vaag. De achtergrond bestaat uit een mengsel van grijze en lichtoranje golven, die een gevoel van beweging suggereren zonder een duidelijke richting te hebben. De compositie is dynamisch, met de vloeistof die een verticale as vormt door het midden van het beeld, terwijl de omringende vormen zich eromheen draaien in onregelmatige, organische patronen.",
+      "cyclus": 9148,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische compositie zonder duidelijke thematische focus.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009148_9211.webp"
+    },
     {
       "id": 9204,
       "titel": "Rook die leert ademen",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009105_9168.webp"
-    },
-    {
-      "id": 9162,
-      "titel": "De witte scheur in de wilg",
-      "beschrijving": "Een solitaire wilg staat aan de linkerkant, met hangende takken die donkere, slanke bladeren en kleine, donkere vruchten dragen. De stam is donkerbruin met textuur en een lichte kromming. Achter de boom strekt zich een vlak, roodbruin landschap uit, met vaag zichtbare bomen en struiken aan de horizon. Een witte, onregelmatige scheur loopt horizontaal door de bovenste takken van de boom. De achtergrond is egaal roodbruin, zonder duidelijke overgang naar de hemel. Het geheel heeft een rustige, bijna verlaten sfeer met een monochromatisch kleurenpalet.",
-      "cyclus": 9099,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in takstructuur bovenaan', 'lichte wazigheid in achtergrondbomen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap, maar een stilistische interpretatie met persoonlijke compositorische keuzes",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009099_9162.webp"
-    },
-    {
-      "id": 9158,
-      "titel": "Vonk in het vergane bladwerk",
-      "beschrijving": "Een tak met verschrompelde, bruine bladeren domineert het beeld, de aderen donkerder en de randen verscheurd. De bladeren zijn doorschijnend met vlekken van donkerbruin en zwart, alsof ze door vuur of rot zijn getast. In het midden van de tak brandt een kleine, oranje-gloeierige vlam, die een zachte, flakkerende gloed uitstraalt die de omringende bladeren verlicht. De achtergrond is een vaag, getextureerd grijsbeige met subtiele penseelstreken, waardoor de tak en bladeren scherp afsteken. Kleine, onregelmatige vormen en vlekken—zoals een roze cirkeltje en een blauw puntje—zitten verspreid in de achtergrond, alsof ze uit het niets ontstaan zijn. De sfeer is stil en iets ongemakkelijks, alsof het moment na een plotselinge vonk wordt vastgelegd, zonder dat duidelijk is wat er voor of na gebeurde.",
-      "cyclus": 9095,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de vlammen, lichte inconsistentie in bladstructuren aan de randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op subtiele spanning tussen verval en aanwezigheid.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009095_9158.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9221,
+      "cyclus": 9158,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de reflecties van de palmbomen in het water en een wat vlakke overgang tussen hemel en bergen",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische palmbomen, een rustig wateroppervlak en een zachte, decoratieve belichting zonder duidelijke compositorische keuze of eigen standpunt",
+      "bestand": "images/a009158_9221.webp"
+    },
+    {
+      "id": 9220,
+      "cyclus": 9157,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "Enkele lichte vervormingen in de achtergrondbomen en inconsistentie in de textuur van de rotsen",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart met een idyllisch dorp, kerk en bloemen in een landschap",
+      "bestand": "images/a009157_9220.webp"
+    },
     {
       "id": 9201,
       "cyclus": 9138,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren in heuvels en bomen', 'inconsistent perspectief schuur', 'wazige texturen in gras en schuine lijnen', 'herhaalpatronen in hek en spatten', 'detailverlies in schaduwen van schuur', \"halo's bij hoog contrast in witte ruimtes\", 'vervormde handen/gezichten niet aanwezig']",
       "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een verlaten schuur met hek en landschap, gecombineerd met decoratief perfect licht en geen duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a009138_9201.webp"
-    },
-    {
-      "id": 9195,
-      "cyclus": 9132,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar de witte lijn voelt iets kunstmatig en niet natuurlijk geïntegreerd in het landschap",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch strandgezicht met perfecte golven en een heldere horizon, zonder duidelijke compositorische keuze of eigen standpunt",
-      "bestand": "images/a009132_9195.webp"
-    },
-    {
-      "id": 9181,
-      "cyclus": 9118,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in boomstammen: sommige stammen hebben onverklaarbare knopen of vormen die niet natuurlijk zijn', 'lichte vervaging in de achtergrondbomen, alsof ze in één blok zijn getekend zonder individuele details']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een rustig landschap, met een iconisch pad dat de blik naar de horizon leidt en een decoratief, harmonieus kleurgebruik.",
-      "bestand": "images/a009118_9181.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9156,
-    "gemaakt": 9219,
-    "gekozen": 1383,
-    "afgekeurd": 1270,
+    "cycli": 9164,
+    "gemaakt": 9226,
+    "gekozen": 1385,
+    "afgekeurd": 1272,
     "corpus": 61,
     "notities": 403
   }
