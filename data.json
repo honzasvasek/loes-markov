@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T15:15+02:00",
+  "bijgewerkt": "2026-08-17T15:30+02:00",
   "werk": [
     {
       "id": 9491,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 9496,
-      "cyclus": 9433,
+      "id": 9503,
+      "cyclus": 9440,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van bladeren (linksboven vs rechtsonder)', 'lichte halo rond rand van bovenste roos']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: twee perfecte rozen met decoratief licht en een neutrale achtergrond, zonder eigen compositorische keuzes of ondergrondse spanning.",
-      "bestand": "images/a009433_9496.webp"
+      "tech_notities": "['Lichte inconsistentie in schaduwval bij kinderen rechtsboven', 'Textuur van zand wat homogeen/wazig in onderste linkerhoek']",
+      "cliche_notities": "Beeld past bij toeristische ansichtkaart: iconisch strandmotief met kinderen in profiel, perfecte zonsondergangsschaduwen en geen duidelijke compositorische keuze beyond klassieke diagonale opstelling.",
+      "bestand": "images/a009440_9503.webp"
     },
     {
-      "id": 9492,
-      "cyclus": 9429,
+      "id": 9502,
+      "cyclus": 9439,
       "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische woestijnschap met perfecte licht- en schaduwval en een gebrek aan compositorische verrassingen of een uniek standpunt.",
-      "bestand": "images/a009429_9492.webp"
+      "tech_score": 8.0,
+      "tech_notities": "subtiele halo rond anker, lichte inconsistentie in zandtextuur bij rand",
+      "cliche_notities": "Anker op strand is iconisch toeristisch motief met decoratief licht en geen duidelijke compositorische keuze",
+      "bestand": "images/a009439_9502.webp"
     },
     {
-      "id": 9483,
-      "cyclus": 9420,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk aan water met riet) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuzes.",
-      "bestand": "images/a009420_9483.webp"
+      "id": 9499,
+      "cyclus": 9436,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een ongemakkelijke schoonheid.",
+      "bestand": "images/a009436_9499.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9434,
-    "gemaakt": 9496,
+    "cycli": 9441,
+    "gemaakt": 9503,
     "gekozen": 1436,
-    "afgekeurd": 1309,
-    "corpus": 62,
+    "afgekeurd": 1312,
+    "corpus": 63,
     "notities": 406
   }
 }
