@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-17T20:00+02:00",
+  "bijgewerkt": "2026-08-17T20:15+02:00",
   "werk": [
+    {
+      "id": 9624,
+      "titel": "Kommen die luisteren naar de regen",
+      "beschrijving": "Negen donkergrijze, matte kommen liggen verspreid op een nat, lichtgekleurd oppervlak dat reflecties en waterplassen vertoont. Drie donkere, stekelige bolletjes en een paar dunne takken met kleine, ronde vruchten rusten tussen de kommen, waarbij één tak diagonaal door het beeld loopt. De achtergrond is vaaz en grijs, met vaag zichtbare bomen en een lichte hemel. Waterdruppels en subtiele rimpels op het oppervlak geven een gevoel van recente regen. De kommen hebben een onregelmatige, handgemaakte uitstraling met lichte variaties in vorm en textuur.",
+      "cyclus": 9561,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties op nat oppervlak', 'lichte wazigheid in achtergrondboom']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een gedempte, reflecterende compositie met ruimte voor interpretatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009561_9624.webp"
+    },
+    {
+      "id": 9618,
+      "titel": "Rook en wortelwit",
+      "beschrijving": "Vier trossen witte bloemen met gele en paarse accenten rijzen op slanke, groene stengels uit een donkergrijze, textuurrijke achtergrond. Rookachtige, witte slagen glijden in spiraalvorm van bovenaf naar beneden, voorbij de bloemen en verdwijnen in de schemering. Lang, smal gras omhult de stengels, terwijl vaag omlijnde bladeren en donkere vormen in de achtergrond een gevoel van diepte geven. Kleuren zijn gedempt, met uitzondering van de bloemen die helder afsteken tegen de grijstinten. De compositie is verticaal, met de bloemen als centraal punt dat de blik omhoog leidt, terwijl de rook een dynamische, vloeiende lijn toevoegt aan de stilte van het beeld.",
+      "cyclus": 9555,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van achtergrond (linksboven/rechtsonder)', 'lichte halo rond rook bij hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongemakkelijk en niet-bevestigend.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009555_9618.webp"
+    },
     {
       "id": 9615,
       "titel": "Rook die een vraag stelt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009515_9578.webp"
-    },
-    {
-      "id": 9571,
-      "titel": "Wat overblijft van de vonk",
-      "beschrijving": "Donkere, verkoolde houten blokken met schilferende, gelaagde structuren liggen willekeurig verspreid op een ruwe, donkergrijze ondergrond. Twee rechthoekige, matte stenen met afgeronde hoeken liggen erbij, één dichter bij de voorgrond. Een kleine, glanzende donkere druppel bevindt zich centraal, omringd door fijn poeder en korrels. De textuur van het hout is diep gegolfd en broos, met sporen van verbranding en ontbinding. Licht valt schuin, waardoor schaduwen de oneffenheden benadrukken en de druppel een subtiele reflectie krijgt. De compositie is ongelijkmatig, met lege ruimtes die de voorwerpen van elkaar scheiden.",
-      "cyclus": 9508,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op textuur en spanning tussen materialen, zonder toeristische inslag.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009508_9571.webp"
-    },
-    {
-      "id": 9568,
-      "titel": "Scheef in de kozijn",
-      "beschrijving": "Een verweerd houten schuurtje staat alleen in een open veld, de planken versleten en ongelijkmatig, met een deur die scheef in de kozijn hangt en een gat in het midden. Het dak is licht hellend, met losse dakpannen aan de rand. Rondom het schuurtje groeit lang gras, doorweven met dood hout en afval. De achtergrond bestaat uit een effen horizon met bomen ver weg, onder een lege, grijze lucht. De schaduwen vallen scherp aan de rechterkant, alsof het licht van linksboven komt. Niets beweegt.",
-      "cyclus": 9505,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp (een verweerd schuurtje in een veld) is niet iconisch en de compositie heeft een eigen, rustige spanning zonder decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009505_9568.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9564,
-    "gemaakt": 9626,
-    "gekozen": 1458,
+    "cycli": 9571,
+    "gemaakt": 9633,
+    "gekozen": 1460,
     "afgekeurd": 1319,
-    "corpus": 63,
+    "corpus": 62,
     "notities": 413
   }
 }
