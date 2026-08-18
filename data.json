@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T14:45+02:00",
+  "bijgewerkt": "2026-08-18T15:00+02:00",
   "werk": [
+    {
+      "id": 10139,
+      "titel": "Rook die vragen stelt",
+      "beschrijving": "Witte, slingerende rookstroken stijgen op vanuit donkerblauwe, spitse bladeren die zich uitstrekken tegen een achtergrond die overgaat van grijs naar roodachtig. Drie kleine, witte vogelvormen vliegen door de rook, die zich in zachte, golvenachtige lijnen ontwindt. De bladeren hebben een gladde, bijna glanzende textuur en vormen een ster-achtige compositie aan de onderkant. De rook wordt dunner naarmate hij hoger komt en vermengt zich met de textuurrijke achtergrond.",
+      "cyclus": 10076,
+      "tech_score": 8.0,
+      "tech_notities": "[\"subtiele halo's rond de witte rookstrepen tegen de donkere achtergrond\", 'lichte inconsistentie in de textuur van de blauwe bladeren (soms scherp, soms wazig)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010076_10139.webp"
+    },
+    {
+      "id": 10134,
+      "titel": "Rook dat zich ontbindt in stilte",
+      "beschrijving": "Witte, rokerige vormen kronkelen door een donkere, getextureerde achtergrond, met subtiele rode tinten aan de linkerkant die langzaam overgaan in het grijs. De rookvormen hebben een vloeibare, bijna organische structuur, met dunne, slanke lijnen die overgaan in bredere, zachte golven. De achtergrond toont fijne, verticale strepen en onregelmatige vlekken, wat een gevoel van verweering geeft. De compositie is verticaal georiënteerd, met de rook die vanaf de onderkant omhoog stijgt en zich uitstrekt naar de bovenrand, waarbij de vormen zich steeds meer ontbinden in lichte, doorschijnende sluieren. De sfeer is stil en mysterieus, met een contrast tussen de dynamische beweging van de rook en de statische, donkere achtergrond.",
+      "cyclus": 10071,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische compositie met ruimte voor interpretatie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010071_10134.webp"
+    },
     {
       "id": 10130,
       "titel": "Rook die de regels doorbreekt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010022_10085.webp"
-    },
-    {
-      "id": 10084,
-      "titel": "Vlekken die blijven hangen",
-      "beschrijving": "Een donkere, gedetailleerde tak met gezaagde bladeren loopt verticaal door het midden, tegen een achtergrond die overgaat van grijs bovenaan naar zachtroze en crèmekleurig onderaan. De bladeren hebben onregelmatige randen en zijn doorspekt met kleine, donkere vlekken en witte holtes, alsof ze door tijd of weer zijn getekend. Verspreid rond de tak zweven donkere en lichte cirkels van verschillende grootte, sommige scherp, andere vaag, alsof ze in de lucht hangen of op het oppervlak drijven. De textuur van de afbeelding is korrelig, met een subtiele glans die de overgang tussen de kleuren zachter maakt. De compositie is symmetrisch, maar de onregelmatigheden in de bladeren en de willekeurige verdeling van de cirkels geven een gevoel van beweging en onvoorspelbaarheid.",
-      "cyclus": 10021,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (een plant met bladeren) is niet iconisch of bevestigend, en de compositie heeft een eigen, subtiele dynamiek door de verloop van kleuren en de focus op detail en textuur.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010021_10084.webp"
-    },
-    {
-      "id": 10082,
-      "titel": "Punten die blijven steken",
-      "beschrijving": "Groene, slanke bladeren domineren de voorgrond, schuin geplaatst met donkere, bijna zwarte punten aan de toppen. Achter de bladeren liggen donkergrijze, vaag omschreven heuvels of bergen in lagen, met zachte overgangen naar een lichtgrijze achtergrond. Horizontale, subtiele lijnen suggereren water of mist tussen de heuvels. De bladeren hebben fijne, parallelle nerven en een glanzende textuur, terwijl de achtergrond een korrelige, watervaste uitstraling heeft. De compositie is asymmetrisch, met de bladeren die de rechter- en onderkant vullen en de heuvels die de linker- en bovenkant beslaan. De sfeer is kalm en iets verlaten, met een focus op de contrasten tussen de levendige groene voorgrond en de gedempte, neutrale achtergrond.",
-      "cyclus": 10019,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet typisch voor een toeristische ansichtkaart, omdat de focus ligt op de subtiele interactie tussen de planten en de bergen, zonder een iconisch of bevestigend onderwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010019_10082.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10076,
-    "gemaakt": 10138,
-    "gekozen": 1555,
+    "cycli": 10083,
+    "gemaakt": 10145,
+    "gekozen": 1557,
     "afgekeurd": 1355,
     "corpus": 66,
     "notities": 424
