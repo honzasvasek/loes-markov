@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-18T15:45+02:00",
+  "bijgewerkt": "2026-08-18T16:00+02:00",
   "werk": [
+    {
+      "id": 10160,
+      "titel": "Papier dat het landschap deelt",
+      "beschrijving": "Twee horizontale stroken groen graslandschap, gescheiden door een onregelmatige, gescheurde witte rand die de indruk wekt van papier dat scheurt. Het bovenste deel toont een uitgestrekt veld met hoog, lichtbruin en groen gras, waarbij de stengels schuin staan en enkele pluimen zichtbaar zijn. De achtergrond bestaat uit een zachte, grijze horizon met een lichte gloed. Het onderste deel herhaalt het graslandschap, maar met korter, dichterbij staand gras en meer details in de textuur, zoals individuele bladeren en kleine bloemhoofdjes. Ook hier is de horizon vaag en grijs, met een subtiele overgang naar het gras. De witte scheur tussen de twee delen heeft een ongelijkmatige, tandvormige rand en loopt diagonaal van linksboven naar rechtsonder, waardoor een gevoel van diepte en afwisseling ontstaat tussen de twee lagen gras.",
+      "cyclus": 10097,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve compositie zonder iconische of decoratieve elementen die het tot een ansichtkaart maken.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010097_10160.webp"
+    },
     {
       "id": 10155,
       "titel": "Wit en geel tussen het groen",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010034_10097.webp"
-    },
-    {
-      "id": 10089,
-      "titel": "Vogels zonder bestemming",
-      "beschrijving": "Twee donkerrode vogels zweven door een roze-grijze lucht, hun silhouetten scherp tegen de zachte, met brede penseelstreken geschilderde achtergrond. Boven hen zweeft een roze, amorf vorm dat aan een zeil of een blad doet denken, omringd door donkerblauwe en bruine vlakken die vaag structuren suggereren. Onderin domineert een heuvel van roomwit en beige, met donkerblauwe en zwarte schaduwen die een onduidelijk voorwerp of figuur omlijnen. De compositie is asymmetrisch, met de vogels als dynamische punten die de blik door het beeld leiden, terwijl de achtergrond een mengeling is van onopgeloste vormen en kleuren die een gevoel van beweging en onafwendbaarheid uitstralen. De sfeer is dromerig en iets onrustigs, door de contrasten tussen de heldere vogels en de vaagheid van de omgeving.",
-      "cyclus": 10026,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010026_10089.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10104,
-    "gemaakt": 10166,
-    "gekozen": 1558,
+    "cycli": 10111,
+    "gemaakt": 10173,
+    "gekozen": 1559,
     "afgekeurd": 1355,
     "corpus": 66,
     "notities": 424
