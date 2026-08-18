@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-18T18:30+02:00",
+  "bijgewerkt": "2026-08-18T18:45+02:00",
   "werk": [
+    {
+      "id": 10235,
+      "titel": "Stenen op pad",
+      "beschrijving": "Roodbruin zand vormt een glad oppervlak met subtiele, parallelle groeven die een golvende lijn volgen. Twee lijnen van gladde, ronde stenen lopen parallel aan deze groeven, afwisselend donkergrijs, zwart, beige en lichtbruin. Sommige stenen hebben fijne textuur of vlekjes, andere zijn gladder. Kleinere stenen en kiezelstenen verspreiden zich willekeurig rond de lijnen, met name aan de randen. Het zand heeft een fijnkorrelige structuur en de schaduwen van de stenen vallen scherp, wat diepte aan de compositie geeft. De kleuren variëren van warm roodbruin tot koel grijs en neutraal beige.",
+      "cyclus": 10172,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele patronen en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010172_10235.webp"
+    },
     {
       "id": 10224,
       "titel": "Wit poeder, donkere lijn",
@@ -117,19 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010121_10184.webp"
-    },
-    {
-      "id": 10178,
-      "titel": "Waar blijven de rest?",
-      "beschrijving": "Donkere, slanke lijnen lopen als aders door een vaag getekend oppervlak, waarbij sommige lijnen samenkomen in donkere knooppunten. Witte, traanvormige vormen hangen verspreid tussen de lijnen, sommige scherp getekend, andere vaag en vervagen naar de achtergrond. De achtergrond bestaat uit een ongelijkmatige, grijze textuur met lichte en donkere vlekken, alsof er iets langzaam aan het oplossen is. De compositie voelt onafgewerkt, met lijnen die abrupt eindigen en vormen die zich niet helemaal ontwikkelen. Er is geen duidelijke horizon of focus, waardoor het oog door het hele beeld dwaalt zonder een vast punt te vinden.",
-      "cyclus": 10115,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010115_10178.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10175,
-    "gemaakt": 10238,
-    "gekozen": 1571,
+    "cycli": 10179,
+    "gemaakt": 10241,
+    "gekozen": 1572,
     "afgekeurd": 1357,
-    "corpus": 65,
+    "corpus": 66,
     "notities": 424
   }
 }
