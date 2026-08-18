@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T07:45+02:00",
+  "bijgewerkt": "2026-08-18T08:00+02:00",
   "werk": [
+    {
+      "id": 9939,
+      "titel": "Rimpels in de gloed",
+      "beschrijving": "Een wateroppervlak met rimpelingen weerspiegelt een oranje-rode gloed, omringd door donkergroene, slanke rietstengels die schuin door het beeld lopen. Waterdruppels hangen aan de rietstengels en drijven op het water, waar ook donkere, ronde vormen drijven die op bladeren of stenen lijken. De achtergrond toont een vaag silhouet van bomen en heuvels tegen een lichtere hemel, met een overgang van oranje naar grijsblauw. De compositie is verticaal, met het water dat een diagonale lijn vormt door het midden, terwijl de rietstengels de randen vullen en de blik naar het midden leiden. De sfeer is rustig en iets melancolisch, met een subtiele spanning tussen de warme reflectie en de koelere, donkere tonen van het water en het riet.",
+      "cyclus": 9876,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties van riet op water', 'lichte wazigheid in verre achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap, maar een intieme, ontypische compositie met focus op water en druppels",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009876_9939.webp"
+    },
+    {
+      "id": 9932,
+      "titel": "Rook en riet in beweging",
+      "beschrijving": "Donkere, wazige rookvormen stijgen op uit een veld droog, bruin gras. De rook is donkergrijs met zwarte tinten, vormt onregelmatige, kronkelende patronen en vloeit over in een lichte, vaag getekende achtergrond. Het gras is lang, slank en in verschillende bruine tinten, met enkele lichtere, bijna beige stengels die door de donkerdere laag steken. Enkele rietstengels steken scherp en recht omhoog, met kleine, bruine, cilindrische bloemhoofdjes aan de top. Witte spetters en vage vlekken zijn verspreid over het gras en de rook. De compositie is verticaal, met de rook die de bovenste helft domineert en het gras de onderste helft vult. De sfeer is rustig en iets mysterieus door de contrasten tussen donker en licht, en de ongestoorde, natuurlijke elementen.",
+      "cyclus": 9869,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, suggestieve compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009869_9932.webp"
+    },
     {
       "id": 9923,
       "titel": "Zand dat zwijgt maar liegt",
@@ -104,35 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009823_9886.webp"
-    },
-    {
-      "id": 9877,
-      "titel": "Gouden hoek in vergeten steen",
-      "beschrijving": "Twee witgepleisterde gebouwen met donkere houten deuren en ramen flankeren een smalle, donkere opening waar een pad van onregelmatige stenen loopt. De gevels vertonen sporen van slijtage, met verbleekte pleister en donkere, textuurrijke hoekpanelen. Boven de deuren lopen geteerde dakgootstenen, en een subtiele gouden gloed verlicht de bovenste linkerhoek van het linker gebouw. Voor de gebouwen ligt een ongelijkmatig terrein met losse stenen, droog gras en verspreide takjes. De stenen op het pad en het terrein hebben verschillende groottes en vormen, sommige met donkere vlekken of patronen. De compositie is symmetrisch, maar de opening breekt die balans door een verticale, chaotische strook van donkere, krassende lijnen en losse elementen. De sfeer is verlaten en iets onrustigs, door de contrasten tussen licht en donker en de verwaarloosde details.",
-      "cyclus": 9814,
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele vervorming in de dakpannen aan weerskanten', 'onduidelijke overgang tussen muur en dak op linkerhoek']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, bijna dromerige kwaliteit die boven een toeristisch ansichtkaartmotief uitstijgt door de onverklaarbare spleet en de asymmetrische compositie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009814_9877.webp"
-    },
-    {
-      "id": 9873,
-      "titel": "De sleutel ontbreekt",
-      "beschrijving": "Twee houten deuren staan wijd open, schuin tegen elkaar gericht, met een donkere, leegte suggereerende spleet ertussen. De deuren hebben verticale lamellen, metalen handvatten en kleine ronde sloten. Rond de deuren loopt een natte, reflecterende ondergrond met donkere vlekken en sporen van water. Rechts van de deuren staat een boom met kale takken die zich uitstrekken naar een vaag getekende achtergrond. Onder de boom groeien enkele planten met langwerpige bladeren. Een enkele witte vogel staat op de natte grond, dicht bij de rechterdeur. De achtergrond is grotendeels ongedefinieerd, met subtiele overgangen tussen lichte en donkere tinten. De algehele sfeer is stil en verlaten, met een focus op textuur en lichtval.",
-      "cyclus": 9810,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de houtstructuur van de deuren (links/rechts niet symmetrisch), lichte wazigheid in de achtergrondboom",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en heeft een eigen standpunt",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009810_9873.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9944,
+      "cyclus": 9881,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch landschap met zonsondergang over water en een dakrand, met decoratief licht en geen duidelijke compositorische keuze beyond het klassieke ansichtkaartmotief.",
+      "bestand": "images/a009881_9944.webp"
+    },
+    {
+      "id": 9941,
+      "cyclus": 9878,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen) en de decoratieve compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a009878_9941.webp"
+    },
     {
       "id": 9937,
       "cyclus": 9874,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Molen op een heuvel met pad en water is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a009874_9937.webp"
-    },
-    {
-      "id": 9928,
-      "cyclus": 9865,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een klassieke compositie, zonder duidelijke persoonlijke of compositorische keuze beyond de traditionele ansichtkaartstijl.",
-      "bestand": "images/a009865_9928.webp"
-    },
-    {
-      "id": 9925,
-      "cyclus": 9862,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit is een typische ansichtkaart met een vogel in een landschap, waarbij de compositie en het onderwerp (vogel + natuur) iconisch en decoratief zijn zonder een uniek standpunt.",
-      "bestand": "images/a009862_9925.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9875,
-    "gemaakt": 9938,
-    "gekozen": 1516,
-    "afgekeurd": 1343,
-    "corpus": 62,
+    "cycli": 9882,
+    "gemaakt": 9944,
+    "gekozen": 1518,
+    "afgekeurd": 1345,
+    "corpus": 63,
     "notities": 417
   }
 }
