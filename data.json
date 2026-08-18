@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-18T06:45+02:00",
+  "bijgewerkt": "2026-08-18T07:00+02:00",
   "werk": [
     {
       "id": 9916,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 9924,
+      "cyclus": 9861,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen tegen een dramatische achtergrond, met een decoratief lichteffect en een klassieke compositie die past bij een toeristische ansichtkaart.",
+      "bestand": "images/a009861_9924.webp"
+    },
+    {
+      "id": 9920,
+      "cyclus": 9857,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een typisch kustlandschap met golven die zachtjes breken op het strand, een onderwerp dat vaak op ansichtkaarten te zien is, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009857_9920.webp"
+    },
+    {
       "id": 9893,
       "cyclus": 9830,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "enkele lichte vervormingen in de bladeren en stengels, minimale inconsistenties in de perspectieven van de rozen",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (rozenboeket) en decoratieve compositie zonder duidelijke persoonlijke stempel.",
       "bestand": "images/a009830_9893.webp"
-    },
-    {
-      "id": 9891,
-      "cyclus": 9828,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten; lichte wazigheid in verre bomen en water, maar binnen redelijke marges",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch landschap met kerk, zonsondergang en weg die de blik leidt, zonder onverwachte compositorische keuzes",
-      "bestand": "images/a009828_9891.webp"
-    },
-    {
-      "id": 9876,
-      "cyclus": 9813,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen ten opzichte van het landschap', 'enkele wazige overgangen in de achtergrond']",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse windmolen in een typisch landschap, met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a009813_9876.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9855,
-    "gemaakt": 9917,
+    "cycli": 9862,
+    "gemaakt": 9924,
     "gekozen": 1514,
-    "afgekeurd": 1338,
+    "afgekeurd": 1340,
     "corpus": 63,
     "notities": 416
   }
