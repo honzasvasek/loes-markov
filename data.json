@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T23:45+02:00",
+  "bijgewerkt": "2026-08-19T00:00+02:00",
   "werk": [
+    {
+      "id": 10384,
+      "titel": "Blauw over het raster",
+      "beschrijving": "Donkerbruine houten planken vormen een raster met smalle, donkere naden. Een lichtblauwe, ovale vorm ligt centraal, deels over twee planken heen, met een kleine donkerblauwe stip erin. Onder de ovale vorm loopt een dunne, donkerblauwe lijn horizontaal door het midden van de compositie. Verspreid over de planken bevinden zich kleine, kleurrijke stippen: oranje en blauw, sommige geïsoleerd, andere in paren. Het hout toont natuurlijke textuur met zichtbare vezels en knoesten, waaronder een opvallende donkere knoop rechtsboven. De kleuren zijn gedempt, behalve de blauwe en oranje accenten die scherp afsteken tegen het donkere hout.",
+      "cyclus": 10321,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010321_10384.webp"
+    },
+    {
+      "id": 10376,
+      "titel": "Barst in het water",
+      "beschrijving": "Een glazen beker met een scherpe, donkere barst die diagonaal door het midden loopt, vult het beeld. Binnenin de beker loopt een golvende, lichtblauwe vorm die aan water of rook doet denken, met subtiele groene en gele tinten erin. De buitenkant van de beker reflecteert vaag zichtbare vormen in paars, bruin en groen, alsof er een kamer of landschap in de glas-in-loodstijl weerspiegeld wordt. De rand van de beker is lichtgekleurd met een dunne oranje lijn, en de schaduw eronder is donkerpaars met een scherpe, donkere contour. De achtergrond is egaal crèmekleurig, waardoor de beker centraal staat met een lichtje dat van linksboven komt, wat glans en diepte in het glas creëert.",
+      "cyclus": 10313,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in reflecties aan de zijkant van het glas, lichte wazigheid in de schaduw onder het glas",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte weergave van een gewoon voorwerp met een ongemakkelijke schoonheid",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010313_10376.webp"
+    },
     {
       "id": 10372,
       "titel": "Rook en druppels",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010253_10316.webp"
-    },
-    {
-      "id": 10313,
-      "titel": "Sporen van een onbenoemde groei",
-      "beschrijving": "Een verticale compositie met een donkere, takachtige structuur die vanaf de onderkant omhoog groeit en zich uitstrekt tot boven een horizontale, textuurrijke band. De takken zijn dun en spierdig, met af en toe donkere, amorf gevormde vlekken en kleine, donkere stippen die als druppels of zaadjes door het beeld verspreid zijn. Boven de band bevinden zich verspreide donkere vormen en sporen die lijken op spatten of verspreide deeltjes. De achtergrond is lichtgrijs met subtiele, onregelmatige veranderingen in textuur en tint, wat een gevoel van nat of verweerd papier oproept. De algehele sfeer is statisch maar met een onderliggende dynamiek door de uitstraling van de takken en de verspreiding van de donkere elementen.",
-      "cyclus": 10250,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, niet-decoratieve compositie met ruimte voor interpretatie, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010250_10313.webp"
-    },
-    {
-      "id": 10309,
-      "titel": "Onvolprente raster over verlaten veld",
-      "beschrijving": "Drie donkerblauwe rechthoeken domineren het bovenste deel, gescheiden door smalle, lichtgrijze verticale en horizontale banen die een onvolledig raster vormen. Onder hen strekt een breed, lichtgrijs vlak zich uit, dat overgaat in een zwart-wit landschap aan de onderkant. Dat landschap toont een verlaten veld met donkere, onregelmatige textuur, doorspekt met verspreide takken en afval. Ver weg, aan de horizon, staan vaag zichtbare bomen en een klein, donker gebouw met een puntig dak. Een dunne, donkere lijn loopt horizontaal door het midden van het veld, mogelijk een snoer of slang. De overgang tussen het gekleurde bovenste deel en het zwart-wit landschap is scherp, zonder vervaging.",
-      "cyclus": 10246,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010246_10309.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10320,
-    "gemaakt": 10382,
-    "gekozen": 1591,
+    "cycli": 10328,
+    "gemaakt": 10390,
+    "gekozen": 1593,
     "afgekeurd": 1360,
     "corpus": 66,
     "notities": 430
