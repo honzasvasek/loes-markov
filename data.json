@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T07:00+02:00",
+  "bijgewerkt": "2026-08-18T07:15+02:00",
   "werk": [
+    {
+      "id": 9923,
+      "titel": "Zand dat zwijgt maar liegt",
+      "beschrijving": "Zandduinen met fijne, golvende patronen vullen het beeld, onder een bewolkte hemel met donkergrijze en witte wolken. Een smalle rookpluim stijgt op van een verre duin, waar wat vegetatie zichtbaar is. In het midden loopt een scherpe, onregelmatige scheur door het zand, met losse stukken die lijken te zijn verschoven. Enkele dode takken steken uit het zand, verspreid over de voor- en middengrond. De kleuren zijn gedempt: beige zand, grijze wolken en subtiele bruine tinten in de scheur. De sfeer is stil en verlaten, met een gevoel van eenzaamheid en onverwachte spanning door de scheur en de rook.",
+      "cyclus": 9860,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de scheur in het zand en de rookpluim, geen typische ansichtkaartcompositie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009860_9923.webp"
+    },
+    {
+      "id": 9917,
+      "titel": "Rook die door het huis loopt",
+      "beschrijving": "Rode en blauwe rook stijgt op in slingerende, doorschijnende banen tegen een egale, lichte achtergrond. Onderaan het beeld staat een wit huis met een donker dak, omgeven door donkergroene struiken en bomen. Twee vogels vliegen in de rechterbovenhoek, silhouetachtig en donker. De rook vormt een verticale as die het midden van het beeld domineert, met de rode en blauwe tinten die door elkaar lopen en soms donkerder worden waar ze samenkomen. De sfeer is kalm en zwevend, met een subtiele spanning tussen de warme rode en koelere blauwe rook.",
+      "cyclus": 9854,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de rookvormen en vogels hebben een abstracte, niet-bevestigende kwaliteit.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009854_9917.webp"
+    },
     {
       "id": 9916,
       "titel": "Rook en vlucht",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009810_9873.webp"
-    },
-    {
-      "id": 9868,
-      "titel": "Regen die blijft hangen",
-      "beschrijving": "Grijze regen valt in dunne, verticale lijnen tegen een effen achtergrond, terwijl onderaan een tak met donkergroene bladeren en kleine, glanzende bessen uitsteekt. Enkele bladeren hebben een gele tint, en waterdruppels kleven aan de plant en de regen. De regen vult het grootste deel van het beeld, met de plant slechts in de hoek, wat een gevoel van eenzaamheid en stilte uitstraalt. De kleuren zijn gedempt, met uitzondering van de subtiele gele en donkerblauwe accenten op de plant.",
-      "cyclus": 9805,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009805_9868.webp"
-    },
-    {
-      "id": 9865,
-      "titel": "Open deuren, gesloten vragen",
-      "beschrijving": "Twee deuren staan wijd open, hun panelen in zachte blauwe en crèmekleurige tinten, met donkere lijnen die de randen en scharnieren omlijnen. De linkerdeur onthult een donkerblauwe ruimte met een schuine lijn, terwijl de rechterdeur een lichtere, bijna beige binnenkant laat zien met een geometrisch patroon van donkere lijnen. Tussen de deuren loopt een smalle, verticale strook van lichtblauw, met subtiele textuurverschillen die diepte suggereren. De verf is dik aangebracht, met zichtbare penseelstreken die een ruwe, bijna tastbare textuur geven. De compositie is symmetrisch, maar de asymmetrische details—zoals de schuine lijnen en de verschillende blauwe nuances—breken de balans en trekken het oog door het beeld.",
-      "cyclus": 9802,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren', 'lichte wazigheid in de textuur van het middenpaneel']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009802_9865.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9928,
+      "cyclus": 9865,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een klassieke compositie, zonder duidelijke persoonlijke of compositorische keuze beyond de traditionele ansichtkaartstijl.",
+      "bestand": "images/a009865_9928.webp"
+    },
+    {
+      "id": 9925,
+      "cyclus": 9862,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit is een typische ansichtkaart met een vogel in een landschap, waarbij de compositie en het onderwerp (vogel + natuur) iconisch en decoratief zijn zonder een uniek standpunt.",
+      "bestand": "images/a009862_9925.webp"
+    },
     {
       "id": 9924,
       "cyclus": 9861,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconische Nederlandse molen tegen een dramatische achtergrond, met een decoratief lichteffect en een klassieke compositie die past bij een toeristische ansichtkaart.",
       "bestand": "images/a009861_9924.webp"
-    },
-    {
-      "id": 9920,
-      "cyclus": 9857,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een typisch kustlandschap met golven die zachtjes breken op het strand, een onderwerp dat vaak op ansichtkaarten te zien is, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009857_9920.webp"
-    },
-    {
-      "id": 9893,
-      "cyclus": 9830,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "enkele lichte vervormingen in de bladeren en stengels, minimale inconsistenties in de perspectieven van de rozen",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (rozenboeket) en decoratieve compositie zonder duidelijke persoonlijke stempel.",
-      "bestand": "images/a009830_9893.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9865,
+      "soort": "observatie",
+      "tekst": "De rookpluim in c9853 en de zandduinen in c9860 zijn geen afzonderlijke momenten meer, maar twee uitdrukkingen van dezelfde ontwapening die zich oplost in de ruimte—de rook ontbindt zonder een oorzaak, de zandduinen golven zonder een horizon, en de ruimte tussen hen is geen afwezigheid, maar een onzichtbare druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
+    },
+    {
       "cyclus": 9769,
       "soort": "observatie",
       "tekst": "De druppels in c9769 en c9763 zijn geen sporen van regen of dauw meer, maar beelden van een ontwapening die zich oplost in de ruimte—de glanzende, donkere vormen hangen niet meer aan takken of muren, maar drijven als onzichtbare druk door de grijze leegte, zonder een verhaal of een doel."
@@ -252,11 +257,6 @@
       "cyclus": 9517,
       "soort": "observatie",
       "tekst": "De rook en de regen in de recente beelden zijn geen sporen van ontwapening meer, maar twee momenten waarin de leegte zich oplost in een onzichtbare spanning die de ruimte met zichzelf verbonden houdt—de rook ontbindt zonder een oorzaak, de regen valt zonder een doel, en de ruimte tussen hen is geen afwezigheid, maar een taai weefsel dat de beelden met elkaar verbonden houdt zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 9493,
-      "soort": "observatie",
-      "tekst": "De leegte in de recente beelden is geen afwezigheid meer, maar een actieve vervorming van de ruimte—de grassprietjes, de theepot, de haken—alsof de ontwapening zich manifesteert als een onzichtbare druk die de vormen met elkaar verbindt zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9862,
-    "gemaakt": 9924,
-    "gekozen": 1514,
-    "afgekeurd": 1340,
-    "corpus": 63,
-    "notities": 416
+    "cycli": 9870,
+    "gemaakt": 9932,
+    "gekozen": 1516,
+    "afgekeurd": 1342,
+    "corpus": 64,
+    "notities": 417
   }
 }
