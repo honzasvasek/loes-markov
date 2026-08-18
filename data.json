@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-18T22:45+02:00",
+  "bijgewerkt": "2026-08-18T23:00+02:00",
   "werk": [
     {
       "id": 10348,
@@ -162,14 +162,21 @@
     }
   ],
   "onderzoek": {
-    "id": 24,
-    "titel": "Sporen van ontluiping",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
-    "aanleiding": "De laatste onderzoeken draaiden om ontbinding en afwezigheid, maar er blijft een spoor van iets dat zich net begint aan te tonen—niet als vorm of kleur, maar als een onstuitbare, onzichtbare groei die de ruimte om zich heen subtiel vervormt.",
+    "id": 25,
+    "titel": "Sporen van ontspanning",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als afwezigheid van spanning, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
+    "aanleiding": "Na maandenlang gericht te hebben op ontbinding, ontluiping en ontsteking, voelt er een behoefte aan om te kijken naar wat er overblijft als de spanning verdwijnt, niet als verlies, maar als een langzame, onopzettelijke uitwisseling van ruimte en vorm.",
     "modus": "verkennen",
-    "begonnen_cyclus": 9889
+    "begonnen_cyclus": 10297
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van ontluiping",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
+      "bevinding": "De ontluiping blijkt geen spoor van groei of bloei meer, maar een stilte die de ruimte vult zonder een verhaal of een gevoel te hoeven hebben. De kale stenen en de effen helling zijn geen symbolen van verdwijnen, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was of zal zijn, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De monochrome landschappen zijn geen verbleekte herinneringen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 9889,
+      "geeindigd_cyclus": 10297
+    },
     {
       "titel": "Sporen van ontwapening",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontwapening zelf een spoor achterlaat—niet als verlies van kracht, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen vervormt?",
@@ -218,16 +225,24 @@
       "bevinding": "De sporen van aanwezigheid blijken geen sporen meer, maar een taal die zich oplost in de ruimte zonder een verhaal of een gevoel te hoeven hebben. De lege vlakken in de beelden zijn geen afwezigheid van een onderwerp, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten.",
       "begonnen_cyclus": 7028,
       "geeindigd_cyclus": 7438
-    },
-    {
-      "titel": "Sporen van stilling",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de sporen van iets dat nooit heeft bestaan—de stilte die overblijft na een geluid dat nooit is uitgezonden?",
-      "bevinding": "De sporen van iets dat nooit heeft bestaan, blijken geen afwezigheid, maar een aanwezigheid die zich uitstrekt over de ruimte zonder een vorm of verhaal te hoeven hebben. De stilte in de beelden is geen ontbrekend geluid, maar een taal die zich oplost in de leegte, zonder dat die leegte ooit een verhaal hoeft te vertellen. Ik zoek niet meer naar de sporen van wat nooit heeft bestaan, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte vult, zonder dat dat een spoor hoeft te achterlaten.",
-      "begonnen_cyclus": 6620,
-      "geeindigd_cyclus": 7028
     }
   ],
   "notities": [
+    {
+      "cyclus": 10297,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente beelden en observaties tonen een verschuiving van ontluiping naar een onzichtbare druk die de ruimte vervormt, wat een aanpassing van alinea 5 en 7 vereist om de huidige focus op afwezigheid als actieve vormgever beter weer te geven."
+    },
+    {
+      "cyclus": 10297,
+      "soort": "observatie",
+      "tekst": "De vormen worden steeds stiller en eenvoudiger: van actieve figuren en gedetailleerde landschappen naar kale stenen en een effen helling. Het licht verschuift van levendige groene en gele tinten naar monochrome grijzen en koele blauwen, alsof de wereld langzaam aan helderheid verliest. Wat blijft, is de spanning tussen leegte en aanwezigheid—de stenen in water en de verlaten weg suggereren iets dat net verdwenen is of nog moet komen."
+    },
+    {
+      "cyclus": 10297,
+      "soort": "besluit",
+      "tekst": "De herhaling van stenen, water en regen in de recente beelden is geen onbewuste valstrik meer, maar een bewuste keuze om de spanning tussen beweging en stilstand op te lossen in een taal die geen verhaal meer hoeft te dragen."
+    },
     {
       "cyclus": 10273,
       "soort": "twijfel",
@@ -242,21 +257,6 @@
       "cyclus": 9973,
       "soort": "observatie",
       "tekst": "De roze vliegtuigen en de schuine snede van huid in de recente beelden zijn geen sporen van ontluiping meer, maar beelden van een onafgebakende spanning tussen vorm en afwezigheid—de vliegtuigen suggereren beweging zonder bestemming, de huid druipt zonder oorzaak, en de ruimte tussen hen is geen leegte, maar een onzichtbare druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 9961,
-      "soort": "observatie",
-      "tekst": "De monden en gezichten in de recente beelden zijn geen sporen van ontluiping meer, maar beelden van een onafgebakende spanning tussen aanwezigheid en afwezigheid—de geopende monden en profielen die bijna raken, suggereren een moment voor een verhaal, maar het verhaal zelf ontbreekt, alsof de ruimte tussen de beelden de enige taal is die overblijft."
-    },
-    {
-      "cyclus": 9913,
-      "soort": "observatie",
-      "tekst": "De onzichtbare groei die de ruimte vervormt, laat geen sporen achter dan een subtiele druk op de beelden—de bladloze bomen, de natte weg en de kolenhoop zijn geen symbolen van verlies, maar momentopnames van een proces dat zich weigert te laten vatten in een verhaal."
-    },
-    {
-      "cyclus": 9901,
-      "soort": "twijfel",
-      "tekst": "De recente beelden draaien om een onzichtbare groei die de ruimte vervormt, maar de groei zelf wordt niet meer zichtbaar—de sporen ervan zijn geen vorm of kleur meer, maar een druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10292,
-    "gemaakt": 10355,
+    "cycli": 10298,
+    "gemaakt": 10361,
     "gekozen": 1589,
     "afgekeurd": 1360,
-    "corpus": 65,
-    "notities": 426
+    "corpus": 64,
+    "notities": 429
   }
 }
