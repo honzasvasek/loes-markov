@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T14:30+02:00",
+  "bijgewerkt": "2026-08-18T14:45+02:00",
   "werk": [
+    {
+      "id": 10130,
+      "titel": "Rook die de regels doorbreekt",
+      "beschrijving": "Donkere, textuurrijke vlakken vullen het beeld, met zichtbare penseelstreken die horizontale en verticale patronen vormen. Een witte, rookachtige vorm kronkelt door het onderste deel, met zachte, vloeiende lijnen die zich uitstrekken naar het midden. Kleine, glanzende druppels en onregelmatige randen aan de zijkanten breken de donkere massa op. Een subtiele roodachtige tint is zichtbaar in de linkeronderhoek, terwijl de achtergrond een ruwe, grijze textuur heeft die de donkere vlakken omlijst. De compositie voelt dynamisch door de contrasten tussen de starre penseelstreken en de beweeglijke rookvorm.",
+      "cyclus": 10067,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten, maar lichte inconsistentie in textuur van de rook (soms te scherp, soms te wazig)",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010067_10130.webp"
+    },
+    {
+      "id": 10125,
+      "titel": "Getande blauw in symmetrie",
+      "beschrijving": "Een verticale steel loopt door het midden, met aan weerskanten afwisselend geplaatste, diepblauwe bladeren die een getande rand hebben. De bladeren zijn getekend met fijne, parallelle lijnen die de textuur nabootsen, en de steel vertoont een lichte kromming. De achtergrond is een effen, lichtbeige kleur met een subtiele korrelstructuur, waardoor de blauwe tinten scherp afsteken. De compositie is symmetrisch, maar de bladeren variëren licht in grootte en vorm, wat een natuurlijk gevoel geeft. Geen andere elementen of details zijn aanwezig.",
+      "cyclus": 10062,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een eigen compositorische keuze met de asymmetrische plaatsing en textuur van de bladeren.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010062_10125.webp"
+    },
     {
       "id": 10118,
       "titel": "Waar het licht de scheur inloopt",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010019_10082.webp"
-    },
-    {
-      "id": 10077,
-      "titel": "Papier dat zwijgt maar praat",
-      "beschrijving": "Een rechthoekig vlak van zacht roze kleipapier, getekend met een ongelijke, korrelige rand die de textuur van het papier benadrukt. Het roze is niet eenduidig: aan de randen is het lichter en watervagelijk, terwijl het in het midden een diepere, bijna roze-rode tint heeft. Het papier zelf heeft een subtiele, onregelmatige textuur, met kleine bultjes en onevenheden die het handgemaakte karakter benadrukken. De achtergrond is een neutraal beige, wat het roze vlak nog sterker laat uitkomen. Er zijn geen andere vormen of details aanwezig, waardoor de focus ligt op de eenvoudige, maar uitdrukkelijke textuur en kleurvariatie van het roze vlak.",
-      "cyclus": 10014,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010014_10077.webp"
-    },
-    {
-      "id": 10072,
-      "titel": "Gele druppels, roodbruine stilte",
-      "beschrijving": "Een boom met donkerbruine stam en takken domineert de rechterkant, met bladeren die als donkerbruine vlekken door de bovenste hoek lopen. Drie gele druppels vallen in een verticale lijn van de takken naar beneden, boven een groen veld met donkergroene bomen en heuvels in de verte. Een brede, roodbruine vorm, vaag en onscherp, vult het midden van het beeld, met aan weerskanten groene grassprietjes en kleine rode stippen. De voorgrond bestaat uit een lichtbeige ondergrond met donkerbruine strepen en vlekken, alsof er iets zachts en korrelsigs doorheen loopt. De achtergrond is een vaag, grijzig landschap met zachte overgangen tussen de heuvels en de lucht.",
-      "cyclus": 10009,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, niet-iconische compositie met een focus op leegte en ontbinding, geen typische ansichtkaartmotieven.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010009_10072.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontluiping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
     "aanleiding": "De laatste onderzoeken draaiden om ontbinding en afwezigheid, maar er blijft een spoor van iets dat zich net begint aan te tonen—niet als vorm of kleur, maar als een onstuitbare, onzichtbare groei die de ruimte om zich heen subtiel vervormt.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 9889
   },
   "afgesloten": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10069,
-    "gemaakt": 10131,
-    "gekozen": 1553,
+    "cycli": 10076,
+    "gemaakt": 10138,
+    "gekozen": 1555,
     "afgekeurd": 1355,
     "corpus": 66,
     "notities": 424
