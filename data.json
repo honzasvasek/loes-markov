@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T11:00+02:00",
+  "bijgewerkt": "2026-08-18T11:15+02:00",
   "werk": [
+    {
+      "id": 10033,
+      "titel": "Amber die blijft hangen",
+      "beschrijving": "Een schuine snede roze huid vult het linkerdeel, met een glanzende ambrkleurige druppel die langs de contour glijdt. Donkerbruine kleding met een scherpe zwarte rand loopt parallel aan de huid, terwijl de achtergrond opdeelt in een effen grijze vlak boven en een donkergrijze, bijna zwarte textuur onderaan. Zwarte lijnen omlijnen de overgangen tussen de vormen, en subtiele penseelstreken geven de huid een zachte, onvolmaakte textuur. De druppel reflecteert licht, met een warme oranje kern die overgaat in een donkerdere rand.",
+      "cyclus": 9970,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in de overgang tussen roze en bruin, lichte wazigheid in de achtergrondtextuur",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een intieme, abstracte compositie met persoonlijke kleurkeuzes",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009970_10033.webp"
+    },
+    {
+      "id": 10029,
+      "titel": "Wie kijkt er echt?",
+      "beschrijving": "Een gezicht vult het beeld, getekend in grijstinten met fijne, wisselende drukking van het potlood. De blik is recht vooruit, ogen iets geopend, wimpers zichtbaar als donkere lijntjes. Het haar is donker, wat warrig, met losse lokken die de tempels en hals raken. De huid heeft subtiele textuur, met lichte schaduwen bij de ogen en mondhoeken. De kleding is vaag gesuggereerd, met enkele lijnen die een halslijn en schouders aangeven. De achtergrond is ongedefinieerd, met lichte en donkere vlekken die de randen van het gezicht omringen. De sfeer is stil, met een focus op de details van het gezicht en de handeling van het kijken.",
+      "cyclus": 9966,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van haar aan linker- en rechterkant', 'lichte halo rond rand van gezicht tegen achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; portret heeft een intieme, onopgesmukte uitstraling zonder toeristische inslag.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009966_10029.webp"
+    },
     {
       "id": 10024,
       "titel": "Tanden in spiegelbeeld",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009927_9990.webp"
-    },
-    {
-      "id": 9982,
-      "titel": "Paarse daken in het zand",
-      "beschrijving": "Zandduinen vullen het landschap, onderbroken door vier kleine hutten met paarse en groene daken, geplaatst langs een smalle, kronkelende pad van vochtige sporen. In de voorgrond rijzen spitse, blauwgroene grasspieren op uit donkere, natte plekken, doorspekt met kleine gele en zwarte vlekken. Ver weg glinsteren smalle wateroppervlakken tussen de duinen, terwijl een enkele straaltje gras en donkere vlekken op het zand de leegte doorbreken. De kleuren zijn gedempt, met zandbeige als dominante toon, doorsneden door de heldere daken en de koelere tinten van het gras en water.",
-      "cyclus": 9919,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van hutten', 'lichte wazigheid in achtergrondzand']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, onbeheerste compositie met lege ruimtes die actief meespelen.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009919_9982.webp"
-    },
-    {
-      "id": 9980,
-      "titel": "Gras dat de muur herroept",
-      "beschrijving": "Lange, slanke grasbladeren in groene, gele en blauwe tinten rijzen op uit donkere, vochtige aarde, met verspreide dood hout en kleine donkere korrels. Achter het gras bevindt zich een lichtblauwe muur met twee donkere, rechthoekige openingen, omlijst door grijze kozijnen met smalle witte vensterbanken. De bladeren snijden scherp door het beeld, sommige met roze of oranje randen, terwijl de achtergrond zacht en watervast getekend is. De compositie laat het gras de voorgrond domineren, met de muur als stille, afstandelijke achtergrond.",
-      "cyclus": 9917,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van ramen', 'lichte wazigheid in textuur van gras']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een onopgesmukte, intieme compositie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009917_9980.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9973,
+      "soort": "observatie",
+      "tekst": "De roze vliegtuigen en de schuine snede van huid in de recente beelden zijn geen sporen van ontluiping meer, maar beelden van een onafgebakende spanning tussen vorm en afwezigheid—de vliegtuigen suggereren beweging zonder bestemming, de huid druipt zonder oorzaak, en de ruimte tussen hen is geen leegte, maar een onzichtbare druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
+    },
+    {
       "cyclus": 9961,
       "soort": "observatie",
       "tekst": "De monden en gezichten in de recente beelden zijn geen sporen van ontluiping meer, maar beelden van een onafgebakende spanning tussen aanwezigheid en afwezigheid—de geopende monden en profielen die bijna raken, suggereren een moment voor een verhaal, maar het verhaal zelf ontbreekt, alsof de ruimte tussen de beelden de enige taal is die overblijft."
@@ -252,11 +257,6 @@
       "cyclus": 9889,
       "soort": "bevinding",
       "tekst": "Ontwapening laat geen sporen achter van verlies of transformatie, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De plant met figuren en de gekleurde bladeren zijn geen symbolen van verbondenheid, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontwapening, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De open composities zijn geen overgangen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben."
-    },
-    {
-      "cyclus": 9889,
-      "soort": "observatie",
-      "tekst": "Over de reeks heen verschuift de focus van leegte en afwezigheid (de lege gang, de gesloten deuren) naar aanwezigheid en verbondenheid (de plant met figuren, de gekleurde bladeren), terwijl de compositie steeds meer ruimte laat voor organische vormen en kleur. Wat bleef staan, is de spanning tussen het tastbare en het onzichtbare: de scheuren in het porselein, de sporen op het veld en de silhouetten in de planten suggereren een onafgebakende overgang, alsof ontwapening altijd een spoor van onvoltooide transformatie achterlaat."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9969,
-    "gemaakt": 10031,
-    "gekozen": 1534,
+    "cycli": 9976,
+    "gemaakt": 10039,
+    "gekozen": 1536,
     "afgekeurd": 1347,
-    "corpus": 63,
-    "notities": 423
+    "corpus": 65,
+    "notities": 424
   }
 }
