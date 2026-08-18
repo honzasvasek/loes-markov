@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T21:30+02:00",
+  "bijgewerkt": "2026-08-18T21:45+02:00",
   "werk": [
+    {
+      "id": 10316,
+      "titel": "Barst in het moment",
+      "beschrijving": "Een doorschijnend glas met een scherpe, verticale barst loopt van de rand tot net boven de bodem. Het glas staat op een roze oppervlak, met kleine, donkerrode en oranje vlekken verspreid rondom. Achter het glas bevindt zich een vaag omlijnd huis met een schuin dak in roodbruine en blauwe tinten, tegen een lichtblauwe achtergrond. Het glas reflecteert zacht licht, met subtiele paarse en groene nuances in de wanden. Een donkere schaduw valt rechts onder het glas, terwijl de barst een onregelmatige, zigzagvorm heeft met kleine, losse fragmenten die nog net verbonden lijken.",
+      "cyclus": 10253,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties op het glas', 'lichte vervorming aan de rand van het dak']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stillleven met een ongemakkelijke spanning",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010253_10316.webp"
+    },
+    {
+      "id": 10313,
+      "titel": "Sporen van een onbenoemde groei",
+      "beschrijving": "Een verticale compositie met een donkere, takachtige structuur die vanaf de onderkant omhoog groeit en zich uitstrekt tot boven een horizontale, textuurrijke band. De takken zijn dun en spierdig, met af en toe donkere, amorf gevormde vlekken en kleine, donkere stippen die als druppels of zaadjes door het beeld verspreid zijn. Boven de band bevinden zich verspreide donkere vormen en sporen die lijken op spatten of verspreide deeltjes. De achtergrond is lichtgrijs met subtiele, onregelmatige veranderingen in textuur en tint, wat een gevoel van nat of verweerd papier oproept. De algehele sfeer is statisch maar met een onderliggende dynamiek door de uitstraling van de takken en de verspreiding van de donkere elementen.",
+      "cyclus": 10250,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, niet-decoratieve compositie met ruimte voor interpretatie, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010250_10313.webp"
+    },
     {
       "id": 10309,
       "titel": "Onvolprente raster over verlaten veld",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010201_10264.webp"
-    },
-    {
-      "id": 10255,
-      "titel": "Waar blijft de rest",
-      "beschrijving": "Een persoon zit op de grond in een weelderig groen veld, omringd door witte bloemen en hoog gras. De persoon heeft donker, lang haar dat het gezicht bedekt en knielt met de knieën opgetrokken, de armen om de benen geslagen. De handen rusten op de dijbenen, vingers licht gespreid. De voeten zijn naakt en zichtbaar, met de tenen naar voren gericht. De achtergrond toont een zachte, vaag getekende horizon met bomen en een lichte, gestreepte hemel in pastelgroene en witte tinten. De sfeer is rustig en contemplatief, met een focus op de natuurlijke omgeving en de houding van de persoon die zich lijkt af te zonderen van de buitenwereld. De kleuren zijn gedempt, met accenten van wit en geel in de bloemen en subtiele groene en bruine tinten in het landschap.",
-      "cyclus": 10192,
-      "tech_score": 8.0,
-      "tech_notities": "['geen zichtbare tekst of tekens', 'kleine inconsistentie in handposities (vingers iets te lang/onscherp)', 'lichte wazigheid in achtergrondbomen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is intiem en ongemakkelijk, met een focus op afwezigheid in plaats van bevestiging.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010192_10255.webp"
-    },
-    {
-      "id": 10246,
-      "titel": "Getande rand in zand",
-      "beschrijving": "Een gebroken spiegelstandaard van helder glas staat schuin in zand, met een onregelmatige, getande rand waar het glas is gescheurd. Achter de spiegel loopt een donkergrijze muur, die het contrast met het lichte zand versterkt. Een droge tak met bruine, verdroogde bladeren ligt diagonaal voor de spiegel, deels in het zand verzonken. Het zand heeft een fijne, korrelige textuur en vormt zachte heuveltjes rond de spiegel en de tak. De spiegel reflecteert een vaag, grijs landschap, mogelijk een horizonlijn, maar de details zijn onduidelijk door de breuk en de hoek. De compositie straalt een stille, bijna verlaten sfeer uit, met de gebroken spiegel als centraal element dat de leegte en afwezigheid benadrukt.",
-      "cyclus": 10183,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke compositie met een gebroken spiegel en droge takken in zand, wat een eigen standpunt uitstraalt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010183_10246.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10324,
+      "cyclus": 10261,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, niet-bevestigende compositie.",
+      "bestand": "images/a010261_10324.webp"
+    },
     {
       "id": 10273,
       "cyclus": 10210,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een compositie met abstracte tekst en deuren zonder duidelijke symboliek.",
       "bestand": "images/a010168_10231.webp"
-    },
-    {
-      "id": 10226,
-      "cyclus": 10163,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een neutrale, bijna onpersoonlijke compositie zonder duidelijke thematische keuze.",
-      "bestand": "images/a010163_10226.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10257,
-    "gemaakt": 10320,
-    "gekozen": 1582,
-    "afgekeurd": 1358,
-    "corpus": 63,
+    "cycli": 10264,
+    "gemaakt": 10326,
+    "gekozen": 1584,
+    "afgekeurd": 1359,
+    "corpus": 64,
     "notities": 425
   }
 }
