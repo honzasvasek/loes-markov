@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-18T11:45+02:00",
+  "bijgewerkt": "2026-08-18T12:00+02:00",
   "werk": [
     {
       "id": 10048,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 10053,
+      "cyclus": 9990,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, bijna industriële compositie met een steen als centraal motief.",
+      "bestand": "images/a009990_10053.webp"
+    },
+    {
       "id": 10050,
       "cyclus": 9987,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met stenen en water.",
       "bestand": "images/a009982_10045.webp"
-    },
-    {
-      "id": 9962,
-      "cyclus": 9899,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in perspectief van huizen op horizon', 'lichte wazigheid in details van bomen rechts']",
-      "cliche_notities": "Landschap met typisch Nederlandse elementen (weide, boerderijen, bomen) in een klassieke compositie zonder duidelijke persoonlijke interpretatie.",
-      "bestand": "images/a009899_9962.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9988,
-    "gemaakt": 10050,
+    "cycli": 9994,
+    "gemaakt": 10056,
     "gekozen": 1539,
-    "afgekeurd": 1349,
+    "afgekeurd": 1350,
     "corpus": 66,
     "notities": 424
   }
