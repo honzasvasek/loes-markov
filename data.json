@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-19T01:15+02:00",
+  "bijgewerkt": "2026-08-19T01:30+02:00",
   "werk": [
+    {
+      "id": 10432,
+      "titel": "Maan in water, papier met droom",
+      "beschrijving": "Een glazen pot met helder water staat op een donkere ondergrond, met daarin een roze, maanvormig voorwerp dat drijft. Voor de pot ligt een wit vel papier met een onregelmatige, gescheurde rand, waarop een blauwe waterverfkringing is aangebracht. De kringing heeft een ongelijkmatige, korrelige textuur en kleine blauwe druppeltjes rond de rand. Het water in de pot reflecteert licht, waardoor kleine witte stippen ontstaan aan de oppervlakte. De achtergrond is donkerbruin en onscherp, waardoor de pot en het papier centraal staan. De compositie combineert transparantie, textuur en kleur in een stilleven zonder duidelijke actie.",
+      "cyclus": 10369,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming van de tong in het glas (onnatuurlijke textuur en vorm)', 'Wazige overgang tussen het glas en de achtergrond (geen scherpe rand)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een ongewone combinatie van elementen zonder decoratief licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010369_10432.webp"
+    },
+    {
+      "id": 10429,
+      "titel": "Geen ondergang zonder scheur",
+      "beschrijving": "Een boom met hangende takken domineert het beeld, getekend in donkere, fijne lijnen tegen een lichte achtergrond. Een horizontale scheur loopt door het midden, waarbij boven de scheur een gele tot oranje verloop is te zien, alsof er een ondergaande zon achter de boom schijnt. Onder de scheur blijft de achtergrond neutraal, met alleen subtiele geelbruine tinten. De stam is gedetailleerd weergegeven met textuur en een knoop, terwijl de takken zich uitstrekken in een asymmetrische, bijna spiegelbeeldige compositie. Aan de basis van de boom zijn wat dunne grassprieltjes getekend, en de rand van de scheur is onregelmatig en wat versleten.",
+      "cyclus": 10366,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de overgang tussen de boven- en onderkant van de boom (gescheurde rand voelt iets geforceerd)', 'Subtiele wazigheid in de achtergrondkleuren (geel/blauw) bij de horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "De boom is geen iconisch motief en de compositie heeft een ongemakkelijke, bewuste scheiding die geen typische ansichtkaart-esthetiek heeft",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010366_10429.webp"
+    },
+    {
+      "id": 10423,
+      "titel": "Scheur in het licht",
+      "beschrijving": "Een helder glazen glas staat centraal op een roodbruine ondergrond, met een scherpe, onregelmatige scheur die van de rand tot de bodem loopt. Het glas heeft verticale ribbels en een brede, ronde basis die licht reflecteert. De scheur loopt niet recht, maar vertoont kleine, onvoorspelbare afwijkingen, alsof het glas langzaam is gescheurd. De achtergrond is egaal en trekt geen aandacht, waardoor de focus ligt op de transparantie van het glas en de precisie van de breuk. De rand van het glas is glad en glinstert, terwijl de scheur een donkere, smalle spleet vormt die diepte suggereert.",
+      "cyclus": 10360,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in de rand van het glas (linksboven iets onnatuurlijk scherp, rechtsboven zachter)",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de subtiele vervorming en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010360_10423.webp"
+    },
     {
       "id": 10418,
       "titel": "Vezels die zwijgen houden",
@@ -91,48 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010313_10376.webp"
-    },
-    {
-      "id": 10372,
-      "titel": "Rook en druppels",
-      "beschrijving": "Drie witte, amorf gevormde voorwerpen hangen aan gevlochten touwen aan een houten lat. Het linker voorwerp heeft een diamantvormig gat, de andere twee zijn glad. Boven de lat liggen donkere, onregelmatige klonten met een rookachtige walm erboven. Groene, slanke bladeren steken aan weerskanten omhoog. Donkere vlekken en druppels lopen van de lat naar beneden over een grijze, textuurrijke achtergrond. Schaduwen onder de voorwerpen en touwen geven diepte. Kleuren zijn gedempt, met accenten van groen, bruin en zwart tegen een lichte achtergrond.",
-      "cyclus": 10309,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in schaduwval bij middelste hanger', 'lichte wazigheid in textuur van bovenste plant']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stille, contemplatieve compositie met ruimte voor interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010309_10372.webp"
-    },
-    {
-      "id": 10368,
-      "titel": "Zilver in de scheur",
-      "beschrijving": "Een verticale, onregelmatige scheur loopt van boven naar beneden door een grijze muur, omzoomd door donkerbruine, verweerde randen. Langs de scheur zijn zilverkleurige, ronde objecten verspreid, sommige half in de muur verdwenen, andere los liggend. Rechts bevindt zich een deel van een bruine houten deur met reliëfpanelen, waar een roodachtige vlek en een kleine, groene grassprietje zichtbaar zijn. Onderaan de scheur liggen losse klompen droge aarde en een verbleekte, bruine bloem. De muur toont subtiele textuurverschillen: linksboven een lichtere, bijna witte vlek, en verspreid kleine, oranjebruine vlekjes. De sfeer is statisch, met een gevoel van verwaarlozing en verloop.",
-      "cyclus": 10305,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in textuur van muur bij deur, lichte wazigheid in hoeken",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, compositorische keuze is ongemakkelijk en niet-bevestigend",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010305_10368.webp"
-    },
-    {
-      "id": 10348,
-      "titel": "Wit dat donker word",
-      "beschrijving": "Een witte, glanzende blok kaas met ronde gaten rust schuin op een effen, lichtgrijze ondergrond. Van de kaas loopt een druppel witte vloeistof naar beneden, die overgaat in een reeks afnemende druppels die een diagonale lijn vormen. De eerste druppels zijn wit en glanzend, maar naarmate ze kleiner worden, veranderen ze in donkerbruine, bijna zwarte bolletjes met een reflecterende oppervlakte. De kaas heeft een zachte, iets onregelmatige textuur, terwijl de druppels een gladde, bolvormige vorm hebben. De achtergrond blijft neutraal en ongestoord, waardoor de focus ligt op de overgang van de witte naar de donkere druppels en de textuur van de kaas.",
-      "cyclus": 10285,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en gericht op subtiele overgangen, niet op een bevestigend verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010285_10348.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10430,
+      "cyclus": 10367,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare karakters', 'inconsistente lettergroottes en -posities', 'wazige randen rond tekst']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst als centraal element.",
+      "bestand": "images/a010367_10430.webp"
+    },
     {
       "id": 10407,
       "cyclus": 10344,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna onleesbare tekst die geen duidelijke boodschap geeft.",
       "bestand": "images/a010288_10351.webp"
-    },
-    {
-      "id": 10324,
-      "cyclus": 10261,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, niet-bevestigende compositie.",
-      "bestand": "images/a010261_10324.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10364,
-    "gemaakt": 10427,
-    "gekozen": 1598,
-    "afgekeurd": 1361,
-    "corpus": 65,
+    "cycli": 10370,
+    "gemaakt": 10433,
+    "gekozen": 1601,
+    "afgekeurd": 1362,
+    "corpus": 67,
     "notities": 431
   }
 }
