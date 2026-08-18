@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-18T12:00+02:00",
+  "bijgewerkt": "2026-08-18T12:15+02:00",
   "werk": [
+    {
+      "id": 10059,
+      "titel": "Regendruppels die vragen stellen",
+      "beschrijving": "Een donkere boomstam loopt aan de linkerkant omhoog, met takken die groene en gele bladeren dragen. Regen druppelt van de bladeren naar beneden, zichtbaar als grijze druppels tegen een witte achtergrond. Onder de boom strekt een grijze, getekende heuvel zich uit met zwarte strepen die gras of gewassen suggereren. Ver weg staat een donker huis met een schuin dak, omgeven door bomen en struiken. De compositie is verticaal, met de boom aan de linkerkant en het huis aan de horizon rechtsboven.",
+      "cyclus": 9996,
+      "tech_score": 8.0,
+      "tech_notities": "kleine witte vlekken in de boomstam en ongelijkmatige randen bij sommige bladeren",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, minimalistische stijl zonder typisch toeristische motieven of decoratief perfect licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009996_10059.webp"
+    },
+    {
+      "id": 10051,
+      "titel": "Regendruppels op vergeten bladeren",
+      "beschrijving": "Groene, licht geelbruine bladeren met regen druppels hangen aan bruine takken tegen een grijze achtergrond. Een ronde, getextureerde steen met donkere en lichte vlekken bevindt zich centraal, omringd door de bladeren. Kleine groene vruchten en dunne regenstrepen zijn zichtbaar. De compositie is verticaal, met de takken die diagonaal door het beeld lopen. De sfeer is nat en rustig, met subtiele kleurvariaties in de bladeren en de steen.",
+      "cyclus": 9988,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in bladaders bij dichterbij kijken', 'lichte wazigheid in regenstrepen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en de leegte actief.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009988_10051.webp"
+    },
+    {
+      "id": 10049,
+      "titel": "Regen achter het papier",
+      "beschrijving": "Een onregelmatig gescheurd gat in wit papier onthult een onscherp beeld van regen die verticaal valt tegen een donkergroene achtergrond met vaag groen en geel. De randen van het gat zijn fronselig en ongelijkmatig, met kleine vezeltjes die uitsteken. Het papier om het gat heen is glad en wit, met een lichte schaduw onder het gat die diepte suggereert. De regen druppels zijn dunne, verticale lijnen die door het gat lopen, terwijl de achtergrond een zachte, onscherpe textuur heeft met ronde, vaag omlijnde vormen in groen en geel.",
+      "cyclus": 9986,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op leegte en afwezigheid, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009986_10049.webp"
+    },
     {
       "id": 10048,
       "titel": "Regendruppels scheuren papier",
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w009954_10017.webp"
-    },
-    {
-      "id": 10014,
-      "titel": "Wat stroomt hier vandaan?",
-      "beschrijving": "Donker, spriestend gras vormt een dichte, schuine koepel boven een glimmende, amorf vorm die lijkt op gesmolten hars of was. De vorm heeft een glanzende, bijna natte textuur met oranje-bruine en grijze tinten, en loopt uit in een smalle, opwaartse stroom die overgaat in het gras. Rondom de basis liggen kleine, gladde stenen in verschillende groottes en kleuren: grijs, bruin, zwart en een groenige tint. De achtergrond is een egaal, lichtbruin vlak met subtiele, witte, wazige strepen die een vaag lichteffect suggereren boven het gras. De compositie is verticaal georiënteerd, met het gras en de stroom als centrale as die het beeld in tweeën deelt.",
-      "cyclus": 9951,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met een abstracte, organische vorm die niet typisch is voor een toeristische ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009951_10014.webp"
-    },
-    {
-      "id": 10011,
-      "titel": "Druppels die blijven hangen",
-      "beschrijving": "Groen en geel gras domineert de voorgrond, met lange, slanke stengels die in verschillende richtingen opkijken, sommige met kleine, glinsterende druppels erop. Achter het gras ligt een zacht overgangsvlak van lichtgele en groene tinten, dat overgaat in een vaag, nevelig landschap met donkergroene bomen en struiken aan de horizon. De achtergrond wordt gevormd door een lichte, bijna witte hemel die langzaam overgaat in het landschap. Kleine, onduidelijke vormen in het middenplan suggereren mogelijk water of open ruimte, omringd door zachte, wazige contouren. De sfeer is kalm en wat mistig, met een subtiele speeling van licht en schaduw door de verschillende groen- en geeltinten.",
-      "cyclus": 9948,
-      "tech_score": 8.0,
-      "tech_notities": "[\"subtiele halo's rond sommige grasstengels in het middenplan\", 'lichte inconsistentie in de textuur van de achtergrondbomen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een dromerige, persoonlijke sfeer zonder iconische of toeristische elementen, en de compositie is niet typisch ansichtkaartschema.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009948_10011.webp"
-    },
-    {
-      "id": 10009,
-      "titel": "Bloemen waar ogen zouden moeten zijn",
-      "beschrijving": "Een portret van een meisje met lang, warrig haar, getekend in potloodstijl. Haar ogen zijn vervangen door twee bloemen met spitse bloemblaadjes, terwijl een derde bloem in de rechteronderhoek van het beeld zweeft. Achter haar rijzen prikkeldooornen en een kale tak op, omgeven door lange, slanke grasblade. De schaduwen op haar gezicht en in haar haar zijn fijn gedetailleerd, met een zachte overgang naar de lichte achtergrond. Haar lippen zijn vol en licht geopend, en haar hals is zichtbaar boven een donkere, textuurloze kledingstuk. De compositie is verticaal, met het gezicht centraal en de planten die de randen van het beeld vullen.",
-      "cyclus": 9946,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, dromerige compositie met symbolische elementen (bloemen als ogen) en geen typisch toeristisch onderwerp.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009946_10009.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10057,
+      "cyclus": 9994,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op textuur en spanning.",
+      "bestand": "images/a009994_10057.webp"
+    },
     {
       "id": 10053,
       "cyclus": 9990,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'onmogelijke geometrie']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een chaotische, abstracte compositie zonder duidelijke intentie.",
       "bestand": "images/a009987_10050.webp"
-    },
-    {
-      "id": 10045,
-      "cyclus": 9982,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met stenen en water.",
-      "bestand": "images/a009982_10045.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9994,
-    "gemaakt": 10056,
-    "gekozen": 1539,
-    "afgekeurd": 1350,
+    "cycli": 10001,
+    "gemaakt": 10063,
+    "gekozen": 1542,
+    "afgekeurd": 1351,
     "corpus": 66,
     "notities": 424
   }
