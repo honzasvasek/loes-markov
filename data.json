@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T06:00+02:00",
+  "bijgewerkt": "2026-08-18T06:15+02:00",
   "werk": [
+    {
+      "id": 9902,
+      "titel": "Waar het licht buigt",
+      "beschrijving": "Een wit V-vormig vlak domineert het midden, scherp getekend tegen een grijze achtergrond met paarse en beige heuvels. Onder het V ontploft een bruine spiraal van zand of stof, met fijne draden die zich uitstrekken over een zandkleurig vlak. Een klein goudkleurig puntje zweeft linksboven het V. De penseelstreken zijn zichtbaar, met een mix van gladde en textuurrijke vlakken die een gevoel van beweging en stilte combineren.",
+      "cyclus": 9839,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009839_9902.webp"
+    },
+    {
+      "id": 9899,
+      "titel": "Goud in de grijsheid",
+      "beschrijving": "Een scheurvormige opening onthult een landschap met een grijze horizon, golvende donkergrijze vormen en subtiele goud- en paarsachtige tinten in de achtergrond. Witte en lichtgrijze penseelstreken vormen een onregelmatige rand rond de opening, terwijl donkere, korrelige vlekken en een slanke, kronkelende lijn van zwarte stippen en strepen diagonaal door het witte vlak lopen. De compositie combineert ruwe textuur met gladde vlakken, waarbij de leegte buiten de scheur de ruimte domineert.",
+      "cyclus": 9836,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009836_9899.webp"
+    },
     {
       "id": 9886,
       "titel": "Waar de regen stenen telt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009793_9856.webp"
-    },
-    {
-      "id": 9855,
-      "titel": "Franji tegen takken",
-      "beschrijving": "Een verticaal, verscheurd strook papier domineert het midden, met onregelmatige, franji-achtige randen die wit en lichtblauw alterneren. Het blauwe deel heeft een waterverfachtige textuur met lichte en donkere vlakken, alsof de kleur gedeeltelijk is uitgespoeld. Achter het papier lopen donkere, slanke takken in een willekeurig patroon, scherp getekend tegen een egale, witte achtergrond. De takken hebben kleine, knopachtige uitsteeksels en vormen een contrast met de zachte, onstabiele vorm van het papier. De compositie is minimalistisch, met veel lege ruimte rondom, waardoor het papier en de takken als geïsoleerde elementen浮en. De sfeer is statisch en ietsjes verlaten, door de afwezigheid van beweging of kleurrijke details buiten het blauwe papier en de donkere takken.",
-      "cyclus": 9792,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009792_9855.webp"
-    },
-    {
-      "id": 9854,
-      "titel": "Knoppen die wachten op regen",
-      "beschrijving": "Een kale boom met donkere, slanke takken staat centraal tegen een vaag, lichtgrijze achtergrond. De takken vertakken zich in onregelmatige patronen, met kleine, donkere knoppen verspreid over de lengte. Het hout van de stam heeft een bruine, iets glanzende textuur, met subtiele overgangen naar donkerder en lichtere tinten. Rond de boom zweven vaag zichtbare vormen die op bladeren of vruchten lijken, in bruine en geelbruine tinten. De ondergrond bestaat uit een mengsel van donkerbruine, groene en gele kleuren, met watervlekken en onduidelijke structuren die een vochtige, bijna verwaarloosde sfeer uitstralen. De compositie is verticaal gericht, met de boom die de volledige hoogte van het beeld inneemt, terwijl de achtergrond en ondergrond zich uitstrekken in zachte, onscherpe vlakken.",
-      "cyclus": 9791,
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele inconsistenties in takstructuren (sommige takken verdwijnen plotseling)', 'lichte wazigheid in achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op stilte en leegte zonder typische ansichtkaart-elementen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009791_9854.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 9836,
-    "gemaakt": 9898,
-    "gekozen": 1509,
+    "cycli": 9842,
+    "gemaakt": 9904,
+    "gekozen": 1511,
     "afgekeurd": 1338,
     "corpus": 62,
     "notities": 416
