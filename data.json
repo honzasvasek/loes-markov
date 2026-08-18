@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T13:30+02:00",
+  "bijgewerkt": "2026-08-18T13:45+02:00",
   "werk": [
+    {
+      "id": 10101,
+      "titel": "Tak doorsnijdt golven",
+      "beschrijving": "Een tak met groene en bruine tinten ligt diagonaal over een blauwe, golvende vorm die water suggereert, omringd door een zandkleurig gebied met donkere vlekken en stippen. Het geheel is ingekaderd door een roze rand met een donkergrijze schaduwlagen eromheen. De tak vertakt zich in meerdere punten, met scherpe, langwerpige uiteinden die groen gekleurd zijn. Het zand heeft een textuur met kleine onregelmatigheden en een paar grotere, donkere cirkels. De blauwe vorm heeft zachte, vloeiende randen en lijkt de tak te omhullen. De compositie is asymmetrisch, met de tak als centraal element dat de beeldvlak doorsnijdt. De kleuren zijn helder en contrasterend, met de roze rand die het beeld afschermt tegen een witte achtergrond.",
+      "cyclus": 10038,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van zand (beneden links vs boven rechts)', 'lichte halo rond rand van blauwe vorm']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongemakkelijk en niet-bevestigend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010038_10101.webp"
+    },
+    {
+      "id": 10097,
+      "titel": "Vloeistof tussen de vezels",
+      "beschrijving": "Gefranste papierlagen in roze, grijs, wit en donkerblauw vormen diagonale banen met onregelmatige randen. Het donkerblauwe vlak toont een glanzende, vloeistofachtige textuur met witte spetters en een vaag patroon van watervlekken. Witte en grijze papierranden hebben een ruwe, vezelige structuur, terwijl het roze en grijze papier glad en mat zijn. De lagen liggen schuin over elkaar, met de donkerblauwe laag centraal en de witte en grijze lagen die eromheen lopen. Kleuren en texturen contrasteren scherp, zonder duidelijke afbeelding of vorm.",
+      "cyclus": 10034,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met focus op textuur en laagstructuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010034_10097.webp"
+    },
     {
       "id": 10089,
       "titel": "Vogels zonder bestemming",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009996_10059.webp"
-    },
-    {
-      "id": 10051,
-      "titel": "Regendruppels op vergeten bladeren",
-      "beschrijving": "Groene, licht geelbruine bladeren met regen druppels hangen aan bruine takken tegen een grijze achtergrond. Een ronde, getextureerde steen met donkere en lichte vlekken bevindt zich centraal, omringd door de bladeren. Kleine groene vruchten en dunne regenstrepen zijn zichtbaar. De compositie is verticaal, met de takken die diagonaal door het beeld lopen. De sfeer is nat en rustig, met subtiele kleurvariaties in de bladeren en de steen.",
-      "cyclus": 9988,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in bladaders bij dichterbij kijken', 'lichte wazigheid in regenstrepen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en de leegte actief.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009988_10051.webp"
-    },
-    {
-      "id": 10049,
-      "titel": "Regen achter het papier",
-      "beschrijving": "Een onregelmatig gescheurd gat in wit papier onthult een onscherp beeld van regen die verticaal valt tegen een donkergroene achtergrond met vaag groen en geel. De randen van het gat zijn fronselig en ongelijkmatig, met kleine vezeltjes die uitsteken. Het papier om het gat heen is glad en wit, met een lichte schaduw onder het gat die diepte suggereert. De regen druppels zijn dunne, verticale lijnen die door het gat lopen, terwijl de achtergrond een zachte, onscherpe textuur heeft met ronde, vaag omlijnde vormen in groen en geel.",
-      "cyclus": 9986,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op leegte en afwezigheid, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009986_10049.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10038,
-    "gemaakt": 10101,
-    "gekozen": 1549,
+    "cycli": 10046,
+    "gemaakt": 10108,
+    "gekozen": 1551,
     "afgekeurd": 1355,
-    "corpus": 65,
+    "corpus": 66,
     "notities": 424
   }
 }
