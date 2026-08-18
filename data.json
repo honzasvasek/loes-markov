@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-18T13:00+02:00",
+  "bijgewerkt": "2026-08-18T13:15+02:00",
   "werk": [
     {
       "id": 10084,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 10091,
+      "cyclus": 10028,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte onnauwkeurigheid in perspectief van de molens wieken",
+      "cliche_notities": "Molen in landschap met decoratieve roze wolk en groene bladeren past bij toeristische ansichtkaartstijl zonder duidelijke compositorische keuze",
+      "bestand": "images/a010028_10091.webp"
+    },
+    {
+      "id": 10088,
+      "cyclus": 10025,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele inconsistenties in textuur van golven en rotsen', 'enkele onduidelijke overgangen tussen licht en donker in de achtergrond']",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen bij het water, met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke of compositorische keuze.",
+      "bestand": "images/a010025_10088.webp"
+    },
+    {
       "id": 10076,
       "cyclus": 10013,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met deuren in een onduidelijke ruimte.",
       "bestand": "images/a010013_10076.webp"
-    },
-    {
-      "id": 10057,
-      "cyclus": 9994,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op textuur en spanning.",
-      "bestand": "images/a009994_10057.webp"
-    },
-    {
-      "id": 10053,
-      "cyclus": 9990,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, bijna industriële compositie met een steen als centraal motief.",
-      "bestand": "images/a009990_10053.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 10022,
-    "gemaakt": 10084,
+    "cycli": 10030,
+    "gemaakt": 10093,
     "gekozen": 1547,
-    "afgekeurd": 1352,
+    "afgekeurd": 1354,
     "corpus": 65,
     "notities": 424
   }
