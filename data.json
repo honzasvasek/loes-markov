@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T17:45+02:00",
+  "bijgewerkt": "2026-08-18T18:00+02:00",
   "werk": [
+    {
+      "id": 10224,
+      "titel": "Wit poeder, donkere lijn",
+      "beschrijving": "Een hand met gespreide vingers houdt een cilindervormig voorwerp vast, bedekt met een wit poederspoor en kleine putjes. Een donkere, zigzagvormige lijn loopt van bovenaf naar het voorwerp. De huid toont subtiele roodbruine tinten en fijne lijntjes, met een zachte overgang naar een vaag, witachtig ondergrondse achtergrond. De pols vloeit over in een onscherpe, penseelstrekenachtige textuur.",
+      "cyclus": 10161,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in vingers (te lang/ondoorzichtig)', 'onduidelijke overgang hand-pols (smeuiig)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte spanning tussen hand en voorwerp, zonder toeristische associatie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010161_10224.webp"
+    },
+    {
+      "id": 10216,
+      "titel": "Handen die wachten op een aanraking",
+      "beschrijving": "Twee handen met lichtgrijze nagels rusten op een ruwe, grijze rots met een onregelmatige textuur. De vingers zijn gespreid en de palm van de onderste hand drukt zachtjes tegen het steenoppervlak, terwijl de bovenste hand erboven zweeft, alsof ze net gaat aanraken. Op de rots bevinden zich enkele glanzende, zilverkleurige druppels die lijken op smeltend metaal of een viskeus materiaal. Links van de rots staan slanke, donkere grassprietjes die scherp afsteken tegen de egale, lichte achtergrond. De compositie is minimalistisch, met veel lege ruimte rondom het centrale motief, wat de focus legt op de interactie tussen handen en steen. De sfeer is statisch en contemplatief, met een subtiele spanning tussen aanraking en afstand.",
+      "cyclus": 10153,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, niet-verhalende interactie tussen handen en steen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010153_10216.webp"
+    },
     {
       "id": 10214,
       "titel": "Vingers die bijna raken",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010115_10178.webp"
-    },
-    {
-      "id": 10174,
-      "titel": "Regen die vragen stelt",
-      "beschrijving": "Donkere, textuurrijke achtergrond met subtiele bruine en grijze tinten. Verticale, witte lijnen dalen als regen naar beneden, waarbij één brede straal het middelpunt vormt. Onderin bevindt zich een donker, onregelmatig oppervlak met concentrische cirkels die uitgaan van het raakpunt van de witte straal. Kleine, witte vlekken en korte strepen verspreiden zich door de cirkels. Rechtsboven ligt een donkere, onduidelijke vorm die lijkt op een rots of stuk hout. De randen van het beeld zijn licht onregelmatig en verbleekt.",
-      "cyclus": 10111,
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele halo rond de witte lijnen tegen de donkere achtergrond', 'lichte vervorming in de concentrische cirkels aan de rand']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010111_10174.webp"
-    },
-    {
-      "id": 10171,
-      "titel": "Wit vuur op zand",
-      "beschrijving": "Het landschap wordt gedomineerd door donkere, verbrande blokken die willekeurig verspreid liggen over een zandige ondergrond. De blokken hebben een onregelmatige vorm, met scherp aflopende randen en gebarsten oppervlakken die witte en grijze sporen onthullen. Tussen de blokken door liggen kleine stenen, droge grassprietjes en donkere, ronde voorwerpen die lijken op verbrande zaden of noten. De achtergrond toont een smalle strook lichtgekleurd zand, daarachter een dichte rij donkergroene bomen die de horizon vormen onder een egale, witte hemel. De textuur van de verbrande blokken is ruw en korrelig, met sporen van as en verkoolde vezels die nog zichtbaar zijn.",
-      "cyclus": 10108,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, onbeheerste textuur zonder duidelijke compositorische keuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010108_10171.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10226,
+      "cyclus": 10163,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een neutrale, bijna onpersoonlijke compositie zonder duidelijke thematische keuze.",
+      "bestand": "images/a010163_10226.webp"
+    },
     {
       "id": 10095,
       "cyclus": 10032,
@@ -150,15 +159,6 @@
       "tech_notities": "geen zichtbare generatie-artefacten; lichte onnauwkeurigheid in perspectief van de molens wieken",
       "cliche_notities": "Molen in landschap met decoratieve roze wolk en groene bladeren past bij toeristische ansichtkaartstijl zonder duidelijke compositorische keuze",
       "bestand": "images/a010028_10091.webp"
-    },
-    {
-      "id": 10088,
-      "cyclus": 10025,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele inconsistenties in textuur van golven en rotsen', 'enkele onduidelijke overgangen tussen licht en donker in de achtergrond']",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen bij het water, met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke of compositorische keuze.",
-      "bestand": "images/a010025_10088.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 10162,
-    "gemaakt": 10224,
-    "gekozen": 1569,
-    "afgekeurd": 1355,
+    "cycli": 10168,
+    "gemaakt": 10230,
+    "gekozen": 1571,
+    "afgekeurd": 1356,
     "corpus": 66,
     "notities": 424
   }
