@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-18T09:45+02:00",
+  "bijgewerkt": "2026-08-18T10:00+02:00",
   "werk": [
+    {
+      "id": 10000,
+      "titel": "Verf die zich herinnert",
+      "beschrijving": "Twee verticale banen verf domineren het beeld, gescheiden door een smalle, onregelmatige witte spleet. De linkerbaan is dieper roze met subtiele textuurvariaties, de rechterbaan lichter en zachter, bijna perzikkleurig. Beide banen tonen sporen van penseelstreken, parallel aan elkaar gelopen, met lichte onregelmatigheden aan de randen waar de verf dunner is aangebracht. Onderaan loopt een ongelijkmatige lijn waar de verf lijkt te zijn afgetrokken of onvolledig is gedroogd, met kleine brokjes en losse draden verf die de textuur verstoren. De achtergrond is zichtbaar aan de randen, lichtgrijs en textuurloos, wat het contrast met de verf versterkt.",
+      "cyclus": 9937,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte textuur zonder duidelijke compositiekeuze.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009937_10000.webp"
+    },
+    {
+      "id": 9993,
+      "titel": "Door het papier groeit het leven",
+      "beschrijving": "Een bundel donkergroene en bruine grassprietten steekt door een gescheurd wit vel papier, met daartussen vier opengaande gele bloemen en een gouden tarweaar. Achter de plant loopt een oranje achtergrond met witte, golvende lijnen en twee zachte witte wolken. De scheur in het papier loopt onregelmatig, met franje aan de randen, en onthult de plant alsof deze door het papier groeit. De tarweaar staat centraal bovenin, met de grassprietten die in verschillende hoeken omhoog steken. De bloemen zijn verspreid: één rechtsboven, twee middenrechts en één linkermidden. De achtergrond heeft een effen oranje tint, zonder verdere details.",
+      "cyclus": 9930,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of bevestigend, maar toont een ongebruikelijke mix van elementen met een sterke focus op textuur en ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009930_9993.webp"
+    },
+    {
+      "id": 9990,
+      "titel": "Gras dat de wind onthoudt",
+      "beschrijving": "Zandduinen in zachte, golvende vormen vullen het beeld, met een warme oranjeachtige hemel erboven die overgaat in lichte wolken. In het midden staan drie hoge, slanke grassprietjes met pluizige, beige aren die zachtjes in de wind lijken te bewegen. Rondom groeien kortere, groenige grasbundels uit het zand, met enkele losse stengels die over de duin lopen. De schaduwen van het gras vallen scherp en donkerbruin op het zand, terwijl kleine details zoals zandkorrels en subtiele textuurverschillen de scène een realistische diepte geven. De compositie straalt een rustige, verlaten sfeer uit, met de lege ruimte van de duinen die de aandacht trekt.",
+      "cyclus": 9927,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaart-materiaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009927_9990.webp"
+    },
     {
       "id": 9982,
       "titel": "Paarse daken in het zand",
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009897_9960.webp"
-    },
-    {
-      "id": 9959,
-      "titel": "Wie tekende deze handen?",
-      "beschrijving": "Twee handen, getekend in zand, liggen naast elkaar met de palmen naar boven. De vingers zijn gespreid en de duimen raken elkaar in het midden, waardoor een subtiele symmetrie ontstaat. Het zand is fijn en gelijkmatig, met lichte schaduwen die de contouren van de handen benadrukken. De textuur van het zand is zichtbaar in de details van de vingers en palmen, waar kleine korrels de lijnen volgen. De achtergrond bestaat uit een eenduidige laag zand, zonder afleiding, waardoor de handen centraal staan. De sfeer is rustig en intiem, met een gevoel van stillstand en verbondenheid tussen de twee vormen.",
-      "cyclus": 9896,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in vingers (links 4 vingers, rechts 5), lichte wazigheid in randen van handen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de subtiele onvolkomenheden en de leegte rondom de handen.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009896_9959.webp"
-    },
-    {
-      "id": 9939,
-      "titel": "Rimpels in de gloed",
-      "beschrijving": "Een wateroppervlak met rimpelingen weerspiegelt een oranje-rode gloed, omringd door donkergroene, slanke rietstengels die schuin door het beeld lopen. Waterdruppels hangen aan de rietstengels en drijven op het water, waar ook donkere, ronde vormen drijven die op bladeren of stenen lijken. De achtergrond toont een vaag silhouet van bomen en heuvels tegen een lichtere hemel, met een overgang van oranje naar grijsblauw. De compositie is verticaal, met het water dat een diagonale lijn vormt door het midden, terwijl de rietstengels de randen vullen en de blik naar het midden leiden. De sfeer is rustig en iets melancolisch, met een subtiele spanning tussen de warme reflectie en de koelere, donkere tonen van het water en het riet.",
-      "cyclus": 9876,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflecties van riet op water', 'lichte wazigheid in verre achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap, maar een intieme, ontypische compositie met focus op water en druppels",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009876_9939.webp"
-    },
-    {
-      "id": 9932,
-      "titel": "Rook en riet in beweging",
-      "beschrijving": "Donkere, wazige rookvormen stijgen op uit een veld droog, bruin gras. De rook is donkergrijs met zwarte tinten, vormt onregelmatige, kronkelende patronen en vloeit over in een lichte, vaag getekende achtergrond. Het gras is lang, slank en in verschillende bruine tinten, met enkele lichtere, bijna beige stengels die door de donkerdere laag steken. Enkele rietstengels steken scherp en recht omhoog, met kleine, bruine, cilindrische bloemhoofdjes aan de top. Witte spetters en vage vlekken zijn verspreid over het gras en de rook. De compositie is verticaal, met de rook die de bovenste helft domineert en het gras de onderste helft vult. De sfeer is rustig en iets mysterieus door de contrasten tussen donker en licht, en de ongestoorde, natuurlijke elementen.",
-      "cyclus": 9869,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, suggestieve compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009869_9932.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 9934,
-    "gemaakt": 9996,
-    "gekozen": 1526,
+    "cycli": 9940,
+    "gemaakt": 10003,
+    "gekozen": 1529,
     "afgekeurd": 1347,
     "corpus": 63,
     "notities": 422
