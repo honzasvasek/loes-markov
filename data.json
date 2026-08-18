@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T14:00+02:00",
+  "bijgewerkt": "2026-08-18T14:15+02:00",
   "werk": [
+    {
+      "id": 10118,
+      "titel": "Waar het licht de scheur inloopt",
+      "beschrijving": "Een gebroken keramisch vat met een gladde, crèmekleurige oppervlakte domineert het beeld, de breuk loopt in een onregelmatige, golvende lijn van de rand naar beneden, waar het materiaal scherp afstaat tegen de zachte, matte achtergrond. De binnenkant van het vat is lichter, bijna wit, met subtiele reflecties van licht die de holte benadrukken. De rand van de breuk is donkerder, met een blauwgrijze tint die de diepte van de scheur accentueert. Het vat staat op een effen, lichtgrijze ondergrond, met een zachte schaduw die de basis omhult. De textuur van het keramiek is zichtbaar met fijne, onregelmatige strepen en lichte oneffenheden, terwijl de breuk zelf een glanzende, bijna natte uitstraling heeft. De compositie is eenvoudig, met het vat schuin in beeld, waardoor de breuk de blik direct trekt. De sfeer is rustig en contemplatief, met een focus op de fragiliteit en de stilte van het moment na de breuk.",
+      "cyclus": 10055,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in de rand van de scheur: de overgang van wit naar blauw is iets te scherp en kunstmatig', 'lichte wazigheid in de schaduw onder de vaas, alsof de textuur niet volledig doorlost is']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een eigen, stilistische keuze in de scheur en de kleurovergangen.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010055_10118.webp"
+    },
+    {
+      "id": 10114,
+      "titel": "Waar groeit de stilte?",
+      "beschrijving": "Een onscherp silhouet van een menselijk figuur staat centraal, met een boomstam die door het lichaam loopt en uit de borst omhoog groeit in takken met puntige uiteinden. De achtergrond is een effen, lichtgrijze vlakte met aan de linkerkant een donkerdere, vage vorm die lijkt op een rots of een vage boom. De figuren en de boom zijn getekend in donkere, watervaste tinten, met een korrelige textuur die aan een oude foto of een potloodtekening doet denken. De compositie is verticaal en symmetrisch, met de boomstam als as. De sfeer is statisch en iets onrustigs zit in de puntige takken die naar buiten wijzen.",
+      "cyclus": 10051,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte onscherpte in de handen en voeten van het figuur', 'Subtiele inconsistentie in de takstructuur van de plant (enkele takken lijken zonder logische overgang te verdwijnen)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke, niet-decoratieve compositie met ruimte voor interpretatie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010051_10114.webp"
+    },
     {
       "id": 10101,
       "titel": "Tak doorsnijdt golven",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010009_10072.webp"
-    },
-    {
-      "id": 10066,
-      "titel": "Gele vlekken in de mist",
-      "beschrijving": "Een hoge boom met donkere stam en uitgespreide takken domineert de linkerhelft, met bladeren die overgaan in lichte, vaag getekende takken. Rechtsboven zweven enkele kleine gele vlekken tussen het loof. Op de achtergrond, iets rechts van het midden, staan twee huisjes met schuine daken op een zacht hellend landschap, omringd door dunne bomen en struikgewas. De achtergrond vervaagt in een grijze, mistige horizon met vaag omschreven heuvels. Onder de boom, in het voorplan, liggen verspreide bladeren en kleine donkere vormen op de grond, met subtiele witte en donkere vlekken die een textuur suggereren. De algehele kleurstelling is gedempt, met grijstinten, donkergroene en bruine nuances, en de gele vlekken als enige kleuraccenten. De compositie is verticaal opgebouwd, met de boom als centrale as die het beeld in twee delen deelt.",
-      "cyclus": 10003,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte onduidelijkheid in de achtergrondtextuur, maar geen duidelijke gebreken",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaartachtig",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010003_10066.webp"
-    },
-    {
-      "id": 10059,
-      "titel": "Regendruppels die vragen stellen",
-      "beschrijving": "Een donkere boomstam loopt aan de linkerkant omhoog, met takken die groene en gele bladeren dragen. Regen druppelt van de bladeren naar beneden, zichtbaar als grijze druppels tegen een witte achtergrond. Onder de boom strekt een grijze, getekende heuvel zich uit met zwarte strepen die gras of gewassen suggereren. Ver weg staat een donker huis met een schuin dak, omgeven door bomen en struiken. De compositie is verticaal, met de boom aan de linkerkant en het huis aan de horizon rechtsboven.",
-      "cyclus": 9996,
-      "tech_score": 8.0,
-      "tech_notities": "kleine witte vlekken in de boomstam en ongelijkmatige randen bij sommige bladeren",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, minimalistische stijl zonder typisch toeristische motieven of decoratief perfect licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009996_10059.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10054,
-    "gemaakt": 10116,
-    "gekozen": 1551,
+    "cycli": 10061,
+    "gemaakt": 10123,
+    "gekozen": 1553,
     "afgekeurd": 1355,
     "corpus": 66,
     "notities": 424
