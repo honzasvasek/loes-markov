@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-18T18:00+02:00",
+  "bijgewerkt": "2026-08-18T18:15+02:00",
   "werk": [
     {
       "id": 10224,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 10231,
+      "cyclus": 10168,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een compositie met abstracte tekst en deuren zonder duidelijke symboliek.",
+      "bestand": "images/a010168_10231.webp"
+    },
+    {
       "id": 10226,
       "cyclus": 10163,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['lichte vervorming in de windmolen (bladen niet symmetrisch)', 'wazige achtergrond bij de horizon']",
       "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, grasland) met een decoratief roze wolkenmotief, zonder een duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a010032_10095.webp"
-    },
-    {
-      "id": 10091,
-      "cyclus": 10028,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte onnauwkeurigheid in perspectief van de molens wieken",
-      "cliche_notities": "Molen in landschap met decoratieve roze wolk en groene bladeren past bij toeristische ansichtkaartstijl zonder duidelijke compositorische keuze",
-      "bestand": "images/a010028_10091.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 10168,
-    "gemaakt": 10230,
+    "cycli": 10174,
+    "gemaakt": 10236,
     "gekozen": 1571,
-    "afgekeurd": 1356,
+    "afgekeurd": 1357,
     "corpus": 66,
     "notities": 424
   }
