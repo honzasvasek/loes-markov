@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-18T08:00+02:00",
+  "bijgewerkt": "2026-08-18T08:15+02:00",
   "werk": [
     {
       "id": 9939,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 9947,
+      "cyclus": 9884,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in bladstructuren', 'lichte wazigheid in achtergrondtextuur']",
+      "cliche_notities": "Rosé rozen met dauwdruppels op een neutrale achtergrond is een klassiek, iconisch onderwerp zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009884_9947.webp"
+    },
+    {
       "id": 9944,
       "cyclus": 9881,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen) en de decoratieve compositie zonder duidelijke persoonlijke keuze.",
       "bestand": "images/a009878_9941.webp"
-    },
-    {
-      "id": 9937,
-      "cyclus": 9874,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Molen op een heuvel met pad en water is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009874_9937.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9882,
-    "gemaakt": 9944,
+    "cycli": 9889,
+    "gemaakt": 9952,
     "gekozen": 1518,
-    "afgekeurd": 1345,
+    "afgekeurd": 1346,
     "corpus": 63,
     "notities": 417
   }
