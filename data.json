@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T08:30+02:00",
+  "bijgewerkt": "2026-08-18T08:45+02:00",
   "werk": [
+    {
+      "id": 9960,
+      "titel": "Wat kruipt er door de spleet?",
+      "beschrijving": "Een lichtgekleurde houten deur staat op een kier, met een donkere metalen kruk die de opening vasthoudt. Onder de deur loopt een donkere, kronkelende spleet over de vloer, waar een geelachtige, amorf vorm uit komt. De vloer is van licht hout met zichtbare korrels en kleine vlekken. Aan de linkerkant bevindt zich een raam met een witte lijst, waar zacht daglicht door valt en een schuine schaduw werpt op de muur en de deur. De muren zijn bekleed met verticale houten lamellen in verschillende bruine tinten, met donkere verflagen bij de plinten. De hoek van de kamer is scherp getekend, met een donkere, bijna zwarte vlek op de muur naast het raam. De sfeer is rustig en wat verlaten, met een subtiele spanning door de open deur en de onverklaarde vorm op de vloer.",
+      "cyclus": 9897,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op een intieme, onopgesmukte ruimte zonder toeristische uitstraling.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009897_9960.webp"
+    },
+    {
+      "id": 9959,
+      "titel": "Wie tekende deze handen?",
+      "beschrijving": "Twee handen, getekend in zand, liggen naast elkaar met de palmen naar boven. De vingers zijn gespreid en de duimen raken elkaar in het midden, waardoor een subtiele symmetrie ontstaat. Het zand is fijn en gelijkmatig, met lichte schaduwen die de contouren van de handen benadrukken. De textuur van het zand is zichtbaar in de details van de vingers en palmen, waar kleine korrels de lijnen volgen. De achtergrond bestaat uit een eenduidige laag zand, zonder afleiding, waardoor de handen centraal staan. De sfeer is rustig en intiem, met een gevoel van stillstand en verbondenheid tussen de twee vormen.",
+      "cyclus": 9896,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in vingers (links 4 vingers, rechts 5), lichte wazigheid in randen van handen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de subtiele onvolkomenheden en de leegte rondom de handen.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009896_9959.webp"
+    },
     {
       "id": 9939,
       "titel": "Rimpels in de gloed",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009839_9902.webp"
-    },
-    {
-      "id": 9899,
-      "titel": "Goud in de grijsheid",
-      "beschrijving": "Een scheurvormige opening onthult een landschap met een grijze horizon, golvende donkergrijze vormen en subtiele goud- en paarsachtige tinten in de achtergrond. Witte en lichtgrijze penseelstreken vormen een onregelmatige rand rond de opening, terwijl donkere, korrelige vlekken en een slanke, kronkelende lijn van zwarte stippen en strepen diagonaal door het witte vlak lopen. De compositie combineert ruwe textuur met gladde vlakken, waarbij de leegte buiten de scheur de ruimte domineert.",
-      "cyclus": 9836,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009836_9899.webp"
-    },
-    {
-      "id": 9886,
-      "titel": "Waar de regen stenen telt",
-      "beschrijving": "Een donkere, natte weg loopt dwars door het beeld, geflankeerd door twee parallelle lijnen van ronde stenen in wit, grijs en diepblauw. Sommige stenen hebben reliëfpatronen, andere zijn glad of bedekt met mosachtige textuur. Regen drupt zichtbaar naar beneden, met glinsterende spetters die de stenen en de weg raken. Witte, sterachtige flitsen verspreiden zich over het tafereel, vooral bij de stenen aan weerskanten. Donker gras en naalden liggen verspreid langs de randen, terwijl de weg zelf sporen van banden en modder toont. De kleuren zijn gedempt, met uitzondering van de levendige blauwe stenen en de scherpe witte flitsen die een contrast vormen met de natte, donkere omgeving.",
-      "cyclus": 9823,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna onrustige compositie met een onbeheerste dradenstructuur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009823_9886.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9962,
+      "cyclus": 9899,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in perspectief van huizen op horizon', 'lichte wazigheid in details van bomen rechts']",
+      "cliche_notities": "Landschap met typisch Nederlandse elementen (weide, boerderijen, bomen) in een klassieke compositie zonder duidelijke persoonlijke interpretatie.",
+      "bestand": "images/a009899_9962.webp"
+    },
     {
       "id": 9947,
       "cyclus": 9884,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch landschap met zonsondergang over water en een dakrand, met decoratief licht en geen duidelijke compositorische keuze beyond het klassieke ansichtkaartmotief.",
       "bestand": "images/a009881_9944.webp"
-    },
-    {
-      "id": 9941,
-      "cyclus": 9878,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen) en de decoratieve compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a009878_9941.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontluiping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
     "aanleiding": "De laatste onderzoeken draaiden om ontbinding en afwezigheid, maar er blijft een spoor van iets dat zich net begint aan te tonen—niet als vorm of kleur, maar als een onstuitbare, onzichtbare groei die de ruimte om zich heen subtiel vervormt.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 9889
   },
   "afgesloten": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 9901,
+      "soort": "twijfel",
+      "tekst": "De recente beelden draaien om een onzichtbare groei die de ruimte vervormt, maar de groei zelf wordt niet meer zichtbaar—de sporen ervan zijn geen vorm of kleur meer, maar een druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
+    },
+    {
       "cyclus": 9889,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontwapening als spoor van verlies naar ontwapening als onzichtbare druk die de ruimte actief vervormt, zonder een verhaal of gevoel te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 9769,
       "soort": "observatie",
       "tekst": "De druppels in c9769 en c9763 zijn geen sporen van regen of dauw meer, maar beelden van een ontwapening die zich oplost in de ruimte—de glanzende, donkere vormen hangen niet meer aan takken of muren, maar drijven als onzichtbare druk door de grijze leegte, zonder een verhaal of een doel."
-    },
-    {
-      "cyclus": 9613,
-      "soort": "observatie",
-      "tekst": "De scharen en messen in de afgelopen beelden zijn geen gereedschappen meer die iets moeten doen, maar beelden van ontwapening die zich oplossen in de ruimte—de metalen bladen en houten handvatten zijn geen sporen van actie, maar stilstand die de leegte om hen heen vormt zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9896,
-    "gemaakt": 9958,
-    "gekozen": 1518,
-    "afgekeurd": 1346,
+    "cycli": 9904,
+    "gemaakt": 9966,
+    "gekozen": 1520,
+    "afgekeurd": 1347,
     "corpus": 63,
-    "notities": 420
+    "notities": 421
   }
 }
