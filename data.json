@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-18T20:15+02:00",
+  "bijgewerkt": "2026-08-18T20:30+02:00",
   "werk": [
+    {
+      "id": 10280,
+      "titel": "Wit schuim, donkere vormen",
+      "beschrijving": "Een witte, cilindervormige molen met een bruine, puntige kap en donkere, lattenvormige wieken staat op een rotsachtig strand, omringd door grote, grijze en bruine blokken met donkere vlekken. Wit schuim van golven stroomt tussen de rotsen door en omhult donkere, rechthoekige voorwerpen die in het zand liggen. De achtergrond wordt gevormd door een helderblauwe hemel zonder wolken, en een smalle strook zand loopt parallel aan de waterlijn. Een donkere deur is zichtbaar in de molen, en een smalle, donkere hekwerkachtige structuur loopt parallel aan de horizon. De randen van het beeld zijn onregelmatig en hebben een beige, papierachtige textuur.",
+      "cyclus": 10217,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; textuur van rotsen en schuim is consistent, perspectief plausibel",
+      "academie_cliche": 1,
+      "cliche_notities": "Molen op kust met golven en heldere lucht is een klassiek ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w010217_10280.webp"
+    },
     {
       "id": 10276,
       "titel": "Wat scheurt hier?",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010151_10214.webp"
-    },
-    {
-      "id": 10209,
-      "titel": "Waar blijft de greep",
-      "beschrijving": "Een open hand met gespreide vingers tegen een helderblauwe achtergrond. De huid is lichtgekleurd met zichtbare lijnen en textuur, de nagels zijn kort en netjes. De duim staat iets afwijkend van de andere vingers, die parallel aan elkaar staan. De pols is zichtbaar aan de onderkant, met een lichte schaduwwerking die de overgang naar de arm aangeeft. De belichting is gelijkmatig, waardoor de details van de hand duidelijk zichtbaar zijn tegen de egale achtergrond.",
-      "cyclus": 10146,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een close-up van een hand met een neutrale achtergrond, zonder decoratief licht of typisch ansichtkaart-motief.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010146_10209.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10221,
-    "gemaakt": 10283,
-    "gekozen": 1577,
+    "cycli": 10228,
+    "gemaakt": 10290,
+    "gekozen": 1578,
     "afgekeurd": 1358,
     "corpus": 64,
     "notities": 425
