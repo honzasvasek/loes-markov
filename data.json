@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T20:45+02:00",
+  "bijgewerkt": "2026-08-18T21:00+02:00",
   "werk": [
+    {
+      "id": 10294,
+      "titel": "Aders in een regenboog",
+      "beschrijving": "Zachte, vloeiende vormen stralen uit van een smalle, verticale as in het midden, waarbij rood, oranje en geel overgaan in paars en blauw. De kleuren zijn doorschijnend en overlappen elkaar, met subtiele overgangen die een gevoel van beweging suggereren. Donkere, bijna zwarte lijnen lopen als aders door de vormen, terwijl lichtere gebieden het papier laten doorgluren. De textuur is korrelig en ongelijkmatig, met plekken waar de kleur intenser is en andere waar hij vervagen is tot een vaag netwerk van tinten. De compositie is asymmetrisch, met een zwaartepunt dat schuin door het midden loopt, waardoor de ogen door het beeld glijden zonder een vast punt te vinden.",
+      "cyclus": 10231,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010231_10294.webp"
+    },
+    {
+      "id": 10291,
+      "titel": "Waar blijft de grond",
+      "beschrijving": "Een glas met een scherpe, diagonale barst loopt van de rand tot halverwege. Binnenin het glas stroomt een blauwe, kronkelende vorm die aan water doet denken, omgeven door groene en gele vlekken die gras en zand suggereren. De rand van het glas heeft een groene glans, terwijl de binnenkant roze en witte tinten vertoont. De achtergrond is egaal blauw, met een donkere schaduw onder het glas die diepte suggereert. De barst heeft een onregelmatige vorm met kleine takjes die zich vertakken.",
+      "cyclus": 10228,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongewone combinatie van een gebroken glas met een landschap erin.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010228_10291.webp"
+    },
     {
       "id": 10280,
       "titel": "Wit schuim, donkere vormen",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010161_10224.webp"
-    },
-    {
-      "id": 10216,
-      "titel": "Handen die wachten op een aanraking",
-      "beschrijving": "Twee handen met lichtgrijze nagels rusten op een ruwe, grijze rots met een onregelmatige textuur. De vingers zijn gespreid en de palm van de onderste hand drukt zachtjes tegen het steenoppervlak, terwijl de bovenste hand erboven zweeft, alsof ze net gaat aanraken. Op de rots bevinden zich enkele glanzende, zilverkleurige druppels die lijken op smeltend metaal of een viskeus materiaal. Links van de rots staan slanke, donkere grassprietjes die scherp afsteken tegen de egale, lichte achtergrond. De compositie is minimalistisch, met veel lege ruimte rondom het centrale motief, wat de focus legt op de interactie tussen handen en steen. De sfeer is statisch en contemplatief, met een subtiele spanning tussen aanraking en afstand.",
-      "cyclus": 10153,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, niet-verhalende interactie tussen handen en steen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010153_10216.webp"
-    },
-    {
-      "id": 10214,
-      "titel": "Vingers die bijna raken",
-      "beschrijving": "Twee handen rusten op een effen, lichtgrijze ondergrond, waarbij de bovenste hand zich naast een bundel bevroren gras bevindt. Het gras is donkergrijs met witte, ijzige kristallen aan de randen van de bladeren, die scherp en spits toelopen. De vingers van de bovenste hand zijn gespreid en raken bijna het gras, terwijl de onderste hand iets lager en meer ontspannen ligt. Beide handen werpen een zachte schaduw naar linksbeneinden, en de huidtextuur is gedetailleerd zichtbaar, met subtiele rimpeltjes en aderen. De nagels zijn kort en ongelijkvormig, met een natuurlijke, matte glans. De achtergrond is volledig vrij van afleiding, waardoor de handen en het gras centraal staan in een minimalistische compositie.",
-      "cyclus": 10151,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010151_10214.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10235,
-    "gemaakt": 10298,
-    "gekozen": 1578,
+    "cycli": 10243,
+    "gemaakt": 10305,
+    "gekozen": 1580,
     "afgekeurd": 1358,
     "corpus": 64,
     "notities": 425
