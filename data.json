@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-18T17:00+02:00",
+  "bijgewerkt": "2026-08-18T17:15+02:00",
   "werk": [
+    {
+      "id": 10204,
+      "titel": "Wit dat blijft hangen",
+      "beschrijving": "Een hand met gespreide vingers, de huid bleek met zichtbare aderen en fijne lijntjes. De nagels zijn kort en ongelijkmatig, de vingertoppen licht blauwig. De wijsvinger heeft een witte, korrelige substantie aan de top, met zwarte vlekken eromheen. De achtergrond is een egale, lichte kleur, zonder afleiding. De hand is scherp gefotografeerd, met details tot op de huidtextuur.",
+      "cyclus": 10141,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een ongemakkelijke, intieme uitstraling.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010141_10204.webp"
+    },
+    {
+      "id": 10202,
+      "titel": "Hand die takken vasthoudt",
+      "beschrijving": "Donkere takken met kleine knoppen liggen verspreid over een lichtblauwe achtergrond, waarbij een schaduw van een hand met gespreide vingers zich onder de takken bevindt. Een druppel donkere vloeistof hangt aan één tak, terwijl andere takken kleine donkere knoppen of knobbels vertonen. De takken snijden schuin door het beeld, met de schaduw van de hand eronder die de vingers wijd uitspreidt. De achtergrond is egaal en licht, met een subtiele overgang van blauw naar wit.",
+      "cyclus": 10139,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de schaduw van de hand (vingers lopen iets te vloeiend over in de achtergrond)",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een intieme, niet-obvieuze compositie met takken en een handshadow die ruimte laat voor interpretatie zonder een vooraf bepaald verhaal.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010139_10202.webp"
+    },
+    {
+      "id": 10198,
+      "titel": "Papier met geheime randen",
+      "beschrijving": "Een verticaal rechthoekig vel papier met een onregelmatige, gescheurde rand domineert het midden van het beeld. Het papier heeft een crèmekleurige tint met subtiele textuurvariaties en een lichte verloop van lichtgrijs aan de bovenkant naar beige beneden. Aan weerszijden van het papier, iets onder de helft van de hoogte, bevinden zich twee rode, blokvormige objecten met een matte afwerking en lichte slijtage aan de randen. De achtergrond bestaat uit een blauwe, waterverfachtige textuur met donkerblauwe vlekken en lichte schakeringen, wat een ongelijkmatige, organische sfeer creëert. De compositie is symmetrisch opgebouwd, met het papier als centraal element en de rode blokken die een visuele balans vormen. De sfeer is rustig en minimalistisch, met een focus op textuur en kleurcontrasten.",
+      "cyclus": 10135,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010135_10198.webp"
+    },
     {
       "id": 10185,
       "titel": "Bladeren die liegen over de wind",
@@ -91,45 +130,6 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w010092_10155.webp"
-    },
-    {
-      "id": 10139,
-      "titel": "Rook die vragen stelt",
-      "beschrijving": "Witte, slingerende rookstroken stijgen op vanuit donkerblauwe, spitse bladeren die zich uitstrekken tegen een achtergrond die overgaat van grijs naar roodachtig. Drie kleine, witte vogelvormen vliegen door de rook, die zich in zachte, golvenachtige lijnen ontwindt. De bladeren hebben een gladde, bijna glanzende textuur en vormen een ster-achtige compositie aan de onderkant. De rook wordt dunner naarmate hij hoger komt en vermengt zich met de textuurrijke achtergrond.",
-      "cyclus": 10076,
-      "tech_score": 8.0,
-      "tech_notities": "[\"subtiele halo's rond de witte rookstrepen tegen de donkere achtergrond\", 'lichte inconsistentie in de textuur van de blauwe bladeren (soms scherp, soms wazig)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010076_10139.webp"
-    },
-    {
-      "id": 10134,
-      "titel": "Rook dat zich ontbindt in stilte",
-      "beschrijving": "Witte, rokerige vormen kronkelen door een donkere, getextureerde achtergrond, met subtiele rode tinten aan de linkerkant die langzaam overgaan in het grijs. De rookvormen hebben een vloeibare, bijna organische structuur, met dunne, slanke lijnen die overgaan in bredere, zachte golven. De achtergrond toont fijne, verticale strepen en onregelmatige vlekken, wat een gevoel van verweering geeft. De compositie is verticaal georiënteerd, met de rook die vanaf de onderkant omhoog stijgt en zich uitstrekt naar de bovenrand, waarbij de vormen zich steeds meer ontbinden in lichte, doorschijnende sluieren. De sfeer is stil en mysterieus, met een contrast tussen de dynamische beweging van de rook en de statische, donkere achtergrond.",
-      "cyclus": 10071,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische compositie met ruimte voor interpretatie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010071_10134.webp"
-    },
-    {
-      "id": 10130,
-      "titel": "Rook die de regels doorbreekt",
-      "beschrijving": "Donkere, textuurrijke vlakken vullen het beeld, met zichtbare penseelstreken die horizontale en verticale patronen vormen. Een witte, rookachtige vorm kronkelt door het onderste deel, met zachte, vloeiende lijnen die zich uitstrekken naar het midden. Kleine, glanzende druppels en onregelmatige randen aan de zijkanten breken de donkere massa op. Een subtiele roodachtige tint is zichtbaar in de linkeronderhoek, terwijl de achtergrond een ruwe, grijze textuur heeft die de donkere vlakken omlijst. De compositie voelt dynamisch door de contrasten tussen de starre penseelstreken en de beweeglijke rookvorm.",
-      "cyclus": 10067,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten, maar lichte inconsistentie in textuur van de rook (soms te scherp, soms te wazig)",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010067_10130.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10140,
-    "gemaakt": 10202,
-    "gekozen": 1564,
+    "cycli": 10147,
+    "gemaakt": 10209,
+    "gekozen": 1567,
     "afgekeurd": 1355,
     "corpus": 66,
     "notities": 424
