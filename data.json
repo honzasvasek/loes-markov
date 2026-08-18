@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-19T00:00+02:00",
+  "bijgewerkt": "2026-08-19T00:15+02:00",
   "werk": [
+    {
+      "id": 10394,
+      "titel": "Rook die zich onthult in lagen",
+      "beschrijving": "Een donkere, ovale vorm vult het midden, met daarin een witte, rookachtige spiraal die zich naar boven ontwind in soepele, vloeiende lijnen. De achtergrond van de ovale vorm is getextureerd, met subtiele schakeringen van grijs en zwart die een korrelig effect geven. Rond de ovale vorm loopt een lichte, onregelmatige rand die het geheel omhult. De witte spiraal heeft een glanzende, bijna doorzichtige kwaliteit en lijkt zich in verschillende lagen te verstrengelen, met dunne, wazige uitlopers die zich naar buiten uitstrekken. De compositie is centraal gericht, met de spiraal als enig focuspunt tegen de donkere, rustige achtergrond.",
+      "cyclus": 10331,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een abstracte, contemplatieve kwaliteit zonder iconische onderwerpen of decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010331_10394.webp"
+    },
     {
       "id": 10384,
       "titel": "Blauw over het raster",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010264_10327.webp"
-    },
-    {
-      "id": 10316,
-      "titel": "Barst in het moment",
-      "beschrijving": "Een doorschijnend glas met een scherpe, verticale barst loopt van de rand tot net boven de bodem. Het glas staat op een roze oppervlak, met kleine, donkerrode en oranje vlekken verspreid rondom. Achter het glas bevindt zich een vaag omlijnd huis met een schuin dak in roodbruine en blauwe tinten, tegen een lichtblauwe achtergrond. Het glas reflecteert zacht licht, met subtiele paarse en groene nuances in de wanden. Een donkere schaduw valt rechts onder het glas, terwijl de barst een onregelmatige, zigzagvorm heeft met kleine, losse fragmenten die nog net verbonden lijken.",
-      "cyclus": 10253,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflecties op het glas', 'lichte vervorming aan de rand van het dak']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stillleven met een ongemakkelijke spanning",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010253_10316.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10328,
-    "gemaakt": 10390,
-    "gekozen": 1593,
+    "cycli": 10335,
+    "gemaakt": 10397,
+    "gekozen": 1594,
     "afgekeurd": 1360,
     "corpus": 66,
     "notities": 430
