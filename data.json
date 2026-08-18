@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-18T05:00+02:00",
+  "bijgewerkt": "2026-08-18T05:15+02:00",
   "werk": [
+    {
+      "id": 9868,
+      "titel": "Regen die blijft hangen",
+      "beschrijving": "Grijze regen valt in dunne, verticale lijnen tegen een effen achtergrond, terwijl onderaan een tak met donkergroene bladeren en kleine, glanzende bessen uitsteekt. Enkele bladeren hebben een gele tint, en waterdruppels kleven aan de plant en de regen. De regen vult het grootste deel van het beeld, met de plant slechts in de hoek, wat een gevoel van eenzaamheid en stilte uitstraalt. De kleuren zijn gedempt, met uitzondering van de subtiele gele en donkerblauwe accenten op de plant.",
+      "cyclus": 9805,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009805_9868.webp"
+    },
+    {
+      "id": 9865,
+      "titel": "Open deuren, gesloten vragen",
+      "beschrijving": "Twee deuren staan wijd open, hun panelen in zachte blauwe en crèmekleurige tinten, met donkere lijnen die de randen en scharnieren omlijnen. De linkerdeur onthult een donkerblauwe ruimte met een schuine lijn, terwijl de rechterdeur een lichtere, bijna beige binnenkant laat zien met een geometrisch patroon van donkere lijnen. Tussen de deuren loopt een smalle, verticale strook van lichtblauw, met subtiele textuurverschillen die diepte suggereren. De verf is dik aangebracht, met zichtbare penseelstreken die een ruwe, bijna tastbare textuur geven. De compositie is symmetrisch, maar de asymmetrische details—zoals de schuine lijnen en de verschillende blauwe nuances—breken de balans en trekken het oog door het beeld.",
+      "cyclus": 9802,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren', 'lichte wazigheid in de textuur van het middenpaneel']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009802_9865.webp"
+    },
+    {
+      "id": 9862,
+      "titel": "Blauw dat stroomt langs de tak",
+      "beschrijving": "Een zachte, blauwe vorm stroomt van boven naar beneden, met subtiele overgangen naar lichtere tinten en een dunne, donkere tak die schuin door het rechterdeel loopt. De achtergrond is een effen, crèmekleurig vlak met lichte textuur, waarbij de blauwe vorm een vloeiende, bijna vage rand heeft die overgaat in het omringende kleurveld. Kleine, vaag omlijnde blauwe vormen zweven rond de tak, die een dunne, donkerbruine lijn vormt met enkele aftakkingen. De compositie is asymmetrisch, met de blauwe vorm die de linkerhelft domineert en de tak die de rechterbovenhoek doorloopt, waardoor een gevoel van beweging en ruimte ontstaat.",
+      "cyclus": 9799,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009799_9862.webp"
+    },
     {
       "id": 9856,
       "titel": "Oranje stilte met donkere aders",
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009769_9832.webp"
-    },
-    {
-      "id": 9830,
-      "titel": "Roze stilte achter de poort",
-      "beschrijving": "Een open poort van donker metaal omlijst een roze horizon, geflankeerd door grijze betonnen muren. Donkere silhouetten van grassen en struiken steken boven de muren uit, terwijl dichterbij smalle, donkere grassprietjes uit de grond komen. De grond voor de poort is een gladde, lichtgrijze vlakte met subtiele schaduwen die van de poort uitstralen. De achtergrond is een egaal roze, met zachte overgangen naar lichtere tinten bij de horizon. De poort zelf heeft een rechthoekige vorm met schone lijnen en een donkere, bijna zwarte omlijsting die contrasteert met de lichtere omgeving.",
-      "cyclus": 9767,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of bevestigend; de deur en de leegte erachter vragen om interpretatie zonder een voor de hand liggend verhaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009767_9830.webp"
-    },
-    {
-      "id": 9825,
-      "titel": "De druppel die blijft hangen",
-      "beschrijving": "Een roze deur met een donkere kozijn en een zwarte deurkruk bevindt zich centraal, omringd door een lichtroze muur met subtiele textuur. Onder de deur loopt een donkergrijze lijst, waaruit een glanzende, zwarte, druppelvormige massa naar beneden stroomt en in een spitse punt eindigt tegen een effen grijze achtergrond. Rechtsboven de deur zitten twee kleine, ronde details: een gele en een grijze stip. De verfstralen zijn zichtbaar en geven een schilderachtige, bijna tactiele indruk van de oppervlakken.",
-      "cyclus": 9762,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, schuine compositie met een actieve leegte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009762_9825.webp"
-    },
-    {
-      "id": 9810,
-      "titel": "Geen deur gaat dicht",
-      "beschrijving": "Een lichtgele deur met een gouden klink staat halfopen in een blauwe kozijn, tegen een crèmekleurige muur. Achter de deur verschijnt een donkerblauwe deur met gelijke panelen, licht geopend, waardoor een donkere ruimte zichtbaar is. De vloer is grijs met verspreide gele en groene vlekken en een donkere cirkel. Een rode plint loopt langs de muur onder het kozijn. Het licht valt schuin op de deuren, waardoor schaduwen de diepte benadrukken.",
-      "cyclus": 9747,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De deur is een alledaags onderwerp, maar de compositie en kleurkeuze (grijsblauw en crèmekleurig) geven het een neutrale, niet-toeristische uitstraling.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009747_9810.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9805,
-    "gemaakt": 9868,
-    "gekozen": 1502,
+    "cycli": 9813,
+    "gemaakt": 9875,
+    "gekozen": 1505,
     "afgekeurd": 1335,
-    "corpus": 62,
+    "corpus": 63,
     "notities": 416
   }
 }
