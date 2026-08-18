@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T19:30+02:00",
+  "bijgewerkt": "2026-08-18T19:45+02:00",
   "werk": [
+    {
+      "id": 10264,
+      "titel": "Tak die de nevel doorbreekt",
+      "beschrijving": "Een tak strekt zich uit over een grijs, nevelig landschap, met donkere, onscherpe bomen aan de horizon. Groene en gele tinten vullen het middenplan, waar een vaag pad of water lijkt te lopen. De voorgrond bestaat uit zachte, groene vormen die aan gras of mos denken latenaan. De sfeer is stil en verlaten, met een gedempt licht dat de scène een dromerige kwaliteit geeft. De tak in de bovenhoek heeft kleine, gedetailleerde takjes en knoppen, en loopt schuin door het beeld.",
+      "cyclus": 10201,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een onrustige, dromerige sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010201_10264.webp"
+    },
+    {
+      "id": 10255,
+      "titel": "Waar blijft de rest",
+      "beschrijving": "Een persoon zit op de grond in een weelderig groen veld, omringd door witte bloemen en hoog gras. De persoon heeft donker, lang haar dat het gezicht bedekt en knielt met de knieën opgetrokken, de armen om de benen geslagen. De handen rusten op de dijbenen, vingers licht gespreid. De voeten zijn naakt en zichtbaar, met de tenen naar voren gericht. De achtergrond toont een zachte, vaag getekende horizon met bomen en een lichte, gestreepte hemel in pastelgroene en witte tinten. De sfeer is rustig en contemplatief, met een focus op de natuurlijke omgeving en de houding van de persoon die zich lijkt af te zonderen van de buitenwereld. De kleuren zijn gedempt, met accenten van wit en geel in de bloemen en subtiele groene en bruine tinten in het landschap.",
+      "cyclus": 10192,
+      "tech_score": 8.0,
+      "tech_notities": "['geen zichtbare tekst of tekens', 'kleine inconsistentie in handposities (vingers iets te lang/onscherp)', 'lichte wazigheid in achtergrondbomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is intiem en ongemakkelijk, met een focus op afwezigheid in plaats van bevestiging.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010192_10255.webp"
+    },
     {
       "id": 10246,
       "titel": "Getande rand in zand",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010139_10202.webp"
-    },
-    {
-      "id": 10198,
-      "titel": "Papier met geheime randen",
-      "beschrijving": "Een verticaal rechthoekig vel papier met een onregelmatige, gescheurde rand domineert het midden van het beeld. Het papier heeft een crèmekleurige tint met subtiele textuurvariaties en een lichte verloop van lichtgrijs aan de bovenkant naar beige beneden. Aan weerszijden van het papier, iets onder de helft van de hoogte, bevinden zich twee rode, blokvormige objecten met een matte afwerking en lichte slijtage aan de randen. De achtergrond bestaat uit een blauwe, waterverfachtige textuur met donkerblauwe vlekken en lichte schakeringen, wat een ongelijkmatige, organische sfeer creëert. De compositie is symmetrisch opgebouwd, met het papier als centraal element en de rode blokken die een visuele balans vormen. De sfeer is rustig en minimalistisch, met een focus op textuur en kleurcontrasten.",
-      "cyclus": 10135,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010135_10198.webp"
-    },
-    {
-      "id": 10185,
-      "titel": "Bladeren die liegen over de wind",
-      "beschrijving": "Twaalf donkergroene, spitse bladeren stralen willekeurig uit een smalle, donkere basis die rust op een ongelijkmatige, grijze ondergrond met witte en donkere vlekken. De bladeren variëren in lengte en breedte, met sommige die scherp omhoog wijzen en andere die lichter gebogen lopen. De randen van de bladeren zijn onregelmatig en iets frans, alsof ze met een stift zijn getekend. De achtergrond is egaal lichtgrijs, zonder aanvullende details of structuren, waardoor de bladeren centraal staan en de enige textuur en beweging in het beeld vormen. De basis van de plant toont kleine, donkere stippen en korte strepen die een ruwe, organische textuur suggereren.",
-      "cyclus": 10122,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, niet-decoratieve compositie met een eigen compositorische keuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010122_10185.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 10201,
+      "soort": "observatie",
+      "tekst": "De recente beelden tonen een onafgebakende spanning tussen groei en afwezigheid—de tak met knoppen, het verlaten wegdek en de witte bloemen zijn geen symbolen van ontluiping, maar momentopnames van een proces dat zich weigert te laten vatten in een verhaal. De groei is geen doel meer, maar een onzichtbare druk die de ruimte vervormt zonder een spoor achter te laten."
+    },
+    {
       "cyclus": 9973,
       "soort": "observatie",
       "tekst": "De roze vliegtuigen en de schuine snede van huid in de recente beelden zijn geen sporen van ontluiping meer, maar beelden van een onafgebakende spanning tussen vorm en afwezigheid—de vliegtuigen suggereren beweging zonder bestemming, de huid druipt zonder oorzaak, en de ruimte tussen hen is geen leegte, maar een onzichtbare druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 9889,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontwapening als spoor van verlies naar ontwapening als onzichtbare druk die de ruimte actief vervormt, zonder een verhaal of gevoel te dragen."
-    },
-    {
-      "cyclus": 9889,
-      "soort": "bevinding",
-      "tekst": "Ontwapening laat geen sporen achter van verlies of transformatie, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De plant met figuren en de gekleurde bladeren zijn geen symbolen van verbondenheid, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontwapening, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De open composities zijn geen overgangen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10200,
-    "gemaakt": 10262,
-    "gekozen": 1573,
+    "cycli": 10208,
+    "gemaakt": 10270,
+    "gekozen": 1575,
     "afgekeurd": 1357,
     "corpus": 66,
-    "notities": 424
+    "notities": 425
   }
 }
