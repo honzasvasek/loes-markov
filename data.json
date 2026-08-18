@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T02:00+02:00",
+  "bijgewerkt": "2026-08-18T02:15+02:00",
   "werk": [
+    {
+      "id": 9784,
+      "titel": "Tranen van glas en waterverf",
+      "beschrijving": "Een gezicht in close-up, geschilderd in waterverfachtige tinten van blauw, groen en roze, met een lichte, doorschijnende textuur. Twee ogen kijken rechtuit: het linkerogee is blauw met een donkere pupil, het rechterogee oranje-bruin met een glimmende, bijna vloeibare uitstraling. Vanaf het rechterogee lopen drie oranje tranen naar beneden, scherp en helder tegen de zachte achtergrond. De neus is zacht getekend met schaduwen in blauw en grijs, de mond licht geopend met donkerroze lippen die een glans reflecteren. Wimpers en wenkbrauwen zijn donker en fijn getekend, met een wat onrustige, natuurlijke vorm. De huid is een mix van vaag overlopende kleuren, met hier en daar kleine, onregelmatige vlekken van groen en blauw. De achtergrond is een diffuus patroon van lichte, wazige vormen, zonder duidelijke structuur.",
+      "cyclus": 9721,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in pupillen (links rond, rechts iets ovale)', 'lichte halo rond neus en mond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de asymmetrie en ongemakkelijke kleuren geven een persoonlijk standpunt",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009721_9784.webp"
+    },
+    {
+      "id": 9775,
+      "titel": "Knoppen die wachten op regen",
+      "beschrijving": "Zwart-wit takken vullen het beeld, scherp getekend tegen een egale, witte achtergrond. De takken vertakken zich in complexe, bijna chaotische patronen, met kleine, donkere knoppen verspreid over de lengte. Sommige takken zijn dikker en donkerder, andere dunner en lichter, wat een gevoel van diepte creëert. Fijne, haardunne lijnen stralen uit van de takken, alsof ze een onzichtbare kracht dragen. De compositie is verticaal gericht, met de takken die vanaf de onderkant naar boven lopen en zich uitstrekken tot aan de rand van het beeld. De sfeer is stil en verlaten, met een onderliggende spanning in de scherpe, uitgestrekte vormen.",
+      "cyclus": 9712,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een complexe, niet-decoratieve compositie met een eigen standpunt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009712_9775.webp"
+    },
     {
       "id": 9769,
       "titel": "Wat blijft hangen van een oog",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009674_9737.webp"
-    },
-    {
-      "id": 9732,
-      "titel": "Stippen die weglopen",
-      "beschrijving": "Een gebogen, grijze spoor loopt diagonaal door een crèmekleurig vlak, omgeven door donkerpaarse en zwarte stippen van verschillende grootte. Langs het spoor bevinden zich onregelmatige, waterverfachtige vlekken in paars, roze, rood en blauw, met scherpe en zachte randen. Kleine rode en oranje stippen zijn verspreid rond de kleurrijke vlekken. De achtergrond blijft egaal en ongestoord, waardoor de kleuren en vormen scherp afsteken. De compositie straalt een gevoel van beweging uit, alsof de elementen net over het vlak zijn gegleden en zich langzaam ontbinden in de ruimte.",
-      "cyclus": 9669,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009669_9732.webp"
-    },
-    {
-      "id": 9727,
-      "titel": "Prikkeling zonder geluid",
-      "beschrijving": "Een donkere, onregelmatige rots vormt de linkerhoek, met scherpe randen en verspreide, fijne prikkels die als dode takken of gedroogd gras uitsteken. Rechtsboven steekt een slanke, donkere stengel met een pluim van fijne, sprieterige bloemen uit een onzichtbaar oppervlak, waar concentrische cirkels een lichte beweging suggereren. Onderaan het beeld drijft een kleinere, donkere klomp, omringd door bredere, zachtere cirkels die zich uitstrekken over een glad, lichtgrijs vlak. De achtergrond is een ongelijkmatig, vaag patroon van donkere en lichte vlekken, alsof rook of mist de ruimte vult zonder een duidelijke vorm aan te nemen. De kleuren zijn beperkt tot donkerbruin, zwart en beige, met subtiele overgangen die een gevoel van stilte en afwezigheid creëren.",
-      "cyclus": 9664,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009664_9727.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9786,
+      "cyclus": 9723,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming handen/voeten bij sommige figuren', 'onduidelijke overgang tussen water en oever']",
+      "cliche_notities": "Beeld straalt een typisch ansichtkaart-gevoel uit met een groep kinderen op een idyllische wandelroute door een groen landschap, zonder duidelijke compositorische of thematische verrassing.",
+      "bestand": "images/a009723_9786.webp"
+    },
     {
       "id": 9751,
       "cyclus": 9688,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettervormen en spaties', 'wazige randen rond tekst']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onontcijferbare tekstcompositie zonder toeristische connotatie.",
       "bestand": "images/a009677_9740.webp"
-    },
-    {
-      "id": 9734,
-      "cyclus": 9671,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische zonsondergang boven de oceaan, een typisch ansichtkaartmotief zonder duidelijke compositorische of thematische afwijking.",
-      "bestand": "images/a009671_9734.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9719,
-    "gemaakt": 9781,
-    "gekozen": 1489,
-    "afgekeurd": 1329,
-    "corpus": 62,
+    "cycli": 9726,
+    "gemaakt": 9789,
+    "gekozen": 1491,
+    "afgekeurd": 1330,
+    "corpus": 63,
     "notities": 415
   }
 }
