@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T13:15+02:00",
+  "bijgewerkt": "2026-08-18T13:30+02:00",
   "werk": [
+    {
+      "id": 10089,
+      "titel": "Vogels zonder bestemming",
+      "beschrijving": "Twee donkerrode vogels zweven door een roze-grijze lucht, hun silhouetten scherp tegen de zachte, met brede penseelstreken geschilderde achtergrond. Boven hen zweeft een roze, amorf vorm dat aan een zeil of een blad doet denken, omringd door donkerblauwe en bruine vlakken die vaag structuren suggereren. Onderin domineert een heuvel van roomwit en beige, met donkerblauwe en zwarte schaduwen die een onduidelijk voorwerp of figuur omlijnen. De compositie is asymmetrisch, met de vogels als dynamische punten die de blik door het beeld leiden, terwijl de achtergrond een mengeling is van onopgeloste vormen en kleuren die een gevoel van beweging en onafwendbaarheid uitstralen. De sfeer is dromerig en iets onrustigs, door de contrasten tussen de heldere vogels en de vaagheid van de omgeving.",
+      "cyclus": 10026,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010026_10089.webp"
+    },
+    {
+      "id": 10085,
+      "titel": "Groene dromen, zwarte sneden",
+      "beschrijving": "Een lichtgrijze achtergrond omhult een roze, amorf vlak met zachte, onregelmatige randen. Daartegenover drijven drie groene, langwerpige vormen die aan bladeren denken doen, schuin geplaatst en met subtiele textuurvariaties. Zwarte, krachtige penseelstrepen snijden door het roze, met een ruwe, bijna schetsachtige uitstraling. De compositie voelt asymmetrisch en dynamisch, met ruimte die de vormen vrij laat zweven. Kleuren en vormen stralen een rustige, maar levendige sfeer uit, zonder duidelijke focus of richting.",
+      "cyclus": 10022,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte onregelmatigheid in penseelstreken, maar dat past bij de stijl",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met persoonlijke stijlkeuzes",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010022_10085.webp"
+    },
     {
       "id": 10084,
       "titel": "Vlekken die blijven hangen",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009986_10049.webp"
-    },
-    {
-      "id": 10048,
-      "titel": "Regendruppels scheuren papier",
-      "beschrijving": "Regendruppels vallen in dunne, verticale lijnen door een scene met scheurende papierlagen en groene bladeren. Een donkere boomstam loopt schuin van linksboven naar het midden, met takken die zich uitstrekken naar de rechterbovenhoek. Het papier is onregelmatig gescheurd, met scherpe en golvende randen die witte en grijze lagen onthullen. De achtergrond bestaat uit een vaag, getextureerd oppervlak met subtiele grijstinten en een lichtgele vlek in het midden. Regen is zichtbaar als fijne, doorschijnende lijnen die door het hele beeld lopen, met enkele donkere, verticale strepen die als spijkers of pinnen door het papier lijken te steken. Bladeren aan de randen zijn groen met donkere aderen, en enkele takken hebben kleine, ronde vruchten of knoppen. De compositie voelt fragmentarisch, met een mix van natuurlijke en kunstmatige elementen die door de regen verbonden lijken.",
-      "cyclus": 9985,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in regenval (sommige druppels te recht/statisch), lichte wazigheid in achtergrondtextuur",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009985_10048.webp"
-    },
-    {
-      "id": 10044,
-      "titel": "Handen die een plant vastgrijpen",
-      "beschrijving": "Een donkerblauwe, naakte figuur knielt op een lichtblauwe ondergrond, met de rug naar de kijker en het hoofd iets gebogen. De armen strekken zich uit naar een dunne, donkerblauwe plant met ronde bladeren die uit de linkeronderhoek grows. Achter de figuur bevindt zich een lichtere, bijna witte ruimte met onregelmatige, schuine penseelstreken, waarin vaag goudkleurige vlekken zichtbaar zijn. Boven de figuur loopt een donkerblauwe horizonlijn met gestileerde, donkerblauwe vormen die aan bomen of struiken doen denken. De achtergrond bestaat uit verschillende blauwe tinten met zichtbare, krachtige penseelstreken, wat een textuur geeft aan het geheel. De compositie is verticaal opgebouwd, met de figuur centraal maar iets naar rechts geplaatst, waardoor de plant en de lege ruimte aan de linkerzijde aandacht trekken.",
-      "cyclus": 9981,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, contemplatieve compositie met ruimte voor interpretatie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009981_10044.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10095,
+      "cyclus": 10032,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in de windmolen (bladen niet symmetrisch)', 'wazige achtergrond bij de horizon']",
+      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, grasland) met een decoratief roze wolkenmotief, zonder een duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a010032_10095.webp"
+    },
     {
       "id": 10091,
       "cyclus": 10028,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistenties in textuur van golven en rotsen', 'enkele onduidelijke overgangen tussen licht en donker in de achtergrond']",
       "cliche_notities": "Het beeld toont een iconische Nederlandse molen bij het water, met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke of compositorische keuze.",
       "bestand": "images/a010025_10088.webp"
-    },
-    {
-      "id": 10076,
-      "cyclus": 10013,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met deuren in een onduidelijke ruimte.",
-      "bestand": "images/a010013_10076.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 10030,
-    "gemaakt": 10093,
-    "gekozen": 1547,
-    "afgekeurd": 1354,
+    "cycli": 10038,
+    "gemaakt": 10101,
+    "gekozen": 1549,
+    "afgekeurd": 1355,
     "corpus": 65,
     "notities": 424
   }
