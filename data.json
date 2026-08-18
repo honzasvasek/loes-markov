@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T12:30+02:00",
+  "bijgewerkt": "2026-08-18T12:45+02:00",
   "werk": [
+    {
+      "id": 10072,
+      "titel": "Gele druppels, roodbruine stilte",
+      "beschrijving": "Een boom met donkerbruine stam en takken domineert de rechterkant, met bladeren die als donkerbruine vlekken door de bovenste hoek lopen. Drie gele druppels vallen in een verticale lijn van de takken naar beneden, boven een groen veld met donkergroene bomen en heuvels in de verte. Een brede, roodbruine vorm, vaag en onscherp, vult het midden van het beeld, met aan weerskanten groene grassprietjes en kleine rode stippen. De voorgrond bestaat uit een lichtbeige ondergrond met donkerbruine strepen en vlekken, alsof er iets zachts en korrelsigs doorheen loopt. De achtergrond is een vaag, grijzig landschap met zachte overgangen tussen de heuvels en de lucht.",
+      "cyclus": 10009,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, niet-iconische compositie met een focus op leegte en ontbinding, geen typische ansichtkaartmotieven.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010009_10072.webp"
+    },
+    {
+      "id": 10066,
+      "titel": "Gele vlekken in de mist",
+      "beschrijving": "Een hoge boom met donkere stam en uitgespreide takken domineert de linkerhelft, met bladeren die overgaan in lichte, vaag getekende takken. Rechtsboven zweven enkele kleine gele vlekken tussen het loof. Op de achtergrond, iets rechts van het midden, staan twee huisjes met schuine daken op een zacht hellend landschap, omringd door dunne bomen en struikgewas. De achtergrond vervaagt in een grijze, mistige horizon met vaag omschreven heuvels. Onder de boom, in het voorplan, liggen verspreide bladeren en kleine donkere vormen op de grond, met subtiele witte en donkere vlekken die een textuur suggereren. De algehele kleurstelling is gedempt, met grijstinten, donkergroene en bruine nuances, en de gele vlekken als enige kleuraccenten. De compositie is verticaal opgebouwd, met de boom als centrale as die het beeld in twee delen deelt.",
+      "cyclus": 10003,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte onduidelijkheid in de achtergrondtextuur, maar geen duidelijke gebreken",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaartachtig",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010003_10066.webp"
+    },
     {
       "id": 10059,
       "titel": "Regendruppels die vragen stellen",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009966_10029.webp"
-    },
-    {
-      "id": 10024,
-      "titel": "Tanden in spiegelbeeld",
-      "beschrijving": "Twee gezichten staan met hun profielen naar elkaar gericht, bijna raakend. De neuzen en monden vormen een spiegelbeeld, met geopende monden die witte tanden onthullen. Rode lippen en zachte roze wangen contrasteren met de lichte huidtint. Donkere wimpers en bruine wenkbrauwen omlijsten de ogen, die halfgesloten zijn. Een subtiele schaduw loopt langs de kin en hals, terwijl de achtergrond wit en onbedrukt blijft. Kleuren zijn gedempt, met accenten van rood en bruin in de details. De compositie is symmetrisch en intiem, met focus op de gezichtsuitdrukkingen en de ruimte tussen de gezichten.",
-      "cyclus": 9961,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de overgang tussen de huid en de achtergrond aan de linker- en rechterkant, lichte wazigheid in de wimpers",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een intieme, persoonlijke sfeer zonder typisch iconisch of decoratief karakter",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009961_10024.webp"
-    },
-    {
-      "id": 10017,
-      "titel": "Twee tongen in een blauwe mond",
-      "beschrijving": "Een wijd open mond met een scherp getande rand, waarbij de boven- en onderkaak een donkere, bijna leegteachtige ruimte onthullen. Twee lange, roze tongen strekken zich uit vanuit het midden, gescheiden door een smalle, donkere spleet. De tanden zijn wit en glanzend, met subtiele schaduwen die de textuur benadrukken. De lippen zijn dun en lichtroze, met een lichte glans die vochtigheid suggereert. De huid rond de mond is blauwgrijs getint, met zachte overgangen en een korrelige textuur die aan een oude foto doet denken. De achtergrond is onscherp, waardoor de mond centraal staat als enig zichtbaar element.",
-      "cyclus": 9954,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een ongemakkelijke, intieme close-up zonder decoratief licht of ansichtkaart-compositie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009954_10017.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10076,
+      "cyclus": 10013,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met deuren in een onduidelijke ruimte.",
+      "bestand": "images/a010013_10076.webp"
+    },
     {
       "id": 10057,
       "cyclus": 9994,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, bijna industriële compositie met een steen als centraal motief.",
       "bestand": "images/a009990_10053.webp"
-    },
-    {
-      "id": 10050,
-      "cyclus": 9987,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'onmogelijke geometrie']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een chaotische, abstracte compositie zonder duidelijke intentie.",
-      "bestand": "images/a009987_10050.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontluiping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
     "aanleiding": "De laatste onderzoeken draaiden om ontbinding en afwezigheid, maar er blijft een spoor van iets dat zich net begint aan te tonen—niet als vorm of kleur, maar als een onstuitbare, onzichtbare groei die de ruimte om zich heen subtiel vervormt.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 9889
   },
   "afgesloten": [
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 10008,
-    "gemaakt": 10071,
-    "gekozen": 1542,
-    "afgekeurd": 1351,
+    "cycli": 10015,
+    "gemaakt": 10077,
+    "gekozen": 1544,
+    "afgekeurd": 1352,
     "corpus": 66,
     "notities": 424
   }
