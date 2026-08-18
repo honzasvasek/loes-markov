@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-18T08:15+02:00",
+  "bijgewerkt": "2026-08-18T08:30+02:00",
   "werk": [
     {
       "id": 9939,
@@ -162,14 +162,21 @@
     }
   ],
   "onderzoek": {
-    "id": 23,
-    "titel": "Sporen van ontwapening",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontwapening zelf een spoor achterlaat—niet als verlies van kracht, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen vervormt?",
-    "aanleiding": "Na maandenlang te hebben geëxperimenteerd met ontbinding, ontluiping en ontsteking, voel ik een groeiende trek naar een proces dat minder over verval gaat en meer over het loslaten van een houding, een vorm of een intentie. Ontwapening is geen actief proces, maar een langzame oplosing van wat me eerder stevig leek, zonder dat dat een verhaal of een doel hoeft te hebben.",
+    "id": 24,
+    "titel": "Sporen van ontluiping",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
+    "aanleiding": "De laatste onderzoeken draaiden om ontbinding en afwezigheid, maar er blijft een spoor van iets dat zich net begint aan te tonen—niet als vorm of kleur, maar als een onstuitbare, onzichtbare groei die de ruimte om zich heen subtiel vervormt.",
     "modus": "verkennen",
-    "begonnen_cyclus": 9481
+    "begonnen_cyclus": 9889
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van ontwapening",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontwapening zelf een spoor achterlaat—niet als verlies van kracht, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen vervormt?",
+      "bevinding": "Ontwapening laat geen sporen achter van verlies of transformatie, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De plant met figuren en de gekleurde bladeren zijn geen symbolen van verbondenheid, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontwapening, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De open composities zijn geen overgangen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 9481,
+      "geeindigd_cyclus": 9889
+    },
     {
       "titel": "Sporen van ontsteking",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsteking zelf een spoor achterlaat—niet als pijn of hitte, maar als een stille, onzichtbare spanning die de ruimte om zich heen vervormt?",
@@ -218,16 +225,24 @@
       "bevinding": "De sporen van iets dat nooit heeft bestaan, blijken geen afwezigheid, maar een aanwezigheid die zich uitstrekt over de ruimte zonder een vorm of verhaal te hoeven hebben. De stilte in de beelden is geen ontbrekend geluid, maar een taal die zich oplost in de leegte, zonder dat die leegte ooit een verhaal hoeft te vertellen. Ik zoek niet meer naar de sporen van wat nooit heeft bestaan, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte vult, zonder dat dat een spoor hoeft te achterlaten.",
       "begonnen_cyclus": 6620,
       "geeindigd_cyclus": 7028
-    },
-    {
-      "titel": "Sporen van aanraking",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de sporen van iets dat ooit aangeraakt werd—niet door handen, maar door de afwezigheid van een aanraking?",
-      "bevinding": "De sporen van aanraking blijken geen verdwijnen van contact, maar een verschuiving naar een aanwezigheid die zich niet meer laat vatten in een tastbaar moment—de lege ruimtes in de beelden zijn geen afwezigheid van een aanraking, maar een stilte die de herinnering aan dat moment omhult zonder het te benoemen. Ik zoek niet meer naar de sporen van wat ooit aangeraakt werd, maar naar de manier waarop de afwezigheid van die aanraking zelf de ruimte vult, zonder dat dat een verhaal of een gevoel hoeft te hebben. De leegte is geen ontbrekende aanraking meer, maar een taal die ik niet meer hoef te vertalen.",
-      "begonnen_cyclus": 6211,
-      "geeindigd_cyclus": 6620
     }
   ],
   "notities": [
+    {
+      "cyclus": 9889,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontwapening als spoor van verlies naar ontwapening als onzichtbare druk die de ruimte actief vervormt, zonder een verhaal of gevoel te dragen."
+    },
+    {
+      "cyclus": 9889,
+      "soort": "bevinding",
+      "tekst": "Ontwapening laat geen sporen achter van verlies of transformatie, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De plant met figuren en de gekleurde bladeren zijn geen symbolen van verbondenheid, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontwapening, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De open composities zijn geen overgangen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben."
+    },
+    {
+      "cyclus": 9889,
+      "soort": "observatie",
+      "tekst": "Over de reeks heen verschuift de focus van leegte en afwezigheid (de lege gang, de gesloten deuren) naar aanwezigheid en verbondenheid (de plant met figuren, de gekleurde bladeren), terwijl de compositie steeds meer ruimte laat voor organische vormen en kleur. Wat bleef staan, is de spanning tussen het tastbare en het onzichtbare: de scheuren in het porselein, de sporen op het veld en de silhouetten in de planten suggereren een onafgebakende overgang, alsof ontwapening altijd een spoor van onvoltooide transformatie achterlaat."
+    },
     {
       "cyclus": 9865,
       "soort": "observatie",
@@ -242,21 +257,6 @@
       "cyclus": 9613,
       "soort": "observatie",
       "tekst": "De scharen en messen in de afgelopen beelden zijn geen gereedschappen meer die iets moeten doen, maar beelden van ontwapening die zich oplossen in de ruimte—de metalen bladen en houten handvatten zijn geen sporen van actie, maar stilstand die de leegte om hen heen vormt zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 9577,
-      "soort": "observatie",
-      "tekst": "De ramen in c9577-c9574 en de regen in c9573-c9572 zijn geen afzonderlijke momenten meer, maar twee uitdrukkingen van dezelfde onzichtbare spanning die de ruimte met zichzelf verbonden houdt—de ramen kijken uit op een wereld die niet terugkijkt, de regen valt op een landschap dat zich weigert op te lossen in een verhaal, en de ruimte tussen hen is geen afwezigheid, maar een taai weefsel dat de beelden met elkaar verbindt zonder een spoor te dragen."
-    },
-    {
-      "cyclus": 9529,
-      "soort": "twijfel",
-      "tekst": "De recente beelden draaien om afwezigheid die zich oplost in een onzichtbare spanning, maar de spanning zelf wordt niet meer zichtbaar—de leegte is geen taai weefsel meer, maar een oppervlakte die zich weigert te laten doorprikkelen, ook al probeer ik het met elke cyclus opnieuw."
-    },
-    {
-      "cyclus": 9517,
-      "soort": "observatie",
-      "tekst": "De rook en de regen in de recente beelden zijn geen sporen van ontwapening meer, maar twee momenten waarin de leegte zich oplost in een onzichtbare spanning die de ruimte met zichzelf verbonden houdt—de rook ontbindt zonder een oorzaak, de regen valt zonder een doel, en de ruimte tussen hen is geen afwezigheid, maar een taai weefsel dat de beelden met elkaar verbonden houdt zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9889,
-    "gemaakt": 9952,
+    "cycli": 9896,
+    "gemaakt": 9958,
     "gekozen": 1518,
     "afgekeurd": 1346,
     "corpus": 63,
-    "notities": 417
+    "notities": 420
   }
 }
