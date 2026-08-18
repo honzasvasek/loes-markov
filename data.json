@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T19:45+02:00",
+  "bijgewerkt": "2026-08-18T20:00+02:00",
   "werk": [
+    {
+      "id": 10276,
+      "titel": "Wat scheurt hier?",
+      "beschrijving": "Zand met fijne, golvende patronen vult het beeld, onderbroken door donkere, onregelmatige rotsen en kleine keien. Lange, slanke grassprietjes steken hier en daar omhoog, met schaduwen die zich uitstrekken over het zand. Een smalle, witte strook loopt horizontaal door het midden, alsof het zand is gescheurd. Op de achtergrond liggen zandduinen met dichter bij elkaar staand struikgewas en bomen aan de horizon. De kleuren zijn gedempt: beige zand, donkergrijze tot zwarte stenen en groene tot bruine grasspelden tegen een lichte, vaag grijze lucht. De compositie is rustig, met de stenen en gras verspreid over het beeld, terwijl de witte strook een scherpe, onverklaarde scheiding aanbrengt.",
+      "cyclus": 10213,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele onnatuurlijke textuur in zand (te uniform gerimpeld)', 'schaduwen van grassen iets te scherp/glad voor natuurlijke lichtval']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of decoratief licht; de compositie is neutraal en niet typisch 'anschouwelijk'.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010213_10276.webp"
+    },
+    {
+      "id": 10274,
+      "titel": "Zand dat fluistert van wat bleef",
+      "beschrijving": "Een verlaten landschap met zandige grond en verspreide rotsen. Langgerechte grassen en kleine struiken prikken door het zand, met enkele donkere, slanke stengels die omhoog reiken. In de verte loopt een zacht glooiende horizon met donkere bomen en struikgewas. Een smalle, lichte strook loopt horizontaal door het midden, mogelijk een weg of waterloop. De hemel is egaal bewolkt, met subtiele overgangen van lichtgrijs naar wit. De textuur van het zand is fijn en ongelijk, met kleine kever en afvalstukjes verspreid. De compositie is breed en open, met de vegetatie in het voorplan die de blik naar de horizon leidt. De sfeer is stil en verlaten, zonder sporen van leven of beweging.",
+      "cyclus": 10211,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte korreligheid in hemel, minimale detailverlies in verre heuvels']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, compositie is neutraal en niet typisch ansichtkaart-achtig",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010211_10274.webp"
+    },
     {
       "id": 10264,
       "titel": "Tak die de nevel doorbreekt",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010146_10209.webp"
-    },
-    {
-      "id": 10204,
-      "titel": "Wit dat blijft hangen",
-      "beschrijving": "Een hand met gespreide vingers, de huid bleek met zichtbare aderen en fijne lijntjes. De nagels zijn kort en ongelijkmatig, de vingertoppen licht blauwig. De wijsvinger heeft een witte, korrelige substantie aan de top, met zwarte vlekken eromheen. De achtergrond is een egale, lichte kleur, zonder afleiding. De hand is scherp gefotografeerd, met details tot op de huidtextuur.",
-      "cyclus": 10141,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een ongemakkelijke, intieme uitstraling.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010141_10204.webp"
-    },
-    {
-      "id": 10202,
-      "titel": "Hand die takken vasthoudt",
-      "beschrijving": "Donkere takken met kleine knoppen liggen verspreid over een lichtblauwe achtergrond, waarbij een schaduw van een hand met gespreide vingers zich onder de takken bevindt. Een druppel donkere vloeistof hangt aan één tak, terwijl andere takken kleine donkere knoppen of knobbels vertonen. De takken snijden schuin door het beeld, met de schaduw van de hand eronder die de vingers wijd uitspreidt. De achtergrond is egaal en licht, met een subtiele overgang van blauw naar wit.",
-      "cyclus": 10139,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de schaduw van de hand (vingers lopen iets te vloeiend over in de achtergrond)",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een intieme, niet-obvieuze compositie met takken en een handshadow die ruimte laat voor interpretatie zonder een vooraf bepaald verhaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010139_10202.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10273,
+      "cyclus": 10210,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde tekst (onleesbaar/omgekeerd)', 'onrealistische textuur (doos lijkt te glad voor papier)', 'halo-effect bij rand van doos']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en niet typisch 'anschouwtotaal'.",
+      "bestand": "images/a010210_10273.webp"
+    },
     {
       "id": 10231,
       "cyclus": 10168,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een neutrale, bijna onpersoonlijke compositie zonder duidelijke thematische keuze.",
       "bestand": "images/a010163_10226.webp"
-    },
-    {
-      "id": 10095,
-      "cyclus": 10032,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de windmolen (bladen niet symmetrisch)', 'wazige achtergrond bij de horizon']",
-      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, grasland) met een decoratief roze wolkenmotief, zonder een duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a010032_10095.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10208,
-    "gemaakt": 10270,
-    "gekozen": 1575,
-    "afgekeurd": 1357,
-    "corpus": 66,
+    "cycli": 10214,
+    "gemaakt": 10276,
+    "gekozen": 1577,
+    "afgekeurd": 1358,
+    "corpus": 64,
     "notities": 425
   }
 }
