@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-18T11:30+02:00",
+  "bijgewerkt": "2026-08-18T11:45+02:00",
   "werk": [
+    {
+      "id": 10048,
+      "titel": "Regendruppels scheuren papier",
+      "beschrijving": "Regendruppels vallen in dunne, verticale lijnen door een scene met scheurende papierlagen en groene bladeren. Een donkere boomstam loopt schuin van linksboven naar het midden, met takken die zich uitstrekken naar de rechterbovenhoek. Het papier is onregelmatig gescheurd, met scherpe en golvende randen die witte en grijze lagen onthullen. De achtergrond bestaat uit een vaag, getextureerd oppervlak met subtiele grijstinten en een lichtgele vlek in het midden. Regen is zichtbaar als fijne, doorschijnende lijnen die door het hele beeld lopen, met enkele donkere, verticale strepen die als spijkers of pinnen door het papier lijken te steken. Bladeren aan de randen zijn groen met donkere aderen, en enkele takken hebben kleine, ronde vruchten of knoppen. De compositie voelt fragmentarisch, met een mix van natuurlijke en kunstmatige elementen die door de regen verbonden lijken.",
+      "cyclus": 9985,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in regenval (sommige druppels te recht/statisch), lichte wazigheid in achtergrondtextuur",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009985_10048.webp"
+    },
+    {
+      "id": 10044,
+      "titel": "Handen die een plant vastgrijpen",
+      "beschrijving": "Een donkerblauwe, naakte figuur knielt op een lichtblauwe ondergrond, met de rug naar de kijker en het hoofd iets gebogen. De armen strekken zich uit naar een dunne, donkerblauwe plant met ronde bladeren die uit de linkeronderhoek grows. Achter de figuur bevindt zich een lichtere, bijna witte ruimte met onregelmatige, schuine penseelstreken, waarin vaag goudkleurige vlekken zichtbaar zijn. Boven de figuur loopt een donkerblauwe horizonlijn met gestileerde, donkerblauwe vormen die aan bomen of struiken doen denken. De achtergrond bestaat uit verschillende blauwe tinten met zichtbare, krachtige penseelstreken, wat een textuur geeft aan het geheel. De compositie is verticaal opgebouwd, met de figuur centraal maar iets naar rechts geplaatst, waardoor de plant en de lege ruimte aan de linkerzijde aandacht trekken.",
+      "cyclus": 9981,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, contemplatieve compositie met ruimte voor interpretatie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009981_10044.webp"
+    },
+    {
+      "id": 10042,
+      "titel": "Waar blijft de rand?",
+      "beschrijving": "Een diagonale, witte lijn loopt van linksboven naar rechtsonder door een textuurrijk, roodbruin oppervlak. De lijn is niet rechtgetrokken: hij heeft een onregelmatige, korrelige rand, alsof hij met een stift of kwast is getekend en de loop van de tijd wat is verbleekt. Het roodbruine vlak eromheen heeft een fijne, korrelige textuur, vergelijkbaar met zand of verweerd beton, en vult de hele compositie buiten de lijn. Er zijn geen andere vormen, kleuren of details aanwezig; de focus ligt op de spanning tussen de scherpe, witte lijn en het ruwe, eentalige vlak dat hem omringt.",
+      "cyclus": 9979,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met een focus op textuur en lijn.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009979_10042.webp"
+    },
     {
       "id": 10033,
       "titel": "Amber die blijft hangen",
@@ -91,48 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009946_10009.webp"
-    },
-    {
-      "id": 10000,
-      "titel": "Verf die zich herinnert",
-      "beschrijving": "Twee verticale banen verf domineren het beeld, gescheiden door een smalle, onregelmatige witte spleet. De linkerbaan is dieper roze met subtiele textuurvariaties, de rechterbaan lichter en zachter, bijna perzikkleurig. Beide banen tonen sporen van penseelstreken, parallel aan elkaar gelopen, met lichte onregelmatigheden aan de randen waar de verf dunner is aangebracht. Onderaan loopt een ongelijkmatige lijn waar de verf lijkt te zijn afgetrokken of onvolledig is gedroogd, met kleine brokjes en losse draden verf die de textuur verstoren. De achtergrond is zichtbaar aan de randen, lichtgrijs en textuurloos, wat het contrast met de verf versterkt.",
-      "cyclus": 9937,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte textuur zonder duidelijke compositiekeuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009937_10000.webp"
-    },
-    {
-      "id": 9993,
-      "titel": "Door het papier groeit het leven",
-      "beschrijving": "Een bundel donkergroene en bruine grassprietten steekt door een gescheurd wit vel papier, met daartussen vier opengaande gele bloemen en een gouden tarweaar. Achter de plant loopt een oranje achtergrond met witte, golvende lijnen en twee zachte witte wolken. De scheur in het papier loopt onregelmatig, met franje aan de randen, en onthult de plant alsof deze door het papier groeit. De tarweaar staat centraal bovenin, met de grassprietten die in verschillende hoeken omhoog steken. De bloemen zijn verspreid: één rechtsboven, twee middenrechts en één linkermidden. De achtergrond heeft een effen oranje tint, zonder verdere details.",
-      "cyclus": 9930,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of bevestigend, maar toont een ongebruikelijke mix van elementen met een sterke focus op textuur en ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009930_9993.webp"
-    },
-    {
-      "id": 9990,
-      "titel": "Gras dat de wind onthoudt",
-      "beschrijving": "Zandduinen in zachte, golvende vormen vullen het beeld, met een warme oranjeachtige hemel erboven die overgaat in lichte wolken. In het midden staan drie hoge, slanke grassprietjes met pluizige, beige aren die zachtjes in de wind lijken te bewegen. Rondom groeien kortere, groenige grasbundels uit het zand, met enkele losse stengels die over de duin lopen. De schaduwen van het gras vallen scherp en donkerbruin op het zand, terwijl kleine details zoals zandkorrels en subtiele textuurverschillen de scène een realistische diepte geven. De compositie straalt een rustige, verlaten sfeer uit, met de lege ruimte van de duinen die de aandacht trekt.",
-      "cyclus": 9927,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaart-materiaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009927_9990.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10050,
+      "cyclus": 9987,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'onmogelijke geometrie']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een chaotische, abstracte compositie zonder duidelijke intentie.",
+      "bestand": "images/a009987_10050.webp"
+    },
+    {
+      "id": 10045,
+      "cyclus": 9982,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met stenen en water.",
+      "bestand": "images/a009982_10045.webp"
+    },
     {
       "id": 9962,
       "cyclus": 9899,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistenties in perspectief van huizen op horizon', 'lichte wazigheid in details van bomen rechts']",
       "cliche_notities": "Landschap met typisch Nederlandse elementen (weide, boerderijen, bomen) in een klassieke compositie zonder duidelijke persoonlijke interpretatie.",
       "bestand": "images/a009899_9962.webp"
-    },
-    {
-      "id": 9947,
-      "cyclus": 9884,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in bladstructuren', 'lichte wazigheid in achtergrondtextuur']",
-      "cliche_notities": "Rosé rozen met dauwdruppels op een neutrale achtergrond is een klassiek, iconisch onderwerp zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009884_9947.webp"
-    },
-    {
-      "id": 9944,
-      "cyclus": 9881,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch landschap met zonsondergang over water en een dakrand, met decoratief licht en geen duidelijke compositorische keuze beyond het klassieke ansichtkaartmotief.",
-      "bestand": "images/a009881_9944.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9982,
-    "gemaakt": 10044,
-    "gekozen": 1536,
-    "afgekeurd": 1347,
+    "cycli": 9988,
+    "gemaakt": 10050,
+    "gekozen": 1539,
+    "afgekeurd": 1349,
     "corpus": 66,
     "notities": 424
   }
