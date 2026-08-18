@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T21:00+02:00",
+  "bijgewerkt": "2026-08-18T21:15+02:00",
   "werk": [
+    {
+      "id": 10309,
+      "titel": "Onvolprente raster over verlaten veld",
+      "beschrijving": "Drie donkerblauwe rechthoeken domineren het bovenste deel, gescheiden door smalle, lichtgrijze verticale en horizontale banen die een onvolledig raster vormen. Onder hen strekt een breed, lichtgrijs vlak zich uit, dat overgaat in een zwart-wit landschap aan de onderkant. Dat landschap toont een verlaten veld met donkere, onregelmatige textuur, doorspekt met verspreide takken en afval. Ver weg, aan de horizon, staan vaag zichtbare bomen en een klein, donker gebouw met een puntig dak. Een dunne, donkere lijn loopt horizontaal door het midden van het veld, mogelijk een snoer of slang. De overgang tussen het gekleurde bovenste deel en het zwart-wit landschap is scherp, zonder vervaging.",
+      "cyclus": 10246,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010246_10309.webp"
+    },
+    {
+      "id": 10305,
+      "titel": "Natte sporen, droge droom",
+      "beschrijving": "Een grijze, textuurrijke muur domineert het beeld, met een onregelmatige overgang naar een donkerdere, ruwere laag bovenaan. Bruine verkleuringen lopen als vage strepen van boven naar beneden, waarbij watertjes glinsteren als kleine, ronde druppels die de muur langzaam aflopen. Enkele druppels hangen nog vast, terwijl andere al zijn verdwenen, achterlatend subtiele, natte sporen. De muur heeft een korrelige structuur, met kleine oneffenheden die het licht opvangen en zachte schaduwen werpen. De compositie is verticaal gericht, met de verkleuringen en waterlopen die de blik naar beneden leiden, terwijl de lege grijze ruimte rechtsbeneen een gevoel van rust uitstraalt.",
+      "cyclus": 10242,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onopzettelijke compositie van textuur en sporen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010242_10305.webp"
+    },
     {
       "id": 10294,
       "titel": "Aders in een regenboog",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010183_10246.webp"
-    },
-    {
-      "id": 10235,
-      "titel": "Stenen op pad",
-      "beschrijving": "Roodbruin zand vormt een glad oppervlak met subtiele, parallelle groeven die een golvende lijn volgen. Twee lijnen van gladde, ronde stenen lopen parallel aan deze groeven, afwisselend donkergrijs, zwart, beige en lichtbruin. Sommige stenen hebben fijne textuur of vlekjes, andere zijn gladder. Kleinere stenen en kiezelstenen verspreiden zich willekeurig rond de lijnen, met name aan de randen. Het zand heeft een fijnkorrelige structuur en de schaduwen van de stenen vallen scherp, wat diepte aan de compositie geeft. De kleuren variëren van warm roodbruin tot koel grijs en neutraal beige.",
-      "cyclus": 10172,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele patronen en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010172_10235.webp"
-    },
-    {
-      "id": 10224,
-      "titel": "Wit poeder, donkere lijn",
-      "beschrijving": "Een hand met gespreide vingers houdt een cilindervormig voorwerp vast, bedekt met een wit poederspoor en kleine putjes. Een donkere, zigzagvormige lijn loopt van bovenaf naar het voorwerp. De huid toont subtiele roodbruine tinten en fijne lijntjes, met een zachte overgang naar een vaag, witachtig ondergrondse achtergrond. De pols vloeit over in een onscherpe, penseelstrekenachtige textuur.",
-      "cyclus": 10161,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in vingers (te lang/ondoorzichtig)', 'onduidelijke overgang hand-pols (smeuiig)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte spanning tussen hand en voorwerp, zonder toeristische associatie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010161_10224.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10243,
-    "gemaakt": 10305,
-    "gekozen": 1580,
+    "cycli": 10250,
+    "gemaakt": 10312,
+    "gekozen": 1582,
     "afgekeurd": 1358,
     "corpus": 64,
     "notities": 425
