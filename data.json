@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T16:30+02:00",
+  "bijgewerkt": "2026-08-18T16:45+02:00",
   "werk": [
+    {
+      "id": 10185,
+      "titel": "Bladeren die liegen over de wind",
+      "beschrijving": "Twaalf donkergroene, spitse bladeren stralen willekeurig uit een smalle, donkere basis die rust op een ongelijkmatige, grijze ondergrond met witte en donkere vlekken. De bladeren variëren in lengte en breedte, met sommige die scherp omhoog wijzen en andere die lichter gebogen lopen. De randen van de bladeren zijn onregelmatig en iets frans, alsof ze met een stift zijn getekend. De achtergrond is egaal lichtgrijs, zonder aanvullende details of structuren, waardoor de bladeren centraal staan en de enige textuur en beweging in het beeld vormen. De basis van de plant toont kleine, donkere stippen en korte strepen die een ruwe, organische textuur suggereren.",
+      "cyclus": 10122,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, niet-decoratieve compositie met een eigen compositorische keuze.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010122_10185.webp"
+    },
+    {
+      "id": 10184,
+      "titel": "Gras dat fluistert met de wind",
+      "beschrijving": "Zwart en wit gras met slanke, kronkelende stengels en veerkrachtige, borstelstreepachtige bloemkoppen domineert het beeld, tegen een effen grijze achtergrond. De stengels stijgen op in verschillende hoeken, sommige schuin, andere bijna verticaal, met subtiele witte highlights die de glans van nat gras suggereren. Onderaan vormt een donkere, getextureerde laag met horizontale strepen en golvende patronen de basis, waar het gras uit lijkt te groeien. De compositie is dynamisch, met de stengels die zich uitstrekken naar de bovenkant van het beeld, terwijl de bloemkoppen in wisselende dichtheden en vormen de blik trekken. De sfeer is rustig maar levendig, door de contrasten tussen donker en licht en de vloeiende lijnen die beweging uitstralen.",
+      "cyclus": 10121,
+      "tech_score": 8.0,
+      "tech_notities": "Enkele lichte vervormingen in de grasspieren, minimale inconsistenties in de textuur van de achtergrond",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een focus op subtiele details en leegte",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010121_10184.webp"
+    },
     {
       "id": 10178,
       "titel": "Waar blijven de rest?",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010067_10130.webp"
-    },
-    {
-      "id": 10125,
-      "titel": "Getande blauw in symmetrie",
-      "beschrijving": "Een verticale steel loopt door het midden, met aan weerskanten afwisselend geplaatste, diepblauwe bladeren die een getande rand hebben. De bladeren zijn getekend met fijne, parallelle lijnen die de textuur nabootsen, en de steel vertoont een lichte kromming. De achtergrond is een effen, lichtbeige kleur met een subtiele korrelstructuur, waardoor de blauwe tinten scherp afsteken. De compositie is symmetrisch, maar de bladeren variëren licht in grootte en vorm, wat een natuurlijk gevoel geeft. Geen andere elementen of details zijn aanwezig.",
-      "cyclus": 10062,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een eigen compositorische keuze met de asymmetrische plaatsing en textuur van de bladeren.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010062_10125.webp"
-    },
-    {
-      "id": 10118,
-      "titel": "Waar het licht de scheur inloopt",
-      "beschrijving": "Een gebroken keramisch vat met een gladde, crèmekleurige oppervlakte domineert het beeld, de breuk loopt in een onregelmatige, golvende lijn van de rand naar beneden, waar het materiaal scherp afstaat tegen de zachte, matte achtergrond. De binnenkant van het vat is lichter, bijna wit, met subtiele reflecties van licht die de holte benadrukken. De rand van de breuk is donkerder, met een blauwgrijze tint die de diepte van de scheur accentueert. Het vat staat op een effen, lichtgrijze ondergrond, met een zachte schaduw die de basis omhult. De textuur van het keramiek is zichtbaar met fijne, onregelmatige strepen en lichte oneffenheden, terwijl de breuk zelf een glanzende, bijna natte uitstraling heeft. De compositie is eenvoudig, met het vat schuin in beeld, waardoor de breuk de blik direct trekt. De sfeer is rustig en contemplatief, met een focus op de fragiliteit en de stilte van het moment na de breuk.",
-      "cyclus": 10055,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in de rand van de scheur: de overgang van wit naar blauw is iets te scherp en kunstmatig', 'lichte wazigheid in de schaduw onder de vaas, alsof de textuur niet volledig doorlost is']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een eigen, stilistische keuze in de scheur en de kleurovergangen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010055_10118.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10125,
-    "gemaakt": 10187,
-    "gekozen": 1562,
+    "cycli": 10133,
+    "gemaakt": 10195,
+    "gekozen": 1564,
     "afgekeurd": 1355,
     "corpus": 66,
     "notities": 424
