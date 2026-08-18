@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T05:45+02:00",
+  "bijgewerkt": "2026-08-18T06:00+02:00",
   "werk": [
+    {
+      "id": 9886,
+      "titel": "Waar de regen stenen telt",
+      "beschrijving": "Een donkere, natte weg loopt dwars door het beeld, geflankeerd door twee parallelle lijnen van ronde stenen in wit, grijs en diepblauw. Sommige stenen hebben reliëfpatronen, andere zijn glad of bedekt met mosachtige textuur. Regen drupt zichtbaar naar beneden, met glinsterende spetters die de stenen en de weg raken. Witte, sterachtige flitsen verspreiden zich over het tafereel, vooral bij de stenen aan weerskanten. Donker gras en naalden liggen verspreid langs de randen, terwijl de weg zelf sporen van banden en modder toont. De kleuren zijn gedempt, met uitzondering van de levendige blauwe stenen en de scherpe witte flitsen die een contrast vormen met de natte, donkere omgeving.",
+      "cyclus": 9823,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna onrustige compositie met een onbeheerste dradenstructuur.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009823_9886.webp"
+    },
+    {
+      "id": 9877,
+      "titel": "Gouden hoek in vergeten steen",
+      "beschrijving": "Twee witgepleisterde gebouwen met donkere houten deuren en ramen flankeren een smalle, donkere opening waar een pad van onregelmatige stenen loopt. De gevels vertonen sporen van slijtage, met verbleekte pleister en donkere, textuurrijke hoekpanelen. Boven de deuren lopen geteerde dakgootstenen, en een subtiele gouden gloed verlicht de bovenste linkerhoek van het linker gebouw. Voor de gebouwen ligt een ongelijkmatig terrein met losse stenen, droog gras en verspreide takjes. De stenen op het pad en het terrein hebben verschillende groottes en vormen, sommige met donkere vlekken of patronen. De compositie is symmetrisch, maar de opening breekt die balans door een verticale, chaotische strook van donkere, krassende lijnen en losse elementen. De sfeer is verlaten en iets onrustigs, door de contrasten tussen licht en donker en de verwaarloosde details.",
+      "cyclus": 9814,
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele vervorming in de dakpannen aan weerskanten', 'onduidelijke overgang tussen muur en dak op linkerhoek']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, bijna dromerige kwaliteit die boven een toeristisch ansichtkaartmotief uitstijgt door de onverklaarbare spleet en de asymmetrische compositie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009814_9877.webp"
+    },
     {
       "id": 9873,
       "titel": "De sleutel ontbreekt",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009791_9854.webp"
-    },
-    {
-      "id": 9844,
-      "titel": "Korreltjes in de wind",
-      "beschrijving": "Dikke, donkere stengels steunen trossen korreltjes in goudbruine en grijze tinten, met scherpe, zwarte prikkels die zich uitstrekken naar een egale, crèmekleurige achtergrond. Enkele trossen buigen zachtjes, terwijl andere recht omhoog wijzen, met subtiele variaties in grootte en dichtheid. Dunne, donkere lijnen suggereren bladeren of stengels die zich uitstrekken naar de randen, waar vaag omlijnde vormen in de achtergrond een diepte suggereren zonder duidelijk patroon. Kleine, donkere vlekken en fijne streepjes verspreiden zich door het beeld, alsof ze door de wind mee zijn gevoerd. De korreltjes hebben een glanzende, bijna doorzichtige textuur, met lichte schaduwen die hun ronde vorm benadrukken. Enkele trossen tonen kleine, gele accenten, die een subtiele afwisseling brengen in de overwegend neutrale kleuren. De compositie laat veel lege ruimte over, waardoor de trossen lijken te zweven in een rustige, ongestoorde ruimte.",
-      "cyclus": 9781,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van tarwearen', 'lichte wazigheid in achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvieuse compositie met ruimte voor interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009781_9844.webp"
-    },
-    {
-      "id": 9842,
-      "titel": "Papierrand en gouden fluister",
-      "beschrijving": "Een gescheurde witte papierlaag onthult een onscherp landschap van goudbruine graanaren die zacht bewegen in een lichte bries. De scheur loopt onregelmatig, met franjetjes papier die de overgang vormen tussen het effen wit en de warme, vaag gefocuste achtergrond. De aren, gedetailleerd en scherp in het midden van het beeld, stralen een droge, zomerse stilte uit, terwijl de achtergrond overgaat in een zachte, beige mist die de diepte suggereert zonder duidelijk vorm te geven. De compositie is verticaal, met het papier dat de boven- en onderkant van het beeld domineert en het graan als een smalle, organische vensteropening in het midden.",
-      "cyclus": 9779,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve compositie zonder iconische of decoratieve elementen die het tot een ansichtkaart maken.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009779_9842.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9893,
+      "cyclus": 9830,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "enkele lichte vervormingen in de bladeren en stengels, minimale inconsistenties in de perspectieven van de rozen",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (rozenboeket) en decoratieve compositie zonder duidelijke persoonlijke stempel.",
+      "bestand": "images/a009830_9893.webp"
+    },
+    {
+      "id": 9891,
+      "cyclus": 9828,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte wazigheid in verre bomen en water, maar binnen redelijke marges",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconisch landschap met kerk, zonsondergang en weg die de blik leidt, zonder onverwachte compositorische keuzes",
+      "bestand": "images/a009828_9891.webp"
+    },
     {
       "id": 9876,
       "cyclus": 9813,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen ten opzichte van het landschap', 'enkele wazige overgangen in de achtergrond']",
       "cliche_notities": "Het beeld toont een iconische Nederlandse windmolen in een typisch landschap, met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a009813_9876.webp"
-    },
-    {
-      "id": 9852,
-      "cyclus": 9789,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op leegte en ontbinding.",
-      "bestand": "images/a009789_9852.webp"
-    },
-    {
-      "id": 9829,
-      "cyclus": 9766,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent perspectief deur', 'wazige texturen kussens']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en voorwerpen zonder duidelijke betekenis.",
-      "bestand": "images/a009766_9829.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9828,
-    "gemaakt": 9890,
-    "gekozen": 1507,
-    "afgekeurd": 1336,
+    "cycli": 9836,
+    "gemaakt": 9898,
+    "gekozen": 1509,
+    "afgekeurd": 1338,
     "corpus": 62,
     "notities": 416
   }
