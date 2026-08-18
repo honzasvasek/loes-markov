@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-18T05:15+02:00",
+  "bijgewerkt": "2026-08-18T05:30+02:00",
   "werk": [
+    {
+      "id": 9873,
+      "titel": "De sleutel ontbreekt",
+      "beschrijving": "Twee houten deuren staan wijd open, schuin tegen elkaar gericht, met een donkere, leegte suggereerende spleet ertussen. De deuren hebben verticale lamellen, metalen handvatten en kleine ronde sloten. Rond de deuren loopt een natte, reflecterende ondergrond met donkere vlekken en sporen van water. Rechts van de deuren staat een boom met kale takken die zich uitstrekken naar een vaag getekende achtergrond. Onder de boom groeien enkele planten met langwerpige bladeren. Een enkele witte vogel staat op de natte grond, dicht bij de rechterdeur. De achtergrond is grotendeels ongedefinieerd, met subtiele overgangen tussen lichte en donkere tinten. De algehele sfeer is stil en verlaten, met een focus op textuur en lichtval.",
+      "cyclus": 9810,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in de houtstructuur van de deuren (links/rechts niet symmetrisch), lichte wazigheid in de achtergrondboom",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en heeft een eigen standpunt",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009810_9873.webp"
+    },
     {
       "id": 9868,
       "titel": "Regen die blijft hangen",
@@ -26,6 +39,19 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009802_9865.webp"
+    },
+    {
+      "id": 9864,
+      "titel": "Regendruppels op een schuine boomstam",
+      "beschrijving": "Een donkere boomstam loopt schuin door het beeld, met takken die zich uitstrekken naar de hoeken. Witte regendruppels vallen verticaal door een grijze achtergrond, met kleine witte vlekken die nat licht suggereren. Onderaan zijn donkere, gestileerde planten en gras te zien, met een paar witte vormen die mogelijk bloemen of stenen voorstellen. De randen van het beeld hebben een onregelmatige, korrelige textuur, alsof het een prent is gemaakt met linoleum of hout. De compositie is dynamisch door de schuine lijnen van de boom en de regen, terwijl de kleuren beperkt blijven tot zwart, wit en grijs, met een subtiele roze tint in de linkerbovenhoek.",
+      "cyclus": 9801,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de schuine boomstam en de regen die een dynamische spanning creëert, geen typische ansichtkaartcompositie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w009801_9864.webp"
     },
     {
       "id": 9862,
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009779_9842.webp"
-    },
-    {
-      "id": 9839,
-      "titel": "Zaadhoofdjes in de nevel",
-      "beschrijving": "Droog gras in goudbruine en beige tinten steekt scherp uit boven een zachte, roodbruine ondergrond die overgaat in een vaag, lichtgrijs vlak aan de horizon. De grassprietjes variëren in lengte en dikte, sommige recht omhoog, andere gebogen of met kleine, donkere zaadhoofdjes aan de top. Donkere vlekken en subtiele textuurverschillen in de ondergrond suggereren vochtigheid of verkleuring, terwijl de achtergrond een egale, nevelige uitstraling heeft zonder duidelijke vormen of details. De compositie is horizontaal gericht, met het gras dat de middensectie inneemt en de ondergrond de onderste helft domineert.",
-      "cyclus": 9776,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de overgang tussen het gras en de roze mist', 'lichte inconsistentie in de hoogte van de grassprietjes aan de horizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en de compositie is niet decoratief, maar juist ongemakkelijk open en onbeheerst.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009776_9839.webp"
-    },
-    {
-      "id": 9832,
-      "titel": "Goud in de takken",
-      "beschrijving": "Donkere, slanke takken strekken zich uit tegen een effen grijze achtergrond, met kleine, glanzende druppels die aan de uiteinden hangen. De druppels reflecteren licht en hebben een ambrkleurige tot goudgele tint, terwijl de takken een ruwe, textuurrijke structuur hebben. Enkele takken vertakken zich in dunne, bijna draadachtige uitlopers, die zich uitstrekken in verschillende richtingen. De compositie is asymmetrisch, met de takken die diagonaal door het beeld lopen, waardoor een gevoel van beweging ontstaat. De sfeer is stil en introspectief, met de druppels die een subtiele dynamiek toevoegen aan het anderszo statische beeld.",
-      "cyclus": 9769,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009769_9832.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9876,
+      "cyclus": 9813,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen ten opzichte van het landschap', 'enkele wazige overgangen in de achtergrond']",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse windmolen in een typisch landschap, met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a009813_9876.webp"
+    },
     {
       "id": 9852,
       "cyclus": 9789,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent perspectief deur', 'wazige texturen kussens']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en voorwerpen zonder duidelijke betekenis.",
       "bestand": "images/a009766_9829.webp"
-    },
-    {
-      "id": 9818,
-      "cyclus": 9755,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met kerk en water, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a009755_9818.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9813,
-    "gemaakt": 9875,
-    "gekozen": 1505,
-    "afgekeurd": 1335,
-    "corpus": 63,
+    "cycli": 9821,
+    "gemaakt": 9883,
+    "gekozen": 1507,
+    "afgekeurd": 1336,
+    "corpus": 62,
     "notities": 416
   }
 }
