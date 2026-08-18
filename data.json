@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-18T07:15+02:00",
+  "bijgewerkt": "2026-08-18T07:30+02:00",
   "werk": [
     {
       "id": 9923,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 9937,
+      "cyclus": 9874,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Molen op een heuvel met pad en water is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009874_9937.webp"
+    },
+    {
       "id": 9928,
       "cyclus": 9865,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Dit is een typische ansichtkaart met een vogel in een landschap, waarbij de compositie en het onderwerp (vogel + natuur) iconisch en decoratief zijn zonder een uniek standpunt.",
       "bestand": "images/a009862_9925.webp"
-    },
-    {
-      "id": 9924,
-      "cyclus": 9861,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen tegen een dramatische achtergrond, met een decoratief lichteffect en een klassieke compositie die past bij een toeristische ansichtkaart.",
-      "bestand": "images/a009861_9924.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 9870,
-    "gemaakt": 9932,
+    "cycli": 9875,
+    "gemaakt": 9938,
     "gekozen": 1516,
-    "afgekeurd": 1342,
-    "corpus": 64,
+    "afgekeurd": 1343,
+    "corpus": 62,
     "notities": 417
   }
 }
