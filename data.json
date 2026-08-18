@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-18T19:00+02:00",
+  "bijgewerkt": "2026-08-18T19:15+02:00",
   "werk": [
+    {
+      "id": 10246,
+      "titel": "Getande rand in zand",
+      "beschrijving": "Een gebroken spiegelstandaard van helder glas staat schuin in zand, met een onregelmatige, getande rand waar het glas is gescheurd. Achter de spiegel loopt een donkergrijze muur, die het contrast met het lichte zand versterkt. Een droge tak met bruine, verdroogde bladeren ligt diagonaal voor de spiegel, deels in het zand verzonken. Het zand heeft een fijne, korrelige textuur en vormt zachte heuveltjes rond de spiegel en de tak. De spiegel reflecteert een vaag, grijs landschap, mogelijk een horizonlijn, maar de details zijn onduidelijk door de breuk en de hoek. De compositie straalt een stille, bijna verlaten sfeer uit, met de gebroken spiegel als centraal element dat de leegte en afwezigheid benadrukt.",
+      "cyclus": 10183,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke compositie met een gebroken spiegel en droge takken in zand, wat een eigen standpunt uitstraalt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010183_10246.webp"
+    },
     {
       "id": 10235,
       "titel": "Stenen op pad",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010122_10185.webp"
-    },
-    {
-      "id": 10184,
-      "titel": "Gras dat fluistert met de wind",
-      "beschrijving": "Zwart en wit gras met slanke, kronkelende stengels en veerkrachtige, borstelstreepachtige bloemkoppen domineert het beeld, tegen een effen grijze achtergrond. De stengels stijgen op in verschillende hoeken, sommige schuin, andere bijna verticaal, met subtiele witte highlights die de glans van nat gras suggereren. Onderaan vormt een donkere, getextureerde laag met horizontale strepen en golvende patronen de basis, waar het gras uit lijkt te groeien. De compositie is dynamisch, met de stengels die zich uitstrekken naar de bovenkant van het beeld, terwijl de bloemkoppen in wisselende dichtheden en vormen de blik trekken. De sfeer is rustig maar levendig, door de contrasten tussen donker en licht en de vloeiende lijnen die beweging uitstralen.",
-      "cyclus": 10121,
-      "tech_score": 8.0,
-      "tech_notities": "Enkele lichte vervormingen in de grasspieren, minimale inconsistenties in de textuur van de achtergrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een focus op subtiele details en leegte",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010121_10184.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10187,
-    "gemaakt": 10249,
-    "gekozen": 1572,
+    "cycli": 10193,
+    "gemaakt": 10255,
+    "gekozen": 1573,
     "afgekeurd": 1357,
     "corpus": 66,
     "notities": 424
