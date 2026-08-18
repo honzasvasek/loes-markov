@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T17:15+02:00",
+  "bijgewerkt": "2026-08-18T17:30+02:00",
   "werk": [
+    {
+      "id": 10214,
+      "titel": "Vingers die bijna raken",
+      "beschrijving": "Twee handen rusten op een effen, lichtgrijze ondergrond, waarbij de bovenste hand zich naast een bundel bevroren gras bevindt. Het gras is donkergrijs met witte, ijzige kristallen aan de randen van de bladeren, die scherp en spits toelopen. De vingers van de bovenste hand zijn gespreid en raken bijna het gras, terwijl de onderste hand iets lager en meer ontspannen ligt. Beide handen werpen een zachte schaduw naar linksbeneinden, en de huidtextuur is gedetailleerd zichtbaar, met subtiele rimpeltjes en aderen. De nagels zijn kort en ongelijkvormig, met een natuurlijke, matte glans. De achtergrond is volledig vrij van afleiding, waardoor de handen en het gras centraal staan in een minimalistische compositie.",
+      "cyclus": 10151,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010151_10214.webp"
+    },
+    {
+      "id": 10209,
+      "titel": "Waar blijft de greep",
+      "beschrijving": "Een open hand met gespreide vingers tegen een helderblauwe achtergrond. De huid is lichtgekleurd met zichtbare lijnen en textuur, de nagels zijn kort en netjes. De duim staat iets afwijkend van de andere vingers, die parallel aan elkaar staan. De pols is zichtbaar aan de onderkant, met een lichte schaduwwerking die de overgang naar de arm aangeeft. De belichting is gelijkmatig, waardoor de details van de hand duidelijk zichtbaar zijn tegen de egale achtergrond.",
+      "cyclus": 10146,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een close-up van een hand met een neutrale achtergrond, zonder decoratief licht of typisch ansichtkaart-motief.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010146_10209.webp"
+    },
     {
       "id": 10204,
       "titel": "Wit dat blijft hangen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010108_10171.webp"
-    },
-    {
-      "id": 10160,
-      "titel": "Papier dat het landschap deelt",
-      "beschrijving": "Twee horizontale stroken groen graslandschap, gescheiden door een onregelmatige, gescheurde witte rand die de indruk wekt van papier dat scheurt. Het bovenste deel toont een uitgestrekt veld met hoog, lichtbruin en groen gras, waarbij de stengels schuin staan en enkele pluimen zichtbaar zijn. De achtergrond bestaat uit een zachte, grijze horizon met een lichte gloed. Het onderste deel herhaalt het graslandschap, maar met korter, dichterbij staand gras en meer details in de textuur, zoals individuele bladeren en kleine bloemhoofdjes. Ook hier is de horizon vaag en grijs, met een subtiele overgang naar het gras. De witte scheur tussen de twee delen heeft een ongelijkmatige, tandvormige rand en loopt diagonaal van linksboven naar rechtsonder, waardoor een gevoel van diepte en afwisseling ontstaat tussen de twee lagen gras.",
-      "cyclus": 10097,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve compositie zonder iconische of decoratieve elementen die het tot een ansichtkaart maken.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010097_10160.webp"
-    },
-    {
-      "id": 10155,
-      "titel": "Wit en geel tussen het groen",
-      "beschrijving": "Lang, slank gras in groene en geelgroene tinten vult het beeld, met hier en daar kleine witte en gele bloemetjes verspreid. Het gras staat dicht op elkaar, met enkele stengels die lichter of donkerder zijn dan de omgeving. De bloemetjes hebben elk vijf bloemblaadjes en zijn willekeurig verdeeld, sommige dicht bij elkaar, andere verspreid over het gras. De achtergrond is donkerder, wat de groene en gele tinten van het gras en de bloemen doet uitkomen. Het geheel heeft een natuurlijke, ongestoorde uitstraling, met de bloemetjes die kleine accenten vormen in het groene landschap.",
-      "cyclus": 10092,
-      "tech_score": 8.0,
-      "tech_notities": "Enkele bloemblaadjes tonen lichte vervorming/onscherpe details, achtergrondgras heeft subtiele herhaling van textuurpatronen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief; de compositie is abstract en niet gericht op een herkenbaar onderwerp",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w010092_10155.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10147,
-    "gemaakt": 10209,
-    "gekozen": 1567,
+    "cycli": 10154,
+    "gemaakt": 10217,
+    "gekozen": 1569,
     "afgekeurd": 1355,
     "corpus": 66,
     "notities": 424
