@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T03:15+02:00",
+  "bijgewerkt": "2026-08-18T03:30+02:00",
   "werk": [
+    {
+      "id": 9810,
+      "titel": "Geen deur gaat dicht",
+      "beschrijving": "Een lichtgele deur met een gouden klink staat halfopen in een blauwe kozijn, tegen een crèmekleurige muur. Achter de deur verschijnt een donkerblauwe deur met gelijke panelen, licht geopend, waardoor een donkere ruimte zichtbaar is. De vloer is grijs met verspreide gele en groene vlekken en een donkere cirkel. Een rode plint loopt langs de muur onder het kozijn. Het licht valt schuin op de deuren, waardoor schaduwen de diepte benadrukken.",
+      "cyclus": 9747,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De deur is een alledaags onderwerp, maar de compositie en kleurkeuze (grijsblauw en crèmekleurig) geven het een neutrale, niet-toeristische uitstraling.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009747_9810.webp"
+    },
+    {
+      "id": 9809,
+      "titel": "Amber die de waarheid onthult",
+      "beschrijving": "Een hand steekt door een gescheurd vel bruin papier, met de wijsvinger gestrekt en een druppel amberkleurige, viskeuze vloeistof die van de vingers druipt. Achter het papier loopt een verticale rookspiraal omhoog, fijn en wit, tegen een achtergrond van verweerd hout en een gesloten, grijze houten deur met een metalen kruk. Het papier heeft onregelmatige, franjetranden en bedekt het linkerdeel van het beeld, terwijl de deur het rechterdeel inneemt. Het houten kader rondom is donkerbruin met zichtbare knoesten en sporen van slijtage. De vloeistof glinstert en vormt een gladde, amorf vorm die de hand omhult. De rook beweegt in een slingerende lijn naar boven, waarbij hij steeds dunner wordt. De muur achter het papier is lichtgrijs en textuurloos, in contrast met het hout en het papier.",
+      "cyclus": 9746,
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in de textuur van het papier (te uniform gescheurd) en de rook lijkt iets te glad/ontbrekend aan dynamiek",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en heeft een eigen standpunt door de contrasten tussen hand, vloeistof en deur",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w009746_9809.webp"
+    },
     {
       "id": 9784,
       "titel": "Tranen van glas en waterverf",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w009684_9747.webp"
-    },
-    {
-      "id": 9742,
-      "titel": "Wit dat zich ontdoet van vorm",
-      "beschrijving": "Grijze en witte vloeistoffen glijden door elkaar in een dynamisch patroon, met donkere aders die zich uitstrekken als krassende lijnen door het beeld. Witte draden en druppels snijden door de grijstinten, terwijl kleine bolletjes en spattingen als vonken door het tafereel verspreid zijn. De beweging voelt vastgevroren, met golven die zich ontleden in fijne, kronkelende vormen en gladde, glanzende oppervlakken die overgaan in ruwe, korrelige texturen. Donkere vlekken en lichte spiralen creëren een spanning tussen leegte en aanwezigheid, zonder dat één element de overhand neemt.",
-      "cyclus": 9679,
-      "tech_score": 8.0,
-      "tech_notities": "[\"subtiele halo's rond witte druppels in bovenste helft\", 'lichte inconsistentie in textuur van donkere vloeistof (rechtsboven)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de abstracte, dynamische compositie heeft een eigen taal zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w009679_9742.webp"
-    },
-    {
-      "id": 9737,
-      "titel": "Wit dat zich onthult in blauw",
-      "beschrijving": "Blauwe en witte vloeistoffen vormen een dynamisch patroon met golvende, spiraalvormige bewegingen. Witte druppels en fijne spattingen verspreiden zich door het beeld, vooral rond een centraal punt waar de kleuren zich vermengen tot een complexe, bijna organische vorm. De blauwe tinten variëren van licht tot diep, terwijl het wit glad en glanzend is, met subtiele overgangen naar grijs. De compositie straal een gevoel van vloeiende beweging uit, zonder duidelijke randen of structuren. Kleuren en vormen lijken in constante verandering, met een balans tussen chaos en harmonie.",
-      "cyclus": 9674,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met dynamische beweging en ongemakkelijke schoonheid.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009674_9737.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 9818,
+      "cyclus": 9755,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met kerk en water, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a009755_9818.webp"
+    },
     {
       "id": 9817,
       "cyclus": 9754,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een neutrale, bijna onpersoonlijke weergave van een deur zonder duidelijke compositorische keuze.",
       "bestand": "images/a009737_9800.webp"
-    },
-    {
-      "id": 9786,
-      "cyclus": 9723,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming handen/voeten bij sommige figuren', 'onduidelijke overgang tussen water en oever']",
-      "cliche_notities": "Beeld straalt een typisch ansichtkaart-gevoel uit met een groep kinderen op een idyllische wandelroute door een groen landschap, zonder duidelijke compositorische of thematische verrassing.",
-      "bestand": "images/a009723_9786.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 9755,
-    "gemaakt": 9817,
-    "gekozen": 1491,
-    "afgekeurd": 1332,
+    "cycli": 9762,
+    "gemaakt": 9824,
+    "gekozen": 1493,
+    "afgekeurd": 1333,
     "corpus": 63,
     "notities": 415
   }
