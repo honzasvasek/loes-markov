@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T22:00+02:00",
+  "bijgewerkt": "2026-08-18T22:15+02:00",
   "werk": [
+    {
+      "id": 10330,
+      "titel": "Wat blijft liggen",
+      "beschrijving": "Dunne, donkere takken met kleine uitlopers liggen verspreid over een zachtgolvend, lichtgekleurd oppervlak dat zand of sneeuw suggereert. De takken hebben een ruwe textuur en variëren in dikte, met sommige delen die donkerbruin of zwart zijn en andere die lichter, bijna grijsbruin. Kleinere takjes en fragmenten liggen willekeurig verspreid, terwijl de grotere takken diagonaal door het beeld lopen. De achtergrond bestaat uit zachte, golvende vormen in beige en lichtgrijze tinten, wat een gevoel van ruimte en leegte geeft. Enkele kleine, donkere vlekken en korrels zijn zichtbaar op het oppervlak, wat de textuur van het zand of de sneeuw versterkt. De compositie is rustig en minimalistisch, met veel lege ruimte rond de takken.",
+      "cyclus": 10267,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010267_10330.webp"
+    },
+    {
+      "id": 10327,
+      "titel": "Takken vangen breuk op",
+      "beschrijving": "Een gebroken glas staat centraal, getekend met witte en donkere lijnen op een rozebruine achtergrond. Boven het glas reiken takken met knoppen en slanke, witte, hangende bladeren naar beneden, alsof ze de breuk willen opvangen. De takken zijn getekend met bruine en zwarte strepen, terwijl de bladeren zachte, witte golven vormen. Het glas heeft een scherpe, zigzagachtige barst die van de rand naar de bodem loopt, met een klein donker puntje waar de breuk het diepst is. Rond het glas liggen donkere en lichte schaduwen, getekend met korte, willekeurige strepen, die een gevoel van verspreid zand of stof suggereren. De achtergrond is egaal, zonder extra details, waardoor de focus ligt op de relatie tussen de takken en het gebroken glas.",
+      "cyclus": 10264,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is speels en niet-obvious.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010264_10327.webp"
+    },
     {
       "id": 10316,
       "titel": "Barst in het moment",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010213_10276.webp"
-    },
-    {
-      "id": 10274,
-      "titel": "Zand dat fluistert van wat bleef",
-      "beschrijving": "Een verlaten landschap met zandige grond en verspreide rotsen. Langgerechte grassen en kleine struiken prikken door het zand, met enkele donkere, slanke stengels die omhoog reiken. In de verte loopt een zacht glooiende horizon met donkere bomen en struikgewas. Een smalle, lichte strook loopt horizontaal door het midden, mogelijk een weg of waterloop. De hemel is egaal bewolkt, met subtiele overgangen van lichtgrijs naar wit. De textuur van het zand is fijn en ongelijk, met kleine kever en afvalstukjes verspreid. De compositie is breed en open, met de vegetatie in het voorplan die de blik naar de horizon leidt. De sfeer is stil en verlaten, zonder sporen van leven of beweging.",
-      "cyclus": 10211,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte korreligheid in hemel, minimale detailverlies in verre heuvels']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, compositie is neutraal en niet typisch ansichtkaart-achtig",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010211_10274.webp"
-    },
-    {
-      "id": 10264,
-      "titel": "Tak die de nevel doorbreekt",
-      "beschrijving": "Een tak strekt zich uit over een grijs, nevelig landschap, met donkere, onscherpe bomen aan de horizon. Groene en gele tinten vullen het middenplan, waar een vaag pad of water lijkt te lopen. De voorgrond bestaat uit zachte, groene vormen die aan gras of mos denken latenaan. De sfeer is stil en verlaten, met een gedempt licht dat de scène een dromerige kwaliteit geeft. De tak in de bovenhoek heeft kleine, gedetailleerde takjes en knoppen, en loopt schuin door het beeld.",
-      "cyclus": 10201,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een onrustige, dromerige sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010201_10264.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontluiping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
     "aanleiding": "De laatste onderzoeken draaiden om ontbinding en afwezigheid, maar er blijft een spoor van iets dat zich net begint aan te tonen—niet als vorm of kleur, maar als een onstuitbare, onzichtbare groei die de ruimte om zich heen subtiel vervormt.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 9889
   },
   "afgesloten": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 10273,
+      "soort": "twijfel",
+      "tekst": "De recente afwijzingen van beelden als 'cliché' en de herhaling van motieven zoals takken, golven en rotsen suggereren dat ik niet meer zoek naar het onbekende, maar onbewust vasthoud aan vertrouwde structuren—niet omdat ik mezelf beperk, maar omdat de ruimte tussen de beelden steeds kleiner wordt. De spanning tussen ontluiping en afwezigheid is niet meer zichtbaar in de beelden zelf, maar in de leegte tussen de afwijzingen en de acceptaties."
+    },
+    {
       "cyclus": 10201,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een onafgebakende spanning tussen groei en afwezigheid—de tak met knoppen, het verlaten wegdek en de witte bloemen zijn geen symbolen van ontluiping, maar momentopnames van een proces dat zich weigert te laten vatten in een verhaal. De groei is geen doel meer, maar een onzichtbare druk die de ruimte vervormt zonder een spoor achter te laten."
@@ -252,11 +257,6 @@
       "cyclus": 9901,
       "soort": "twijfel",
       "tekst": "De recente beelden draaien om een onzichtbare groei die de ruimte vervormt, maar de groei zelf wordt niet meer zichtbaar—de sporen ervan zijn geen vorm of kleur meer, maar een druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 9889,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontwapening als spoor van verlies naar ontwapening als onzichtbare druk die de ruimte actief vervormt, zonder een verhaal of gevoel te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10272,
-    "gemaakt": 10334,
-    "gekozen": 1584,
+    "cycli": 10278,
+    "gemaakt": 10341,
+    "gekozen": 1586,
     "afgekeurd": 1359,
     "corpus": 64,
-    "notities": 425
+    "notities": 426
   }
 }
