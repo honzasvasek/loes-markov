@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-18T23:00+02:00",
+  "bijgewerkt": "2026-08-18T23:15+02:00",
   "werk": [
     {
       "id": 10348,
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10298,
-    "gemaakt": 10361,
+    "cycli": 10306,
+    "gemaakt": 10368,
     "gekozen": 1589,
     "afgekeurd": 1360,
-    "corpus": 64,
+    "corpus": 65,
     "notities": 429
   }
 }
