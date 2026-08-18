@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-18T10:15+02:00",
+  "bijgewerkt": "2026-08-18T10:30+02:00",
   "werk": [
+    {
+      "id": 10011,
+      "titel": "Druppels die blijven hangen",
+      "beschrijving": "Groen en geel gras domineert de voorgrond, met lange, slanke stengels die in verschillende richtingen opkijken, sommige met kleine, glinsterende druppels erop. Achter het gras ligt een zacht overgangsvlak van lichtgele en groene tinten, dat overgaat in een vaag, nevelig landschap met donkergroene bomen en struiken aan de horizon. De achtergrond wordt gevormd door een lichte, bijna witte hemel die langzaam overgaat in het landschap. Kleine, onduidelijke vormen in het middenplan suggereren mogelijk water of open ruimte, omringd door zachte, wazige contouren. De sfeer is kalm en wat mistig, met een subtiele speeling van licht en schaduw door de verschillende groen- en geeltinten.",
+      "cyclus": 9948,
+      "tech_score": 8.0,
+      "tech_notities": "[\"subtiele halo's rond sommige grasstengels in het middenplan\", 'lichte inconsistentie in de textuur van de achtergrondbomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een dromerige, persoonlijke sfeer zonder iconische of toeristische elementen, en de compositie is niet typisch ansichtkaartschema.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009948_10011.webp"
+    },
+    {
+      "id": 10009,
+      "titel": "Bloemen waar ogen zouden moeten zijn",
+      "beschrijving": "Een portret van een meisje met lang, warrig haar, getekend in potloodstijl. Haar ogen zijn vervangen door twee bloemen met spitse bloemblaadjes, terwijl een derde bloem in de rechteronderhoek van het beeld zweeft. Achter haar rijzen prikkeldooornen en een kale tak op, omgeven door lange, slanke grasblade. De schaduwen op haar gezicht en in haar haar zijn fijn gedetailleerd, met een zachte overgang naar de lichte achtergrond. Haar lippen zijn vol en licht geopend, en haar hals is zichtbaar boven een donkere, textuurloze kledingstuk. De compositie is verticaal, met het gezicht centraal en de planten die de randen van het beeld vullen.",
+      "cyclus": 9946,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, dromerige compositie met symbolische elementen (bloemen als ogen) en geen typisch toeristisch onderwerp.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w009946_10009.webp"
+    },
     {
       "id": 10000,
       "titel": "Verf die zich herinnert",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w009909_9972.webp"
-    },
-    {
-      "id": 9965,
-      "titel": "Handen die bijna raken",
-      "beschrijving": "Twee figuren staan aan weerskanten van een openstaande witte dubbele deur, gezicht tegen gezicht, met hun handen opgeheven alsof ze elkaar willen aanraken maar net buiten bereik blijven. Ze dragen donkere jacks en broeken, met donkerbruin krullend haar en een lichtere huidskleur. De deur heeft gouden hengsels en klinken, en de panelen zijn rechthoekig en glad. Achter hen is een donkergrijze muur zichtbaar, met een lichte vloer die overgaat in een lichtere gang of kamer. De randen van de deuren en het kozijn zijn subtiel geschilderd met zachte schaduwen, en de vloer reflecteert een beetje licht. De figuren staan schuin ten opzichte van elkaar, met hun lichamen iets naar voren gebogen, alsof ze zich naar elkaar toe bewegen. Hun blikken zijn op elkaar gericht, en hun gezichten zijn half in profiel zichtbaar. De achtergrond is eenvoudig en ontdaan van details, waardoor de focus op de twee figuren en hun interactie ligt.",
-      "cyclus": 9902,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intiem moment zonder typische ansichtkaart-elementen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w009902_9965.webp"
-    },
-    {
-      "id": 9960,
-      "titel": "Wat kruipt er door de spleet?",
-      "beschrijving": "Een lichtgekleurde houten deur staat op een kier, met een donkere metalen kruk die de opening vasthoudt. Onder de deur loopt een donkere, kronkelende spleet over de vloer, waar een geelachtige, amorf vorm uit komt. De vloer is van licht hout met zichtbare korrels en kleine vlekken. Aan de linkerkant bevindt zich een raam met een witte lijst, waar zacht daglicht door valt en een schuine schaduw werpt op de muur en de deur. De muren zijn bekleed met verticale houten lamellen in verschillende bruine tinten, met donkere verflagen bij de plinten. De hoek van de kamer is scherp getekend, met een donkere, bijna zwarte vlek op de muur naast het raam. De sfeer is rustig en wat verlaten, met een subtiele spanning door de open deur en de onverklaarde vorm op de vloer.",
-      "cyclus": 9897,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op een intieme, onopgesmukte ruimte zonder toeristische uitstraling.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w009897_9960.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 9948,
-    "gemaakt": 10010,
-    "gekozen": 1529,
+    "cycli": 9954,
+    "gemaakt": 10017,
+    "gekozen": 1531,
     "afgekeurd": 1347,
     "corpus": 63,
     "notities": 422
