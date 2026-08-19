@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T22:45+02:00",
+  "bijgewerkt": "2026-08-19T23:00+02:00",
   "werk": [
+    {
+      "id": 11002,
+      "titel": "Negen wegen, één keuzemoment",
+      "beschrijving": "Negen blauwe deuren staan in een raster van drie op drie tegen een witte achtergrond. Elke deur heeft een uniek patroon van ramen, handvatten en decoraties: rode kersen bovenaan, oranje slangenfiguren in de ramen en af en toe een blauwe vogel. De deuren variëren in details zoals de plaatsing van de kersen, de vorm van de ramen en de aanwezigheid van de vogel, maar volgen allemaal een consistente stijl met houten panelen en blauwe kozijnen. De compositie is symmetrisch en overzichtelijk, met een speelse balans tussen herhaling en kleine afwijkingen.",
+      "cyclus": 10939,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de plaatsing van de kersen bij sommige deuren', 'Subtiele vervorming in de vorm van de vogels op twee deuren']",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel de compositie herhalend is, ontbreekt het aan een iconisch of bevestigend onderwerp dat het tot een ansichtkaart maakt.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w010939_11002.webp"
+    },
+    {
+      "id": 10999,
+      "titel": "Vogels op wacht bij de deur",
+      "beschrijving": "Een diepblauwe houten deur met zes rechthoekige ruitjes, elk omlijst door donkerblauw hout en versierd met negen beige cirkels in een raster. Zes vogels met grijze veren, oranje vlekken op de vleugels en kop en witte buiken, bezetten de deur: één zit op de bovenste rand, één op een open hand die vanaf de rechterbovenhoek uitsteekt, en vier zitten op de vensterbanken van de middelste en onderste ruitjes. Zwarte metalen scharnieren en handvatten accentueren de deur. De vogels kijken in verschillende richtingen, wat een gevoel van wisselende aandacht geeft. De achtergrond is egaal blauw, waardoor de deur en vogels centraal staan.",
+      "cyclus": 10936,
+      "tech_score": 8.0,
+      "tech_notities": "['Hand in rechterbovenhoek heeft lichte vervorming bij de vingers', 'Sommige vogels hebben inconsistentie in pootjes/plaatsing ten opzichte van vensterbank']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen typisch iconisch onderwerp of decoratief perfect licht; compositie heeft een eigen, bijna speelse structuur met de vogels en de deur.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w010936_10999.webp"
+    },
     {
       "id": 10994,
       "titel": "Vijf vogels, vier deuren",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010882_10945.webp"
-    },
-    {
-      "id": 10943,
-      "titel": "Drie punten in de rook",
-      "beschrijving": "Een verticale, golvende vorm loopt door het midden, met zachte, onregelmatige contouren die aan rook of een vage spoor denken laten ontstaan. Donkergrijze en blauwgrijze tinten vermengen zich met lichtere, bijna witte gebieden, waarbij de overgang vloeiend is. Drie kleine, donkere punten bevinden zich op verschillende hoogten, verspreid over het beeld. De achtergrond is homogeen en vaag, zonder duidelijke structuren, wat de golvende vorm accentueert. De sfeer is statisch en zwevend, zonder aanwijzingen van beweging of diepte.",
-      "cyclus": 10880,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010880_10943.webp"
-    },
-    {
-      "id": 10939,
-      "titel": "Roet dat zich herinnert",
-      "beschrijving": "Donkere, wazige vlekken en slanke, golvende lijnen vullen het beeld, alsof roet of ink door een natte, textuurrijke laag loopt. Zwarte en donkergrijze vormen kronkelen door een vaag, lichtgrijs vlak, met scherpe, onregelmatige randen die overgaan in zachte, wazige overgangen. Enkele kleine, donkere stippen en draden verspreiden zich door het beeld, terwijl sommige gebieden dichter bij elkaar liggen en andere ruimtelijker aanvoelen. De compositie voelt ongestructureerd, met vormen die zowel naar voren als naar achteren lijken te duiken, zonder duidelijke horizon of focus. De sfeer is stil en wat ongemakkelijk, alsof er iets onzichtbaars door het beeld stroomt.",
-      "cyclus": 10876,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010876_10939.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10943,
-    "gemaakt": 11005,
-    "gekozen": 1694,
+    "cycli": 10951,
+    "gemaakt": 11013,
+    "gekozen": 1696,
     "afgekeurd": 1379,
     "corpus": 64,
     "notities": 440
