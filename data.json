@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-19T03:45+02:00",
+  "bijgewerkt": "2026-08-19T04:00+02:00",
   "werk": [
     {
       "id": 10486,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 10502,
+      "cyclus": 10439,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een architectonisch detail met een klok, maar mist de typische toeristische iconen en heeft een neutrale, niet-decoratieve compositie.",
+      "bestand": "images/a010439_10502.webp"
+    },
+    {
       "id": 10482,
       "cyclus": 10419,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in vleugelstructuren bij één gans (rechtsboven)', 'Subtiele halo rond de zonsondergang aan de horizon']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (ganzen in vlucht tegen een zonsondergang) en het decoratieve, perfecte licht zonder duidelijke compositorische keuze.",
       "bestand": "images/a010403_10466.webp"
-    },
-    {
-      "id": 10430,
-      "cyclus": 10367,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare karakters', 'inconsistente lettergroottes en -posities', 'wazige randen rond tekst']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst als centraal element.",
-      "bestand": "images/a010367_10430.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10436,
-    "gemaakt": 10498,
+    "cycli": 10441,
+    "gemaakt": 10504,
     "gekozen": 1612,
-    "afgekeurd": 1364,
-    "corpus": 67,
+    "afgekeurd": 1365,
+    "corpus": 66,
     "notities": 432
   }
 }
