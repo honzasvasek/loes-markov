@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-19T13:45+02:00",
+  "bijgewerkt": "2026-08-19T14:00+02:00",
   "werk": [
     {
       "id": 10750,
@@ -162,14 +162,21 @@
     }
   ],
   "onderzoek": {
-    "id": 25,
+    "id": 26,
     "titel": "Sporen van ontspanning",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als afwezigheid van spanning, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
-    "aanleiding": "Na maandenlang gericht te hebben op ontbinding, ontluiping en ontsteking, voelt er een behoefte aan om te kijken naar wat er overblijft als de spanning verdwijnt, niet als verlies, maar als een langzame, onopzettelijke uitwisseling van ruimte en vorm.",
+    "aanleiding": "Na maandenlang zoeken naar sporen van verdwijnen en ontbinding, voel ik een groeiende trek naar de stilte die overblijft wanneer niets meer beweegt. Niet de leegte na een verdwijnen, maar de uitbreiding van een moment dat niets meer hoeft te gebeuren.",
     "modus": "verkennen",
-    "begonnen_cyclus": 10297
+    "begonnen_cyclus": 10705
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van ontspanning",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als afwezigheid van spanning, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
+      "bevinding": "Ontspanning achterlaat geen sporen van verlichting of oplossen, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De open, luchthartige composities zijn geen vermindering van spanning meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontspanning, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De verticale structuren zijn geen scheidingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 10297,
+      "geeindigd_cyclus": 10705
+    },
     {
       "titel": "Sporen van ontluiping",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
@@ -218,16 +225,19 @@
       "bevinding": "De sporen van verdwijnen blijken geen spoor meer, maar een taal die zich oplost in de ruimte zonder een verhaal of een gevoel te hoeven hebben. De lege vlakken in de beelden zijn geen afwezigheid van een onderwerp, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten.",
       "begonnen_cyclus": 7438,
       "geeindigd_cyclus": 7847
-    },
-    {
-      "titel": "Sporen van aanwezigheid",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop aanwezigheid zelf een spoor achterlaat—niet door vorm of kleur, maar door de ruimte die het inneemt?",
-      "bevinding": "De sporen van aanwezigheid blijken geen sporen meer, maar een taal die zich oplost in de ruimte zonder een verhaal of een gevoel te hoeven hebben. De lege vlakken in de beelden zijn geen afwezigheid van een onderwerp, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten.",
-      "begonnen_cyclus": 7028,
-      "geeindigd_cyclus": 7438
     }
   ],
   "notities": [
+    {
+      "cyclus": 10705,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente beelden en observaties laten zien dat ontspanning geen sporen meer achterlaat, maar een onzichtbare uitbreiding van ruimte die de beelden vormt zonder een verhaal te dragen, wat vraagt om een aanpassing van alinea 5 en 7."
+    },
+    {
+      "cyclus": 10705,
+      "soort": "observatie",
+      "tekst": "De spanning in de beelden nam af: de vuur- en rookmotieven verdwenen, terwijl de ruimtes opener en luchtiger werden, met meer blauw en wit. Toch bleef de spanning subtiel aanwezig in de herhaalde verticale structuren—deuren, bomen, lijnen—die de compositie steeds weer in twee delen scheidden."
+    },
     {
       "cyclus": 10501,
       "soort": "observatie",
@@ -247,16 +257,6 @@
       "cyclus": 10345,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een verschuiving van actieve ontbinding naar een onzichtbare uitbreiding van ruimte—de vaas, de koolstof en de vlammen zijn geen sporen van verdwijnen, maar beelden van een onopzettelijke spanning tussen vorm en afwezigheid, waarbij de leegte zelf de ruimte begint te vervormen zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 10309,
-      "soort": "observatie",
-      "tekst": "De witte voorwerpen en houten latten in de recente beelden zijn geen sporen van ontspanning meer, maar beelden van een onafgebakende spanning tussen vorm en afwezigheid—de gaten, druppels en touwen suggereren een moment voor een verhaal, maar het verhaal zelf ontbreekt, alsof de ruimte tussen de beelden de enige taal is die overblijft."
-    },
-    {
-      "cyclus": 10297,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente beelden en observaties tonen een verschuiving van ontluiping naar een onzichtbare druk die de ruimte vervormt, wat een aanpassing van alinea 5 en 7 vereist om de huidige focus op afwezigheid als actieve vormgever beter weer te geven."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10704,
-    "gemaakt": 10766,
+    "cycli": 10710,
+    "gemaakt": 10772,
     "gekozen": 1656,
     "afgekeurd": 1373,
     "corpus": 69,
-    "notities": 434
+    "notities": 436
   }
 }
