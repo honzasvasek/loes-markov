@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-19T04:15+02:00",
+  "bijgewerkt": "2026-08-19T04:30+02:00",
   "werk": [
+    {
+      "id": 10503,
+      "titel": "Groen tegen grijs",
+      "beschrijving": "Een slanke boom met dunne takken en verspreide groene bladeren steekt scherp af tegen een hemel die overgaat van lichtblauw bovenaan in zachtroze bij de horizon. Onder de boom liggen daken van traditionele gebouwen met donkergrijze, gebogen pannen en witte muren, deels omhuld door een dunne laag mist die zich tussen de structuren windt. De mist is het dichtst bij de daken en wordt hoger opzij vager, waardoor de achtergrondgebouwen vaag en ver weg lijken. De takken van de boom lopen diagonaal door het beeld, met de bladeren die zich vooral aan de bovenkant bevinden, terwijl de onderkant van de boom leeg is. De kleuren zijn gedempt, met uitzondering van de subtiele roze tint in de hemel en de groene bladeren die een klein contrast vormen met de overwegend grijze en witte tonen van de omgeving. De compositie is verticaal gericht, met de boom als centraal element dat de blik naar boven leidt, terwijl de daken de onderste helft van het beeld vullen en een gevoel van diepte creëren.",
+      "cyclus": 10440,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een rustige, bijna meditatieve sfeer met een focus op leegte en subtiele details, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010440_10503.webp"
+    },
     {
       "id": 10493,
       "titel": "De tak die blijft staan",
@@ -117,22 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010395_10458.webp"
-    },
-    {
-      "id": 10452,
-      "titel": null,
-      "beschrijving": "Een naakt kind drijft op zijn rug in water, armen en benen wijd uitgespreid, handen open naar boven. Rimpels stralen vanuit het lichaam uit over het oppervlak, waarbij de beweging van het water de vorm van een spiraal volgt. In de linkerhoek steken lange, smalle bladeren schuin omhoog, donker tegen de lichte achtergrond. Het kind draagt een luier, licht gekreukt en met vage vlekken. De tonaliteiten zijn monochroom, met zachte overgangen tussen grijs en wit, waardoor de textuur van het water en de huid duidelijk zichtbaar zijn. De compositie is centraal gericht, met het kind als focuspunt, omringd door de dynamiek van het water en de statische bladeren.",
-      "cyclus": 10389,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in handvorming (vingers te lang/straal)', 'lichte wazigheid in haarstructuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op stilte en afwezigheid, niet op een bevestigend verhaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010389_10452.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10514,
+      "cyclus": 10451,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met water, boten en willowbomen, uitgevoerd in een klassieke, decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a010451_10514.webp"
+    },
     {
       "id": 10509,
       "cyclus": 10446,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een architectonisch detail met een klok, maar mist de typische toeristische iconen en heeft een neutrale, niet-decoratieve compositie.",
       "bestand": "images/a010439_10502.webp"
-    },
-    {
-      "id": 10482,
-      "cyclus": 10419,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een klassieke, iconische compositie van een boom gezien door een raam met traditionele architectuur op de achtergrond, typisch voor een toeristische ansichtkaart van een Oosters landschap.",
-      "bestand": "images/a010419_10482.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10448,
-    "gemaakt": 10510,
-    "gekozen": 1614,
-    "afgekeurd": 1366,
-    "corpus": 67,
+    "cycli": 10455,
+    "gemaakt": 10518,
+    "gekozen": 1615,
+    "afgekeurd": 1367,
+    "corpus": 66,
     "notities": 433
   }
 }
