@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T03:30+02:00",
+  "bijgewerkt": "2026-08-19T03:45+02:00",
   "werk": [
+    {
+      "id": 10486,
+      "titel": "De barst die blijft steken",
+      "beschrijving": "Zand met golvende patronen vormt een textuurrijke ondergrond, doorsneden door een scherpe, donkere barst die van de witgepleisterde muur van een gebouw naar beneden loopt. Zeven donkere, gladde keien liggen verspreid in het zand, sommige deels begraven, met kleine donkere vlekken en korrels die rondom sprinkelen. Drie ramen met witte kozijnen lopen horizontaal langs de muur, waarvan het rechterste raam een vaag silhouet van een been onthult. De scène is in zwart-wit, met subtiele overgangen tussen licht en donker, wat de textuur van het zand en de glans op de keien benadrukt. De barst loopt diagonaal door het beeld, terwijl de keien een losse, bijna willekeurige indeling vormen.",
+      "cyclus": 10423,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van zand bij vensterbank', 'lichte vervaging van randen van stenen in schaduw']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, denkbeeldige spanning tussen de stenen en de scheur.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010423_10486.webp"
+    },
+    {
+      "id": 10484,
+      "titel": "Sporen in het zand",
+      "beschrijving": "Zand met fijne, golvende patronen vult het beeld, doorsneden door donkere vlekken en spatten die lijken op inkt of modder. Een groepje gladde, donkere stenen ligt verspreid in het zand, met schaduwen die diepte suggereren. De kleuren zijn gedempt: zandbeige, grijs en zwart, met subtiele overgangen door het licht dat zacht over de golven speelt. De compositie is asymmetrisch, met de donkere elementen die een diagonale lijn vormen van linksboven naar rechtsonder, terwijl het zand de ruimte tussen de vormen vult met een rustige, bijna meditatieve sfeer. Geen beweging, geen geluid—alleen de stilte van een landschap waar iets onzichtbaars recentelijk sporen heeft nagelaten.",
+      "cyclus": 10421,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve compositie zonder iconische of toeristische elementen, en toont een persoonlijke kijk op textuur en ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010421_10484.webp"
+    },
     {
       "id": 10478,
       "titel": "Barst in de stilligheid",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010377_10440.webp"
-    },
-    {
-      "id": 10437,
-      "titel": "Papier dat liegt over huid",
-      "beschrijving": "Een close-up van een gezicht, gescheurd in drie horizontale banen door wit papier met een onregelmatige, verscheurde rand. Bovenin is een neus zichtbaar met zachte, roze tinten en subtiel textuur in de huid. Daaronder liggen volle, roodachtige lippen met een lichte glans, omringd door huid met fijne poriën en een warme, beige ondertoon. De onderste baan toont een vage, donkerbruine achtergrond met een onscherpe hint van haren en een schouderlijn. Het papier scheidt de beelden scherp, maar de huid en lippen stralen een realistische, bijna tastbare textuur uit. De compositie is statisch, met een focus op de details van de huid en de contrasten tussen de gescheurde lagen en de zachte overgangen in kleur en textuur.",
-      "cyclus": 10374,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele spanning tussen aanwezigheid en afwezigheid, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010374_10437.webp"
-    },
-    {
-      "id": 10432,
-      "titel": "Maan in water, papier met droom",
-      "beschrijving": "Een glazen pot met helder water staat op een donkere ondergrond, met daarin een roze, maanvormig voorwerp dat drijft. Voor de pot ligt een wit vel papier met een onregelmatige, gescheurde rand, waarop een blauwe waterverfkringing is aangebracht. De kringing heeft een ongelijkmatige, korrelige textuur en kleine blauwe druppeltjes rond de rand. Het water in de pot reflecteert licht, waardoor kleine witte stippen ontstaan aan de oppervlakte. De achtergrond is donkerbruin en onscherp, waardoor de pot en het papier centraal staan. De compositie combineert transparantie, textuur en kleur in een stilleven zonder duidelijke actie.",
-      "cyclus": 10369,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming van de tong in het glas (onnatuurlijke textuur en vorm)', 'Wazige overgang tussen het glas en de achtergrond (geen scherpe rand)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een ongewone combinatie van elementen zonder decoratief licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010369_10432.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10429,
-    "gemaakt": 10491,
-    "gekozen": 1610,
+    "cycli": 10436,
+    "gemaakt": 10498,
+    "gekozen": 1612,
     "afgekeurd": 1364,
-    "corpus": 68,
+    "corpus": 67,
     "notities": 432
   }
 }
