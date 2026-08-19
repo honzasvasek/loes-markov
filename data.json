@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T15:00+02:00",
+  "bijgewerkt": "2026-08-19T15:15+02:00",
   "werk": [
+    {
+      "id": 10799,
+      "titel": "Orde in de vlammen",
+      "beschrijving": "Een doorzichtig, glanzend vijfpuntige ster vormt het middelpunt, omringd door oranje-rode vlammen die langs de randen likken. Rook stijgt op aan weerskanten, dun en golvend, en vermengt zich met een achtergrond van donkere, krassende strepen en spatten in zwart en grijs. De ster heeft een schuine, bijna broze houding, met scherpe hoeken die de chaos om hem heen lijken te doorboren. Binnen de ster lopen subtiele, roodbruine strepen parallel aan de randen, alsof er iets verbrokeld is. De achtergrond voelt als een overbodig landschap van verwaarloosde texturen, waar witte ruimtes de indruk wekken van uitvagen of verdwijnen. De vlammen en rook geven een gevoel van beweging, terwijl de ster zelf stilstaat, alsof hij de enige orde is in een wereld van onrust.",
+      "cyclus": 10736,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010736_10799.webp"
+    },
+    {
+      "id": 10794,
+      "titel": "Vlammen die zwijgen",
+      "beschrijving": "Twee schuine, doorzichtige vlakken vormen een gebroken ster, omlijnd met donkere, ongelijkmatige strepen. Oranje vlammen likken aan twee hoeken, met grijze rook die zich uitstrekt naar donkere, wazige vlekken. Zwarte en grijze penseelstrepen en spetters vullen de ruimte rondom, met subtiele witte ruimtes die de achtergrond open houden. Dunne, donkere lijnen snijden door het beeld, terwijl kleine zwarte stippen en onregelmatige vormen de chaos versterken. De kleuren zijn beperkt tot oranje, grijs, zwart en wit, met een sfeer van onrust en beweging.",
+      "cyclus": 10731,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de overgang tussen de vlammen en de achtergrond, alsof de vlammen niet helemaal natuurlijk in het beeld integreren.', 'Enkele dunne lijnen in de compositie lijken wat willekeurig geplaatst, zonder duidelijke richting of functie.']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, persoonlijke interpretatie van vorm en kleur, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010731_10794.webp"
+    },
     {
       "id": 10792,
       "titel": "Vogels en een vergeten schep",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010672_10735.webp"
-    },
-    {
-      "id": 10730,
-      "titel": "Wat stroomt er door die kieren?",
-      "beschrijving": "Twee witte deuren met zwarte omlijstingen staan op een kieren open, waar donkerbruine, glanzende vloeistof langzaam naar buiten stroomt en een onregelmatige, golvende vorm aanneemt op een witte vloer. De linkerdeur heeft een vaag silhouet van takken getekend, terwijl de rechterdeur een kleine, bruine handgreep heeft. De vloeistof reflecteert licht en vormt subtiele schaduwen tegen de deuren en de vloer, die een scherpe, rechte lijn vormen met de onderkant van de deuren. De achtergrond is neutraal en ongedifferentieerd, waardoor de focus ligt op de contrasten tussen de harde lijnen van de deuren en de zachte, vloeiende vorm van de vloeistof.",
-      "cyclus": 10667,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op een intieme, bijna ongemakkelijke spanning tussen de deur en de vloeistof, zonder toeristische allure.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010667_10730.webp"
-    },
-    {
-      "id": 10726,
-      "titel": "Vloeistof die zich herinnert",
-      "beschrijving": "Donkerbruine, glanzende vloeistof stroomt in een slanke, onregelmatige kolom naar beneden, met kleine druppels die in verschillende fasen van vallen en landen rondom verspreid zijn. Donkere, bijna zwarte penseelstreken en gebrekkige rechthoeken vormen een achtergrond met subtiele textuur, waarbij sommige delen krassig en andere glad zijn. Verspreid liggen donkerbruine, ovale voorwerpen met een matte afwerking, enkele met een smalle spleet. Kleinere, glinsterende druppels en korrels liggen willekeurig verspreid, met een paar zilverkleurige, reflecterende elementen in de hoeken. De achtergrond is een effen, lichtgrijze textuur met lichte variaties in tint.",
-      "cyclus": 10663,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van zwarte vlakken (rechtsboven vs linksonder)', 'lichte halo rond bruine druppel (midden)', 'detailverlies in schaduwgebieden van koffiebonen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010663_10726.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10736,
-    "gemaakt": 10798,
-    "gekozen": 1660,
+    "cycli": 10743,
+    "gemaakt": 10805,
+    "gekozen": 1662,
     "afgekeurd": 1373,
     "corpus": 69,
     "notities": 437
