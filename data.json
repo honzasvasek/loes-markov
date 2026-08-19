@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-19T10:15+02:00",
+  "bijgewerkt": "2026-08-19T10:30+02:00",
   "werk": [
+    {
+      "id": 10660,
+      "titel": "Waar blijft de cirkel?",
+      "beschrijving": "Een smalle, modderige pad slingert door weelderig groen gras, omzoomd door donkere stenen en verspreide takjes. Rechts ligt een donkere veer tussen het groen, terwijl in de verte een grote, bruine cirkel de horizon domineert tegen een crèmekleurige achtergrond. Kleuren variëren van levendig groen en bruin tot zachte beige, met subtiele blauwe en witte accenten in het gras. De compositie is verticaal georiënteerd, met het pad dat de blik naar de cirkel leidt. De sfeer is rustig en iets mysterieus, door de leegte boven de cirkel en de verlaten uitstraling van het pad. Details zoals de textuur van het gras en de natte modder geven een gevoel van natuurgevoel en verlatenheid.",
+      "cyclus": 10597,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in grastextuur aan linkerzijde, lichte wazigheid in achtergrondcirkel",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, compositorische keuze is ongemakkelijk en niet-bevestigend",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010597_10660.webp"
+    },
     {
       "id": 10655,
       "titel": "Gevorkt groen tussen deuren",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010549_10612.webp"
-    },
-    {
-      "id": 10609,
-      "titel": "Goud dat fluistert door de kier",
-      "beschrijving": "Een houten deur staat op een kier in een roodbruine muur, met een golvende strook zand die door de opening loopt en over de vloer meandert. Het zand is doorspekt met glinsterende goudvlokken die een kronkelend pad vormen, alsof ze door een onzichtbare stroom worden meegesleurd. De deur heeft een klassieke, paneelvormige structuur met een messing deurknop en een donkere kier waar licht doorheen strijkt. De muren en vloer hebben een egaal, mat tint, terwijl het zand en de goudvlokken een textuur hebben die diepte en beweging suggereert. De ruimte voelt leeg en stil, met de deur als enig punt van interesse dat de blik trekt naar een onzichtbare buitenwereld.",
-      "cyclus": 10546,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, introspectieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief maar gericht op een subtiele spanning tussen leegte en aanwezigheid.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010546_10609.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10607,
-    "gemaakt": 10670,
-    "gekozen": 1641,
+    "cycli": 10613,
+    "gemaakt": 10676,
+    "gekozen": 1642,
     "afgekeurd": 1372,
-    "corpus": 69,
+    "corpus": 68,
     "notities": 434
   }
 }
