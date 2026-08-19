@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T01:00+02:00",
+  "bijgewerkt": "2026-08-20T01:15+02:00",
   "werk": [
+    {
+      "id": 11076,
+      "titel": "Welke deur gaat open?",
+      "beschrijving": "Twee rechthoekige deuren met verticale panelen en kleine, ronde handvatten staan schuin tegen een effen muur, onder een getegeld dak met golvende dakpannen. De linkerdeur heeft een eenvoudige, rechte bovenlijst, de rechterdeur een breder, licht overhangend dakje. Voor elke deur ligt een onregelmatige steen, met losse stenen en schaduwen die de grond vullen. De muur is getekend met lichte, verticale strepen, het dak met donkere, parallelle lijnen die de textuur van de pannen suggereren. De achtergrond is een egale, beige kleur zonder details, waardoor de deuren en het dak centraal staan. De handvatten verschillen: het linker is een eenvoudige knop, het rechter een meer gedetailleerd, uitsteekselachtig vormpje. De schaduwen onder de deuren en stenen zijn donker getekend, met fijne, schuine strepen die diepte geven.",
+      "cyclus": 11013,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren ten opzichte van het dak', 'lichte wazigheid in de textuur van de muur onder de deuren']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, bijna verontrustende asymmetrie die boven een ansichtkaart uitstijgt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011013_11076.webp"
+    },
+    {
+      "id": 11072,
+      "titel": "Gordijnen die liegen",
+      "beschrijving": "Een gevel met zes rechthoekige ramen, verdeeld over drie lagen en twee kolommen. De ramen hebben donkere kozijnen en witte vensterbanken. Het linkerbovenste venster reflecteert donker glas, het rechterbovenste toont lichte gordijnen met verticale plooien. Het middelste linkervenster is donker en glanzend, het middelste rechtervenster heeft ook lichte gordijnen, maar met minder duidelijke plooien. Het linkeronderste venster laat vaag zichtbare voorwerpen binnenin zien, het rechteronderste venster is donker met een smalle horizontale spleet bovenin. De gevel is glad en lichtgrijs, met subtiele schaduwen onder de vensterbanken en verticale lijnen die de ramen van elkaar scheiden.",
+      "cyclus": 11009,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristische ansichtkaart: de compositie is strikt en minimalistisch, zonder iconische onderwerpen of decoratief licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011009_11072.webp"
+    },
     {
       "id": 11065,
       "titel": "Donkere golven, witte vragen",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010957_11020.webp"
-    },
-    {
-      "id": 11014,
-      "titel": "Drie ramen, één klink",
-      "beschrijving": "Zes rechthoekige deuren zijn symmetrisch geplaatst in een grijze muur, verdeeld over drie rijen en twee kolommen. Elke deur heeft drie verticale, amandelvormige ramen aan de bovenzijde en een kleine, ronde klink aan de linkerzijde. Tussen de deuren lopen zachte, golvende patronen in lichtere grijstinten door de muur, die een subtiele dynamiek toevoegen aan de anders statische compositie. De deuren en de muur hebben een matte textuur, en de ramen reflecteren geen licht, waardoor ze donker en leeg lijken. De algehele sfeer is kalm en geordend, met een minimale kleurenpalet dat de focus legt op vorm en structuur.",
-      "cyclus": 10951,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet gericht op een herkenbaar tafereel.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010951_11014.webp"
-    },
-    {
-      "id": 11012,
-      "titel": "Verf die zich herinnert",
-      "beschrijving": "Een rechthoekig doek in een licht houten lijst toont zestien kleurrijke, cirkelvormige verfvlakken, gerangschikt in vier rijen van vier. Elke cirkel heeft een unieke textuur met zichtbare penseelstreken en variërende dikte van de verf, wat een driedimensionaal effect geeft. De kleuren lopen uiteen van donkerblauw en paars bovenaan tot groen, geel en turkoois in het midden, met rode en oranje tinten daartussen. Tussen de cirkels lopen subtiele, doorschijnende lijnen die een vaag raster vormen, alsof er een onzichtbare structuur onder de verf schuilgaat. De achtergrond is crèmekleurig en contrasteert met de levendige verf, terwijl de houten lijst de compositie omrand met een rustige, natuurlijke textuur.",
-      "cyclus": 10949,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte compositie met persoonlijke keuzes in kleur en structuur, geen toeristische ansichtkaartstijl.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010949_11012.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11012,
-    "gemaakt": 11075,
-    "gekozen": 1706,
+    "cycli": 11020,
+    "gemaakt": 11082,
+    "gekozen": 1708,
     "afgekeurd": 1379,
     "corpus": 64,
     "notities": 441
