@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-19T07:00+02:00",
+  "bijgewerkt": "2026-08-19T07:15+02:00",
   "werk": [
+    {
+      "id": 10582,
+      "titel": "Zes vragen zonder antwoord",
+      "beschrijving": "Zes donkere, amorf gevormde vlekken liggen verspreid over een lichtgrijze, textuurrijke achtergrond die doet denken aan verwaterd papier. De vlekken variëren in grootte en vorm, met zachte, onregelmatige randen die soms scherp afsteken tegen de achtergrond, soms vervagen in subtiele overgangen. Binnen de vlekken lopen donkerdere strepen en plekken door, alsof de inkt ongelijkmatig is opgenomen. De compositie is asymmetrisch, met veel lege ruimte tussen de vormen, wat een gevoel van zwevende isolatie oproept. De sfeer is stil en contemplatief, met een onderliggende spanning tussen de donkere vormen en de lichte, bijna kwetsbare achtergrond.",
+      "cyclus": 10519,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010519_10582.webp"
+    },
+    {
+      "id": 10580,
+      "titel": "Waar gaat die deur naartoe?",
+      "beschrijving": "Een lichtblauwe deur met gouden beslag staat centraal in een geelgrijze muur, omlijst door een donkerbruine lijst. Een scherpe, zwarte scheur loopt diagonaal van linksboven naar rechtsonder door de deur en de omlijsting, met witte randen die de scheur benadrukken. Achter de scheur is niets zichtbaar. De deur heeft twee panelen en twee scharnieren aan de rechterkant. De achtergrond bestaat uit donkerbruin hout met zichtbare vezels en knoesten. De compositie is symmetrisch, met de deur als focuspunt. De kleuren zijn gedempt, behalve de gele omlijsting en de gouden beslagen. De sfeer is statisch en iets ongemakkelijks door de scheur.",
+      "cyclus": 10517,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De deur met scheur is geen iconisch onderwerp en de compositie heeft een bewuste, niet-decoratieve opbouw.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010517_10580.webp"
+    },
+    {
+      "id": 10577,
+      "titel": "Wat als de deur openging?",
+      "beschrijving": "Een houten deur met een gouden klink staat schuin in beeld, de rechterkant scheurt open en onthult een oceaan met golven die op een strand breken. De deur is bedekt met donkerbruine en paarse vlekken en kleine rode en oranje druppels, terwijl aan de onderkant een vlammenveloppend patroon in oranje, rood en geel loopt, met glanzende, bijna 3D-achtige textuur. Achter de scheur zie je een lichtblauwe hemel met zachte wolken en een horizon die overgaat in het donkerblauwe water. De muur rond de deur is donkerblauw geschilderd, met subtiele textuur die doet denken aan verflagen die iets opzwellen bij de randen van de scheur. De golven hebben wit schuim en de kustlijn is zandkleurig, met een lichte overgang naar het water. De houten deur heeft een duidelijke nerfstructuur en de klink heeft een matte afwerking met lichte reflecties van licht.",
+      "cyclus": 10514,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in houtstructuur bij rand van deur', 'lichte wazigheid in golven aan horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, actieve spanning tussen realiteit en illusie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010514_10577.webp"
+    },
     {
       "id": 10576,
       "titel": "Verdwijnend spoor in grijs",
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010485_10548.webp"
-    },
-    {
-      "id": 10533,
-      "titel": "Veeren die zwijgen bewaren",
-      "beschrijving": "Twee donkere, gedetailleerde vleugels met veerstructuren vullen de bovenste helft, gespreid in een V-vorm tegen een roze achtergrond met concen trische, donkere cirkels die een stralend effect creëren. Onderin staat een witte kop met een geel binnenste en donkere, abstracte patronen, waarbij de handvatkant naar rechts wijst. Donkere vlekken en stippen verspreiden zich rond de kop, die schuin staat ten opzichte van de vleugels. De compositie is verticaal georiënteerd, met de vleugels als centraal punt dat de blik naar beneden leidt naar de kop. Kleuren zijn voornamelijk roze, donkerblauw, zwart en geel, met een textuur die granulerend en licht korrelig overkomt.",
-      "cyclus": 10470,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vleugeltextuur (links/rechts)', 'lichte halo rond kop koffie']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongewoon en niet-bevestigend.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010470_10533.webp"
-    },
-    {
-      "id": 10530,
-      "titel": "Drie druppels, één stilte",
-      "beschrijving": "Drie amorf gevormde vloeistofdruppels drijven verticaal uitgelijnd tegen een zachtroze achtergrond, elk omgeven door subtiele, concentrische rimpelingen die beweging suggereren. De bovenste druppel is wit met donkerblauze, onregelmatige vlekken die uitstralen als een spattenpatroon. De middelste druppel heeft een goudbruine, halftransparante textuur met donkerblauwe en zwarte aders die een organisch, bijna celachtig reliëf vormen. De onderste druppel is grijs met donkerblauwe en zwarte, wazige patronen die aan roet of verbleekte inkt doen denken. De druppels hebben een glanzende, natte uitstraling en lijken in een moment van stilling te bevriezen, terwijl de rimpelingen een gevoel van recente beweging behouden. De kleuren en texturen verschillen sterk, maar de compositie straalt een rustige, bijna meditatieve balans uit.",
-      "cyclus": 10467,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met persoonlijke compositorische keuzes.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010467_10530.webp"
-    },
-    {
-      "id": 10527,
-      "titel": "Ontbinding in golven",
-      "beschrijving": "Drie amorf vormen drijven tegen een roze achtergrond, omgeven door concentrische cirkels die als golven door het beeld lopen. Het bovenste vorm is wit met blauwe vlekken, het middelste vorm straalt donkerbruin en goud uit met zwart, vlamachtig materiaal dat omhoog kruipt. Het onderste vorm is donkergrijs met zwarte vlekken, alsof het in een vloeistof zweeft. De overgang tussen de vormen is vaag, met spatten en verloop die beweging suggereren. De roze achtergrond is niet eenduidig: lichte en donkere tinten mengen zich met de cirkels, die zowel diepte als afstand creëren. Geen van de vormen heeft een duidelijke rand, alsof ze in constante ontbinding zijn.",
-      "cyclus": 10464,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de witte bol bovenaan', 'lichte inconsistentie in de overgang tussen de donkere vlammen en de achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is abstract en open, zonder decoratief perfect licht of een duidelijk verhaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010464_10527.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10519,
-    "gemaakt": 10581,
-    "gekozen": 1627,
+    "cycli": 10526,
+    "gemaakt": 10589,
+    "gekozen": 1630,
     "afgekeurd": 1369,
     "corpus": 69,
     "notities": 434
