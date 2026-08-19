@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T19:15+02:00",
+  "bijgewerkt": "2026-08-19T19:30+02:00",
   "werk": [
+    {
+      "id": 10908,
+      "titel": "IJs en water in balans",
+      "beschrijving": "Een spinnenweb, bedekt met een fijne, witte ijsglans, vult het beeld. De draden vormen een perfect symmetrisch patroon van stralen en spiraallijnen, waarbij de ijzige korrels de textuur benadrukken. Drie heldere waterdruppels hangen aan de randen van het web, glinsterend tegen de zachte, bruine achtergrond. In het midden zit een kleine spin, donker van kleur met subtiele blauwe en paarse tinten op zijn poten. De achtergrond is onscherp, waardoor het web scherp afsteekt en de focus ligt op de fragile balans tussen ijs, water en structuur. De sfeer is stil en verlaten, met een onderliggende spanning tussen de kwetsbaarheid van het web en de onverbiddelijkheid van de kou.",
+      "cyclus": 10845,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een intieme, close-up compositie met een focus op detail en textuur, geen typisch iconisch onderwerp.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010845_10908.webp"
+    },
+    {
+      "id": 10905,
+      "titel": "VluchtReadyZeven",
+      "beschrijving": "Zeven vogels met uitgespreide vleugels vullen het beeld, verspreid over een witte achtergrond. Ze hebben een opvallende kleurcombinatie: een blauwe kop, rode borst en witte onderkant, met donkerblauwe en grijze vleugels die subtiele oranje accenten vertonen. Hun oranje snavels en poten contrasteren scherp met de koelere tinten. De vogels staan in verschillende vluchtposities, met lichte variaties in hoek en uitdrukking. Één vogel, rechtsonder, heeft een meer gedempte kleurpalet en kijkt direct naar voren, terwijl de overige vogels in profiel of schuin vanaf de zijkant worden getoond. De compositie straalt beweging uit, alsof de vogels net de vlucht nemen of zich voorbereiden op een aanzet.",
+      "cyclus": 10842,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De vogels zijn geen iconisch Nederlands motief en de compositie heeft een eigen dynamiek door de variatie in vluchtposities en de asymmetrische plaatsing.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w010842_10905.webp"
+    },
     {
       "id": 10898,
       "titel": "Vlucht en vasthouding",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010792_10855.webp"
-    },
-    {
-      "id": 10852,
-      "titel": "Vogels en kersen in een regenbui",
-      "beschrijving": "Zes vogels met grijze, bruine en blauwe veren zitten op of vliegen rond een tak met rode kersen en groene bladeren. Bovenin loopt een donkerblauwe, golvende vorm met druppels die naar beneden lopen, tegen een witte achtergrond met zachte, geschilderde textuur. De vogels hebben verschillende houdingen: sommigen kijken naar de kersen, anderen naar elkaar of naar buiten het beeld. De kleuren zijn helder maar met subtiele overgangen, en de compositie is los en dynamisch, met veel witte ruimte die de vogels en kersen omringt.",
-      "cyclus": 10789,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vogelveren (enkele veren lijken te vloeiend/te scherp getekend)', 'lichte halo rond de kersen door hoog contrast met achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is asymmetrisch en de vogels hebben een ongemakkelijke, bijna verontrustende blik.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w010789_10852.webp"
-    },
-    {
-      "id": 10849,
-      "titel": "Rood dat blijft hangen",
-      "beschrijving": "Twee kersen hangen samen aan een steel, de ene glinstert goudrood, de andere dieprood, scherp tegen een onscherpe, grijze achtergrond. Daaronder zweeft een donkere, onregelmatige rots met een ruwe textuur, alsof hij net uit water of modder is gehaald. Onder de rots lopen drie witte, horizontale strepen met ongelijkmatige randen, die de indruk wekken van gescheurd papier of bevroren golven. In de achtergrond zweven nog twee kersen vaag zichtbaar, één grijs en één rood, alsof ze in rook of mist verdwijnen. De sfeer is stil en zwevend, met een contrast tussen de levendige kleuren van de kersen en de gedempte, bijna monochromatische omgeving.",
-      "cyclus": 10786,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongewoon en heeft een eigen standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010786_10849.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10846,
-    "gemaakt": 10908,
-    "gekozen": 1679,
+    "cycli": 10853,
+    "gemaakt": 10915,
+    "gekozen": 1681,
     "afgekeurd": 1374,
-    "corpus": 66,
+    "corpus": 67,
     "notities": 440
   }
 }
