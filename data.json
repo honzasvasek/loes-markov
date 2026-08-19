@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T05:30+02:00",
+  "bijgewerkt": "2026-08-19T05:45+02:00",
   "werk": [
+    {
+      "id": 10533,
+      "titel": "Veeren die zwijgen bewaren",
+      "beschrijving": "Twee donkere, gedetailleerde vleugels met veerstructuren vullen de bovenste helft, gespreid in een V-vorm tegen een roze achtergrond met concen trische, donkere cirkels die een stralend effect creëren. Onderin staat een witte kop met een geel binnenste en donkere, abstracte patronen, waarbij de handvatkant naar rechts wijst. Donkere vlekken en stippen verspreiden zich rond de kop, die schuin staat ten opzichte van de vleugels. De compositie is verticaal georiënteerd, met de vleugels als centraal punt dat de blik naar beneden leidt naar de kop. Kleuren zijn voornamelijk roze, donkerblauw, zwart en geel, met een textuur die granulerend en licht korrelig overkomt.",
+      "cyclus": 10470,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vleugeltextuur (links/rechts)', 'lichte halo rond kop koffie']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze is ongewoon en niet-bevestigend.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010470_10533.webp"
+    },
+    {
+      "id": 10530,
+      "titel": "Drie druppels, één stilte",
+      "beschrijving": "Drie amorf gevormde vloeistofdruppels drijven verticaal uitgelijnd tegen een zachtroze achtergrond, elk omgeven door subtiele, concentrische rimpelingen die beweging suggereren. De bovenste druppel is wit met donkerblauze, onregelmatige vlekken die uitstralen als een spattenpatroon. De middelste druppel heeft een goudbruine, halftransparante textuur met donkerblauwe en zwarte aders die een organisch, bijna celachtig reliëf vormen. De onderste druppel is grijs met donkerblauwe en zwarte, wazige patronen die aan roet of verbleekte inkt doen denken. De druppels hebben een glanzende, natte uitstraling en lijken in een moment van stilling te bevriezen, terwijl de rimpelingen een gevoel van recente beweging behouden. De kleuren en texturen verschillen sterk, maar de compositie straalt een rustige, bijna meditatieve balans uit.",
+      "cyclus": 10467,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met persoonlijke compositorische keuzes.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010467_10530.webp"
+    },
     {
       "id": 10527,
       "titel": "Ontbinding in golven",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010421_10484.webp"
-    },
-    {
-      "id": 10478,
-      "titel": "Barst in de stilligheid",
-      "beschrijving": "Zandduinen met fijne, golvende patronen vullen de onderste helft, onder een diepblauwe hemel zonder wolken. Een witte theekop met een barst zweeft in het midden, schuin gepositioneerd, met een dunne, donkere steel die naar beneden loopt en overgaat in een takkenstructuur. Deze takken, donkerblauw en zonder bladeren, strekken zich uit over het zand en de hemel, met fijnere takjes die naar de randen wijzen. De kop heeft een zachte, vaag getekende rand en een lichte schaduw eronder. Het zand heeft een warme, beige tint met subtiele schaduwen die de golvende structuur benadrukken. Boven de compositie loopt een smalle, witte rand, en onderaan is een deel van een houten oppervlak zichtbaar met een lichte textuur.",
-      "cyclus": 10415,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de takstructuur van de boom (enkele takken lopen logisch door, andere verdwijnen plotseling)",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een surrealistisch motief (gebroken kop die overgaat in een boom) met een woestijnschap, wat geen typisch iconisch onderwerp is en een eigen compositorische keuze vertoont.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010415_10478.webp"
-    },
-    {
-      "id": 10475,
-      "titel": "Wie keek hier net weg?",
-      "beschrijving": "Een houten raam met twee ruiten omlijst een uitzicht op twee kale bomen met uitgespreide takken, getekend in fijne, donkere lijnen tegen een lichtgrijze achtergrond met subtiele textuur. Onder de bomen groeien donkere, gestileerde planten met lange, smalle bladeren en enkele kleine bloemen. Het raam heeft een horizontale scheidingslat met een klein, rond metaalbeslag in het midden. Rechtsonder op de vensterbank liggen drie kleine, donkere voorwerpen die lijken op zaden of steentjes. Het hout van het raam toont slijtage en korrelige structuren, met lichte schaduwen die diepte suggereren. De compositie is symmetrisch, met de bomen centraal en de planten die de onderkant van het beeld vullen. De sfeer is stil en iets verlaten, benadrukt door de afwezigheid van bladeren en de gedempte kleuren.",
-      "cyclus": 10412,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet typisch ansichtkaartmateriaal: de bomen staan schuin en de lege ruimte buiten het raam is niet decoratief, maar suggereert een onafgewerkt verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010412_10475.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10475,
-    "gemaakt": 10538,
-    "gekozen": 1618,
+    "cycli": 10482,
+    "gemaakt": 10545,
+    "gekozen": 1620,
     "afgekeurd": 1367,
     "corpus": 67,
     "notities": 433
