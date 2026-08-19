@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T00:45+02:00",
+  "bijgewerkt": "2026-08-20T01:00+02:00",
   "werk": [
+    {
+      "id": 11065,
+      "titel": "Donkere golven, witte vragen",
+      "beschrijving": "Donkere, golvende vormen snijden door een lichtgrijze, textuurrijke vlakte, omgeven door fijne, horizontale strepen die de achtergrond domineren. Witte en lichtblauwe golven omhullen donkere, bijna zwarte structuren met subtiele details zoals kleine witte vlekken en onregelmatige randen. De compositie straalt een dynamische spanning uit tussen de vloeiende beweging van de golven en de statische, bijna bedreigende aanwezigheid van de donkere vormen. Kleuren schuiven van diep zwart over verschillende grijstinten naar zachte blauwe en witte accenten, met verspreide kleine stippen die als spatten of korrels door het beeld lopen. De sfeer is zowel onrustig als mysterieus, met een gevoel van onafgebroken beweging en onzichtbare krachten die de vormen door de ruimte drijven.",
+      "cyclus": 11002,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is abstract en niet iconisch, de compositie is dynamisch en niet decoratief, en er is geen bevestigend lichtgebruik.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011002_11065.webp"
+    },
+    {
+      "id": 11063,
+      "titel": "Kleur in de kou",
+      "beschrijving": "Een donkergrijze, bakstenen toren met een ronde vorm en een blauwe, koepelachtige dakconstructie domineert het midden van het beeld, omringd door kale, met sneeuw bedekte bomen. De toren heeft vier verticale, spitse ramen met kleurrijk glas in rood, blauw, oranje en groen, waarachter een zwakke, warme gloed zichtbaar is. Sneeuw bedekt de daken, de vensterbanken en de grond rondom, met zachte, golvende vormen die de textuur van de sneeuw benadrukken. De achtergrond bestaat uit een lichte, vaag getekende horizon met nog meer kale bomen, wat een gevoel van isolatie versterkt. De algehele sfeer is koud en stil, met een subtiele contrast tussen de donkere toren en de heldere, witte sneeuw.",
+      "cyclus": 11000,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van bomen links/rechts', 'lichte wazigheid in sneeuwtextuur op achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigenzinnige, bijna ongemakkelijke balans tussen leegte en detail.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w011000_11063.webp"
+    },
     {
       "id": 11048,
       "titel": "Spitse dromen achter de muur",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010949_11012.webp"
-    },
-    {
-      "id": 11002,
-      "titel": "Negen wegen, één keuzemoment",
-      "beschrijving": "Negen blauwe deuren staan in een raster van drie op drie tegen een witte achtergrond. Elke deur heeft een uniek patroon van ramen, handvatten en decoraties: rode kersen bovenaan, oranje slangenfiguren in de ramen en af en toe een blauwe vogel. De deuren variëren in details zoals de plaatsing van de kersen, de vorm van de ramen en de aanwezigheid van de vogel, maar volgen allemaal een consistente stijl met houten panelen en blauwe kozijnen. De compositie is symmetrisch en overzichtelijk, met een speelse balans tussen herhaling en kleine afwijkingen.",
-      "cyclus": 10939,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de plaatsing van de kersen bij sommige deuren', 'Subtiele vervorming in de vorm van de vogels op twee deuren']",
-      "academie_cliche": 0,
-      "cliche_notities": "Hoewel de compositie herhalend is, ontbreekt het aan een iconisch of bevestigend onderwerp dat het tot een ansichtkaart maakt.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w010939_11002.webp"
-    },
-    {
-      "id": 10999,
-      "titel": "Vogels op wacht bij de deur",
-      "beschrijving": "Een diepblauwe houten deur met zes rechthoekige ruitjes, elk omlijst door donkerblauw hout en versierd met negen beige cirkels in een raster. Zes vogels met grijze veren, oranje vlekken op de vleugels en kop en witte buiken, bezetten de deur: één zit op de bovenste rand, één op een open hand die vanaf de rechterbovenhoek uitsteekt, en vier zitten op de vensterbanken van de middelste en onderste ruitjes. Zwarte metalen scharnieren en handvatten accentueren de deur. De vogels kijken in verschillende richtingen, wat een gevoel van wisselende aandacht geeft. De achtergrond is egaal blauw, waardoor de deur en vogels centraal staan.",
-      "cyclus": 10936,
-      "tech_score": 8.0,
-      "tech_notities": "['Hand in rechterbovenhoek heeft lichte vervorming bij de vingers', 'Sommige vogels hebben inconsistentie in pootjes/plaatsing ten opzichte van vensterbank']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen typisch iconisch onderwerp of decoratief perfect licht; compositie heeft een eigen, bijna speelse structuur met de vogels en de deur.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w010936_10999.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11005,
-    "gemaakt": 11067,
-    "gekozen": 1704,
+    "cycli": 11012,
+    "gemaakt": 11075,
+    "gekozen": 1706,
     "afgekeurd": 1379,
     "corpus": 64,
     "notities": 441
