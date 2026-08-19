@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T13:15+02:00",
+  "bijgewerkt": "2026-08-19T13:30+02:00",
   "werk": [
+    {
+      "id": 10750,
+      "titel": "Amber dat ademt",
+      "beschrijving": "Een smalle, horizontale laag glanzend, amberkleurig materiaal loopt dwars door het midden van een effen, lichtgrijze achtergrond. Het materiaal heeft een onregelmatige, organische vorm met zachte bulten en een smalle, puntige uitloop aan de rechterkant. Kleurrijke overgangen in het materiaal lopen van donkerbruin aan de randen naar een heldere, bijna transparante geelgroene tint in het midden. De textuur van het materiaal lijkt glad en iets viskeus, met kleine, donkere deeltjes verspreid door de laag. De achtergrond is volledig egaal, zonder textuur of afwijkingen, en vormt een scherp contrast met de dynamische vorm en kleur van het horizontale element. De compositie is minimalistisch, met de focus volledig op de subtiele variaties in het amberkleurige materiaal tegen de neutrale achtergrond.",
+      "cyclus": 10687,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010687_10750.webp"
+    },
+    {
+      "id": 10747,
+      "titel": "Goud dat zakt door stilte",
+      "beschrijving": "Een golvende, gouden vorm kruipt langs een witte muur en zakt door een donkere, waterachtige vlek op de vloer. De vorm heeft een vloeibare, bijna organische structuur met glanzende, onregelmatige randen en zwarte insluitsels. Rechts staat een grijze houten deur met paneelwerk en een metalen klink, licht geopend. De vloer is lichtgrijs met subtiele textuur, en de donkere vlek heeft concentrische patronen die uitstralen vanaf het punt waar de gouden vorm de grond raakt. Kleine gouden druppeltjes en donkere vlekjes zijn verspreid over de muur en vloer. De sfeer is stil en mysterieus, met een contrast tussen de koude, neutrale kleuren en de warme, levendige goudtint.",
+      "cyclus": 10684,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de golvende gouden vorm en de donkere vlek, wat het geen ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010684_10747.webp"
+    },
     {
       "id": 10738,
       "titel": "Vingers in de kier",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010640_10703.webp"
-    },
-    {
-      "id": 10690,
-      "titel": "Papier dat zich herinnert",
-      "beschrijving": "Tien rechthoekige papieren stroken met gescheurde randen liggen verspreid over een effen beige achtergrond. Elke strook toont een subtiele kleurverloop, variërend van zacht roze en lichtgrijs tot gedempt paars en beige. Sommige stroken hebben een witte, driehoekige hoek die loshangt, alsof ze recent zijn losgetrokken. De gescheurde randen zijn onregelmatig en textuurrijk, met kleine papiersnippeltjes die de indruk wekken van handmatig scheuren. De stroken zijn willekeurig geplaatst, zonder duidelijke volgorde of symmetrie, wat een gevoel van spontaneiteit en onafgefinisheid uitstraalt. De kleuren overlopen soepel, zonder scherpe overgangen, en creëren een rustige, bijna meditatieve sfeer.",
-      "cyclus": 10627,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet gericht op een toeristisch effect.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010627_10690.webp"
-    },
-    {
-      "id": 10688,
-      "titel": "Roodborstels zonder bestemming",
-      "beschrijving": "Twaalf donkere vogels met roodborstels vliegen door een beige, getextureerd vlak met zachte, golvende patronen. Hun vleugels staan wijd open, in verschillende vluchtposities, alsof ze net een tak met jonge, groene bladeren verlaten hebben. De tak loopt diagonaal door het bovenste deel, met kleine, verspreide bladeren die de lucht doorbreken. Vogels en tak zijn scherp getekend tegen de lichte achtergrond, met subtiele schaduwvalsen die diepte geven. De compositie is dynamisch, met vogels die in alle richtingen vliegen, maar een algemene stroom volgen van linksboven naar rechtsonder. Kleuren zijn gedempt, behalve de rode borstels en groene bladeren, die als accenten fungeren.",
-      "cyclus": 10625,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar toont een dynamische, bijna chaotische verdeling van vogels zonder duidelijke focus of typisch motief.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010625_10688.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10690,
-    "gemaakt": 10752,
-    "gekozen": 1654,
+    "cycli": 10697,
+    "gemaakt": 10759,
+    "gekozen": 1656,
     "afgekeurd": 1373,
-    "corpus": 69,
+    "corpus": 70,
     "notities": 434
   }
 }
