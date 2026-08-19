@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-19T17:15+02:00",
+  "bijgewerkt": "2026-08-19T17:30+02:00",
   "werk": [
+    {
+      "id": 10852,
+      "titel": "Vogels en kersen in een regenbui",
+      "beschrijving": "Zes vogels met grijze, bruine en blauwe veren zitten op of vliegen rond een tak met rode kersen en groene bladeren. Bovenin loopt een donkerblauwe, golvende vorm met druppels die naar beneden lopen, tegen een witte achtergrond met zachte, geschilderde textuur. De vogels hebben verschillende houdingen: sommigen kijken naar de kersen, anderen naar elkaar of naar buiten het beeld. De kleuren zijn helder maar met subtiele overgangen, en de compositie is los en dynamisch, met veel witte ruimte die de vogels en kersen omringt.",
+      "cyclus": 10789,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vogelveren (enkele veren lijken te vloeiend/te scherp getekend)', 'lichte halo rond de kersen door hoog contrast met achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is asymmetrisch en de vogels hebben een ongemakkelijke, bijna verontrustende blik.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w010789_10852.webp"
+    },
+    {
+      "id": 10849,
+      "titel": "Rood dat blijft hangen",
+      "beschrijving": "Twee kersen hangen samen aan een steel, de ene glinstert goudrood, de andere dieprood, scherp tegen een onscherpe, grijze achtergrond. Daaronder zweeft een donkere, onregelmatige rots met een ruwe textuur, alsof hij net uit water of modder is gehaald. Onder de rots lopen drie witte, horizontale strepen met ongelijkmatige randen, die de indruk wekken van gescheurd papier of bevroren golven. In de achtergrond zweven nog twee kersen vaag zichtbaar, één grijs en één rood, alsof ze in rook of mist verdwijnen. De sfeer is stil en zwevend, met een contrast tussen de levendige kleuren van de kersen en de gedempte, bijna monochromatische omgeving.",
+      "cyclus": 10786,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongewoon en heeft een eigen standpunt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010786_10849.webp"
+    },
+    {
+      "id": 10843,
+      "titel": "Waar blijft de oceaan?",
+      "beschrijving": "Een onregelmatige, lichtgekleurde rots met donkere en bruine tinten drijft in water, omringd door concentrische golven die zich uitstrekken naar een vaag getekende horizon. De rots heeft een ruwe textuur met witte en beige vlakken, terwijl de onderkant donkerder is en overgaat in het water. Het water weerspiegelt de rots en toont subtiele blauwe en grijze tinten, met lichte schommelingen die beweging suggereren. De achtergrond bestaat uit een zachte, onduidelijke mix van blauwe en beige kleuren, wat een rustige, bijna dromerige sfeer creëert. De compositie is centraal gericht, met de rots als focuspunt, terwijl de golven een gevoel van stilte en eenzaamheid versterken.",
+      "cyclus": 10780,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, contemplatieve sfeer zonder toeristische connotaties.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010780_10843.webp"
+    },
     {
       "id": 10838,
       "titel": "Waar blijft de vierde druppel?",
@@ -91,45 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010736_10799.webp"
-    },
-    {
-      "id": 10794,
-      "titel": "Vlammen die zwijgen",
-      "beschrijving": "Twee schuine, doorzichtige vlakken vormen een gebroken ster, omlijnd met donkere, ongelijkmatige strepen. Oranje vlammen likken aan twee hoeken, met grijze rook die zich uitstrekt naar donkere, wazige vlekken. Zwarte en grijze penseelstrepen en spetters vullen de ruimte rondom, met subtiele witte ruimtes die de achtergrond open houden. Dunne, donkere lijnen snijden door het beeld, terwijl kleine zwarte stippen en onregelmatige vormen de chaos versterken. De kleuren zijn beperkt tot oranje, grijs, zwart en wit, met een sfeer van onrust en beweging.",
-      "cyclus": 10731,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de overgang tussen de vlammen en de achtergrond, alsof de vlammen niet helemaal natuurlijk in het beeld integreren.', 'Enkele dunne lijnen in de compositie lijken wat willekeurig geplaatst, zonder duidelijke richting of functie.']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, persoonlijke interpretatie van vorm en kleur, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010731_10794.webp"
-    },
-    {
-      "id": 10792,
-      "titel": "Vogels en een vergeten schep",
-      "beschrijving": "Vier vogels vliegen door een lichtbeige ruimte met subtiele blauwe en groene wolkenvormen. Een schep met een houten steel en een donkere, iets versleten steel bevindt zich lager in het beeld, schuin geplaatst. De achtergrond bestaat uit verticale houten lamellen met een zachte, natuurlijke textuur. De vogels hebben donkere vleugels en lichte onderkanten, en bewegen zich in verschillende richtingen. De sfeer is kalm en open, met veel lege ruimte rond de objecten.",
-      "cyclus": 10729,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische compositie met een ongewone combinatie van motieven (vogels, schep, wolken) en geen typisch toeristisch onderwerp.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010729_10792.webp"
-    },
-    {
-      "id": 10781,
-      "titel": "Schaduw van een schep",
-      "beschrijving": "Twee houten deuren met kuipvormige panelen staan gesloten, geflankeerd door koperen scharnieren en een roestbruine deurklink. Een schep met een houten steel en metalen scheppenkop leunt schuin tegen de deuren, de punt rustend op een witte tegelvloer. Het hout vertoont natuurlijke nerven en knoesten, de metalen onderdelen hebben een matte, iets verweerde textuur. De schep werpt een donkere schaduw die zich uitstrekt over de tegels en de onderkant van de deuren. Witte tegels met dunne voegen vormen de achtergrond, de compositie is symmetrisch met de schep als diagonale leidraad.",
-      "cyclus": 10718,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongewone compositie met een schep tegen een houten deur, wat geen toeristische ansichtkaart uitstraalt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010718_10781.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 10789,
+      "soort": "observatie",
+      "tekst": "De kersen en vogels in de laatste beelden zijn geen sporen meer van ontspanning, maar beelden van een onopzettelijke spanning tussen aanwezigheid en afwezigheid—de glans van de kersen, de vlucht van de vogels en de lege ruimtes ertussen vormen een compositie die niet meer stilstaat, maar een onzichtbare druk uitoefent die de ruimte vervormt zonder een verhaal te dragen."
+    },
+    {
       "cyclus": 10753,
       "soort": "observatie",
       "tekst": "De vogels in de afgelopen beelden vliegen niet meer door een ruimte die zich ontbindt, maar door een compositie van lagen die elkaar niet meer raken—de scheuren, de muren en de houten achtergronden vormen geen verhaal, maar een onopzettelijke spanning tussen beweging en stilstaan, alsof de vogels de enige taal zijn die de leegte nog kan doorsnijden zonder een bestemming te hebben."
@@ -252,11 +257,6 @@
       "cyclus": 10501,
       "soort": "observatie",
       "tekst": "De donkere muur met de open deur en het goudkleurige materiaal dat eruit stroomt, voelt als een spoor van ontspanning dat de ruimte niet vervormt, maar juist openlegt—de leegte achter de deur is geen afwezigheid, maar een uitnodiging om te blijven stilstaan zonder een verhaal te hoeven vertellen."
-    },
-    {
-      "cyclus": 10441,
-      "soort": "observatie",
-      "tekst": "De recente beelden tonen een onopzettelijke spanning tussen vorm en afwezigheid—de houten daken, de boomstam en de stenen in vloeistof zijn geen sporen van ontspanning, maar beelden van een onzichtbare druk die de ruimte vervormt zonder een verhaal te dragen. De leegte tussen de elementen is geen afwezigheid, maar een actieve kracht die de beelden met elkaar verbindt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10788,
-    "gemaakt": 10850,
-    "gekozen": 1668,
+    "cycli": 10794,
+    "gemaakt": 10857,
+    "gekozen": 1671,
     "afgekeurd": 1373,
-    "corpus": 67,
-    "notities": 438
+    "corpus": 66,
+    "notities": 439
   }
 }
