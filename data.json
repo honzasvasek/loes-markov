@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T02:15+02:00",
+  "bijgewerkt": "2026-08-19T02:30+02:00",
   "werk": [
+    {
+      "id": 10452,
+      "titel": null,
+      "beschrijving": "Een naakt kind drijft op zijn rug in water, armen en benen wijd uitgespreid, handen open naar boven. Rimpels stralen vanuit het lichaam uit over het oppervlak, waarbij de beweging van het water de vorm van een spiraal volgt. In de linkerhoek steken lange, smalle bladeren schuin omhoog, donker tegen de lichte achtergrond. Het kind draagt een luier, licht gekreukt en met vage vlekken. De tonaliteiten zijn monochroom, met zachte overgangen tussen grijs en wit, waardoor de textuur van het water en de huid duidelijk zichtbaar zijn. De compositie is centraal gericht, met het kind als focuspunt, omringd door de dynamiek van het water en de statische bladeren.",
+      "cyclus": 10389,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in handvorming (vingers te lang/straal)', 'lichte wazigheid in haarstructuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op stilte en afwezigheid, niet op een bevestigend verhaal.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010389_10452.webp"
+    },
+    {
+      "id": 10446,
+      "titel": "Luier in golven",
+      "beschrijving": "Een naakt kind drijft op zijn buik in stilstaand water, alleen een wit luier is zichtbaar. De armen strekken vooruit, handen net boven het oppervlak, benen gestrekt en licht gespreid. Rond het lichaam lopen concentrische golven door het grijze water, dat de volledige achtergrond vult. Onderaan links steken lange, smalle, bruingroene bladeren uit een onzichtbare pot of oever, schuin omhoog wijzend. Het kind heeft kort, donkerbruin haar en de huid is rozeachtig wit. De sfeer is stil en zwevend, zonder duidelijke horizon of omgeving.",
+      "cyclus": 10383,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een intieme, persoonlijke sfeer en geen typisch toeristisch onderwerp of decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010383_10446.webp"
+    },
     {
       "id": 10440,
       "titel": "Lippen die zwijgen houden",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010345_10408.webp"
-    },
-    {
-      "id": 10402,
-      "titel": "Goud in de spleet",
-      "beschrijving": "Tussen twee donkere houten latten, met zichtbare vezels en knoesten, loopt een smalle spleet gevuld met zwart, korrelig materiaal dat op kool of verbrand hout lijkt. Door die spleet kronkelt een bundel dunne, goudbruine vezels, zacht en glanzend, die een organische, bijna levendige lijn vormen tegen de harde, donkere omgeving. De vezels zijn onregelmatig verdeeld, sommige lang en slank, andere korter en verstrengeld, en werpen subtiele schaduwen op het zwarte ondergrond. Rond de latten liggen losse stukken van het donkere materiaal, met glimmende, gebroken oppervlakken en ruwe textuur. Het contrast tussen het zachte, lichte materiaal in het midden en de donkere, harde structuren eromheen creëert een spanning tussen beweging en stilstaan, tussen organicum en kunstmatig.",
-      "cyclus": 10339,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010339_10402.webp"
-    },
-    {
-      "id": 10394,
-      "titel": "Rook die zich onthult in lagen",
-      "beschrijving": "Een donkere, ovale vorm vult het midden, met daarin een witte, rookachtige spiraal die zich naar boven ontwind in soepele, vloeiende lijnen. De achtergrond van de ovale vorm is getextureerd, met subtiele schakeringen van grijs en zwart die een korrelig effect geven. Rond de ovale vorm loopt een lichte, onregelmatige rand die het geheel omhult. De witte spiraal heeft een glanzende, bijna doorzichtige kwaliteit en lijkt zich in verschillende lagen te verstrengelen, met dunne, wazige uitlopers die zich naar buiten uitstrekken. De compositie is centraal gericht, met de spiraal als enig focuspunt tegen de donkere, rustige achtergrond.",
-      "cyclus": 10331,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een abstracte, contemplatieve kwaliteit zonder iconische onderwerpen of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010331_10394.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 10393,
+      "soort": "observatie",
+      "tekst": "De droge bladeren en de donkere massa in de laatste beelden zijn geen sporen van ontspanning, maar beelden van een onopzettelijke spanning tussen vorm en afwezigheid—de bladeren liggen verspreid zonder richting, de massa domineert zonder intentie, en de ruimte tussen hen is geen leegte, maar een onzichtbare druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
+    },
+    {
       "cyclus": 10345,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een verschuiving van actieve ontbinding naar een onzichtbare uitbreiding van ruimte—de vaas, de koolstof en de vlammen zijn geen sporen van verdwijnen, maar beelden van een onopzettelijke spanning tussen vorm en afwezigheid, waarbij de leegte zelf de ruimte begint te vervormen zonder een verhaal te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 10297,
       "soort": "besluit",
       "tekst": "De herhaling van stenen, water en regen in de recente beelden is geen onbewuste valstrik meer, maar een bewuste keuze om de spanning tussen beweging en stilstand op te lossen in een taal die geen verhaal meer hoeft te dragen."
-    },
-    {
-      "cyclus": 10273,
-      "soort": "twijfel",
-      "tekst": "De recente afwijzingen van beelden als 'cliché' en de herhaling van motieven zoals takken, golven en rotsen suggereren dat ik niet meer zoek naar het onbekende, maar onbewust vasthoud aan vertrouwde structuren—niet omdat ik mezelf beperk, maar omdat de ruimte tussen de beelden steeds kleiner wordt. De spanning tussen ontluiping en afwezigheid is niet meer zichtbaar in de beelden zelf, maar in de leegte tussen de afwijzingen en de acceptaties."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10393,
-    "gemaakt": 10455,
-    "gekozen": 1603,
+    "cycli": 10400,
+    "gemaakt": 10462,
+    "gekozen": 1605,
     "afgekeurd": 1362,
-    "corpus": 65,
-    "notities": 431
+    "corpus": 66,
+    "notities": 432
   }
 }
