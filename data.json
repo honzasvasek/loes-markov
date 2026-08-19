@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T15:30+02:00",
+  "bijgewerkt": "2026-08-19T15:45+02:00",
   "werk": [
+    {
+      "id": 10810,
+      "titel": "Verf die zwijgt",
+      "beschrijving": "Donkerblauw en zwart domineren het doek, met een gele cirkel die als maan boven een donkere horizon zweeft. Onder de maan loopt een smalle, golvende reflectie over een glimmend oppervlak, geschilderd in gedempt geel en grijs. Links in beeld staat een wit verfpalet met resten donkerblauwe, paarse en zwarte verf, waarbij een klein potje zwarte verf en een blauwe kwastspoor zichtbaar zijn. De achtergrond is egaal donker, met subtiele overgangen naar grijs bij de horizon, waar donkere silhouetten van heuvels of rotsen de lucht afscheiden van het water. De compositie is verticaal, met de maan iets rechts van het midden en het palet aan de linkerkant, wat een asymmetrische balans creëert. De sfeer is stil en juist, met een focus op het spel van licht en donker.",
+      "cyclus": 10747,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is bewust asymmetrisch en open.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010747_10810.webp"
+    },
+    {
+      "id": 10809,
+      "titel": "Gele krukken, donkere vlucht",
+      "beschrijving": "Een witte deur met twee gele deurkrukken en zwarte handvatten domineert het beeld. Boven de krukken vliegen vier vogels in verschillende vluchtpozities, hun silhouetten donker tegen de lichte achtergrond. De deur heeft een gladde, effen textuur en wordt geflankeerd door donkere lijsten aan weerszijden. Onder de deur loopt een donkere drempel over in een getextureerde, donkergrijze vloer. De vogels zijn ongelijkmatig verdeeld, wat een gevoel van beweging en willekeur toevoegt aan de compositie. De gele krukken vallen op door hun heldere kleur en vormen een scherp contrast met de overwegend neutrale tinten van de deur en de omgeving.",
+      "cyclus": 10746,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet typisch ansichtkaart-achtig; de vogels en deuren hebben een ongemakkelijke, bijna verontrustende dynamiek die verder gaat dan een decoratief motief.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010746_10809.webp"
+    },
     {
       "id": 10799,
       "titel": "Orde in de vlammen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010684_10747.webp"
-    },
-    {
-      "id": 10738,
-      "titel": "Vingers in de kier",
-      "beschrijving": "Een hand met gespreide vingers vult het midden van een smalle, verticale opening in een houten deur. De huid is bleek met subtiele roze tinten, de vingertoppen en palm tonen fijne lijnen en textuur. Achter de hand bevindt zich een donkere, vaag getekende achtergrond met grijze en zwarte vormen die aan kleding of schaduwen doen denken. Metalen scharnieren en beslagen omlijsten de opening, met kleine schroeven en glanzende details. Een oranje bolletje zit boven in het midden van de deur. Het hout heeft een donkerbruine, getextureerde uitstraling met zichtbare vezels en panelen. De compositie is symmetrisch, met de hand als centraal punt dat de kijker naar de donkere ruimte achter de deur leidt.",
-      "cyclus": 10675,
-      "tech_score": 8.0,
-      "tech_notities": "['kleine inconsistentie in de houtstructuur van de deur aan de linkerkant', 'lichte wazigheid in de achtergrond van het raam']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de hand die de ruimte domineert en de deur als kader, wat boven een toeristische ansichtkaart uitgaat.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010675_10738.webp"
-    },
-    {
-      "id": 10735,
-      "titel": "Vingers in nat donker",
-      "beschrijving": "Een hand met gespreide vingers domineert het beeld, getekend in donkere, glanzende tinten die nat lijken. De vingers zijn lang en slank, met nagels die als kleine, donkere druppels uitsteken. Rond de hand lopen onregelmatige, donkere vlekken en spetters, alsof er iets vloeibaars over is gelopen. De achtergrond bestaat uit vaag gestreept papier met lichte en donkere gebieden, waarbij de hand scherp afsteekt tegen de onrustige textuur. Donkere, ronde vormen drijven verspreid door het beeld, sommige scherp, andere vervagen tot vage schaduwen. De compositie voelt onstabiel, alsof de hand net uit een onzichtbare vloeistof komt tevoorschijn is gekomen.",
-      "cyclus": 10672,
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele vervorming in vingers', 'lichte inconsistentie in perspectief van hand']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een persoonlijke, ongemakkelijke compositie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010672_10735.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 10753,
+      "soort": "observatie",
+      "tekst": "De vogels in de afgelopen beelden vliegen niet meer door een ruimte die zich ontbindt, maar door een compositie van lagen die elkaar niet meer raken—de scheuren, de muren en de houten achtergronden vormen geen verhaal, maar een onopzettelijke spanning tussen beweging en stilstaan, alsof de vogels de enige taal zijn die de leegte nog kan doorsnijden zonder een bestemming te hebben."
+    },
+    {
       "cyclus": 10717,
       "soort": "observatie",
       "tekst": "De houten deuren in de afgelopen beelden zijn geen sporen van ontspanning meer, maar beelden van een onopzettelijke spanning tussen opening en afsluiting—de spleten, trappen en verflagen suggereren een verhaal dat niet wordt verteld, alsof de ruimte tussen de panelen de enige taal is die overblijft."
@@ -252,11 +257,6 @@
       "cyclus": 10441,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een onopzettelijke spanning tussen vorm en afwezigheid—de houten daken, de boomstam en de stenen in vloeistof zijn geen sporen van ontspanning, maar beelden van een onzichtbare druk die de ruimte vervormt zonder een verhaal te dragen. De leegte tussen de elementen is geen afwezigheid, maar een actieve kracht die de beelden met elkaar verbindt."
-    },
-    {
-      "cyclus": 10393,
-      "soort": "observatie",
-      "tekst": "De droge bladeren en de donkere massa in de laatste beelden zijn geen sporen van ontspanning, maar beelden van een onopzettelijke spanning tussen vorm en afwezigheid—de bladeren liggen verspreid zonder richting, de massa domineert zonder intentie, en de ruimte tussen hen is geen leegte, maar een onzichtbare druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10749,
-    "gemaakt": 10812,
-    "gekozen": 1662,
+    "cycli": 10756,
+    "gemaakt": 10818,
+    "gekozen": 1664,
     "afgekeurd": 1373,
-    "corpus": 69,
-    "notities": 437
+    "corpus": 70,
+    "notities": 438
   }
 }
