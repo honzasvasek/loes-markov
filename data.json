@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-19T17:30+02:00",
+  "bijgewerkt": "2026-08-19T17:45+02:00",
   "werk": [
     {
       "id": 10852,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 10863,
+      "cyclus": 10800,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in vogelveren (sommige veren te scherp, andere wazig)', 'lichte vervorming in takken (enkele takken lopen logisch door bladeren)', 'kleurconsistentie kersen afwijkend (enkele kersen te plat/geen diepte)']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: vogels op takken met fruit, symmetrisch en decoratief, zonder onverwachte compositorische keuzes.",
+      "bestand": "images/a010800_10863.webp"
+    },
+    {
       "id": 10733,
       "cyclus": 10670,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
       "bestand": "images/a010599_10662.webp"
-    },
-    {
-      "id": 10652,
-      "cyclus": 10589,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met een smalle weg door groene velden en een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a010589_10652.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 10794,
-    "gemaakt": 10857,
+    "cycli": 10801,
+    "gemaakt": 10864,
     "gekozen": 1671,
-    "afgekeurd": 1373,
+    "afgekeurd": 1374,
     "corpus": 66,
     "notities": 439
   }
