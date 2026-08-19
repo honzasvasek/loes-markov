@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T12:30+02:00",
+  "bijgewerkt": "2026-08-19T12:45+02:00",
   "werk": [
+    {
+      "id": 10730,
+      "titel": "Wat stroomt er door die kieren?",
+      "beschrijving": "Twee witte deuren met zwarte omlijstingen staan op een kieren open, waar donkerbruine, glanzende vloeistof langzaam naar buiten stroomt en een onregelmatige, golvende vorm aanneemt op een witte vloer. De linkerdeur heeft een vaag silhouet van takken getekend, terwijl de rechterdeur een kleine, bruine handgreep heeft. De vloeistof reflecteert licht en vormt subtiele schaduwen tegen de deuren en de vloer, die een scherpe, rechte lijn vormen met de onderkant van de deuren. De achtergrond is neutraal en ongedifferentieerd, waardoor de focus ligt op de contrasten tussen de harde lijnen van de deuren en de zachte, vloeiende vorm van de vloeistof.",
+      "cyclus": 10667,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op een intieme, bijna ongemakkelijke spanning tussen de deur en de vloeistof, zonder toeristische allure.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010667_10730.webp"
+    },
+    {
+      "id": 10726,
+      "titel": "Vloeistof die zich herinnert",
+      "beschrijving": "Donkerbruine, glanzende vloeistof stroomt in een slanke, onregelmatige kolom naar beneden, met kleine druppels die in verschillende fasen van vallen en landen rondom verspreid zijn. Donkere, bijna zwarte penseelstreken en gebrekkige rechthoeken vormen een achtergrond met subtiele textuur, waarbij sommige delen krassig en andere glad zijn. Verspreid liggen donkerbruine, ovale voorwerpen met een matte afwerking, enkele met een smalle spleet. Kleinere, glinsterende druppels en korrels liggen willekeurig verspreid, met een paar zilverkleurige, reflecterende elementen in de hoeken. De achtergrond is een effen, lichtgrijze textuur met lichte variaties in tint.",
+      "cyclus": 10663,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van zwarte vlakken (rechtsboven vs linksonder)', 'lichte halo rond bruine druppel (midden)', 'detailverlies in schaduwgebieden van koffiebonen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010663_10726.webp"
+    },
     {
       "id": 10718,
       "titel": "Rook en spiegelbeeld",
@@ -104,35 +130,18 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w010612_10675.webp"
-    },
-    {
-      "id": 10660,
-      "titel": "Waar blijft de cirkel?",
-      "beschrijving": "Een smalle, modderige pad slingert door weelderig groen gras, omzoomd door donkere stenen en verspreide takjes. Rechts ligt een donkere veer tussen het groen, terwijl in de verte een grote, bruine cirkel de horizon domineert tegen een crèmekleurige achtergrond. Kleuren variëren van levendig groen en bruin tot zachte beige, met subtiele blauwe en witte accenten in het gras. De compositie is verticaal georiënteerd, met het pad dat de blik naar de cirkel leidt. De sfeer is rustig en iets mysterieus, door de leegte boven de cirkel en de verlaten uitstraling van het pad. Details zoals de textuur van het gras en de natte modder geven een gevoel van natuurgevoel en verlatenheid.",
-      "cyclus": 10597,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in grastextuur aan linkerzijde, lichte wazigheid in achtergrondcirkel",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, compositorische keuze is ongemakkelijk en niet-bevestigend",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010597_10660.webp"
-    },
-    {
-      "id": 10655,
-      "titel": "Gevorkt groen tussen deuren",
-      "beschrijving": "Twee houten deuren staan wijd open, met donkere metalen scharnieren en handvatten die een vintage uitstraling geven. Tussen de deuren door loopt een verticale stengel met vier groene, gevorkte bladeren, elk met subtiele donkere vlekken en een adering die de textuur benadrukt. De achtergrond is een egale, lichte kleur die overgaat in een zachtblauwe vloer, wat een gevoel van diepte creëert. De compositie is symmetrisch, met de stengel als centraal punt dat de blik trekt tussen de deuren door. De kleuren zijn helder en natuurlijk, met een contrast tussen het warme hout en de koelere groene en blauwe tinten.",
-      "cyclus": 10592,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een symbolisch karakter met een ongewone combinatie van motieven (deuren en een plant), wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010592_10655.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10733,
+      "cyclus": 10670,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in houtstructuur: de panelen van de deur hebben licht afwijkende houtnerfpatronen die niet helemaal logisch aansluiten bij de omringende lamellen', 'de metalen scharnieren aan de linkerkant van de deur zijn asymmetrisch geplaatst ten opzichte van de deurklink aan de rechterkant, wat een lichte compositorische onbalans creëert']",
+      "cliche_notities": "Dit beeld past bij een typische ansichtkaart van een landelijk huis met een decoratieve bundel tarwe, zonder een uniek of onverwacht standpunt",
+      "bestand": "images/a010670_10733.webp"
+    },
     {
       "id": 10662,
       "cyclus": 10599,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met een smalle weg door groene velden en een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a010589_10652.webp"
-    },
-    {
-      "id": 10645,
-      "cyclus": 10582,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een typisch landschapsmotief met een boerderij en gras, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuzes of eigen standpunt.",
-      "bestand": "images/a010582_10645.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10667,
-    "gemaakt": 10730,
-    "gekozen": 1650,
-    "afgekeurd": 1372,
-    "corpus": 69,
+    "cycli": 10675,
+    "gemaakt": 10737,
+    "gekozen": 1652,
+    "afgekeurd": 1373,
+    "corpus": 70,
     "notities": 434
   }
 }
