@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T05:45+02:00",
+  "bijgewerkt": "2026-08-19T06:00+02:00",
   "werk": [
+    {
+      "id": 10552,
+      "titel": "Krassen in de orde",
+      "beschrijving": "Een hoek van een kamer met roze muren en een donker plafond. Een houten staaf steekt schuin uit de muur, vastgezet met een metalen beugel. Rechts bevindt zich een witte deur met een donkere lijst, voorzien van een metalen handgreep en een slotmechanisme. Op de linker muur lopen donkere, willekeurige krassporen in een chaotisch patroon, alsof er met een puntig voorwerp tegen is getekend. De schaduw van de staaf valt scherp op de muur, en de overgang tussen licht en donker benadrukt de hoek van de ruimte. De sfeer is statisch, met een onderliggende spanning tussen de ordelijke structuren en de ongeremde krassporen.",
+      "cyclus": 10489,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en de leegte speelt een actieve rol.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010489_10552.webp"
+    },
+    {
+      "id": 10548,
+      "titel": "De gele cirkel die blijft staan",
+      "beschrijving": "Een hoek van een ruimte met een oranje plafond en een donkerbruine, versierde kroonlijst. De muren zijn wit met zachte, golvende overgangen naar lichtgrijs en roze. Een kleine, heldergele cirkel bevindt zich op de hoek waar de muren samenkomen. De vloer is roodbruin en loopt schuin op naar de muren. De sfeer is kalm en minimalistisch, met een focus op vorm en kleur.",
+      "cyclus": 10485,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010485_10548.webp"
+    },
     {
       "id": 10533,
       "titel": "Veeren die zwijgen bewaren",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010427_10490.webp"
-    },
-    {
-      "id": 10486,
-      "titel": "De barst die blijft steken",
-      "beschrijving": "Zand met golvende patronen vormt een textuurrijke ondergrond, doorsneden door een scherpe, donkere barst die van de witgepleisterde muur van een gebouw naar beneden loopt. Zeven donkere, gladde keien liggen verspreid in het zand, sommige deels begraven, met kleine donkere vlekken en korrels die rondom sprinkelen. Drie ramen met witte kozijnen lopen horizontaal langs de muur, waarvan het rechterste raam een vaag silhouet van een been onthult. De scène is in zwart-wit, met subtiele overgangen tussen licht en donker, wat de textuur van het zand en de glans op de keien benadrukt. De barst loopt diagonaal door het beeld, terwijl de keien een losse, bijna willekeurige indeling vormen.",
-      "cyclus": 10423,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van zand bij vensterbank', 'lichte vervaging van randen van stenen in schaduw']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, denkbeeldige spanning tussen de stenen en de scheur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010423_10486.webp"
-    },
-    {
-      "id": 10484,
-      "titel": "Sporen in het zand",
-      "beschrijving": "Zand met fijne, golvende patronen vult het beeld, doorsneden door donkere vlekken en spatten die lijken op inkt of modder. Een groepje gladde, donkere stenen ligt verspreid in het zand, met schaduwen die diepte suggereren. De kleuren zijn gedempt: zandbeige, grijs en zwart, met subtiele overgangen door het licht dat zacht over de golven speelt. De compositie is asymmetrisch, met de donkere elementen die een diagonale lijn vormen van linksboven naar rechtsonder, terwijl het zand de ruimte tussen de vormen vult met een rustige, bijna meditatieve sfeer. Geen beweging, geen geluid—alleen de stilte van een landschap waar iets onzichtbaars recentelijk sporen heeft nagelaten.",
-      "cyclus": 10421,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve compositie zonder iconische of toeristische elementen, en toont een persoonlijke kijk op textuur en ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010421_10484.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10482,
-    "gemaakt": 10545,
-    "gekozen": 1620,
+    "cycli": 10490,
+    "gemaakt": 10552,
+    "gekozen": 1622,
     "afgekeurd": 1367,
     "corpus": 67,
     "notities": 433
