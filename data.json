@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-19T22:00+02:00",
+  "bijgewerkt": "2026-08-19T22:15+02:00",
   "werk": [
     {
       "id": 10984,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 10989,
+      "cyclus": 10926,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in vensterproporties (bovenste venster smaller dan onderste)', 'Subtiele halo rond daklijn tegen achtergrond']",
+      "cliche_notities": "Klassiek huisje met zonsondergangachtergrond en symmetrische compositie straalt ansichtkaart-esthetiek uit zonder verrassend standpunt.",
+      "bestand": "images/a010926_10989.webp"
+    },
+    {
       "id": 10972,
       "cyclus": 10909,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de deuren in de middelste rij', 'lichte wazigheid in de textuur van het gras bij de onderste rij']",
       "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de combinatie van vogels, bloemen en kleurrijke deuren in een decoratieve, harmonieuze opstelling zonder duidelijke compositorische keuze.",
       "bestand": "images/a010900_10963.webp"
-    },
-    {
-      "id": 10961,
-      "cyclus": 10898,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte onscherpte in de achtergrondbomen, consistent met diepte-van-veld-effect maar iets te uitgesproken voor een natuurlijk beeld', 'Rookpluim mist duidelijke structuur en lijkt iets kunstmatig verspreid, alsof de diffusie te lang is doorgegaan']",
-      "cliche_notities": "Het beeld toont een typisch romantisch landschap met zonsondergang, roze hemel en gras in de voorgrond, zonder duidelijke compositorische keuze of onverwacht element",
-      "bestand": "images/a010898_10961.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10922,
-    "gemaakt": 10984,
+    "cycli": 10930,
+    "gemaakt": 10992,
     "gekozen": 1692,
-    "afgekeurd": 1378,
-    "corpus": 64,
+    "afgekeurd": 1379,
+    "corpus": 63,
     "notities": 440
   }
 }
