@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T21:45+02:00",
+  "bijgewerkt": "2026-08-19T22:00+02:00",
   "werk": [
+    {
+      "id": 10984,
+      "titel": "Vogels op pad naar onbekende deuren",
+      "beschrijving": "Vijf vogels met donkerblauwe koppen, witte buiken en donkere vleugels met witte vlekken vliegen door een compositie van grijze en roze golvende vlakken. Vijf blauwe deuren met witte kozijnen en gouden klinken zijn verspreid over de achtergrond, waarbij sommige deuren deels door de vogels worden bedekt. De vogels hebben gespreide vleugels en uitgestrekte poten, alsof ze net willen landen of net opstijgen. De achtergrond bestaat uit gladde, kleurrijke vlakken zonder details, wat een dromerige sfeer creëert. De vogels en deuren zijn scherp getekend tegen de eenvoudige achtergrond, waardoor ze opvallen als centrale elementen in de compositie.",
+      "cyclus": 10921,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of bevestigend, maar verbeeldt een surrealistisch tafereel met herhalende vogels en deuren in een abstract patroon, wat geen toeristische ansichtkaart uitmaakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010921_10984.webp"
+    },
+    {
+      "id": 10977,
+      "titel": "Geen horizon, toch route",
+      "beschrijving": "Drie vogels met donkere veren en lichte borsten vliegen door golvende vlakken van grijs en zachtroze. Hun vleugels staan wijd open, met fijne details in de veerstructuur zichtbaar. De vogel bovenaan heeft een iets lichtere onderkant dan de andere twee, en alle drie hebben ze een scherpe, gele snavel. De achtergrond bestaat uit soepele, overgangsvolle golven zonder duidelijke horizon, waarbij de roze laag een smalle strook vormt tussen de grijze vlakken. De compositie is verticaal opgebouwd, met de vogels verspreid over het beeld, alsof ze een onzichtbare route volgen door de lagen kleur. De sfeer is kalm en zwevend, met een subtiele dynamiek in de vlucht van de vogels.",
+      "cyclus": 10914,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De vogels en golvende vormen zijn geen iconisch landschap, maar een abstracte compositie zonder toeristische connotatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010914_10977.webp"
+    },
     {
       "id": 10960,
       "titel": "Vogels bij de lampjes",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010866_10929.webp"
-    },
-    {
-      "id": 10915,
-      "titel": "Pluimen in de wind",
-      "beschrijving": "Tegen een diepblauwe hemel zwaaien hoge, slanke rietstengels in de wind, hun toppen in golvende, beige en bruine pluimen oplosbarsten. Het water erachter spiegelt de blauwe tinten, met donkere, glinsterende golven die zachtjes bewegen. Twee vogels snijden door de lucht: één hoog bovenin, donker met witte vleugels, de andere lager, wit met zwarte vlekken, net boven het wateroppervlak. De rietstengels vormen een dicht, dynamisch patroon van diagonale en verticale lijnen, met subtiele variaties in kleur en textuur die de beweging vastleggen. De compositie laat weinig ruimte voor achtergrond, waardoor het gevoel van nabijheid en beweging versterkt wordt.",
-      "cyclus": 10852,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de focus op de dynamiek van het gras en de vogels, geen typisch iconisch landschap.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010852_10915.webp"
-    },
-    {
-      "id": 10908,
-      "titel": "IJs en water in balans",
-      "beschrijving": "Een spinnenweb, bedekt met een fijne, witte ijsglans, vult het beeld. De draden vormen een perfect symmetrisch patroon van stralen en spiraallijnen, waarbij de ijzige korrels de textuur benadrukken. Drie heldere waterdruppels hangen aan de randen van het web, glinsterend tegen de zachte, bruine achtergrond. In het midden zit een kleine spin, donker van kleur met subtiele blauwe en paarse tinten op zijn poten. De achtergrond is onscherp, waardoor het web scherp afsteekt en de focus ligt op de fragile balans tussen ijs, water en structuur. De sfeer is stil en verlaten, met een onderliggende spanning tussen de kwetsbaarheid van het web en de onverbiddelijkheid van de kou.",
-      "cyclus": 10845,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een intieme, close-up compositie met een focus op detail en textuur, geen typisch iconisch onderwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010845_10908.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10915,
-    "gemaakt": 10977,
-    "gekozen": 1690,
+    "cycli": 10922,
+    "gemaakt": 10984,
+    "gekozen": 1692,
     "afgekeurd": 1378,
     "corpus": 64,
     "notities": 440
