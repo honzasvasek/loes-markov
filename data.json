@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-19T19:45+02:00",
+  "bijgewerkt": "2026-08-19T20:00+02:00",
   "werk": [
+    {
+      "id": 10915,
+      "titel": "Pluimen in de wind",
+      "beschrijving": "Tegen een diepblauwe hemel zwaaien hoge, slanke rietstengels in de wind, hun toppen in golvende, beige en bruine pluimen oplosbarsten. Het water erachter spiegelt de blauwe tinten, met donkere, glinsterende golven die zachtjes bewegen. Twee vogels snijden door de lucht: één hoog bovenin, donker met witte vleugels, de andere lager, wit met zwarte vlekken, net boven het wateroppervlak. De rietstengels vormen een dicht, dynamisch patroon van diagonale en verticale lijnen, met subtiele variaties in kleur en textuur die de beweging vastleggen. De compositie laat weinig ruimte voor achtergrond, waardoor het gevoel van nabijheid en beweging versterkt wordt.",
+      "cyclus": 10852,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de focus op de dynamiek van het gras en de vogels, geen typisch iconisch landschap.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010852_10915.webp"
+    },
     {
       "id": 10908,
       "titel": "IJs en water in balans",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010802_10865.webp"
-    },
-    {
-      "id": 10855,
-      "titel": "Rijp op de snavel",
-      "beschrijving": "Een vogel met een slanke, puntige snavel en grijze veren zit tussen lange, smalle grassprietjes bedekt met witte, kristallijne structuren die lijken op rijp of zout. De achtergrond bestaat uit gedempte, grijsgroene tinten met vaag zichtbare verticale en diagonale vormen die aan houten lamellen of een verweerd oppervlak doen denken. De vogel kijkt scherp naar rechtsboven, terwijl zijn lichaam licht schuin staat ten opzichte van de sprietjes die de compositie doorsnijden. De witte structuren op het gras vormen een fijn, herhalend patroon dat contrasteert met de zachtere, wazigere achtergrond. Donkere, onregelmatige vlekken en subtiele blauwe en bruine tinten geven diepte aan de scène, die zowel stilte als spanning uitstraalt door de mix van scherpheid en onscherpe details.",
-      "cyclus": 10792,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de vogel ten opzichte van het omringende gras', 'lichte wazigheid in de achtergrondtextuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een unieke compositorische keuze met de vogel tussen het gras, geen typisch iconisch onderwerp",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010792_10855.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10861,
-    "gemaakt": 10923,
-    "gekozen": 1681,
+    "cycli": 10868,
+    "gemaakt": 10930,
+    "gekozen": 1682,
     "afgekeurd": 1374,
     "corpus": 66,
     "notities": 440
