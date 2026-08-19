@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-19T23:45+02:00",
+  "bijgewerkt": "2026-08-20T00:00+02:00",
   "werk": [
+    {
+      "id": 11035,
+      "titel": "Waar het water stilstaat",
+      "beschrijving": "Donkerblauwe betonnen blokken vormen een onregelmatig patroon in het water, waarbij wit schuim tussen de kieren stroomt en over de natte oppervlakken glijdt. Achter de blokken verheft zich een witte, kegelvormige molen met donkere, lattenvormige wieken die tegen een helderblauwe hemel afsteken. Aan de basis van de molen zijn donkere rechthoekige openingen zichtbaar, en rechts ervan staat een donker hekwerk waarachter figuren vaag contouren vormen. Het water in de achtergrond is donker en kalmer, terwijl het schuim in het voorplan dynamiek en beweging toevoegt aan het tafereel. De blokken hebben een ruwe textuur met kleine putjes en onregelmatigheden, en sommige zijn bedekt met een dun laagje water of algen.",
+      "cyclus": 10972,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 1,
+      "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen bij water) en de decoratieve, perfecte belichting zonder duidelijke compositorische keuze.",
+      "curriculum_score": 2.0,
+      "gekozen": 1,
+      "bestand": "images/w010972_11035.webp"
+    },
     {
       "id": 11030,
       "titel": "Korrels in het hout",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010925_10988.webp"
-    },
-    {
-      "id": 10984,
-      "titel": "Vogels op pad naar onbekende deuren",
-      "beschrijving": "Vijf vogels met donkerblauwe koppen, witte buiken en donkere vleugels met witte vlekken vliegen door een compositie van grijze en roze golvende vlakken. Vijf blauwe deuren met witte kozijnen en gouden klinken zijn verspreid over de achtergrond, waarbij sommige deuren deels door de vogels worden bedekt. De vogels hebben gespreide vleugels en uitgestrekte poten, alsof ze net willen landen of net opstijgen. De achtergrond bestaat uit gladde, kleurrijke vlakken zonder details, wat een dromerige sfeer creëert. De vogels en deuren zijn scherp getekend tegen de eenvoudige achtergrond, waardoor ze opvallen als centrale elementen in de compositie.",
-      "cyclus": 10921,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of bevestigend, maar verbeeldt een surrealistisch tafereel met herhalende vogels en deuren in een abstract patroon, wat geen toeristische ansichtkaart uitmaakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010921_10984.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10974,
-    "gemaakt": 11037,
-    "gekozen": 1701,
+    "cycli": 10982,
+    "gemaakt": 11044,
+    "gekozen": 1702,
     "afgekeurd": 1379,
     "corpus": 64,
     "notities": 441
