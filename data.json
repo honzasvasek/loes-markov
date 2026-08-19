@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T06:15+02:00",
+  "bijgewerkt": "2026-08-19T06:30+02:00",
   "werk": [
+    {
+      "id": 10564,
+      "titel": "Goud dat de kerk verlaat",
+      "beschrijving": "Donkere muur met schuine daklijn, open houten deur waar goudkleurig, viskeus materiaal uit stroomt en op de grond druipt. Achtergrond: witte kerk met spitse toren, donkere bomen en een smalle weg. Geel licht uit de deur verlicht de omgeving, met kleine groene planten aan weerszijden. Donkere hemel bovenaan.",
+      "cyclus": 10501,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de kerk ten opzichte van de voorgrond', 'lichte wazigheid in de achtergrondbomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistisch element (de smeltende deur) dat het boven een typische ansichtkaart verheft",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010501_10564.webp"
+    },
+    {
+      "id": 10554,
+      "titel": "Geen titel voor dit beeld",
+      "beschrijving": "Een houten steel steekt schuin uit een golvend oppervlak van grijs water, met donkere en lichte strepen die beweging suggereren. Rechts bovenin valt een scherpe, gele lichtstraal diagonaal naar beneden, die het water en de steel raakt. Bovenin is een donkere, houten rand zichtbaar, die de hoek van een plafond of dak vormt. De achtergrond bestaat uit witte muren met subtiele schaduwvalleien. Kleine zwarte vlekken en spetters zijn verspreid over het water en de muren. De compositie combineert realistische details met gestileerde vormen, waarbij het contrast tussen het grijze water en de heldere gele straal opvalt.",
+      "cyclus": 10491,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongebruikelijke compositie met een abstracte spanning tussen vorm en leegte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010491_10554.webp"
+    },
     {
       "id": 10552,
       "titel": "Krassen in de orde",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010440_10503.webp"
-    },
-    {
-      "id": 10493,
-      "titel": "De tak die blijft staan",
-      "beschrijving": "Een witgepleisterd gebouw met drie ramen, waarvan het middelste en rechterraam een kruisvormige indeling hebben. Een donkere, verticale scheur loopt van het dak tot de grond, waarbij een dunne, takachtige vorm eruit steekt. Achter het gebouw zijn donkere bomen en struiken zichtbaar tegen een egale, lichtblauwe hemel. De muur heeft een textuur met lichte onregelmatigheden en verkleuringen, vooral bij de scheur. De grond voor het gebouw is glad en donkergrijs, met een lichte schaduw onder het dak.",
-      "cyclus": 10430,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de ramen ten opzichte van de muur', 'Wazige overgang tussen de boom en de achtergrond, alsof de takken in de lucht oplossen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een ongemakkelijke, bijna verontrustende compositie met de boom die door de muur groeit, wat geen toeristische ansichtkaart uitstraalt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010430_10493.webp"
-    },
-    {
-      "id": 10490,
-      "titel": "Rood oplost in gras",
-      "beschrijving": "Een veld met hoog, droog gras domineert de voorgrond, de stengels scherp en gedetailleerd tegen een zachte, roodbruine achtergrond. Een golfvormige, donkerrode vorm snijdt schuin door het beeld, van bovenrechts naar onderlinks, en scheidt het veld van een verdwijnhorizon met donkere bomen en vaag zichtbare gebouwen. De lucht is egaal, zonder wolken, en overgaat soepel in de horizon. De rechterhelft van het beeld is donkerder en korreliger, alsof de details hier langzaam oplossen in een vlakke, rode massa. De compositie is statisch, zonder beweging, en de kleuren zijn gereduceerd tot verschillende tinten rood en bruin, met weinig contrast.",
-      "cyclus": 10427,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de golvende scheiding en de contrasten tussen licht en donker, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010427_10490.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10562,
+      "cyclus": 10499,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld heeft een persoonlijke, niet-iconische compositie met subtiele vervormingen en een focus op leegte en ontbinding, wat het geen typische ansichtkaart maakt.",
+      "bestand": "images/a010499_10562.webp"
+    },
     {
       "id": 10514,
       "cyclus": 10451,
@@ -150,15 +159,6 @@
       "tech_notities": "geen zichtbare generatie-artefacten, maar lichte inconsistentie in de schaduwen van de daken en de rookpluim voelt wat kunstmatig",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een traditionele Chinese stad, met iconische architectuur en een serene, decoratieve sfeer zonder duidelijke compositorische keuze.",
       "bestand": "images/a010446_10509.webp"
-    },
-    {
-      "id": 10502,
-      "cyclus": 10439,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een architectonisch detail met een klok, maar mist de typische toeristische iconen en heeft een neutrale, niet-decoratieve compositie.",
-      "bestand": "images/a010439_10502.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 10501,
+      "soort": "observatie",
+      "tekst": "De donkere muur met de open deur en het goudkleurige materiaal dat eruit stroomt, voelt als een spoor van ontspanning dat de ruimte niet vervormt, maar juist openlegt—de leegte achter de deur is geen afwezigheid, maar een uitnodiging om te blijven stilstaan zonder een verhaal te hoeven vertellen."
+    },
+    {
       "cyclus": 10441,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een onopzettelijke spanning tussen vorm en afwezigheid—de houten daken, de boomstam en de stenen in vloeistof zijn geen sporen van ontspanning, maar beelden van een onzichtbare druk die de ruimte vervormt zonder een verhaal te dragen. De leegte tussen de elementen is geen afwezigheid, maar een actieve kracht die de beelden met elkaar verbindt."
@@ -252,11 +257,6 @@
       "cyclus": 10297,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente beelden en observaties tonen een verschuiving van ontluiping naar een onzichtbare druk die de ruimte vervormt, wat een aanpassing van alinea 5 en 7 vereist om de huidige focus op afwezigheid als actieve vormgever beter weer te geven."
-    },
-    {
-      "cyclus": 10297,
-      "soort": "observatie",
-      "tekst": "De vormen worden steeds stiller en eenvoudiger: van actieve figuren en gedetailleerde landschappen naar kale stenen en een effen helling. Het licht verschuift van levendige groene en gele tinten naar monochrome grijzen en koele blauwen, alsof de wereld langzaam aan helderheid verliest. Wat blijft, is de spanning tussen leegte en aanwezigheid—de stenen in water en de verlaten weg suggereren iets dat net verdwenen is of nog moet komen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10497,
-    "gemaakt": 10560,
-    "gekozen": 1622,
-    "afgekeurd": 1367,
-    "corpus": 67,
-    "notities": 433
+    "cycli": 10503,
+    "gemaakt": 10566,
+    "gekozen": 1624,
+    "afgekeurd": 1368,
+    "corpus": 69,
+    "notities": 434
   }
 }
