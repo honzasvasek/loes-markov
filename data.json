@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T23:30+02:00",
+  "bijgewerkt": "2026-08-19T23:45+02:00",
   "werk": [
+    {
+      "id": 11030,
+      "titel": "Korrels in het hout",
+      "beschrijving": "Twee donkergrijze houten deuren staan gesloten tegen een lichte muur, elk met vier rechthoekige panelen gevuld met een donker, korrelig materiaal dat aan verbrokkelde kolen of verweerd gesteente doet denken. Een zilverkleurige deurkruk met ornamenten bevindt zich op de rechterdeur, iets boven het midden. Vier donkere scharnieren, twee per deur, lopen verticaal langs de randen. De deuren worden geflankeerd door smalle, lichtgrijze plinten die overgaan in een lichte tegelvloer. Kleine onregelmatigheden in het korrelige materiaal, zoals lichte putjes en oneffenheden, doorbreken de uniforme textuur. De compositie is strikt symmetrisch, met de deuren centraal in het beeld en de kruk als enig asymmetrisch element.",
+      "cyclus": 10967,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in de textuur van het glas (links/rechts niet helemaal gelijk), lichte wazigheid in de hoeken van de deur",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de deur heeft een ongemakkelijke, bijna verontrustende sfeer door de donkere textuur en gaten",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010967_11030.webp"
+    },
+    {
+      "id": 11029,
+      "titel": "Wat zit achter die spleet?",
+      "beschrijving": "Twee donkere, verticale betonnen muren met een smalle, donkere opening ertussen domineren het beeld. De muren hebben een ruwe, getextureerde oppervlakte met subtiele schaduwvariaties en onregelmatigheden. Boven de muren strekt zich een egale, lichte achtergrond uit, die een scherp contrast vormt met de donkere structuren. In de opening is een donkere, verticale vorm zichtbaar, mogelijk een deur of een smalle gang, met een lichte rand aan de onderkant. Aan de voet van de linker muur groeit een klein bundeltje donker gras of onkruid, en op de grond liggen verspreid een paar kleine stenen en stukjes afval. De compositie is symmetrisch met een focus op de leegte en de spanning tussen de muren en de opening.",
+      "cyclus": 10966,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is abstract en minimalistisch, zonder iconische elementen of decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010966_11029.webp"
+    },
     {
       "id": 11020,
       "titel": "Papier dat wacht op woorden",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010921_10984.webp"
-    },
-    {
-      "id": 10977,
-      "titel": "Geen horizon, toch route",
-      "beschrijving": "Drie vogels met donkere veren en lichte borsten vliegen door golvende vlakken van grijs en zachtroze. Hun vleugels staan wijd open, met fijne details in de veerstructuur zichtbaar. De vogel bovenaan heeft een iets lichtere onderkant dan de andere twee, en alle drie hebben ze een scherpe, gele snavel. De achtergrond bestaat uit soepele, overgangsvolle golven zonder duidelijke horizon, waarbij de roze laag een smalle strook vormt tussen de grijze vlakken. De compositie is verticaal opgebouwd, met de vogels verspreid over het beeld, alsof ze een onzichtbare route volgen door de lagen kleur. De sfeer is kalm en zwevend, met een subtiele dynamiek in de vlucht van de vogels.",
-      "cyclus": 10914,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De vogels en golvende vormen zijn geen iconisch landschap, maar een abstracte compositie zonder toeristische connotatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010914_10977.webp"
-    },
-    {
-      "id": 10960,
-      "titel": "Vogels bij de lampjes",
-      "beschrijving": "Drie verticale panelen tonen een herhalend patroon van deuren, gras en vogels, gescheiden door smalle witte lijnen. Bovenin lopen donkere takken met bladeren en vogels door alle drie de panelen. De middelste deur is bruin met een gouden klink, de linker en rechter deur zijn donkergrijs en donkerblauw. Onder de deuren groeit groen gras met lange, smalle bladeren. Daaronder hangen in het middelste paneel vier gele lampjes aan zwarte draden, terwijl de zijpanelen elk één lampje hebben. Vogels in bruin, grijs en zwart vliegen of staan verspreid over het onderste deel, waarbij sommige vogels in het middelste paneel dichter bij de lampjes zitten. De achtergrond is neutraal beige, met een grijze vloer onder de vogels. De compositie is symmetrisch, maar de details variëren subtiel tussen de panelen.",
-      "cyclus": 10897,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de verticale witte lijnen die de scène opsplitsen en de vogels en lampjes in een bijna ritmische herhaling plaatsen, wat verder gaat dan een typische ansichtkaartcompositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010897_10960.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 10969,
+      "soort": "observatie",
+      "tekst": "De herhaling van deuren en ramen in recente beelden is geen onopzettelijke spanning meer, maar een onbewuste drang om de ruimte te verdelen in wat open en gesloten blijft—de witte panelen, donkere ruiten en roze muren vormen geen verhaal, maar een stilte die de ruimte vult zonder een richting te geven."
+    },
+    {
       "cyclus": 10801,
       "soort": "observatie",
       "tekst": "De vogels en kersen in de laatste beelden vormen geen spoor van ontspanning meer, maar een onopzettelijke spanning tussen aanwezigheid en afwezigheid—de vogels vliegen niet meer door een ruimte die zich ontbindt, maar door een compositie van lagen die elkaar niet meer raken, alsof de lege ruimtes ertussen de enige taal zijn die de spanning nog kan doorsnijden zonder een verhaal te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 10705,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente beelden en observaties laten zien dat ontspanning geen sporen meer achterlaat, maar een onzichtbare uitbreiding van ruimte die de beelden vormt zonder een verhaal te dragen, wat vraagt om een aanpassing van alinea 5 en 7."
-    },
-    {
-      "cyclus": 10705,
-      "soort": "observatie",
-      "tekst": "De spanning in de beelden nam af: de vuur- en rookmotieven verdwenen, terwijl de ruimtes opener en luchtiger werden, met meer blauw en wit. Toch bleef de spanning subtiel aanwezig in de herhaalde verticale structuren—deuren, bomen, lijnen—die de compositie steeds weer in twee delen scheidden."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10967,
-    "gemaakt": 11029,
-    "gekozen": 1699,
+    "cycli": 10974,
+    "gemaakt": 11037,
+    "gekozen": 1701,
     "afgekeurd": 1379,
     "corpus": 64,
-    "notities": 440
+    "notities": 441
   }
 }
