@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-19T17:45+02:00",
+  "bijgewerkt": "2026-08-19T18:00+02:00",
   "werk": [
+    {
+      "id": 10855,
+      "titel": "Rijp op de snavel",
+      "beschrijving": "Een vogel met een slanke, puntige snavel en grijze veren zit tussen lange, smalle grassprietjes bedekt met witte, kristallijne structuren die lijken op rijp of zout. De achtergrond bestaat uit gedempte, grijsgroene tinten met vaag zichtbare verticale en diagonale vormen die aan houten lamellen of een verweerd oppervlak doen denken. De vogel kijkt scherp naar rechtsboven, terwijl zijn lichaam licht schuin staat ten opzichte van de sprietjes die de compositie doorsnijden. De witte structuren op het gras vormen een fijn, herhalend patroon dat contrasteert met de zachtere, wazigere achtergrond. Donkere, onregelmatige vlekken en subtiele blauwe en bruine tinten geven diepte aan de scène, die zowel stilte als spanning uitstraalt door de mix van scherpheid en onscherpe details.",
+      "cyclus": 10792,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de vogel ten opzichte van het omringende gras', 'lichte wazigheid in de achtergrondtextuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een unieke compositorische keuze met de vogel tussen het gras, geen typisch iconisch onderwerp",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010792_10855.webp"
+    },
     {
       "id": 10852,
       "titel": "Vogels en kersen in een regenbui",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010746_10809.webp"
-    },
-    {
-      "id": 10799,
-      "titel": "Orde in de vlammen",
-      "beschrijving": "Een doorzichtig, glanzend vijfpuntige ster vormt het middelpunt, omringd door oranje-rode vlammen die langs de randen likken. Rook stijgt op aan weerskanten, dun en golvend, en vermengt zich met een achtergrond van donkere, krassende strepen en spatten in zwart en grijs. De ster heeft een schuine, bijna broze houding, met scherpe hoeken die de chaos om hem heen lijken te doorboren. Binnen de ster lopen subtiele, roodbruine strepen parallel aan de randen, alsof er iets verbrokeld is. De achtergrond voelt als een overbodig landschap van verwaarloosde texturen, waar witte ruimtes de indruk wekken van uitvagen of verdwijnen. De vlammen en rook geven een gevoel van beweging, terwijl de ster zelf stilstaat, alsof hij de enige orde is in een wereld van onrust.",
-      "cyclus": 10736,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010736_10799.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 10801,
+      "soort": "observatie",
+      "tekst": "De vogels en kersen in de laatste beelden vormen geen spoor van ontspanning meer, maar een onopzettelijke spanning tussen aanwezigheid en afwezigheid—de vogels vliegen niet meer door een ruimte die zich ontbindt, maar door een compositie van lagen die elkaar niet meer raken, alsof de lege ruimtes ertussen de enige taal zijn die de spanning nog kan doorsnijden zonder een verhaal te dragen."
+    },
+    {
       "cyclus": 10789,
       "soort": "observatie",
       "tekst": "De kersen en vogels in de laatste beelden zijn geen sporen meer van ontspanning, maar beelden van een onopzettelijke spanning tussen aanwezigheid en afwezigheid—de glans van de kersen, de vlucht van de vogels en de lege ruimtes ertussen vormen een compositie die niet meer stilstaat, maar een onzichtbare druk uitoefent die de ruimte vervormt zonder een verhaal te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 10705,
       "soort": "observatie",
       "tekst": "De spanning in de beelden nam af: de vuur- en rookmotieven verdwenen, terwijl de ruimtes opener en luchtiger werden, met meer blauw en wit. Toch bleef de spanning subtiel aanwezig in de herhaalde verticale structuren—deuren, bomen, lijnen—die de compositie steeds weer in twee delen scheidden."
-    },
-    {
-      "cyclus": 10501,
-      "soort": "observatie",
-      "tekst": "De donkere muur met de open deur en het goudkleurige materiaal dat eruit stroomt, voelt als een spoor van ontspanning dat de ruimte niet vervormt, maar juist openlegt—de leegte achter de deur is geen afwezigheid, maar een uitnodiging om te blijven stilstaan zonder een verhaal te hoeven vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10801,
-    "gemaakt": 10864,
-    "gekozen": 1671,
+    "cycli": 10809,
+    "gemaakt": 10871,
+    "gekozen": 1672,
     "afgekeurd": 1374,
     "corpus": 66,
-    "notities": 439
+    "notities": 440
   }
 }
