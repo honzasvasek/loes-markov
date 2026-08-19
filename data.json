@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T08:30+02:00",
+  "bijgewerkt": "2026-08-19T08:45+02:00",
   "werk": [
+    {
+      "id": 10622,
+      "titel": "Rust in de hitte",
+      "beschrijving": "Voor me staat een metalen kachel met een glazen deur, waarachter vuur woedt. De vlammen zijn feloranje en geel, met scherpe, dansende tongen die om donkere, verkoolde houtklossen heenkussen. Rook stijgt in slome, witte spiraalvormen op naar de bovenkant van de glas-in-loodachtige achtergrond, die een diepblauwe, bijna aquatische textuur heeft met onregelmatige, donkere vlekken en subtiele krassen. De kachel zelf is donkerbruin met roestplekken en heeft aan weerskanten metalen scharnieren en een greep. Onder de vlammen ligt een laagje as en kleine, golvende vonken die door de hitte opstijgen. De randen van de kachel zijn iets onregelmatig en er zitten losse schroeven en kleine metaalfragmenten verspreid rondom de basis. De achtergrond buiten de kachel is een egale, grijze muur, wat de warmte van het vuur en de koelte van de blauwe achtergrond nog sterker doet uitkomen.",
+      "cyclus": 10559,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond vlammen tegen blauwe achtergrond', 'lichte inconsistentie in textuur van hout aan onderkant']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke spanning tussen vuur en koude achtergrond.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010559_10622.webp"
+    },
+    {
+      "id": 10616,
+      "titel": "Vlammen in het zand",
+      "beschrijving": "Donkerbruine houten panelen vormen een verticale structuur, doorsneden door een smalle spleet waar een zwarte scharnier zichtbaar is. Onderaan kronkelen oranje-rode vlammen met zachte, golvende randen langs de houten onderkant, alsof ze uit de spleet welliken. Boven de vlammen stijgen dunne, witte rookstrepen op, die zich in slingerende lijnen uitstrekken naar de bovenrand van het beeld. Voor de panelen ligt een laag lichtbeige zand met subtiele, onregelmatige hobbelen en een paar kleine, donkere steentjes. Gouden nagelkoppen prikken hier en daar in het hout, verspreid over de panelen. De vlammen en rook creëren een scherpe contrast met de rustige, textuurrijke houten achtergrond en het zachte zand.",
+      "cyclus": 10553,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een ongewone combinatie van elementen (vuur, rook, zand, houten deuren) die niet typisch is voor een toeristische ansichtkaart en toont een eigen compositorische keuze.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w010553_10616.webp"
+    },
     {
       "id": 10612,
       "titel": "Goud dat zwijgt",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010508_10571.webp"
-    },
-    {
-      "id": 10568,
-      "titel": "Wit zilver in de as",
-      "beschrijving": "Donker, verkoolde houtvezels vullen het linkerdeel van het beeld, met schuine, gescheurde randen en glimmende, natte plekken die wit en zilver reflecteren. Rook stijgt in slanke, witte spiraalvormen op vanaf de rechterkant, waarbij de damp zich langzaam ontbindt in de grijze achtergrond. Verspreid over het hout en de omgeving liggen kleine, donkere deeltjes, koolstof en as, met hier en daar een glimmend, rond voorwerp dat op een droplet of een klein metaalfragment lijkt. De textuur van het hout is ruw en onregelmatig, met diepe barsten en losse vezels die in alle richtingen wijzen. De rook vormt een contrast met de statische, dode structuur van het hout, en beweegt zich in vloeibare, onvoorspelbare lijnen door de lucht. De achtergrond is onscherp en grijs, wat de focus legt op de details van het verkoolde hout en de rook.",
-      "cyclus": 10505,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het toont een intieme, close-up scène van verbrand hout met rook, zonder iconische of decoratieve elementen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010505_10568.webp"
-    },
-    {
-      "id": 10564,
-      "titel": "Goud dat de kerk verlaat",
-      "beschrijving": "Donkere muur met schuine daklijn, open houten deur waar goudkleurig, viskeus materiaal uit stroomt en op de grond druipt. Achtergrond: witte kerk met spitse toren, donkere bomen en een smalle weg. Geel licht uit de deur verlicht de omgeving, met kleine groene planten aan weerszijden. Donkere hemel bovenaan.",
-      "cyclus": 10501,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de kerk ten opzichte van de voorgrond', 'lichte wazigheid in de achtergrondbomen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistisch element (de smeltende deur) dat het boven een typische ansichtkaart verheft",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010501_10564.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10560,
-    "gemaakt": 10622,
-    "gekozen": 1633,
+    "cycli": 10567,
+    "gemaakt": 10629,
+    "gekozen": 1635,
     "afgekeurd": 1369,
     "corpus": 69,
     "notities": 434
