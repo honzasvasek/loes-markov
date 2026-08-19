@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T01:45+02:00",
+  "bijgewerkt": "2026-08-19T02:00+02:00",
   "werk": [
+    {
+      "id": 10440,
+      "titel": "Lippen die zwijgen houden",
+      "beschrijving": "Zwart-wit beeld met een close-up van een mond aan de bovenkant, licht open en met zichtbare textuur van de lippen. Daaronder een radiaal patroon van barstlijnen die uitstralen van een centraal punt, alsof het glas is gescheurd. Vier donkere, ronde vormen met een zachte, bijna vage rand zijn verspreid over het beeld, elk met subtiele variaties in structuur en dichtheid. De barstlijnen snijden door de ronde vormen en de achtergrond, die een egale, lichte textuur heeft. De compositie straalt een spanning uit tussen de organische vormen en de scherpe, lineaire barsten.",
+      "cyclus": 10377,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010377_10440.webp"
+    },
+    {
+      "id": 10437,
+      "titel": "Papier dat liegt over huid",
+      "beschrijving": "Een close-up van een gezicht, gescheurd in drie horizontale banen door wit papier met een onregelmatige, verscheurde rand. Bovenin is een neus zichtbaar met zachte, roze tinten en subtiel textuur in de huid. Daaronder liggen volle, roodachtige lippen met een lichte glans, omringd door huid met fijne poriën en een warme, beige ondertoon. De onderste baan toont een vage, donkerbruine achtergrond met een onscherpe hint van haren en een schouderlijn. Het papier scheidt de beelden scherp, maar de huid en lippen stralen een realistische, bijna tastbare textuur uit. De compositie is statisch, met een focus op de details van de huid en de contrasten tussen de gescheurde lagen en de zachte overgangen in kleur en textuur.",
+      "cyclus": 10374,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele spanning tussen aanwezigheid en afwezigheid, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010374_10437.webp"
+    },
     {
       "id": 10432,
       "titel": "Maan in water, papier met droom",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010331_10394.webp"
-    },
-    {
-      "id": 10384,
-      "titel": "Blauw over het raster",
-      "beschrijving": "Donkerbruine houten planken vormen een raster met smalle, donkere naden. Een lichtblauwe, ovale vorm ligt centraal, deels over twee planken heen, met een kleine donkerblauwe stip erin. Onder de ovale vorm loopt een dunne, donkerblauwe lijn horizontaal door het midden van de compositie. Verspreid over de planken bevinden zich kleine, kleurrijke stippen: oranje en blauw, sommige geïsoleerd, andere in paren. Het hout toont natuurlijke textuur met zichtbare vezels en knoesten, waaronder een opvallende donkere knoop rechtsboven. De kleuren zijn gedempt, behalve de blauwe en oranje accenten die scherp afsteken tegen het donkere hout.",
-      "cyclus": 10321,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010321_10384.webp"
-    },
-    {
-      "id": 10376,
-      "titel": "Barst in het water",
-      "beschrijving": "Een glazen beker met een scherpe, donkere barst die diagonaal door het midden loopt, vult het beeld. Binnenin de beker loopt een golvende, lichtblauwe vorm die aan water of rook doet denken, met subtiele groene en gele tinten erin. De buitenkant van de beker reflecteert vaag zichtbare vormen in paars, bruin en groen, alsof er een kamer of landschap in de glas-in-loodstijl weerspiegeld wordt. De rand van de beker is lichtgekleurd met een dunne oranje lijn, en de schaduw eronder is donkerpaars met een scherpe, donkere contour. De achtergrond is egaal crèmekleurig, waardoor de beker centraal staat met een lichtje dat van linksboven komt, wat glans en diepte in het glas creëert.",
-      "cyclus": 10313,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in reflecties aan de zijkant van het glas, lichte wazigheid in de schaduw onder het glas",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte weergave van een gewoon voorwerp met een ongemakkelijke schoonheid",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010313_10376.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10378,
-    "gemaakt": 10440,
-    "gekozen": 1601,
+    "cycli": 10385,
+    "gemaakt": 10448,
+    "gekozen": 1603,
     "afgekeurd": 1362,
     "corpus": 66,
     "notities": 431
