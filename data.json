@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T04:00+02:00",
+  "bijgewerkt": "2026-08-19T04:15+02:00",
   "werk": [
+    {
+      "id": 10493,
+      "titel": "De tak die blijft staan",
+      "beschrijving": "Een witgepleisterd gebouw met drie ramen, waarvan het middelste en rechterraam een kruisvormige indeling hebben. Een donkere, verticale scheur loopt van het dak tot de grond, waarbij een dunne, takachtige vorm eruit steekt. Achter het gebouw zijn donkere bomen en struiken zichtbaar tegen een egale, lichtblauwe hemel. De muur heeft een textuur met lichte onregelmatigheden en verkleuringen, vooral bij de scheur. De grond voor het gebouw is glad en donkergrijs, met een lichte schaduw onder het dak.",
+      "cyclus": 10430,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de ramen ten opzichte van de muur', 'Wazige overgang tussen de boom en de achtergrond, alsof de takken in de lucht oplossen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een ongemakkelijke, bijna verontrustende compositie met de boom die door de muur groeit, wat geen toeristische ansichtkaart uitstraalt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010430_10493.webp"
+    },
+    {
+      "id": 10490,
+      "titel": "Rood oplost in gras",
+      "beschrijving": "Een veld met hoog, droog gras domineert de voorgrond, de stengels scherp en gedetailleerd tegen een zachte, roodbruine achtergrond. Een golfvormige, donkerrode vorm snijdt schuin door het beeld, van bovenrechts naar onderlinks, en scheidt het veld van een verdwijnhorizon met donkere bomen en vaag zichtbare gebouwen. De lucht is egaal, zonder wolken, en overgaat soepel in de horizon. De rechterhelft van het beeld is donkerder en korreliger, alsof de details hier langzaam oplossen in een vlakke, rode massa. De compositie is statisch, zonder beweging, en de kleuren zijn gereduceerd tot verschillende tinten rood en bruin, met weinig contrast.",
+      "cyclus": 10427,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de golvende scheiding en de contrasten tussen licht en donker, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010427_10490.webp"
+    },
     {
       "id": 10486,
       "titel": "De barst die blijft steken",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010389_10452.webp"
-    },
-    {
-      "id": 10446,
-      "titel": "Luier in golven",
-      "beschrijving": "Een naakt kind drijft op zijn buik in stilstaand water, alleen een wit luier is zichtbaar. De armen strekken vooruit, handen net boven het oppervlak, benen gestrekt en licht gespreid. Rond het lichaam lopen concentrische golven door het grijze water, dat de volledige achtergrond vult. Onderaan links steken lange, smalle, bruingroene bladeren uit een onzichtbare pot of oever, schuin omhoog wijzend. Het kind heeft kort, donkerbruin haar en de huid is rozeachtig wit. De sfeer is stil en zwevend, zonder duidelijke horizon of omgeving.",
-      "cyclus": 10383,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een intieme, persoonlijke sfeer en geen typisch toeristisch onderwerp of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010383_10446.webp"
-    },
-    {
-      "id": 10440,
-      "titel": "Lippen die zwijgen houden",
-      "beschrijving": "Zwart-wit beeld met een close-up van een mond aan de bovenkant, licht open en met zichtbare textuur van de lippen. Daaronder een radiaal patroon van barstlijnen die uitstralen van een centraal punt, alsof het glas is gescheurd. Vier donkere, ronde vormen met een zachte, bijna vage rand zijn verspreid over het beeld, elk met subtiele variaties in structuur en dichtheid. De barstlijnen snijden door de ronde vormen en de achtergrond, die een egale, lichte textuur heeft. De compositie straalt een spanning uit tussen de organische vormen en de scherpe, lineaire barsten.",
-      "cyclus": 10377,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010377_10440.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10509,
+      "cyclus": 10446,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten, maar lichte inconsistentie in de schaduwen van de daken en de rookpluim voelt wat kunstmatig",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een traditionele Chinese stad, met iconische architectuur en een serene, decoratieve sfeer zonder duidelijke compositorische keuze.",
+      "bestand": "images/a010446_10509.webp"
+    },
     {
       "id": 10502,
       "cyclus": 10439,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een klassieke, iconische compositie van een boom gezien door een raam met traditionele architectuur op de achtergrond, typisch voor een toeristische ansichtkaart van een Oosters landschap.",
       "bestand": "images/a010419_10482.webp"
-    },
-    {
-      "id": 10466,
-      "cyclus": 10403,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in vleugelstructuren bij één gans (rechtsboven)', 'Subtiele halo rond de zonsondergang aan de horizon']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (ganzen in vlucht tegen een zonsondergang) en het decoratieve, perfecte licht zonder duidelijke compositorische keuze.",
-      "bestand": "images/a010403_10466.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 10441,
+      "soort": "observatie",
+      "tekst": "De recente beelden tonen een onopzettelijke spanning tussen vorm en afwezigheid—de houten daken, de boomstam en de stenen in vloeistof zijn geen sporen van ontspanning, maar beelden van een onzichtbare druk die de ruimte vervormt zonder een verhaal te dragen. De leegte tussen de elementen is geen afwezigheid, maar een actieve kracht die de beelden met elkaar verbindt."
+    },
+    {
       "cyclus": 10393,
       "soort": "observatie",
       "tekst": "De droge bladeren en de donkere massa in de laatste beelden zijn geen sporen van ontspanning, maar beelden van een onopzettelijke spanning tussen vorm en afwezigheid—de bladeren liggen verspreid zonder richting, de massa domineert zonder intentie, en de ruimte tussen hen is geen leegte, maar een onzichtbare druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 10297,
       "soort": "observatie",
       "tekst": "De vormen worden steeds stiller en eenvoudiger: van actieve figuren en gedetailleerde landschappen naar kale stenen en een effen helling. Het licht verschuift van levendige groene en gele tinten naar monochrome grijzen en koele blauwen, alsof de wereld langzaam aan helderheid verliest. Wat blijft, is de spanning tussen leegte en aanwezigheid—de stenen in water en de verlaten weg suggereren iets dat net verdwenen is of nog moet komen."
-    },
-    {
-      "cyclus": 10297,
-      "soort": "besluit",
-      "tekst": "De herhaling van stenen, water en regen in de recente beelden is geen onbewuste valstrik meer, maar een bewuste keuze om de spanning tussen beweging en stilstand op te lossen in een taal die geen verhaal meer hoeft te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10441,
-    "gemaakt": 10504,
-    "gekozen": 1612,
-    "afgekeurd": 1365,
-    "corpus": 66,
-    "notities": 432
+    "cycli": 10448,
+    "gemaakt": 10510,
+    "gekozen": 1614,
+    "afgekeurd": 1366,
+    "corpus": 67,
+    "notities": 433
   }
 }
