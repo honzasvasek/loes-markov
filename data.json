@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T21:30+02:00",
+  "bijgewerkt": "2026-08-19T21:45+02:00",
   "werk": [
+    {
+      "id": 10960,
+      "titel": "Vogels bij de lampjes",
+      "beschrijving": "Drie verticale panelen tonen een herhalend patroon van deuren, gras en vogels, gescheiden door smalle witte lijnen. Bovenin lopen donkere takken met bladeren en vogels door alle drie de panelen. De middelste deur is bruin met een gouden klink, de linker en rechter deur zijn donkergrijs en donkerblauw. Onder de deuren groeit groen gras met lange, smalle bladeren. Daaronder hangen in het middelste paneel vier gele lampjes aan zwarte draden, terwijl de zijpanelen elk één lampje hebben. Vogels in bruin, grijs en zwart vliegen of staan verspreid over het onderste deel, waarbij sommige vogels in het middelste paneel dichter bij de lampjes zitten. De achtergrond is neutraal beige, met een grijze vloer onder de vogels. De compositie is symmetrisch, maar de details variëren subtiel tussen de panelen.",
+      "cyclus": 10897,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de verticale witte lijnen die de scène opsplitsen en de vogels en lampjes in een bijna ritmische herhaling plaatsen, wat verder gaat dan een typische ansichtkaartcompositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010897_10960.webp"
+    },
+    {
+      "id": 10959,
+      "titel": "Gele bollen boven de deuren",
+      "beschrijving": "Drie vogels zitten op een dunne draad, elk met een gele bol aan een koordje onder zich. Onder hen rijst een dichte muur van donker, spitsgras op, de bladeren scherp getekend en willekeurig gericht. Daaronder bevinden zich drie deuren in een witte muur: twee donkerblauw, één donkergrijs, elk met een andere greep en paneelindeling. De achtergrond is egaal lichtgrijs, zonder details. De vogels en bollen vormen een horizontale lijn boven het gras, terwijl de deuren een stabiele, verticale structuur onderin creëren. De kleuren zijn gedempt, behalve de gele bollen en blauwe deuren.",
+      "cyclus": 10896,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke compositie met schuine lijnen en kromme handvatten.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010896_10959.webp"
+    },
     {
       "id": 10957,
       "titel": "Rook die vragen stelt",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010845_10908.webp"
-    },
-    {
-      "id": 10905,
-      "titel": "VluchtReadyZeven",
-      "beschrijving": "Zeven vogels met uitgespreide vleugels vullen het beeld, verspreid over een witte achtergrond. Ze hebben een opvallende kleurcombinatie: een blauwe kop, rode borst en witte onderkant, met donkerblauwe en grijze vleugels die subtiele oranje accenten vertonen. Hun oranje snavels en poten contrasteren scherp met de koelere tinten. De vogels staan in verschillende vluchtposities, met lichte variaties in hoek en uitdrukking. Één vogel, rechtsonder, heeft een meer gedempte kleurpalet en kijkt direct naar voren, terwijl de overige vogels in profiel of schuin vanaf de zijkant worden getoond. De compositie straalt beweging uit, alsof de vogels net de vlucht nemen of zich voorbereiden op een aanzet.",
-      "cyclus": 10842,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De vogels zijn geen iconisch Nederlands motief en de compositie heeft een eigen dynamiek door de variatie in vluchtposities en de asymmetrische plaatsing.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w010842_10905.webp"
-    },
-    {
-      "id": 10898,
-      "titel": "Vlucht en vasthouding",
-      "beschrijving": "Twaalf vogels in vlucht en rust vullen een donkerblauwe ruimte, waarbij rood, roze en grijs hun veren laten glanzen tegen de effen achtergrond. Drie stapels roze potten met gouden knoppen vormen een verticale as, terwijl vogels eromheen zweven of erop rusten. Gouden bolletjes verspreid door het beeld suggereren beweging, alsof ze net uit de snavels zijn gevallen. De vogels variëren in houding en kleurintensiteit: sommigen tonen scherpe vluchtspanningen, anderen kalmte in een statige pose. Details als de textuur van de veren en de subtiele overgang van kleuren in de vleugels creëren een dynamiek die de stilte van de compositie doorbreekt.",
-      "cyclus": 10835,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of bevestigend, maar toont een ongebruikelijke combinatie van vogels en potten met een subtiele, bijna mystieke spanning tussen beweging en stilstaan.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010835_10898.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10972,
+      "cyclus": 10909,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde karakters en onleesbare symbolen', 'inconsistent lettertype en uitlijning']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder duidelijke intentie.",
+      "bestand": "images/a010909_10972.webp"
+    },
     {
       "id": 10963,
       "cyclus": 10900,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte onscherpte in de achtergrondbomen, consistent met diepte-van-veld-effect maar iets te uitgesproken voor een natuurlijk beeld', 'Rookpluim mist duidelijke structuur en lijkt iets kunstmatig verspreid, alsof de diffusie te lang is doorgegaan']",
       "cliche_notities": "Het beeld toont een typisch romantisch landschap met zonsondergang, roze hemel en gras in de voorgrond, zonder duidelijke compositorische keuze of onverwacht element",
       "bestand": "images/a010898_10961.webp"
-    },
-    {
-      "id": 10935,
-      "cyclus": 10872,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een eigen compositorische keuze met de vogels en de boom, wat het geen typische ansichtkaart maakt.",
-      "bestand": "images/a010872_10935.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10909,
-    "gemaakt": 10971,
-    "gekozen": 1688,
-    "afgekeurd": 1377,
-    "corpus": 66,
+    "cycli": 10915,
+    "gemaakt": 10977,
+    "gekozen": 1690,
+    "afgekeurd": 1378,
+    "corpus": 64,
     "notities": 440
   }
 }
