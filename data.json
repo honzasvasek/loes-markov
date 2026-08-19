@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-19T02:30+02:00",
+  "bijgewerkt": "2026-08-19T02:45+02:00",
   "werk": [
+    {
+      "id": 10463,
+      "titel": "Waar blijft de zwaartekracht?",
+      "beschrijving": "Een naakt vrouwelijk lichaam drijft met gespreide armen en benen door een onscherp, getextureerd vlak van grijstinten, onderbroken door donkere vlekken en fijne, witte lijnen die als sporen door het beeld lopen. Het hoofd is achterovergegooid, met gesloten ogen en los haar dat zich mengt met de omringende vormen. Donkere, onregelmatige vlekken en stralenachtige patronen stralen uit van verschillende punten, terwijl lichte, golvende lijnen de ruimte rond het lichaam vullen. De textuur van het beeld is korrelig en ongelijkmatig, met sporen van wat lijkt op verwaterde inkt of verfdruppels. De compositie is centraal gericht, maar de randen van het beeld vervagen in een onscherpe, bijna chaotische achtergrond.",
+      "cyclus": 10400,
+      "tech_score": 7.0,
+      "tech_notities": "['lichte vervorming handen/vingers', 'onduidelijke overgang huid/textuur in schaduwgebieden']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is ongemakkelijk en niet-bevestigend.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010400_10463.webp"
+    },
+    {
+      "id": 10462,
+      "titel": "Wat blijft drijven?",
+      "beschrijving": "Een naakt mannelijk figuur staat tot de dijen in water, met een onscherp gezicht en ontspannen armen die langs het lichaam hangen. Het water is geschilderd met dynamische, golvende penseelstreken in blauwe en grijze tinten, doorspekt met witte en gele reflecties die licht suggereren. De achtergrond bestaat uit vaag geschilderde, lichte vormen in beige en grijsgroen, die een onduidelijke horizon lijnen. De figuur werpt een donkere, vertekende reflectie in het water, waarbij de benen en onderlichaam vervaagd en vervormd zijn door de beweging van het water. Kleine, ronde witte vlekken drijven op het wateroppervlak, alsof het om stenen of schuim gaat.",
+      "cyclus": 10399,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van lichaam', 'lichte wazigheid in gezichtsuitdrukking']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, intieme spanning die boven een ansichtkaart uitstijgt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010399_10462.webp"
+    },
+    {
+      "id": 10458,
+      "titel": "Waar blijft de dromer?",
+      "beschrijving": "Een naakt menselijk lichaam drijft op zijn rug in water, armen en benen gespreid, met het gezicht naar boven gericht. Het lichaam is omringd door concentrische cirkels die door het water lopen, alsof er iets recent in het water is gedrop. Verspreid over het water drijven esdoornbladeren in verschillende grootte en detailschaduwering, sommige dichter bij het lichaam, andere aan de randen van het beeld. Het haar is krullend en verspreid in het water, met draden die zachtjes meebewegen met de golven. De handen zijn open en ontspannen, met de palmen naar boven, en de vingers licht gespreid. De ogen zijn open en kijken recht naar voren, zonder duidelijke blikrichting. Het water heeft een textuur van fijne lijnen en schaduwen, die diepte en beweging suggereren. De achtergrond bestaat uit een egale, lichte tint die overgaat in de wateroppervlakte, zonder duidelijke horizon of landschap. De algehele sfeer is stil en zwevend, met een focus op de relatie tussen het lichaam, het water en de bladeren.",
+      "cyclus": 10395,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een unieke, dromerige compositie zonder iconische of bevestigende elementen, en straalt een persoonlijke, reflecterende sfeer uit.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010395_10458.webp"
+    },
     {
       "id": 10452,
       "titel": null,
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010360_10423.webp"
-    },
-    {
-      "id": 10418,
-      "titel": "Vezels die zwijgen houden",
-      "beschrijving": "Donkerbruin hout met zichtbare vezels vormt de achtergrond, doorsneden door een diepe, onregelmatige spleet die diagonaal door het beeld loopt. Witte, spits toelopende strepen stralen vanuit de spleet uit, met een korrelige textuur die doet denken aan bevroren vonken of fijne kristallen. Zwarte schaduwen omlijnen sommige witte strepen, waardoor ze dieper lijken te zitten in het hout. Kleinere, onregelmatige witte vlekken en donkere vlekjes verspreiden zich rond de spleet, alsof het hout aan het ontbinden is. De compositie is asymmetrisch, met de spleet als centrale as die het beeld in twee ongelijke helften deelt. De sfeer is statisch maar suggestief van beweging, alsof de witte strepen net uit de spleet zijn geschoten en bevroren zijn in een moment van uitbarsting.",
-      "cyclus": 10355,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van hout (links/rechts)', 'lichte halo rond witte penseelstreken tegen donkere achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en openbaar, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010355_10418.webp"
-    },
-    {
-      "id": 10413,
-      "titel": "Hout dat zwijgt maar alles vertelt",
-      "beschrijving": "Een smalle, donkere spleet loopt diagonaal door een houten oppervlak, omgeven door lichte, gestreepte houtvezels met knoesten en kleine gaten. In de spleet liggen onregelmatige, donkere houtblokken gestapeld, met schuine snijden en ruwe texturen. Sommige blokken hebben glanzende, natte plekken of kleine, ronde details die op spijkers of knoesten lijken. De houten planken aan weerskanten hebben een natuurlijke, ongelijkmatige structuur, met donkere schaduwen die de diepte van de spleet benadrukken. De compositie is strak en gericht, met de spleet als centrale as die het oog door het beeld leidt. De sfeer is rustig en iets verlaten, door de afwezigheid van beweging en de focus op het materiaal zelf.",
-      "cyclus": 10350,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met een ongemakkelijke schoonheid, geen ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010350_10413.webp"
-    },
-    {
-      "id": 10408,
-      "titel": "Waar blijft de rest?",
-      "beschrijving": "Een vaas met een brede, onregelmatige vorm domineert het midden van het beeld, geschilderd in warme rood- en oranjebruine tinten met witte en donkerbruine accenten. De rand van de vaas is ongelijkmatig en lijkt licht opengeschoven, met donkere schaduwen die diepte suggereren. Onder de vaas loopt een donkere, bijna zwarte schaduw die overgaat in een lichtere, beige ondergrond met subtiele, schuine penseelstreken. De achtergrond bestaat uit zachte, ongedefinieerde vormen in pastelroze en beige, met enkele witte vlekken die lichtreflecties imiteren. De compositie is eenvoudig, met de vaas als enig focuspunt, omringd door veel lege ruimte die de indruk van stilte versterkt. De penseelstreken zijn zichtbaar en textuurrijk, met een losse, bijna impulsieve schildertechniek.",
-      "cyclus": 10345,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, contemplatieve compositie zonder duidelijke narratiev.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010345_10408.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10466,
+      "cyclus": 10403,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in vleugelstructuren bij één gans (rechtsboven)', 'Subtiele halo rond de zonsondergang aan de horizon']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (ganzen in vlucht tegen een zonsondergang) en het decoratieve, perfecte licht zonder duidelijke compositorische keuze.",
+      "bestand": "images/a010403_10466.webp"
+    },
     {
       "id": 10430,
       "cyclus": 10367,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst en symbolen.",
       "bestand": "images/a010344_10407.webp"
-    },
-    {
-      "id": 10351,
-      "cyclus": 10288,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna onleesbare tekst die geen duidelijke boodschap geeft.",
-      "bestand": "images/a010288_10351.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 10400,
-    "gemaakt": 10462,
-    "gekozen": 1605,
-    "afgekeurd": 1362,
+    "cycli": 10407,
+    "gemaakt": 10469,
+    "gekozen": 1608,
+    "afgekeurd": 1363,
     "corpus": 66,
     "notities": 432
   }
