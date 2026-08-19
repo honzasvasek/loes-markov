@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T08:45+02:00",
+  "bijgewerkt": "2026-08-19T09:00+02:00",
   "werk": [
+    {
+      "id": 10633,
+      "titel": "Regen die gras laat zwijgen",
+      "beschrijving": "Een uitgestrekt veld met groen gras, doorsneden door smalle, lichtbruine paden die diagonaal door het beeld lopen. Regen valt in fijne, verticale lijnen, waardoor het landschap een natte, grijsgroene gloed krijgt. Het gras is ongelijkmatig, met plekken waar het korter is en andere waar het hoger en wilder groeit. Een enkel klein boompje staat aan de horizon, vaag zichtbaar door de mist die het verre landschap omsluurt. De regen zorgt voor een sluier van beweging, terwijl het gras en de paden stilstaan in een moment van natte rust. Kleuren zijn gedempt, met tinten van groen, bruin en grijs die door de regen en de mist met elkaar vervloegen. Het beeld straalt een eenzame, kalme sfeer uit, zonder duidelijke focus of actie.",
+      "cyclus": 10570,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervaging in verre achtergrond', 'subtiele inconsistentie in grasstructuren bij horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is neutraal en niet typisch ansichtkaart-achtig.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010570_10633.webp"
+    },
+    {
+      "id": 10628,
+      "titel": "Blauw dat stroomt door zand",
+      "beschrijving": "Een smalle, rechte goot van donker hout loopt door een zandig landschap, gevuld met een golvende massa blauw en zilverkleurig materiaal dat aan haar of vezels doet denken. Het materiaal is ongelijkmatig verdeeld, met delen die diepblauw zijn en andere die overgaan in een lichter, bijna witte tint. Aan de voorzijde van de goot staat een metalen kast met een rechthoekig gat, waar een smalle strook wit licht doorheen valt. Het zand aan weerskanten is egaal en lichtgekleurd, met enkele kleine donkere steentjes verspreid. De horizon is recht en ver weg, met een effen, lichtblauwe hemel erboven. De compositie is symmetrisch en gericht op de diepte van het beeld, met de goot als leidende lijn. De sfeer is kalm en ietsje verlaten, met een focus op textuur en kleurcontrasten.",
+      "cyclus": 10565,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, bijna meditatieve spanning tussen vorm en leegte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010565_10628.webp"
+    },
     {
       "id": 10622,
       "titel": "Rust in de hitte",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010514_10577.webp"
-    },
-    {
-      "id": 10576,
-      "titel": "Verdwijnend spoor in grijs",
-      "beschrijving": "Diagonale, donkergrijze strepen lopen van linksboven naar rechtsonder over een lichtgrijze, korrelige achtergrond. De strepen variëren in dikte en intensiteit, sommige zijn scherp en donker, andere vaag en lichter. Rechtsboven vervaagt het beeld tot een egaal wit gebied, waarbij de strepen langzaam verdwijnen. Enkele kleine, donkere vlekken liggen verspreid in de linkeronderhoek. De compositie is minimalistisch, met veel lege ruimte die de strepen omhult.",
-      "cyclus": 10513,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele wazigheid in de overgang tussen donkere en lichte lijnen', 'lichte inconsistentie in de dikte van sommige lijnen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010513_10576.webp"
-    },
-    {
-      "id": 10571,
-      "titel": "Druppel voor de val",
-      "beschrijving": "Donkere, golvende vormen vullen het beeld, met een glanzende, bijna viskeuze textuur die aan opgegane verf of olie doet denken. Een enkele druppel hangt vast in de lucht, klaar om te vallen, terwijl andere druppels al zijn komen te rusten als donkere, onregelmatige bulten. De achtergrond is een egale, lichte grijstint, waardoor de donkere vormen scherp afsteken. Subtiele krassen en vlekjes doorbreken de gladheid, alsof het oppervlak een geschiedenis heeft van beweging en slijtage. De compositie is asymmetrisch, met de donkere golven die zich uitstrekken van linksboven naar rechtsonder, terwijl de lichtere ruimte eromheen een gevoel van openheid behoudt. Geen horizon, geen duidelijk perspectief, alleen de spanning tussen donker en licht, vast en vloeibaar.",
-      "cyclus": 10508,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010508_10571.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10567,
-    "gemaakt": 10629,
-    "gekozen": 1635,
+    "cycli": 10574,
+    "gemaakt": 10636,
+    "gekozen": 1637,
     "afgekeurd": 1369,
     "corpus": 69,
     "notities": 434
