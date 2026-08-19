@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T20:00+02:00",
+  "bijgewerkt": "2026-08-19T20:15+02:00",
   "werk": [
+    {
+      "id": 10933,
+      "titel": "Wit dat zwijgt",
+      "beschrijving": "Een besneeuwde helling domineert het beeld, met een schuine lijn die van linksboven naar rechtsonder loopt. Donkere, bladloze bomen en struiken prikken als silhouetten in de witte sneeuw, waarbij de takken scherp en uitgespreid zijn getekend. Verspreid liggen donkere rotsen en kleine stenen op de helling, deels bedekt met sneeuw. In de achtergrond vervagen bomen en heuvels in een grijze mist, waardoor de diepte van het landschap suggereert. De sneeuw heeft een zachte, golvende textuur, met subtiele sporen en onregelmatigheden. Het licht is diffuus, zonder duidelijke schaduwen, wat de stiller en koele sfeer versterkt. Kleuren zijn beperkt tot wit, grijs en donkerbruin, met een minimale variatie in tinten.",
+      "cyclus": 10870,
+      "tech_score": 8.0,
+      "tech_notities": "[\"subtiele halo's rond donkere takken tegen sneeuw\", \"lichte inconsistentie in takstructuren (enkele takken 'smelten' in achtergrond)\"]",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of decoratief licht; de leegte en ongemakkelijke takvormen hebben een ongemakkelijke, niet-toeristische sfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010870_10933.webp"
+    },
+    {
+      "id": 10929,
+      "titel": "Vlucht door het slot",
+      "beschrijving": "Twee houten deuren met reliëfpanelen vormen een symmetrische compositie, gescheiden door een verticale naad waar een metalen hangslot met een matte goudkleurige afwerking rust. Zes vogels in vlucht, geschilderd met gedetailleerde veren in blauw, zwart, roze en wit, zijn over beide deuren verdeeld: drie per deur, in een diagonale opstelling die de blik van linksboven naar rechtsonder leidt. De vogels hebben uitgespreide vleugels en gestrekte staarten, met subtiele schaduwval op het hout dat diepte suggereert. Het hout heeft een lichte, natuurlijke textuur met zachte bruine tinten en kleine knoesten, terwijl de vogels een glanzende, bijna drie-dimensionale uitstraling hebben door de kleurcontrasten en fijne details in de veren. De metalen scharnieren aan weerszijden van de deuren zijn donkerbruin en functioneel, zonder versieringen. Het hangslot werpt een korte schaduw op het hout, en de vogels lijken de ruimte rond het slot te omvatten zonder het te raken.",
+      "cyclus": 10866,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De vogels en de deur zijn geen iconisch Nederlands motief en de compositie heeft een eigen dynamiek door de asymmetrie en de interactie met het slot.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010866_10929.webp"
+    },
     {
       "id": 10915,
       "titel": "Pluimen in de wind",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010817_10880.webp"
-    },
-    {
-      "id": 10878,
-      "titel": "Vonken in verweerd water",
-      "beschrijving": "Een vaag, blauw silhouet van een visachtige vorm drijft door een onscherp landschap van beige en lichtgrijze tinten. Rostintjes en donkere vlekken vormen een onregelmatige, horizontale strook die de vis lijkt te doorsnijden, met verspreide, glinsterende punten die als vonken of druppels door het beeld zweven. Dunne, donkere lijnen snijden door de compositie, alsof ze sporen van beweging of slijtage achterlaten. Kleine, blauwe cirkels en vage, witte stippen zijn willekeurig verspreid, terwijl de achtergrond een zachte, korrelige textuur heeft die aan verweerd papier of verbleekt klei doet denken. De visvorm is niet gedetailleerd, maar herkenbaar aan de stroomlijnen en de staart die zich uitstrekt naar de rechterkant.",
-      "cyclus": 10815,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met subtiele spanning tussen kleur en textuur.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010815_10878.webp"
-    },
-    {
-      "id": 10865,
-      "titel": "Papier dat ademt door verf",
-      "beschrijving": "Waterverf vloeit in onregelmatige vlekken over het papier, waarbij blauwe en groene tinten zich vermengen met zachte oranje en paarse gebieden. Donkere druppels en subtiele spattingen doorbreken de gladde overgangen, terwijl de randen van de kleuren ongelijkmatig en watervast zijn. Witte ruimtes tussen de vlekken suggereren onbenutte ruimte, maar vormen ook een actieve onderdeel van de compositie. De textuur van het papier is zichtbaar door de transparante lagen verf, wat diepte toevoegt aan de schijnbaar vlakke vormen. Kleuren lopen in sommige gebieden in elkaard over, in andere blijven ze scherp gescheiden door droge randen.",
-      "cyclus": 10802,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met subtiele kleurverschuivingen en ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010802_10865.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10935,
+      "cyclus": 10872,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een eigen compositorische keuze met de vogels en de boom, wat het geen typische ansichtkaart maakt.",
+      "bestand": "images/a010872_10935.webp"
+    },
     {
       "id": 10863,
       "cyclus": 10800,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in houtstructuur: de panelen van de deur hebben licht afwijkende houtnerfpatronen die niet helemaal logisch aansluiten bij de omringende lamellen', 'de metalen scharnieren aan de linkerkant van de deur zijn asymmetrisch geplaatst ten opzichte van de deurklink aan de rechterkant, wat een lichte compositorische onbalans creëert']",
       "cliche_notities": "Dit beeld past bij een typische ansichtkaart van een landelijk huis met een decoratieve bundel tarwe, zonder een uniek of onverwacht standpunt",
       "bestand": "images/a010670_10733.webp"
-    },
-    {
-      "id": 10662,
-      "cyclus": 10599,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
-      "bestand": "images/a010599_10662.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10868,
-    "gemaakt": 10930,
-    "gekozen": 1682,
-    "afgekeurd": 1374,
-    "corpus": 66,
+    "cycli": 10874,
+    "gemaakt": 10937,
+    "gekozen": 1684,
+    "afgekeurd": 1375,
+    "corpus": 67,
     "notities": 440
   }
 }
