@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T16:00+02:00",
+  "bijgewerkt": "2026-08-19T16:15+02:00",
   "werk": [
+    {
+      "id": 10823,
+      "titel": "Rode borsten onder de maan",
+      "beschrijving": "Zes donkere vogels met rode borsten en snavels vliegen door een rozebruine hemel, verspreid over het beeld. Rechtsboven hangt een volle, witte maan met subtiele schaduwstructuren. De achtergrond bestaat uit een gladde, watervachtige textuur met lichte kleurvariaties en kleine, donkere vlekken die als sterren of druppels fungeren. Een horizontale lijn verdeelt het beeld in twee: boven een donkerdere, onder een lichtere roze laag. De vogels hebben uitgespreide vleugels en een dynamische houding, alsof ze net een bocht maken. Kleuren zijn gedempt, met accenten van rood en wit die de vogels en de maan doen opvallen tegen de zachte achtergrond.",
+      "cyclus": 10760,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vogelvleugels (één vogel heeft minder gedetailleerde veren)', 'lichte halo rond de maan']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is asymmetrisch en de vogels hebben een ongemakkelijke, schuine dynamiek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010760_10823.webp"
+    },
+    {
+      "id": 10819,
+      "titel": "Blauw tussen de deuren",
+      "beschrijving": "Twee witte deuren staan symmetrisch in een grijze muur, met een smalle, verticale spleet ertussen waar blauw licht doorheen schijnt. De deuren hebben zwarte handvatten en zijn omgeven door een ongelijkmatige, geschilderde textuur die doet denken aan verweerd pleisterwerk. Voor de deuren ligt een zandig oppervlak met zachte, golvende patronen, alsof de wind er recent overheen is geblazen. Enkele droge grassprietjes en kleine, donkere voorwerpen—mogelijk stenen of zaadjes—liggen verspreid in het zand. De achtergrond wordt gedomineerd door een helderblauwe hemel met subtiele, witte strepen die wolken suggereren. De sfeer is rustig en iets verlaten, met een gevoel van stilte dat de leegte rond de deuren versterkt. De kleuren zijn gedempt, behalve het levendige blauw dat door de spleet en in de hemel prikt.",
+      "cyclus": 10756,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren ten opzichte van de muur', 'lichte wazigheid in de textuur van het zand in de voorgrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie met een ongewone kleurcombinatie en geen typisch iconisch onderwerp, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010756_10819.webp"
+    },
     {
       "id": 10810,
       "titel": "Verf die zwijgt",
@@ -104,32 +130,6 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w010707_10770.webp"
-    },
-    {
-      "id": 10750,
-      "titel": "Amber dat ademt",
-      "beschrijving": "Een smalle, horizontale laag glanzend, amberkleurig materiaal loopt dwars door het midden van een effen, lichtgrijze achtergrond. Het materiaal heeft een onregelmatige, organische vorm met zachte bulten en een smalle, puntige uitloop aan de rechterkant. Kleurrijke overgangen in het materiaal lopen van donkerbruin aan de randen naar een heldere, bijna transparante geelgroene tint in het midden. De textuur van het materiaal lijkt glad en iets viskeus, met kleine, donkere deeltjes verspreid door de laag. De achtergrond is volledig egaal, zonder textuur of afwijkingen, en vormt een scherp contrast met de dynamische vorm en kleur van het horizontale element. De compositie is minimalistisch, met de focus volledig op de subtiele variaties in het amberkleurige materiaal tegen de neutrale achtergrond.",
-      "cyclus": 10687,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010687_10750.webp"
-    },
-    {
-      "id": 10747,
-      "titel": "Goud dat zakt door stilte",
-      "beschrijving": "Een golvende, gouden vorm kruipt langs een witte muur en zakt door een donkere, waterachtige vlek op de vloer. De vorm heeft een vloeibare, bijna organische structuur met glanzende, onregelmatige randen en zwarte insluitsels. Rechts staat een grijze houten deur met paneelwerk en een metalen klink, licht geopend. De vloer is lichtgrijs met subtiele textuur, en de donkere vlek heeft concentrische patronen die uitstralen vanaf het punt waar de gouden vorm de grond raakt. Kleine gouden druppeltjes en donkere vlekjes zijn verspreid over de muur en vloer. De sfeer is stil en mysterieus, met een contrast tussen de koude, neutrale kleuren en de warme, levendige goudtint.",
-      "cyclus": 10684,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de golvende gouden vorm en de donkere vlek, wat het geen ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010684_10747.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10763,
-    "gemaakt": 10825,
-    "gekozen": 1664,
+    "cycli": 10770,
+    "gemaakt": 10832,
+    "gekozen": 1666,
     "afgekeurd": 1373,
     "corpus": 69,
     "notities": 438
