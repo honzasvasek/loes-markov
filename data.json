@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T03:00+02:00",
+  "bijgewerkt": "2026-08-19T03:15+02:00",
   "werk": [
+    {
+      "id": 10478,
+      "titel": "Barst in de stilligheid",
+      "beschrijving": "Zandduinen met fijne, golvende patronen vullen de onderste helft, onder een diepblauwe hemel zonder wolken. Een witte theekop met een barst zweeft in het midden, schuin gepositioneerd, met een dunne, donkere steel die naar beneden loopt en overgaat in een takkenstructuur. Deze takken, donkerblauw en zonder bladeren, strekken zich uit over het zand en de hemel, met fijnere takjes die naar de randen wijzen. De kop heeft een zachte, vaag getekende rand en een lichte schaduw eronder. Het zand heeft een warme, beige tint met subtiele schaduwen die de golvende structuur benadrukken. Boven de compositie loopt een smalle, witte rand, en onderaan is een deel van een houten oppervlak zichtbaar met een lichte textuur.",
+      "cyclus": 10415,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in de takstructuur van de boom (enkele takken lopen logisch door, andere verdwijnen plotseling)",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een surrealistisch motief (gebroken kop die overgaat in een boom) met een woestijnschap, wat geen typisch iconisch onderwerp is en een eigen compositorische keuze vertoont.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010415_10478.webp"
+    },
+    {
+      "id": 10475,
+      "titel": "Wie keek hier net weg?",
+      "beschrijving": "Een houten raam met twee ruiten omlijst een uitzicht op twee kale bomen met uitgespreide takken, getekend in fijne, donkere lijnen tegen een lichtgrijze achtergrond met subtiele textuur. Onder de bomen groeien donkere, gestileerde planten met lange, smalle bladeren en enkele kleine bloemen. Het raam heeft een horizontale scheidingslat met een klein, rond metaalbeslag in het midden. Rechtsonder op de vensterbank liggen drie kleine, donkere voorwerpen die lijken op zaden of steentjes. Het hout van het raam toont slijtage en korrelige structuren, met lichte schaduwen die diepte suggereren. De compositie is symmetrisch, met de bomen centraal en de planten die de onderkant van het beeld vullen. De sfeer is stil en iets verlaten, benadrukt door de afwezigheid van bladeren en de gedempte kleuren.",
+      "cyclus": 10412,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet typisch ansichtkaartmateriaal: de bomen staan schuin en de lege ruimte buiten het raam is niet decoratief, maar suggereert een onafgewerkt verhaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010412_10475.webp"
+    },
     {
       "id": 10463,
       "titel": "Waar blijft de zwaartekracht?",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010369_10432.webp"
-    },
-    {
-      "id": 10429,
-      "titel": "Geen ondergang zonder scheur",
-      "beschrijving": "Een boom met hangende takken domineert het beeld, getekend in donkere, fijne lijnen tegen een lichte achtergrond. Een horizontale scheur loopt door het midden, waarbij boven de scheur een gele tot oranje verloop is te zien, alsof er een ondergaande zon achter de boom schijnt. Onder de scheur blijft de achtergrond neutraal, met alleen subtiele geelbruine tinten. De stam is gedetailleerd weergegeven met textuur en een knoop, terwijl de takken zich uitstrekken in een asymmetrische, bijna spiegelbeeldige compositie. Aan de basis van de boom zijn wat dunne grassprieltjes getekend, en de rand van de scheur is onregelmatig en wat versleten.",
-      "cyclus": 10366,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de overgang tussen de boven- en onderkant van de boom (gescheurde rand voelt iets geforceerd)', 'Subtiele wazigheid in de achtergrondkleuren (geel/blauw) bij de horizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "De boom is geen iconisch motief en de compositie heeft een ongemakkelijke, bewuste scheiding die geen typische ansichtkaart-esthetiek heeft",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010366_10429.webp"
-    },
-    {
-      "id": 10423,
-      "titel": "Scheur in het licht",
-      "beschrijving": "Een helder glazen glas staat centraal op een roodbruine ondergrond, met een scherpe, onregelmatige scheur die van de rand tot de bodem loopt. Het glas heeft verticale ribbels en een brede, ronde basis die licht reflecteert. De scheur loopt niet recht, maar vertoont kleine, onvoorspelbare afwijkingen, alsof het glas langzaam is gescheurd. De achtergrond is egaal en trekt geen aandacht, waardoor de focus ligt op de transparantie van het glas en de precisie van de breuk. De rand van het glas is glad en glinstert, terwijl de scheur een donkere, smalle spleet vormt die diepte suggereert.",
-      "cyclus": 10360,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de rand van het glas (linksboven iets onnatuurlijk scherp, rechtsboven zachter)",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de subtiele vervorming en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010360_10423.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10482,
+      "cyclus": 10419,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een klassieke, iconische compositie van een boom gezien door een raam met traditionele architectuur op de achtergrond, typisch voor een toeristische ansichtkaart van een Oosters landschap.",
+      "bestand": "images/a010419_10482.webp"
+    },
     {
       "id": 10466,
       "cyclus": 10403,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare karakters', 'inconsistente lettergroottes en -posities', 'wazige randen rond tekst']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst als centraal element.",
       "bestand": "images/a010367_10430.webp"
-    },
-    {
-      "id": 10407,
-      "cyclus": 10344,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst en symbolen.",
-      "bestand": "images/a010344_10407.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 10414,
-    "gemaakt": 10477,
-    "gekozen": 1608,
-    "afgekeurd": 1363,
+    "cycli": 10421,
+    "gemaakt": 10484,
+    "gekozen": 1610,
+    "afgekeurd": 1364,
     "corpus": 67,
     "notities": 432
   }
