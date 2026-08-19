@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T09:15+02:00",
+  "bijgewerkt": "2026-08-19T09:30+02:00",
   "werk": [
+    {
+      "id": 10644,
+      "titel": "Hout dat zwijgt",
+      "beschrijving": "Een houten muur met verticale planken vult het beeld, met een donker rechthoekig gat in het midden, omlijst door een lichtere houten lijst en een smalle richel eronder. Boven loopt een schuine daklijn naar beneden, waar een donkergrijze, onregelmatige vlek in het dak hangt. Het hout heeft een warme bruine tint met zichtbare knoesten en houtnerf, en de planken van de vloer lopen parallel aan de muur, met kleine donkere vlekken en slijtage. Rechtsboven in de muur zit een kleine, donkere, onregelmatige vlek, en onder het gat bevinden zich een paar vaag zichtbare blauwe spetters en een dunne, donkere scratch. De ruimte voelt gesloten en leeg, zonder zichtbare ramen of deuren buiten het gat.",
+      "cyclus": 10581,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in houttextuur bij raamkozijn', 'lichte vervorming van daklijn rechtsboven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is neutraal en niet typisch ansichtkaart-achtig",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010581_10644.webp"
+    },
+    {
+      "id": 10638,
+      "titel": "Regendruppels op vergeten pad",
+      "beschrijving": "Een modderpad snijdt schuin door een weids grasveld, omgeven door lange, groene grassprietjes die door de regen zwaar en glanzend zijn. Het pad, bruin en nat, loopt in een lichte boog van de voorgrond naar de horizon, waar het overgaat in een grijze, nevelige achtergrond. Regen druppelt zichtbaar door de lucht, een fijne sluier die de hele scène omhult. Het gras aan weerskanten is ongelijkmatig, met hier en daar bruine, droge plekken en kleine stenen die in de modder steken. De regen maakt het landschap stil en eenzaam, zonder sporen van leven of beweging.",
+      "cyclus": 10575,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in grastextuur bij horizon', 'lichte wazigheid in verre achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op subtiele spanning tussen pad en gras, niet op een bevestigend beeld.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010575_10638.webp"
+    },
     {
       "id": 10633,
       "titel": "Regen die gras laat zwijgen",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010519_10582.webp"
-    },
-    {
-      "id": 10580,
-      "titel": "Waar gaat die deur naartoe?",
-      "beschrijving": "Een lichtblauwe deur met gouden beslag staat centraal in een geelgrijze muur, omlijst door een donkerbruine lijst. Een scherpe, zwarte scheur loopt diagonaal van linksboven naar rechtsonder door de deur en de omlijsting, met witte randen die de scheur benadrukken. Achter de scheur is niets zichtbaar. De deur heeft twee panelen en twee scharnieren aan de rechterkant. De achtergrond bestaat uit donkerbruin hout met zichtbare vezels en knoesten. De compositie is symmetrisch, met de deur als focuspunt. De kleuren zijn gedempt, behalve de gele omlijsting en de gouden beslagen. De sfeer is statisch en iets ongemakkelijks door de scheur.",
-      "cyclus": 10517,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De deur met scheur is geen iconisch onderwerp en de compositie heeft een bewuste, niet-decoratieve opbouw.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010517_10580.webp"
-    },
-    {
-      "id": 10577,
-      "titel": "Wat als de deur openging?",
-      "beschrijving": "Een houten deur met een gouden klink staat schuin in beeld, de rechterkant scheurt open en onthult een oceaan met golven die op een strand breken. De deur is bedekt met donkerbruine en paarse vlekken en kleine rode en oranje druppels, terwijl aan de onderkant een vlammenveloppend patroon in oranje, rood en geel loopt, met glanzende, bijna 3D-achtige textuur. Achter de scheur zie je een lichtblauwe hemel met zachte wolken en een horizon die overgaat in het donkerblauwe water. De muur rond de deur is donkerblauw geschilderd, met subtiele textuur die doet denken aan verflagen die iets opzwellen bij de randen van de scheur. De golven hebben wit schuim en de kustlijn is zandkleurig, met een lichte overgang naar het water. De houten deur heeft een duidelijke nerfstructuur en de klink heeft een matte afwerking met lichte reflecties van licht.",
-      "cyclus": 10514,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houtstructuur bij rand van deur', 'lichte wazigheid in golven aan horizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, actieve spanning tussen realiteit en illusie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010514_10577.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10645,
+      "cyclus": 10582,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een typisch landschapsmotief met een boerderij en gras, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuzes of eigen standpunt.",
+      "bestand": "images/a010582_10645.webp"
+    },
     {
       "id": 10567,
       "cyclus": 10504,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld heeft een persoonlijke, niet-iconische compositie met subtiele vervormingen en een focus op leegte en ontbinding, wat het geen typische ansichtkaart maakt.",
       "bestand": "images/a010499_10562.webp"
-    },
-    {
-      "id": 10514,
-      "cyclus": 10451,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met water, boten en willowbomen, uitgevoerd in een klassieke, decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a010451_10514.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10579,
-    "gemaakt": 10641,
-    "gekozen": 1637,
-    "afgekeurd": 1369,
-    "corpus": 69,
+    "cycli": 10586,
+    "gemaakt": 10649,
+    "gekozen": 1639,
+    "afgekeurd": 1370,
+    "corpus": 70,
     "notities": 434
   }
 }
