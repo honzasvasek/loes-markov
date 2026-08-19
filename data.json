@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-19T07:30+02:00",
+  "bijgewerkt": "2026-08-19T07:45+02:00",
   "werk": [
+    {
+      "id": 10594,
+      "titel": "Waar blijft de sleutel?",
+      "beschrijving": "Een houten deur met een smalle, verticale glazen ruit domineert het rechterdeel van het beeld. Door het glas is een landschap te zien met een kronkelend pad, bomen en struiken, en in de verte een gebouw. Links van de deur bevindt zich een muur met horizontale, crèmekleurige panelen. De deur heeft een metalen greep en een donkere lijst rond het glas. De kleuren zijn gedempt, met bruine, grijze en beige tinten. De compositie is verticaal en symmetrisch, met de deur als centraal element dat de kijker naar buiten leidt. De sfeer is rustig en iets verlaten, door de afwezigheid van mensen en de gedempte kleuren.",
+      "cyclus": 10531,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een intieme, persoonlijke compositie met een deur als raam naar een landschap, wat geen typisch toeristisch onderwerp is.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010531_10594.webp"
+    },
     {
       "id": 10582,
       "titel": "Zes vragen zonder antwoord",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010489_10552.webp"
-    },
-    {
-      "id": 10548,
-      "titel": "De gele cirkel die blijft staan",
-      "beschrijving": "Een hoek van een ruimte met een oranje plafond en een donkerbruine, versierde kroonlijst. De muren zijn wit met zachte, golvende overgangen naar lichtgrijs en roze. Een kleine, heldergele cirkel bevindt zich op de hoek waar de muren samenkomen. De vloer is roodbruin en loopt schuin op naar de muren. De sfeer is kalm en minimalistisch, met een focus op vorm en kleur.",
-      "cyclus": 10485,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010485_10548.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10534,
-    "gemaakt": 10596,
-    "gekozen": 1630,
+    "cycli": 10540,
+    "gemaakt": 10602,
+    "gekozen": 1631,
     "afgekeurd": 1369,
     "corpus": 69,
     "notities": 434
