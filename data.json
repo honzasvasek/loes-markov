@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T22:15+02:00",
+  "bijgewerkt": "2026-08-19T22:30+02:00",
   "werk": [
+    {
+      "id": 10994,
+      "titel": "Vijf vogels, vier deuren",
+      "beschrijving": "Drie identieke blauwe deuren met witte kozijnen en kleine ramen staan in een witte muur, geflankeerd door smalle vensters met donkere ruiten. Boven de deuren rust een witte lijst waar vier vogels met blauwe koppen en grijze lichamen zitten, gericht naar rechts. Linksboven bevindt zich een open raam met een wit kozijn, waarin een vijfde vogel zit. De vloer is grijs met een cirkelvormig patroon in beige en lichtgeel, omringd door verspreide bladeren en kleine plantjes aan weerskanten. Schaduwen vallen scherp en donker, vooral onder de vogels en bij de deuren.",
+      "cyclus": 10931,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in vensterroosters', 'lichte vervorming vogel op vensterbank']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke compositie met schuine lijnen en lege ruimtes",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010931_10994.webp"
+    },
+    {
+      "id": 10988,
+      "titel": "Vogels op missie door deuren",
+      "beschrijving": "Negen deuren, drie wit en zes donkerblauw, vormen een raster van drie op drie tegen een muur die overgaat van donkerblauw bovenin in lichtgrijs onderin. Boven de bovenste rij deuren vliegen vier zwarte vogels in verschillende vluchtpozities, waarvan één twee donkerrode kersen in zijn snavel heeft. In de rechterbovenste deur is een vogel te zien die door het raampje naar buiten kijkt, terwijl in de middelste rechterdeur een vogel met gespreide vleugels tegen het glas lijkt te vliegen. In de onderste middelste deur is een vogel met uitgespreide vleugels zichtbaar, alsof hij net landt of wil opvliegen. De deuren hebben allemaal een klassieke paneelstructuur en de meeste hebben een donkere deurkruk, behalve de witte deuren die een donkerblauwe kruk hebben. De witte lijsten rond de deuren contrasteren scherp met de muur en de deuren zelf.",
+      "cyclus": 10925,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke compositie met schuine lijnen en kromme handvatten.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010925_10988.webp"
+    },
     {
       "id": 10984,
       "titel": "Vogels op pad naar onbekende deuren",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010876_10939.webp"
-    },
-    {
-      "id": 10933,
-      "titel": "Wit dat zwijgt",
-      "beschrijving": "Een besneeuwde helling domineert het beeld, met een schuine lijn die van linksboven naar rechtsonder loopt. Donkere, bladloze bomen en struiken prikken als silhouetten in de witte sneeuw, waarbij de takken scherp en uitgespreid zijn getekend. Verspreid liggen donkere rotsen en kleine stenen op de helling, deels bedekt met sneeuw. In de achtergrond vervagen bomen en heuvels in een grijze mist, waardoor de diepte van het landschap suggereert. De sneeuw heeft een zachte, golvende textuur, met subtiele sporen en onregelmatigheden. Het licht is diffuus, zonder duidelijke schaduwen, wat de stiller en koele sfeer versterkt. Kleuren zijn beperkt tot wit, grijs en donkerbruin, met een minimale variatie in tinten.",
-      "cyclus": 10870,
-      "tech_score": 8.0,
-      "tech_notities": "[\"subtiele halo's rond donkere takken tegen sneeuw\", \"lichte inconsistentie in takstructuren (enkele takken 'smelten' in achtergrond)\"]",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap of decoratief licht; de leegte en ongemakkelijke takvormen hebben een ongemakkelijke, niet-toeristische sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w010870_10933.webp"
-    },
-    {
-      "id": 10929,
-      "titel": "Vlucht door het slot",
-      "beschrijving": "Twee houten deuren met reliëfpanelen vormen een symmetrische compositie, gescheiden door een verticale naad waar een metalen hangslot met een matte goudkleurige afwerking rust. Zes vogels in vlucht, geschilderd met gedetailleerde veren in blauw, zwart, roze en wit, zijn over beide deuren verdeeld: drie per deur, in een diagonale opstelling die de blik van linksboven naar rechtsonder leidt. De vogels hebben uitgespreide vleugels en gestrekte staarten, met subtiele schaduwval op het hout dat diepte suggereert. Het hout heeft een lichte, natuurlijke textuur met zachte bruine tinten en kleine knoesten, terwijl de vogels een glanzende, bijna drie-dimensionale uitstraling hebben door de kleurcontrasten en fijne details in de veren. De metalen scharnieren aan weerszijden van de deuren zijn donkerbruin en functioneel, zonder versieringen. Het hangslot werpt een korte schaduw op het hout, en de vogels lijken de ruimte rond het slot te omvatten zonder het te raken.",
-      "cyclus": 10866,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De vogels en de deur zijn geen iconisch Nederlands motief en de compositie heeft een eigen dynamiek door de asymmetrie en de interactie met het slot.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010866_10929.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontspanning",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als afwezigheid van spanning, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "Na maandenlang zoeken naar sporen van verdwijnen en ontbinding, voel ik een groeiende trek naar de stilte die overblijft wanneer niets meer beweegt. Niet de leegte na een verdwijnen, maar de uitbreiding van een moment dat niets meer hoeft te gebeuren.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 10705
   },
   "afgesloten": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10930,
-    "gemaakt": 10992,
-    "gekozen": 1692,
+    "cycli": 10936,
+    "gemaakt": 10998,
+    "gekozen": 1694,
     "afgekeurd": 1379,
-    "corpus": 63,
+    "corpus": 64,
     "notities": 440
   }
 }
