@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-19T06:45+02:00",
+  "bijgewerkt": "2026-08-19T07:00+02:00",
   "werk": [
+    {
+      "id": 10576,
+      "titel": "Verdwijnend spoor in grijs",
+      "beschrijving": "Diagonale, donkergrijze strepen lopen van linksboven naar rechtsonder over een lichtgrijze, korrelige achtergrond. De strepen variëren in dikte en intensiteit, sommige zijn scherp en donker, andere vaag en lichter. Rechtsboven vervaagt het beeld tot een egaal wit gebied, waarbij de strepen langzaam verdwijnen. Enkele kleine, donkere vlekken liggen verspreid in de linkeronderhoek. De compositie is minimalistisch, met veel lege ruimte die de strepen omhult.",
+      "cyclus": 10513,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele wazigheid in de overgang tussen donkere en lichte lijnen', 'lichte inconsistentie in de dikte van sommige lijnen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010513_10576.webp"
+    },
+    {
+      "id": 10571,
+      "titel": "Druppel voor de val",
+      "beschrijving": "Donkere, golvende vormen vullen het beeld, met een glanzende, bijna viskeuze textuur die aan opgegane verf of olie doet denken. Een enkele druppel hangt vast in de lucht, klaar om te vallen, terwijl andere druppels al zijn komen te rusten als donkere, onregelmatige bulten. De achtergrond is een egale, lichte grijstint, waardoor de donkere vormen scherp afsteken. Subtiele krassen en vlekjes doorbreken de gladheid, alsof het oppervlak een geschiedenis heeft van beweging en slijtage. De compositie is asymmetrisch, met de donkere golven die zich uitstrekken van linksboven naar rechtsonder, terwijl de lichtere ruimte eromheen een gevoel van openheid behoudt. Geen horizon, geen duidelijk perspectief, alleen de spanning tussen donker en licht, vast en vloeibaar.",
+      "cyclus": 10508,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010508_10571.webp"
+    },
+    {
+      "id": 10568,
+      "titel": "Wit zilver in de as",
+      "beschrijving": "Donker, verkoolde houtvezels vullen het linkerdeel van het beeld, met schuine, gescheurde randen en glimmende, natte plekken die wit en zilver reflecteren. Rook stijgt in slanke, witte spiraalvormen op vanaf de rechterkant, waarbij de damp zich langzaam ontbindt in de grijze achtergrond. Verspreid over het hout en de omgeving liggen kleine, donkere deeltjes, koolstof en as, met hier en daar een glimmend, rond voorwerp dat op een droplet of een klein metaalfragment lijkt. De textuur van het hout is ruw en onregelmatig, met diepe barsten en losse vezels die in alle richtingen wijzen. De rook vormt een contrast met de statische, dode structuur van het hout, en beweegt zich in vloeibare, onvoorspelbare lijnen door de lucht. De achtergrond is onscherp en grijs, wat de focus legt op de details van het verkoolde hout en de rook.",
+      "cyclus": 10505,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het toont een intieme, close-up scène van verbrand hout met rook, zonder iconische of decoratieve elementen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010505_10568.webp"
+    },
     {
       "id": 10564,
       "titel": "Goud dat de kerk verlaat",
@@ -91,45 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w010464_10527.webp"
-    },
-    {
-      "id": 10522,
-      "titel": "Vlam die zacht oplost in vogelvleugels",
-      "beschrijving": "Een donker, amorf vorm dat doet denken aan een vlam of een opwellend element domineert het midden, omringd door een zachte roze achtergrond die overgaat in een diepblauwe bovenkant. Donkerblauwe en zwarte vlekken en druppels zijn verspreid over het beeld, waarbij sommige een spoor vormen dat naar boven wijst. Twee scherpe, donkere vormen aan de bovenrand lijken op vogelvleugels of puntige structuren die zich uitstrekken naar de blauwe ruimte. Een boog van kleine zwarte stippen omlijst de onderkant van het donkere vorm, terwijl subtiele textuurverschillen in de kleuren een gevoel van beweging en oplosbaarheid suggereren. De compositie straalt een rustige, bijna meditatieve sfeer uit, met een spanning tussen de donkere, dynamische vormen en de kalmerende, egale achtergrond.",
-      "cyclus": 10459,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010459_10522.webp"
-    },
-    {
-      "id": 10518,
-      "titel": "Punten boven de vlam",
-      "beschrijving": "Een verticaal doek is horizontaal doormiddeld in twee vlakken: boven een lichtblauwe band, onder een brede roodbruine vlak. Een rechte lijn van negen zwarte punten loopt verticaal door het midden, vanaf de bovenrand tot net boven een zwarte vlamvorm aan de onderkant. De vlam heeft drie puntige tongen en een ronde basis, getekend met donkere, iets onregelmatige contouren. De kleuren zijn mat en vlak, zonder schaduwen of gradiënten. De compositie is strikt symmetrisch, met de punten en de vlam op de verticale as. De sfeer is statisch en minimalistisch, zonder beweging of diepte.",
-      "cyclus": 10455,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010455_10518.webp"
-    },
-    {
-      "id": 10503,
-      "titel": "Groen tegen grijs",
-      "beschrijving": "Een slanke boom met dunne takken en verspreide groene bladeren steekt scherp af tegen een hemel die overgaat van lichtblauw bovenaan in zachtroze bij de horizon. Onder de boom liggen daken van traditionele gebouwen met donkergrijze, gebogen pannen en witte muren, deels omhuld door een dunne laag mist die zich tussen de structuren windt. De mist is het dichtst bij de daken en wordt hoger opzij vager, waardoor de achtergrondgebouwen vaag en ver weg lijken. De takken van de boom lopen diagonaal door het beeld, met de bladeren die zich vooral aan de bovenkant bevinden, terwijl de onderkant van de boom leeg is. De kleuren zijn gedempt, met uitzondering van de subtiele roze tint in de hemel en de groene bladeren die een klein contrast vormen met de overwegend grijze en witte tonen van de omgeving. De compositie is verticaal gericht, met de boom als centraal element dat de blik naar boven leidt, terwijl de daken de onderste helft van het beeld vullen en een gevoel van diepte creëren.",
-      "cyclus": 10440,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een rustige, bijna meditatieve sfeer met een focus op leegte en subtiele details, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010440_10503.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10511,
-    "gemaakt": 10573,
-    "gekozen": 1624,
+    "cycli": 10519,
+    "gemaakt": 10581,
+    "gekozen": 1627,
     "afgekeurd": 1369,
     "corpus": 69,
     "notities": 434
