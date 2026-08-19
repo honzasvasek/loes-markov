@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T01:30+02:00",
+  "bijgewerkt": "2026-08-20T01:45+02:00",
   "werk": [
+    {
+      "id": 11088,
+      "titel": "Wit dat zachtjes bloedt",
+      "beschrijving": "Drie hoopjes witte, doorschijnende kristallen liggen verspreid op een oppervlak van afwisselend grijze en houten planken. De kristallen variëren in grootte en vorm, met scherpe en ronde randen, en werpen kleine schaduwen op het materiaal eronder. Donkergrijze, smalle schaduwen lopen diagonaal over de planken, parallel aan elkaar en aan de randen van de houten delen. Het hout toont lichte slijtage en kleurafwijkingen, met geelbruine en beige tinten die door de grijze verf heen komen. Enkele losse kristallen en kleine deeltjes bevinden zich buiten de hoopjes, willekeurig verspreid over het oppervlak.",
+      "cyclus": 11025,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in houttextuur bij randen', 'lichte wazigheid in schaduw van schaduwen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is gericht op subtiele spanning tussen vorm en leegte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011025_11088.webp"
+    },
+    {
+      "id": 11085,
+      "titel": "Putjes zonder antwoord",
+      "beschrijving": "Twaalf rechthoekige, donkergrijze putjes met schuine randen vullen het beeld, gerangschikt in vier rijen van drie. Elk putje heeft een lichte, bijna witte omlijsting en een textuur die doet denken aan fijn gerasterd papier of krasspatroon. De putjes zijn identiek van vorm, maar de schaduwen en lichtval variëren subtiel: sommige putjes stralen een diepere donkerte uit, andere hebben een zachtere overgang tussen licht en donker. De achtergrond is egaal lichtgrijs, waardoor de putjes scherp afsteken. De compositie is strak en symmetrisch, met gelijke afstanden tussen de putjes, wat een gevoel van orde en herhaling oproept. Geen van de putjes bevat iets; ze zijn leeg en uitgesproken aanwezig door hun eenvoud en precisie.",
+      "cyclus": 11022,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is strikt en niet-obvious, met een focus op herhaling en leegte in plaats van een bevestigend verhaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011022_11085.webp"
+    },
     {
       "id": 11076,
       "titel": "Welke deur gaat open?",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010967_11030.webp"
-    },
-    {
-      "id": 11029,
-      "titel": "Wat zit achter die spleet?",
-      "beschrijving": "Twee donkere, verticale betonnen muren met een smalle, donkere opening ertussen domineren het beeld. De muren hebben een ruwe, getextureerde oppervlakte met subtiele schaduwvariaties en onregelmatigheden. Boven de muren strekt zich een egale, lichte achtergrond uit, die een scherp contrast vormt met de donkere structuren. In de opening is een donkere, verticale vorm zichtbaar, mogelijk een deur of een smalle gang, met een lichte rand aan de onderkant. Aan de voet van de linker muur groeit een klein bundeltje donker gras of onkruid, en op de grond liggen verspreid een paar kleine stenen en stukjes afval. De compositie is symmetrisch met een focus op de leegte en de spanning tussen de muren en de opening.",
-      "cyclus": 10966,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is abstract en minimalistisch, zonder iconische elementen of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010966_11029.webp"
-    },
-    {
-      "id": 11020,
-      "titel": "Papier dat wacht op woorden",
-      "beschrijving": "Een grijze houten deur met reliëfpanelen vult het beeld. Centraal hangt een rechthoekig vel wit papier, bevestigd met twee zilverkleurige paperclips aan de bovenkant. Het papier is grotendeels bedekt met een diepblauwe waterverfwas, waarbij de randen lichter en de midden donkerder zijn. Een zilveren deurkruk bevindt zich rechtsonder. De houtstructuur van de deur is zichtbaar, met subtiele slijtage en kleine oneffenheden. De compositie is statisch en symmetrisch, met de deur als achtergrond en het blauwe vlak als focus.",
-      "cyclus": 10957,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet typisch ansichtkaart-achtig.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010957_11020.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11027,
-    "gemaakt": 11090,
-    "gekozen": 1708,
+    "cycli": 11035,
+    "gemaakt": 11097,
+    "gekozen": 1710,
     "afgekeurd": 1379,
     "corpus": 64,
     "notities": 441
