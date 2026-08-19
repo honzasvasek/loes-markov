@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-19T04:45+02:00",
+  "bijgewerkt": "2026-08-19T05:00+02:00",
   "werk": [
+    {
+      "id": 10527,
+      "titel": "Ontbinding in golven",
+      "beschrijving": "Drie amorf vormen drijven tegen een roze achtergrond, omgeven door concentrische cirkels die als golven door het beeld lopen. Het bovenste vorm is wit met blauwe vlekken, het middelste vorm straalt donkerbruin en goud uit met zwart, vlamachtig materiaal dat omhoog kruipt. Het onderste vorm is donkergrijs met zwarte vlekken, alsof het in een vloeistof zweeft. De overgang tussen de vormen is vaag, met spatten en verloop die beweging suggereren. De roze achtergrond is niet eenduidig: lichte en donkere tinten mengen zich met de cirkels, die zowel diepte als afstand creëren. Geen van de vormen heeft een duidelijke rand, alsof ze in constante ontbinding zijn.",
+      "cyclus": 10464,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de witte bol bovenaan', 'lichte inconsistentie in de overgang tussen de donkere vlammen en de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is abstract en open, zonder decoratief perfect licht of een duidelijk verhaal.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w010464_10527.webp"
+    },
+    {
+      "id": 10522,
+      "titel": "Vlam die zacht oplost in vogelvleugels",
+      "beschrijving": "Een donker, amorf vorm dat doet denken aan een vlam of een opwellend element domineert het midden, omringd door een zachte roze achtergrond die overgaat in een diepblauwe bovenkant. Donkerblauwe en zwarte vlekken en druppels zijn verspreid over het beeld, waarbij sommige een spoor vormen dat naar boven wijst. Twee scherpe, donkere vormen aan de bovenrand lijken op vogelvleugels of puntige structuren die zich uitstrekken naar de blauwe ruimte. Een boog van kleine zwarte stippen omlijst de onderkant van het donkere vorm, terwijl subtiele textuurverschillen in de kleuren een gevoel van beweging en oplosbaarheid suggereren. De compositie straalt een rustige, bijna meditatieve sfeer uit, met een spanning tussen de donkere, dynamische vormen en de kalmerende, egale achtergrond.",
+      "cyclus": 10459,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010459_10522.webp"
+    },
+    {
+      "id": 10518,
+      "titel": "Punten boven de vlam",
+      "beschrijving": "Een verticaal doek is horizontaal doormiddeld in twee vlakken: boven een lichtblauwe band, onder een brede roodbruine vlak. Een rechte lijn van negen zwarte punten loopt verticaal door het midden, vanaf de bovenrand tot net boven een zwarte vlamvorm aan de onderkant. De vlam heeft drie puntige tongen en een ronde basis, getekend met donkere, iets onregelmatige contouren. De kleuren zijn mat en vlak, zonder schaduwen of gradiënten. De compositie is strikt symmetrisch, met de punten en de vlam op de verticale as. De sfeer is statisch en minimalistisch, zonder beweging of diepte.",
+      "cyclus": 10455,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010455_10518.webp"
+    },
     {
       "id": 10503,
       "titel": "Groen tegen grijs",
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010412_10475.webp"
-    },
-    {
-      "id": 10463,
-      "titel": "Waar blijft de zwaartekracht?",
-      "beschrijving": "Een naakt vrouwelijk lichaam drijft met gespreide armen en benen door een onscherp, getextureerd vlak van grijstinten, onderbroken door donkere vlekken en fijne, witte lijnen die als sporen door het beeld lopen. Het hoofd is achterovergegooid, met gesloten ogen en los haar dat zich mengt met de omringende vormen. Donkere, onregelmatige vlekken en stralenachtige patronen stralen uit van verschillende punten, terwijl lichte, golvende lijnen de ruimte rond het lichaam vullen. De textuur van het beeld is korrelig en ongelijkmatig, met sporen van wat lijkt op verwaterde inkt of verfdruppels. De compositie is centraal gericht, maar de randen van het beeld vervagen in een onscherpe, bijna chaotische achtergrond.",
-      "cyclus": 10400,
-      "tech_score": 7.0,
-      "tech_notities": "['lichte vervorming handen/vingers', 'onduidelijke overgang huid/textuur in schaduwgebieden']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is ongemakkelijk en niet-bevestigend.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010400_10463.webp"
-    },
-    {
-      "id": 10462,
-      "titel": "Wat blijft drijven?",
-      "beschrijving": "Een naakt mannelijk figuur staat tot de dijen in water, met een onscherp gezicht en ontspannen armen die langs het lichaam hangen. Het water is geschilderd met dynamische, golvende penseelstreken in blauwe en grijze tinten, doorspekt met witte en gele reflecties die licht suggereren. De achtergrond bestaat uit vaag geschilderde, lichte vormen in beige en grijsgroen, die een onduidelijke horizon lijnen. De figuur werpt een donkere, vertekende reflectie in het water, waarbij de benen en onderlichaam vervaagd en vervormd zijn door de beweging van het water. Kleine, ronde witte vlekken drijven op het wateroppervlak, alsof het om stenen of schuim gaat.",
-      "cyclus": 10399,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van lichaam', 'lichte wazigheid in gezichtsuitdrukking']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, intieme spanning die boven een ansichtkaart uitstijgt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010399_10462.webp"
-    },
-    {
-      "id": 10458,
-      "titel": "Waar blijft de dromer?",
-      "beschrijving": "Een naakt menselijk lichaam drijft op zijn rug in water, armen en benen gespreid, met het gezicht naar boven gericht. Het lichaam is omringd door concentrische cirkels die door het water lopen, alsof er iets recent in het water is gedrop. Verspreid over het water drijven esdoornbladeren in verschillende grootte en detailschaduwering, sommige dichter bij het lichaam, andere aan de randen van het beeld. Het haar is krullend en verspreid in het water, met draden die zachtjes meebewegen met de golven. De handen zijn open en ontspannen, met de palmen naar boven, en de vingers licht gespreid. De ogen zijn open en kijken recht naar voren, zonder duidelijke blikrichting. Het water heeft een textuur van fijne lijnen en schaduwen, die diepte en beweging suggereren. De achtergrond bestaat uit een egale, lichte tint die overgaat in de wateroppervlakte, zonder duidelijke horizon of landschap. De algehele sfeer is stil en zwevend, met een focus op de relatie tussen het lichaam, het water en de bladeren.",
-      "cyclus": 10395,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een unieke, dromerige compositie zonder iconische of bevestigende elementen, en straalt een persoonlijke, reflecterende sfeer uit.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010395_10458.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10463,
-    "gemaakt": 10525,
-    "gekozen": 1615,
+    "cycli": 10470,
+    "gemaakt": 10533,
+    "gekozen": 1618,
     "afgekeurd": 1367,
-    "corpus": 67,
+    "corpus": 66,
     "notities": 433
   }
 }
