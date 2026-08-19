@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-19T21:00+02:00",
+  "bijgewerkt": "2026-08-19T21:15+02:00",
   "werk": [
+    {
+      "id": 10957,
+      "titel": "Rook die vragen stelt",
+      "beschrijving": "Een veld met hoog, donker gras domineert de voorgrond, de bladeren scherp en gedetailleerd getekend tegen een roze-oranje hemel. Een dunne rookpluim stijgt op uit het midden van het veld, met subtiele witte en grijze tinten die zich vermengen met de lucht. In de verte loopt een donkere horizonlijn met silhouetten van bomen en heuvels. Verspreid door het gras zweven kleine, witte vonken of druppels, en in de rook zijn enkele donkere, amorf gevormde vormen te zien. De achtergrond wordt gevuld met zachte, golvende wolken in de roze hemel, terwijl de voorgrond een textuur van dicht op elkaar gepakte grasstengels heeft. De sfeer is rustig en iets mysterieus, met een contrast tussen de donkere voorgrond en de lichte, bijna dromerige achtergrond.",
+      "cyclus": 10894,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een unieke, dromerige sfeer met een ongewone kleurstelling en compositorische keuze, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010894_10957.webp"
+    },
     {
       "id": 10945,
       "titel": null,
@@ -117,22 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010835_10898.webp"
-    },
-    {
-      "id": 10895,
-      "titel": null,
-      "beschrijving": "Drie witte theepotten met gouden details rusten op ruwe, grijze takken tegen een diepblauwe achtergrond. Elke pottentelt een gouden knop op het deksel en een gouden rand langs de randen. Rond de potten zweven donkergrijze veren met zachte, witte punten, verspreid alsof ze net door een lichte bries zijn meegesleurd. Twee donkere, onregelmatige klonten, mogelijk kool of steen, drijven in de ruimte tussen de takken. De takken lopen schuin door het beeld, met kleine takjes en knooppunten die de textuur benadrukken. De compositie is symmetrisch opgebouwd, met de potten op verschillende hoogtes, wat een gevoel van zwevende balans geeft. De kleuren zijn gedempt, behalve de gouden accenten die subtiel opvallen tegen de koele achtergrond.",
-      "cyclus": 10832,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of bevestigend, maar verbeeldt een surrealistische, bijna dromerige scène zonder duidelijke symboliek of toeristische allure.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010832_10895.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10963,
+      "cyclus": 10900,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren in de middelste rij', 'lichte wazigheid in de textuur van het gras bij de onderste rij']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de combinatie van vogels, bloemen en kleurrijke deuren in een decoratieve, harmonieuze opstelling zonder duidelijke compositorische keuze.",
+      "bestand": "images/a010900_10963.webp"
+    },
+    {
+      "id": 10961,
+      "cyclus": 10898,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte onscherpte in de achtergrondbomen, consistent met diepte-van-veld-effect maar iets te uitgesproken voor een natuurlijk beeld', 'Rookpluim mist duidelijke structuur en lijkt iets kunstmatig verspreid, alsof de diffusie te lang is doorgegaan']",
+      "cliche_notities": "Het beeld toont een typisch romantisch landschap met zonsondergang, roze hemel en gras in de voorgrond, zonder duidelijke compositorische keuze of onverwacht element",
+      "bestand": "images/a010898_10961.webp"
+    },
     {
       "id": 10935,
       "cyclus": 10872,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een eigen compositorische keuze met de vogels en de boom, wat het geen typische ansichtkaart maakt.",
       "bestand": "images/a010872_10935.webp"
-    },
-    {
-      "id": 10863,
-      "cyclus": 10800,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in vogelveren (sommige veren te scherp, andere wazig)', 'lichte vervorming in takken (enkele takken lopen logisch door bladeren)', 'kleurconsistentie kersen afwijkend (enkele kersen te plat/geen diepte)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: vogels op takken met fruit, symmetrisch en decoratief, zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a010800_10863.webp"
-    },
-    {
-      "id": 10733,
-      "cyclus": 10670,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houtstructuur: de panelen van de deur hebben licht afwijkende houtnerfpatronen die niet helemaal logisch aansluiten bij de omringende lamellen', 'de metalen scharnieren aan de linkerkant van de deur zijn asymmetrisch geplaatst ten opzichte van de deurklink aan de rechterkant, wat een lichte compositorische onbalans creëert']",
-      "cliche_notities": "Dit beeld past bij een typische ansichtkaart van een landelijk huis met een decoratieve bundel tarwe, zonder een uniek of onverwacht standpunt",
-      "bestand": "images/a010670_10733.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 10895,
-    "gemaakt": 10957,
-    "gekozen": 1687,
-    "afgekeurd": 1375,
+    "cycli": 10903,
+    "gemaakt": 10965,
+    "gekozen": 1688,
+    "afgekeurd": 1377,
     "corpus": 65,
     "notities": 440
   }
