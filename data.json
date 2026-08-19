@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T09:45+02:00",
+  "bijgewerkt": "2026-08-19T10:00+02:00",
   "werk": [
+    {
+      "id": 10655,
+      "titel": "Gevorkt groen tussen deuren",
+      "beschrijving": "Twee houten deuren staan wijd open, met donkere metalen scharnieren en handvatten die een vintage uitstraling geven. Tussen de deuren door loopt een verticale stengel met vier groene, gevorkte bladeren, elk met subtiele donkere vlekken en een adering die de textuur benadrukt. De achtergrond is een egale, lichte kleur die overgaat in een zachtblauwe vloer, wat een gevoel van diepte creëert. De compositie is symmetrisch, met de stengel als centraal punt dat de blik trekt tussen de deuren door. De kleuren zijn helder en natuurlijk, met een contrast tussen het warme hout en de koelere groene en blauwe tinten.",
+      "cyclus": 10592,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een symbolisch karakter met een ongewone combinatie van motieven (deuren en een plant), wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010592_10655.webp"
+    },
+    {
+      "id": 10653,
+      "titel": "Zeven tanden tussen deuren",
+      "beschrijving": "Twee houten deuren staan wijd open, met donkere scharnieren en metalen handvatten. Tussen de deuren door loopt een groene steel met zeven gevorkte bladeren, elk met tandvormige randen en donkere vlekken. De achtergrond is egale roomkleur, zonder details. De bladeren vullen het midden van de compositie, met de steel die diagonaal loopt van linksboven naar rechtsonder. Het hout heeft een lichte, natuurlijke textuur met subtiele korrelstructuren. De deuren vormen een symmetrische kader rond de plant, die zich uitstrekt tot net buiten de randen van het beeld.",
+      "cyclus": 10590,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een ongewone compositie met de plant die de ruimte tussen de deuren vult, wat geen typische ansichtkaartmotief is.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010590_10653.webp"
+    },
     {
       "id": 10644,
       "titel": "Hout dat zwijgt",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010546_10609.webp"
-    },
-    {
-      "id": 10594,
-      "titel": "Waar blijft de sleutel?",
-      "beschrijving": "Een houten deur met een smalle, verticale glazen ruit domineert het rechterdeel van het beeld. Door het glas is een landschap te zien met een kronkelend pad, bomen en struiken, en in de verte een gebouw. Links van de deur bevindt zich een muur met horizontale, crèmekleurige panelen. De deur heeft een metalen greep en een donkere lijst rond het glas. De kleuren zijn gedempt, met bruine, grijze en beige tinten. De compositie is verticaal en symmetrisch, met de deur als centraal element dat de kijker naar buiten leidt. De sfeer is rustig en iets verlaten, door de afwezigheid van mensen en de gedempte kleuren.",
-      "cyclus": 10531,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een intieme, persoonlijke compositie met een deur als raam naar een landschap, wat geen typisch toeristisch onderwerp is.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010531_10594.webp"
-    },
-    {
-      "id": 10582,
-      "titel": "Zes vragen zonder antwoord",
-      "beschrijving": "Zes donkere, amorf gevormde vlekken liggen verspreid over een lichtgrijze, textuurrijke achtergrond die doet denken aan verwaterd papier. De vlekken variëren in grootte en vorm, met zachte, onregelmatige randen die soms scherp afsteken tegen de achtergrond, soms vervagen in subtiele overgangen. Binnen de vlekken lopen donkerdere strepen en plekken door, alsof de inkt ongelijkmatig is opgenomen. De compositie is asymmetrisch, met veel lege ruimte tussen de vormen, wat een gevoel van zwevende isolatie oproept. De sfeer is stil en contemplatief, met een onderliggende spanning tussen de donkere vormen en de lichte, bijna kwetsbare achtergrond.",
-      "cyclus": 10519,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010519_10582.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 10662,
+      "cyclus": 10599,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
+      "bestand": "images/a010599_10662.webp"
+    },
     {
       "id": 10652,
       "cyclus": 10589,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een typisch landschapsmotief met een boerderij en gras, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuzes of eigen standpunt.",
       "bestand": "images/a010582_10645.webp"
-    },
-    {
-      "id": 10567,
-      "cyclus": 10504,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de windmolenwieken', 'onduidelijke textuur in de achtergrond']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen en een symmetrische, decoratieve opstelling.",
-      "bestand": "images/a010504_10567.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 10594,
-    "gemaakt": 10656,
-    "gekozen": 1639,
-    "afgekeurd": 1371,
+    "cycli": 10600,
+    "gemaakt": 10662,
+    "gekozen": 1641,
+    "afgekeurd": 1372,
     "corpus": 69,
     "notities": 434
   }
