@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T12:00+02:00",
+  "bijgewerkt": "2026-08-19T12:15+02:00",
   "werk": [
+    {
+      "id": 10718,
+      "titel": "Rook en spiegelbeeld",
+      "beschrijving": "Twee donkerbruine boomstammen met takken flankeren een smalle, crèmekleurige verticale strook, omgeven door een zachtroze achtergrond. Witte, wazige rookachtige vormen glijden horizontaal door het midden, onderbroken door een scherpe, donkere scheur die de rook doormiddelt. Een zwarte lijst omrandt het geheel, dat op een betonnen vloer rust. De compositie is strikt symmetrisch, met de bomen als spiegelbeeld van elkaar, terwijl de rook en scheur een onrustige dynamiek toevoegen aan de statische structuren.",
+      "cyclus": 10655,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010655_10718.webp"
+    },
+    {
+      "id": 10715,
+      "titel": "Drie banen, één vraag",
+      "beschrijving": "Drie verticale banen vullen het beeld, getekend met zachte, ongelijkmatige strepen die aan potlood of krijt doen denken. De buitenste banen zijn diep roze met subtiele variaties in tint, alsof de druk op het materiaal wisselde. De middelste baan is lichter, bijna witroze, met een zachtere, meer doorzichtige textuur. De randen van alle banen zijn onscherp en wat onrustig, met kleine, frisse uitsteeksels waar het materiaal de witte achtergrond raakt. De witte ruimte tussen de banen is smal maar duidelijk, en benadrukt de scheiding tussen de drie verticale vormen. De algehele indruk is van een eenvoudige, maar zorgvuldig geplaatste compositie van kleur en textuur.",
+      "cyclus": 10652,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op textuur en kleurverschillen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010652_10715.webp"
+    },
     {
       "id": 10705,
       "titel": "Papier en gras in overgang",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010592_10655.webp"
-    },
-    {
-      "id": 10653,
-      "titel": "Zeven tanden tussen deuren",
-      "beschrijving": "Twee houten deuren staan wijd open, met donkere scharnieren en metalen handvatten. Tussen de deuren door loopt een groene steel met zeven gevorkte bladeren, elk met tandvormige randen en donkere vlekken. De achtergrond is egale roomkleur, zonder details. De bladeren vullen het midden van de compositie, met de steel die diagonaal loopt van linksboven naar rechtsonder. Het hout heeft een lichte, natuurlijke textuur met subtiele korrelstructuren. De deuren vormen een symmetrische kader rond de plant, die zich uitstrekt tot net buiten de randen van het beeld.",
-      "cyclus": 10590,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een ongewone compositie met de plant die de ruimte tussen de deuren vult, wat geen typische ansichtkaartmotief is.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010590_10653.webp"
-    },
-    {
-      "id": 10644,
-      "titel": "Hout dat zwijgt",
-      "beschrijving": "Een houten muur met verticale planken vult het beeld, met een donker rechthoekig gat in het midden, omlijst door een lichtere houten lijst en een smalle richel eronder. Boven loopt een schuine daklijn naar beneden, waar een donkergrijze, onregelmatige vlek in het dak hangt. Het hout heeft een warme bruine tint met zichtbare knoesten en houtnerf, en de planken van de vloer lopen parallel aan de muur, met kleine donkere vlekken en slijtage. Rechtsboven in de muur zit een kleine, donkere, onregelmatige vlek, en onder het gat bevinden zich een paar vaag zichtbare blauwe spetters en een dunne, donkere scratch. De ruimte voelt gesloten en leeg, zonder zichtbare ramen of deuren buiten het gat.",
-      "cyclus": 10581,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houttextuur bij raamkozijn', 'lichte vervorming van daklijn rechtsboven']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is neutraal en niet typisch ansichtkaart-achtig",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010581_10644.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10653,
-    "gemaakt": 10715,
-    "gekozen": 1648,
+    "cycli": 10660,
+    "gemaakt": 10722,
+    "gekozen": 1650,
     "afgekeurd": 1372,
-    "corpus": 68,
+    "corpus": 69,
     "notities": 434
   }
 }
