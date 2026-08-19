@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T14:30+02:00",
+  "bijgewerkt": "2026-08-19T14:45+02:00",
   "werk": [
+    {
+      "id": 10792,
+      "titel": "Vogels en een vergeten schep",
+      "beschrijving": "Vier vogels vliegen door een lichtbeige ruimte met subtiele blauwe en groene wolkenvormen. Een schep met een houten steel en een donkere, iets versleten steel bevindt zich lager in het beeld, schuin geplaatst. De achtergrond bestaat uit verticale houten lamellen met een zachte, natuurlijke textuur. De vogels hebben donkere vleugels en lichte onderkanten, en bewegen zich in verschillende richtingen. De sfeer is kalm en open, met veel lege ruimte rond de objecten.",
+      "cyclus": 10729,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische compositie met een ongewone combinatie van motieven (vogels, schep, wolken) en geen typisch toeristisch onderwerp.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010729_10792.webp"
+    },
+    {
+      "id": 10781,
+      "titel": "Schaduw van een schep",
+      "beschrijving": "Twee houten deuren met kuipvormige panelen staan gesloten, geflankeerd door koperen scharnieren en een roestbruine deurklink. Een schep met een houten steel en metalen scheppenkop leunt schuin tegen de deuren, de punt rustend op een witte tegelvloer. Het hout vertoont natuurlijke nerven en knoesten, de metalen onderdelen hebben een matte, iets verweerde textuur. De schep werpt een donkere schaduw die zich uitstrekt over de tegels en de onderkant van de deuren. Witte tegels met dunne voegen vormen de achtergrond, de compositie is symmetrisch met de schep als diagonale leidraad.",
+      "cyclus": 10718,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongewone compositie met een schep tegen een houten deur, wat geen toeristische ansichtkaart uitstraalt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010718_10781.webp"
+    },
     {
       "id": 10775,
       "titel": "Goudgele druppels op roze dromen",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010663_10726.webp"
-    },
-    {
-      "id": 10718,
-      "titel": "Rook en spiegelbeeld",
-      "beschrijving": "Twee donkerbruine boomstammen met takken flankeren een smalle, crèmekleurige verticale strook, omgeven door een zachtroze achtergrond. Witte, wazige rookachtige vormen glijden horizontaal door het midden, onderbroken door een scherpe, donkere scheur die de rook doormiddelt. Een zwarte lijst omrandt het geheel, dat op een betonnen vloer rust. De compositie is strikt symmetrisch, met de bomen als spiegelbeeld van elkaar, terwijl de rook en scheur een onrustige dynamiek toevoegen aan de statische structuren.",
-      "cyclus": 10655,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010655_10718.webp"
-    },
-    {
-      "id": 10715,
-      "titel": "Drie banen, één vraag",
-      "beschrijving": "Drie verticale banen vullen het beeld, getekend met zachte, ongelijkmatige strepen die aan potlood of krijt doen denken. De buitenste banen zijn diep roze met subtiele variaties in tint, alsof de druk op het materiaal wisselde. De middelste baan is lichter, bijna witroze, met een zachtere, meer doorzichtige textuur. De randen van alle banen zijn onscherp en wat onrustig, met kleine, frisse uitsteeksels waar het materiaal de witte achtergrond raakt. De witte ruimte tussen de banen is smal maar duidelijk, en benadrukt de scheiding tussen de drie verticale vormen. De algehele indruk is van een eenvoudige, maar zorgvuldig geplaatste compositie van kleur en textuur.",
-      "cyclus": 10652,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op textuur en kleurverschillen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010652_10715.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10722,
-    "gemaakt": 10785,
-    "gekozen": 1658,
+    "cycli": 10730,
+    "gemaakt": 10792,
+    "gekozen": 1660,
     "afgekeurd": 1373,
     "corpus": 69,
     "notities": 437
