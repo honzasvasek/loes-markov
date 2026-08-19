@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T16:45+02:00",
+  "bijgewerkt": "2026-08-19T17:00+02:00",
   "werk": [
+    {
+      "id": 10838,
+      "titel": "Waar blijft de vierde druppel?",
+      "beschrijving": "Rode kersen liggen verspreid op gekreukt wit papier, met natte glans en donkere stelen die in verschillende hoeken wijzen. Drie druppels water vallen in een verticale lijn vanaf de bovenrand, scherp en glinsterend tegen een donkergrijze, korrelige achtergrond. Twee matte, lichtgrijzekommen staan onscherp in de achtergrond, leeg en symmetrisch geplaatst. Het licht valt schuin van linksboven, waardoor de kersen en het papier zachte schaduwen werpen en de natte oppervlakken reflecteren. De compositie is rustig, met de kersen als levendige focus tegen de neutrale, textuurrijke omgeving.",
+      "cyclus": 10775,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een stillevencompositie met kersen en waterdruppels, maar de focus op de subtiele spanning tussen aanwezigheid en afwezigheid (leegte in de composities, de druppels als spoor van verdwijnen) geeft het een persoonlijk standpunt, geen toeristische ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010775_10838.webp"
+    },
+    {
+      "id": 10835,
+      "titel": "Vier paren in de wind",
+      "beschrijving": "Acht vogels in vlucht vullen een verticaal formaat, verdeeld over twee kolommen van vier. Hun vleugels staan wijd open, met donkere veren aan de buitenkant en lichtere, bijna beige tinten dichter bij het lichaam. De vogels hebben een gestroomlijnde vorm, met een donkere kop, een lichte borst en een gevorkte staart. De achtergrond is een egale, crèmekleurige textuur, zonder aanvullende details. De vogels zijn niet identiek: sommigen vliegen met hun kop naar voren, anderen iets schuin, en de positie van de vleugels varieert subtiel. De compositie is symmetrisch, maar de vogels zelf tonen kleine verschillen in houding en detail.",
+      "cyclus": 10772,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De vogels zijn geen iconisch Nederlands motief en de compositie heeft een eigen, niet-decoratieve dynamiek.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w010772_10835.webp"
+    },
     {
       "id": 10823,
       "titel": "Rode borsten onder de maan",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010718_10781.webp"
-    },
-    {
-      "id": 10775,
-      "titel": "Goudgele druppels op roze dromen",
-      "beschrijving": "Een roze muur met een witte tegelrand omlijst een houten deur met een zilveren kruk. Boven de deur bevindt zich een roze verfvlak met penseelstreken, naast een omgekeerde potje met goudgele, klevende substantie die druipt. Twee metaal spatels met houten handvatten liggen schuin naast het verfvlak, de punten naar beneden gericht. De witte tegels vormen een scherp raster dat de deur omringt, terwijl de houten textuur van de deur en de spatels een warme contrasterende laag toevoegen aan de koelroze achtergrond.",
-      "cyclus": 10712,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is minimalistisch en gericht op stilte en afwezigheid, niet op een bevestigend verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010712_10775.webp"
-    },
-    {
-      "id": 10770,
-      "titel": "Vlucht door het hout",
-      "beschrijving": "Twee houten deuren met een diepbruine, iets verweerde textuur vormen een symmetrische compositie, gescheiden door een smalle verticale naad met een metalen slot. Op elke deur bevinden zich twee vogels in vlucht, geschilderd met uitgespreide vleugels en gedetailleerde veren in grijze, oranje en witte tinten. De vogels staan in een diagonale opstelling, waarbij de bovenste paren dichter bij de bovenrand vliegen en de onderste paren dichter bij de onderkant. Kleine slijtage-sporen en krassen op het hout geven een gevoel van gebruik, terwijl de vogels een levendige, bijna driedimensionale aanwezigheid uitstralen tegen de rustige achtergrond van de deuren. Metalen scharnieren aan weerskanten en een subtiele glans op het hout benadrukken de textuur en het volume van het tafereel.",
-      "cyclus": 10707,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in vogelveren (bovenste linker vogel vs. onderste rechter)', 'lichte vervorming van scharnieren aan randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is asymmetrisch en de vogels hebben een dynamische, niet-standaard houding.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w010707_10770.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10775,
-    "gemaakt": 10838,
-    "gekozen": 1666,
+    "cycli": 10781,
+    "gemaakt": 10843,
+    "gekozen": 1668,
     "afgekeurd": 1373,
-    "corpus": 65,
+    "corpus": 66,
     "notities": 438
   }
 }
