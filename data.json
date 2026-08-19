@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T10:45+02:00",
+  "bijgewerkt": "2026-08-19T11:00+02:00",
   "werk": [
+    {
+      "id": 10677,
+      "titel": "Vleugels tussen golven en takken",
+      "beschrijving": "Een tak met groene bladeren en knoppen strekt zich uit over een golven slaande zee, waarbij de toppen van de tak bijna de witte schuimkoppen raken. Een kleine vogel met blauwe en oranje veren vliegt tussen de tak en de golven door, met gespreide vleugels en een dynamische houding. Uit het water steken scherp toelopende, bruine vormen op, die lijken op vinnen of puntige rotsen, omgeven door bubbels en spetters water. Onderaan het beeld loopt een tweede tak diagonaal, met enkele jonge bladeren en knoppen, parallel aan de beweging van de golven. De achtergrond is een egale, lichte kleur, waardoor de blauwe en groene tinten van het water en de vegetatie sterk contrasteren. Witte en lichtblauze tinten vormen de golven en schuim, terwijl de takken een warme, bruine textuur hebben. De compositie combineert natuurlijke elementen in een evenwichtige, bijna symmetrische opstelling, met de vogel als centraal bewegend punt tussen de statische takken en de dynamische golven.",
+      "cyclus": 10614,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert natuurlijke elementen met een dromerige, bijna surrealistische compositie, wat het uitgaat boven een typische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010614_10677.webp"
+    },
+    {
+      "id": 10675,
+      "titel": "Wit in de regenvallei",
+      "beschrijving": "Zes vogels staan verspreid op een groen, textuurrijk oppervlak dat gras nabootst, met witte stippen die sneeuwvlokken of druppels suggereren. Boven hen strekt een grijze hemel zich uit, doorsneden door dunne, donkere en lichte lijnen die regen of wind imiteren. Een enkele groene bladvorm drijft tussen de vogels, met duidelijke aders. De vogels hebben verschillende pennenpatronen: bruin met donkere vleugels, grijs met witte buiken en donkerblauw met lichte onderlichamen. Hun ogen zijn kleine, donkere punten, en hun snavels zijn puntig en donker. De compositie is dynamisch, met vogels die in verschillende richtingen kijken, wat een gevoel van beweging en interactie oproept. De kleuren zijn gedempt maar levendig, met een contrast tussen het groene gras en de grijze achtergrond.",
+      "cyclus": 10612,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van vogels (sommige vogels lijken op verschillende vlakken te staan zonder duidelijke overgang)', 'Enkele vogelpoten zijn schematisch/weergegeven als eenvoudige lijnen zonder duidelijke structuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel vogels een klassiek motief zijn, is de compositie niet iconisch of decoratief-perfect: de vogels staan in een willekeurige, niet-harmonieuze opstelling met een ongemakkelijke mix van kleuren en texturen, en het regenmotief voegt een onrustige, niet-toeristische laag toe.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w010612_10675.webp"
+    },
     {
       "id": 10660,
       "titel": "Waar blijft de cirkel?",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010559_10622.webp"
-    },
-    {
-      "id": 10616,
-      "titel": "Vlammen in het zand",
-      "beschrijving": "Donkerbruine houten panelen vormen een verticale structuur, doorsneden door een smalle spleet waar een zwarte scharnier zichtbaar is. Onderaan kronkelen oranje-rode vlammen met zachte, golvende randen langs de houten onderkant, alsof ze uit de spleet welliken. Boven de vlammen stijgen dunne, witte rookstrepen op, die zich in slingerende lijnen uitstrekken naar de bovenrand van het beeld. Voor de panelen ligt een laag lichtbeige zand met subtiele, onregelmatige hobbelen en een paar kleine, donkere steentjes. Gouden nagelkoppen prikken hier en daar in het hout, verspreid over de panelen. De vlammen en rook creëren een scherpe contrast met de rustige, textuurrijke houten achtergrond en het zachte zand.",
-      "cyclus": 10553,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een ongewone combinatie van elementen (vuur, rook, zand, houten deuren) die niet typisch is voor een toeristische ansichtkaart en toont een eigen compositorische keuze.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w010553_10616.webp"
-    },
-    {
-      "id": 10612,
-      "titel": "Goud dat zwijgt",
-      "beschrijving": "Twee dieprode houten deuren staan wijd open in een muur van beige papier, met gescheurde randen die een scherpe overgang vormen naar het witte plafond erboven. Voor de deuren strekt zich een zandwoestijn uit met zachte, golvende duinen, waar een smalle, golvende baan van glinsterend goudpoeder loopt als een spoor dat de blik naar de deuren leidt. De deuren hebben klassieke panelen en zilveren handvatten, en de opening onthult een vaag zicht op een lichte ruimte achterin. Het zand heeft een fijne, korrelige textuur, terwijl het goudpoeder een schitterende, bijna vloeibare uitstraling heeft die contrasteert met de matte omgeving. De compositie is symmetrisch, met de deuren centraal en het gouden spoor dat de asymmetrie doorbreekt door diagonaal door het beeld te lopen.",
-      "cyclus": 10549,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een onverklaarbare combinatie van zand, goud en een deur zonder duidelijke context.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010549_10612.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10619,
-    "gemaakt": 10681,
-    "gekozen": 1642,
+    "cycli": 10626,
+    "gemaakt": 10688,
+    "gekozen": 1644,
     "afgekeurd": 1372,
     "corpus": 69,
     "notities": 434
