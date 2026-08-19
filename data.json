@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T11:30+02:00",
+  "bijgewerkt": "2026-08-19T11:45+02:00",
   "werk": [
+    {
+      "id": 10705,
+      "titel": "Papier en gras in overgang",
+      "beschrijving": "Droge, bruine grassprietten stijgen schuin omhoog tegen een effen, crèmekleurige achtergrond, met fijne, veerkrachtige bloemkoppen die zachtjes in de wind lijken te bewegen. Twee gescheurde papierbanden lopen horizontaal door het beeld, boven en onder de grassprietten, met onregelmatige, franjesachtige randen die de illusie van diepte creëren. De achtergrond is vaag en ongedefinieerd, met een lichte overgang naar een donkerbruine, onscherpe horizon aan de onderkant, waar nog meer droog gras vaag zichtbaar is. De kleuren zijn gedempt en aardig, met subtiele variaties in bruin, beige en lichtgrijs, wat een rustige, bijna melancolische sfeer oproept. De compositie is asymmetrisch, met de grassprietten die de linker- en middenruimte innemen en de rechterkant meer open laat, waardoor het oog wordt geleid naar de lege ruimte en de gescheurde papierbanden.",
+      "cyclus": 10642,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele focus op de spanning tussen aanwezigheid en afwezigheid in de compositie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010642_10705.webp"
+    },
+    {
+      "id": 10703,
+      "titel": "Korrelig roze met een geheim",
+      "beschrijving": "Een roze vlak vult het beeld, met een subtiele textuur die doet denken aan korrelig papier of verweerd doek. De randen zijn onregelmatig en iets donkerder, alsof de kleur hier langzamer is gedroogd. In het midden loopt een vaag, verticale streep van lichtere tint, alsof er ooit iets is weggehaald of juist is toegevoegd. Kleine, onregelmatige plekken waar de kleur iets intenser is, verspreiden zich willekeurig over het vlak, zonder patroon. De sfeer is stil en neutraal, zonder duidelijke focus of beweging.",
+      "cyclus": 10640,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, textuurgedreven compositie zonder duidelijke voorstelling.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010640_10703.webp"
+    },
     {
       "id": 10690,
       "titel": "Papier dat zich herinnert",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010581_10644.webp"
-    },
-    {
-      "id": 10638,
-      "titel": "Regendruppels op vergeten pad",
-      "beschrijving": "Een modderpad snijdt schuin door een weids grasveld, omgeven door lange, groene grassprietjes die door de regen zwaar en glanzend zijn. Het pad, bruin en nat, loopt in een lichte boog van de voorgrond naar de horizon, waar het overgaat in een grijze, nevelige achtergrond. Regen druppelt zichtbaar door de lucht, een fijne sluier die de hele scène omhult. Het gras aan weerskanten is ongelijkmatig, met hier en daar bruine, droge plekken en kleine stenen die in de modder steken. De regen maakt het landschap stil en eenzaam, zonder sporen van leven of beweging.",
-      "cyclus": 10575,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in grastextuur bij horizon', 'lichte wazigheid in verre achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op subtiele spanning tussen pad en gras, niet op een bevestigend beeld.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010575_10638.webp"
-    },
-    {
-      "id": 10633,
-      "titel": "Regen die gras laat zwijgen",
-      "beschrijving": "Een uitgestrekt veld met groen gras, doorsneden door smalle, lichtbruine paden die diagonaal door het beeld lopen. Regen valt in fijne, verticale lijnen, waardoor het landschap een natte, grijsgroene gloed krijgt. Het gras is ongelijkmatig, met plekken waar het korter is en andere waar het hoger en wilder groeit. Een enkel klein boompje staat aan de horizon, vaag zichtbaar door de mist die het verre landschap omsluurt. De regen zorgt voor een sluier van beweging, terwijl het gras en de paden stilstaan in een moment van natte rust. Kleuren zijn gedempt, met tinten van groen, bruin en grijs die door de regen en de mist met elkaar vervloegen. Het beeld straalt een eenzame, kalme sfeer uit, zonder duidelijke focus of actie.",
-      "cyclus": 10570,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervaging in verre achtergrond', 'subtiele inconsistentie in grasstructuren bij horizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is neutraal en niet typisch ansichtkaart-achtig.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010570_10633.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10639,
-    "gemaakt": 10701,
-    "gekozen": 1646,
+    "cycli": 10646,
+    "gemaakt": 10709,
+    "gekozen": 1648,
     "afgekeurd": 1372,
-    "corpus": 69,
+    "corpus": 68,
     "notities": 434
   }
 }
