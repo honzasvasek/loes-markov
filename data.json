@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-19T18:00+02:00",
+  "bijgewerkt": "2026-08-19T18:15+02:00",
   "werk": [
+    {
+      "id": 10865,
+      "titel": "Papier dat ademt door verf",
+      "beschrijving": "Waterverf vloeit in onregelmatige vlekken over het papier, waarbij blauwe en groene tinten zich vermengen met zachte oranje en paarse gebieden. Donkere druppels en subtiele spattingen doorbreken de gladde overgangen, terwijl de randen van de kleuren ongelijkmatig en watervast zijn. Witte ruimtes tussen de vlekken suggereren onbenutte ruimte, maar vormen ook een actieve onderdeel van de compositie. De textuur van het papier is zichtbaar door de transparante lagen verf, wat diepte toevoegt aan de schijnbaar vlakke vormen. Kleuren lopen in sommige gebieden in elkaard over, in andere blijven ze scherp gescheiden door droge randen.",
+      "cyclus": 10802,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met subtiele kleurverschuivingen en ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010802_10865.webp"
+    },
     {
       "id": 10855,
       "titel": "Rijp op de snavel",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010747_10810.webp"
-    },
-    {
-      "id": 10809,
-      "titel": "Gele krukken, donkere vlucht",
-      "beschrijving": "Een witte deur met twee gele deurkrukken en zwarte handvatten domineert het beeld. Boven de krukken vliegen vier vogels in verschillende vluchtpozities, hun silhouetten donker tegen de lichte achtergrond. De deur heeft een gladde, effen textuur en wordt geflankeerd door donkere lijsten aan weerszijden. Onder de deur loopt een donkere drempel over in een getextureerde, donkergrijze vloer. De vogels zijn ongelijkmatig verdeeld, wat een gevoel van beweging en willekeur toevoegt aan de compositie. De gele krukken vallen op door hun heldere kleur en vormen een scherp contrast met de overwegend neutrale tinten van de deur en de omgeving.",
-      "cyclus": 10746,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet typisch ansichtkaart-achtig; de vogels en deuren hebben een ongemakkelijke, bijna verontrustende dynamiek die verder gaat dan een decoratief motief.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010746_10809.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10809,
-    "gemaakt": 10871,
-    "gekozen": 1672,
+    "cycli": 10816,
+    "gemaakt": 10878,
+    "gekozen": 1673,
     "afgekeurd": 1374,
     "corpus": 66,
     "notities": 440
