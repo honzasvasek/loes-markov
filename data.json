@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T08:00+02:00",
+  "bijgewerkt": "2026-08-19T08:15+02:00",
   "werk": [
+    {
+      "id": 10612,
+      "titel": "Goud dat zwijgt",
+      "beschrijving": "Twee dieprode houten deuren staan wijd open in een muur van beige papier, met gescheurde randen die een scherpe overgang vormen naar het witte plafond erboven. Voor de deuren strekt zich een zandwoestijn uit met zachte, golvende duinen, waar een smalle, golvende baan van glinsterend goudpoeder loopt als een spoor dat de blik naar de deuren leidt. De deuren hebben klassieke panelen en zilveren handvatten, en de opening onthult een vaag zicht op een lichte ruimte achterin. Het zand heeft een fijne, korrelige textuur, terwijl het goudpoeder een schitterende, bijna vloeibare uitstraling heeft die contrasteert met de matte omgeving. De compositie is symmetrisch, met de deuren centraal en het gouden spoor dat de asymmetrie doorbreekt door diagonaal door het beeld te lopen.",
+      "cyclus": 10549,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een onverklaarbare combinatie van zand, goud en een deur zonder duidelijke context.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010549_10612.webp"
+    },
+    {
+      "id": 10609,
+      "titel": "Goud dat fluistert door de kier",
+      "beschrijving": "Een houten deur staat op een kier in een roodbruine muur, met een golvende strook zand die door de opening loopt en over de vloer meandert. Het zand is doorspekt met glinsterende goudvlokken die een kronkelend pad vormen, alsof ze door een onzichtbare stroom worden meegesleurd. De deur heeft een klassieke, paneelvormige structuur met een messing deurknop en een donkere kier waar licht doorheen strijkt. De muren en vloer hebben een egaal, mat tint, terwijl het zand en de goudvlokken een textuur hebben die diepte en beweging suggereert. De ruimte voelt leeg en stil, met de deur als enig punt van interesse dat de blik trekt naar een onzichtbare buitenwereld.",
+      "cyclus": 10546,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, introspectieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief maar gericht op een subtiele spanning tussen leegte en aanwezigheid.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010546_10609.webp"
+    },
     {
       "id": 10594,
       "titel": "Waar blijft de sleutel?",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010501_10564.webp"
-    },
-    {
-      "id": 10554,
-      "titel": "Geen titel voor dit beeld",
-      "beschrijving": "Een houten steel steekt schuin uit een golvend oppervlak van grijs water, met donkere en lichte strepen die beweging suggereren. Rechts bovenin valt een scherpe, gele lichtstraal diagonaal naar beneden, die het water en de steel raakt. Bovenin is een donkere, houten rand zichtbaar, die de hoek van een plafond of dak vormt. De achtergrond bestaat uit witte muren met subtiele schaduwvalleien. Kleine zwarte vlekken en spetters zijn verspreid over het water en de muren. De compositie combineert realistische details met gestileerde vormen, waarbij het contrast tussen het grijze water en de heldere gele straal opvalt.",
-      "cyclus": 10491,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongebruikelijke compositie met een abstracte spanning tussen vorm en leegte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010491_10554.webp"
-    },
-    {
-      "id": 10552,
-      "titel": "Krassen in de orde",
-      "beschrijving": "Een hoek van een kamer met roze muren en een donker plafond. Een houten staaf steekt schuin uit de muur, vastgezet met een metalen beugel. Rechts bevindt zich een witte deur met een donkere lijst, voorzien van een metalen handgreep en een slotmechanisme. Op de linker muur lopen donkere, willekeurige krassporen in een chaotisch patroon, alsof er met een puntig voorwerp tegen is getekend. De schaduw van de staaf valt scherp op de muur, en de overgang tussen licht en donker benadrukt de hoek van de ruimte. De sfeer is statisch, met een onderliggende spanning tussen de ordelijke structuren en de ongeremde krassporen.",
-      "cyclus": 10489,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en de leegte speelt een actieve rol.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010489_10552.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10547,
-    "gemaakt": 10609,
-    "gekozen": 1631,
+    "cycli": 10553,
+    "gemaakt": 10616,
+    "gekozen": 1633,
     "afgekeurd": 1369,
     "corpus": 69,
     "notities": 434
