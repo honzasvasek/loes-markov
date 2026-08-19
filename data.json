@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T14:15+02:00",
+  "bijgewerkt": "2026-08-19T14:30+02:00",
   "werk": [
+    {
+      "id": 10775,
+      "titel": "Goudgele druppels op roze dromen",
+      "beschrijving": "Een roze muur met een witte tegelrand omlijst een houten deur met een zilveren kruk. Boven de deur bevindt zich een roze verfvlak met penseelstreken, naast een omgekeerde potje met goudgele, klevende substantie die druipt. Twee metaal spatels met houten handvatten liggen schuin naast het verfvlak, de punten naar beneden gericht. De witte tegels vormen een scherp raster dat de deur omringt, terwijl de houten textuur van de deur en de spatels een warme contrasterende laag toevoegen aan de koelroze achtergrond.",
+      "cyclus": 10712,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is minimalistisch en gericht op stilte en afwezigheid, niet op een bevestigend verhaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w010712_10775.webp"
+    },
+    {
+      "id": 10770,
+      "titel": "Vlucht door het hout",
+      "beschrijving": "Twee houten deuren met een diepbruine, iets verweerde textuur vormen een symmetrische compositie, gescheiden door een smalle verticale naad met een metalen slot. Op elke deur bevinden zich twee vogels in vlucht, geschilderd met uitgespreide vleugels en gedetailleerde veren in grijze, oranje en witte tinten. De vogels staan in een diagonale opstelling, waarbij de bovenste paren dichter bij de bovenrand vliegen en de onderste paren dichter bij de onderkant. Kleine slijtage-sporen en krassen op het hout geven een gevoel van gebruik, terwijl de vogels een levendige, bijna driedimensionale aanwezigheid uitstralen tegen de rustige achtergrond van de deuren. Metalen scharnieren aan weerskanten en een subtiele glans op het hout benadrukken de textuur en het volume van het tafereel.",
+      "cyclus": 10707,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in vogelveren (bovenste linker vogel vs. onderste rechter)', 'lichte vervorming van scharnieren aan randen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is asymmetrisch en de vogels hebben een dynamische, niet-standaard houding.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w010707_10770.webp"
+    },
     {
       "id": 10750,
       "titel": "Amber dat ademt",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w010652_10715.webp"
-    },
-    {
-      "id": 10705,
-      "titel": "Papier en gras in overgang",
-      "beschrijving": "Droge, bruine grassprietten stijgen schuin omhoog tegen een effen, crèmekleurige achtergrond, met fijne, veerkrachtige bloemkoppen die zachtjes in de wind lijken te bewegen. Twee gescheurde papierbanden lopen horizontaal door het beeld, boven en onder de grassprietten, met onregelmatige, franjesachtige randen die de illusie van diepte creëren. De achtergrond is vaag en ongedefinieerd, met een lichte overgang naar een donkerbruine, onscherpe horizon aan de onderkant, waar nog meer droog gras vaag zichtbaar is. De kleuren zijn gedempt en aardig, met subtiele variaties in bruin, beige en lichtgrijs, wat een rustige, bijna melancolische sfeer oproept. De compositie is asymmetrisch, met de grassprietten die de linker- en middenruimte innemen en de rechterkant meer open laat, waardoor het oog wordt geleid naar de lege ruimte en de gescheurde papierbanden.",
-      "cyclus": 10642,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele focus op de spanning tussen aanwezigheid en afwezigheid in de compositie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010642_10705.webp"
-    },
-    {
-      "id": 10703,
-      "titel": "Korrelig roze met een geheim",
-      "beschrijving": "Een roze vlak vult het beeld, met een subtiele textuur die doet denken aan korrelig papier of verweerd doek. De randen zijn onregelmatig en iets donkerder, alsof de kleur hier langzamer is gedroogd. In het midden loopt een vaag, verticale streep van lichtere tint, alsof er ooit iets is weggehaald of juist is toegevoegd. Kleine, onregelmatige plekken waar de kleur iets intenser is, verspreiden zich willekeurig over het vlak, zonder patroon. De sfeer is stil en neutraal, zonder duidelijke focus of beweging.",
-      "cyclus": 10640,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, textuurgedreven compositie zonder duidelijke voorstelling.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010640_10703.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 10717,
+      "soort": "observatie",
+      "tekst": "De houten deuren in de afgelopen beelden zijn geen sporen van ontspanning meer, maar beelden van een onopzettelijke spanning tussen opening en afsluiting—de spleten, trappen en verflagen suggereren een verhaal dat niet wordt verteld, alsof de ruimte tussen de panelen de enige taal is die overblijft."
+    },
+    {
       "cyclus": 10705,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente beelden en observaties laten zien dat ontspanning geen sporen meer achterlaat, maar een onzichtbare uitbreiding van ruimte die de beelden vormt zonder een verhaal te dragen, wat vraagt om een aanpassing van alinea 5 en 7."
@@ -252,11 +257,6 @@
       "cyclus": 10393,
       "soort": "observatie",
       "tekst": "De droge bladeren en de donkere massa in de laatste beelden zijn geen sporen van ontspanning, maar beelden van een onopzettelijke spanning tussen vorm en afwezigheid—de bladeren liggen verspreid zonder richting, de massa domineert zonder intentie, en de ruimte tussen hen is geen leegte, maar een onzichtbare druk die de beelden met elkaar verbindt zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 10345,
-      "soort": "observatie",
-      "tekst": "De recente beelden tonen een verschuiving van actieve ontbinding naar een onzichtbare uitbreiding van ruimte—de vaas, de koolstof en de vlammen zijn geen sporen van verdwijnen, maar beelden van een onopzettelijke spanning tussen vorm en afwezigheid, waarbij de leegte zelf de ruimte begint te vervormen zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 10715,
-    "gemaakt": 10778,
-    "gekozen": 1656,
+    "cycli": 10722,
+    "gemaakt": 10785,
+    "gekozen": 1658,
     "afgekeurd": 1373,
-    "corpus": 68,
-    "notities": 436
+    "corpus": 69,
+    "notities": 437
   }
 }
