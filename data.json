@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-19T11:15+02:00",
+  "bijgewerkt": "2026-08-19T11:30+02:00",
   "werk": [
+    {
+      "id": 10690,
+      "titel": "Papier dat zich herinnert",
+      "beschrijving": "Tien rechthoekige papieren stroken met gescheurde randen liggen verspreid over een effen beige achtergrond. Elke strook toont een subtiele kleurverloop, variërend van zacht roze en lichtgrijs tot gedempt paars en beige. Sommige stroken hebben een witte, driehoekige hoek die loshangt, alsof ze recent zijn losgetrokken. De gescheurde randen zijn onregelmatig en textuurrijk, met kleine papiersnippeltjes die de indruk wekken van handmatig scheuren. De stroken zijn willekeurig geplaatst, zonder duidelijke volgorde of symmetrie, wat een gevoel van spontaneiteit en onafgefinisheid uitstraalt. De kleuren overlopen soepel, zonder scherpe overgangen, en creëren een rustige, bijna meditatieve sfeer.",
+      "cyclus": 10627,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet gericht op een toeristisch effect.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010627_10690.webp"
+    },
+    {
+      "id": 10688,
+      "titel": "Roodborstels zonder bestemming",
+      "beschrijving": "Twaalf donkere vogels met roodborstels vliegen door een beige, getextureerd vlak met zachte, golvende patronen. Hun vleugels staan wijd open, in verschillende vluchtposities, alsof ze net een tak met jonge, groene bladeren verlaten hebben. De tak loopt diagonaal door het bovenste deel, met kleine, verspreide bladeren die de lucht doorbreken. Vogels en tak zijn scherp getekend tegen de lichte achtergrond, met subtiele schaduwvalsen die diepte geven. De compositie is dynamisch, met vogels die in alle richtingen vliegen, maar een algemene stroom volgen van linksboven naar rechtsonder. Kleuren zijn gedempt, behalve de rode borstels en groene bladeren, die als accenten fungeren.",
+      "cyclus": 10625,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar toont een dynamische, bijna chaotische verdeling van vogels zonder duidelijke focus of typisch motief.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w010625_10688.webp"
+    },
     {
       "id": 10677,
       "titel": "Vleugels tussen golven en takken",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010570_10633.webp"
-    },
-    {
-      "id": 10628,
-      "titel": "Blauw dat stroomt door zand",
-      "beschrijving": "Een smalle, rechte goot van donker hout loopt door een zandig landschap, gevuld met een golvende massa blauw en zilverkleurig materiaal dat aan haar of vezels doet denken. Het materiaal is ongelijkmatig verdeeld, met delen die diepblauw zijn en andere die overgaan in een lichter, bijna witte tint. Aan de voorzijde van de goot staat een metalen kast met een rechthoekig gat, waar een smalle strook wit licht doorheen valt. Het zand aan weerskanten is egaal en lichtgekleurd, met enkele kleine donkere steentjes verspreid. De horizon is recht en ver weg, met een effen, lichtblauwe hemel erboven. De compositie is symmetrisch en gericht op de diepte van het beeld, met de goot als leidende lijn. De sfeer is kalm en ietsje verlaten, met een focus op textuur en kleurcontrasten.",
-      "cyclus": 10565,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, bijna meditatieve spanning tussen vorm en leegte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w010565_10628.webp"
-    },
-    {
-      "id": 10622,
-      "titel": "Rust in de hitte",
-      "beschrijving": "Voor me staat een metalen kachel met een glazen deur, waarachter vuur woedt. De vlammen zijn feloranje en geel, met scherpe, dansende tongen die om donkere, verkoolde houtklossen heenkussen. Rook stijgt in slome, witte spiraalvormen op naar de bovenkant van de glas-in-loodachtige achtergrond, die een diepblauwe, bijna aquatische textuur heeft met onregelmatige, donkere vlekken en subtiele krassen. De kachel zelf is donkerbruin met roestplekken en heeft aan weerskanten metalen scharnieren en een greep. Onder de vlammen ligt een laagje as en kleine, golvende vonken die door de hitte opstijgen. De randen van de kachel zijn iets onregelmatig en er zitten losse schroeven en kleine metaalfragmenten verspreid rondom de basis. De achtergrond buiten de kachel is een egale, grijze muur, wat de warmte van het vuur en de koelte van de blauwe achtergrond nog sterker doet uitkomen.",
-      "cyclus": 10559,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond vlammen tegen blauwe achtergrond', 'lichte inconsistentie in textuur van hout aan onderkant']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke spanning tussen vuur en koude achtergrond.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010559_10622.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 10633,
-    "gemaakt": 10695,
-    "gekozen": 1644,
+    "cycli": 10639,
+    "gemaakt": 10701,
+    "gekozen": 1646,
     "afgekeurd": 1372,
     "corpus": 69,
     "notities": 434
