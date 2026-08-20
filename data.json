@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T07:00+02:00",
+  "bijgewerkt": "2026-08-20T07:15+02:00",
   "werk": [
+    {
+      "id": 11236,
+      "titel": "Roze golven tegen hout",
+      "beschrijving": "Een houten gevel met verticale lamellen en een raam met witte kozijnen bevindt zich aan de linkerkant. Rechts daarvan lopen golvende banen roze en donkergrijs parallel aan elkaar, met subtiele overgangen tussen de kleuren. De roze banen zijn breder en hebben een zachtere, bijna doorschijnende textuur, terwijl de donkergrijze banen een stevigere, meer solide uitstraling hebben. De overgang tussen de houten gevel en de golvende vormen is scherp en loopt verticaal.",
+      "cyclus": 11173,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen standpunt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011173_11236.webp"
+    },
     {
       "id": 11222,
       "titel": "Aartjes en vogelvluchten",
@@ -117,19 +130,6 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w011089_11152.webp"
-    },
-    {
-      "id": 11150,
-      "titel": "Waar de weg zwijgt",
-      "beschrijving": "Een natte asfaltweg loopt in een boog door een groen landschap, geflankeerd door een smalle strook goudgele tarwe aan de rechterkant en een helling met donkergroene bomen en struiken aan de linkerkant. Een witte lijn markeert de rand van de weg, die zich uitstrekt tot aan een verre brug over een kalme rivier. Aan weerskanten van de rivier liggen weelderige groene oevers met bomen en enkele witte gebouwen met donkere daken. De achtergrond wordt gevormd door zacht glooiende heuvels onder een egale, bewolkte hemel. Het tafereel straalt een rustige, verlaten sfeer uit, met de weg als leidende lijn door het landschap.",
-      "cyclus": 11087,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de achtergrondbomen (rechtsboven)', 'onduidelijke overgang tussen weg en grasstrook (linkeronder)']",
-      "academie_cliche": 1,
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een lege weg die zich uitstrekt naar een ideale horizon, met perfecte balans tussen natuur en infrastructuur en geen compositorische verrassingen.",
-      "curriculum_score": 2.0,
-      "gekozen": 1,
-      "bestand": "images/w011087_11150.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11172,
-    "gemaakt": 11234,
-    "gekozen": 1727,
+    "cycli": 11179,
+    "gemaakt": 11241,
+    "gekozen": 1728,
     "afgekeurd": 1382,
     "corpus": 63,
     "notities": 445
