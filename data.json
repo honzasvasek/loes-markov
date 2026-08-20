@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T14:30+02:00",
+  "bijgewerkt": "2026-08-20T14:45+02:00",
   "werk": [
+    {
+      "id": 11434,
+      "titel": "Roodbruin water tussen donkere lijnen",
+      "beschrijving": "Een smalle, kronkelende waterloop snijdt door een roodbruin landschap, getekend met witte en lichtgrijze strepen die beweging suggereren. Donkere, onregelmatige rotsen flankeren het water, met hier en daar struiken van lang, slank gras dat in zwarte en donkerbruine tinten is weergegeven. Twee verticale, donkere lijnen — mogelijk stammen of palen — raken de boven- en onderkant van het beeld en omlijsten een deel van het tafereel. De achtergrond is eenduidig roodbruin, zonder horizon of verdwijnpunt, waardoor de focus ligt op de vloeiende lijnen van het water en de textuur van de rotsen en vegetatie. De sfeer is rustig, bijna meditatief, met een subtiele spanning tussen de statische elementen en de dynamiek van het water.",
+      "cyclus": 11371,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011371_11434.webp"
+    },
+    {
+      "id": 11430,
+      "titel": "Waar begint het donker?",
+      "beschrijving": "Een houten deur staat op een kier in een lichte muur, omringd door donkere boomstammen met dunne takken en bladeren. Een roodbruine pad loopt recht op de deur toe, geflankeerd door hoge, droge grassen met verspreide bladeren in groen, bruin en geel. Aan weerskanten van de deur bevinden zich drie cirkelvormige patronen in de muur. Het interieur achter de deur is donker en onduidelijk. De scène heeft een rustige, iets verlaten sfeer met zachte, natuurlijke kleuren en subtiele textuurverschillen in het gras en de boomstammen.",
+      "cyclus": 11367,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van het gras aan weerskanten van het pad', 'Subtiele halo rond de deurkozijn tegen de muur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een intieme, persoonlijke sfeer met een ongewone compositie en kleurgebruik, wat het boven een typische ansichtkaart verheft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011367_11430.webp"
+    },
     {
       "id": 11422,
       "titel": "Vogels tussen de stammen",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011310_11373.webp"
-    },
-    {
-      "id": 11372,
-      "titel": "Vogels op de latten",
-      "beschrijving": "Drie houten latten lopen diagonaal door het beeld, met zichtbare nerf en knoesten. Op de latten zitten drie vogels getekend in zwarte en grijze tinten, elk in een andere houding: één kijkt naar links, één naar rechts en één staat met zijn rug naar de kijker. Rond de vogels bevinden zich donkere vlekken en spetters, alsof er verf of ink is gespat. Tussen de latten door loopt een smalle witte spleet. Op de houten oppervlakken liggen enkele metalen spijkers en een kleine, zilverkleurige spijker. De achtergrond is helderwit, waardoor de houten textuur en de vogels scherp afsteken. De compositie is rustig, met een subtiele spanning tussen de rechte houten lijnen en de organische vormen van de vogels en vlekken.",
-      "cyclus": 11309,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in houttextuur bij randen, lichte wazigheid bij vogelveren",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met vogels op hout.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011309_11372.webp"
-    },
-    {
-      "id": 11368,
-      "titel": "Vergeten vlucht",
-      "beschrijving": "Zeven vogels met bruin-grijze veren en donkere vlekken op de vleugels staan verspreid op een verbleekt beige achtergrond met subtiele bruine verkleuringen en kleine donkere vlekken. De vogels hebben kleine, donkere ogen, spitse snavels en slanke poten met dunne tenen. Hun houdingen variëren: sommigen kijken naar voren, anderen naar de zijkant of licht omhoog. De veren tonen fijne details met lichte en donkere schakeringen, en de staarten zijn lang en smal. De compositie is asymmetrisch, met vogels die zowel links als rechts en boven en onder in het beeld staan, waardoor een dynamische maar rustige indeling ontstaat. De sfeer is kalm en natuurlijk, met een vintage uitstraling door de verbleekte kleuren en textuur van de achtergrond.",
-      "cyclus": 11305,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in vogelproporties (bijv. vleugels/staarten), lichte wazigheid in details van sommige vogels",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is meer een serie individuele portretten dan een typische ansichtkaart.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w011305_11368.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11439,
+      "cyclus": 11376,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
+      "bestand": "images/a011376_11439.webp"
+    },
     {
       "id": 11432,
       "cyclus": 11369,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Dit is geen toeristisch onderwerp en heeft geen decoratief perfect licht, maar een abstracte, schematische structuur.",
       "bestand": "images/a011344_11407.webp"
-    },
-    {
-      "id": 11347,
-      "cyclus": 11284,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, ongemakkelijke compositie met schuine lijnen en kromme handvatten.",
-      "bestand": "images/a011284_11347.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11375,
-    "gemaakt": 11438,
-    "gekozen": 1757,
-    "afgekeurd": 1387,
-    "corpus": 58,
+    "cycli": 11378,
+    "gemaakt": 11440,
+    "gekozen": 1759,
+    "afgekeurd": 1388,
+    "corpus": 59,
     "notities": 449
   }
 }
