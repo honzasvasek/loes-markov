@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-20T18:45+02:00",
+  "bijgewerkt": "2026-08-20T19:00+02:00",
   "werk": [
     {
       "id": 11541,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 11554,
+      "cyclus": 11491,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "De deur is een alledaags voorwerp zonder iconische of toeristische connotaties en de compositie is neutraal, niet decoratief.",
+      "bestand": "images/a011491_11554.webp"
+    },
+    {
+      "id": 11552,
+      "cyclus": 11489,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "De deur is een neutraal onderwerp zonder iconische of toeristische connotaties en de compositie is niet decoratief perfect.",
+      "bestand": "images/a011489_11552.webp"
+    },
+    {
       "id": 11529,
       "cyclus": 11466,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['Chinese tekens in beeld', 'vervormde structuren in zwarte vormen', 'inconsistent perspectief in raster', 'wazige texturen in hout', 'detailverlies in schaduwen van zwarte vormen']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen compositorische keuze.",
       "bestand": "images/a011466_11529.webp"
-    },
-    {
-      "id": 11515,
-      "cyclus": 11452,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een neutrale, bijna onpersoonlijke compositie zonder duidelijke thematische keuze.",
-      "bestand": "images/a011452_11515.webp"
-    },
-    {
-      "id": 11511,
-      "cyclus": 11448,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
-      "bestand": "images/a011448_11511.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11488,
-    "gemaakt": 11550,
+    "cycli": 11493,
+    "gemaakt": 11556,
     "gekozen": 1778,
-    "afgekeurd": 1394,
+    "afgekeurd": 1396,
     "corpus": 59,
     "notities": 449
   }
