@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T13:15+02:00",
+  "bijgewerkt": "2026-08-20T13:30+02:00",
   "werk": [
+    {
+      "id": 11413,
+      "titel": "Vergeten kleuren op keien",
+      "beschrijving": "Twee verweerde schilderspaletten liggen op donkere, ruwe keien aan de waterkant, besmeurd met droge verf in grijze en bruine tinten. Een slanke stengel droog gras steekt schuin omhoog aan de linkerkant, met fijne, uitgespreide aren die zacht bewegen in de lucht. Het water strekt zich uit tot een horizon waar een dorp met donkere daken en een kerk met een spitse toren silhouetttrekt tegen een egale, grijze hemel. De keien zijn nat en glanzen hier en daar, met kleine witte schelpen en puin verspreid tussen de stenen. Het palet in het midden heeft een onregelmatige vorm met een gat en verspreide verfvlekken, terwijl het kleinere palet ernaast meer glad en egaal is, met alleen een paar donkere plekken. De achtergrond is onscherp, waardoor de focus ligt op de textuur van het hout, het gras en de keien in het voorplan.",
+      "cyclus": 11350,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 1,
+      "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een kerk en water, in een compositie die doet denken aan een ansichtkaart zonder duidelijke persoonlijke invalshoek.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w011350_11413.webp"
+    },
     {
       "id": 11404,
       "titel": "Waar het zand zacht blijft",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011301_11364.webp"
-    },
-    {
-      "id": 11356,
-      "titel": "Spleten tussen de vezels",
-      "beschrijving": "Drie verticale houten planken vullen het beeld, elk met een unieke textuur van fijne, parallelle vezels. De linkerplank is lichter van kleur, met een zachte, bijna roomkleurige tint, terwijl de middelste en rechterplank donder zijn, met een warme, bruine kleur. Tussen de planken lopen smalle, donkere spleten, die de scheiding tussen de houten elementen benadrukken. De vezels in het hout lopen verticaal en hebben een natuurlijke, lichte onregelmatigheid, wat het materiaal een organische uitstraling geeft. Het licht valt gelijkmatig over de planken, waardoor de textuur en kleurverschillen subtiel naar voren komen. Er zijn geen andere objecten of details zichtbaar, wat de focus volledig op de houten structuren legt.",
-      "cyclus": 11293,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een neutrale close-up van hout met subtiele textuurverschillen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011293_11356.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11347,
-    "gemaakt": 11410,
-    "gekozen": 1754,
+    "cycli": 11355,
+    "gemaakt": 11417,
+    "gekozen": 1755,
     "afgekeurd": 1386,
     "corpus": 59,
     "notities": 449
