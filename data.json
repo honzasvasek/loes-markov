@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-21T00:45+02:00",
+  "bijgewerkt": "2026-08-21T01:00+02:00",
   "werk": [
     {
       "id": 11711,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 11719,
+      "cyclus": 11656,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (stappen)', 'inconsistent perspectief (kaart vs landschap)']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van elementen zonder duidelijke compositorische keuze.",
+      "bestand": "images/a011656_11719.webp"
+    },
+    {
       "id": 11686,
       "cyclus": 11623,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde tekst (onleesbaar/onzin)', 'wazige textuur in rook en gras', 'inconsistent perspectief horizon']",
       "cliche_notities": "Geen iconisch landschap of toeristisch motief, maar een abstracte, onontbrekende aanwezigheid met onleesbare tekst en ongemakkelijke compositie.",
       "bestand": "images/a011578_11641.webp"
-    },
-    {
-      "id": 11612,
-      "cyclus": 11549,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'wazige texturen', 'detailverlies in schaduw/highlight']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijke thematische keuze.",
-      "bestand": "images/a011549_11612.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11654,
-    "gemaakt": 11716,
+    "cycli": 11661,
+    "gemaakt": 11723,
     "gekozen": 1802,
-    "afgekeurd": 1401,
+    "afgekeurd": 1402,
     "corpus": 59,
     "notities": 452
   }
