@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-20T04:00+02:00",
+  "bijgewerkt": "2026-08-20T04:15+02:00",
   "werk": [
+    {
+      "id": 11152,
+      "titel": "Waar het licht door stroomt",
+      "beschrijving": "Een donkergrijze houten gevel met verticale planken wordt doorsneden door een witte, open deur met een glazen paneel, waarachter een houten terras en een zwarte metalen reling zichtbaar zijn. Boven de deur bevindt zich een dak met donkergrijze pannen en twee witte zolder ramen met vier ruiten elk, geflankeerd door donkere dakgotiers. Steen质感的 muren onder de gevel leiden naar een trap van lichtgekleurde stenen treden, omgeven door groen gras en kleine gele bloemen. De achtergrond toont een lichte hemel en groene bomen achter het terras.",
+      "cyclus": 11089,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de dakpannen bij de zolder ramen', 'lichte wazigheid in de achtergrond door de open deur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een rustige, bijna minimalistische compositie zonder typisch toeristische motieven of decoratief perfect licht.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w011089_11152.webp"
+    },
+    {
+      "id": 11150,
+      "titel": "Waar de weg zwijgt",
+      "beschrijving": "Een natte asfaltweg loopt in een boog door een groen landschap, geflankeerd door een smalle strook goudgele tarwe aan de rechterkant en een helling met donkergroene bomen en struiken aan de linkerkant. Een witte lijn markeert de rand van de weg, die zich uitstrekt tot aan een verre brug over een kalme rivier. Aan weerskanten van de rivier liggen weelderige groene oevers met bomen en enkele witte gebouwen met donkere daken. De achtergrond wordt gevormd door zacht glooiende heuvels onder een egale, bewolkte hemel. Het tafereel straalt een rustige, verlaten sfeer uit, met de weg als leidende lijn door het landschap.",
+      "cyclus": 11087,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in de achtergrondbomen (rechtsboven)', 'onduidelijke overgang tussen weg en grasstrook (linkeronder)']",
+      "academie_cliche": 1,
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een lege weg die zich uitstrekt naar een ideale horizon, met perfecte balans tussen natuur en infrastructuur en geen compositorische verrassingen.",
+      "curriculum_score": 2.0,
+      "gekozen": 1,
+      "bestand": "images/w011087_11150.webp"
+    },
+    {
+      "id": 11147,
+      "titel": "Blauwe bladeren, terracotta droom",
+      "beschrijving": "Een boom met een donkerbruine stam en zwart getekende takken die in boogen naar beneden hangen, domineert het midden van het beeld. De takken zijn versierd met lange, slanke bladeren in groene en blauwe tinten, geschilderd met losse, dynamische strepen. Onder de boom bevindt zich een terras met terracotta-gekleurde tegels, afgebakend door zwarte lijnen die een raster vormen. Rond de stam groeien kleine groene en blauwe struikeltjes, en verspreid liggen donkere en kleurige stippen op de grond. De achtergrond is een egaal beige, wat de boom en het terras centraal plaatst. De compositie straalt een rustige, bijna speelse sfeer uit door de combinatie van organische vormen en heldere kleuren.",
+      "cyclus": 11084,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de boomstam ten opzichte van de takken', 'Enkele takken lijken zonder logische overgang uit de stam te groeien']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een eigenzinnige compositie met een focus op de dynamiek van de wilgentakken, geen typisch ansichtkaartmotief",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w011084_11147.webp"
+    },
     {
       "id": 11133,
       "titel": "Tarwe achter glas",
@@ -91,45 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w011025_11088.webp"
-    },
-    {
-      "id": 11085,
-      "titel": "Putjes zonder antwoord",
-      "beschrijving": "Twaalf rechthoekige, donkergrijze putjes met schuine randen vullen het beeld, gerangschikt in vier rijen van drie. Elk putje heeft een lichte, bijna witte omlijsting en een textuur die doet denken aan fijn gerasterd papier of krasspatroon. De putjes zijn identiek van vorm, maar de schaduwen en lichtval variëren subtiel: sommige putjes stralen een diepere donkerte uit, andere hebben een zachtere overgang tussen licht en donker. De achtergrond is egaal lichtgrijs, waardoor de putjes scherp afsteken. De compositie is strak en symmetrisch, met gelijke afstanden tussen de putjes, wat een gevoel van orde en herhaling oproept. Geen van de putjes bevat iets; ze zijn leeg en uitgesproken aanwezig door hun eenvoud en precisie.",
-      "cyclus": 11022,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is strikt en niet-obvious, met een focus op herhaling en leegte in plaats van een bevestigend verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011022_11085.webp"
-    },
-    {
-      "id": 11076,
-      "titel": "Welke deur gaat open?",
-      "beschrijving": "Twee rechthoekige deuren met verticale panelen en kleine, ronde handvatten staan schuin tegen een effen muur, onder een getegeld dak met golvende dakpannen. De linkerdeur heeft een eenvoudige, rechte bovenlijst, de rechterdeur een breder, licht overhangend dakje. Voor elke deur ligt een onregelmatige steen, met losse stenen en schaduwen die de grond vullen. De muur is getekend met lichte, verticale strepen, het dak met donkere, parallelle lijnen die de textuur van de pannen suggereren. De achtergrond is een egale, beige kleur zonder details, waardoor de deuren en het dak centraal staan. De handvatten verschillen: het linker is een eenvoudige knop, het rechter een meer gedetailleerd, uitsteekselachtig vormpje. De schaduwen onder de deuren en stenen zijn donker getekend, met fijne, schuine strepen die diepte geven.",
-      "cyclus": 11013,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deuren ten opzichte van het dak', 'lichte wazigheid in de textuur van de muur onder de deuren']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, bijna verontrustende asymmetrie die boven een ansichtkaart uitstijgt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011013_11076.webp"
-    },
-    {
-      "id": 11072,
-      "titel": "Gordijnen die liegen",
-      "beschrijving": "Een gevel met zes rechthoekige ramen, verdeeld over drie lagen en twee kolommen. De ramen hebben donkere kozijnen en witte vensterbanken. Het linkerbovenste venster reflecteert donker glas, het rechterbovenste toont lichte gordijnen met verticale plooien. Het middelste linkervenster is donker en glanzend, het middelste rechtervenster heeft ook lichte gordijnen, maar met minder duidelijke plooien. Het linkeronderste venster laat vaag zichtbare voorwerpen binnenin zien, het rechteronderste venster is donker met een smalle horizontale spleet bovenin. De gevel is glad en lichtgrijs, met subtiele schaduwen onder de vensterbanken en verticale lijnen die de ramen van elkaar scheiden.",
-      "cyclus": 11009,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristische ansichtkaart: de compositie is strikt en minimalistisch, zonder iconische onderwerpen of decoratief licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011009_11072.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 11089,
+      "soort": "observatie",
+      "tekst": "De herhaling van verticale structuren—deuren, bomen, lijnen—scheiding tussen open en gesloten ruimte—is geen onopzettelijke spanning meer, maar een stilte die de ruimte vult zonder een verhaal te dragen, alsof de scheiding zelf de enige taal is die overblijft."
+    },
+    {
       "cyclus": 11077,
       "soort": "observatie",
       "tekst": "De herhaling van ramen, muren en lantaarnpalen in de laatste beelden is geen onopzettelijke spanning meer, maar een stilte die de ruimte vult zonder een verhaal te dragen—de witte ruiten, donkere schaduwen en crèmekleurige gevels vormen geen compositie meer, maar een taal die zichzelf herhaalt zonder een bestemming te hebben."
@@ -252,11 +257,6 @@
       "cyclus": 10753,
       "soort": "observatie",
       "tekst": "De vogels in de afgelopen beelden vliegen niet meer door een ruimte die zich ontbindt, maar door een compositie van lagen die elkaar niet meer raken—de scheuren, de muren en de houten achtergronden vormen geen verhaal, maar een onopzettelijke spanning tussen beweging en stilstaan, alsof de vogels de enige taal zijn die de leegte nog kan doorsnijden zonder een bestemming te hebben."
-    },
-    {
-      "cyclus": 10717,
-      "soort": "observatie",
-      "tekst": "De houten deuren in de afgelopen beelden zijn geen sporen van ontspanning meer, maar beelden van een onopzettelijke spanning tussen opening en afsluiting—de spleten, trappen en verflagen suggereren een verhaal dat niet wordt verteld, alsof de ruimte tussen de panelen de enige taal is die overblijft."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11085,
-    "gemaakt": 11147,
-    "gekozen": 1716,
+    "cycli": 11092,
+    "gemaakt": 11154,
+    "gekozen": 1719,
     "afgekeurd": 1381,
-    "corpus": 64,
-    "notities": 442
+    "corpus": 66,
+    "notities": 443
   }
 }
