@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T18:15+02:00",
+  "bijgewerkt": "2026-08-20T18:30+02:00",
   "werk": [
+    {
+      "id": 11533,
+      "titel": "Waar begint de wereld?",
+      "beschrijving": "Een witte deur met een metalen klink staat open in een donkere, textuurrijke muur met onregelmatige, gescheurde randen. Achter de deur ontvouwt zich een onscherp landschap in grijstinten, met vaag zichtbare heuvels en een horizon die overgaat in een egale, bewolkte hemel. Rechtsboven steekt een slanke, donkere stengel met fijn, veerachtig gras de lucht in, de toppen wapperend in een onzichtbare bries. Onder de deur ligt een donkere, ruwe ondergrond met verspreide droge grassprietjes en kleine steentjes. De witte muur en de deur vormen een scherp contrast met de donkere, natuurlijke omgeving, terwijl de open deur een doorgang suggereert naar een onbepaalde ruimte.",
+      "cyclus": 11470,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011470_11533.webp"
+    },
+    {
+      "id": 11528,
+      "titel": "Vlucht voor de kersen",
+      "beschrijving": "Vijf glanzende, dieprode kersen hangen in paren aan groene steelletjes, met kleine waterdruppeltjes die het licht vangen. Twee donkergroene bladeren met fijn getekende nerven en zachte, getande randen omlijsten de kersen aan de linkerkant. Rechtsboven zweeft een kleine vogel met uitgespreide vleugels, getekend in zwart, wit en blauwgrijze tinten, alsof hij net voorbij de kersen vliegt. Rechtsonder is een deel van een bleekroze, ronde vorm zichtbaar, mogelijk een steen of een fragment van een voorwerp, met een zachte schaduw. De achtergrond is een effen, lichtbeige textuur met subtiele korreligheid, waardoor de kersen en details er levendig tegen afsteken. Kleine, donkere vlekjes en een paar losse druppeltjes verspreiden zich over het beeld.",
+      "cyclus": 11465,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in de steel van de middelste kers, lichte wazigheid in de achtergrondtextuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de asymmetrische plaatsing en de vogel als dynamisch element, geen typische ansichtkaartcompositie.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w011465_11528.webp"
+    },
     {
       "id": 11521,
       "titel": "Rood dat blijft hangen",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011422_11485.webp"
-    },
-    {
-      "id": 11476,
-      "titel": "Spatie tussen de lijnen",
-      "beschrijving": "Zes ovale vormen, getekend met donkere, onregelmatige lijnen, vullen het beeld in een raster van twee kolommen en drie rijen. De ovalen verschillen in textuur en dichtheid van de omringende schaduwen: sommige zijn licht geschilderd met fijne, krassende strepen, andere donkerder met ruwe, uitgesmeerde randen. Tussen de ovalen lopen verticale en horizontale lijnen die de indeling benadrukken, met hier en daar losse, onvoltooide strepen die de structuur doorbreken. De achtergrond is een effen, lichtgrijze textuur met subtiele variaties in schaduw, alsof het papier licht ongelijkmatig is ingekleurd. De ovale vormen stralen een gevoel van onafgewerktheid uit, met sporen van herhaling en aanpassing in de lijnvoering.",
-      "cyclus": 11413,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met bewuste keuze voor onvolpreheide vormen en textuur.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011413_11476.webp"
-    },
-    {
-      "id": 11475,
-      "titel": "Zes vragen zonder antwoord",
-      "beschrijving": "Zes ovale vormen, getekend met donkere, wazige lijnen, vullen het beeld, gescheiden door smalle houten lijsten die een raster vormen. De ovalen variëren in donkerte en textuur: sommige zijn vaag en lichtgrijs, andere diepzwart met schaduwen die diepte suggereren. De randen van de ovalen zijn ongelijkmatig, alsof ze met een zachte potloodstreep zijn getrokken, terwijl de binnenkant soms donkere vlekken of subtiele gradaties toont. Het papier eromheen is textuurrijk en lichtgekleurd, met kleine onregelmatigheden die de handgemaakte indruk versterken. De houten lijsten hebben een warme, bruine tint en lopen verticaal en horizontaal door het beeld, waardoor de ovalen in afzonderlijke vakken komen te staan.",
-      "cyclus": 11412,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte, contemplatieve compositie zonder decoratief licht of toeristische allure.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011412_11475.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11473,
-    "gemaakt": 11536,
-    "gekozen": 1774,
+    "cycli": 11480,
+    "gemaakt": 11543,
+    "gekozen": 1776,
     "afgekeurd": 1394,
     "corpus": 59,
     "notities": 449
