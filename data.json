@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T02:15+02:00",
+  "bijgewerkt": "2026-08-20T02:30+02:00",
   "werk": [
+    {
+      "id": 11114,
+      "titel": "Het twaalfde raam kijkt mee",
+      "beschrijving": "Twaalf ramen vormen een raster op een diepblauwe gevel, waarbij elf ramen een witte lijst hebben en één raam in het midden van de tweede rij een bruine houten lijst. Alle ramen hebben een identieke indeling met vier ruitvormige ramen, gescheiden door witte houten mullions. De ramen zijn symmetrisch geplaatst, met gelijke afstanden tussen elkaar en de randen van de gevel. Het donkere glas reflecteert weinig licht, waardoor de binnenruimte onzichtbaar blijft. De blauwe gevel heeft een egale textuur zonder zichtbare slijtage of details.",
+      "cyclus": 11051,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een ongemakkelijke, bijna onpersoonlijke structuur die niet aan een toeristisch cliché voldoet.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011051_11114.webp"
+    },
     {
       "id": 11099,
       "titel": "Het gat dat luistert",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010985_11048.webp"
-    },
-    {
-      "id": 11047,
-      "titel": "Een deurtje te veel",
-      "beschrijving": "Twaalf houten deurtjes en één ingelijst schilderij hangen in een raster van vier op drie op een effen grijze muur. De deurtjes variëren in detail: sommige hebben zwarte bladmotieven, andere glas-in-lood ramen, gekleurde panelen of ongeschilderd hout met zichtbare nerf. Het centrale schilderij toont een landschap met groene heuvels, donkere bomen en een wit huis met een houten balkon, omgeven door een houten lijst die aansluit bij de deurtjes. Kleine metalen klinken en scharnieren zijn zichtbaar op elk deurtje. De compositie is symmetrisch, met het schilderij als focuspunt tussen de deurtjes. Kleuren zijn voornamelijk houtbruin, zwart, groen en grijs, met subtiele variaties in textuur en patroon.",
-      "cyclus": 10984,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur bij enkele deuren (bijv. bovenste rij, tweede van links)', 'Subtiele vervorming in de ramen van de middelste rij (glaspanelen lijken niet recht)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op herhaling en subtiele variaties, niet op een bevestigend beeld.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010984_11047.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11051,
-    "gemaakt": 11113,
-    "gekozen": 1712,
+    "cycli": 11058,
+    "gemaakt": 11120,
+    "gekozen": 1713,
     "afgekeurd": 1379,
     "corpus": 64,
     "notities": 441
