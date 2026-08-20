@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T16:15+02:00",
+  "bijgewerkt": "2026-08-20T16:30+02:00",
   "werk": [
+    {
+      "id": 11488,
+      "titel": "Tandwielvogels op ijsstammen",
+      "beschrijving": "Zes vogels met witte en grijze veren en zwarte snavels en poten zitten op drie verticale, doorschijnende witte stammen met dunne takken. De achtergrond is lichtblauw met subtiele textuur. Verspreid door het beeld bevinden zich zes donkergrijze, tandwielachtige vormen met een blauwe kern en kleine zwarte stippen eromheen. De vogels zijn willekeurig geplaatst, sommige kijken naar links, andere naar rechts, met lichte variaties in houding en verenpatroon. De stammen hebben een glanzende, bijna ijsachtige uitstraling met zachte schaduwen en highlights.",
+      "cyclus": 11425,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is speels en niet typisch ansichtkaart-achtig.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011425_11488.webp"
+    },
+    {
+      "id": 11485,
+      "titel": "Pannen die luisteren naar de regen",
+      "beschrijving": "Donkere, gebogen dakpannen vullen het beeld in lagen, met donkerbruine en zwarte tinten die overgaan in grijze schakeringen. Regenstrepen dalen verticaal, subtiel zichtbaar tegen de lichte achtergrond. In de verte loeren vaag omschreven bergcontouren door een nevelige mist, terwijl dichterbij een tweede daklijn diagonaal door het beeld loopt. Donkere vlekken, mogelijk mos of vocht, verspreiden zich over de pannenen, met hier en daar een scherpere, bijna sterachtige glans. De compositie straalt een stille, natte sfeer uit, waarbij de natte textuur van de daken en de zachte overgang van licht naar donker de aandacht trekken.",
+      "cyclus": 11422,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, contemplatieve compositie met ruimte voor interpretatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011422_11485.webp"
+    },
     {
       "id": 11476,
       "titel": "Spatie tussen de lijnen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011371_11434.webp"
-    },
-    {
-      "id": 11430,
-      "titel": "Waar begint het donker?",
-      "beschrijving": "Een houten deur staat op een kier in een lichte muur, omringd door donkere boomstammen met dunne takken en bladeren. Een roodbruine pad loopt recht op de deur toe, geflankeerd door hoge, droge grassen met verspreide bladeren in groen, bruin en geel. Aan weerskanten van de deur bevinden zich drie cirkelvormige patronen in de muur. Het interieur achter de deur is donker en onduidelijk. De scène heeft een rustige, iets verlaten sfeer met zachte, natuurlijke kleuren en subtiele textuurverschillen in het gras en de boomstammen.",
-      "cyclus": 11367,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van het gras aan weerskanten van het pad', 'Subtiele halo rond de deurkozijn tegen de muur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een intieme, persoonlijke sfeer met een ongewone compositie en kleurgebruik, wat het boven een typische ansichtkaart verheft.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011367_11430.webp"
-    },
-    {
-      "id": 11422,
-      "titel": "Vogels tussen de stammen",
-      "beschrijving": "Tussen twee donkere, verticale houten stammen kijkt het oog op een landschap dat zich uitstrekt onder een hemel die van roze naar lichtblauw verloopt. Drie vogels vliegen in verschillende hoogtes en richtingen, hun silhouetten donker en scherp getekend tegen de lichte achtergrond. Onderaan loopt een zandige, golvende horizon met subtiele sporen van gras en kleine heuvels, getekend in zachte grijze en bruine tinten. De ruimte tussen de stammen vormt een smalle, verticale opening die het landschap omkadt, terwijl de achtergrond langzaam vervaagt in een nevelige, onduidelijke verte.",
-      "cyclus": 11359,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of bevestigend; de lege ruimte en subtiele vervorming van de horizon maken het geen toeristisch ansichtkaartmotief.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011359_11422.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11420,
-    "gemaakt": 11482,
-    "gekozen": 1766,
+    "cycli": 11427,
+    "gemaakt": 11489,
+    "gekozen": 1768,
     "afgekeurd": 1390,
     "corpus": 59,
     "notities": 449
