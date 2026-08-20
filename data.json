@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T06:30+02:00",
+  "bijgewerkt": "2026-08-20T06:45+02:00",
   "werk": [
+    {
+      "id": 11222,
+      "titel": "Aartjes en vogelvluchten",
+      "beschrijving": "Droog, bruin gras vult het beeld in verschillende hoogtes en dichtheden, met lange, slanke stengels die schuin omhoog lopen en aan de top fijne, donkere aartjes dragen. Twee vogels zitten op de stengels: één scherp zichtbaar aan de rechterkant, donkerbruin met een lichte buik, de andere vaag aan de linkerkant, silhouetachtig. De achtergrond is een egale, lichte kleur, waardoor het gras en de vogels eruit springen. De compositie is verticaal gericht, met het gras dat de hoogte van het beeld opvult en de vogels op verschillende niveaus geplaatst zijn. De sfeer is rustig en natuurlijk, met een focus op de details van het gras en de vogels tegen de eenvoudige achtergrond.",
+      "cyclus": 11159,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte onscherpte in achtergrondvogels', 'kleine halo rond sommige grasstengels']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een subtiele, onopgesmukte momentopname met ruimte voor interpretatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011159_11222.webp"
+    },
     {
       "id": 11204,
       "titel": "Rode horizon, donkere gestalten",
@@ -117,19 +130,6 @@
       "curriculum_score": 2.0,
       "gekozen": 1,
       "bestand": "images/w011087_11150.webp"
-    },
-    {
-      "id": 11147,
-      "titel": "Blauwe bladeren, terracotta droom",
-      "beschrijving": "Een boom met een donkerbruine stam en zwart getekende takken die in boogen naar beneden hangen, domineert het midden van het beeld. De takken zijn versierd met lange, slanke bladeren in groene en blauwe tinten, geschilderd met losse, dynamische strepen. Onder de boom bevindt zich een terras met terracotta-gekleurde tegels, afgebakend door zwarte lijnen die een raster vormen. Rond de stam groeien kleine groene en blauwe struikeltjes, en verspreid liggen donkere en kleurige stippen op de grond. De achtergrond is een egaal beige, wat de boom en het terras centraal plaatst. De compositie straalt een rustige, bijna speelse sfeer uit door de combinatie van organische vormen en heldere kleuren.",
-      "cyclus": 11084,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de boomstam ten opzichte van de takken', 'Enkele takken lijken zonder logische overgang uit de stam te groeien']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigenzinnige compositie met een focus op de dynamiek van de wilgentakken, geen typisch ansichtkaartmotief",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w011084_11147.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11157,
-    "gemaakt": 11219,
-    "gekozen": 1726,
+    "cycli": 11164,
+    "gemaakt": 11227,
+    "gekozen": 1727,
     "afgekeurd": 1382,
-    "corpus": 64,
+    "corpus": 63,
     "notities": 445
   }
 }
