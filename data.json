@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T12:30+02:00",
+  "bijgewerkt": "2026-08-20T12:45+02:00",
   "werk": [
+    {
+      "id": 11383,
+      "titel": "Prikkels in de golven",
+      "beschrijving": "Verticale houten latten vormen de achtergrond, met daarop rode kersen en groene bladeren verspreid over de boven- en rechterkant. Een donkere tak met prikkeldoorner loopt schuin door het midden, met zwarte, sterachtige vormen erop. Links onder domineert een dynamische golf van wit en donkergrijs, met schuim en spetters die tegen de houten latten en een gebogen houten rand aan slaan. De golflijnen zijn golvend en textuurrijk, met een mix van zachte en scherpe randen. De kersen hebben een glanzende, ronde vorm en de bladeren zijn smal en puntig. De houten textuur is zichtbaar met subtiele vezels en kleurverschillen.",
+      "cyclus": 11320,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in houttextuur aan linker- en rechterkant', 'enkele kersen hebben lichte vervorming in steel/blad']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en heeft een eigen stemming.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w011320_11383.webp"
+    },
+    {
+      "id": 11381,
+      "titel": "Kersen om te knuffelen",
+      "beschrijving": "Een houten deur met reliëfpanelen en een gouden slot staat centraal in een houten muur met verticale lamellen. Rode kersen met groene stelen en bladeren hangen verspreid aan weerskanten van de deur, sommige paarsgewijs, andere alleen. Het hout heeft een lichte, natuurlijke textuur met zichtbare vezels en knoesten. De kersen zijn glanzend en vol, met subtiele schaduwen die diepte geven. De compositie is symmetrisch, met de deur als as en de kersen die een frame vormen. De sfeer is rustig en natuurlijk, met een contrast tussen het warme hout en de levendige rode kersen.",
+      "cyclus": 11318,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of bevestigend; de kersen en de deur vormen een onverklaarde, bijna surrealistische combinatie zonder duidelijke symboliek of toeristische uitstraling.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011318_11381.webp"
+    },
     {
       "id": 11373,
       "titel": "Veerkrachtig hout",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011283_11346.webp"
-    },
-    {
-      "id": 11330,
-      "titel": "Waar blijft de rook vandaan?",
-      "beschrijving": "Een houten deur staat op een kier, met een donkerbruine klink en een donkere scharnier aan de linkerkant. Rookachtige, witte slagen glijden door de opening en om de deur heen, met een zachte, wazige textuur. Achter de deur is een gang zichtbaar met een tweede, gesloten houten deur en twee groene, vierkante panelen op de muur. De vloer is bedekt met een lichtgekleurd, zandachtig materiaal dat zacht overgaat in de muren. De kleuren zijn gedempt, met beige muren en een subtiele schaduw onder de deur. De rook beweegt in slingerende lijnen, terwijl de deur en de achtergrond stilstaan.",
-      "cyclus": 11267,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011267_11330.webp"
-    },
-    {
-      "id": 11327,
-      "titel": "Waar vliegt ie naartoe?",
-      "beschrijving": "Een witte vogel met wijd gespreide vleugels zweeft boven een donkergrijze, gesloten deur. De vogel heeft een oranje snavel en poten, en zijn veren tonen subtiele schaduwvlakken in zilver en crème. Achter de vogel heerst een bewolkte hemel met donkergrijze en zwarte tinten, doorsneden door dunne regenstrepen. Boven de deur zweven witte, wazige rookachtige vormen. De deur heeft een eenvoudige, rechthoekige vorm met een kleine, ronde klink en staat centraal in een donkergrijze muur. Onder de deur ligt een natte, bruin-grijze vloer met reflecties en verspreide gele en oranje vlekken. De compositie is symmetrisch, met de vogel en deur als focuspunt tegen de donkere achtergrond.",
-      "cyclus": 11264,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vleugelveren (links/rechts)', 'lichte wazigheid in achtergrondwolken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011264_11327.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11326,
-    "gemaakt": 11388,
-    "gekozen": 1750,
+    "cycli": 11333,
+    "gemaakt": 11396,
+    "gekozen": 1752,
     "afgekeurd": 1385,
     "corpus": 59,
     "notities": 449
