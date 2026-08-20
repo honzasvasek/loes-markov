@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T10:00+02:00",
+  "bijgewerkt": "2026-08-20T10:15+02:00",
   "werk": [
+    {
+      "id": 11320,
+      "titel": "Waar blijft de horizon?",
+      "beschrijving": "Twee witte houten deuren staan wijd open in een muur van zandkleurige baksteen, met gouden deurkrukken en donkere scharnieren. Achter de deuren strekt zich een woestijnschap uit met zandduinen in tinten van oker en lichtbruin, onder een helderblauwe hemel zonder wolken. De deuren werpen een donkere schaduw op het zand voor hen, waar ook kleine steentjes en een ronde, donkere voorwerp liggen. Het zand binnen en buiten de deuren heeft een gladde, bijna geschilderde textuur, met subtiele golven en sporen van wind. De randen van de deuren en de kozijnen tonen lichte slijtage, met kleine krassen en verbleekte verf.",
+      "cyclus": 11257,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De deur in de woestijn is geen iconisch motief en de compositie heeft een ongemakkelijke, denkbare spanning tussen binnen en buiten, geen ansichtkaartlicht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011257_11320.webp"
+    },
+    {
+      "id": 11312,
+      "titel": "Regen op zand, munt in vocht",
+      "beschrijving": "Twee grijze houten deuren staan wijd open in een crèmekleurige muur, met donkere scharnieren en ronde metalen klinken. Buiten ontplooit zich een woestijnschap met golvende zandduinen onder een grijs, regenachtig hemelgewelf. Regen druipt zichtbaar naar beneden, terwijl het zand nat en donkerder lijkt bij de deurdrempel. Een enkele groene plant steekt uit het zand, omringd door kleine stenen en een verlaten metalen kruk met drie poten. Het zand binnen de deuren is lichter en droger, met sporen van vocht en een verspreide munt. Rechtsboven in de muur zit een donkere vlek met kleine spetters, en de vloer binnen is van beton met verbleekte vlekken. De deuren hebben een klassieke vorm met reliëfpanelen en een lichte verweering.",
+      "cyclus": 11249,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in deuren (linkerdeur iets smaller dan rechterdeur)', 'lichte wazigheid in achtergrondwoestijn']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, denkbare spanning tussen binnen- en buitenruimte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011249_11312.webp"
+    },
     {
       "id": 11304,
       "titel": "Waar het zand praat door spleten",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011192_11255.webp"
-    },
-    {
-      "id": 11250,
-      "titel": null,
-      "beschrijving": "Een schuin lopende houten vloer met smalle, parallelle latten in warme oranje- en bruintinten domineert het onderste deel van het beeld. De houtstructuur is zichtbaar met fijne, parallelle vezels die de lengte van de latten volgen. Donkere, smalle lijnen scheiden de latten van elkaar en lopen schuin van linksboven naar rechtsonder. Boven de houten vloer bevindt zich een vlakke, turkooise achtergrond met subtiele, witte, verticale strepen die regen imiteren. Een paar kleine, witte druppels hangen in de lucht of vallen naar beneden. De overgang tussen het hout en de turkooise achtergrond is scherp en loopt in een rechte lijn van linksboven naar rechtsonder. De compositie straalt een rustige, bijna statische sfeer uit, met een focus op textuur en kleurcontrast.",
-      "cyclus": 11187,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011187_11250.webp"
-    },
-    {
-      "id": 11245,
-      "titel": "Rook die blijft hangen",
-      "beschrijving": "Twee gouden houten deuren staan wijd open in een grijze muur, met zichtbare houtstructuur en ongelijkmatige verf. Door de deuren ziet men een vaag, lichtblauwe horizon met een subtiele rookachtige vorm die omhoog kruipt. De vloer voor de deuren is glad en grijs, met een zachte schaduw die van de deuren uitgaat. De deuren hebben klassieke panelen en gouden klinken, en de scharnieren zijn donkerbruin. De randen van de deuren en het kozijn tonen lichte slijtage.",
-      "cyclus": 11182,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar verstoort de verwachting van een 'klassieke' deur door de gouden textuur en de onverklaarde rook, wat een eigen standpunt creëert.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011182_11245.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11256,
-    "gemaakt": 11319,
-    "gekozen": 1738,
+    "cycli": 11263,
+    "gemaakt": 11325,
+    "gekozen": 1740,
     "afgekeurd": 1384,
     "corpus": 61,
     "notities": 445
