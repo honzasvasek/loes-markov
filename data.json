@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T18:30+02:00",
+  "bijgewerkt": "2026-08-20T18:45+02:00",
   "werk": [
+    {
+      "id": 11541,
+      "titel": "Waar blijft de grond",
+      "beschrijving": "Grijs-witte vogelvormen zweven door een vaag, nevelig vlak, ondeelbaar van de achtergrond. Drie scherpe, witte verticale lijnen snijden door het beeld, van boven naar beneden, en verdwijnen in een lichter gebied dat de onderkant domineert. Vogels zijn niet gelijkvormig: één heeft gespreide vleugels met zichtbare veren, een ander een slanke, puntige vorm, een derde slechts een vaag silhouet. Een kleine, donkere vorm lijkt een hand of klauw, half verborgen in de mist. De bovenkant is donkerder, de onderkant lichter, alsof het licht van beneden komt. Geen horizon, geen grond, geen duidelijke ruimte—allelementen drijven in een onbepaalde, egaliserende sfeer.",
+      "cyclus": 11478,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vogelvormen (enkele vleugels lijken anatomisch onwaarschijnlijk)', 'lichte wazigheid in achtergrondtextuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust asymmetrisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011478_11541.webp"
+    },
+    {
+      "id": 11539,
+      "titel": "Regendruppels op prikkeldraad",
+      "beschrijving": "Een donkere, langgerekte schaduw van een menselijk silhouet loopt diagonaal over een korrelig, lichtgrijs oppervlak. Regen druipt als fijne, verticale lijnen door het beeld, waarbij de druppels de schaduw en het omringende oppervlak licht verstoren. De schaduw wordt beneden smaller en loopt uit in een onregelmatige, donkere vorm met prikkeldraadachtige uitsteeksels. Verspreid over het oppervlak liggen kleine, onduidelijke voorwerpen: wat lijkt op haren, een druppel water en enkele donkere vlekken. De regen creëert een glanzende, natte textuur op het oppervlak, vooral zichtbaar rond de randen van de schaduw.",
+      "cyclus": 11476,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond schaduwfiguur', 'lichte inconsistentie in regendruppels (sommige te scherp, andere verdwenen)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011476_11539.webp"
+    },
     {
       "id": 11533,
       "titel": "Waar begint de wereld?",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011427_11490.webp"
-    },
-    {
-      "id": 11488,
-      "titel": "Tandwielvogels op ijsstammen",
-      "beschrijving": "Zes vogels met witte en grijze veren en zwarte snavels en poten zitten op drie verticale, doorschijnende witte stammen met dunne takken. De achtergrond is lichtblauw met subtiele textuur. Verspreid door het beeld bevinden zich zes donkergrijze, tandwielachtige vormen met een blauwe kern en kleine zwarte stippen eromheen. De vogels zijn willekeurig geplaatst, sommige kijken naar links, andere naar rechts, met lichte variaties in houding en verenpatroon. De stammen hebben een glanzende, bijna ijsachtige uitstraling met zachte schaduwen en highlights.",
-      "cyclus": 11425,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is speels en niet typisch ansichtkaart-achtig.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011425_11488.webp"
-    },
-    {
-      "id": 11485,
-      "titel": "Pannen die luisteren naar de regen",
-      "beschrijving": "Donkere, gebogen dakpannen vullen het beeld in lagen, met donkerbruine en zwarte tinten die overgaan in grijze schakeringen. Regenstrepen dalen verticaal, subtiel zichtbaar tegen de lichte achtergrond. In de verte loeren vaag omschreven bergcontouren door een nevelige mist, terwijl dichterbij een tweede daklijn diagonaal door het beeld loopt. Donkere vlekken, mogelijk mos of vocht, verspreiden zich over de pannenen, met hier en daar een scherpere, bijna sterachtige glans. De compositie straalt een stille, natte sfeer uit, waarbij de natte textuur van de daken en de zachte overgang van licht naar donker de aandacht trekken.",
-      "cyclus": 11422,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, contemplatieve compositie met ruimte voor interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011422_11485.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11480,
-    "gemaakt": 11543,
-    "gekozen": 1776,
+    "cycli": 11488,
+    "gemaakt": 11550,
+    "gekozen": 1778,
     "afgekeurd": 1394,
     "corpus": 59,
     "notities": 449
