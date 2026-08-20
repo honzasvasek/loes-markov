@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T00:30+02:00",
+  "bijgewerkt": "2026-08-21T00:45+02:00",
   "werk": [
+    {
+      "id": 11711,
+      "titel": "Donkerblauw met onkruid",
+      "beschrijving": "Een lichtgekleurde muur met een donkerblauwe deur en een klein raampje domineert de linkerhelft, terwijl rechts groen en geel gras en onkruid de voorgrond vullen. Een schuin dak met roodbruine pannen loopt over de bovenkant, met daarboven een vaag silhouet van bomen tegen een lichte hemel. Schaduwen op de muur en de grond suggereren zonlicht van rechtsboven, en kleurtjes als beige, groen, paars en bruin vormen een rustige, iets verwaarloosde sfeer.",
+      "cyclus": 11648,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in schaduwval op de muur, lichte wazigheid in de achtergrondvegetatie",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een rustige, onopgesmakte scène met ruimte voor interpretatie",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011648_11711.webp"
+    },
+    {
+      "id": 11708,
+      "titel": "Rook tussen de botten",
+      "beschrijving": "Twee donkere, slanke houten pilaren rijzen uit een zandig landschap op, met lichte rook die tussen hen door opstijgt en zich uitstrekt naar een egale, beige achtergrond. Het zand vormt zachte golven en heuveltjes, doorsneden door donkere, rechte lijnen die als sporen of kieren door het landschap lopen. Kleine donkere steentjes liggen verspreid bij de basis van de linker pilaar, terwijl de rechter pilaar een lichte schaduw werpt op het zand. De pilaren hebben een onregelmatige, bijna organische vorm, met subtiele variaties in breedte en hoogte. De rook is dun en wazig, met lichte overgangen van wit naar grijs, en lijkt zachtjes te bewegen in de lucht tussen de pilaren.",
+      "cyclus": 11645,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011645_11708.webp"
+    },
     {
       "id": 11698,
       "titel": "Papier dat de horizon scheurt",
@@ -104,32 +130,6 @@
       "curriculum_score": 4.0,
       "gekozen": 1,
       "bestand": "images/w011590_11653.webp"
-    },
-    {
-      "id": 11649,
-      "titel": "Vogels boven potten met dromen",
-      "beschrijving": "Drie vogels met blauwe, grijze en bruine veren zitten op takken van een boom. Twee vogels staan op een bovenste tak, één op een lagere tak. De vogel linksboven heeft een bruine kop, de andere twee een blauwe kop. Groene bladeren omringen de takken, met verschillende tinten groen en enkele lichtgroene bladeren. Onder de boom staat een klein wit huisje met een schuin dak, waar potten met groene planten en oranje vruchten staan. Rechts van het huisje zijn meer potten met groen en een kleine boom met groene bladeren. De achtergrond is lichtbeige, met een zachte overgang naar een lichtgrijze grond. De vogels hebben zwarte ogen en snavels, en hun klauwen omvatten de takken. De takken zijn bruin met kleine oneffenheden.",
-      "cyclus": 11586,
-      "tech_score": 8.0,
-      "tech_notities": "['kleine inconsistentie in perspectief van de takken', 'lichte wazigheid in de achtergrondplanten']",
-      "academie_cliche": 1,
-      "cliche_notities": "Dit beeld past bij een typische vogelillustratie met een harmonieuze, decoratieve compositie en geen duidelijke persoonlijke stempel.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w011586_11649.webp"
-    },
-    {
-      "id": 11639,
-      "titel": "Zaagtand in groen",
-      "beschrijving": "Twaalf close-ups van groene, sprieterige bladeren stralen uit vanaf een centraal punt, elk met een scherpe, zaagtandrand en een duidelijke midader. De bladeren variëren in lengte en breedte, sommige langer en smaler, andere korter en breder, maar vormen altijd een ster- of waaiervorm. De achtergrond is vaag, met hints van witte muren en ramen, wat de focus op de bladeren leg. De kleur groen wisselt van donker tot helder, met subtiele schaduwvalleien die de textuur benadrukken. Sommige beelden tonen een steel die de bladeren verbindt, andere zijn geknipt zodat alleen de bladeren zichtbaar zijn. De compositie is symmetrisch in de meeste beelden, maar enkele hebben een licht schuine hoek of een asymmetrische indeling.",
-      "cyclus": 11576,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in scherpte tussen de afzonderlijke panelen', 'achtergrond in sommige panelen iets te wazig, waardoor context ontbreekt']",
-      "academie_cliche": 0,
-      "cliche_notities": "Hoewel het onderwerp (wietbladeren) herkenbaar is, is de compositie geen typische ansichtkaart door de focus op detail en structuur in plaats van een iconisch landschap.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w011576_11639.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11647,
-    "gemaakt": 11709,
-    "gekozen": 1800,
+    "cycli": 11654,
+    "gemaakt": 11716,
+    "gekozen": 1802,
     "afgekeurd": 1401,
     "corpus": 59,
     "notities": 452
