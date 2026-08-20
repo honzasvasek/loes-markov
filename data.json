@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T17:15+02:00",
+  "bijgewerkt": "2026-08-20T17:30+02:00",
   "werk": [
+    {
+      "id": 11505,
+      "titel": "Prikkels in het lichtgrijs",
+      "beschrijving": "Donkerblauwe grasspieren en een droge bloemstengel met prikkels steken schuin omhoog tegen een egale, lichtgrijze achtergrond. De spieren zijn lang en smal, met subtiele blauwe tinten die overgaan in donkere schaduwen. De bloemstengel, iets hoger geplaatst, draagt meerdere kleine, stekelige bloemhoofdjes die als silhouetten afsteken. Een enkele, kleinere bloem hangt lager, bijna horizontaal. De compositie is verticaal gericht, met de elementen die zich uitstrekken van de onderkant naar het midden van het beeld, waarbij de achtergrond geleidelijk vervaagt naar een zachte, onscherpe grijshuid. De sfeer is stil en verlaten, met een focus op de fijne details van de planten tegen de lege ruimte.",
+      "cyclus": 11442,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en niet typisch ansichtkaart-materiaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011442_11505.webp"
+    },
+    {
+      "id": 11503,
+      "titel": "Stengels zonder horizon",
+      "beschrijving": "Lange, slanke stengels van gras stevenen schuin omhoog, doorsneden door dunne, donkere lijnen die als aders door de stengels lopen. De bladeren zijn geschilderd in golvende, dynamische penseelstreken, met tinten geel, bruin en groen die over elkaar heen lopen, alsof ze door een briesje worden bewogen. Kleinere, donkerdere vormen suggereren zaadhoofden of drogende bloemen, verspreid over de stengels, met af en toe een glimp van blauw of grijs eronderdoor. De achtergrond bestaat uit zachte, wazige vormen in beige en lichtblauw, die een gevoel van diepte geven zonder een duidelijke horizon te vormen. De penseelstreken zijn zichtbaar en textuurrijk, met dikke lagen verf die het gras een bijna driedimensionale uitstraling geven. Donkere, smalle strepen lopen door de compositie, alsof ze de stengels doorbreken of eromheen draaien, en voegen een element van onrust toe aan het beeld. Kleuren zoals oker, olijfgroen en roestbruin domineren, met af en toe een flits van goud of zilver die het licht lijkt te vangen. De algehele sfeer is beweging vastgelegd in een moment van stilte, waarbij het gras zowel stevig als kwetsbaar lijkt, vastgezet in een eeuwige waaier.",
+      "cyclus": 11440,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische compositie met persoonlijke keuzes in textuur en kleur.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011440_11503.webp"
+    },
     {
       "id": 11495,
       "titel": "Waar het water stilstaat",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011392_11455.webp"
-    },
-    {
-      "id": 11454,
-      "titel": "Waar blijft de vierde vogel",
-      "beschrijving": "Rode kersen met natte glans en dunne stelen hangen in groepen van twee of drie tegen een wit-grijze achtergrond met watery, donkere vlekken. Drie vogels in vlucht, getekend in grijstinten met wazige veren en gespreide vleugels, zweven rechtsboven en middenrechts. De kersen hebben een glanzende, bijna doorschijnende textuur met zichtbare waterdruppels. Onderaan rechts bevinden zich twee donkere, bijna zwarte kersen met minder glans. De compositie combineert scherpere kersen met vaagere vogels en achtergrond, waarbij de rode kersen een levendige contrasterende lijn vormen door het beeld. Donkere cirkels en onregelmatige vormen in de achtergrond suggereren een watervlekken-effect.",
-      "cyclus": 11391,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van vogels', 'lichte wazigheid in achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een compositie met ruimte voor interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011391_11454.webp"
-    },
-    {
-      "id": 11441,
-      "titel": "Tegels zonder verhaal",
-      "beschrijving": "Zes donkergrijze, rechthoekige tegels met afgeronde hoeken vormen een raster van twee kolommen en drie rijen, gescheiden door smalle, lichtgrijze lijnen. Elke tegel heeft een subtiele textuur met lichte variaties in tint, waarbij de randen donkerder zijn dan de middens. De achtergrond is een effen, lichtgrijze kleur met een lichte korreligheid. De compositie is strikt symmetrisch en de sfeer is neutraal en rustig.",
-      "cyclus": 11378,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011378_11441.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11511,
+      "cyclus": 11448,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
+      "bestand": "images/a011448_11511.webp"
+    },
     {
       "id": 11492,
       "cyclus": 11429,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'on consistente lettergroottes en -vormen', 'wazige randen rond sommige tekens']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie van tekst zonder duidelijke context of intentie.",
       "bestand": "images/a011381_11444.webp"
-    },
-    {
-      "id": 11443,
-      "cyclus": 11380,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met stenen en rimpels.",
-      "bestand": "images/a011380_11443.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11447,
-    "gemaakt": 11510,
-    "gekozen": 1770,
-    "afgekeurd": 1391,
-    "corpus": 58,
+    "cycli": 11452,
+    "gemaakt": 11514,
+    "gekozen": 1772,
+    "afgekeurd": 1392,
+    "corpus": 60,
     "notities": 449
   }
 }
