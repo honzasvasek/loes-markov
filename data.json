@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T13:00+02:00",
+  "bijgewerkt": "2026-08-20T13:15+02:00",
   "werk": [
+    {
+      "id": 11404,
+      "titel": "Waar het zand zacht blijft",
+      "beschrijving": "Zandduinen met scherpe, golvende patronen vullen het beeld, getrokken door wind en licht. Twee vogels vliegen in silhouet tegen een lichte hemel met enkele witte wolken. Een enkele, slanke plant steekt uit het zand, met een lange schaduw die over de duinruggen loopt. De kleuren zijn gedempt: zandbruin, beige en zachtgrijs, met donkere schaduwen die de textuur van het zand benadrukken. De compositie is rustig, met de duinen die diagonaal door het beeld lopen en de vogels die een gevoel van beweging toevoegen aan de stillte.",
+      "cyclus": 11341,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en niet typisch ansichtkaart-achtig.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011341_11404.webp"
+    },
+    {
+      "id": 11400,
+      "titel": "Vezels in het zand",
+      "beschrijving": "Drie verticale houten planken domineren het beeld, gescheiden door smalle witte ruimtes. Het hout is grijsgetint met zichtbare vezels, knoesten en lichte barsten. Achter en rond de planken strekt zich een zandig landschap uit met zachte duinen en verspreide, kleine groene plantjes met fijne blaadjes. Het zand heeft een lichtbeige kleur met subtiele schaduwen die de golvende structuur benadrukken. De achtergrond bestaat uit een egale, lichte hemel zonder duidelijke overgang naar het zand. De compositie is symmetrisch, met de planken centraal geplaatst en de plantjes strategisch verspreid aan weerskanten.",
+      "cyclus": 11337,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011337_11400.webp"
+    },
     {
       "id": 11383,
       "titel": "Prikkels in de golven",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011293_11356.webp"
-    },
-    {
-      "id": 11350,
-      "titel": "Voor de drempel van het onbekende",
-      "beschrijving": "Een knielende figuur met donker haar en donkere kleding rust met zijn voorhoofd tegen een houten deur met verticale panelen en een donkere metalen kruk. De deur heeft een lichte houtstructuur met zichtbare korrel en kleine onregelmatigheden, omgeven door een donkergrijze muur met subtiele textuurvariaties. De vloer is lichtgrijs met lichte vlekken en een houten plint die de muur van de vloer scheidt. De schaduw van de figuur valt op de deur en de vloer, terwijl het licht van rechtsboven komt, wat de textuur van het hout en de kleding benadrukt. De compositie is verticaal gericht, met de deur als centraal element en de figuur links ervan, wat een gevoel van stilte en afgeslotenheid uitstraalt.",
-      "cyclus": 11287,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de schaduwval van de knieën ten opzichte van de vloer', 'Subtiele halo rond de deurkozijn waar het hout de muur raakt']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een intieme, niet-iconische compositie met een focus op stilte en afwezigheid, geen typisch ansichtkaartmotief",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011287_11350.webp"
-    },
-    {
-      "id": 11346,
-      "titel": "Donkere druppels op hout",
-      "beschrijving": "Twee naakte benen hangen over de rand van een houten bank, met de knieën gebogen en de voeten op de grond. De spieren zijn gedetailleerd weergegeven met fijne lijnen, en de tenen liggen gespreid. Onder de bank bevindt zich een houten vloer met kleine vlekken en losse houtvezels. Rechtsboven is een deel van een raam zichtbaar met een gele lijst, en aan de rechterkant loopt een verticale houten lambrisering omhoog. De achtergrond bestaat uit horizontale houten planken met donkere schaduwen tussen de spleten. Donkere vloeistof druipt van de rand van de bank en vormt kleine plassen op de vloer.",
-      "cyclus": 11283,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de houten planken', 'lichte vervorming van de tenen op de rechtervoet']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de focus op de benen en de leegte eromheen, geen typisch iconisch onderwerp.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011283_11346.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11407,
+      "cyclus": 11344,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit is geen toeristisch onderwerp en heeft geen decoratief perfect licht, maar een abstracte, schematische structuur.",
+      "bestand": "images/a011344_11407.webp"
+    },
     {
       "id": 11347,
       "cyclus": 11284,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een iconische schuur met een uitnodigende, bijna ansichtkaartschone compositie en decoratief licht, zonder een uniek standpunt of onverwachte compositorische keuzes.",
       "bestand": "images/a011231_11294.webp"
-    },
-    {
-      "id": 11281,
-      "cyclus": 11218,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, onafgewerkte sfeer met sporen van vernietiging en verwaarlozing.",
-      "bestand": "images/a011218_11281.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11341,
-    "gemaakt": 11403,
-    "gekozen": 1752,
-    "afgekeurd": 1385,
+    "cycli": 11347,
+    "gemaakt": 11410,
+    "gekozen": 1754,
+    "afgekeurd": 1386,
     "corpus": 59,
     "notities": 449
   }
