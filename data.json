@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T06:15+02:00",
+  "bijgewerkt": "2026-08-20T06:30+02:00",
   "werk": [
+    {
+      "id": 11204,
+      "titel": "Rode horizon, donkere gestalten",
+      "beschrijving": "Een witte ruimte met een brede, onregelmatige rode vorm op de achterwand, die als een golvende horizon door het midden loopt. Vijf onscherpe figuren in donkere kleding bewegen zich door de ruimte: drie lopen met hun rug naar de kijker, één staat met zijn gezicht naar voren en één zit op een donkere houten stoel aan de rechterkant. De vloer is lichtbruin en glanst licht, alsof het nat is. Boven aan de muur loopt een dunne, donkere takachtige vorm parallel aan de rode golf. De sfeer is stil en iets afwezig, door de onscherpte en de lege ruimte rond de figuren.",
+      "cyclus": 11141,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de takken bovenaan (onlogische vertakkingen)', 'Wazige overgang tussen rode vorm en witte achtergrond (smeuiig)', 'Geen duidelijke handschaduwen onder de figuren']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust ongemakkelijk en niet-bevestigend.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011141_11204.webp"
+    },
+    {
+      "id": 11202,
+      "titel": "Rode beloftes op papier",
+      "beschrijving": "Een wit vel papier met een subtiele textuur, doorsneden door een schuine schaduw die van linksboven naar rechtsonder loopt. Een donkere, takvormige structuur loopt diagonaal door het midden, met takjes die zich uitstrekken naar rode cirkels van verschillende groottes. Sommige cirkels zitten direct aan de takken, andere zweven vrij in de witte ruimte. Een klein donker puntje zit op een takje, dicht bij de bovenkant. De rode cirkels hebben een licht korrelige textuur en de schaduwen op het papier geven diepte aan de compositie.",
+      "cyclus": 11139,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met abstracte vormen en een minimalistische stijl.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011139_11202.webp"
+    },
     {
       "id": 11199,
       "titel": "Sterren boven de stoel",
@@ -104,32 +130,6 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w011084_11147.webp"
-    },
-    {
-      "id": 11133,
-      "titel": "Tarwe achter glas",
-      "beschrijving": "Twee witte ramen met vier ruiten elk, verticaal geplaatst op een donkergrijze muur. Het bovenste raam toont goudbruine tarwearen en slanke grassprietjes achter het glas, het onderste raam heeft alleen vaag zichtbare, lichte krassen op de ruiten. Een donkere, klassieke buitenlamp hangt linksboven het bovenste raam. De muur heeft een ruwe textuur en een horizontale lijn scheidt de twee ramen van elkaar.",
-      "cyclus": 11070,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, rustige dynamiek door de asymmetrie en de subtiele details in de ramen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011070_11133.webp"
-    },
-    {
-      "id": 11132,
-      "titel": "Gordijnen die luisteren",
-      "beschrijving": "Donkergrijze muur met drie witte ramen, elk met vier ruiten en lichte gordijnen achter het glas. Twee zwarte straatlantaarns staan schuin tussen de ramen, met piramidevormige kapjes en slanke stelen die naar beneden verdwijnen. De muur heeft een ruwe textuur met subtiele schaduwvariaties, en de ramen werpen zachte schaduwen op het murenwerk. Kleine bruine schroeven zijn zichtbaar in de hoeken van de ramen. De compositie is verticaal gericht, met de lantaarns als centrale as tussen de ramen.",
-      "cyclus": 11069,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vensterproporties (linker venster iets smaller dan rechter)', 'lichte wazigheid in textuur van donkere geveltegels']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands motief, maar een neutrale gevel zonder decoratief licht of typisch ansichtkaart-compositie",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w011069_11132.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11149,
-    "gemaakt": 11212,
-    "gekozen": 1724,
+    "cycli": 11157,
+    "gemaakt": 11219,
+    "gekozen": 1726,
     "afgekeurd": 1382,
-    "corpus": 62,
+    "corpus": 64,
     "notities": 445
   }
 }
