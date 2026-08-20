@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T00:15+02:00",
+  "bijgewerkt": "2026-08-21T00:30+02:00",
   "werk": [
+    {
+      "id": 11698,
+      "titel": "Papier dat de horizon scheurt",
+      "beschrijving": "Droog gras in goudbruine en beige tinten vult de voorgrond, met verspreide dode bladeren en takjes. Achter het gras lopen twee parallelle rijen slanke, bladloze bomen met donkergrijze stammen en fijn vertakte takken, die een verdwijnende horizon vormen. De achtergrond is een vaag, grijsblauw landschap met een lichte mist. Twee horizontale, gescheurde witte papierstrepen doorsnijden het beeld, waarbij de bovenste streep de bomen deels bedekt en de onderste de overgang tussen gras en achtergrond markeert. De sfeer is stil en verlaten, met een koel kleurenpalet dat de leegte benadrukt.",
+      "cyclus": 11635,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in boomstammen (links/rechts) en lichte wazigheid in achtergrond",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap, maar een gefragmenteerd beeld met bewuste compositorische keuzes (gescheurde randen, laag-op-laag structuur)",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011635_11698.webp"
+    },
+    {
+      "id": 11696,
+      "titel": "Waar blijft de weg?",
+      "beschrijving": "Grijs-witte mist omhult een verlaten landschap waar donkere, slanke bomen met uitgespreide takken uit een onrustig ondergroei van donkerblauwe en bruine vormen steken. Geelbruine en okerkleurige strepen en vlekken suggereren dood blad of droog gras, verspreid over een ongelijkmatig oppervlak dat overgaat in een vaag, lichtgrijze horizon. Donkere, bijna zwarte strepen en stippen imiteren dode takken of zaadkoppen die zich tegen de nevel aftekenen, terwijl subtiele blauwe en paarse tinten in de achtergrond een koude, natte sfeer oproepen. De compositie is verticaal gericht, met de bomen die de hoogte domineren en het oog naar boven leiden, terwijl de voorgrond een chaos van korte, krachtige penseelstrepen vormt die textuur en beweging suggereren zonder een duidelijke richting te volgen.",
+      "cyclus": 11633,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, onbeheerste compositie zonder duidelijke thematische focus.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011633_11696.webp"
+    },
     {
       "id": 11685,
       "titel": "Goud in de golven",
@@ -104,32 +130,6 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w011576_11639.webp"
-    },
-    {
-      "id": 11634,
-      "titel": "Donkere stralen door crèmekleurige ramen",
-      "beschrijving": "Een spinnenweb domineert het midden, getekend met donkergroene en zwarte lijnen die stralenvormig uitwaaieren van een donker centrum. Links en rechts flankeren crèmekleurige gevels met rechthoekige ramen het web, getekend in lichte grijstinten met subtiele schaduwen. Onderin steigen donkergroene, sprietvormige vormen op, die lijken op gras of riet, met scherpe, onregelmatige randen en kleine donkere knobbels. De achtergrond toont vaag een gebouw met ramen en een dak, in zachte groen- en grijstinten, alsof het door het web en de vegetatie door schijnt. De compositie combineert geometrische precisie in het web met organische, willekeurige vormen in de vegetatie, tegen een achtergrond van architectonische structuren. Kleuren zijn voornamelijk groen, grijs en crèmekleurig, met donkere accenten in het web en de vegetatie.",
-      "cyclus": 11571,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van ramen aan linker- en rechterkant', 'lichte wazigheid in achtergrondgebouwen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is juist ongemakkelijk schuin en onbalanserd.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011571_11634.webp"
-    },
-    {
-      "id": 11615,
-      "titel": "De val van de kers",
-      "beschrijving": "Een witte, gelakte houten oppervlakte met subtiele verticale korrelstructuren vormt de achtergrond. Daartegen contrasteert een donker, amorf vlekje met een onregelmatige, bijna druppelvormige contour. Het vlekje heeft een matte, korrelige textuur met fijne krassen en lijkt van een zware, viskeuze stof te bestaan die langzaam naar beneden loopt in een smalle, glanzende druppel. Onder deze druppel zweeft een glanzende, dieprode kers met een groene steel, scherp gedetailleerd en met een reflectie van licht op de schil. De kers staat centraal onder de druppel, alsof deze net zou vallen. De compositie is verticaal georiënteerd, met een sterke focus op de relatie tussen de donkere vloeistof en de levendige kers. De sfeer is statisch maar suggestief, met een spanning tussen het stilstaande en het bewegende.",
-      "cyclus": 11552,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en heeft een eigen standpunt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011552_11615.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11639,
-    "gemaakt": 11701,
-    "gekozen": 1798,
+    "cycli": 11647,
+    "gemaakt": 11709,
+    "gekozen": 1800,
     "afgekeurd": 1401,
     "corpus": 59,
     "notities": 452
