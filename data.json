@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-20T19:30+02:00",
+  "bijgewerkt": "2026-08-20T19:45+02:00",
   "werk": [
+    {
+      "id": 11569,
+      "titel": "Gras dat fluistert met de wind",
+      "beschrijving": "Lang, spits gras in blauwgroene en groene tinten vult het beeld, met scherpe, verticale stengels die zich vermengen met zachte, golvende bewegingen. Gele bloemetjes, vaag en verspreid, prikkelen door het groen, terwijl de achtergrond overgaat in een onscherp mozaïek van groen en geel. Licht valt schuin, waardoor sommige grasspelden glanzen en andere in schaduw verdwijnen. De compositie straalt een rustige, bijna dromerige sfeer uit, met een subtiele dynamiek door de wisselwerking van scherpe en vloeiende lijnen.",
+      "cyclus": 11506,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte wazigheid in achtergrond is stylistisch, geen technisch gebrek",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op subtiele beweging en textuur, niet op een bevestigend landschap",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011506_11569.webp"
+    },
+    {
+      "id": 11568,
+      "titel": "Gras dat de heuvel vasthoudt",
+      "beschrijving": "Groene heuvels dalen in golven naar een voorgrond van lang, slank gras, geschilderd met duidelijke, verticale streken die diepte suggereren. Donkergroene en blauwgroene tinten wisselen af met lichtgroene en gele accenten, terwijl kleine, donkere vlekken en verflijntjes door het beeld lopen. Een smalle, donkere vorm, bijna zwart, snijdt diagonaal door het midden, omgeven door zachte, golvende penseelstreken die beweging imiteren. Kleuren vloeien in elkaar over, met subtiele overgangen tussen heldere en gedempte groentinten, wat een gevoel van nat, zompig landschap oproept. De compositie is dynamisch, met de heuvels die de blik naar beneden leiden, waar het gras de scène verankert met zijn scherpere, meer gedetailleerde vormen.",
+      "cyclus": 11505,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, contemplatieve compositie zonder duidelijke ansichtkaart-qualiteiten.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011505_11568.webp"
+    },
+    {
+      "id": 11567,
+      "titel": "Sporen die vervagen in groen",
+      "beschrijving": "Groene heuvels met zachte golven vullen het beeld, doorsneden door donkere schaduwen die diepte suggereren. In de voorgrond rijzen spitse grassprietjes op uit een textuur van fijne, wisselende groentinten, doorspekt met kleine, donkere en kleurige voorwerpen die als steentjes of zaadjes door het landschap verspreid lijken. Een smalle, donkere spleet loopt diagonaal door het midden, omgeven door lichtere, bijna gele gebieden die overgaan in de heuvels. Rechtsboven bevindt zich een onregelmatige, bruine vorm met een donkere holte, die een grot of een verlatenholte doet denken. De achtergrond wordt gevormd door een effen, lichtblauwe hemel zonder wolken, die het landschap omhult met een koele, rustige sfeer. De compositie straalt een gevoel van verlatenheid uit, met sporen van leven die zachtjes vervagen in de omgeving.",
+      "cyclus": 11504,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistisch landschap met ongemakkelijke details en een onrustige compositie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011504_11567.webp"
+    },
     {
       "id": 11550,
       "titel": "Bolletjes zonder bomen",
@@ -91,45 +130,6 @@
       "curriculum_score": 4.0,
       "gekozen": 1,
       "bestand": "images/w011465_11528.webp"
-    },
-    {
-      "id": 11521,
-      "titel": "Rood dat blijft hangen",
-      "beschrijving": "Drie glanzende, dieprode kersen met groene stelen vormen een driehoekige compositie tegen een grijswitte, wazige achtergrond met donkere, rokerige patronen. De kersen hebben kleine waterdruppeltjes en werpen zachte schaduwen op het oppervlak. Boven de kersen zweven twee vogels met gespreide vleugels, donkergrijs met roodbruine borsten en zwarte staarten, alsof ze net willen landen of wegwillen. De vogels kijken naar elkaar, met hun snavels op dezelfde hoogte, en hun vleugels tonen fijne details van veren. De stelen van de kersen lopen samen in een bruine, droge knoop aan de bovenkant.",
-      "cyclus": 11458,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vleugelspanwijdte van vogels', 'lichte wazigheid in achtergrondtextuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie heeft een ongemakkelijke, denkbeeldige balans.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011458_11521.webp"
-    },
-    {
-      "id": 11518,
-      "titel": "Zes panelen, één sleutelgat",
-      "beschrijving": "Een houten deur met zes rechthoekige panelen, omlijst door twee verticale zuilen met klassieke kapitelen en een horizontale lijst bovenaan. Het hout heeft een warme, bruine tint met zichtbare nerf en knoesten. Een metalen deurkruk en slotplaquette bevinden zich aan de linkerkant van de deur. De zuilen hebben een gladde, cilindrische vorm met een lichte verbreding bij de basis en bovenkant. De compositie is symmetrisch en de deur vult het grootste deel van het beeld, met een witte achtergrond die de randen omlijst.",
-      "cyclus": 11455,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De deur is een alledaags voorwerp zonder iconische of toeristische connotaties, en de compositie is neutraal zonder decoratief perfect licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011455_11518.webp"
-    },
-    {
-      "id": 11505,
-      "titel": "Prikkels in het lichtgrijs",
-      "beschrijving": "Donkerblauwe grasspieren en een droge bloemstengel met prikkels steken schuin omhoog tegen een egale, lichtgrijze achtergrond. De spieren zijn lang en smal, met subtiele blauwe tinten die overgaan in donkere schaduwen. De bloemstengel, iets hoger geplaatst, draagt meerdere kleine, stekelige bloemhoofdjes die als silhouetten afsteken. Een enkele, kleinere bloem hangt lager, bijna horizontaal. De compositie is verticaal gericht, met de elementen die zich uitstrekken van de onderkant naar het midden van het beeld, waarbij de achtergrond geleidelijk vervaagt naar een zachte, onscherpe grijshuid. De sfeer is stil en verlaten, met een focus op de fijne details van de planten tegen de lege ruimte.",
-      "cyclus": 11442,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en niet typisch ansichtkaart-materiaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011442_11505.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11506,
-    "gemaakt": 11568,
-    "gekozen": 1781,
+    "cycli": 11514,
+    "gemaakt": 11576,
+    "gekozen": 1784,
     "afgekeurd": 1396,
     "corpus": 59,
     "notities": 449
