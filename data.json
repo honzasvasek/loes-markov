@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T02:45+02:00",
+  "bijgewerkt": "2026-08-20T03:00+02:00",
   "werk": [
+    {
+      "id": 11120,
+      "titel": "Golven in het hout",
+      "beschrijving": "Tegen een helderwitte achtergrond liggen acht donkerbruine, ruwe houten staven horizontaal, elk met een onregelmatige, golvende inleg van glanzend zwart materiaal. De houtstructuur toont diepe barsten en korrelige textuur, terwijl de zwarte inleg een soepele, bijna vloeibare vorm heeft met subtiele reflecties van licht. De staven zijn niet identiek: de bovenste zijn korter en de onderste langer, met kleine variaties in de golven en de overgang tussen hout en zwart materiaal. Sommige inlegdelen hebben lichte onregelmatigheden, zoals kleine bulten of schuine randen.",
+      "cyclus": 11057,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte, herhalende compositie met een focus op textuur en vorm.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011057_11120.webp"
+    },
     {
       "id": 11114,
       "titel": "Het twaalfde raam kijkt mee",
@@ -117,19 +130,6 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w011000_11063.webp"
-    },
-    {
-      "id": 11048,
-      "titel": "Spitse dromen achter de muur",
-      "beschrijving": "Twee doeken vullen het beeld, gescheiden door een smalle witte strook. Het bovenste doek toont een rozeachtige muur met drie donkere, boogvormige openingen, waarbij het middelste deel hoger is en een puntige spitse top heeft. Achter de muur rijzen donkere silhouetten van bomen en tropische bladeren op tegen een paarsgekleurde hemel. Het onderste doek bestaat uit golvende, zachte lijnen in verschillende roze- en paastinten, die een abstract landschap suggereren zonder duidelijke vormen of details. De overgang tussen de twee doeken is scherp, maar de kleuren en sfeer lopen op elkaar voort.",
-      "cyclus": 10985,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de bogen in het bovenste deel', 'Subtiele halo rond de spits van de toren tegen de achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de combinatie van architectonische en landschappelijke elementen, geen typisch iconisch onderwerp",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010985_11048.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11065,
-    "gemaakt": 11127,
-    "gekozen": 1713,
+    "cycli": 11072,
+    "gemaakt": 11134,
+    "gekozen": 1714,
     "afgekeurd": 1380,
     "corpus": 64,
     "notities": 441
