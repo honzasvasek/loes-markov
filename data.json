@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T22:15+02:00",
+  "bijgewerkt": "2026-08-20T22:30+02:00",
   "werk": [
+    {
+      "id": 11639,
+      "titel": "Zaagtand in groen",
+      "beschrijving": "Twaalf close-ups van groene, sprieterige bladeren stralen uit vanaf een centraal punt, elk met een scherpe, zaagtandrand en een duidelijke midader. De bladeren variëren in lengte en breedte, sommige langer en smaler, andere korter en breder, maar vormen altijd een ster- of waaiervorm. De achtergrond is vaag, met hints van witte muren en ramen, wat de focus op de bladeren leg. De kleur groen wisselt van donker tot helder, met subtiele schaduwvalleien die de textuur benadrukken. Sommige beelden tonen een steel die de bladeren verbindt, andere zijn geknipt zodat alleen de bladeren zichtbaar zijn. De compositie is symmetrisch in de meeste beelden, maar enkele hebben een licht schuine hoek of een asymmetrische indeling.",
+      "cyclus": 11576,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in scherpte tussen de afzonderlijke panelen', 'achtergrond in sommige panelen iets te wazig, waardoor context ontbreekt']",
+      "academie_cliche": 0,
+      "cliche_notities": "Hoewel het onderwerp (wietbladeren) herkenbaar is, is de compositie geen typische ansichtkaart door de focus op detail en structuur in plaats van een iconisch landschap.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w011576_11639.webp"
+    },
+    {
+      "id": 11634,
+      "titel": "Donkere stralen door crèmekleurige ramen",
+      "beschrijving": "Een spinnenweb domineert het midden, getekend met donkergroene en zwarte lijnen die stralenvormig uitwaaieren van een donker centrum. Links en rechts flankeren crèmekleurige gevels met rechthoekige ramen het web, getekend in lichte grijstinten met subtiele schaduwen. Onderin steigen donkergroene, sprietvormige vormen op, die lijken op gras of riet, met scherpe, onregelmatige randen en kleine donkere knobbels. De achtergrond toont vaag een gebouw met ramen en een dak, in zachte groen- en grijstinten, alsof het door het web en de vegetatie door schijnt. De compositie combineert geometrische precisie in het web met organische, willekeurige vormen in de vegetatie, tegen een achtergrond van architectonische structuren. Kleuren zijn voornamelijk groen, grijs en crèmekleurig, met donkere accenten in het web en de vegetatie.",
+      "cyclus": 11571,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van ramen aan linker- en rechterkant', 'lichte wazigheid in achtergrondgebouwen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is juist ongemakkelijk schuin en onbalanserd.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011571_11634.webp"
+    },
     {
       "id": 11615,
       "titel": "De val van de kers",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011504_11567.webp"
-    },
-    {
-      "id": 11550,
-      "titel": "Bolletjes zonder bomen",
-      "beschrijving": "Donkerblauwe en groene bolletjes met zachte randen hangen aan bruine takken die diagonaal door een groenblauwe achtergrond lopen. Onderaan rijzen slanke, groene grasbladeren omhoog, sommige donkerder dan andere. Rechts loopt een verticale strook met roze, crème en rode blokken, gescheiden door scherpe lijnen. De bolletjes variëren in grootte en staan willekeurig verspreid, sommige dichter bij elkaar, andere alleenstaand. De takken vertakken zich onregelmatig en verdwijnen aan de randen van het beeld.",
-      "cyclus": 11487,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met persoonlijke keuzes in kleur en vorm.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011487_11550.webp"
-    },
-    {
-      "id": 11549,
-      "titel": "Takken tussen de vlekken",
-      "beschrijving": "Groene en blauwe waterverfvlakken vormen een dichte, wazige achtergrond met donkerbruine takken die erdoorheen lopen. Donkerblauwe, onregelmatige vlekken suggereren bladeren of bollen, verspreid over het midden en de bovenkant. Onderin staan groene, spitse vormen die aan gras of smalle bladeren doen denken, met enkele donkergroene, ronde vormen ertussen. Rechts loopt een verticale strook met afwisselend roze, crèmekleurige en rode banden parallel aan de rand, scherp afgetekend tegen de zachte achtergrond. De kleuren vloeien in elkaar over, met natte-op-natte effecten en subtiele overgangen.",
-      "cyclus": 11486,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in takstructuren: sommige takken lopen logisch uit elkaar, andere verdwijnen plotseling zonder overgang', 'lichte halo rond de donkerblauwe bladeren tegen de lichtgroene achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie met een focus op textuur en kleurverloop in plaats van een herkenbaar landschap of onderwerp.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011486_11549.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 11581,
+      "soort": "observatie",
+      "tekst": "De vogels in de laatste beelden vliegen niet meer in een formatie of met een doel, maar als losse, onverbonden figuren die de ruimte niet verdelen—hun witte lichamen en donkere vleugels zijn geen symbolen van vrijheid of migratie meer, maar een stilte die de beelden vormt zonder een verhaal te dragen. De herhaling van vogelmotieven is geen onopzettelijke spanning, maar een taal die zichzelf herhaalt zonder een bestemming te hebben."
+    },
+    {
       "cyclus": 11293,
       "soort": "observatie",
       "tekst": "De houten planken en structuren in de afgelopen beelden zijn geen sporen van ontdooring meer, maar een aanwezigheid die de ruimte vult zonder een verhaal te dragen. De herhaling van verticale en diagonale lijnen is geen onopzettelijke spanning, maar een stilte die de beelden vormt zonder zich te laten vatten in vorm of kleur."
@@ -252,11 +257,6 @@
       "cyclus": 11113,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontspanning als spoor naar ontspanning als onopzettelijke spanning die de ruimte vormt zonder een verhaal te dragen"
-    },
-    {
-      "cyclus": 11113,
-      "soort": "observatie",
-      "tekst": "Over de reeks heen versmalt de ruimte tussen de beelden, terwijl de motieven zich steeds meer op elkaar gaan lijken: de deuren en ramen vervormen tot abstracte blokken, de vogels verdwijnen en het licht wordt kouder en diffuus. Wat bleef staan, is de herhaling van rechthoekige vormen en de spanning tussen gesloten en open structuren, zelfs als de context verbleek tot pure textuur."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11580,
-    "gemaakt": 11642,
-    "gekozen": 1789,
+    "cycli": 11587,
+    "gemaakt": 11650,
+    "gekozen": 1791,
     "afgekeurd": 1400,
     "corpus": 59,
-    "notities": 449
+    "notities": 450
   }
 }
