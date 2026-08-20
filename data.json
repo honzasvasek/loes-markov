@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T05:15+02:00",
+  "bijgewerkt": "2026-08-20T05:30+02:00",
   "werk": [
+    {
+      "id": 11185,
+      "titel": "Roze straling door dood hout",
+      "beschrijving": "Donkere, schuine takken vormen een onregelmatig kruis in het midden, met scherpe uiteinden die naar de randen wijzen. De achtergrond is een egaal roze vlak met subtiele concentrische lijnen die vanuit het midden stralen. Onder de takken ligt een grijzig, textuurloos vlak dat overgaat in een donkere horizon met vaag omschreven vormen aan de linkerzijde. Dunne, willekeurig geplaatste lijnen suggereren droog gras of riet rond de basis van de takken. De takken hebben kleine, onregelmatige uitsteeksels en lijken door elkaar te liggen, zonder duidelijke hiërarchie.",
+      "cyclus": 11122,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond takken tegen roze achtergrond', 'lichte inconsistentie in textuur van achtergrond (concentrische cirkels)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011122_11185.webp"
+    },
     {
       "id": 11164,
       "titel": "Waar begint de buitenlucht?",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011051_11114.webp"
-    },
-    {
-      "id": 11099,
-      "titel": "Het gat dat luistert",
-      "beschrijving": "Een gele houten deur met reliëfpanelen en een donkere metalen greep staat links in een roodbruine houten muur met zichtbare nerf en knoesten. Rechts van de deur bevindt zich een onregelmatig gevormd wit gat in het hout, met zachte, golvende randen. Onder de muur loopt een band van onregelmatige, beige en grijze stenen met donkere voegen. Voor de deur liggen drie betonnen treden met verbleekte, vlekkenrijke oppervlakken en donkere hoeken. Op de grond voor de treden liggen verspreide gele en bruine bladeren en kleine donkere vlekken, tegen een lichtroze, textuurloze ondergrond met vaag zichtbare natte plekken.",
-      "cyclus": 11036,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houttextuur bij rand van witte vorm', 'lichte wazigheid in schaduw onder trappen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, denkbeeldige sfeer.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011036_11099.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11120,
-    "gemaakt": 11182,
-    "gekozen": 1721,
+    "cycli": 11127,
+    "gemaakt": 11190,
+    "gekozen": 1722,
     "afgekeurd": 1381,
     "corpus": 63,
     "notities": 445
