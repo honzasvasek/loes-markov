@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T15:00+02:00",
+  "bijgewerkt": "2026-08-20T15:15+02:00",
   "werk": [
+    {
+      "id": 11441,
+      "titel": "Tegels zonder verhaal",
+      "beschrijving": "Zes donkergrijze, rechthoekige tegels met afgeronde hoeken vormen een raster van twee kolommen en drie rijen, gescheiden door smalle, lichtgrijze lijnen. Elke tegel heeft een subtiele textuur met lichte variaties in tint, waarbij de randen donkerder zijn dan de middens. De achtergrond is een effen, lichtgrijze kleur met een lichte korreligheid. De compositie is strikt symmetrisch en de sfeer is neutraal en rustig.",
+      "cyclus": 11378,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011378_11441.webp"
+    },
+    {
+      "id": 11440,
+      "titel": "Korrelige hoeken van een vergeten muur",
+      "beschrijving": "Vier rechthoekige, donkergrijze panelen vullen het beeld, gescheiden door smalle, rechte lijnen die een kruis vormen. Elk paneel heeft een korrelige textuur met subtiele variaties in grijstinten, alsof het oppervlak licht verweerd is. Aan de randen van het geheel lopen onregelmatige, lichte vlekken en slijtage, met hier en daar een dunne, witte krassporen die diagonaal of horizontaal door de panelen lopen. In het rechteronderste paneel bevinden zich een paar kleine, donkere vlekken, verspreid over het oppervlak. De algehele sfeer is rustig en monochroom, met een focus op de textuur en de subtiele onvolkomenheden van het materiaal.",
+      "cyclus": 11377,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, minimalistische compositie zonder duidelijke thematiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011377_11440.webp"
+    },
     {
       "id": 11434,
       "titel": "Roodbruin water tussen donkere lijnen",
@@ -104,32 +130,6 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w011320_11383.webp"
-    },
-    {
-      "id": 11381,
-      "titel": "Kersen om te knuffelen",
-      "beschrijving": "Een houten deur met reliëfpanelen en een gouden slot staat centraal in een houten muur met verticale lamellen. Rode kersen met groene stelen en bladeren hangen verspreid aan weerskanten van de deur, sommige paarsgewijs, andere alleen. Het hout heeft een lichte, natuurlijke textuur met zichtbare vezels en knoesten. De kersen zijn glanzend en vol, met subtiele schaduwen die diepte geven. De compositie is symmetrisch, met de deur als as en de kersen die een frame vormen. De sfeer is rustig en natuurlijk, met een contrast tussen het warme hout en de levendige rode kersen.",
-      "cyclus": 11318,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of bevestigend; de kersen en de deur vormen een onverklaarde, bijna surrealistische combinatie zonder duidelijke symboliek of toeristische uitstraling.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011318_11381.webp"
-    },
-    {
-      "id": 11373,
-      "titel": "Veerkrachtig hout",
-      "beschrijving": "Drie houten latten liggen schuin over een wit oppervlak. De bovenste lat heeft een golvende uitsnijding en een kleine metalen splitser. De middelste lat is ongerekt, met een enkele splitser en een klein gat. De onderste lat is voor een groot deel verbrand: het hout is zwart, verkoold en bros, met losse stukken en as die over de lat en het witte oppervlak verspreid liggen. De houtstructuur is duidelijk zichtbaar op de onbeschadigde delen, met fijne, parallelle vezels. De overgang van gezond naar verbrand hout is scherp en onregelmatig.",
-      "cyclus": 11310,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de contrasten tussen hout en verbrande delen, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011310_11373.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11384,
-    "gemaakt": 11446,
-    "gekozen": 1759,
+    "cycli": 11392,
+    "gemaakt": 11454,
+    "gekozen": 1761,
     "afgekeurd": 1390,
     "corpus": 59,
     "notities": 449
