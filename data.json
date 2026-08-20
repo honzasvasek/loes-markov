@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T05:45+02:00",
+  "bijgewerkt": "2026-08-20T06:00+02:00",
   "werk": [
+    {
+      "id": 11199,
+      "titel": "Sterren boven de stoel",
+      "beschrijving": "Een donkere, vertakte boomstam met takken die zich uitstrekken naar een lichte, getekende achtergrond met subtiele concentrische lijnen. Drie kleine, sterachtige vormen zweven in de ruimte boven de takken. Onder de boom staat een stoel met een gestileerde, geometrische vorm, getekend in grijstinten met fijne lijnen die de textuur en schaduwen weergeven. De compositie combineert organische en gestileerde elementen in een rustige, bijna surrealistische sfeer.",
+      "cyclus": 11136,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en heeft een eigen stemming.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011136_11199.webp"
+    },
+    {
+      "id": 11192,
+      "titel": "Papier snijdt door roze dromen",
+      "beschrijving": "Gestoken papier vormt een scherpe, onregelmatige lijn die diagonaal door het beeld loopt, met een zachte, vezelachtige rand. Onder het papier ligt een roze vlak, waar rode cirkels verspreid liggen, variërend in grootte. Rechtsboven bevindt zich een groot, lichtroze cirkelvormig element met subtiele concentrische lijnen. De achtergrond bestaat uit grijstinten, met een gladde, effen textuur. De compositie straalt een rustige, bijna minimalistische sfeer uit, met een contrast tussen de harde papierlijnen en de zachte kleuren en vormen.",
+      "cyclus": 11129,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met bewuste keuze voor leegte en spanning.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011129_11192.webp"
+    },
     {
       "id": 11185,
       "titel": "Roze straling door dood hout",
@@ -104,32 +130,6 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w011069_11132.webp"
-    },
-    {
-      "id": 11120,
-      "titel": "Golven in het hout",
-      "beschrijving": "Tegen een helderwitte achtergrond liggen acht donkerbruine, ruwe houten staven horizontaal, elk met een onregelmatige, golvende inleg van glanzend zwart materiaal. De houtstructuur toont diepe barsten en korrelige textuur, terwijl de zwarte inleg een soepele, bijna vloeibare vorm heeft met subtiele reflecties van licht. De staven zijn niet identiek: de bovenste zijn korter en de onderste langer, met kleine variaties in de golven en de overgang tussen hout en zwart materiaal. Sommige inlegdelen hebben lichte onregelmatigheden, zoals kleine bulten of schuine randen.",
-      "cyclus": 11057,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte, herhalende compositie met een focus op textuur en vorm.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011057_11120.webp"
-    },
-    {
-      "id": 11114,
-      "titel": "Het twaalfde raam kijkt mee",
-      "beschrijving": "Twaalf ramen vormen een raster op een diepblauwe gevel, waarbij elf ramen een witte lijst hebben en één raam in het midden van de tweede rij een bruine houten lijst. Alle ramen hebben een identieke indeling met vier ruitvormige ramen, gescheiden door witte houten mullions. De ramen zijn symmetrisch geplaatst, met gelijke afstanden tussen elkaar en de randen van de gevel. Het donkere glas reflecteert weinig licht, waardoor de binnenruimte onzichtbaar blijft. De blauwe gevel heeft een egale textuur zonder zichtbare slijtage of details.",
-      "cyclus": 11051,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een ongemakkelijke, bijna onpersoonlijke structuur die niet aan een toeristisch cliché voldoet.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011051_11114.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11134,
-    "gemaakt": 11196,
-    "gekozen": 1722,
+    "cycli": 11142,
+    "gemaakt": 11204,
+    "gekozen": 1724,
     "afgekeurd": 1382,
     "corpus": 63,
     "notities": 445
