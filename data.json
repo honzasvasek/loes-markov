@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T08:30+02:00",
+  "bijgewerkt": "2026-08-20T08:45+02:00",
   "werk": [
+    {
+      "id": 11277,
+      "titel": "Goud op de drempel",
+      "beschrijving": "Een groene houten deur staat op een kier, waardoor een gouden lichtstraal een smalle, schuine band over de bruine vloer werpt. Achter de deur is een tweede, gesloten deur zichtbaar, eveneens van hout, met een textuur die aan verweerd goud doet denken. De muren rondom zijn groen geschilderd met donkergroene lijsten die de deuren omlijsten. Twee bruine rechthoekige panelen flankeren het beeld aan weerskanten, evenwijdig aan de randen. De compositie is strikt symmetrisch, met de open deur als centraal punt dat de blik trekt naar het gouden licht en de tweede deur. De sfeer is rustig en iets mysterieus, door de contrasten tussen de koele groene tinten en de warme gouden en bruine kleuren.",
+      "cyclus": 11214,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de spleet en de gouden deur, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011214_11277.webp"
+    },
     {
       "id": 11271,
       "titel": "Onder de golf door",
@@ -117,22 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011139_11202.webp"
-    },
-    {
-      "id": 11199,
-      "titel": "Sterren boven de stoel",
-      "beschrijving": "Een donkere, vertakte boomstam met takken die zich uitstrekken naar een lichte, getekende achtergrond met subtiele concentrische lijnen. Drie kleine, sterachtige vormen zweven in de ruimte boven de takken. Onder de boom staat een stoel met een gestileerde, geometrische vorm, getekend in grijstinten met fijne lijnen die de textuur en schaduwen weergeven. De compositie combineert organische en gestileerde elementen in een rustige, bijna surrealistische sfeer.",
-      "cyclus": 11136,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en heeft een eigen stemming.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011136_11199.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11281,
+      "cyclus": 11218,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, onafgewerkte sfeer met sporen van vernietiging en verwaarlozing.",
+      "bestand": "images/a011218_11281.webp"
+    },
     {
       "id": 11195,
       "cyclus": 11132,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna verontrustende compositie met sporen van verwaarlozing en ontbinding.",
       "bestand": "images/a011073_11136.webp"
-    },
-    {
-      "id": 11127,
-      "cyclus": 11064,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna onafgewerkte compositie met onverklaarde tekst.",
-      "bestand": "images/a011064_11127.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11217,
-    "gemaakt": 11280,
-    "gekozen": 1733,
-    "afgekeurd": 1382,
+    "cycli": 11223,
+    "gemaakt": 11285,
+    "gekozen": 1734,
+    "afgekeurd": 1383,
     "corpus": 61,
     "notities": 445
   }
