@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T13:45+02:00",
+  "bijgewerkt": "2026-08-20T14:00+02:00",
   "werk": [
+    {
+      "id": 11422,
+      "titel": "Vogels tussen de stammen",
+      "beschrijving": "Tussen twee donkere, verticale houten stammen kijkt het oog op een landschap dat zich uitstrekt onder een hemel die van roze naar lichtblauw verloopt. Drie vogels vliegen in verschillende hoogtes en richtingen, hun silhouetten donker en scherp getekend tegen de lichte achtergrond. Onderaan loopt een zandige, golvende horizon met subtiele sporen van gras en kleine heuvels, getekend in zachte grijze en bruine tinten. De ruimte tussen de stammen vormt een smalle, verticale opening die het landschap omkadt, terwijl de achtergrond langzaam vervaagt in een nevelige, onduidelijke verte.",
+      "cyclus": 11359,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of bevestigend; de lege ruimte en subtiele vervorming van de horizon maken het geen toeristisch ansichtkaartmotief.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011359_11422.webp"
+    },
+    {
+      "id": 11420,
+      "titel": "Drie vogels, één horizon",
+      "beschrijving": "Een man in donkerblauwe kleding zit op een betonnen rand aan de rand van een wateroppervlak, met zijn rug tegen een witte muur. Voor hem strekt een nat, glimmend betonnen pad zich uit, doorsneden door een onregelmatige lijn van zand en kleine stenen. Het water is kalm en spiegelglad, met subtiele rimpelingen die de overgang naar een mistige horizon vagen. Drie vogels vliegen ver weg in de lucht, die volledig oplost in een egale, witgrijze mist. De kleuren zijn gedempt: grijs, beige en zachtblauw domineren, met donkere accenten in de kleding en de stenen. De compositie is rustig en leeg, met veel ruimte rond de figuur en het water.",
+      "cyclus": 11357,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in reflectie op nat beton (te scherp/realistisch voor omgeving), lichte wazigheid in verre vogels",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en open, zonder bevestigende sfeer",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011357_11420.webp"
+    },
     {
       "id": 11413,
       "titel": "Vergeten kleuren op keien",
@@ -104,32 +130,6 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w011305_11368.webp"
-    },
-    {
-      "id": 11366,
-      "titel": "Vier op aarde, één in vlucht",
-      "beschrijving": "Vijf vogels met bruine en witte veren bevinden zich op een grijze houten achtergrond. Vier vogels zitten in een rij op een tak met kleine knoppen en noten, gericht naar rechts, met hun poten om de tak geklemd. Een vijfde vogel zweeft beneden met gespreide vleugels, waarbij de veren individueel gedetailleerd zijn en een lichte glans hebben. De houten achtergrond toont verticale planken met zichtbare korrel en knoesten. Witte en donkere vlekken, mogelijk spetters of textuur, zijn verspreid over het beeld. De vogels hebben glanzende zwarte ogen en spitse snavels. De compositie is symmetrisch, met de zwevende vogel als focuspunt onder de tak.",
-      "cyclus": 11303,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De vogels op de tak en de vliegende vogel zijn geen iconisch Nederlands motief en de compositie heeft een eigen dynamiek door de contrasten tussen beweging en stilstaan.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011303_11366.webp"
-    },
-    {
-      "id": 11364,
-      "titel": "Waar het hout zwijgt",
-      "beschrijving": "Een verticale, donkerbruine spleet loopt door een houten oppervlak met fijne, parallelle nerfstructuren. Links en rechts van de spleet verloopt het hout in lichte, golvende lijnen, met subtiele kleurverschillen van lichtbruin tot amber. De spleet zelf is onregelmatig gevormd, met kleine, donkere holtes en een ruwe textuur die contrasteert met de gladde omgeving. Aan weerskanten van de spleet zijn de houtvezels scherp afgetekend, terwijl de spleet zelf een bijna koolzwarte tint heeft met sporen van verkleuring. Het licht valt schuin, waardoor de diepte van de spleet en de textuur van het hout benadrukt worden.",
-      "cyclus": 11301,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het toont een abstracte textuur zonder iconisch onderwerp of decoratief licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011301_11364.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11362,
-    "gemaakt": 11424,
-    "gekozen": 1755,
+    "cycli": 11369,
+    "gemaakt": 11431,
+    "gekozen": 1757,
     "afgekeurd": 1386,
     "corpus": 59,
     "notities": 449
