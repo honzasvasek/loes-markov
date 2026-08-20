@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T07:45+02:00",
+  "bijgewerkt": "2026-08-20T08:00+02:00",
   "werk": [
+    {
+      "id": 11255,
+      "titel": "Verbleekte latten, groene hoop",
+      "beschrijving": "Een houten structuur met schuine latten domineert het beeld, geschilderd in gedempte bruine en grijze tinten met sporen van verbleekte oranje verf. De latten lopen diagonaal door het frame, met spijkers en scharnieren die de verweerde textuur benadrukken. Rechtsboven kijkt een deel van een houten raam of luifel aan, met donkere, beschadigde randen. De achtergrond is een egaal, helder turkoois vlak dat het hout accentueert. Rechtsonder prikkelen groene en gele bladeren van een plant door het beeld, met subtiele schaduwval op het hout. De compositie straalt een verlaten, maar levendige sfeer uit door het contrast tussen de verweerde materialen en de frisse kleuren.",
+      "cyclus": 11192,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de houten latjes (beneden links)', 'Enkele schroeven/ijkers hebben onnatuurlijke positie/vorm']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de schuine compositie en ongemakkelijke details geven een eigen standpunt",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011192_11255.webp"
+    },
+    {
+      "id": 11250,
+      "titel": null,
+      "beschrijving": "Een schuin lopende houten vloer met smalle, parallelle latten in warme oranje- en bruintinten domineert het onderste deel van het beeld. De houtstructuur is zichtbaar met fijne, parallelle vezels die de lengte van de latten volgen. Donkere, smalle lijnen scheiden de latten van elkaar en lopen schuin van linksboven naar rechtsonder. Boven de houten vloer bevindt zich een vlakke, turkooise achtergrond met subtiele, witte, verticale strepen die regen imiteren. Een paar kleine, witte druppels hangen in de lucht of vallen naar beneden. De overgang tussen het hout en de turkooise achtergrond is scherp en loopt in een rechte lijn van linksboven naar rechtsonder. De compositie straalt een rustige, bijna statische sfeer uit, met een focus op textuur en kleurcontrast.",
+      "cyclus": 11187,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011187_11250.webp"
+    },
     {
       "id": 11245,
       "titel": "Rook die blijft hangen",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w011122_11185.webp"
-    },
-    {
-      "id": 11164,
-      "titel": "Waar begint de buitenlucht?",
-      "beschrijving": "Een witte deur staat op een kier, geflankeerd door donkere houten panelen en groene planten in witte bakken. Buiten loopt een steenpad tussen ongeknipt gras naar een donkere houten schutting met witte spitse topjes. Achter de schutting zijn donkere struiken en een vage horizon zichtbaar onder een grijze hemel. De deur heeft een donkere klink en scharnieren, en de randen van het deurkozijn zijn licht versleten. De vloer binnen is lichtgrijs en glad, met een schaduw die van de deur uit loopt. De planten aan weerskanten van de deur hebben verschillende vormen en texturen, met enkele witte bloemen in het rechterbakje.",
-      "cyclus": 11101,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de perspectief van de deur en de omringende muur', 'Enkele onduidelijke texturen in de planten aan weerszijden']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een rustige, bijna meditatieve sfeer, maar mist de typische iconische elementen van een toeristische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011101_11164.webp"
-    },
-    {
-      "id": 11158,
-      "titel": "Verf op steen en hout",
-      "beschrijving": "Een glanzende, donkerrode houten dubbeldeur met gepaneelde details en een gouden deurkruk domineert het midden van een donkergrijze gevel. Boven de deur loopt een terrasdak van roodbruine dakpannen, terwijl aan weerszijden van de deur twee lege, lichtbruine lijsten hangen. Onder de deur bevinden zich twee stenen traptreden, waarop een klein groen plantje groeit. Links van de deur, op een stenen muurtje, rust een wit schilderspalet met kleurige verfklonten: rood, oranje, geel, groen, blauw en zwart. De muur onder het palet is opgebouwd uit onregelmatige, grijze en beige stenen. Zonlicht valt schuin op de deur en de omgeving, waardoor diepe schaduwen en heldere highlights ontstaan.",
-      "cyclus": 11095,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet typisch toeristisch en heeft een eigen, rustige balans zonder iconische motieven.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w011095_11158.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11195,
-    "gemaakt": 11257,
-    "gekozen": 1729,
+    "cycli": 11202,
+    "gemaakt": 11264,
+    "gekozen": 1731,
     "afgekeurd": 1382,
     "corpus": 63,
     "notities": 445
