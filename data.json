@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T15:30+02:00",
+  "bijgewerkt": "2026-08-20T15:45+02:00",
   "werk": [
+    {
+      "id": 11455,
+      "titel": "Regendruppels op rode dromen",
+      "beschrijving": "Rode kersen hangen in clusters aan donkere, slanke takken tegen een grijswitte, wazige achtergrond met subtiele textuur. Regen druppelt zichtbaar naar beneden, met glinsterende druppels op de kersen en takken, en kleine waterpootjes die door het beeld lopen. Drie vogels met donkere koppen, lichtgrijze lichamen en gespreide vleugels vliegen in een diagonale lijn van rechtsboven naar linksonder, hun silhouetten scherp tegen de lichte achtergrond. De kersen hebben een glanzende, natte uitstraling met reflecties van licht, en de takken vertonen kleine, donkere knopjes en onregelmatigheden. De compositie combineert de statische kersen met de dynamiek van de vallende regen en de bewegende vogels, waarbij de rode kersen een levendige contrast vormen met de gedempte achtergrondkleuren.",
+      "cyclus": 11392,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in vogelvleugels (herhaling patronen)', 'lichte inconsistentie in takstructuren (detailverlies)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; composities zijn ongemakkelijk en open.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011392_11455.webp"
+    },
+    {
+      "id": 11454,
+      "titel": "Waar blijft de vierde vogel",
+      "beschrijving": "Rode kersen met natte glans en dunne stelen hangen in groepen van twee of drie tegen een wit-grijze achtergrond met watery, donkere vlekken. Drie vogels in vlucht, getekend in grijstinten met wazige veren en gespreide vleugels, zweven rechtsboven en middenrechts. De kersen hebben een glanzende, bijna doorschijnende textuur met zichtbare waterdruppels. Onderaan rechts bevinden zich twee donkere, bijna zwarte kersen met minder glans. De compositie combineert scherpere kersen met vaagere vogels en achtergrond, waarbij de rode kersen een levendige contrasterende lijn vormen door het beeld. Donkere cirkels en onregelmatige vormen in de achtergrond suggereren een watervlekken-effect.",
+      "cyclus": 11391,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van vogels', 'lichte wazigheid in achtergrondtexturen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een compositie met ruimte voor interpretatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011391_11454.webp"
+    },
     {
       "id": 11441,
       "titel": "Tegels zonder verhaal",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011341_11404.webp"
-    },
-    {
-      "id": 11400,
-      "titel": "Vezels in het zand",
-      "beschrijving": "Drie verticale houten planken domineren het beeld, gescheiden door smalle witte ruimtes. Het hout is grijsgetint met zichtbare vezels, knoesten en lichte barsten. Achter en rond de planken strekt zich een zandig landschap uit met zachte duinen en verspreide, kleine groene plantjes met fijne blaadjes. Het zand heeft een lichtbeige kleur met subtiele schaduwen die de golvende structuur benadrukken. De achtergrond bestaat uit een egale, lichte hemel zonder duidelijke overgang naar het zand. De compositie is symmetrisch, met de planken centraal geplaatst en de plantjes strategisch verspreid aan weerskanten.",
-      "cyclus": 11337,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011337_11400.webp"
-    },
-    {
-      "id": 11383,
-      "titel": "Prikkels in de golven",
-      "beschrijving": "Verticale houten latten vormen de achtergrond, met daarop rode kersen en groene bladeren verspreid over de boven- en rechterkant. Een donkere tak met prikkeldoorner loopt schuin door het midden, met zwarte, sterachtige vormen erop. Links onder domineert een dynamische golf van wit en donkergrijs, met schuim en spetters die tegen de houten latten en een gebogen houten rand aan slaan. De golflijnen zijn golvend en textuurrijk, met een mix van zachte en scherpe randen. De kersen hebben een glanzende, ronde vorm en de bladeren zijn smal en puntig. De houten textuur is zichtbaar met subtiele vezels en kleurverschillen.",
-      "cyclus": 11320,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houttextuur aan linker- en rechterkant', 'enkele kersen hebben lichte vervorming in steel/blad']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en heeft een eigen stemming.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w011320_11383.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11398,
-    "gemaakt": 11461,
-    "gekozen": 1761,
+    "cycli": 11406,
+    "gemaakt": 11468,
+    "gekozen": 1763,
     "afgekeurd": 1390,
-    "corpus": 58,
+    "corpus": 59,
     "notities": 449
   }
 }
