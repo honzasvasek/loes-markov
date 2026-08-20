@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T20:00+02:00",
+  "bijgewerkt": "2026-08-20T20:15+02:00",
   "werk": [
+    {
+      "id": 11582,
+      "titel": "Een druppel met geheugen",
+      "beschrijving": "Een donkerbruine, amorf vorm met zachte, golvende randen domineert het midden, omgeven door subtiele, concentrische grijze cirkels die uitstralen als rimpels in water. Binnen de bruine vorm bevinden zich verspreide oranje en donkere stippen, variërend in grootte, met enkele kleine witte en blauwe accenten. Onder de vorm loopt een smalle, puntige uitloop naar beneden, waar een spoor van kleurrijke bolletjes vandaan loopt: oranje, groen, wit, donkerblauw en zwart, afnemend in grootte naar beneden toe. De achtergrond is een egaal, lichtgrijs vlak met zachte, vloeiende overgangen, wat een gevoel van diepte en beweging suggereert zonder een duidelijk patroon te volgen.",
+      "cyclus": 11519,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011519_11582.webp"
+    },
+    {
+      "id": 11576,
+      "titel": "Ringenspreiding zonder oorzaak",
+      "beschrijving": "Twee rotsen drijven in water, elk omgeven door concentrische ringen die zich uitstrekken over een effen, lichtgrijze achtergrond. De bovenste rots is groter, met een onregelmatige, ruwe textuur en donkere schaduwen die de diepte benadrukken. De onderste rots is kleiner, met een gladdere oppervlakte en zachtere overgangen tussen licht en donker. Beide rotsen werpen een spiegelbeeld op het water, waarbij de bovenste een donkerder, onscherper reflex heeft dan de onderste. De wateroppervlakte is kalm, met subtiele golven die de ringen verstoren en een gevoel van stilte uitstralen. De compositie is verticaal opgebouwd, met de rotsen centraal geplaatst en de ruimte eromheen leeg en ongestoord.",
+      "cyclus": 11513,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is sober en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011513_11576.webp"
+    },
     {
       "id": 11569,
       "titel": "Gras dat fluistert met de wind",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w011476_11539.webp"
-    },
-    {
-      "id": 11533,
-      "titel": "Waar begint de wereld?",
-      "beschrijving": "Een witte deur met een metalen klink staat open in een donkere, textuurrijke muur met onregelmatige, gescheurde randen. Achter de deur ontvouwt zich een onscherp landschap in grijstinten, met vaag zichtbare heuvels en een horizon die overgaat in een egale, bewolkte hemel. Rechtsboven steekt een slanke, donkere stengel met fijn, veerachtig gras de lucht in, de toppen wapperend in een onzichtbare bries. Onder de deur ligt een donkere, ruwe ondergrond met verspreide droge grassprietjes en kleine steentjes. De witte muur en de deur vormen een scherp contrast met de donkere, natuurlijke omgeving, terwijl de open deur een doorgang suggereert naar een onbepaalde ruimte.",
-      "cyclus": 11470,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011470_11533.webp"
-    },
-    {
-      "id": 11528,
-      "titel": "Vlucht voor de kersen",
-      "beschrijving": "Vijf glanzende, dieprode kersen hangen in paren aan groene steelletjes, met kleine waterdruppeltjes die het licht vangen. Twee donkergroene bladeren met fijn getekende nerven en zachte, getande randen omlijsten de kersen aan de linkerkant. Rechtsboven zweeft een kleine vogel met uitgespreide vleugels, getekend in zwart, wit en blauwgrijze tinten, alsof hij net voorbij de kersen vliegt. Rechtsonder is een deel van een bleekroze, ronde vorm zichtbaar, mogelijk een steen of een fragment van een voorwerp, met een zachte schaduw. De achtergrond is een effen, lichtbeige textuur met subtiele korreligheid, waardoor de kersen en details er levendig tegen afsteken. Kleine, donkere vlekjes en een paar losse druppeltjes verspreiden zich over het beeld.",
-      "cyclus": 11465,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in de steel van de middelste kers, lichte wazigheid in de achtergrondtextuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de asymmetrische plaatsing en de vogel als dynamisch element, geen typische ansichtkaartcompositie.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w011465_11528.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11521,
-    "gemaakt": 11583,
-    "gekozen": 1784,
+    "cycli": 11529,
+    "gemaakt": 11591,
+    "gekozen": 1786,
     "afgekeurd": 1396,
     "corpus": 59,
     "notities": 449
