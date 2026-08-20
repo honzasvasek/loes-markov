@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-20T16:00+02:00",
+  "bijgewerkt": "2026-08-20T16:15+02:00",
   "werk": [
+    {
+      "id": 11476,
+      "titel": "Spatie tussen de lijnen",
+      "beschrijving": "Zes ovale vormen, getekend met donkere, onregelmatige lijnen, vullen het beeld in een raster van twee kolommen en drie rijen. De ovalen verschillen in textuur en dichtheid van de omringende schaduwen: sommige zijn licht geschilderd met fijne, krassende strepen, andere donkerder met ruwe, uitgesmeerde randen. Tussen de ovalen lopen verticale en horizontale lijnen die de indeling benadrukken, met hier en daar losse, onvoltooide strepen die de structuur doorbreken. De achtergrond is een effen, lichtgrijze textuur met subtiele variaties in schaduw, alsof het papier licht ongelijkmatig is ingekleurd. De ovale vormen stralen een gevoel van onafgewerktheid uit, met sporen van herhaling en aanpassing in de lijnvoering.",
+      "cyclus": 11413,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met bewuste keuze voor onvolpreheide vormen en textuur.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011413_11476.webp"
+    },
+    {
+      "id": 11475,
+      "titel": "Zes vragen zonder antwoord",
+      "beschrijving": "Zes ovale vormen, getekend met donkere, wazige lijnen, vullen het beeld, gescheiden door smalle houten lijsten die een raster vormen. De ovalen variëren in donkerte en textuur: sommige zijn vaag en lichtgrijs, andere diepzwart met schaduwen die diepte suggereren. De randen van de ovalen zijn ongelijkmatig, alsof ze met een zachte potloodstreep zijn getrokken, terwijl de binnenkant soms donkere vlekken of subtiele gradaties toont. Het papier eromheen is textuurrijk en lichtgekleurd, met kleine onregelmatigheden die de handgemaakte indruk versterken. De houten lijsten hebben een warme, bruine tint en lopen verticaal en horizontaal door het beeld, waardoor de ovalen in afzonderlijke vakken komen te staan.",
+      "cyclus": 11412,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte, contemplatieve compositie zonder decoratief licht of toeristische allure.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011412_11475.webp"
+    },
+    {
+      "id": 11474,
+      "titel": "Veeren die de wind uitdagen",
+      "beschrijving": "Dunne, donkere stengels reiken omhoog tegen een grijze hemel, met aan de top donkerbruine, veerachtige bloemkoppen die in de wind lijken te waaien. Langwerpige, spitse bladeren steken schuin omhoog of hangen slap naar beneden. Achter de rietstengels strekt zich een breed, lichtgrijs wateroppervlak uit, met zachte, wazige overgangen naar een donkergrijze, onduidelijke horizon waar vaag land en bomen te herkennen zijn. De kleuren zijn gedempt, met subtiele variaties in grijs, bruin en donkergroen, en de compositie laat veel lege ruimte rond de rietstengels, die de beeldvullende hoofdrol spelen.",
+      "cyclus": 11411,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de nadruk op de leegte en de subtiele spanning tussen de rietstengels en de achtergrond, geen typische ansichtkaartcompositie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011411_11474.webp"
+    },
     {
       "id": 11455,
       "titel": "Regendruppels op rode dromen",
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011359_11422.webp"
-    },
-    {
-      "id": 11420,
-      "titel": "Drie vogels, één horizon",
-      "beschrijving": "Een man in donkerblauwe kleding zit op een betonnen rand aan de rand van een wateroppervlak, met zijn rug tegen een witte muur. Voor hem strekt een nat, glimmend betonnen pad zich uit, doorsneden door een onregelmatige lijn van zand en kleine stenen. Het water is kalm en spiegelglad, met subtiele rimpelingen die de overgang naar een mistige horizon vagen. Drie vogels vliegen ver weg in de lucht, die volledig oplost in een egale, witgrijze mist. De kleuren zijn gedempt: grijs, beige en zachtblauw domineren, met donkere accenten in de kleding en de stenen. De compositie is rustig en leeg, met veel ruimte rond de figuur en het water.",
-      "cyclus": 11357,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in reflectie op nat beton (te scherp/realistisch voor omgeving), lichte wazigheid in verre vogels",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en open, zonder bevestigende sfeer",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011357_11420.webp"
-    },
-    {
-      "id": 11413,
-      "titel": "Vergeten kleuren op keien",
-      "beschrijving": "Twee verweerde schilderspaletten liggen op donkere, ruwe keien aan de waterkant, besmeurd met droge verf in grijze en bruine tinten. Een slanke stengel droog gras steekt schuin omhoog aan de linkerkant, met fijne, uitgespreide aren die zacht bewegen in de lucht. Het water strekt zich uit tot een horizon waar een dorp met donkere daken en een kerk met een spitse toren silhouetttrekt tegen een egale, grijze hemel. De keien zijn nat en glanzen hier en daar, met kleine witte schelpen en puin verspreid tussen de stenen. Het palet in het midden heeft een onregelmatige vorm met een gat en verspreide verfvlekken, terwijl het kleinere palet ernaast meer glad en egaal is, met alleen een paar donkere plekken. De achtergrond is onscherp, waardoor de focus ligt op de textuur van het hout, het gras en de keien in het voorplan.",
-      "cyclus": 11350,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 1,
-      "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een kerk en water, in een compositie die doet denken aan een ansichtkaart zonder duidelijke persoonlijke invalshoek.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w011350_11413.webp"
-    },
-    {
-      "id": 11404,
-      "titel": "Waar het zand zacht blijft",
-      "beschrijving": "Zandduinen met scherpe, golvende patronen vullen het beeld, getrokken door wind en licht. Twee vogels vliegen in silhouet tegen een lichte hemel met enkele witte wolken. Een enkele, slanke plant steekt uit het zand, met een lange schaduw die over de duinruggen loopt. De kleuren zijn gedempt: zandbruin, beige en zachtgrijs, met donkere schaduwen die de textuur van het zand benadrukken. De compositie is rustig, met de duinen die diagonaal door het beeld lopen en de vogels die een gevoel van beweging toevoegen aan de stillte.",
-      "cyclus": 11341,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en niet typisch ansichtkaart-achtig.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011341_11404.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11412,
-    "gemaakt": 11475,
-    "gekozen": 1763,
+    "cycli": 11420,
+    "gemaakt": 11482,
+    "gekozen": 1766,
     "afgekeurd": 1390,
     "corpus": 59,
     "notities": 449
