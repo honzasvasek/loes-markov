@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T23:45+02:00",
+  "bijgewerkt": "2026-08-21T00:00+02:00",
   "werk": [
+    {
+      "id": 11685,
+      "titel": "Goud in de golven",
+      "beschrijving": "Een wateroppervlak domineert het midden, doorsneden door een verticale strook goudgele reflecties die onregelmatig gevormd zijn en afwisselen met witte en grijze vlekken. Het water zelf bestaat uit horizontale penseelstreken in zachte grijstinten, met subtiele blauwe en bruine ondertoon. Aan de horizon loopt een donkere, onscherpe band met groene, bruine en zwarte vormen die bomen en struikgewas suggereren. Onderaan het beeld steken slanke, groene en bruine grasstengels omhoog, met enkele kleine, donkere details die op bladeren of stenen lijken. De achtergrond is vaag en lichtgrijs, zonder duidelijke overgang naar de hemel.",
+      "cyclus": 11622,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011622_11685.webp"
+    },
+    {
+      "id": 11682,
+      "titel": "Takken snijden door het goud",
+      "beschrijving": "Donkere, slanke takken snijden door een dicht gewas van hoge, slanke grassprietjes in goudbruine en beige tinten. Achter het gras ontstaat een vaag, grijsblauw landschap met zachte, onduidelijke vormen die aan water of een verlaten weg denken laten. Gele vlekken, mogelijk reflecties van licht, drijven verspreid over het middenplan. De takken in het voorplan vormen een donker, vertakt patroon dat de blik door het beeld leidt, terwijl het gras een gevoel van beweging suggereert door de schuine, wisselende lengtes en richtingen. De achtergrond blijft onscherp en suggereert afstand, met subtiele overgangen tussen lichte en donkere grijstinten.",
+      "cyclus": 11619,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in de achtergrondstructuren, alsof de penseelstreken te snel zijn geschilderd', 'enkele rietstengels hebben een onnatuurlijke, bijna glanzende textuur die niet overeenkomt met de rest van het beeld']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke, niet-decoratieve benadering van licht en compositie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011619_11682.webp"
+    },
     {
       "id": 11670,
       "titel": "Verf die vraagt om een verhaal",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011552_11615.webp"
-    },
-    {
-      "id": 11598,
-      "titel": "Waar begint de weg?",
-      "beschrijving": "Een enkele, rechte deur met een ronde klink staat centraal in een gladde, roze muur, omringd door zandduinen die zacht overgaan in de horizon. Boven de muur strekt zich een donkere hemel uit met zware, paarsbruine wolken die zich uitstrekken tot aan de randen van het beeld. De wolken hebben een zachte, bijna vlezige textuur en lijken in beweging te zijn, alsof ze door een onzichtbare wind worden geblazen. Het zand heeft een warme, oranje-rode tint en toont subtiele, natuurlijke onregelmatigheden, met kleine, donkere vlekken die verspreid liggen. De deur is het enige scherpe, geometrische element in een landschap dat grotendeels uit organische vormen en zachte overgangen bestaat. De sfeer is stil en verlaten, met een gevoel van afzondering dat door de lege ruimte en de afwezigheid van leven wordt versterkt.",
-      "cyclus": 11535,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een deur in een woestijnschap, wat een eigen standpunt uitstraalt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011535_11598.webp"
-    },
-    {
-      "id": 11590,
-      "titel": "Vegen zonder bestemming",
-      "beschrijving": "Grijze en zwarte vegen en vlekken vullen het beeld, met zachte overgangen naar witte ruimtes aan de randen. Donkere, vaag omschreven vormen lijken te zweven boven lichtere, wazige achtergronden. Enkele scherpe, donkere punten en dunne lijnen doorbreken de vloeiende structuren. De compositie voelt ongestructureerd, met vormen die elkaar overlappen en in elkaar overlopen, zonder duidelijke horizon of focus. De sfeer is nevelig en onrustig, alsof de beelden in beweging zijn vastgevroren.",
-      "cyclus": 11527,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011527_11590.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11686,
+      "cyclus": 11623,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', \"vervormde letters (bijv. 'RItO', 'nue.')\", 'inconsistente lettergrootte en -positie']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op abstracte tekst en vervorming, niet op een bevestigend beeld.",
+      "bestand": "images/a011623_11686.webp"
+    },
     {
       "id": 11641,
       "cyclus": 11578,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'wazige texturen', 'detailverlies in schaduw/highlight']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijke thematische keuze.",
       "bestand": "images/a011549_11612.webp"
-    },
-    {
-      "id": 11611,
-      "cyclus": 11548,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, contemplatieve compositie zonder toeristische connotaties.",
-      "bestand": "images/a011548_11611.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11623,
-    "gemaakt": 11685,
-    "gekozen": 1796,
-    "afgekeurd": 1400,
-    "corpus": 59,
+    "cycli": 11631,
+    "gemaakt": 11693,
+    "gekozen": 1798,
+    "afgekeurd": 1401,
+    "corpus": 60,
     "notities": 452
   }
 }
