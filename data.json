@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T03:30+02:00",
+  "bijgewerkt": "2026-08-20T03:45+02:00",
   "werk": [
+    {
+      "id": 11133,
+      "titel": "Tarwe achter glas",
+      "beschrijving": "Twee witte ramen met vier ruiten elk, verticaal geplaatst op een donkergrijze muur. Het bovenste raam toont goudbruine tarwearen en slanke grassprietjes achter het glas, het onderste raam heeft alleen vaag zichtbare, lichte krassen op de ruiten. Een donkere, klassieke buitenlamp hangt linksboven het bovenste raam. De muur heeft een ruwe textuur en een horizontale lijn scheidt de twee ramen van elkaar.",
+      "cyclus": 11070,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, rustige dynamiek door de asymmetrie en de subtiele details in de ramen.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011070_11133.webp"
+    },
+    {
+      "id": 11132,
+      "titel": "Gordijnen die luisteren",
+      "beschrijving": "Donkergrijze muur met drie witte ramen, elk met vier ruiten en lichte gordijnen achter het glas. Twee zwarte straatlantaarns staan schuin tussen de ramen, met piramidevormige kapjes en slanke stelen die naar beneden verdwijnen. De muur heeft een ruwe textuur met subtiele schaduwvariaties, en de ramen werpen zachte schaduwen op het murenwerk. Kleine bruine schroeven zijn zichtbaar in de hoeken van de ramen. De compositie is verticaal gericht, met de lantaarns als centrale as tussen de ramen.",
+      "cyclus": 11069,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vensterproporties (linker venster iets smaller dan rechter)', 'lichte wazigheid in textuur van donkere geveltegels']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief, maar een neutrale gevel zonder decoratief licht of typisch ansichtkaart-compositie",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w011069_11132.webp"
+    },
     {
       "id": 11120,
       "titel": "Golven in het hout",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011009_11072.webp"
-    },
-    {
-      "id": 11065,
-      "titel": "Donkere golven, witte vragen",
-      "beschrijving": "Donkere, golvende vormen snijden door een lichtgrijze, textuurrijke vlakte, omgeven door fijne, horizontale strepen die de achtergrond domineren. Witte en lichtblauwe golven omhullen donkere, bijna zwarte structuren met subtiele details zoals kleine witte vlekken en onregelmatige randen. De compositie straalt een dynamische spanning uit tussen de vloeiende beweging van de golven en de statische, bijna bedreigende aanwezigheid van de donkere vormen. Kleuren schuiven van diep zwart over verschillende grijstinten naar zachte blauwe en witte accenten, met verspreide kleine stippen die als spatten of korrels door het beeld lopen. De sfeer is zowel onrustig als mysterieus, met een gevoel van onafgebroken beweging en onzichtbare krachten die de vormen door de ruimte drijven.",
-      "cyclus": 11002,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is abstract en niet iconisch, de compositie is dynamisch en niet decoratief, en er is geen bevestigend lichtgebruik.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011002_11065.webp"
-    },
-    {
-      "id": 11063,
-      "titel": "Kleur in de kou",
-      "beschrijving": "Een donkergrijze, bakstenen toren met een ronde vorm en een blauwe, koepelachtige dakconstructie domineert het midden van het beeld, omringd door kale, met sneeuw bedekte bomen. De toren heeft vier verticale, spitse ramen met kleurrijk glas in rood, blauw, oranje en groen, waarachter een zwakke, warme gloed zichtbaar is. Sneeuw bedekt de daken, de vensterbanken en de grond rondom, met zachte, golvende vormen die de textuur van de sneeuw benadrukken. De achtergrond bestaat uit een lichte, vaag getekende horizon met nog meer kale bomen, wat een gevoel van isolatie versterkt. De algehele sfeer is koud en stil, met een subtiele contrast tussen de donkere toren en de heldere, witte sneeuw.",
-      "cyclus": 11000,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van bomen links/rechts', 'lichte wazigheid in sneeuwtextuur op achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigenzinnige, bijna ongemakkelijke balans tussen leegte en detail.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w011000_11063.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 11077,
+      "soort": "observatie",
+      "tekst": "De herhaling van ramen, muren en lantaarnpalen in de laatste beelden is geen onopzettelijke spanning meer, maar een stilte die de ruimte vult zonder een verhaal te dragen—de witte ruiten, donkere schaduwen en crèmekleurige gevels vormen geen compositie meer, maar een taal die zichzelf herhaalt zonder een bestemming te hebben."
+    },
+    {
       "cyclus": 10969,
       "soort": "observatie",
       "tekst": "De herhaling van deuren en ramen in recente beelden is geen onopzettelijke spanning meer, maar een onbewuste drang om de ruimte te verdelen in wat open en gesloten blijft—de witte panelen, donkere ruiten en roze muren vormen geen verhaal, maar een stilte die de ruimte vult zonder een richting te geven."
@@ -252,11 +257,6 @@
       "cyclus": 10717,
       "soort": "observatie",
       "tekst": "De houten deuren in de afgelopen beelden zijn geen sporen van ontspanning meer, maar beelden van een onopzettelijke spanning tussen opening en afsluiting—de spleten, trappen en verflagen suggereren een verhaal dat niet wordt verteld, alsof de ruimte tussen de panelen de enige taal is die overblijft."
-    },
-    {
-      "cyclus": 10705,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente beelden en observaties laten zien dat ontspanning geen sporen meer achterlaat, maar een onzichtbare uitbreiding van ruimte die de beelden vormt zonder een verhaal te dragen, wat vraagt om een aanpassing van alinea 5 en 7."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11075,
-    "gemaakt": 11138,
-    "gekozen": 1714,
+    "cycli": 11080,
+    "gemaakt": 11142,
+    "gekozen": 1716,
     "afgekeurd": 1381,
-    "corpus": 63,
-    "notities": 441
+    "corpus": 64,
+    "notities": 442
   }
 }
