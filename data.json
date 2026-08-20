@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-20T11:00+02:00",
+  "bijgewerkt": "2026-08-20T11:15+02:00",
   "werk": [
     {
       "id": 11330,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 11347,
+      "cyclus": 11284,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, ongemakkelijke compositie met schuine lijnen en kromme handvatten.",
+      "bestand": "images/a011284_11347.webp"
+    },
+    {
       "id": 11294,
       "cyclus": 11231,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, onafgewerkte sfeer met sporen van vernietiging en verwaarlozing.",
       "bestand": "images/a011218_11281.webp"
-    },
-    {
-      "id": 11195,
-      "cyclus": 11132,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met een ongemakkelijke spanning tussen vorm en leegte.",
-      "bestand": "images/a011132_11195.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11282,
-    "gemaakt": 11344,
+    "cycli": 11288,
+    "gemaakt": 11350,
     "gekozen": 1742,
-    "afgekeurd": 1384,
+    "afgekeurd": 1385,
     "corpus": 61,
     "notities": 448
   }
