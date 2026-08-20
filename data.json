@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T08:00+02:00",
+  "bijgewerkt": "2026-08-20T08:15+02:00",
   "werk": [
+    {
+      "id": 11271,
+      "titel": "Onder de golf door",
+      "beschrijving": "Een lichtgekleurde muur met een openstaande gouden deur, omlijst door een grijze kozijn. Onder de deur loopt een golflijn van roze en grijs, die overgaat in een roze vloer. De deur heeft reliëfdetails en een donkere klink. De muur boven de golven is egaal, terwijl de golven een textuur hebben van brede penseelstreken. De compositie is symmetrisch rond de deur, met de golven die zich uitstrekken naar beide randen van het beeld. De sfeer is rustig en minimalistisch, met een focus op de contrasten tussen de kleuren en de vormen.",
+      "cyclus": 11208,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is minimalistisch en open, zonder duidelijke narratieve of symbolische lading.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011208_11271.webp"
+    },
+    {
+      "id": 11269,
+      "titel": "Vergeten verbinding tussen twee werelden",
+      "beschrijving": "Twee houten schuren met donkerbruine, verticale planken en een getegeld dak met donkergrijze en bruine pannen staan schuin ten opzichte van elkaar. Tussen de schuren loopt een smalle, houten loopbrug met donkergrijze planken, omzoomd door een strook zand met kleine, kleurige stenen en losse groene en gele bloemblaadjes. Rechts van de schuren staat een struik met witte bloemen met gele centra en donkergroene bladeren, tegen een muur van lichtgrijze, poruzeuze blokken. Het hout toont sporen van slijtage en weersinvloeden, met lichte verkleuringen en kleine barstjes. De achtergrond is een egale, lichtgrijze lucht zonder details.",
+      "cyclus": 11206,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, ongemakkelijke compositie met schuine lijnen en kromme handvatten.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011206_11269.webp"
+    },
     {
       "id": 11255,
       "titel": "Verbleekte latten, groene hoop",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011136_11199.webp"
-    },
-    {
-      "id": 11192,
-      "titel": "Papier snijdt door roze dromen",
-      "beschrijving": "Gestoken papier vormt een scherpe, onregelmatige lijn die diagonaal door het beeld loopt, met een zachte, vezelachtige rand. Onder het papier ligt een roze vlak, waar rode cirkels verspreid liggen, variërend in grootte. Rechtsboven bevindt zich een groot, lichtroze cirkelvormig element met subtiele concentrische lijnen. De achtergrond bestaat uit grijstinten, met een gladde, effen textuur. De compositie straalt een rustige, bijna minimalistische sfeer uit, met een contrast tussen de harde papierlijnen en de zachte kleuren en vormen.",
-      "cyclus": 11129,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met bewuste keuze voor leegte en spanning.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011129_11192.webp"
-    },
-    {
-      "id": 11185,
-      "titel": "Roze straling door dood hout",
-      "beschrijving": "Donkere, schuine takken vormen een onregelmatig kruis in het midden, met scherpe uiteinden die naar de randen wijzen. De achtergrond is een egaal roze vlak met subtiele concentrische lijnen die vanuit het midden stralen. Onder de takken ligt een grijzig, textuurloos vlak dat overgaat in een donkere horizon met vaag omschreven vormen aan de linkerzijde. Dunne, willekeurig geplaatste lijnen suggereren droog gras of riet rond de basis van de takken. De takken hebben kleine, onregelmatige uitsteeksels en lijken door elkaar te liggen, zonder duidelijke hiërarchie.",
-      "cyclus": 11122,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond takken tegen roze achtergrond', 'lichte inconsistentie in textuur van achtergrond (concentrische cirkels)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011122_11185.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11202,
-    "gemaakt": 11264,
-    "gekozen": 1731,
+    "cycli": 11210,
+    "gemaakt": 11272,
+    "gekozen": 1733,
     "afgekeurd": 1382,
     "corpus": 63,
     "notities": 445
