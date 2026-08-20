@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T07:15+02:00",
+  "bijgewerkt": "2026-08-20T07:30+02:00",
   "werk": [
+    {
+      "id": 11245,
+      "titel": "Rook die blijft hangen",
+      "beschrijving": "Twee gouden houten deuren staan wijd open in een grijze muur, met zichtbare houtstructuur en ongelijkmatige verf. Door de deuren ziet men een vaag, lichtblauwe horizon met een subtiele rookachtige vorm die omhoog kruipt. De vloer voor de deuren is glad en grijs, met een zachte schaduw die van de deuren uitgaat. De deuren hebben klassieke panelen en gouden klinken, en de scharnieren zijn donkerbruin. De randen van de deuren en het kozijn tonen lichte slijtage.",
+      "cyclus": 11182,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar verstoort de verwachting van een 'klassieke' deur door de gouden textuur en de onverklaarde rook, wat een eigen standpunt creëert.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011182_11245.webp"
+    },
     {
       "id": 11236,
       "titel": "Roze golven tegen hout",
@@ -117,19 +130,6 @@
       "curriculum_score": 6.0,
       "gekozen": 1,
       "bestand": "images/w011095_11158.webp"
-    },
-    {
-      "id": 11152,
-      "titel": "Waar het licht door stroomt",
-      "beschrijving": "Een donkergrijze houten gevel met verticale planken wordt doorsneden door een witte, open deur met een glazen paneel, waarachter een houten terras en een zwarte metalen reling zichtbaar zijn. Boven de deur bevindt zich een dak met donkergrijze pannen en twee witte zolder ramen met vier ruiten elk, geflankeerd door donkere dakgotiers. Steen质感的 muren onder de gevel leiden naar een trap van lichtgekleurde stenen treden, omgeven door groen gras en kleine gele bloemen. De achtergrond toont een lichte hemel en groene bomen achter het terras.",
-      "cyclus": 11089,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de dakpannen bij de zolder ramen', 'lichte wazigheid in de achtergrond door de open deur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een rustige, bijna minimalistische compositie zonder typisch toeristische motieven of decoratief perfect licht.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w011089_11152.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11179,
-    "gemaakt": 11241,
-    "gekozen": 1728,
+    "cycli": 11187,
+    "gemaakt": 11249,
+    "gekozen": 1729,
     "afgekeurd": 1382,
     "corpus": 63,
     "notities": 445
