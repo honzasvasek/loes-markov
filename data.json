@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T17:45+02:00",
+  "bijgewerkt": "2026-08-20T18:00+02:00",
   "werk": [
+    {
+      "id": 11521,
+      "titel": "Rood dat blijft hangen",
+      "beschrijving": "Drie glanzende, dieprode kersen met groene stelen vormen een driehoekige compositie tegen een grijswitte, wazige achtergrond met donkere, rokerige patronen. De kersen hebben kleine waterdruppeltjes en werpen zachte schaduwen op het oppervlak. Boven de kersen zweven twee vogels met gespreide vleugels, donkergrijs met roodbruine borsten en zwarte staarten, alsof ze net willen landen of wegwillen. De vogels kijken naar elkaar, met hun snavels op dezelfde hoogte, en hun vleugels tonen fijne details van veren. De stelen van de kersen lopen samen in een bruine, droge knoop aan de bovenkant.",
+      "cyclus": 11458,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vleugelspanwijdte van vogels', 'lichte wazigheid in achtergrondtextuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie heeft een ongemakkelijke, denkbeeldige balans.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011458_11521.webp"
+    },
+    {
+      "id": 11518,
+      "titel": "Zes panelen, één sleutelgat",
+      "beschrijving": "Een houten deur met zes rechthoekige panelen, omlijst door twee verticale zuilen met klassieke kapitelen en een horizontale lijst bovenaan. Het hout heeft een warme, bruine tint met zichtbare nerf en knoesten. Een metalen deurkruk en slotplaquette bevinden zich aan de linkerkant van de deur. De zuilen hebben een gladde, cilindrische vorm met een lichte verbreding bij de basis en bovenkant. De compositie is symmetrisch en de deur vult het grootste deel van het beeld, met een witte achtergrond die de randen omlijst.",
+      "cyclus": 11455,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De deur is een alledaags voorwerp zonder iconische of toeristische connotaties, en de compositie is neutraal zonder decoratief perfect licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011455_11518.webp"
+    },
     {
       "id": 11505,
       "titel": "Prikkels in het lichtgrijs",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011412_11475.webp"
-    },
-    {
-      "id": 11474,
-      "titel": "Veeren die de wind uitdagen",
-      "beschrijving": "Dunne, donkere stengels reiken omhoog tegen een grijze hemel, met aan de top donkerbruine, veerachtige bloemkoppen die in de wind lijken te waaien. Langwerpige, spitse bladeren steken schuin omhoog of hangen slap naar beneden. Achter de rietstengels strekt zich een breed, lichtgrijs wateroppervlak uit, met zachte, wazige overgangen naar een donkergrijze, onduidelijke horizon waar vaag land en bomen te herkennen zijn. De kleuren zijn gedempt, met subtiele variaties in grijs, bruin en donkergroen, en de compositie laat veel lege ruimte rond de rietstengels, die de beeldvullende hoofdrol spelen.",
-      "cyclus": 11411,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de nadruk op de leegte en de subtiele spanning tussen de rietstengels en de achtergrond, geen typische ansichtkaartcompositie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011411_11474.webp"
-    },
-    {
-      "id": 11455,
-      "titel": "Regendruppels op rode dromen",
-      "beschrijving": "Rode kersen hangen in clusters aan donkere, slanke takken tegen een grijswitte, wazige achtergrond met subtiele textuur. Regen druppelt zichtbaar naar beneden, met glinsterende druppels op de kersen en takken, en kleine waterpootjes die door het beeld lopen. Drie vogels met donkere koppen, lichtgrijze lichamen en gespreide vleugels vliegen in een diagonale lijn van rechtsboven naar linksonder, hun silhouetten scherp tegen de lichte achtergrond. De kersen hebben een glanzende, natte uitstraling met reflecties van licht, en de takken vertonen kleine, donkere knopjes en onregelmatigheden. De compositie combineert de statische kersen met de dynamiek van de vallende regen en de bewegende vogels, waarbij de rode kersen een levendige contrast vormen met de gedempte achtergrondkleuren.",
-      "cyclus": 11392,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in vogelvleugels (herhaling patronen)', 'lichte inconsistentie in takstructuren (detailverlies)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; composities zijn ongemakkelijk en open.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011392_11455.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11459,
-    "gemaakt": 11521,
-    "gekozen": 1772,
+    "cycli": 11466,
+    "gemaakt": 11528,
+    "gekozen": 1774,
     "afgekeurd": 1393,
     "corpus": 59,
     "notities": 449
