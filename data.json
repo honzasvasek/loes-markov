@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T01:45+02:00",
+  "bijgewerkt": "2026-08-20T02:00+02:00",
   "werk": [
+    {
+      "id": 11099,
+      "titel": "Het gat dat luistert",
+      "beschrijving": "Een gele houten deur met reliëfpanelen en een donkere metalen greep staat links in een roodbruine houten muur met zichtbare nerf en knoesten. Rechts van de deur bevindt zich een onregelmatig gevormd wit gat in het hout, met zachte, golvende randen. Onder de muur loopt een band van onregelmatige, beige en grijze stenen met donkere voegen. Voor de deur liggen drie betonnen treden met verbleekte, vlekkenrijke oppervlakken en donkere hoeken. Op de grond voor de treden liggen verspreide gele en bruine bladeren en kleine donkere vlekken, tegen een lichtroze, textuurloze ondergrond met vaag zichtbare natte plekken.",
+      "cyclus": 11036,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in houttextuur bij rand van witte vorm', 'lichte wazigheid in schaduw onder trappen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een ongemakkelijke, denkbeeldige sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011036_11099.webp"
+    },
+    {
+      "id": 11095,
+      "titel": "Waar blijft de horizon?",
+      "beschrijving": "Een witte, onregelmatige vorm drijft in het midden van concentrische, blauwe golven die zich uitstrekken naar de randen van het beeld. Onder de golven loopt een bruine, textuurrijke laag met verspreide donkere en lichte vlekken, waarbij enkele kleine, glanzende objecten liggen. Een gouden cirkel bevindt zich boven de witte vorm, iets naar links van het midden. De overgang tussen de blauwe en bruine gebieden is vloeiend, met subtiele variaties in kleur en textuur. Kleuraccenten zoals lichtblauw, wit en goud contrasteren met de diepere blauwe en bruine tinten.",
+      "cyclus": 11032,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met focus op textuur en beweging.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011032_11095.webp"
+    },
     {
       "id": 11088,
       "titel": "Wit dat zachtjes bloedt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w010984_11047.webp"
-    },
-    {
-      "id": 11035,
-      "titel": "Waar het water stilstaat",
-      "beschrijving": "Donkerblauwe betonnen blokken vormen een onregelmatig patroon in het water, waarbij wit schuim tussen de kieren stroomt en over de natte oppervlakken glijdt. Achter de blokken verheft zich een witte, kegelvormige molen met donkere, lattenvormige wieken die tegen een helderblauwe hemel afsteken. Aan de basis van de molen zijn donkere rechthoekige openingen zichtbaar, en rechts ervan staat een donker hekwerk waarachter figuren vaag contouren vormen. Het water in de achtergrond is donker en kalmer, terwijl het schuim in het voorplan dynamiek en beweging toevoegt aan het tafereel. De blokken hebben een ruwe textuur met kleine putjes en onregelmatigheden, en sommige zijn bedekt met een dun laagje water of algen.",
-      "cyclus": 10972,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 1,
-      "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen bij water) en de decoratieve, perfecte belichting zonder duidelijke compositorische keuze.",
-      "curriculum_score": 2.0,
-      "gekozen": 1,
-      "bestand": "images/w010972_11035.webp"
-    },
-    {
-      "id": 11030,
-      "titel": "Korrels in het hout",
-      "beschrijving": "Twee donkergrijze houten deuren staan gesloten tegen een lichte muur, elk met vier rechthoekige panelen gevuld met een donker, korrelig materiaal dat aan verbrokkelde kolen of verweerd gesteente doet denken. Een zilverkleurige deurkruk met ornamenten bevindt zich op de rechterdeur, iets boven het midden. Vier donkere scharnieren, twee per deur, lopen verticaal langs de randen. De deuren worden geflankeerd door smalle, lichtgrijze plinten die overgaan in een lichte tegelvloer. Kleine onregelmatigheden in het korrelige materiaal, zoals lichte putjes en oneffenheden, doorbreken de uniforme textuur. De compositie is strikt symmetrisch, met de deuren centraal in het beeld en de kruk als enig asymmetrisch element.",
-      "cyclus": 10967,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de textuur van het glas (links/rechts niet helemaal gelijk), lichte wazigheid in de hoeken van de deur",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de deur heeft een ongemakkelijke, bijna verontrustende sfeer door de donkere textuur en gaten",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w010967_11030.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11035,
-    "gemaakt": 11097,
-    "gekozen": 1710,
+    "cycli": 11042,
+    "gemaakt": 11105,
+    "gekozen": 1712,
     "afgekeurd": 1379,
     "corpus": 64,
     "notities": 441
