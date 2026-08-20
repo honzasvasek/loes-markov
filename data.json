@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-20T03:00+02:00",
+  "bijgewerkt": "2026-08-20T03:15+02:00",
   "werk": [
     {
       "id": 11120,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 11136,
+      "cyclus": 11073,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna verontrustende compositie met sporen van verwaarlozing en ontbinding.",
+      "bestand": "images/a011073_11136.webp"
+    },
+    {
       "id": 11127,
       "cyclus": 11064,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in vensterproporties (bovenste venster smaller dan onderste)', 'Subtiele halo rond daklijn tegen achtergrond']",
       "cliche_notities": "Klassiek huisje met zonsondergangachtergrond en symmetrische compositie straalt ansichtkaart-esthetiek uit zonder verrassend standpunt.",
       "bestand": "images/a010926_10989.webp"
-    },
-    {
-      "id": 10972,
-      "cyclus": 10909,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde karakters en onleesbare symbolen', 'inconsistent lettertype en uitlijning']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder duidelijke intentie.",
-      "bestand": "images/a010909_10972.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11072,
-    "gemaakt": 11134,
+    "cycli": 11075,
+    "gemaakt": 11138,
     "gekozen": 1714,
-    "afgekeurd": 1380,
-    "corpus": 64,
+    "afgekeurd": 1381,
+    "corpus": 63,
     "notities": 441
   }
 }
