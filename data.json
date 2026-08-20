@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-20T21:00+02:00",
+  "bijgewerkt": "2026-08-20T21:15+02:00",
   "werk": [
     {
       "id": 11598,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 11612,
+      "cyclus": 11549,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'wazige texturen', 'detailverlies in schaduw/highlight']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijke thematische keuze.",
+      "bestand": "images/a011549_11612.webp"
+    },
+    {
+      "id": 11611,
+      "cyclus": 11548,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, contemplatieve compositie zonder toeristische connotaties.",
+      "bestand": "images/a011548_11611.webp"
+    },
+    {
       "id": 11610,
       "cyclus": 11547,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld combineert een veer met een letter en wolken, wat geen typisch iconisch of toeristisch onderwerp is en een eigen compositorische keuze laat zien.",
       "bestand": "images/a011547_11610.webp"
-    },
-    {
-      "id": 11554,
-      "cyclus": 11491,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "De deur is een alledaags voorwerp zonder iconische of toeristische connotaties en de compositie is neutraal, niet decoratief.",
-      "bestand": "images/a011491_11554.webp"
-    },
-    {
-      "id": 11552,
-      "cyclus": 11489,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "De deur is een neutraal onderwerp zonder iconische of toeristische connotaties en de compositie is niet decoratief perfect.",
-      "bestand": "images/a011489_11552.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11548,
-    "gemaakt": 11610,
+    "cycli": 11553,
+    "gemaakt": 11615,
     "gekozen": 1788,
-    "afgekeurd": 1397,
+    "afgekeurd": 1399,
     "corpus": 59,
     "notities": 449
   }
