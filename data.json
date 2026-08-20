@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T04:30+02:00",
+  "bijgewerkt": "2026-08-20T04:45+02:00",
   "werk": [
+    {
+      "id": 11164,
+      "titel": "Waar begint de buitenlucht?",
+      "beschrijving": "Een witte deur staat op een kier, geflankeerd door donkere houten panelen en groene planten in witte bakken. Buiten loopt een steenpad tussen ongeknipt gras naar een donkere houten schutting met witte spitse topjes. Achter de schutting zijn donkere struiken en een vage horizon zichtbaar onder een grijze hemel. De deur heeft een donkere klink en scharnieren, en de randen van het deurkozijn zijn licht versleten. De vloer binnen is lichtgrijs en glad, met een schaduw die van de deur uit loopt. De planten aan weerskanten van de deur hebben verschillende vormen en texturen, met enkele witte bloemen in het rechterbakje.",
+      "cyclus": 11101,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de perspectief van de deur en de omringende muur', 'Enkele onduidelijke texturen in de planten aan weerszijden']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een rustige, bijna meditatieve sfeer, maar mist de typische iconische elementen van een toeristische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011101_11164.webp"
+    },
+    {
+      "id": 11158,
+      "titel": "Verf op steen en hout",
+      "beschrijving": "Een glanzende, donkerrode houten dubbeldeur met gepaneelde details en een gouden deurkruk domineert het midden van een donkergrijze gevel. Boven de deur loopt een terrasdak van roodbruine dakpannen, terwijl aan weerszijden van de deur twee lege, lichtbruine lijsten hangen. Onder de deur bevinden zich twee stenen traptreden, waarop een klein groen plantje groeit. Links van de deur, op een stenen muurtje, rust een wit schilderspalet met kleurige verfklonten: rood, oranje, geel, groen, blauw en zwart. De muur onder het palet is opgebouwd uit onregelmatige, grijze en beige stenen. Zonlicht valt schuin op de deur en de omgeving, waardoor diepe schaduwen en heldere highlights ontstaan.",
+      "cyclus": 11095,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet typisch toeristisch en heeft een eigen, rustige balans zonder iconische motieven.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w011095_11158.webp"
+    },
     {
       "id": 11152,
       "titel": "Waar het licht door stroomt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011036_11099.webp"
-    },
-    {
-      "id": 11095,
-      "titel": "Waar blijft de horizon?",
-      "beschrijving": "Een witte, onregelmatige vorm drijft in het midden van concentrische, blauwe golven die zich uitstrekken naar de randen van het beeld. Onder de golven loopt een bruine, textuurrijke laag met verspreide donkere en lichte vlekken, waarbij enkele kleine, glanzende objecten liggen. Een gouden cirkel bevindt zich boven de witte vorm, iets naar links van het midden. De overgang tussen de blauwe en bruine gebieden is vloeiend, met subtiele variaties in kleur en textuur. Kleuraccenten zoals lichtblauw, wit en goud contrasteren met de diepere blauwe en bruine tinten.",
-      "cyclus": 11032,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met focus op textuur en beweging.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011032_11095.webp"
-    },
-    {
-      "id": 11088,
-      "titel": "Wit dat zachtjes bloedt",
-      "beschrijving": "Drie hoopjes witte, doorschijnende kristallen liggen verspreid op een oppervlak van afwisselend grijze en houten planken. De kristallen variëren in grootte en vorm, met scherpe en ronde randen, en werpen kleine schaduwen op het materiaal eronder. Donkergrijze, smalle schaduwen lopen diagonaal over de planken, parallel aan elkaar en aan de randen van de houten delen. Het hout toont lichte slijtage en kleurafwijkingen, met geelbruine en beige tinten die door de grijze verf heen komen. Enkele losse kristallen en kleine deeltjes bevinden zich buiten de hoopjes, willekeurig verspreid over het oppervlak.",
-      "cyclus": 11025,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houttextuur bij randen', 'lichte wazigheid in schaduw van schaduwen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is gericht op subtiele spanning tussen vorm en leegte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011025_11088.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11099,
-    "gemaakt": 11161,
-    "gekozen": 1719,
+    "cycli": 11106,
+    "gemaakt": 11168,
+    "gekozen": 1721,
     "afgekeurd": 1381,
     "corpus": 63,
     "notities": 443
