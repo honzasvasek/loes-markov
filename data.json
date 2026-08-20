@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T12:00+02:00",
+  "bijgewerkt": "2026-08-20T12:15+02:00",
   "werk": [
+    {
+      "id": 11373,
+      "titel": "Veerkrachtig hout",
+      "beschrijving": "Drie houten latten liggen schuin over een wit oppervlak. De bovenste lat heeft een golvende uitsnijding en een kleine metalen splitser. De middelste lat is ongerekt, met een enkele splitser en een klein gat. De onderste lat is voor een groot deel verbrand: het hout is zwart, verkoold en bros, met losse stukken en as die over de lat en het witte oppervlak verspreid liggen. De houtstructuur is duidelijk zichtbaar op de onbeschadigde delen, met fijne, parallelle vezels. De overgang van gezond naar verbrand hout is scherp en onregelmatig.",
+      "cyclus": 11310,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de contrasten tussen hout en verbrande delen, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011310_11373.webp"
+    },
+    {
+      "id": 11372,
+      "titel": "Vogels op de latten",
+      "beschrijving": "Drie houten latten lopen diagonaal door het beeld, met zichtbare nerf en knoesten. Op de latten zitten drie vogels getekend in zwarte en grijze tinten, elk in een andere houding: één kijkt naar links, één naar rechts en één staat met zijn rug naar de kijker. Rond de vogels bevinden zich donkere vlekken en spetters, alsof er verf of ink is gespat. Tussen de latten door loopt een smalle witte spleet. Op de houten oppervlakken liggen enkele metalen spijkers en een kleine, zilverkleurige spijker. De achtergrond is helderwit, waardoor de houten textuur en de vogels scherp afsteken. De compositie is rustig, met een subtiele spanning tussen de rechte houten lijnen en de organische vormen van de vogels en vlekken.",
+      "cyclus": 11309,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in houttextuur bij randen, lichte wazigheid bij vogelveren",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met vogels op hout.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011309_11372.webp"
+    },
     {
       "id": 11368,
       "titel": "Vergeten vlucht",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w011264_11327.webp"
-    },
-    {
-      "id": 11320,
-      "titel": "Waar blijft de horizon?",
-      "beschrijving": "Twee witte houten deuren staan wijd open in een muur van zandkleurige baksteen, met gouden deurkrukken en donkere scharnieren. Achter de deuren strekt zich een woestijnschap uit met zandduinen in tinten van oker en lichtbruin, onder een helderblauwe hemel zonder wolken. De deuren werpen een donkere schaduw op het zand voor hen, waar ook kleine steentjes en een ronde, donkere voorwerp liggen. Het zand binnen en buiten de deuren heeft een gladde, bijna geschilderde textuur, met subtiele golven en sporen van wind. De randen van de deuren en de kozijnen tonen lichte slijtage, met kleine krassen en verbleekte verf.",
-      "cyclus": 11257,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De deur in de woestijn is geen iconisch motief en de compositie heeft een ongemakkelijke, denkbare spanning tussen binnen en buiten, geen ansichtkaartlicht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011257_11320.webp"
-    },
-    {
-      "id": 11312,
-      "titel": "Regen op zand, munt in vocht",
-      "beschrijving": "Twee grijze houten deuren staan wijd open in een crèmekleurige muur, met donkere scharnieren en ronde metalen klinken. Buiten ontplooit zich een woestijnschap met golvende zandduinen onder een grijs, regenachtig hemelgewelf. Regen druipt zichtbaar naar beneden, terwijl het zand nat en donkerder lijkt bij de deurdrempel. Een enkele groene plant steekt uit het zand, omringd door kleine stenen en een verlaten metalen kruk met drie poten. Het zand binnen de deuren is lichter en droger, met sporen van vocht en een verspreide munt. Rechtsboven in de muur zit een donkere vlek met kleine spetters, en de vloer binnen is van beton met verbleekte vlekken. De deuren hebben een klassieke vorm met reliëfpanelen en een lichte verweering.",
-      "cyclus": 11249,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in deuren (linkerdeur iets smaller dan rechterdeur)', 'lichte wazigheid in achtergrondwoestijn']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, denkbare spanning tussen binnen- en buitenruimte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011249_11312.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11310,
-    "gemaakt": 11373,
-    "gekozen": 1748,
+    "cycli": 11318,
+    "gemaakt": 11380,
+    "gekozen": 1750,
     "afgekeurd": 1385,
     "corpus": 59,
     "notities": 449
