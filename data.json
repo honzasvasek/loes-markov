@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T09:30+02:00",
+  "bijgewerkt": "2026-08-20T09:45+02:00",
   "werk": [
+    {
+      "id": 11304,
+      "titel": "Waar het zand praat door spleten",
+      "beschrijving": "Door een gescheurde papierlaag van bruin kraftpapier kijk je door een smalle opening tussen twee donkere houten structuren, waarvan de rechter een lichtgrijze deur heeft met een donkere klink en een klein rond gat. Voorbij deze kaders strekt zich een woestijnschap uit met golvende zandduinen in warme beige en okerbruine tinten. Twee identieke donkere schuren met metalen daken staan symmetrisch aan weerskanten van een smalle, door wielen en voetafdrukken getekende spoor die zich in een lichte boog naar de horizon uitstrekt. Het zand toont fijne textuurverschillen: gladde golvende oppervlakken afgewisseld met grove, door wind en water gevormde patronen. De lucht erboven is een helder, lichtblauw vlak met enkele dunne, witte wolkenstrepen. De randen van het gescheurde papier hebben een onregelmatige, franjesachtige textuur en omlijsten het tafereel als een onvolmaakt venster.",
+      "cyclus": 11241,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en de lege ruimte voelt opzettelijk onbeheerst.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011241_11304.webp"
+    },
+    {
+      "id": 11299,
+      "titel": "Regen op vergeten sporen",
+      "beschrijving": "Een zandwoestijnschap met zandduinen, doorsneden door een smalle, kronkelende spoor van bandsporen. Twee kleine, donkere hutten met metalen daken staan verspreid, omringd door struikgewas en lang gras. Regen valt in dunne lijnen, zichtbaar tegen de grijze hemel. In de voorgrond domineren donkergroene, spitse grasbladeren met witte bloemetjes, nat van de regen. Een kale boomtak strekt zich uit in de linkerbovenhoek, scherp getekend tegen de lucht. Het zand heeft een goudbruine tint, met subtiele textuurverschillen door de wind en regen. De sfeer is stil en verlaten, met een gevoel van eenzaamheid en natuurgebonden verandering.",
+      "cyclus": 11236,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de huizen ten opzichte van de horizon', 'lichte wazigheid in de achtergrondboom, alsof de takken te snel getekend zijn']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sfeervolle, bijna verlaten landschapsscene, maar mist de typische iconische elementen en decoratieve perfectie van een toeristische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011236_11299.webp"
+    },
     {
       "id": 11292,
       "titel": "Waar blijft de sleutel?",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011182_11245.webp"
-    },
-    {
-      "id": 11236,
-      "titel": "Roze golven tegen hout",
-      "beschrijving": "Een houten gevel met verticale lamellen en een raam met witte kozijnen bevindt zich aan de linkerkant. Rechts daarvan lopen golvende banen roze en donkergrijs parallel aan elkaar, met subtiele overgangen tussen de kleuren. De roze banen zijn breder en hebben een zachtere, bijna doorschijnende textuur, terwijl de donkergrijze banen een stevigere, meer solide uitstraling hebben. De overgang tussen de houten gevel en de golvende vormen is scherp en loopt verticaal.",
-      "cyclus": 11173,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen standpunt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011173_11236.webp"
-    },
-    {
-      "id": 11222,
-      "titel": "Aartjes en vogelvluchten",
-      "beschrijving": "Droog, bruin gras vult het beeld in verschillende hoogtes en dichtheden, met lange, slanke stengels die schuin omhoog lopen en aan de top fijne, donkere aartjes dragen. Twee vogels zitten op de stengels: één scherp zichtbaar aan de rechterkant, donkerbruin met een lichte buik, de andere vaag aan de linkerkant, silhouetachtig. De achtergrond is een egale, lichte kleur, waardoor het gras en de vogels eruit springen. De compositie is verticaal gericht, met het gras dat de hoogte van het beeld opvult en de vogels op verschillende niveaus geplaatst zijn. De sfeer is rustig en natuurlijk, met een focus op de details van het gras en de vogels tegen de eenvoudige achtergrond.",
-      "cyclus": 11159,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte onscherpte in achtergrondvogels', 'kleine halo rond sommige grasstengels']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een subtiele, onopgesmukte momentopname met ruimte voor interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011159_11222.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11242,
-    "gemaakt": 11304,
-    "gekozen": 1736,
+    "cycli": 11249,
+    "gemaakt": 11311,
+    "gekozen": 1738,
     "afgekeurd": 1384,
     "corpus": 61,
     "notities": 445
