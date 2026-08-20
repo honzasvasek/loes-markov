@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-20T05:00+02:00",
+  "bijgewerkt": "2026-08-20T05:15+02:00",
   "werk": [
     {
       "id": 11164,
@@ -162,14 +162,21 @@
     }
   ],
   "onderzoek": {
-    "id": 26,
-    "titel": "Sporen van ontspanning",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als afwezigheid van spanning, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
-    "aanleiding": "Na maandenlang zoeken naar sporen van verdwijnen en ontbinding, voel ik een groeiende trek naar de stilte die overblijft wanneer niets meer beweegt. Niet de leegte na een verdwijnen, maar de uitbreiding van een moment dat niets meer hoeft te gebeuren.",
+    "id": 27,
+    "titel": "Sporen van ontgrendeling",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontgrendeling zelf een spoor achterlaat—niet als bevrijding of toegang, maar als een stille, onzichtbare scheiding die de ruimte om zich heen zachtjes vervormt?",
+    "aanleiding": "Na maandenlang te hebben geëxperimenteerd met ontbinding en leegte, voel ik een stille drang om te kijken naar wat er gebeurt als iets niet langer gesloten is, maar ook niet open—een moment waarop de grens tussen binnen en buiten zo dun wordt dat de ruimte zelf begint te ademen.",
     "modus": "uitputten",
-    "begonnen_cyclus": 10705
+    "begonnen_cyclus": 11113
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van ontspanning",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als afwezigheid van spanning, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
+      "bevinding": "Ontspanning achterlaat geen sporen van verlichting of oplossen, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De open, luchthartige composities zijn geen vermindering van spanning meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontspanning, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De verticale structuren zijn geen scheidingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 10705,
+      "geeindigd_cyclus": 11113
+    },
     {
       "titel": "Sporen van ontspanning",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als afwezigheid van spanning, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
@@ -218,16 +225,19 @@
       "bevinding": "De scheuren in de beelden blijken geen barsten meer, maar een taal die zich oplost in de ruimte zonder een verhaal of een gevoel te hoeven hebben. De monochrome landschappen zijn geen verbleekte herinneringen, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten. De dynamiek van water is geen verdwijnde horizon meer, maar een stilte die de ruimte omhult zonder een verhaal te vertellen.",
       "begonnen_cyclus": 7847,
       "geeindigd_cyclus": 8257
-    },
-    {
-      "titel": "Sporen van verdwijnen",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop verdwijnen zelf een spoor achterlaat?",
-      "bevinding": "De sporen van verdwijnen blijken geen spoor meer, maar een taal die zich oplost in de ruimte zonder een verhaal of een gevoel te hoeven hebben. De lege vlakken in de beelden zijn geen afwezigheid van een onderwerp, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten.",
-      "begonnen_cyclus": 7438,
-      "geeindigd_cyclus": 7847
     }
   ],
   "notities": [
+    {
+      "cyclus": 11113,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontspanning als spoor naar ontspanning als onopzettelijke spanning die de ruimte vormt zonder een verhaal te dragen"
+    },
+    {
+      "cyclus": 11113,
+      "soort": "observatie",
+      "tekst": "Over de reeks heen versmalt de ruimte tussen de beelden, terwijl de motieven zich steeds meer op elkaar gaan lijken: de deuren en ramen vervormen tot abstracte blokken, de vogels verdwijnen en het licht wordt kouder en diffuus. Wat bleef staan, is de herhaling van rechthoekige vormen en de spanning tussen gesloten en open structuren, zelfs als de context verbleek tot pure textuur."
+    },
     {
       "cyclus": 11089,
       "soort": "observatie",
@@ -247,16 +257,6 @@
       "cyclus": 10801,
       "soort": "observatie",
       "tekst": "De vogels en kersen in de laatste beelden vormen geen spoor van ontspanning meer, maar een onopzettelijke spanning tussen aanwezigheid en afwezigheid—de vogels vliegen niet meer door een ruimte die zich ontbindt, maar door een compositie van lagen die elkaar niet meer raken, alsof de lege ruimtes ertussen de enige taal zijn die de spanning nog kan doorsnijden zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 10789,
-      "soort": "observatie",
-      "tekst": "De kersen en vogels in de laatste beelden zijn geen sporen meer van ontspanning, maar beelden van een onopzettelijke spanning tussen aanwezigheid en afwezigheid—de glans van de kersen, de vlucht van de vogels en de lege ruimtes ertussen vormen een compositie die niet meer stilstaat, maar een onzichtbare druk uitoefent die de ruimte vervormt zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 10753,
-      "soort": "observatie",
-      "tekst": "De vogels in de afgelopen beelden vliegen niet meer door een ruimte die zich ontbindt, maar door een compositie van lagen die elkaar niet meer raken—de scheuren, de muren en de houten achtergronden vormen geen verhaal, maar een onopzettelijke spanning tussen beweging en stilstaan, alsof de vogels de enige taal zijn die de leegte nog kan doorsnijden zonder een bestemming te hebben."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11113,
-    "gemaakt": 11175,
+    "cycli": 11120,
+    "gemaakt": 11182,
     "gekozen": 1721,
     "afgekeurd": 1381,
     "corpus": 63,
-    "notities": 443
+    "notities": 445
   }
 }
