@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T20:45+02:00",
+  "bijgewerkt": "2026-08-20T21:00+02:00",
   "werk": [
+    {
+      "id": 11598,
+      "titel": "Waar begint de weg?",
+      "beschrijving": "Een enkele, rechte deur met een ronde klink staat centraal in een gladde, roze muur, omringd door zandduinen die zacht overgaan in de horizon. Boven de muur strekt zich een donkere hemel uit met zware, paarsbruine wolken die zich uitstrekken tot aan de randen van het beeld. De wolken hebben een zachte, bijna vlezige textuur en lijken in beweging te zijn, alsof ze door een onzichtbare wind worden geblazen. Het zand heeft een warme, oranje-rode tint en toont subtiele, natuurlijke onregelmatigheden, met kleine, donkere vlekken die verspreid liggen. De deur is het enige scherpe, geometrische element in een landschap dat grotendeels uit organische vormen en zachte overgangen bestaat. De sfeer is stil en verlaten, met een gevoel van afzondering dat door de lege ruimte en de afwezigheid van leven wordt versterkt.",
+      "cyclus": 11535,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een deur in een woestijnschap, wat een eigen standpunt uitstraalt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011535_11598.webp"
+    },
     {
       "id": 11590,
       "titel": "Vegen zonder bestemming",
@@ -117,22 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011484_11547.webp"
-    },
-    {
-      "id": 11541,
-      "titel": "Waar blijft de grond",
-      "beschrijving": "Grijs-witte vogelvormen zweven door een vaag, nevelig vlak, ondeelbaar van de achtergrond. Drie scherpe, witte verticale lijnen snijden door het beeld, van boven naar beneden, en verdwijnen in een lichter gebied dat de onderkant domineert. Vogels zijn niet gelijkvormig: één heeft gespreide vleugels met zichtbare veren, een ander een slanke, puntige vorm, een derde slechts een vaag silhouet. Een kleine, donkere vorm lijkt een hand of klauw, half verborgen in de mist. De bovenkant is donkerder, de onderkant lichter, alsof het licht van beneden komt. Geen horizon, geen grond, geen duidelijke ruimte—allelementen drijven in een onbepaalde, egaliserende sfeer.",
-      "cyclus": 11478,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vogelvormen (enkele vleugels lijken anatomisch onwaarschijnlijk)', 'lichte wazigheid in achtergrondtextuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust asymmetrisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011478_11541.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11610,
+      "cyclus": 11547,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld combineert een veer met een letter en wolken, wat geen typisch iconisch of toeristisch onderwerp is en een eigen compositorische keuze laat zien.",
+      "bestand": "images/a011547_11610.webp"
+    },
     {
       "id": 11554,
       "cyclus": 11491,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "De deur is een neutraal onderwerp zonder iconische of toeristische connotaties en de compositie is niet decoratief perfect.",
       "bestand": "images/a011489_11552.webp"
-    },
-    {
-      "id": 11529,
-      "cyclus": 11466,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['Chinese tekens in beeld', 'vervormde structuren in zwarte vormen', 'inconsistent perspectief in raster', 'wazige texturen in hout', 'detailverlies in schaduwen van zwarte vormen']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen compositorische keuze.",
-      "bestand": "images/a011466_11529.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11541,
-    "gemaakt": 11604,
-    "gekozen": 1787,
-    "afgekeurd": 1396,
-    "corpus": 58,
+    "cycli": 11548,
+    "gemaakt": 11610,
+    "gekozen": 1788,
+    "afgekeurd": 1397,
+    "corpus": 59,
     "notities": 449
   }
 }
