@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-20T22:00+02:00",
+  "bijgewerkt": "2026-08-20T22:15+02:00",
   "werk": [
     {
       "id": 11615,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 11641,
+      "cyclus": 11578,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde tekst (onleesbaar/onzin)', 'wazige textuur in rook en gras', 'inconsistent perspectief horizon']",
+      "cliche_notities": "Geen iconisch landschap of toeristisch motief, maar een abstracte, onontbrekende aanwezigheid met onleesbare tekst en ongemakkelijke compositie.",
+      "bestand": "images/a011578_11641.webp"
+    },
+    {
       "id": 11612,
       "cyclus": 11549,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, contemplatieve compositie zonder toeristische connotaties.",
       "bestand": "images/a011548_11611.webp"
-    },
-    {
-      "id": 11610,
-      "cyclus": 11547,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld combineert een veer met een letter en wolken, wat geen typisch iconisch of toeristisch onderwerp is en een eigen compositorische keuze laat zien.",
-      "bestand": "images/a011547_11610.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11574,
-    "gemaakt": 11637,
+    "cycli": 11580,
+    "gemaakt": 11642,
     "gekozen": 1789,
-    "afgekeurd": 1399,
+    "afgekeurd": 1400,
     "corpus": 59,
     "notities": 449
   }
