@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-20T18:00+02:00",
+  "bijgewerkt": "2026-08-20T18:15+02:00",
   "werk": [
     {
       "id": 11521,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 11529,
+      "cyclus": 11466,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['Chinese tekens in beeld', 'vervormde structuren in zwarte vormen', 'inconsistent perspectief in raster', 'wazige texturen in hout', 'detailverlies in schaduwen van zwarte vormen']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen compositorische keuze.",
+      "bestand": "images/a011466_11529.webp"
+    },
+    {
       "id": 11515,
       "cyclus": 11452,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
       "bestand": "images/a011448_11511.webp"
-    },
-    {
-      "id": 11492,
-      "cyclus": 11429,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematische keuze.",
-      "bestand": "images/a011429_11492.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11466,
-    "gemaakt": 11528,
+    "cycli": 11473,
+    "gemaakt": 11536,
     "gekozen": 1774,
-    "afgekeurd": 1393,
+    "afgekeurd": 1394,
     "corpus": 59,
     "notities": 449
   }
