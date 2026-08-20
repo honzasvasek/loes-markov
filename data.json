@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T01:00+02:00",
+  "bijgewerkt": "2026-08-21T01:15+02:00",
   "werk": [
+    {
+      "id": 11724,
+      "titel": "Scherpe randen, onrustige leegte",
+      "beschrijving": "Donkere, onregelmatige vormen snijden door een lichte, korrelige achtergrond. Zwarte en donkergrijze vlekken en strepen lopen in diagonale en golvende banen, met scherpe en onscherpe randen. Kleinere druppels en spetters verspreiden zich rond de bredere vormen, sommige opgelost in vaagere grijstinten. De compositie voelt ongestructureerd, met ruimtes die zowel leeg als gevuld lijken. De sfeer is rustig maar onrustig, door de contrasten tussen donker en licht en de wisselende textuur van de vormen.",
+      "cyclus": 11661,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011661_11724.webp"
+    },
+    {
+      "id": 11717,
+      "titel": "Waar het papier bloedeer",
+      "beschrijving": "Twee scheuren in een wit, textuurrijk vlak onthullen een bewolkte hemel met donkergrijze en blauwe tinten. Door het bovenste scheur valt een bundel zonlicht, zacht en diffuus, naar beneden. Het onderste scheur laat een donkerder deel van de hemel zien, met zwaardere wolken en een subtiele gloed aan de horizon. De randen van het scheur zijn onregelmatig en vezelig, met schaduwen die diepte geven aan het vlak. De achtergrond bestaat uit een egaal, lichtgrijs oppervlak dat de scheuren omringt.",
+      "cyclus": 11654,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van het papier aan de randen, waarbij sommige delen kunstmatig scherp lijken en andere delen waziger', 'Subtiele halo-effecten rond de randen van het gescheurde papier tegen de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met het gescheurde papier als metaforisch element, wat het boven een typische ansichtkaart verheft",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011654_11717.webp"
+    },
     {
       "id": 11711,
       "titel": "Donkerblauw met onkruid",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011600_11663.webp"
-    },
-    {
-      "id": 11661,
-      "titel": "Water dat terugkijkt",
-      "beschrijving": "Een houten steiger met blauwe metalen leuningen loopt recht vooruit over een wateroppervlak, omringd door zacht bewegend water met lichte rimpelingen. Het hout toont verschillende tinten bruin en geel, met zichtbare slijtage en kleine vlekken. Aan weerskanten van de steiger steken houten palen uit het water, sommige met losse takken of stengrass eromheen. Het water reflecteert vaag de omgeving, met subtiele groene en blauwe tinten en wat drijvend afval zoals takjes en bladeren. De compositie is symmetrisch, met de steiger als centrale as die het beeld in twee gelijke helften deelt. De sfeer is rustig en verlaten, met een lichte onrust in het water die beweging suggereert.",
-      "cyclus": 11598,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, contemplatieve sfeer en geen typisch toeristisch onderwerp of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011598_11661.webp"
-    },
-    {
-      "id": 11653,
-      "titel": "Water dat de muur kust",
-      "beschrijving": "Drie huizen met schuine daken en terracotta dakpannen vullen het beeld, gescheiden door een smalle steeg en een waterloop die de voorgrond beslaat. Het linkerhuis heeft een crèmekleurige gevel met twee ramen en een blauwe kroonlijster, terwijl het middelste huis een roodbruine muur heeft met een klein, donker raam. Het rechterhuis combineert een blauwe gevel met een roodbruine zijmuur en twee verticale ramen. Een muur van onregelmatige stenen in beige, grijs en okergeel scheidt de huizen van de steeg, waar een donkere deur zich bevindt. Het water weerspiegelt de gevels en de steenmuur, met zachte, wazige overgangen. De achtergrond bestaat uit een egale, lichtgele hemel zonder details. Kleuren zijn gedempt en de penseelstreken zichtbaar textuurrijk.",
-      "cyclus": 11590,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de daken ten opzichte van de muren', 'Wazige overgang tussen de lucht en de achtergrondgebouwen']",
-      "academie_cliche": 1,
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een typisch Europees waterdorp met iconische gevels en een serene sfeer.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w011590_11653.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11661,
-    "gemaakt": 11723,
-    "gekozen": 1802,
+    "cycli": 11668,
+    "gemaakt": 11731,
+    "gekozen": 1804,
     "afgekeurd": 1402,
     "corpus": 59,
     "notities": 452
