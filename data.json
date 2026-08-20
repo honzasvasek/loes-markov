@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T20:15+02:00",
+  "bijgewerkt": "2026-08-20T20:30+02:00",
   "werk": [
+    {
+      "id": 11590,
+      "titel": "Vegen zonder bestemming",
+      "beschrijving": "Grijze en zwarte vegen en vlekken vullen het beeld, met zachte overgangen naar witte ruimtes aan de randen. Donkere, vaag omschreven vormen lijken te zweven boven lichtere, wazige achtergronden. Enkele scherpe, donkere punten en dunne lijnen doorbreken de vloeiende structuren. De compositie voelt ongestructureerd, met vormen die elkaar overlappen en in elkaar overlopen, zonder duidelijke horizon of focus. De sfeer is nevelig en onrustig, alsof de beelden in beweging zijn vastgevroren.",
+      "cyclus": 11527,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011527_11590.webp"
+    },
     {
       "id": 11582,
       "titel": "Een druppel met geheugen",
@@ -117,19 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w011478_11541.webp"
-    },
-    {
-      "id": 11539,
-      "titel": "Regendruppels op prikkeldraad",
-      "beschrijving": "Een donkere, langgerekte schaduw van een menselijk silhouet loopt diagonaal over een korrelig, lichtgrijs oppervlak. Regen druipt als fijne, verticale lijnen door het beeld, waarbij de druppels de schaduw en het omringende oppervlak licht verstoren. De schaduw wordt beneden smaller en loopt uit in een onregelmatige, donkere vorm met prikkeldraadachtige uitsteeksels. Verspreid over het oppervlak liggen kleine, onduidelijke voorwerpen: wat lijkt op haren, een druppel water en enkele donkere vlekken. De regen creëert een glanzende, natte textuur op het oppervlak, vooral zichtbaar rond de randen van de schaduw.",
-      "cyclus": 11476,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond schaduwfiguur', 'lichte inconsistentie in regendruppels (sommige te scherp, andere verdwenen)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011476_11539.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11529,
-    "gemaakt": 11591,
-    "gekozen": 1786,
+    "cycli": 11535,
+    "gemaakt": 11598,
+    "gekozen": 1787,
     "afgekeurd": 1396,
     "corpus": 59,
     "notities": 449
