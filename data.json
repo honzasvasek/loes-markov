@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T16:45+02:00",
+  "bijgewerkt": "2026-08-20T17:00+02:00",
   "werk": [
+    {
+      "id": 11495,
+      "titel": "Waar het water stilstaat",
+      "beschrijving": "Vier rechthoekige, beige steenblokken met onregelmatige randen en ingekraste patronen van bladeren en takken liggen in een twe-op-twee raster op een glad, turkoois oppervlak dat water suggereert. De stenen hebben een ruwe textuur met kleine putjes en hobbelige uitsteeksels, en de ingekraste motieven variëren in grootte en complexiteit. Twee droge, bruine takken met kleine takjes strekken zich diagonaal uit over de onderste stenen en het water, waarbij één tak de linkeronderste steen raakt en de andere in de rechteronderhoek verdwijnt. De schaduwen onder de stenen en takken zijn zacht en donkerblauw, en het water vertoont lichte rimpelingen rond de stenen.",
+      "cyclus": 11432,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011432_11495.webp"
+    },
+    {
+      "id": 11490,
+      "titel": "Wit dat schuurt in de snavel",
+      "beschrijving": "Tegen een effen, lichtgrijze achtergrond met subtiele textuur staan acht vogels verspreid op witte, slanke takken die in verschillende hoeken door het beeld lopen. Elke vogel heeft een donkere kop met een opvallende witte vlek aan weerszijden van de snavel, een lichtgrijze borst en donkere vleugels met witte strepen. Hun staarten zijn lang en donker, en hun poten zijn dun en donker, met kleine klauwtjes die de takken omvatten. De vogels kijken in uiteenlopende richtingen, wat een gevoel van wisselende aandacht geeft. De takken vertakken zich op verschillende plekken, met kleine, ronde knopjes en af en toe een donkere vlek. De compositie is gebalanceerd, met de vogels en takken die een netwerk vormen dat het beeld opdeelt in onregelmatige segmenten. De sfeer is rustig en statisch, met een focus op de details van de vogels en de takken.",
+      "cyclus": 11427,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De vogels en takken zijn geen iconisch Nederlands motief en de compositie heeft een eigen, bijna abstracte structuur, geen toeristische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011427_11490.webp"
+    },
     {
       "id": 11488,
       "titel": "Tandwielvogels op ijsstammen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011378_11441.webp"
-    },
-    {
-      "id": 11440,
-      "titel": "Korrelige hoeken van een vergeten muur",
-      "beschrijving": "Vier rechthoekige, donkergrijze panelen vullen het beeld, gescheiden door smalle, rechte lijnen die een kruis vormen. Elk paneel heeft een korrelige textuur met subtiele variaties in grijstinten, alsof het oppervlak licht verweerd is. Aan de randen van het geheel lopen onregelmatige, lichte vlekken en slijtage, met hier en daar een dunne, witte krassporen die diagonaal of horizontaal door de panelen lopen. In het rechteronderste paneel bevinden zich een paar kleine, donkere vlekken, verspreid over het oppervlak. De algehele sfeer is rustig en monochroom, met een focus op de textuur en de subtiele onvolkomenheden van het materiaal.",
-      "cyclus": 11377,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, minimalistische compositie zonder duidelijke thematiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011377_11440.webp"
-    },
-    {
-      "id": 11434,
-      "titel": "Roodbruin water tussen donkere lijnen",
-      "beschrijving": "Een smalle, kronkelende waterloop snijdt door een roodbruin landschap, getekend met witte en lichtgrijze strepen die beweging suggereren. Donkere, onregelmatige rotsen flankeren het water, met hier en daar struiken van lang, slank gras dat in zwarte en donkerbruine tinten is weergegeven. Twee verticale, donkere lijnen — mogelijk stammen of palen — raken de boven- en onderkant van het beeld en omlijsten een deel van het tafereel. De achtergrond is eenduidig roodbruin, zonder horizon of verdwijnpunt, waardoor de focus ligt op de vloeiende lijnen van het water en de textuur van de rotsen en vegetatie. De sfeer is rustig, bijna meditatief, met een subtiele spanning tussen de statische elementen en de dynamiek van het water.",
-      "cyclus": 11371,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011371_11434.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11433,
-    "gemaakt": 11495,
-    "gekozen": 1768,
+    "cycli": 11440,
+    "gemaakt": 11502,
+    "gekozen": 1770,
     "afgekeurd": 1391,
     "corpus": 59,
     "notities": 449
