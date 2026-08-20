@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-20T21:15+02:00",
+  "bijgewerkt": "2026-08-20T21:30+02:00",
   "werk": [
+    {
+      "id": 11615,
+      "titel": "De val van de kers",
+      "beschrijving": "Een witte, gelakte houten oppervlakte met subtiele verticale korrelstructuren vormt de achtergrond. Daartegen contrasteert een donker, amorf vlekje met een onregelmatige, bijna druppelvormige contour. Het vlekje heeft een matte, korrelige textuur met fijne krassen en lijkt van een zware, viskeuze stof te bestaan die langzaam naar beneden loopt in een smalle, glanzende druppel. Onder deze druppel zweeft een glanzende, dieprode kers met een groene steel, scherp gedetailleerd en met een reflectie van licht op de schil. De kers staat centraal onder de druppel, alsof deze net zou vallen. De compositie is verticaal georiënteerd, met een sterke focus op de relatie tussen de donkere vloeistof en de levendige kers. De sfeer is statisch maar suggestief, met een spanning tussen het stilstaande en het bewegende.",
+      "cyclus": 11552,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongewoon en heeft een eigen standpunt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011552_11615.webp"
+    },
     {
       "id": 11598,
       "titel": "Waar begint de weg?",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011486_11549.webp"
-    },
-    {
-      "id": 11547,
-      "titel": "Zes vogels, geen roedel",
-      "beschrijving": "Zes witte vogels met gespreide vleugels vliegen tegen een egale grijze achtergrond. Hun veren zijn subtiel getekend met grijze en zwarte nuances aan de randen, terwijl de kroppen wit blijven. Elke vogel heeft een kleine zwarte oogbal en een puntige zwarte snavel. De vogels zijn willekeurig verdeeld over het vlak, zonder duidelijke richting of groepsvorming. Hun vleugels staan in verschillende fases van beweging, met lichte variaties in hoek en opening. De compositie is symmetrisch opgebouwd met twee kolommen van drie vogels, maar de posities en oriëntaties verschillen per exemplaar.",
-      "cyclus": 11484,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De vogels zijn geen iconisch motief en de compositie heeft een eigen dynamiek zonder decoratief perfect licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011484_11547.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11553,
-    "gemaakt": 11615,
-    "gekozen": 1788,
+    "cycli": 11560,
+    "gemaakt": 11623,
+    "gekozen": 1789,
     "afgekeurd": 1399,
     "corpus": 59,
     "notities": 449
