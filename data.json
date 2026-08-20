@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T23:00+02:00",
+  "bijgewerkt": "2026-08-20T23:15+02:00",
   "werk": [
+    {
+      "id": 11663,
+      "titel": "Waar het hout zwijgt",
+      "beschrijving": "Een houten steiger loopt recht vooruit over een kalm wateroppervlak, omzoomd door blauwe metalen relingen. De houten planken vertonen slijtage, met geelbruine vlekken en donkere voeglijnen die de textuur benadrukken. Aan weerskanten rijzen houten palen uit het water, deels ondergedompeld, met hier en daar wat groen waterkruid. Het water reflecteert zacht de steiger en de lichte, bewolkte hemel erboven, met subtiele rimpelingen die de rust verstoren. In de verte verdwijnt de steiger in een lichtere horizon, waar vaag de contouren van heuvels of bergen te zien zijn. De kleuren zijn gedempt, met blauwe en groene tinten in het water en de achtergrond, terwijl het hout warme, verbleekte nuances heeft.",
+      "cyclus": 11600,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een rustige, bijna meditatieve compositie zonder iconische of toeristische elementen, en de focus ligt op de subtiele vervorming van ruimte en afwezigheid.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011600_11663.webp"
+    },
+    {
+      "id": 11661,
+      "titel": "Water dat terugkijkt",
+      "beschrijving": "Een houten steiger met blauwe metalen leuningen loopt recht vooruit over een wateroppervlak, omringd door zacht bewegend water met lichte rimpelingen. Het hout toont verschillende tinten bruin en geel, met zichtbare slijtage en kleine vlekken. Aan weerskanten van de steiger steken houten palen uit het water, sommige met losse takken of stengrass eromheen. Het water reflecteert vaag de omgeving, met subtiele groene en blauwe tinten en wat drijvend afval zoals takjes en bladeren. De compositie is symmetrisch, met de steiger als centrale as die het beeld in twee gelijke helften deelt. De sfeer is rustig en verlaten, met een lichte onrust in het water die beweging suggereert.",
+      "cyclus": 11598,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, contemplatieve sfeer en geen typisch toeristisch onderwerp of decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011598_11661.webp"
+    },
     {
       "id": 11653,
       "titel": "Water dat de muur kust",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011519_11582.webp"
-    },
-    {
-      "id": 11576,
-      "titel": "Ringenspreiding zonder oorzaak",
-      "beschrijving": "Twee rotsen drijven in water, elk omgeven door concentrische ringen die zich uitstrekken over een effen, lichtgrijze achtergrond. De bovenste rots is groter, met een onregelmatige, ruwe textuur en donkere schaduwen die de diepte benadrukken. De onderste rots is kleiner, met een gladdere oppervlakte en zachtere overgangen tussen licht en donker. Beide rotsen werpen een spiegelbeeld op het water, waarbij de bovenste een donkerder, onscherper reflex heeft dan de onderste. De wateroppervlakte is kalm, met subtiele golven die de ringen verstoren en een gevoel van stilte uitstralen. De compositie is verticaal opgebouwd, met de rotsen centraal geplaatst en de ruimte eromheen leeg en ongestoord.",
-      "cyclus": 11513,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is sober en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011513_11576.webp"
-    },
-    {
-      "id": 11569,
-      "titel": "Gras dat fluistert met de wind",
-      "beschrijving": "Lang, spits gras in blauwgroene en groene tinten vult het beeld, met scherpe, verticale stengels die zich vermengen met zachte, golvende bewegingen. Gele bloemetjes, vaag en verspreid, prikkelen door het groen, terwijl de achtergrond overgaat in een onscherp mozaïek van groen en geel. Licht valt schuin, waardoor sommige grasspelden glanzen en andere in schaduw verdwijnen. De compositie straalt een rustige, bijna dromerige sfeer uit, met een subtiele dynamiek door de wisselwerking van scherpe en vloeiende lijnen.",
-      "cyclus": 11506,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte wazigheid in achtergrond is stylistisch, geen technisch gebrek",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op subtiele beweging en textuur, niet op een bevestigend landschap",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011506_11569.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11601,
-    "gemaakt": 11664,
-    "gekozen": 1793,
+    "cycli": 11609,
+    "gemaakt": 11671,
+    "gekozen": 1795,
     "afgekeurd": 1400,
     "corpus": 59,
     "notities": 451
