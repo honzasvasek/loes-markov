@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-20T10:15+02:00",
+  "bijgewerkt": "2026-08-20T10:30+02:00",
   "werk": [
+    {
+      "id": 11330,
+      "titel": "Waar blijft de rook vandaan?",
+      "beschrijving": "Een houten deur staat op een kier, met een donkerbruine klink en een donkere scharnier aan de linkerkant. Rookachtige, witte slagen glijden door de opening en om de deur heen, met een zachte, wazige textuur. Achter de deur is een gang zichtbaar met een tweede, gesloten houten deur en twee groene, vierkante panelen op de muur. De vloer is bedekt met een lichtgekleurd, zandachtig materiaal dat zacht overgaat in de muren. De kleuren zijn gedempt, met beige muren en een subtiele schaduw onder de deur. De rook beweegt in slingerende lijnen, terwijl de deur en de achtergrond stilstaan.",
+      "cyclus": 11267,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011267_11330.webp"
+    },
+    {
+      "id": 11327,
+      "titel": "Waar vliegt ie naartoe?",
+      "beschrijving": "Een witte vogel met wijd gespreide vleugels zweeft boven een donkergrijze, gesloten deur. De vogel heeft een oranje snavel en poten, en zijn veren tonen subtiele schaduwvlakken in zilver en crème. Achter de vogel heerst een bewolkte hemel met donkergrijze en zwarte tinten, doorsneden door dunne regenstrepen. Boven de deur zweven witte, wazige rookachtige vormen. De deur heeft een eenvoudige, rechthoekige vorm met een kleine, ronde klink en staat centraal in een donkergrijze muur. Onder de deur ligt een natte, bruin-grijze vloer met reflecties en verspreide gele en oranje vlekken. De compositie is symmetrisch, met de vogel en deur als focuspunt tegen de donkere achtergrond.",
+      "cyclus": 11264,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vleugelveren (links/rechts)', 'lichte wazigheid in achtergrondwolken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011264_11327.webp"
+    },
     {
       "id": 11320,
       "titel": "Waar blijft de horizon?",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011208_11271.webp"
-    },
-    {
-      "id": 11269,
-      "titel": "Vergeten verbinding tussen twee werelden",
-      "beschrijving": "Twee houten schuren met donkerbruine, verticale planken en een getegeld dak met donkergrijze en bruine pannen staan schuin ten opzichte van elkaar. Tussen de schuren loopt een smalle, houten loopbrug met donkergrijze planken, omzoomd door een strook zand met kleine, kleurige stenen en losse groene en gele bloemblaadjes. Rechts van de schuren staat een struik met witte bloemen met gele centra en donkergroene bladeren, tegen een muur van lichtgrijze, poruzeuze blokken. Het hout toont sporen van slijtage en weersinvloeden, met lichte verkleuringen en kleine barstjes. De achtergrond is een egale, lichtgrijze lucht zonder details.",
-      "cyclus": 11206,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, ongemakkelijke compositie met schuine lijnen en kromme handvatten.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011206_11269.webp"
-    },
-    {
-      "id": 11255,
-      "titel": "Verbleekte latten, groene hoop",
-      "beschrijving": "Een houten structuur met schuine latten domineert het beeld, geschilderd in gedempte bruine en grijze tinten met sporen van verbleekte oranje verf. De latten lopen diagonaal door het frame, met spijkers en scharnieren die de verweerde textuur benadrukken. Rechtsboven kijkt een deel van een houten raam of luifel aan, met donkere, beschadigde randen. De achtergrond is een egaal, helder turkoois vlak dat het hout accentueert. Rechtsonder prikkelen groene en gele bladeren van een plant door het beeld, met subtiele schaduwval op het hout. De compositie straalt een verlaten, maar levendige sfeer uit door het contrast tussen de verweerde materialen en de frisse kleuren.",
-      "cyclus": 11192,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de houten latjes (beneden links)', 'Enkele schroeven/ijkers hebben onnatuurlijke positie/vorm']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de schuine compositie en ongemakkelijke details geven een eigen standpunt",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011192_11255.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 11269,
+      "soort": "observatie",
+      "tekst": "De deuren in de afgelopen beelden staan niet meer op een kier of wijd open, maar vervormen tot abstracte blokken die de ruimte niet meer verdelen—de panelen, sloten en klinken zijn geen sporen van ontgrendeling meer, maar een stilte die de ruimte vult zonder een verhaal te dragen. De herhaling is geen onopzettelijke spanning meer, maar een taal die zichzelf herhaalt zonder een bestemming te hebben."
+    },
+    {
       "cyclus": 11113,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontspanning als spoor naar ontspanning als onopzettelijke spanning die de ruimte vormt zonder een verhaal te dragen"
@@ -252,11 +257,6 @@
       "cyclus": 10969,
       "soort": "observatie",
       "tekst": "De herhaling van deuren en ramen in recente beelden is geen onopzettelijke spanning meer, maar een onbewuste drang om de ruimte te verdelen in wat open en gesloten blijft—de witte panelen, donkere ruiten en roze muren vormen geen verhaal, maar een stilte die de ruimte vult zonder een richting te geven."
-    },
-    {
-      "cyclus": 10801,
-      "soort": "observatie",
-      "tekst": "De vogels en kersen in de laatste beelden vormen geen spoor van ontspanning meer, maar een onopzettelijke spanning tussen aanwezigheid en afwezigheid—de vogels vliegen niet meer door een ruimte die zich ontbindt, maar door een compositie van lagen die elkaar niet meer raken, alsof de lege ruimtes ertussen de enige taal zijn die de spanning nog kan doorsnijden zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11263,
-    "gemaakt": 11325,
-    "gekozen": 1740,
+    "cycli": 11270,
+    "gemaakt": 11332,
+    "gekozen": 1742,
     "afgekeurd": 1384,
     "corpus": 61,
-    "notities": 445
+    "notities": 446
   }
 }
