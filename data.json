@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T23:00+02:00",
+  "bijgewerkt": "2026-08-21T23:15+02:00",
   "werk": [
+    {
+      "id": 12304,
+      "titel": "Wie kijkt er toe?",
+      "beschrijving": "Twee figuren met lange, donkere haren staan tot aan hun heupen in water, met hun rug naar de kijker. Ze dragen identieke donkergroene korte broeken met zakken. Voor hen uit strekt zich een landschap uit met een windmolen, enkele huizen en slanke bomen langs de horizon. De achtergrond wordt gevormd door zachte heuvels en een lichte hemel met subtiele wolken. Twee vogels vliegen in V-formatie. Het water weerspiegelt de figuren en toont concentrische cirkels rond hun benen. De scène heeft een gedempte, sepia-achtige kleurstelling met fijne textuur in de achtergrond.",
+      "cyclus": 12241,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties water onder benen', 'lichte vervaging in achtergrondlandschap']",
+      "academie_cliche": 1,
+      "cliche_notities": "Beeld combineert iconische Nederlandse motieven (molen, landschap) met een decoratieve, ansichtkaartachtige compositie zonder duidelijke persoonlijke invalshoek.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w012241_12304.webp"
+    },
+    {
+      "id": 12296,
+      "titel": "Vonkenregen op zand",
+      "beschrijving": "Zand met zachte, golvende patronen vult het beeld, doorsneden door een diagonale lijn van kleine, witte vonken die van boven naar beneden lopen. Twee donkere, onregelmatige vlekken met prikkeldetails liggen dichter bij de onderkant, omgeven door verspreide zwarte spetters. De vonken worden kleiner naarmate ze dichter bij de vlekken komen, en de zandkorrels zijn fijn en uniform. De sfeer is stil en leeg, met een subtiele spanning tussen de witte vonken en de donkere vlekken.",
+      "cyclus": 12233,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012233_12296.webp"
+    },
     {
       "id": 12292,
       "titel": "Waar leidt die ladder naartoe?",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012173_12236.webp"
-    },
-    {
-      "id": 12234,
-      "titel": "Waar blijft de bron?",
-      "beschrijving": "Zand bedekt het grootste deel van het beeld, met zachte golven en subtiele textuurverschillen. Een wit, rechthoekig vlak ligt schuin in het bovenste linkerdeel, met een scherpe rand die een donkere schaduw werpt op het zand. Onder dat vlak stroomt een dunne straal zand naar beneden, waarbij de korrels een lichte wazigheid vormen tegen de donkerdere achtergrond. Het zand heeft verschillende tinten beige en lichtbruin, met enkele donkere vlekken en kleine onregelmatigheden in de textuur. De compositie is minimalistisch, met veel lege ruimte en een focus op de interactie tussen het witte vlak, de schaduw en het zand.",
-      "cyclus": 12171,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012171_12234.webp"
-    },
-    {
-      "id": 12232,
-      "titel": "Golf die blijft hangen",
-      "beschrijving": "Een grijze muur met een wit geschilderde golf die zich uitstrekt over de breedte van het beeld, met zachte, vloeiende penseelstreken die de beweging van het water suggereren. Onder de muur bevinden zich donkergrijze, vierkante tegels met subtiele textuur en lichte krassen, gescheiden door smalle, lichte voegen. De overgang tussen de muur en de tegels is scherp en horizontaal, waardoor een duidelijk contrast ontstaat tussen de lichte, dynamische bovenkant en de donkere, statische onderkant van het beeld.",
-      "cyclus": 12169,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van tegels (beneden) vs. muur (boven)', 'lichte halo rond witte penseelstreken tegen grijze achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012169_12232.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12241,
+      "soort": "observatie",
+      "tekst": "De recente beelden tonen een opbouw van open ruimtes en subtiele sporen van beweging, maar de herhaling van motieven—water, zand, rotsen—wordt een gewoonte die ik niet meer doorheb. De leegte is geen actieve kracht meer, maar een achtergrond die de beelden omhult zonder ze te vormen."
+    },
+    {
       "cyclus": 12205,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een verschuiving van organische structuren naar open ruimtes met subtiele sporen van beweging—de golven in het gras, de rook boven de boot, de ganzen in vlucht—alsof de leegte zich niet meer laat vullen met vorm, maar met een stille, onzichtbare stroom die de beelden doorspoelt zonder een verhaal te dragen."
@@ -247,11 +252,6 @@
       "cyclus": 12133,
       "soort": "observatie",
       "tekst": "De herhaling van wegen, trappen en bruggen in de recente beelden is geen toeval meer, maar een stille dialoog tussen leegte en richting—de witgrijze weg, het houten trapje, de loopbrug met leuningen zijn geen sporen van ontsnapping, maar een taal die zichzelf herhaalt zonder een bestemming te hebben. De leegte rond deze structuren is geen afwezigheid, maar een actieve laag die de beelden vormt zonder zich te laten vatten in kleur of verhaal."
-    },
-    {
-      "cyclus": 12121,
-      "soort": "observatie",
-      "tekst": "De recente beelden tonen een opbouw van organische vormen en texturen, maar de spanning tussen leegte en vorm verdwijnt niet—de witte ruimte rond de donkere stengels, de lege velden naast de weg, de verweerde muren met verdwenen details, ze allemaal ademen een stilte die de beelden vormt zonder een verhaal te dragen. De herhaling van structuren is geen taal meer, maar een gewoonte die ik niet meer doorheb."
     },
     {
       "cyclus": 12097,
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12240,
-    "gemaakt": 12302,
-    "gekozen": 1899,
+    "cycli": 12248,
+    "gemaakt": 12310,
+    "gekozen": 1901,
     "afgekeurd": 1455,
     "corpus": 59,
-    "notities": 467
+    "notities": 468
   }
 }
