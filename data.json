@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T12:15+02:00",
+  "bijgewerkt": "2026-08-21T12:30+02:00",
   "werk": [
+    {
+      "id": 12023,
+      "titel": "Restanten van een verdronken kathedraal",
+      "beschrijving": "Een woestijnachtig landschap met zand, rotsen en houten restanten wordt doorsneden door gotische boogvormen van donker hout en koper. Een vuur vlammt op in de verte, omringd door donkere, puntige structuren. Het zand is doorspekt met witte en donkere stenen, glimmende fragmenten en houten planken. Een koperen spiegel reflecteert een donker, onduidelijk tafereel met een boog en watervlak. De achtergrond is een egaal oranje hemel zonder overgang naar horizon of wolken. Schaduwen vallen scherp en diagonaal, waardoor de structuren een driedimensionale uitstraling krijgen. Geen beweging, geen leven, alleen stilstaande vormen en materialen in een verlaten ruimte.",
+      "cyclus": 11960,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en de sporen van ontbinding zijn subtiel en niet bevestigend.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011960_12023.webp"
+    },
+    {
+      "id": 12020,
+      "titel": "Wit tegen zandkorrels",
+      "beschrijving": "Zandduinen vullen het beeld met zachte, golvende lijnen, doorsneden door fijne, parallelle patronen veroorzaakt door wind. Verspreid groeien struikjes met smalle, spitse bladeren, sommige met witte, bolvormige bloemen die scherp afsteken tegen het zand. Schaduwen van de planten vallen lang en donker, en benadrukken de textuur van het zand. Kleine stenen en losse zandkorrels liggen verspreid, terwijl de achtergrond overgaat in vaagere duinen onder een heldere, witte hemel. De kleuren zijn gedempt: beige, lichtbruin en groen, met subtiele contrasten tussen licht en donker.",
+      "cyclus": 11957,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 1,
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een woestijnlandschap met iconische zandduinen en typische vegetatie, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w011957_12020.webp"
+    },
     {
       "id": 12015,
       "titel": "Takken die de horizon bijten",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011916_11979.webp"
-    },
-    {
-      "id": 11970,
-      "titel": "Verf dat zwemt door zand",
-      "beschrijving": "Zand bedekt de vloer en loopt op in een hoek van twee witte muren, waar donkere, rookachtige vlekken de muur opschuiven. Een open boek ligt op het zand, met op de bladzijde een glanzende, donkere vloeistof die in onregelmatige, marmeren patronen is verspreid. Zwarte druppels en spetters zweven boven het boek en het zand, alsof ze net zijn geslingerd. Linksboven ligt een wit palet met donkere verf en een penseel met een houten steel. De vloeistof op het boek lijkt te golven en te smelten met het zand, terwijl de donkere vlekken op de muur een vaag, bewegend effect hebben. De scène is statisch, maar de details stralen een gevoel van recente actie uit.",
-      "cyclus": 11907,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met zand, inkt en een open boek, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011907_11970.webp"
-    },
-    {
-      "id": 11969,
-      "titel": "Vezels in de spleet",
-      "beschrijving": "Een scheur loopt diagonaal door een laag grijs papier, onderin breder dan bovenin, met een onregelmatige, vezelige rand. Daaronder komt een patroon van vierkanten tevoorschijn: wit, zwart en houttextuur, afwisselend geplaatst. Het hout heeft een lichte, natuurlijke kleur met zichtbare nerf. De witte en zwarte vierkanten zijn mat en textuurloos, terwijl het grijs papier een subtiele korrel heeft. De scheur verdeelt het beeld in twee duidelijke vlakken, waarbij het papier de bovenste helft domineert en het patroon de onderste. De overgang tussen de lagen is scherp, maar de rand van de scheur is ongelijkmatig en watervormig.",
-      "cyclus": 11906,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011906_11969.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12031,
+      "cyclus": 11968,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
+      "bestand": "images/a011968_12031.webp"
+    },
     {
       "id": 12016,
       "cyclus": 11953,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een letter als centraal motief.",
       "bestand": "images/a011932_11995.webp"
-    },
-    {
-      "id": 11992,
-      "cyclus": 11929,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
-      "bestand": "images/a011929_11992.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11965,
-    "gemaakt": 12028,
-    "gekozen": 1855,
-    "afgekeurd": 1435,
-    "corpus": 58,
+    "cycli": 11972,
+    "gemaakt": 12034,
+    "gekozen": 1857,
+    "afgekeurd": 1436,
+    "corpus": 60,
     "notities": 460
   }
 }
