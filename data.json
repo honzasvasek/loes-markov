@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T14:15+02:00",
+  "bijgewerkt": "2026-08-21T14:30+02:00",
   "werk": [
+    {
+      "id": 12076,
+      "titel": "Waar het zand zwijgt",
+      "beschrijving": "Twee vlakken van zand ontmoeten elkaar in een scherpe, onregelmatige lijn die diagonaal door het beeld loopt. Het bovenste vlak is lichter van kleur, met een fijne, gelijkmatige textuur, terwijl het onderste donkerder is en een grover, korreliger oppervlak heeft. Langs de scheidslijn liggen kleine klompjes en losse korrels zand, die de overgang benadrukken. In het donkere zand zijn enkele dunne, rechte sporen zichtbaar, alsof iets er ooit overheen is gegaan. De rest van het beeld is vrij van details, met alleen de subtiele variaties in textuur en schaduw die de twee vlakken van elkaar scheiden.",
+      "cyclus": 12013,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, minimalistische compositie zonder duidelijke thematiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012013_12076.webp"
+    },
+    {
+      "id": 12074,
+      "titel": "Verf die wacht op een muur",
+      "beschrijving": "Een leeg vertrek met witte muren en een betonnen vloer, waar door een raam met witte lijsten zonlicht een scherp raster van licht en schaduw werpt. Recht voor het raam, dicht bij de muur, ligt een plas donkerblauwe verf, glanzend en onregelmatig van vorm, met een kleine witte kom erin. Naast de blauwe plas bevindt zich een gele verfbak, waar de randen van de verf nog nat en golvend zijn, alsof de verf recent is omgevallen. De muren tonen sporen van slijtage: pleister die loszit en een onregelmatige vlek bij het plafond. Het licht benadrukt de textuur van de muren en de vloer, en werpt een lange schaduw van het raam over de ruimte.",
+      "cyclus": 12011,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op leegte en ontbinding, niet op een bevestigend verhaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012011_12074.webp"
+    },
     {
       "id": 12058,
       "titel": "Donkere druppels op zand",
@@ -104,35 +130,18 @@
       "curriculum_score": 4.0,
       "gekozen": 1,
       "bestand": "images/w011957_12020.webp"
-    },
-    {
-      "id": 12015,
-      "titel": "Takken die de horizon bijten",
-      "beschrijving": "Een golvend landschap in roodbruine en beige tinten, met een schuine horizon die de compositie doorsnijdt. Donkere, takachtige vormen met scherpe uiteinden lopen door het beeld, soms solitair, soms in groepen, en volgen de contouren van het landschap. Het oppervlak toont subtiele textuurverschillen: gladde, golvende vlakken afgewisseld met grovere, korrelige gebieden. Witte en lichtbeige vlakken vormen een onregelmatige band die de takken omringt, met vaag zichtbare lijnen die een rasterachtig patroon suggereren. De achtergrond vervaagt in een egaal roodbruin, terwijl de voorgrond meer detail behoudt. Geen duidelijke figuren of herkenbare objecten, alleen een speelsheid van vormen en texturen die een gevoel van beweging en onrust uitstralen.",
-      "cyclus": 11952,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met abstracte takken en organische vormen, geen toeristische ansichtkaartstijl.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011952_12015.webp"
-    },
-    {
-      "id": 12013,
-      "titel": "Gras dat luistert naar de deur",
-      "beschrijving": "Grijs gras vult de voorgrond, fijn en wazig, met lange, slanke stengels die in alle richtingen uitwaaien. Achter het gras staat een verweerde houten deur met afblazend verf en een donkere grendel, schuin in beeld. Verderop rijst een spitse toren op met een kruis bovenop, vaag en scherp tegelijk. Rechtsboven is een deel van een dak met donkere pannen zichtbaar. De achtergrond is een egale, lichte hemel zonder details. De sfeer is stil en verlaten, met een subtiele spanning tussen het natuurlijke gras en de menselijke structuren.",
-      "cyclus": 11950,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een kerkspits met gras in de voorgrond, maar heeft een ongewone compositie en geen typisch ansichtkaart-licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011950_12013.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12079,
+      "cyclus": 12016,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een close-up van een natuurlijk moment met een ongemakkelijke schoonheid.",
+      "bestand": "images/a012016_12079.webp"
+    },
     {
       "id": 12031,
       "cyclus": 11968,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief tussen boven- en onderkant van het beeld', 'Enkele bomen hebben onnatuurlijke, herhalende takstructuren']",
       "cliche_notities": "Het beeld toont een typisch Nederlands landschap met molen en kerk, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze.",
       "bestand": "images/a011953_12016.webp"
-    },
-    {
-      "id": 11995,
-      "cyclus": 11932,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een letter als centraal motief.",
-      "bestand": "images/a011932_11995.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12012,
-    "gemaakt": 12074,
-    "gekozen": 1863,
-    "afgekeurd": 1436,
-    "corpus": 59,
+    "cycli": 12017,
+    "gemaakt": 12080,
+    "gekozen": 1865,
+    "afgekeurd": 1437,
+    "corpus": 58,
     "notities": 460
   }
 }
