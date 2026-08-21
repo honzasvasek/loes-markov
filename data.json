@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T04:00+02:00",
+  "bijgewerkt": "2026-08-21T04:15+02:00",
   "werk": [
+    {
+      "id": 11796,
+      "titel": "De onzichtbare kamer achter de ruit",
+      "beschrijving": "Een witgekaderd raam met zes ruiten domineert de bovenste helft van een roodbruine muur, waarbij de middelste ruit openstaat en een donkere, ondoorzichtige ruimte onthult. De witte kozijnen hebben subtiele slijtage, met kleine, goudkleurige scharnieren aan weerskanten. Horizontale, lichtere strepen lopen parallel aan de muur, die een textuur van zachte, ongelijkmatige verf laat zien. Onder het raam valt een donkere schaduw, die de diepte van het kozijn benadrukt tegen de effen, warme achtergrond. De onderste helft van de muur is leeg en uniform, zonder onderbrekingen of details.",
+      "cyclus": 11733,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische compositie met een focus op leegte en textuur, geen iconisch of bevestigend onderwerp.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011733_11796.webp"
+    },
+    {
+      "id": 11794,
+      "titel": "Natte sporen in het zand",
+      "beschrijving": "Twee horizontale banden donkerbruine, klontige substantie, mogelijk modder of nat zand, lopen parallel door het beeld, gescheiden door een brede, egale strook lichtbeige ruimte. De bovenste band toont onregelmatige, hobbelige structuren met kleine, donkere knobbels en watervlekken die glanzen. De onderste band heeft vergelijkbare textuur, maar met meer verspreide, kleinere deeltjes en een paar dunne, donkere takjes of stengels die erin steeken. Beide banden hebben een natte, zware uitstraling, met subtiele overgangen tussen donkere en lichtere bruine tinten. De achtergrond is egaal lichtbeige, zonder aanvullende details of afwisseling.",
+      "cyclus": 11731,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011731_11794.webp"
+    },
     {
       "id": 11785,
       "titel": "Wolken op drift door hout",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011669_11732.webp"
-    },
-    {
-      "id": 11724,
-      "titel": "Scherpe randen, onrustige leegte",
-      "beschrijving": "Donkere, onregelmatige vormen snijden door een lichte, korrelige achtergrond. Zwarte en donkergrijze vlekken en strepen lopen in diagonale en golvende banen, met scherpe en onscherpe randen. Kleinere druppels en spetters verspreiden zich rond de bredere vormen, sommige opgelost in vaagere grijstinten. De compositie voelt ongestructureerd, met ruimtes die zowel leeg als gevuld lijken. De sfeer is rustig maar onrustig, door de contrasten tussen donker en licht en de wisselende textuur van de vormen.",
-      "cyclus": 11661,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011661_11724.webp"
-    },
-    {
-      "id": 11717,
-      "titel": "Waar het papier bloedeer",
-      "beschrijving": "Twee scheuren in een wit, textuurrijk vlak onthullen een bewolkte hemel met donkergrijze en blauwe tinten. Door het bovenste scheur valt een bundel zonlicht, zacht en diffuus, naar beneden. Het onderste scheur laat een donkerder deel van de hemel zien, met zwaardere wolken en een subtiele gloed aan de horizon. De randen van het scheur zijn onregelmatig en vezelig, met schaduwen die diepte geven aan het vlak. De achtergrond bestaat uit een egaal, lichtgrijs oppervlak dat de scheuren omringt.",
-      "cyclus": 11654,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van het papier aan de randen, waarbij sommige delen kunstmatig scherp lijken en andere delen waziger', 'Subtiele halo-effecten rond de randen van het gescheurde papier tegen de achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met het gescheurde papier als metaforisch element, wat het boven een typische ansichtkaart verheft",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011654_11717.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11797,
+      "cyclus": 11734,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'herhaalpatronen (herhaling van woorden met minimale variatie)', 'onrealistische textuur (stenen letters met perfecte, niet-natuurlijke structuur)']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte, niet-direct-herkenbare compositie met tekst.",
+      "bestand": "images/a011734_11797.webp"
+    },
     {
       "id": 11779,
       "cyclus": 11716,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
       "bestand": "images/a011709_11772.webp"
-    },
-    {
-      "id": 11733,
-      "cyclus": 11670,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (hutten)', 'inconsistent perspectief (hutten/books)', 'wazige texturen (zand/gras)', 'detailverlies in schaduw (achtergrond)']",
-      "cliche_notities": "Iconisch verlaten landschap met symbolische boeken en hutten, decoratief licht en geen eigen compositorisch standpunt.",
-      "bestand": "images/a011670_11733.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11734,
-    "gemaakt": 11796,
-    "gekozen": 1812,
-    "afgekeurd": 1405,
+    "cycli": 11742,
+    "gemaakt": 11804,
+    "gekozen": 1814,
+    "afgekeurd": 1406,
     "corpus": 61,
     "notities": 454
   }
