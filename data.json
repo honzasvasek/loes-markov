@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T10:00+02:00",
+  "bijgewerkt": "2026-08-21T10:15+02:00",
   "werk": [
+    {
+      "id": 11964,
+      "titel": "Waar begint de val?",
+      "beschrijving": "Een donkere, smalle deur met een ronde klink staat centraal in een grijze, textuurloze muur. Onder de deur loopt een donkere, golvende massa die lijkt op water of zand, met fijne, kronkelende lijnen die beweging suggereren. De overgang tussen de muur en de golvende vorm is scherp, alsof de deur in een andere wereld leidt. Het beeld is monochroom, met subtiele schaduwveranderingen die diepte geven aan de golven en de deur. De sfeer is stil en verlaten, met een gevoel van afwachting.",
+      "cyclus": 11901,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige sfeer zonder iconische of toeristische elementen, en de compositie is bewust asymmetrisch en suggestief in plaats van decoratief perfect.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011901_11964.webp"
+    },
+    {
+      "id": 11963,
+      "titel": "Aders in de stilte",
+      "beschrijving": "Een donkere, korrelige massa met glanzende, zilverachtige aders domineert het beeld, schuin door het kader lopend. De textuur is ruw en onregelmatig, met uitsteeksels en holtes die licht en schaduw vangen. Op de achtergrond is een onscherp gebouw te zien met een crèmekleurige gevel en donkere ramen, boven een strook groen gras. De lucht erboven is grijs en egale, zonder duidelijke wolken of zon. De focus ligt op de textuur en vorm van de donkere massa, terwijl de achtergrond slechts een vaag, neutraal decor vormt.",
+      "cyclus": 11900,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op een abstract, textuurrijk detail zonder toeristische connotaties.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011900_11963.webp"
+    },
     {
       "id": 11956,
       "titel": "Natte dromen in rood",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w011857_11920.webp"
-    },
-    {
-      "id": 11919,
-      "titel": "Vouwen van vertrouwen",
-      "beschrijving": "Drie rechthoekige, roze geschilderde voorwerpen liggen verticaal op een houten oppervlak, elk met een driehoekige, opgevouwen rand die een envelop-achtige vorm suggereert. De bovenste is iets donkerder roze dan de onderste twee, en de middelste heeft een helderder, bijna witte glans op de vouw. De verf is ongelijkmatig aangebracht, met zichtbare penseelstreken en kleine onvolkomenheden aan de randen. Tussen de voorwerpen door lopen smalle, donkere lijnen, mogelijk door scharnieren of kieren. Het hout eronder heeft een natuurlijke, lichtbruine textuur met subtiele vezels en knoesten. De compositie is strak en symmetrisch, met veel lege ruimte rond de voorwerpen, wat een gevoel van stilte en orde uitstraalt.",
-      "cyclus": 11856,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar toont een subtiele, bijna abstracte opstelling van enveloppen zonder duidelijke symboliek of toeristische associatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011856_11919.webp"
-    },
-    {
-      "id": 11918,
-      "titel": "Papier dat ademt",
-      "beschrijving": "Drie driehoekige vormen, gestapeld en gescheiden door dunne, donkerder lijnen, domineren het beeld. De bovenste driehoek is roze met een zachte, bijna doorschijnende textuur, terwijl de middelste en onderste driehoek wit zijn met subtiele roze randen. De vormen lijken opgevouwen papier of een abstract dak, met schone, scherp getekende randen die een driedimensionaal effect geven. De achtergrond is een neutraal grijs, wat de vormen doet uitkomen. De penseelstreken zijn zichtbaar maar gecontroleerd, met een matte afwerking die de vormen een rustige, bijna statische uitstraling geeft. De compositie is symmetrisch en minimalistisch, met een focus op vorm en kleurcontrast.",
-      "cyclus": 11855,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011855_11918.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11971,
+      "cyclus": 11908,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "De molen en het landschap zijn een iconisch Nederlands motief, uitgevoerd in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a011908_11971.webp"
+    },
     {
       "id": 11965,
       "cyclus": 11902,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een idyllisch landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a011899_11962.webp"
-    },
-    {
-      "id": 11946,
-      "cyclus": 11883,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in de proporties van de windmolen (wieken iets te dun/ongebruikelijk)",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molens bij zonsondergang met een perfecte, decoratieve lucht en een pad dat de blik leidt zonder onverwachte keuzes.",
-      "bestand": "images/a011883_11946.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11904,
-    "gemaakt": 11966,
-    "gekozen": 1843,
-    "afgekeurd": 1426,
-    "corpus": 62,
+    "cycli": 11911,
+    "gemaakt": 11973,
+    "gekozen": 1845,
+    "afgekeurd": 1427,
+    "corpus": 61,
     "notities": 459
   }
 }
