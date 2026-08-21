@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-21T03:00+02:00",
+  "bijgewerkt": "2026-08-21T03:15+02:00",
   "werk": [
     {
       "id": 11762,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 11772,
+      "cyclus": 11709,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
+      "bestand": "images/a011709_11772.webp"
+    },
+    {
       "id": 11733,
       "cyclus": 11670,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (stappen)', 'inconsistent perspectief (kaart vs landschap)']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van elementen zonder duidelijke compositorische keuze.",
       "bestand": "images/a011656_11719.webp"
-    },
-    {
-      "id": 11686,
-      "cyclus": 11623,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', \"vervormde letters (bijv. 'RItO', 'nue.')\", 'inconsistente lettergrootte en -positie']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op abstracte tekst en vervorming, niet op een bevestigend beeld.",
-      "bestand": "images/a011623_11686.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11707,
-    "gemaakt": 11769,
+    "cycli": 11713,
+    "gemaakt": 11776,
     "gekozen": 1808,
-    "afgekeurd": 1403,
+    "afgekeurd": 1404,
     "corpus": 61,
     "notities": 454
   }
