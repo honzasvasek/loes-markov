@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T07:30+02:00",
+  "bijgewerkt": "2026-08-21T07:45+02:00",
   "werk": [
+    {
+      "id": 11902,
+      "titel": "Roze beloftes in bruin",
+      "beschrijving": "Dunne, bruine takken met kleine, roze knoppen en donkere, ronde knopen lopen diagonaal door het beeld. De takken hebben een ruwe textuur met lichte en donkere vlekken en smalle, donkere spleten. Op de achtergrond lopen subtiele, horizontale grijze strepen door een wit vlak, wat een gevoel van diepte geeft. De takken zijn ongelijkmatig gevormd, met sommige delen die breder en andere die smal en puntig zijn. De roze knoppen staan scherp tegen de neutrale achtergrond af en zijn verspreid over de takken, soms in groepjes, soms alleen. Donkere, bijna zwarte details, zoals kleine knopen en smalle, donkere lijnen, doorbreken de eentonigheid van de takken. De compositie is rustig, met de takken die zich uitstrekken van de linkerbovenhoek naar de rechteronderhoek, waardoor het oog wordt meegesleurd door de lijnen en vormen.",
+      "cyclus": 11839,
+      "tech_score": 8.0,
+      "tech_notities": "enkele lichte vervormingen in takverbindingen, minimale inconsistenties in textuur van knoppen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuzes zijn subtiel en niet clichématig",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011839_11902.webp"
+    },
+    {
+      "id": 11899,
+      "titel": "Korrelige takken door grijze strepen",
+      "beschrijving": "Donkere, ruwe takken snijden schuin door een compositie van horizontale, afwisselend lichte en donkere grijze strepen. De takken hebben een korrelige textuur en vertakken zich in verschillende richtingen, met kleine, donkere knoppen of knobbels verspreid over de lengte. Sommige takken lopen parallel, andere kruisen elkaar in onregelmatige hoeken. De achtergrond strepen creëren een ritmisch patroon dat contrasteert met de organische, willekeurige vorm van de takken. Geen kleur, alleen schakeringen van grijs en zwart, met een sfeer van stilte en structuur.",
+      "cyclus": 11836,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in takdikte bij vertakkingen', 'lichte wazigheid in randgebieden van donkere knoppen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011836_11899.webp"
+    },
     {
       "id": 11892,
       "titel": "Waar de takken zwijgen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011799_11862.webp"
-    },
-    {
-      "id": 11858,
-      "titel": "Rood op wit, donker achterom",
-      "beschrijving": "Een witte deur staat op een kier, met aan de zijkant een smalle, verticale roodachtige vlek die van boven naar beneden loopt, net naast het metalen scharnier en de witte deurkruk. Achter de deur is een donkere ruimte zichtbaar met een lichtbruine houten rand van wat mogelijk een kast of bureau is, en een grijze muur. De vloer voor de deur is van licht hout met een subtiele nerf, en de rand van de deur werpt een zachte schaduw op de vloer. De ruimte achter de deur is donkerder dan de voorgrond, met een vaag zichtbare horizontale lijn die een plank of rand van meubilair suggereert.",
-      "cyclus": 11795,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is sober en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011795_11858.webp"
-    },
-    {
-      "id": 11852,
-      "titel": "Licht dat de stilte doorsnijdt",
-      "beschrijving": "Twee heldere, diagonale lichtstralen snijden door een vaag landschap, dat achter een raam zichtbaar is. Het raam heeft een donkere lijst en een klein, donker handvat aan de rechterkant. Buiten strekt zich een open ruimte uit met een lichte horizon, waar vaag bomen en heuvels te zien zijn. De grond lijkt zandig of droog, met subtiele textuur in de voorgrond. Rechtsboven in het beeld loopt een dunne, donkere tak of draad diagonaal door het kader. De algehele sfeer is kalm en iets onscherp, met een grijstint die het hele beeld domineert. De lichtstralen vormen een opvallend kruis dat de compositie doorsnijdt en de aandacht trekt.",
-      "cyclus": 11789,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de witte X, lichte onscherpte in de achtergrond', 'geen andere duidelijke artefacten']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011789_11852.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11838,
-    "gemaakt": 11901,
-    "gekozen": 1831,
+    "cycli": 11846,
+    "gemaakt": 11908,
+    "gekozen": 1833,
     "afgekeurd": 1415,
     "corpus": 61,
     "notities": 458
