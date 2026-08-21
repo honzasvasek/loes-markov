@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T13:00+02:00",
+  "bijgewerkt": "2026-08-21T13:15+02:00",
   "werk": [
+    {
+      "id": 12039,
+      "titel": "Donkere hiaten tussen roze stroomlijnen",
+      "beschrijving": "Twee roze, onregelmatige banen lopen horizontaal door het beeld, gescheiden door een smalle, donkere opening. Rechts bevinden zich twee donkere, rechthoekige blokken met afgeronde hoeken, die de roze banen lijken te onderbreken. De achtergrond bestaat uit donkergrijze en zwarte vlakken met zachte overgangen, waarbij de onderste laag een lichtere grijstint heeft. De penseelstreken zijn zichtbaar en geven het beeld een textuur met lichte onregelmatigheden. De compositie is asymmetrisch, met de roze vormen die een dynamische spanning creëren tegen de donkere achtergrond.",
+      "cyclus": 11976,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met bewuste keuze voor vorm en kleur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011976_12039.webp"
+    },
+    {
+      "id": 12034,
+      "titel": "Wat blijft van de steel?",
+      "beschrijving": "Een vaag, vlamvormig object van roomwit tot lichtgeel, met subtiele textuurvariaties en kleine onregelmatigheden aan de randen, domineert het midden van een effen, lichtgrijze achtergrond. Drie dunne, bruine lijnen lopen diagonaal van linksboven naar rechtsonder, waarbij één de onderste punt van het object raakt. Linksonder bevindt zich een slanke, bruine steel met twee kleine, groene bladeren die licht gebogen zijn en een adervorm patroon tonen. De compositie is minimalistisch, met veel lege ruimte rond de elementen, wat een gevoel van stilte en isolatie versterkt. De kleuren zijn gedempt en de vormen eenvoudig, maar de contrasten tussen het zachte object, de scherpe lijnen en de organische steel creëren een subtiel spanningsveld.",
+      "cyclus": 11971,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011971_12034.webp"
+    },
     {
       "id": 12023,
       "titel": "Restanten van een verdronken kathedraal",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011938_12001.webp"
-    },
-    {
-      "id": 11980,
-      "titel": "Wortels in rood zwijgen",
-      "beschrijving": "Een donkere boom met uitgespreide takken staat rechtsboven op een rood landschap, met wortels die zich uitstrekken over een heuvel. Een smalle, rode houten loopbrug met horizontale planken loopt diagonaal van onder links naar boven rechts, waarbij de randen van de brug donkere, onregelmatige vormen hebben die lijken op losse stenen of bladeren. De achtergrond is eenduidig rood, met subtiele textuurverschillen die een gevoel van diepte geven. De boom en de brug vormen een scherpe contrast met de omringende ruimte, terwijl de compositie een gevoel van eenzaamheid en rust uitstraalt.",
-      "cyclus": 11917,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de boom en het pad dat de kijker trekt, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011917_11980.webp"
-    },
-    {
-      "id": 11979,
-      "titel": "Zes schalen, één verhaal",
-      "beschrijving": "Zes vierkante schalen met afgeronde hoeken liggen in een raster van drie rijen en twee kolommen op een witte achtergrond. Elke schaal heeft een diepblauwe glazuurlaag met subtiele variaties in tint en textuur, waarbij sommige plekken donkerder of lichter zijn door de glazuurlaag. De randen van de schalen zijn wit en vormen een scherp contrast met het blauwe binnenste. Op de bodem van elke schaal zijn kleine, donkere vlekken te zien, verschillend van vorm en grootte, alsof ze door het glazuur zijn gekomen tijdens het bakproces. De schalen zijn identiek van vorm en grootte, maar de details in het glazuur en de vlekken maken elke schaal uniek. De compositie is symmetrisch en rustig, met veel witte ruimte tussen de schalen, wat de focus legt op de subtiele verschillen tussen hen.",
-      "cyclus": 11916,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een serie van zes identieke kommen met subtiele variaties, wat ruimte laat voor een meer persoonlijke interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011916_11979.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11976,
-    "gemaakt": 12039,
-    "gekozen": 1857,
+    "cycli": 11984,
+    "gemaakt": 12046,
+    "gekozen": 1859,
     "afgekeurd": 1436,
     "corpus": 59,
     "notities": 460
