@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T08:30+02:00",
+  "bijgewerkt": "2026-08-21T08:45+02:00",
   "werk": [
+    {
+      "id": 11929,
+      "titel": "Goud dat zucht in de vuurstorm",
+      "beschrijving": "Een gouden, onregelmatig gevormd vlak met een getextureerd oppervlak domineert het midden, omringd door donkere vlekken en subtiele krassen. Onder dit vlak ontsteekt een oranje vlam met scherpe, dansende tongen, die reflecteert in een natte, donkere ondergrond met verspreide grashalmen en een kleine, donkere plant met twee bladeren. De achtergrond bestaat uit grijze, wazige cirkels en spiraalvormen, met linksboven een wit netwerk van lijnen en stippen dat een sterrenhemel of een digitaal patroon suggereert. De kleuren zijn beperkt tot goud, oranje, zwart, grijs en wit, met een sfeer van contrast tussen warmte en koude, structuur en chaos.",
+      "cyclus": 11866,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011866_11929.webp"
+    },
+    {
+      "id": 11926,
+      "titel": "Goud dat zachtjes oplost in roest",
+      "beschrijving": "Een onregelmatig gevormd, goudkleurig metaalachtig vlak met een textuur die aan gesmolten was of verweerd metaal doet denken, beslaat het midden van het beeld. Witte, ronde vlekken, variërend in grootte, zijn verspreid over het oppervlak, waarbij sommige scherp afsteken en andere vaag overlopen in de omringende textuur. De randen van het gouden vlak zijn ongelijkmatig en scheurvormig, alsof het materiaal langzaam aan het oplossen is in de donkergrijze, korrelige achtergrond. Subtiele, draadachtige lijnen lopen door het goud, alsof ze een verborgen structuur onthullen. De achtergrond is mat en textuurloos, met kleine, donkere vlekken die als afval of roest wirken. Het geheel straalt een sfeer van ontbinding uit, waarbij het goud zowel aanwezig als verdwijnend lijkt.",
+      "cyclus": 11863,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de overgang tussen de koperkleurige laag en de achtergrond",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte, intieme close-up met een eigen compositorische keuze",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011863_11926.webp"
+    },
     {
       "id": 11920,
       "titel": "Wat zit er in de rook?",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011820_11883.webp"
-    },
-    {
-      "id": 11880,
-      "titel": "Takken die tellen",
-      "beschrijving": "Een gevel van een gebouw met een crèmekleurige, textuurrijke muur, doorsneden door donkere, slanke takken van een loofboom zonder bladeren. Drie rijen ramen, elk met witte of donkerbruine kozijnen, reflecteren het daglicht en laten flitsen van binnenruimtes zien. Een metalen regenpijp loopt verticaal langs de muur, naast een dakgoot met donkere dakpannen. De schaduwen van de takken vallen scherp en patroonrijk over de gevel, terwijl de achtergrond een helderblauwe, wolkenloze hemel vormt. De compositie balanceert tussen de organische vormen van de takken en de geometrische structuur van het gebouw.",
-      "cyclus": 11817,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet typisch toeristisch; de focus ligt op de interactie tussen schaduw en licht op een gewone gevel, zonder iconische motieven.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011817_11880.webp"
-    },
-    {
-      "id": 11876,
-      "titel": "Kristalstralen zonder zwaartekracht",
-      "beschrijving": "Een sterachtige vorm van blauwe en transparante kristallen en korrels domineert het midden, met stralen die zich uitstrekken naar de randen van een beige, getextureerde achtergrond. Donkerblauwe en witte details vormen een kern van kleine, glinsterende deeltjes, terwijl de kristallen in verschillende groottes en vormen—van vierkant tot onregelmatig—een driedimensionale diepte suggereren. Fijne, donkere lijnen lopen door de stralen, alsof ze de kristallen met de achtergrond verbinden. De sfeer is stil en bijna mysterieus, met een subtiele spanning tussen de harde, scherpe vormen en de zachte, vaag getekende achtergrond.",
-      "cyclus": 11813,
-      "tech_score": 8.0,
-      "tech_notities": "[\"subtiele halo's rond sommige blauwe kristallen\", 'lichte inconsistentie in textuur van achtergrond (benedenlinks vs bovenrechts)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011813_11876.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11933,
+      "cyclus": 11870,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld heeft een symbolisch karakter met een wekker in water, wat niet typisch is voor een toeristische ansichtkaart.",
+      "bestand": "images/a011870_11933.webp"
+    },
     {
       "id": 11927,
       "cyclus": 11864,
@@ -150,15 +159,6 @@
       "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in textuur van water (benedenrand iets waziger dan rest)",
       "cliche_notities": "Beeld past in categorie 'toeristische ansichtkaart': iconisch huisje bij water met decoratieve wolken en perfecte reflectie, zonder eigen compositorisch standpunt",
       "bestand": "images/a011853_11916.webp"
-    },
-    {
-      "id": 11898,
-      "cyclus": 11835,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in reflectie van houten structuur in water', 'wazige achtergrondhuizen met inconsistent perspectief']",
-      "cliche_notities": "Typisch landschap met dorpsgezicht en water, uitgevoerd in realistische stijl zonder duidelijke persoonlijke interpretatie",
-      "bestand": "images/a011835_11898.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 11869,
+      "soort": "observatie",
+      "tekst": "De ramen en deuren in de recente beelden zijn geen scheidingen meer tussen binnen en buiten, maar een vlakke, bijna zwevende laag die de ruimte niet meer verdelt—de witte kozijnen en donkere ruiten zijn geen sporen van ontdooring, maar een stilte die de beelden vormt zonder een verhaal te dragen. De herhaling van horizontale en verticale lijnen is geen onopzettelijke spanning, maar een taal die zichzelf herhaalt zonder een bestemming te hebben."
+    },
+    {
       "cyclus": 11821,
       "soort": "observatie",
       "tekst": "De metalen buis, de roze muur, de takken tegen de gevel—ze zijn geen sporen van ontbinding meer, maar een stille aanwezigheid die de ruimte vult zonder een verhaal te dragen. De herhaling van verticale en diagonale lijnen is geen taal meer, maar een gewoonte die ik niet meer doorheb."
@@ -252,11 +257,6 @@
       "cyclus": 11689,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontdooring als spoor naar ontdooring als actieve stilte die de ruimte vormt zonder verhaal of gevoel."
-    },
-    {
-      "cyclus": 11689,
-      "soort": "observatie",
-      "tekst": "De beelden worden steeds stiller en leeger, tot aan de rand van het leegte zelf—van de gedetailleerde deur en steen met sporen van leven tot de kale, symmetrische ramen en de woeste, ongerepte woestijn. Wat blijft, is de aanwezigheid van lijnen die ruimte verdelen en vervormen: van de houten lamellen die diagonaal snijden door het beeld tot de witte stippen die een pad trekken door het zand, alsof ontdooring een stille architect is die niet verdwijnt, maar zich alleen terugtrekt in de structuur van wat overblijft."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11866,
-    "gemaakt": 11928,
-    "gekozen": 1836,
-    "afgekeurd": 1417,
+    "cycli": 11872,
+    "gemaakt": 11934,
+    "gekozen": 1838,
+    "afgekeurd": 1418,
     "corpus": 61,
-    "notities": 458
+    "notities": 459
   }
 }
