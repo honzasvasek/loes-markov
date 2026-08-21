@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T05:30+02:00",
+  "bijgewerkt": "2026-08-21T05:45+02:00",
   "werk": [
+    {
+      "id": 11844,
+      "titel": "Waar blijft de route?",
+      "beschrijving": "Een donkere, verweerde houten balk ligt schuin op een verbleekte kaart met fijne lijnen en vage kleurvlekken. Het hout heeft diepe barsten en glimmende, natte plekken, alsof het recent in water heeft gezeten. Kleine, donkere knoesten en schuine randen geven het een onregelmatige vorm. Rond de balk bevinden zich vage, bruine vlekken die lijken op inkt of modder, en enkele kleine, donkere druppels verspreid over het oppervlak. De achtergrond toont vaag herkenbare vormen van wegen, velden en water, getekend in zachte groene, blauwe en beige tinten. De balk domineert het midden van het beeld, met de kaart die eromheen lijkt te vervagen.",
+      "cyclus": 11781,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in textuur van hout (soms te scherp, soms wazig)",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een eigen compositorische spanning tussen hout en kaart.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011781_11844.webp"
+    },
+    {
+      "id": 11842,
+      "titel": "Krijt dat liegt",
+      "beschrijving": "Een roodbruine, korrelige ondergrond wordt doorsneden door witte krijtlijnen: een horizontale lijn en twee diagonale lijnen die in een punt samenkomen boven een cilindervormig object. Dat object, getekend met schuine witte strepen, rust op de horizontale lijn en straalt fijne witte lijnen uit die zich waaiervormig verspreiden over de ondergrond. De krijtsporen zijn ongelijkmatig en korrelig, met kleine witte deeltjes die zich rond het object en de lijnen bevinden. De achtergrond is egaal en textuurrijk, zonder andere vormen of details.",
+      "cyclus": 11779,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte compositie met een focus op vorm en textuur, geen toeristische ansichtkaartstijl.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011779_11842.webp"
+    },
     {
       "id": 11832,
       "titel": "Natte papieren stelen",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011722_11785.webp"
-    },
-    {
-      "id": 11782,
-      "titel": "Wolken tussen de latten",
-      "beschrijving": "Negen donkere, rechthoekige houten latten liggen horizontaal gestapeld met smalle, roze verticale banden ertussen. Op elke lat is een lichtroze, wolkachtige vorm gedrukt, met subtiele variaties in vorm en textuur. De latten tonen sporen van slijtage: kleine putjes, krassen en onregelmatigheden in de houtstructuur. De achtergrond is wit, wat de contrasten tussen het donkere hout, de roze accenten en de lichte wolkenvermeldingen versterkt. De compositie is strak en herhalend, met kleine afwijkingen in de plaatsing en uitwerking van de motieven op elke lat.",
-      "cyclus": 11719,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in textuur van zwarte balken', 'lichte vervorming in randen van sommige roze vormen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de herhaling en abstractie vragen om aandacht voor detail, niet voor een directe associatie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011719_11782.webp"
-    },
-    {
-      "id": 11765,
-      "titel": "Rode stilte in sneeuw",
-      "beschrijving": "Een besneeuwd landschap met kale bomen in zwart en wit, waarbij de takken scherp afsteken tegen een lichtblauwe hemel. Centraal domineert een grote, rode cirkel met concentrische lijnen, die de zon of maan voorstelt. Een bevroren beek of pad loopt golvend door het midden, omgeven door sneeuw met subtiele blauwe schaduwen en donkere rotsen. Kleine details zoals verspreide stenen en fijne grassprieten doorbreek de witte vlakte. De compositie is symmetrisch, met bomen aan weerszijden die de blik naar de rode cirkel leiden. De sfeer is koud en stil, met een contrast tussen de warme rode vorm en de koelkleurige omgeving.",
-      "cyclus": 11702,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 1,
-      "cliche_notities": "Het beeld toont een iconisch winterlandschap met een opvallende rode zon, typisch voor ansichtkaartachtige composities zonder duidelijke persoonlijke invalshoek.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w011702_11765.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11845,
+      "cyclus": 11782,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk met spits) en de klassieke compositie met waterreflectie, zonder duidelijke persoonlijke of compositorische keuze.",
+      "bestand": "images/a011782_11845.webp"
+    },
     {
       "id": 11836,
       "cyclus": 11773,
@@ -150,15 +159,6 @@
       "tech_notities": "tekst/tekens in beeld",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp van vogels in vlucht tegen een dramatische achtergrond, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a011766_11829.webp"
-    },
-    {
-      "id": 11797,
-      "cyclus": 11734,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'herhaalpatronen (herhaling van woorden met minimale variatie)', 'onrealistische textuur (stenen letters met perfecte, niet-natuurlijke structuur)']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte, niet-direct-herkenbare compositie met tekst.",
-      "bestand": "images/a011734_11797.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11778,
-    "gemaakt": 11840,
-    "gekozen": 1819,
-    "afgekeurd": 1408,
+    "cycli": 11786,
+    "gemaakt": 11849,
+    "gekozen": 1821,
+    "afgekeurd": 1409,
     "corpus": 61,
     "notities": 455
   }
