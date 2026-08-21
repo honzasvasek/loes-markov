@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-21T09:45+02:00",
+  "bijgewerkt": "2026-08-21T10:00+02:00",
   "werk": [
     {
       "id": 11956,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 11965,
+      "cyclus": 11902,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte vorm met een focus op textuur en kleur.",
+      "bestand": "images/a011902_11965.webp"
+    },
+    {
+      "id": 11962,
+      "cyclus": 11899,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een idyllisch landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a011899_11962.webp"
+    },
+    {
       "id": 11946,
       "cyclus": 11883,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in de proporties van de windmolen (wieken iets te dun/ongebruikelijk)",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: iconische Nederlandse molens bij zonsondergang met een perfecte, decoratieve lucht en een pad dat de blik leidt zonder onverwachte keuzes.",
       "bestand": "images/a011883_11946.webp"
-    },
-    {
-      "id": 11944,
-      "cyclus": 11881,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en uitlijning', 'wazige overgang tussen tekst en achtergrond']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met onbegrijpelijke tekst.",
-      "bestand": "images/a011881_11944.webp"
-    },
-    {
-      "id": 11941,
-      "cyclus": 11878,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische molen, een gracht en een decoratief zonsondergangseffect, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a011878_11941.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11898,
-    "gemaakt": 11961,
+    "cycli": 11904,
+    "gemaakt": 11966,
     "gekozen": 1843,
-    "afgekeurd": 1424,
-    "corpus": 60,
+    "afgekeurd": 1426,
+    "corpus": 62,
     "notities": 459
   }
 }
