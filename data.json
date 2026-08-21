@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-21T19:15+02:00",
+  "bijgewerkt": "2026-08-21T19:30+02:00",
   "werk": [
+    {
+      "id": 12205,
+      "titel": "Modder tussen de naden",
+      "beschrijving": "Een breed betonnen oppervlak, opgedeeld in rechthoekige panelen met smalle naden, loopt diagonaal door het beeld. Tussen twee panelen loopt een smalle, donkerbruine waterloop, gevuld met modderig water dat lichte rimpelingen vertoont. Aan weerskanten van de waterloop zitten losse keien en kleine stenen, deels ondergedompeld. Het beton heeft een ruwe textuur met subtiele kleurverschillen, van lichtgrijs tot beige. De horizon is laag in het beeld, waar een donkere, bewolkte hemel overgaat in een smalle strook lichtere wolken. Enkele kleine, witte voorwerpen liggen verspreid aan de rand van de waterloop.",
+      "cyclus": 12142,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een subtiele, bijna abstracte spanning tussen beton en water, zonder toeristische allure.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012142_12205.webp"
+    },
+    {
+      "id": 12198,
+      "titel": "Vleugels boven het raster",
+      "beschrijving": "Zes ganzen vliegen in een losse V-vorm door een rozegetinte hemel, hun vleugels wijd open en hun lichamen in verschillende vluchtposities. Onder hen loopt een donkere houten omheining horizontaal door het beeld, met verticale palen en horizontale latten die een raster vormen. De achtergrond bestaat uit een egale, watervastkleurachtige roze textuur met lichte schakeringen en vage, wazige vormen die aan wolken of nevel doen denken. De ganzen hebben donkere vleugels, witte buiken en zwarte koppen met witte strepen. De compositie is verticaal opgebouwd, met de vogels in de bovenste helft en de omheining in het midden, waardoor de onderste helft van het beeld leeg blijft, behalve voor de roze textuur.",
+      "cyclus": 12135,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie en kleurkeuze zijn niet typisch voor een toeristische ansichtkaart, maar hebben een meer persoonlijke, stilistische inslag.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012135_12198.webp"
+    },
+    {
+      "id": 12196,
+      "titel": "Waar de weg zwijgt",
+      "beschrijving": "Een kronkelende, witgrijze weg snijdt door een landschap van terrasvormige, bruin-grijze heuvels. Rechts staat een klein, donker gebouw met een koepeldak en een kruis erboven, geflankeerd door een lichtere muur. De weg bestaat uit onregelmatige, zachte penseelstreken, met donkere en lichte vlakken die diepte suggereren. Verspreid over de heuvels liggen kleine, donkere vormen die op vegetatie of rotsen lijken. De achtergrond is een egaal, vaag grijs, zonder duidelijke horizon. De compositie is verticaal georiënteerd, met de weg als leidende lijn die het oog naar het gebouw trekt. Kleuren zijn gedempt, met accenten van beige, bruin en zwart.",
+      "cyclus": 12133,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in de textuur van de stenen muren linksboven', 'onduidelijke overgang tussen de kerk en de achtergrond aan de rechterkant']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, dromerige kwaliteit die beyond een typische ansichtkaart gaat, met een ongemakkelijke spanning tussen leegte en aanwezigheid.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012133_12196.webp"
+    },
     {
       "id": 12189,
       "titel": "Verf en vergetelheid op hout",
@@ -91,48 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012083_12146.webp"
-    },
-    {
-      "id": 12142,
-      "titel": "Stromend verdwijnen",
-      "beschrijving": "Een verticale, amorf vorm domineert het beeld, opgebouwd uit zachte, vloeiende lagen roze, purper en donkerrood die overgaan in witte, textuurrijke randen. Kleurrijke druppels en kleine bubbels zijn verspreid door de vorm, met een glanzende, bijna natte uitstraling. De achtergrond is een ongelijkmatige, witte textuur met subtiele scheurtjes en losse vezels, wat een gevoel van verweerd papier of pleister suggereert. De compositie straalt een stille, organische dynamiek uit, waarbij de kleuren lijken te stromen en te vervagen in de witte ruimte eromheen. Geen duidelijke figuren of herkenbare voorwerpen, maar een abstract spel van vorm, kleur en textuur dat een gevoel van beweging en ontbinding oproept.",
-      "cyclus": 12079,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, organische vorm met een persoonlijke compositorische keuze, geen toeristische ansichtkaartstijl.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012079_12142.webp"
-    },
-    {
-      "id": 12126,
-      "titel": "Getrapte rand, spiraalblad",
-      "beschrijving": "Een verweerd houten schuurtje met een getrapte dakrand staat centraal, omringd door overwoekerend groen: brede bladeren, slanke stengels en donkere, bijna zwarte takken. Achter het schuurtje rijst een hoge, slanke plant op met kleine, glanzende blaadjes die zich spiraalvormig om een stam draaien. Vier witte ramen met ruitvormige ramen vullen de achtergrond, twee boven twee, in een geelachtige muur met zichtbare textuur. De grond is zandig, met verspreide steentjes en droog gras. Schaduwen vallen scherp, alsof de zon laag staat. Kleuren zijn gedempt: beige, grijs, groen en bruin domineren, met subtiele witte en donkere accenten in het groen en de ramen.",
-      "cyclus": 12063,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vensterroosters (linkerboven vs rechteronder)', 'lichte wazigheid in schaduwpartijen van de schuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands motief, maar een onpersoonlijke, bijna anonieme gevel zonder decoratief licht of typisch ansichtkaart-compositie",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012063_12126.webp"
-    },
-    {
-      "id": 12123,
-      "titel": "Takken snijden de horizon door",
-      "beschrijving": "Donkerbruine en zwarte takken snijden schuin door een lichtblauwe lucht, met witte wolken die zacht overgaan in de horizon. Onderaan strekt een groen veld zich uit met geelgroene en donkergroene strepen, doorsneden door een smalle, rozeachtige pad en een donkere, slanke lijn die als een waterloop of weg loopt. Rechts staat een donkere, bolvormige boom of struik, terwijl links vaag groene bomen de achtergrond vormen. Kleuren zijn helder en levendig, met een contrast tussen de scherpe takken en de soepele, golvende vormen van het landschap.",
-      "cyclus": 12060,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van bomen links/rechts', 'wazige overgang tussen horizon en lucht']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuzes zijn ongemakkelijk en niet-bevestigend",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012060_12123.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12208,
+      "cyclus": 12145,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een verlaten straatje met een ongemakkelijke sfeer en een kaart die een verhaal suggereert.",
+      "bestand": "images/a012145_12208.webp"
+    },
     {
       "id": 12176,
       "cyclus": 12113,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters', 'onduidelijke structuur']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
       "bestand": "images/a012110_12173.webp"
-    },
-    {
-      "id": 12157,
-      "cyclus": 12094,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de rotsen (sommige delen te scherp, andere wazig)', 'Water heeft iets kunstmatige, herhalende structuur in de golven']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische molen tegen een heldere hemel, met een perfecte balans tussen water en rotsen, zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a012094_12157.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12141,
-    "gemaakt": 12203,
-    "gekozen": 1882,
-    "afgekeurd": 1448,
+    "cycli": 12147,
+    "gemaakt": 12209,
+    "gekozen": 1885,
+    "afgekeurd": 1449,
     "corpus": 59,
     "notities": 464
   }
