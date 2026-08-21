@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T13:15+02:00",
+  "bijgewerkt": "2026-08-21T13:30+02:00",
   "werk": [
+    {
+      "id": 12043,
+      "titel": "Rook die stilstaat in een vraag",
+      "beschrijving": "Een donkergrijze, getextureerde achtergrond omhult een slanke, witte rookvorm die van onder naar boven krommert en uitwaaient in fijne, doorschijnende draadjes. De rook heeft subtiele gele en gouden highlights die de beweging benadrukken, terwijl een klein blauw vlekje en een paar onregelmatige, lichtere stippen de achtergrond doorspatten. De compositie is verticaal gericht, met de rook die de hoogte van het beeld opvult en de leegte eromheen een rustige, bijna zwevende sfeer geeft. Kleinere details zoals lichte krassporen en een paar donkere vlekken op de achtergrond voegen textuur toe aan het geheel.",
+      "cyclus": 11980,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de witte rookvormen tegen de donkere achtergrond', 'lichte inconsistentie in de textuur van de achtergrond (enkele plekken met onverklaarde kleine vlekken)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve vormtaal met een bewuste compositorische keuze.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011980_12043.webp"
+    },
+    {
+      "id": 12042,
+      "titel": "Scharnier in de spleet",
+      "beschrijving": "Een houten deur met verticale lamellen staat licht geopend, met een smalle spleet waar een donkere scharnier zichtbaar is. Rechts van de deur loopt een grijze betonnen rand parallel aan een donkere, korrelige ondergrond van grind en aarde, doorspekt met kleine steentjes, droge takjes en een paar bladeren. Het hout heeft een diepbruine, gladde textuur met subtiele vezels, terwijl de grond een ruwe, ongelijkmatige structuur heeft met verspreide debris. De compositie wordt gedomineerd door de scherpe lijn van de deur die diagonaal door het beeld loopt, in contrast met de willekeurige verdeling van het grind.",
+      "cyclus": 11979,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is neutraal en niet gericht op een toeristisch effect.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011979_12042.webp"
+    },
     {
       "id": 12039,
       "titel": "Donkere hiaten tussen roze stroomlijnen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011941_12004.webp"
-    },
-    {
-      "id": 12003,
-      "titel": "Rood op de vloer blijft hangen",
-      "beschrijving": "Een verlaten ruimte met donkere, vierkante tegels die de vloer bedekken, doorsneden door roodachtige vlekken die zich uitstrekken naar een verweerde houten deur in het midden van de achterwand. Aan weerskanten stapelen zich onregelmatige stenen op, sommige groot en plat, andere klein en scherp, met losse brokstukken verspreid over de tegels. De muren zijn glad en lichtgrijs, met subtiele textuur en een roze vlek aan de rechterkant. Het licht valt schuin van bovenaf, waardoor schaduwen de diepte van de ruimte benadrukken en de textuur van de tegels en muren zichtbaar worden. De sfeer is stil en leeg, met een gevoel van verlatenheid dat de ruimte doortrekt.",
-      "cyclus": 11940,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en de ruimte voelt onaf, niet bevestigend.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011940_12003.webp"
-    },
-    {
-      "id": 12001,
-      "titel": "Wat blijft van het water?",
-      "beschrijving": "Een brede, natte schorlijn strekt zich uit onder een egale, lichtgrijze hemel. Het water is kalm, met zachte golven die zachtjes tegen de kust slaan. Het strand bestaat uit modderig zand, doorspekt met donkere klompen algen, dode planten en verspreid afval zoals houten latjes en schelpen. Kleine plassen water reflecteren het diffuse licht, terwijl de textuur van het natte zand fijne patronen vormt. De horizon is ver weg, een subtiele lijn waar water en hemel samenvallen. De sfeer is stil en verlaten, zonder sporen van leven of beweging.",
-      "cyclus": 11938,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een rustige, onopgesmukte weergave van een getijdenlandschap zonder duidelijke compositorische keuze.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011938_12001.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11984,
-    "gemaakt": 12046,
-    "gekozen": 1859,
+    "cycli": 11991,
+    "gemaakt": 12054,
+    "gekozen": 1861,
     "afgekeurd": 1436,
     "corpus": 59,
     "notities": 460
