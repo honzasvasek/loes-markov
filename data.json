@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T05:15+02:00",
+  "bijgewerkt": "2026-08-21T05:30+02:00",
   "werk": [
+    {
+      "id": 11832,
+      "titel": "Natte papieren stelen",
+      "beschrijving": "Een groene waaier met houten stelen ligt open op een bruine houten ondergrond, de punten van de stelen wijzen naar beneden rechts. Links van de waaier bevindt zich een donkergrijze, rechthoekige voorwerp met ronde, holle uitsteeksels, vergelijkbaar met een eierdoos. De achtergrond is een effen, lichtbeige kleur met subtiele groene en grijze penseelstreken boven de waaier. De waaier heeft een lichte glans, alsof het papier nat is, en de houten stelen hebben kleine, donkere schroeven of spijkers. De compositie is schuin, met de waaier die de meeste ruimte inneemt en de donkere voorwerp in de hoek.",
+      "cyclus": 11769,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de overgang tussen de groene en grijze segmenten van de waaier, alsof de texturen niet helemaal naadloos aansluiten', 'Subtiele halo rond de rand van de waaier waar het licht de schaduw raakt, wat een iets kunstmatige uitstraling geeft']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een ongebruikelijke combinatie van voorwerpen (waaier en onduidelijk metaalobject) met een focus op textuur en vorm in plaats van een typisch landschap of stillleven.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011769_11832.webp"
+    },
+    {
+      "id": 11830,
+      "titel": "Vraagtekens in hout en steen",
+      "beschrijving": "Twee houten planken vormen een scherpe V-vorm op een houten platform, met aan weerskanten een steile rotswand links en een witte kerk met spitse toren rechts. Boven hen vliegen twee vogels door een lucht die overgaat in een bruinrode horizon. De houten structuren hebben zichtbare korrel en spijkers, de kerk heeft een rond en een boogvormig raam, en de rotswand toont onregelmatige, ruwe texturen. De compositie is symmetrisch rond de V, met de vogels als enige beweging in een statisch beeld. Kleuren zijn beperkt tot zwart-wit met subtiele bruine en beige tinten in de achtergrond.",
+      "cyclus": 11767,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een kerk met een rotsformatie en vogels in een surrealistische, niet-iconische compositie, wat afwijkt van een typische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011767_11830.webp"
+    },
     {
       "id": 11820,
       "titel": "Vlammen in het grasdak",
@@ -104,35 +130,18 @@
       "curriculum_score": 4.0,
       "gekozen": 1,
       "bestand": "images/w011702_11765.webp"
-    },
-    {
-      "id": 11764,
-      "titel": "IJs dat zwijgt maar luistert",
-      "beschrijving": "Wit en lichtblauw ijs vormt onregelmatige, schuine blokken die door donkerbruine, slanke rietstengels worden doorsneden. Onder het ijs glimpt donker water met vaag zichtbare, ronde vormen die op stenen of holtes lijken. De achtergrond bestaat uit een gedempt grijsbruin vlak met subtiele, verticale penseelstreken die riet of droog gras suggereren. De compositie is dynamisch, met de ijsblokken die diagonaal door het beeld lopen en de rietstengels die er doorheen stechen, waardoor een gevoel van bevroren beweging ontstaat. Kleuren zijn koud en gedempt, met accenten van wit, lichtblauw en donkerbruin.",
-      "cyclus": 11701,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011701_11764.webp"
-    },
-    {
-      "id": 11762,
-      "titel": "Prikkels in bevroren gras",
-      "beschrijving": "Donkere, slanke grasbladeren vullen het beeld in een dicht, willekeurig patroon. Veel bladeren zijn bedekt met fijne, witte ijzignestelsels die als prikkels langs de randen lopen, met kleine, spits toelopende uitsteeksels die het licht vangen. Sommige bladeren zijn scherper in focus, andere vervagen in de achtergrond, waar donkere, onscherpe vormen een diepte suggereren. De witte bevroren structuren contrastereren sterk met de donkergrijze tot zwarte tinten van het gras, waardoor een textuur ontstaat die zowel fijn als complex is. De compositie is verticaal gericht, met bladeren die in allerlei hoeken door elkaar lopen, soms parallel, soms kruisend, zonder duidelijke herhaling of symmetrie. Het geheel straalt een koele, stilstaande sfeer uit, alsof het moment van bevriezing vastgelegd is in een bevroren landschap zonder beweging.",
-      "cyclus": 11699,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, detailrijke close-up zonder toeristische connotatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011699_11762.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11836,
+      "cyclus": 11773,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in perspectief van de kerkruïne en de omringende gebouwen",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch kerkbeeld met perfecte zonsondergangskleuren en een klassieke framing tussen gebouwen, zonder eigen compositorische keuzes.",
+      "bestand": "images/a011773_11836.webp"
+    },
     {
       "id": 11829,
       "cyclus": 11766,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'herhaalpatronen (herhaling van woorden met minimale variatie)', 'onrealistische textuur (stenen letters met perfecte, niet-natuurlijke structuur)']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte, niet-direct-herkenbare compositie met tekst.",
       "bestand": "images/a011734_11797.webp"
-    },
-    {
-      "id": 11779,
-      "cyclus": 11716,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een eigen standpunt.",
-      "bestand": "images/a011716_11779.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11770,
-    "gemaakt": 11832,
-    "gekozen": 1817,
-    "afgekeurd": 1407,
+    "cycli": 11778,
+    "gemaakt": 11840,
+    "gekozen": 1819,
+    "afgekeurd": 1408,
     "corpus": 61,
     "notities": 455
   }
