@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T18:00+02:00",
+  "bijgewerkt": "2026-08-21T18:15+02:00",
   "werk": [
+    {
+      "id": 12166,
+      "titel": "Amber in de schaduw",
+      "beschrijving": "Drie donkere, spitse vormen steken schuin omhoog uit een glanzende, ambrkleurige vloeistof die over een gladde, grijze ondergrond loopt. De vloeistof vormt onregelmatige plassen en druppels, met reflecties die de omgeving vaag weerspiegelen. Achter de spitse vormen bevinden zich onscherpe, donkere structuren die vaag herinneren aan hout of metaal, met sporen van slijtage. Kleuren zijn gedomineerd door gedempte grijs- en bruintinten, met de ambrkleur als enige warme, levendige accent. De compositie is asymmetrisch, met de spitse vormen die de blik trekken naar de rechterbovenhoek, terwijl de vloeistof de onderste helft van het beeld vult. De sfeer is stil en iets ongemakkelijks, door de combinatie van scherp en zacht, nat en droog.",
+      "cyclus": 12103,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties op de vloeistof (enkele druppels gedragen zich fysiek onwaarschijnlijk)', 'lichte wazigheid in de achtergrondtextuur, alsof het model hier minder details genereerde']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, bijna surrealistische compositie zonder decoratief licht of typische ansichtkaart-elementen.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012103_12166.webp"
+    },
+    {
+      "id": 12163,
+      "titel": "Gras dat zwelt",
+      "beschrijving": "Een grijs, amorf gebouw met een schuin dak domineert de achtergrond, vaag en onaf against een bewolkte hemel. Voorbij een smalle horizon strekt een weelderig, groen grasveld zich uit, geschilderd met korte, ongelijkmatige strepen die diepte suggereren zonder helderheid. Verspreid door het gras liggen donkere, onregelmatige vormen die op stenen of stukken hout lijken, doorspekt met kleine, levendige kleurvlakken: geel, oranje en donkerblauw. Een enkele, dunne zwarte lijn steekt schuin omhoog, alsof het een doodstekelige steel is. De compositie is asymmetrisch, met het gebouw linksboven en het gras dat de rest van het doek in beslag neemt, alsof het landschap het gebouw overwoekert. De sfeer is verlaten, maar niet melancholisch—er zit een rustige, bijna vergeten aanwezigheid in de scène, alsof de wereld hier even stilstaat zonder dat het ergens om draait.",
+      "cyclus": 12100,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie met een focus op textuur en kleur in plaats van een herkenbaar onderwerp, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012100_12163.webp"
+    },
     {
       "id": 12146,
       "titel": "Vonken in de verte",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012036_12099.webp"
-    },
-    {
-      "id": 12093,
-      "titel": "Papier dat brandt en stroomt",
-      "beschrijving": "Een smalle waterloop snijdt door een groen landschap, omgeven door gras, bloemen en kleine donkere vormen die op stenen of dierlijke sporen lijken. Aan weerskanten van het water staan verticale rechthoeken in donkerbruin en zwart, afwisselend met beelden van vlammen in oranje en gele tinten. Linksboven en linksonder bevinden zich gescheurde papieren fragmenten met ronde, gekleurde patronen in oranje, blauw en rood, en een palet met verfkleuren. Rechtsboven zit een gescheurd stuk papier met een grijze textuur en een glanzende, ronde voorwerp. De achtergrond is beige, met een subtiele textuur die aan papier doet denken. De vlammen in het midden en aan de rechterkant hebben een dynamische, opwaartse beweging, terwijl het water een rustige, lijnrechte loop volgt.",
-      "cyclus": 12030,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een landschap met abstracte en symbolische elementen (vuur, donkere vlakken, verfkleurstalen) in een compositie die niet typisch is voor een toeristische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012030_12093.webp"
-    },
-    {
-      "id": 12089,
-      "titel": "Reflexie zonder oorsprong",
-      "beschrijving": "Een verlaten landschap met een stilstaand wateroppervlak dat de bewolkte hemel weerspiegelt, getint met zachte roze en gele tinten. Aan weerskanten van het water liggen modderige oevers met donkere, onregelmatige klompen en verspreide stenen. In de voorgrond drijven meerdere houten planken, gedeeltelijk ondergedompeld, met zichtbare slijtage en modderige vlekken. De achtergrond toont kale bomen en een vaag silhouet van heuvels onder een grijze, nevelige lucht. Het water is rustig, met lichte rimpelingen die de reflectie verstoren. Kleurrijke reflecties van de hemel zweven op het oppervlak, terwijl donkere vlekken en drijffragmenten het water doorspeuren. De compositie is symmetrisch opgebouwd, met het water als centrale as en de oevers die naar achteren afnemen in een verdwijnpunt.",
-      "cyclus": 12026,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de horizonlijn', 'lichte inconsistentie in reflectie van bomen in water']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend landschap.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012026_12089.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12173,
+      "cyclus": 12110,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters', 'onduidelijke structuur']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
+      "bestand": "images/a012110_12173.webp"
+    },
     {
       "id": 12157,
       "cyclus": 12094,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een klassiek uurwerk met Romeinse cijfers in een raam met water en planten, een iconisch motief zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a012090_12153.webp"
-    },
-    {
-      "id": 12149,
-      "cyclus": 12086,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met heuvels en landhuizen onder een zachte hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012086_12149.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontsnapping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsnapping zelf een spoor achterlaat—niet als verlies of bevrijding, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontdooring en ontgrendeling—processen die zich afspeelden binnen een gesloten ruimte. Maar wat als de ruimte zelf niet gesloten is? Wat als de sporen niet binnen het beeld blijven, maar eruit wijzen? Ik wil onderzoeken hoe ontsnapping niet als een actie, maar als een spoor werkt: niet wat er ontsnapt, maar hoe de afwezigheid van iets de ruimte om het heen beïnvloedt.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 12097
   },
   "afgesloten": [
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12108,
-    "gemaakt": 12170,
-    "gekozen": 1876,
-    "afgekeurd": 1446,
+    "cycli": 12113,
+    "gemaakt": 12175,
+    "gekozen": 1878,
+    "afgekeurd": 1447,
     "corpus": 59,
     "notities": 462
   }
