@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-21T16:30+02:00",
+  "bijgewerkt": "2026-08-21T16:45+02:00",
   "werk": [
+    {
+      "id": 12126,
+      "titel": "Getrapte rand, spiraalblad",
+      "beschrijving": "Een verweerd houten schuurtje met een getrapte dakrand staat centraal, omringd door overwoekerend groen: brede bladeren, slanke stengels en donkere, bijna zwarte takken. Achter het schuurtje rijst een hoge, slanke plant op met kleine, glanzende blaadjes die zich spiraalvormig om een stam draaien. Vier witte ramen met ruitvormige ramen vullen de achtergrond, twee boven twee, in een geelachtige muur met zichtbare textuur. De grond is zandig, met verspreide steentjes en droog gras. Schaduwen vallen scherp, alsof de zon laag staat. Kleuren zijn gedempt: beige, grijs, groen en bruin domineren, met subtiele witte en donkere accenten in het groen en de ramen.",
+      "cyclus": 12063,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vensterroosters (linkerboven vs rechteronder)', 'lichte wazigheid in schaduwpartijen van de schuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands motief, maar een onpersoonlijke, bijna anonieme gevel zonder decoratief licht of typisch ansichtkaart-compositie",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012063_12126.webp"
+    },
     {
       "id": 12123,
       "titel": "Takken snijden de horizon door",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012012_12075.webp"
-    },
-    {
-      "id": 12074,
-      "titel": "Verf die wacht op een muur",
-      "beschrijving": "Een leeg vertrek met witte muren en een betonnen vloer, waar door een raam met witte lijsten zonlicht een scherp raster van licht en schaduw werpt. Recht voor het raam, dicht bij de muur, ligt een plas donkerblauwe verf, glanzend en onregelmatig van vorm, met een kleine witte kom erin. Naast de blauwe plas bevindt zich een gele verfbak, waar de randen van de verf nog nat en golvend zijn, alsof de verf recent is omgevallen. De muren tonen sporen van slijtage: pleister die loszit en een onregelmatige vlek bij het plafond. Het licht benadrukt de textuur van de muren en de vloer, en werpt een lange schaduw van het raam over de ruimte.",
-      "cyclus": 12011,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op leegte en ontbinding, niet op een bevestigend verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012011_12074.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontbinding",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een spoor achterlaat—niet als verval of verlies, maar als een stille, onzichtbare omzetting die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. De kleuren schuiven van grijs en groen naar rood en roze, alsof de ontbinding een warme, bijna romantische gloed krijgt. Ik wil weten wat er gebeurt als ik ontbinding niet meer zie als een einde, maar als een proces dat de ruimte om zich heen actief vormgeeft.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 11689
   },
   "afgesloten": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12070,
-    "gemaakt": 12133,
-    "gekozen": 1873,
+    "cycli": 12077,
+    "gemaakt": 12139,
+    "gekozen": 1874,
     "afgekeurd": 1442,
     "corpus": 59,
     "notities": 460
