@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T18:30+02:00",
+  "bijgewerkt": "2026-08-21T18:45+02:00",
   "werk": [
+    {
+      "id": 12179,
+      "titel": "Pluimen in de wind",
+      "beschrijving": "Een heuvel bedekt met droog, goudbruin gras domineert het beeld, met lange, slanke stengels die schuin omhoog wijzen en zachte, bruine pluimen dragen. Kleiner, donkergroen en paarsgroen gras doorspeekt tussen de stengels, met enkele dunne, donkere takken die diagonaal door het beeld lopen. De achtergrond toont een lichte, vaag geschilderde horizon met zachte blauwe en beige tinten, waar een donkere, onregelmatige vorm suggereert dat er iets langs de rand van de heuvel loopt. Kleurvlakken van oker, geel en groen vormen een textuur van losse, zichtbare penseelstreken, met hier en daar een donkere vlek of een kleine, ronde vorm die als een vogel of steen zou kunnen dienen. Het licht valt schuin van bovenaf, waardoor de grasstengels subtiele schaduwen werpen en de textuur van het landschap versterkt wordt. De compositie is asymmetrisch, met de meeste details in de onderste en middelste helft, terwijl de bovenkant open en luchtig blijft.",
+      "cyclus": 12116,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de heuvel aan de horizon', 'enkele grashalmen lijken zonder logische oorzaak abrupt te verdwijnen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld vermijdt iconische motieven en heeft een ongemakkelijke, niet-decoratieve compositie met schuine lijnen en ongelijkmatige details",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012116_12179.webp"
+    },
+    {
+      "id": 12175,
+      "titel": "Papier dat zich herinnert",
+      "beschrijving": "Een enkele, slanke stengel met een pluim bruine, gedroogde zaden steekt schuin omhoog tegen een egale, lichtgrijze achtergrond. Een smalle, donkergroene steel loopt parallel aan de stengel. In het onderste deel van het beeld lopen onregelmatige, witte scheurtjes door een bruin, textuurrijk vlak, alsof papier is losgetrokken. Achter de scheurtjes is een onscherp, bruin-groen landschap vaag zichtbaar, met suggesties van andere stengels en gras. De compositie is asymmetrisch, met de stengel aan de linkerkant en de scheurtjes die diagonaal door het beeld lopen. De sfeer is stil en verlaten, met een focus op de textuur van het droge gras en de ruwe randen van het gescheurde papier.",
+      "cyclus": 12112,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van het papier: de scheur aan de linkerkant is scherp gedetailleerd, terwijl de rechterkant waziger en minder consistent is, wat wijst op een mogelijk generatie-artefact in de textuurgeneratie.', \"De overgang tussen het papier en de achtergrond is aan de onderkant iets te scherp en kunstmatig, alsof het papier niet natuurlijk in het beeld 'ziet', maar er digitaal bovenop is geplakt.\"]",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (gras tegen een neutrale achtergrond met scheurpapier) is niet iconisch of decoratief, en de compositie heeft een bewuste, niet-obvieuze keuze (de scheur als metaforisch element).",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012112_12175.webp"
+    },
     {
       "id": 12166,
       "titel": "Amber in de schaduw",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012045_12108.webp"
-    },
-    {
-      "id": 12103,
-      "titel": "Druppels op een verdwijnd landschap",
-      "beschrijving": "Een donkere, schuine houten lijst sluit de bovenrand af, met druppels die naar beneden lopen over een grijswit vlak. Daaronder strekt zich een weids landschap uit in gedempte groen- en geeltinten, doorspekt met donkere vlekken en vaag omschreven vormen die op vegetatie lijken. Regenstrepen vallen schuin door het beeld, van linksboven naar rechtsonder, en vermengen zich met onduidelijke, bijna abstracte strepen en vlekken in de voorgrond. De achtergrond wordt gevormd door een onscherpe horizon met donkere, onregelmatige silhouetten, mogelijk bomen of heuvels. De onderste rand toont een donkere, vaag gereflecteerde laag, alsof het beeld door een nat oppervlak wordt bekeken. Kleuren zijn overwegend gedempt, met subtiele contrasten tussen licht en donker.",
-      "cyclus": 12040,
-      "tech_score": 8.0,
-      "tech_notities": "enkele lichte vervormingen in de achtergrondbomen, minimale halo's bij de overgang tussen hemel en landschap",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012040_12103.webp"
-    },
-    {
-      "id": 12099,
-      "titel": "Wat verborgen ligt achter die kier",
-      "beschrijving": "Een grijze houten deur staat licht open, met een donkere kier waarachter niets zichtbaar is. Tegen de deur leunt een bundel lichte, slanke houten stangen, met knoesten en onregelmatigheden, samengebonden met twee riemen. Links van de deur liggen gestapeld onregelmatige blokken hout in bruine en beige tinten, met losse spaanders en een klein geel voorwerp erop. Rechts van de deur loopt een smalle, golvende strook water in lichtblauwe en witte tinten, met drijvende houten blokken en donkere vlekken. De achtergrond bestaat uit een effen grijze muur met subtiele textuur, en de vloer is een mix van grijze en beige tinten met losse houten elementen en donkere schaduwen. De stangen werpen een lichte schaduw op de deur en de vloer.",
-      "cyclus": 12036,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de perspectief van de deur en de staven, lichte wazigheid in de achtergrondtexturen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stillleven met een ongemakkelijke, bijna verontrustende sfeer.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012036_12099.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12121,
+      "soort": "observatie",
+      "tekst": "De recente beelden tonen een opbouw van organische vormen en texturen, maar de spanning tussen leegte en vorm verdwijnt niet—de witte ruimte rond de donkere stengels, de lege velden naast de weg, de verweerde muren met verdwenen details, ze allemaal ademen een stilte die de beelden vormt zonder een verhaal te dragen. De herhaling van structuren is geen taal meer, maar een gewoonte die ik niet meer doorheb."
+    },
+    {
       "cyclus": 12097,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als spoor naar ontbinding als een stilte die de ruimte vult zonder verhaal of gevoel, wat de alinea over ontbinding en sporen vervangt."
@@ -252,11 +257,6 @@
       "cyclus": 11821,
       "soort": "observatie",
       "tekst": "De metalen buis, de roze muur, de takken tegen de gevel—ze zijn geen sporen van ontbinding meer, maar een stille aanwezigheid die de ruimte vult zonder een verhaal te dragen. De herhaling van verticale en diagonale lijnen is geen taal meer, maar een gewoonte die ik niet meer doorheb."
-    },
-    {
-      "cyclus": 11809,
-      "soort": "observatie",
-      "tekst": "De herhaling van structuren—ramen, deuren, gangen, houten stammen—en de schuine, verticale en diagonale lijnen die de ruimte verdelen, is geen onopzettelijke spanning meer, maar een taal die zichzelf herhaalt zonder een verhaal te dragen. De leegte rond deze vormen is geen afwezigheid, maar een actieve laag die de beelden vormt zonder zich te laten vatten in kleur of diepte."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12119,
-    "gemaakt": 12182,
-    "gekozen": 1878,
+    "cycli": 12127,
+    "gemaakt": 12189,
+    "gekozen": 1880,
     "afgekeurd": 1448,
     "corpus": 59,
-    "notities": 462
+    "notities": 463
   }
 }
