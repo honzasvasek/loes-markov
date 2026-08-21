@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T20:45+02:00",
+  "bijgewerkt": "2026-08-21T21:00+02:00",
   "werk": [
+    {
+      "id": 12236,
+      "titel": "Een spoor door het zand",
+      "beschrijving": "Zand vult het grootste deel van het beeld, met subtiele golven en een smalle, donkere spoor dat diagonaal door het zand loopt. Linksboven is een scherpe, witte hoek van een muur of structuur zichtbaar, die een scherp contrast vormt met de zachte, onregelmatige vormen van het zand. De schaduw van die witte structuur valt schuin over het zand, en versterkt de diepte van het beeld. Kleuren zijn beperkt tot beige, lichtgrijs en zachtbruin, met kleine donkere vlekjes verspreid door het zand. De sfeer is kalm en minimalistisch, met veel lege ruimte die de aandacht op de textuur en de subtiele beweging in het zand richt.",
+      "cyclus": 12173,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012173_12236.webp"
+    },
+    {
+      "id": 12234,
+      "titel": "Waar blijft de bron?",
+      "beschrijving": "Zand bedekt het grootste deel van het beeld, met zachte golven en subtiele textuurverschillen. Een wit, rechthoekig vlak ligt schuin in het bovenste linkerdeel, met een scherpe rand die een donkere schaduw werpt op het zand. Onder dat vlak stroomt een dunne straal zand naar beneden, waarbij de korrels een lichte wazigheid vormen tegen de donkerdere achtergrond. Het zand heeft verschillende tinten beige en lichtbruin, met enkele donkere vlekken en kleine onregelmatigheden in de textuur. De compositie is minimalistisch, met veel lege ruimte en een focus op de interactie tussen het witte vlak, de schaduw en het zand.",
+      "cyclus": 12171,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012171_12234.webp"
+    },
     {
       "id": 12232,
       "titel": "Golf die blijft hangen",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012133_12196.webp"
-    },
-    {
-      "id": 12189,
-      "titel": "Verf en vergetelheid op hout",
-      "beschrijving": "Een houten loopbrug met leuningen loopt diagonaal door het beeld, omgeven door donkerblauwe en rode verfvlammen en verspreide verfdruppels. Rookachtige witte vormen stijgen op in de achtergrond, terwijl de brug zelf bedekt is met sporen van blauwe en rode verf, alsof er recent iets hevig is gebeurd. De houten planken zijn ongelijkmatig en de leuningen staan schuin, met zichtbare spijkers en slijtage. Rode en blauwe verfstralen en fragmenten van wat lijkt op kapotte voorwerpen liggen verspreid rond de brug, die zich uitstrekt naar een donkere, onrustige horizon waar de rook zich verdicht. De sfeer is chaotisch en dynamisch, met een gevoel van onafgebleven actie.",
-      "cyclus": 12126,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houttextuur ladders (links/rechts)', 'wazige overgang rook-achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust onrustig en open",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012126_12189.webp"
-    },
-    {
-      "id": 12187,
-      "titel": "Natte sporen van een onafgebleven pad",
-      "beschrijving": "Donkere, onregelmatige vormen snijden door een verbleekt roze-bruin vlak, alsof natte penseelstreken het papier nog steeds doordringen. Dunne, verticale lijnen vallen als regen door een grijs-witte achtergrond, terwijl donkere vlekken en strepen een vergeten pad of spoor lijken te vormen. Een vaag, lichtere vorm in de bovenhoek suggereert een heuvel of golven, maar blijft onaf. Kleuren zijn gedempt, met subtiele overgangen tussen bruin, grijs en zwart, en de compositie voelt onstabiel, alsof het beeld net buiten het kader zou verdwijnen. Natte textuur en onvoltooide randen geven een gevoel van voorbijgaan, alsof het moment van schilderen nog niet eens volledig was verstreken.",
-      "cyclus": 12124,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in perspectief van de daken en watervlekken die wat kunstmatig overkomen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, sfeervolle compositie zonder duidelijke ansichtkaartwaarde",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012124_12187.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12178,
-    "gemaakt": 12240,
-    "gekozen": 1890,
+    "cycli": 12185,
+    "gemaakt": 12247,
+    "gekozen": 1892,
     "afgekeurd": 1453,
-    "corpus": 60,
+    "corpus": 59,
     "notities": 466
   }
 }
