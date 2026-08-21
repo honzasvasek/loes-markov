@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T22:30+02:00",
+  "bijgewerkt": "2026-08-21T22:45+02:00",
   "werk": [
+    {
+      "id": 12292,
+      "titel": "Waar leidt die ladder naartoe?",
+      "beschrijving": "Een houten ladder met brede, verweerde treden stijgt schuin omhoog tussen twee massieve, roodbruine rotsformaties door. De treden zijn ongelijkmatig gevormd en tonen sporen van slijtage, met lichte en donkere houtvezels zichtbaar. Rechts van de ladder staat een houten steigerconstructie met dunne latten en verticale stutten, gedeeltelijk in de schaduw. Achter de steiger strekt zich een zandstrand uit met lichte, golvende textuur, waar kleine donkere steentjes en losse klonten zand liggen. Verderop glinstert een smalle strook water onder een bleekblauwe hemel met zachte, witte wolken. De rotsen hebben een ruwe, onregelmatige textuur met diepe groeven en kleine holtes, en kastanjebruine tot oranje tinten die overgaan in donkere schaduwen bij de opening boven de ladder. Een donkere, boogvormige opening aan de bovenkant van de rotsen onthult een schemerige ruimte erachter.",
+      "cyclus": 12229,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de houten trappen (stap 4-6)', 'lichte wazigheid in de achtergrond (zee/horizon)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en de ruimte voelt onbeheersbaar, wat juist tegen een ansichtkaart in gaat.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012229_12292.webp"
+    },
+    {
+      "id": 12285,
+      "titel": "Groene rook in zandstorm",
+      "beschrijving": "Een zandwoestijnschap met zachte duinen domineert de voorgrond, waar fijn zand door een onzichtbare kracht omhoog wordt geblazen in een dynamische, rokerige wolk. Daarin mengt zich een smalle, groene rookstraal die zich spiraalvormig naar boven slingeren, omgeven door grijze en witte rook die zich uitstrekt tot aan een donkergrijze horizon. Kleinere zandkorrels en stenen liggen verspreid over de duinen, terwijl ver weg een smalle strook water met zachte golven de overgang vormt tussen land en hemel. De kleuren schuiven van beige en bruin in de voorgrond naar koelgrijs en donkerblauw in de achtergrond, met de groene rook als enige levendige accent.",
+      "cyclus": 12222,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012222_12285.webp"
+    },
     {
       "id": 12270,
       "titel": "Drie bomen, één vraag",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012169_12232.webp"
-    },
-    {
-      "id": 12229,
-      "titel": "Licht door de deur",
-      "beschrijving": "Een smalle, lichtblauwe gang met een witte deurstijl aan het eind, omgeven door reliefwerk van riet en gras in zwart, wit en blauw. Het riet staat links en rechts in de hoeken, met gebogen, puntige bladeren die naar binnen wijzen. Bovenin loopt een golvvormig blauw patroon langs het plafond, alsof water of wind de ruimte omhult. De vloer heeft een subtiele, cirkelvormige textuur, en de muren zijn glad en egaal. Kleuren zijn koud en gedempt, met accenten van donkerblauw en zwart in het reliëf. De compositie is symmetrisch, met het riet dat de blik naar de deur leidt, waar een vaag licht door komt.",
-      "cyclus": 12166,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, bijna abstracte compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012166_12229.webp"
-    },
-    {
-      "id": 12221,
-      "titel": "De open ruit naar vergeten tijd",
-      "beschrijving": "Een wit raam met twee ruiten, waarvan de rechteronderste open staat, kijkt uit op een verlaten landschap. Buiten staat een verweerd houten huis met een schuin dak en een schoorsteen, omringd door onkruid en dorens. Achter het huis strekt zich een vlakke horizon uit met enkele bomen en een overdekte structuur in de verte. Het landschap voelt stil en verwaarloosd, met overwoekerde planten en een verlaten sfeer. Het raam kader het beeld als een venster op een vergeten wereld, waarbij de open ruit een gevoel van toegankelijkheid suggereert.",
-      "cyclus": 12158,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de horizonlijn bij het verre landschap', 'Wazige details in de schaduwen van het dak van het huis']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een rustige, bijna vergeten sfeer zonder typisch toeristische elementen of decoratief perfect licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012158_12221.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12226,
-    "gemaakt": 12289,
-    "gekozen": 1897,
+    "cycli": 12234,
+    "gemaakt": 12296,
+    "gekozen": 1899,
     "afgekeurd": 1454,
     "corpus": 59,
     "notities": 467
