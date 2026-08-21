@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-21T17:15+02:00",
+  "bijgewerkt": "2026-08-21T17:30+02:00",
   "werk": [
     {
       "id": 12146,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 12157,
+      "cyclus": 12094,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de rotsen (sommige delen te scherp, andere wazig)', 'Water heeft iets kunstmatige, herhalende structuur in de golven']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische molen tegen een heldere hemel, met een perfecte balans tussen water en rotsen, zonder onverwachte compositorische keuzes.",
+      "bestand": "images/a012094_12157.webp"
+    },
+    {
+      "id": 12153,
+      "cyclus": 12090,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een klassiek uurwerk met Romeinse cijfers in een raam met water en planten, een iconisch motief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012090_12153.webp"
+    },
+    {
       "id": 12149,
       "cyclus": 12086,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met heuvels en landhuizen onder een zachte hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a012086_12149.webp"
-    },
-    {
-      "id": 12141,
-      "cyclus": 12078,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met letters en een verfpalet.",
-      "bestand": "images/a012078_12141.webp"
-    },
-    {
-      "id": 12131,
-      "cyclus": 12068,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld combineert een ongewoon onderwerp (wekker in landschap) met een niet-iconische compositie en kleurgebruik, wat het geen typische ansichtkaart maakt.",
-      "bestand": "images/a012068_12131.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12089,
-    "gemaakt": 12151,
+    "cycli": 12096,
+    "gemaakt": 12158,
     "gekozen": 1876,
-    "afgekeurd": 1444,
+    "afgekeurd": 1446,
     "corpus": 59,
     "notities": 460
   }
