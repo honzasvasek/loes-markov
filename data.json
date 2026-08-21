@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T23:45+02:00",
+  "bijgewerkt": "2026-08-22T00:00+02:00",
   "werk": [
+    {
+      "id": 12321,
+      "titel": "Gele stenen op paden",
+      "beschrijving": "Een smalle asfaltweg loopt in een boog door een landschap, geflankeerd door gras en kleine gele bloemen. Rechts van de weg stroomt een smalle waterloop, omgeven door bomen en struiken. In de verte staan huizen met schuine daken tegen een gele hemel met zachte wolken. Twee slanke bomen staan aan de rechterkant van de weg, hun takken uitgestrekt naar de hemel. Het gras aan de linkerkant is hoog en wat overwoekerd, met een opvallende gele steen die in het gras ligt. De weg heeft een witte randstrook en lijkt leeg en rustig. De sfeer is kalm en verlaten, met een licht nostalgische tint door de kleurverloop van de afbeelding.",
+      "cyclus": 12258,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de takken van de bomen aan de rechterkant, alsof ze in een golf bewegen zonder wind', 'De witte lijn op de weg loopt iets te recht en consistent, wat artificieel aanvoelt', 'Het gras aan de linkerkant heeft herhalende patronen, alsof het gekopieerd is']",
+      "academie_cliche": 1,
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een smalle weg die zich uitstrekt naar een horizon met huizen en bomen, in een nostalgische kleurstijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w012258_12321.webp"
+    },
+    {
+      "id": 12319,
+      "titel": "Vogels die de horizon scheuren",
+      "beschrijving": "Een schuin dak van donkerbruin hout domineert de bovenste helft, met een puntige top die de blik trekt. Daaronder strekt een zachtroze muur zich uit, waar vijf zwarte vogels in V-vorm vliegen. Twee bomen flankeren het beeld: links een boom met donkergroene en blauwe bladeren, doorspekt met gele vlekken, rechts een boom met lichtgroene en blauwe bladeren en oranjeachtige takken. Onderaan lopen groene en blauwe struiken en grassen, met hier en daar kleine gele en blauwe stippen. De achtergrond is een vaag geel, alsof de zon net ondergaat. Kleuren zijn zacht en verwaterd, met zichtbare penseelstreken die een losse, bijna speelse sfeer geven.",
+      "cyclus": 12256,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, persoonlijke compositie met ruimte voor interpretatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012256_12319.webp"
+    },
     {
       "id": 12310,
       "titel": "Roze ruiten, donkere takken",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012205_12268.webp"
-    },
-    {
-      "id": 12260,
-      "titel": "Natte randen, losse spijkers",
-      "beschrijving": "Een houten roeiboot ligt schuin op een zandig strand, met de boeg naar voren en de stuurboordkant zichtbaar. Het hout vertoont slijtage en verkleuring, met donkere en lichte vezels die de textuur benadrukken. Binnenin de boot lopen houten ribben en planken in verschillende hoeken, sommige met losse schroeven of spijkers. De rand van de boot is donkerder en lijkt nat, met kleine donkere vlekken die op modder of algen lijken. Het zand rondom is lichtgeel met donkere vlekken en sporen, en er liggen wat kleine stenen en takjes verspreid. De achtergrond bestaat uit een vaag, blauwgrijs water met zachte golven die zich uitstrekken tot aan de horizon. De lucht is niet zichtbaar, maar de sfeer is rustig en verlaten, met een lichtere tint aan de horizon die overgaat in een donkerder blauw bovenin. De boot werpt een lichte schaduw op het zand, en er zijn wat donkere vlekken en strepen rondom die op nat zand of vocht lijken.",
-      "cyclus": 12197,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een focus op leegte en verdwijnen, geen toeristische ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012197_12260.webp"
-    },
-    {
-      "id": 12256,
-      "titel": "Wit dat zakt door donker",
-      "beschrijving": "Donkere, scherpe takken en stengels snijden door een wit-grijze, textuurrijke achtergrond, met verspreide donkere vlekken en strepen die als schaduwen of natte plekken fungeren. Dunne, onregelmatige lijnen imiteren riet of droog gras, terwijl brede, zachte penseelstreken een onrustige horizon suggereren. Donkere, amorf gevormde vormen drijven erdoorheen, soms als silhouetten van verre bomen of rotsen. Witte en grijze vlakken wisselen zich af met zwarte en donkergrijze details, waarbij de contrasten de indruk van een verlaten, nat landschap versterken. Kleine, donkere stippen en ongelijke vlakken suggereren steentjes, modder of drijffhout. De compositie is dynamisch onbalanserd, met elementen die zowel naar voren als naar achteren lijken te duiken.",
-      "cyclus": 12193,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012193_12256.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12328,
+      "cyclus": 12265,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit beeld straalt een typisch toeristische, decoratieve sfeer uit met de combinatie van zand, gras en gestileerde golven, zonder een uniek of onverwacht element.",
+      "bestand": "images/a012265_12328.webp"
+    },
     {
       "id": 12298,
       "cyclus": 12235,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een klassiek symbool (horloge) met Romeinse cijfers en een spinnenweb, typisch voor nostalgie of verdwijntijd, zonder originele compositorische keuzes.",
       "bestand": "images/a012204_12267.webp"
-    },
-    {
-      "id": 12237,
-      "cyclus": 12174,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een architectonisch detail met een subtiele, niet-decoratieve compositie.",
-      "bestand": "images/a012174_12237.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12262,
-    "gemaakt": 12325,
-    "gekozen": 1903,
-    "afgekeurd": 1455,
+    "cycli": 12268,
+    "gemaakt": 12330,
+    "gekozen": 1905,
+    "afgekeurd": 1456,
     "corpus": 59,
     "notities": 468
   }
