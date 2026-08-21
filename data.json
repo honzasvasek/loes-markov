@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T18:45+02:00",
+  "bijgewerkt": "2026-08-21T19:00+02:00",
   "werk": [
+    {
+      "id": 12189,
+      "titel": "Verf en vergetelheid op hout",
+      "beschrijving": "Een houten loopbrug met leuningen loopt diagonaal door het beeld, omgeven door donkerblauwe en rode verfvlammen en verspreide verfdruppels. Rookachtige witte vormen stijgen op in de achtergrond, terwijl de brug zelf bedekt is met sporen van blauwe en rode verf, alsof er recent iets hevig is gebeurd. De houten planken zijn ongelijkmatig en de leuningen staan schuin, met zichtbare spijkers en slijtage. Rode en blauwe verfstralen en fragmenten van wat lijkt op kapotte voorwerpen liggen verspreid rond de brug, die zich uitstrekt naar een donkere, onrustige horizon waar de rook zich verdicht. De sfeer is chaotisch en dynamisch, met een gevoel van onafgebleven actie.",
+      "cyclus": 12126,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in houttextuur ladders (links/rechts)', 'wazige overgang rook-achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust onrustig en open",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012126_12189.webp"
+    },
+    {
+      "id": 12187,
+      "titel": "Natte sporen van een onafgebleven pad",
+      "beschrijving": "Donkere, onregelmatige vormen snijden door een verbleekt roze-bruin vlak, alsof natte penseelstreken het papier nog steeds doordringen. Dunne, verticale lijnen vallen als regen door een grijs-witte achtergrond, terwijl donkere vlekken en strepen een vergeten pad of spoor lijken te vormen. Een vaag, lichtere vorm in de bovenhoek suggereert een heuvel of golven, maar blijft onaf. Kleuren zijn gedempt, met subtiele overgangen tussen bruin, grijs en zwart, en de compositie voelt onstabiel, alsof het beeld net buiten het kader zou verdwijnen. Natte textuur en onvoltooide randen geven een gevoel van voorbijgaan, alsof het moment van schilderen nog niet eens volledig was verstreken.",
+      "cyclus": 12124,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in perspectief van de daken en watervlekken die wat kunstmatig overkomen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, sfeervolle compositie zonder duidelijke ansichtkaartwaarde",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012124_12187.webp"
+    },
     {
       "id": 12179,
       "titel": "Pluimen in de wind",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012060_12123.webp"
-    },
-    {
-      "id": 12119,
-      "titel": "Waar de lijnen stilstaan",
-      "beschrijving": "Zichtbaar is een groep figuren met verschillende kapsels, gezien van achteren, omringd door hoog gras dat de voorgrond domineert. Witte, stralende lijnen lopen tussen de figuren en vormen een netwerk van verbindingen, met heldere punten op de kruispunten. Op de achtergrond staan bomen met bladeren en een vaag omlijnd landschap met watervlakken en een horizon. De afbeelding is in grijstinten, met een korrelige textuur die de hele scène doordringt. De lijnen en punten suggereren een onzichtbare structuur boven het tafereel.",
-      "cyclus": 12056,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van bomen achtergrond', 'lichte wazigheid in textuur van gras']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een complexe compositie met abstracte elementen",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012056_12119.webp"
-    },
-    {
-      "id": 12108,
-      "titel": "Aders in rook",
-      "beschrijving": "Rode en roze tinten vullen het beeld in wazige, vloeiende vormen die aan rook of vloeistof doen denken. Donkerrode, slanke lijnen lopen als aders door het compositie, met subtiele vertakkingen en onregelmatige randen. Sommige gebieden zijn intens rood, bijna purper, terwijl andere delen lichter en doorschijnender zijn, met een zachte overgang naar wit. Kleine, donkere vlekken en korrelige structuren zijn verspreid over het beeld, vooral bij de randen van de rode vormen. De achtergrond is een egale, lichte roze tint die de donkerdere elementen doet uitkomen. Er zijn geen duidelijke vormen of herkenbare voorwerpen, alleen een netwerk van lijnen en vlakken dat een gevoel van beweging en onrust uitstraalt.",
-      "cyclus": 12045,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, open compositie zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012045_12108.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12133,
+      "soort": "observatie",
+      "tekst": "De herhaling van wegen, trappen en bruggen in de recente beelden is geen toeval meer, maar een stille dialoog tussen leegte en richting—de witgrijze weg, het houten trapje, de loopbrug met leuningen zijn geen sporen van ontsnapping, maar een taal die zichzelf herhaalt zonder een bestemming te hebben. De leegte rond deze structuren is geen afwezigheid, maar een actieve laag die de beelden vormt zonder zich te laten vatten in kleur of verhaal."
+    },
+    {
       "cyclus": 12121,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een opbouw van organische vormen en texturen, maar de spanning tussen leegte en vorm verdwijnt niet—de witte ruimte rond de donkere stengels, de lege velden naast de weg, de verweerde muren met verdwenen details, ze allemaal ademen een stilte die de beelden vormt zonder een verhaal te dragen. De herhaling van structuren is geen taal meer, maar een gewoonte die ik niet meer doorheb."
@@ -252,11 +257,6 @@
       "cyclus": 11869,
       "soort": "observatie",
       "tekst": "De ramen en deuren in de recente beelden zijn geen scheidingen meer tussen binnen en buiten, maar een vlakke, bijna zwevende laag die de ruimte niet meer verdelt—de witte kozijnen en donkere ruiten zijn geen sporen van ontdooring, maar een stilte die de beelden vormt zonder een verhaal te dragen. De herhaling van horizontale en verticale lijnen is geen onopzettelijke spanning, maar een taal die zichzelf herhaalt zonder een bestemming te hebben."
-    },
-    {
-      "cyclus": 11821,
-      "soort": "observatie",
-      "tekst": "De metalen buis, de roze muur, de takken tegen de gevel—ze zijn geen sporen van ontbinding meer, maar een stille aanwezigheid die de ruimte vult zonder een verhaal te dragen. De herhaling van verticale en diagonale lijnen is geen taal meer, maar een gewoonte die ik niet meer doorheb."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12127,
-    "gemaakt": 12189,
-    "gekozen": 1880,
+    "cycli": 12134,
+    "gemaakt": 12196,
+    "gekozen": 1882,
     "afgekeurd": 1448,
     "corpus": 59,
-    "notities": 463
+    "notities": 464
   }
 }
