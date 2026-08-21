@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T04:15+02:00",
+  "bijgewerkt": "2026-08-21T04:30+02:00",
   "werk": [
+    {
+      "id": 11810,
+      "titel": "Wat blijft hangen in de spleet",
+      "beschrijving": "Een verticaal gescheurde, doorschijnende laag van vezelig materiaal, met onregelmatige, franjige randen, onthult een donkere, verticale spleet. Rechts ervan staat een slanke, bruine houten staaf met knopen en kleine takresten, schuin geplaatst tegen de achtergrond. Links van de scheur valt een donkere, rechte schaduw over het vezelige oppervlak, dat verkleuringen en plooien toont. Door de scheur is vaag een lichtere, verticale vorm zichtbaar, omgeven door donkere randen. Het geheel straalt een rustige, verlaten sfeer uit, met subtiele textuurverschillen tussen het vezelige materiaal, het hout en de achtergrond.",
+      "cyclus": 11747,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011747_11810.webp"
+    },
+    {
+      "id": 11803,
+      "titel": "Veerkracht tussen de lagen",
+      "beschrijving": "Droge, beige grasaren met fijne, veerkrachtige bloemkoppen strekken zich uit tegen een donkere achtergrond. Twee brede, golvende banen van zilvergrijze, doorzichtige vezels snijden horizontaal door het beeld, waarbij ze de grasstengels deels bedekken en deels doorlaten. De vezels hebben een glanzende, bijna vloeibare textuur en volgen een zachte, onregelmatige golflijn. Onder de vezels zijn dunne, bruine grasstengels zichtbaar, sommige gebroken of schuin afgesneden, met hier en daar een groene punt. De compositie is verticaal opgebouwd, met het gras boven en onder en de vezels er tussenin, wat een gevoel van diepte en laagopbouw geeft. De randen van het beeld zijn omlijst door een witte, effen rand met goudkleurige scharnieren aan weerskanten.",
+      "cyclus": 11740,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011740_11803.webp"
+    },
     {
       "id": 11796,
       "titel": "De onzichtbare kamer achter de ruit",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w011696_11759.webp"
-    },
-    {
-      "id": 11735,
-      "titel": "Regen die de schaduw veegt",
-      "beschrijving": "Een verlaten landschap in roodbruine tinten, doorsneden door regen die als fijne lijnen door de lucht valt. Centraal staat een oude, donkere molen met vier wieken, waarvan de schaduw lang en scherp over het zandige terrein trekt. Voor de molen staat een donker, driehoekig bord op een statief, met een vaag reflecterend oppervlak. Achter de molen liggen enkele kleine, donkere schuren met schuine daken, en verderop een rij bomen die de horizon vormen. Het terrein is woest en onbegroeid, met verspreide takken, stenen en wat afval. De regen geeft het tafereel een natte, glanzende textuur, terwijl de lucht een egaal, bewolkte roze-grijze kleur heeft.",
-      "cyclus": 11672,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 1,
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratief lichteffect en geen duidelijke compositorische keuze die beyond een ansichtkaart gaat.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w011672_11735.webp"
-    },
-    {
-      "id": 11732,
-      "titel": "Waar blijft de tuinkraan?",
-      "beschrijving": "Een houten schutting met verticale latten loopt schuin door het beeld, deels ondergedompeld in zand met natte, glanzende plekken. Achter de schutting staat een houten schuur met een gesloten deur en een goudkleurige deurbel. Rechts van de schuur ligt een schop met een houten steel in het gras, omringd door verspreide stenen, een boek en een stuk hout. Het zand vormt golven die zich uitstrekken naar de voorgrond, waar kleine plantjes en losse stenen liggen. De achtergrond bestaat uit een mengsel van groen en geel gras met donkere schaduwen.",
-      "cyclus": 11669,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op subtiele details en leegte, niet op een bevestigend verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011669_11732.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11742,
-    "gemaakt": 11804,
-    "gekozen": 1814,
+    "cycli": 11750,
+    "gemaakt": 11812,
+    "gekozen": 1816,
     "afgekeurd": 1406,
     "corpus": 61,
     "notities": 454
