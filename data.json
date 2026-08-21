@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T09:30+02:00",
+  "bijgewerkt": "2026-08-21T09:45+02:00",
   "werk": [
+    {
+      "id": 11956,
+      "titel": "Natte dromen in rood",
+      "beschrijving": "Rode en roze tinten vullen het beeld, met verticale, onregelmatige vormen die aan verweerde houten palen denken laten denken. Donkere, slanke grassprietjes stechen eruit, schuin en willekeurig geplaatst, met kleine, donkere knopjes aan de uiteinden. De achtergrond is lichter, bijna wit, met vage, onduidelijke contouren die aan verre heuvels of rotsen kunnen doen denken. Donkere vlekken en druppels verspreiden zich over het beeld, alsof natte verf nog niet droog is. De compositie is verticaal gericht, met de palen die de hoogte domineren en het gras dat de onderste helft bevolk. De sfeer is stil en verlaten, met een subtiele spanning tussen de harde, rechte lijnen van de palen en de zachte, willekeurige vormen van het gras.",
+      "cyclus": 11893,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011893_11956.webp"
+    },
+    {
+      "id": 11951,
+      "titel": "Vierkanten in een rookpoel",
+      "beschrijving": "Twaalf witte vierkanten met donkere, onregelmatige randen dalen in een diagonale lijn van boven naar beneden, omgeven door donkere, rookachtige vormen die zich uitstrekken naar een oranje-roze horizon. Drie sterrenvormige figuren met scherpe punten zijn verspreid tussen de vierkanten, terwijl kleine donkere cirkels en slingerende lijnen de compositie doorsnijden. Onderaan domineert een ronde, heldere zon de horizon, achter een silhouet van een woestijnachtig landschap met verspreide structuren en dunne, donkere takken. De achtergrond verloopt van grijs bovenaan naar een warme oranje onderaan, met subtiele textuur in de rook en het landschap.",
+      "cyclus": 11888,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond zonsondergang', 'lichte inconsistentie in perspectief van kaders']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is onorthodox en niet-bevestigend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011888_11951.webp"
+    },
     {
       "id": 11943,
       "titel": "Waterdruppels op goud",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011855_11918.webp"
-    },
-    {
-      "id": 11902,
-      "titel": "Roze beloftes in bruin",
-      "beschrijving": "Dunne, bruine takken met kleine, roze knoppen en donkere, ronde knopen lopen diagonaal door het beeld. De takken hebben een ruwe textuur met lichte en donkere vlekken en smalle, donkere spleten. Op de achtergrond lopen subtiele, horizontale grijze strepen door een wit vlak, wat een gevoel van diepte geeft. De takken zijn ongelijkmatig gevormd, met sommige delen die breder en andere die smal en puntig zijn. De roze knoppen staan scherp tegen de neutrale achtergrond af en zijn verspreid over de takken, soms in groepjes, soms alleen. Donkere, bijna zwarte details, zoals kleine knopen en smalle, donkere lijnen, doorbreken de eentonigheid van de takken. De compositie is rustig, met de takken die zich uitstrekken van de linkerbovenhoek naar de rechteronderhoek, waardoor het oog wordt meegesleurd door de lijnen en vormen.",
-      "cyclus": 11839,
-      "tech_score": 8.0,
-      "tech_notities": "enkele lichte vervormingen in takverbindingen, minimale inconsistenties in textuur van knoppen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuzes zijn subtiel en niet clichématig",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011839_11902.webp"
-    },
-    {
-      "id": 11899,
-      "titel": "Korrelige takken door grijze strepen",
-      "beschrijving": "Donkere, ruwe takken snijden schuin door een compositie van horizontale, afwisselend lichte en donkere grijze strepen. De takken hebben een korrelige textuur en vertakken zich in verschillende richtingen, met kleine, donkere knoppen of knobbels verspreid over de lengte. Sommige takken lopen parallel, andere kruisen elkaar in onregelmatige hoeken. De achtergrond strepen creëren een ritmisch patroon dat contrasteert met de organische, willekeurige vorm van de takken. Geen kleur, alleen schakeringen van grijs en zwart, met een sfeer van stilte en structuur.",
-      "cyclus": 11836,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in takdikte bij vertakkingen', 'lichte wazigheid in randgebieden van donkere knoppen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011836_11899.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11892,
-    "gemaakt": 11954,
-    "gekozen": 1841,
+    "cycli": 11898,
+    "gemaakt": 11961,
+    "gekozen": 1843,
     "afgekeurd": 1424,
-    "corpus": 62,
+    "corpus": 60,
     "notities": 459
   }
 }
