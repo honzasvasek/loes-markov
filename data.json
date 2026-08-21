@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T07:15+02:00",
+  "bijgewerkt": "2026-08-21T07:30+02:00",
   "werk": [
+    {
+      "id": 11892,
+      "titel": "Waar de takken zwijgen",
+      "beschrijving": "Witte takken met donkere vlekken en bruine puntjes strekken zich uit tegen een vaag grijze achtergrond met donkere vlekken. De takken vertakken zich in verschillende richtingen, met schuine en kromme lijnen die de compositie doorsnijden. De textuur van de takken is ruw en onregelmatig, met kleine uitsteeksels en afbrekingen aan de uiteinden. De achtergrond heeft een waterverfachtige structuur, met zachte overgangen tussen lichte en donkere grijstinten. De takken domineren het beeld, maar de lege ruimtes ertussenin geven een gevoel van ruimte en stilte.",
+      "cyclus": 11829,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (takken tegen een vaag achtergrond) is niet iconisch en de compositie heeft een eigen, minimalistische logica zonder decoratief perfect licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011829_11892.webp"
+    },
+    {
+      "id": 11888,
+      "titel": "Bloemhoofden die stralen als zonneschijnen",
+      "beschrijving": "Een donkere, slanke boom met prikkeldoorsteekende bloemhoofden domineert het beeld, schuin geplaatst tegen een witte houten gevel met horizontale lamellen. Twee rechthoekige ramen met donkere ruiten en een smalle gooternering lopen parallel aan de boom, die met scherpe, stralende takken de ruimte opsplijt. De bloemhoofden, zwart met witte stippen, stralen als gestileerde zonneschijnen uit in alle richtingen, terwijl de stam en takken in gladde, donkere lijnen de compositie doorbreken. De achtergrond is een grijze, getekende hemel met subtiele schaduwen die de boom omhullen, en een smalle, donkere verticale lijn aan de rechterkant suggereert een hoek van het gebouw. Witte vlekken op de stam en takken fungeren als onverklaarde accenten in het monochrome palet.",
+      "cyclus": 11825,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in schaduwval van boom tegen muur', 'lichte wazigheid in textuur van houten gevelbekleding']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, bijna onafgewerkte kwaliteit die boven een ansichtkaart uitstijgt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011825_11888.webp"
+    },
     {
       "id": 11883,
       "titel": "Roze met schaduw",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011789_11852.webp"
-    },
-    {
-      "id": 11844,
-      "titel": "Waar blijft de route?",
-      "beschrijving": "Een donkere, verweerde houten balk ligt schuin op een verbleekte kaart met fijne lijnen en vage kleurvlekken. Het hout heeft diepe barsten en glimmende, natte plekken, alsof het recent in water heeft gezeten. Kleine, donkere knoesten en schuine randen geven het een onregelmatige vorm. Rond de balk bevinden zich vage, bruine vlekken die lijken op inkt of modder, en enkele kleine, donkere druppels verspreid over het oppervlak. De achtergrond toont vaag herkenbare vormen van wegen, velden en water, getekend in zachte groene, blauwe en beige tinten. De balk domineert het midden van het beeld, met de kaart die eromheen lijkt te vervagen.",
-      "cyclus": 11781,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in textuur van hout (soms te scherp, soms wazig)",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een eigen compositorische spanning tussen hout en kaart.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011781_11844.webp"
-    },
-    {
-      "id": 11842,
-      "titel": "Krijt dat liegt",
-      "beschrijving": "Een roodbruine, korrelige ondergrond wordt doorsneden door witte krijtlijnen: een horizontale lijn en twee diagonale lijnen die in een punt samenkomen boven een cilindervormig object. Dat object, getekend met schuine witte strepen, rust op de horizontale lijn en straalt fijne witte lijnen uit die zich waaiervormig verspreiden over de ondergrond. De krijtsporen zijn ongelijkmatig en korrelig, met kleine witte deeltjes die zich rond het object en de lijnen bevinden. De achtergrond is egaal en textuurrijk, zonder andere vormen of details.",
-      "cyclus": 11779,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte compositie met een focus op vorm en textuur, geen toeristische ansichtkaartstijl.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011779_11842.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 11898,
+      "cyclus": 11835,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in reflectie van houten structuur in water', 'wazige achtergrondhuizen met inconsistent perspectief']",
+      "cliche_notities": "Typisch landschap met dorpsgezicht en water, uitgevoerd in realistische stijl zonder duidelijke persoonlijke interpretatie",
+      "bestand": "images/a011835_11898.webp"
+    },
     {
       "id": 11889,
       "cyclus": 11826,
@@ -150,15 +159,6 @@
       "tech_notities": "geen significante generatie-artefacten; lichte inconsistentie in textuur van muur vs. schilderij",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorpsschap met weg die de blik trekt, iconische huizen en bomen, zonder onverwachte compositorische keuzes.",
       "bestand": "images/a011815_11878.webp"
-    },
-    {
-      "id": 11861,
-      "cyclus": 11798,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van daken aan horizon', 'lichte wazigheid in verre achtergrond']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een idyllisch dorpje gezien vanuit een balkon, met perfecte balans en decoratief licht.",
-      "bestand": "images/a011798_11861.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11831,
-    "gemaakt": 11893,
-    "gekozen": 1829,
-    "afgekeurd": 1414,
+    "cycli": 11838,
+    "gemaakt": 11901,
+    "gekozen": 1831,
+    "afgekeurd": 1415,
     "corpus": 61,
     "notities": 458
   }
