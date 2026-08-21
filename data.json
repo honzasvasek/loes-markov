@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T13:45+02:00",
+  "bijgewerkt": "2026-08-21T14:00+02:00",
   "werk": [
+    {
+      "id": 12058,
+      "titel": "Donkere druppels op zand",
+      "beschrijving": "Een diagonale strook nat zand loopt door het beeld, omgeven door droog, gelijkmatig zand. Donkerblauwe en zwarte druppels en kleine plassen verspreiden zich langs de natte strook, met enkele grotere, glanzende bolletjes die de indruk wekken van bevroren druppels. Fijne korrels en kleine onregelmatigheden in het zand zijn zichtbaar rond de natte zone, waar het water de textuur heeft verbroken. De overgang tussen nat en droog is scherp, maar niet recht, met subtiele golven en uitlopers die de strook onvoorspelbaar maken. Het licht valt schuin, waardoor de druppels en plassen reflecties vertonen en de diepte van de donkere kleuren benadrukt wordt.",
+      "cyclus": 11995,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is abstract en niet iconisch, en de compositie is niet decoratief perfect.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011995_12058.webp"
+    },
+    {
+      "id": 12055,
+      "titel": "Sporen van een verdronken pad",
+      "beschrijving": "Een smalle, kronkelende spoor van nat, glimmend zand loopt door een ongelijkmatig landschap van droge, korrelige aarde. De randen van het spoor zijn onregelmatig en uitgesleten, met losse kluiten modder en kleine stenen die het patroon onderbreken. Rechtsboven loopt een dunne, verticale streep roestkleurige verf of mineralen door het beeld, parallel aan een vaag spoor van wat ooit een rechte lijn moet zijn geweest. De textuur wisselt van glad en glijdend in het midden van het spoor tot ruw en brokkelig aan de randen, waar droogte en vocht elkaar ontmoeten. Kleuren variëren van beige en grijsbruin tot donkerbruin, met subtiele tinten rood en oranje in de verticale streep en op sommige plekken waar het zand nat lijkt. De compositie is asymmetrisch, met het spoor dat diagonaal door het beeld loopt en de blik meevoert van linksboven naar rechtsonder.",
+      "cyclus": 11992,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in textuur van modder aan weerskanten van de spoornadruk",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, natuurlijke vorm zonder toeristische connotatie",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011992_12055.webp"
+    },
     {
       "id": 12043,
       "titel": "Rook die stilstaat in een vraag",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011950_12013.webp"
-    },
-    {
-      "id": 12009,
-      "titel": "Zaagtand in beton",
-      "beschrijving": "Een schuine, betonnen structuur domineert het beeld, met een scherp getekende, zaagtandvormige rand die zich diagonaal door het midden uitstrekt. De textuur van het beton is fijnkorrelig en gedetailleerd, met subtiele schaduwen die de diepte benadrukken. Rechtsboven valt een zachte, diffuse lichtval, waardoor de overgang tussen licht en donker soepel verloopt. De achtergrond bestaat uit een effen, lichtgrijze vlak, wat de focus op de geometrische vorm legt. De compositie straalt een rustige, bijna meditatieve sfeer uit, met een onderliggende spanning door de scherpe lijnen en het contrast tussen de harde vormen en de zachte belichting.",
-      "cyclus": 11946,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuurweergave aan de rechterkant van het blok', 'lichte onnauwkeurigheid in de schaduwval bij de zaagsnede']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is abstract en open van karakter",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011946_12009.webp"
-    },
-    {
-      "id": 12004,
-      "titel": "Vonken in het zand",
-      "beschrijving": "Een vuur vonkt op in een stapel houten blokken, omringd door zand en kleine stenen. De vlammen likken omhoog in oranje en gele tinten, terwijl de houten blokken donker en verkoolde plekken vertonen. Rondom de vuurplaats liggen verspreid droge takjes en een klein stukje hout. De achtergrond bestaat uit een effen, lichte muur met zachte schaduwen die door onzichtbare structuren worden geworpen. Het zand is fijn en lichtbruin, met hier en daar een klein steentje of stukje afval. De compositie is centraal gericht, met het vuur als focuspunt tegen de minimalistische achtergrond.",
-      "cyclus": 11941,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie met een focus op ontbinding en transformatie, geen iconisch of decoratief onderwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011941_12004.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11997,
-    "gemaakt": 12060,
-    "gekozen": 1861,
+    "cycli": 12005,
+    "gemaakt": 12067,
+    "gekozen": 1863,
     "afgekeurd": 1436,
-    "corpus": 58,
+    "corpus": 59,
     "notities": 460
   }
 }
