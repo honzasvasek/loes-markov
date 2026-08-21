@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T10:45+02:00",
+  "bijgewerkt": "2026-08-21T11:00+02:00",
   "werk": [
+    {
+      "id": 11980,
+      "titel": "Wortels in rood zwijgen",
+      "beschrijving": "Een donkere boom met uitgespreide takken staat rechtsboven op een rood landschap, met wortels die zich uitstrekken over een heuvel. Een smalle, rode houten loopbrug met horizontale planken loopt diagonaal van onder links naar boven rechts, waarbij de randen van de brug donkere, onregelmatige vormen hebben die lijken op losse stenen of bladeren. De achtergrond is eenduidig rood, met subtiele textuurverschillen die een gevoel van diepte geven. De boom en de brug vormen een scherpe contrast met de omringende ruimte, terwijl de compositie een gevoel van eenzaamheid en rust uitstraalt.",
+      "cyclus": 11917,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de boom en het pad dat de kijker trekt, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011917_11980.webp"
+    },
+    {
+      "id": 11979,
+      "titel": "Zes schalen, één verhaal",
+      "beschrijving": "Zes vierkante schalen met afgeronde hoeken liggen in een raster van drie rijen en twee kolommen op een witte achtergrond. Elke schaal heeft een diepblauwe glazuurlaag met subtiele variaties in tint en textuur, waarbij sommige plekken donkerder of lichter zijn door de glazuurlaag. De randen van de schalen zijn wit en vormen een scherp contrast met het blauwe binnenste. Op de bodem van elke schaal zijn kleine, donkere vlekken te zien, verschillend van vorm en grootte, alsof ze door het glazuur zijn gekomen tijdens het bakproces. De schalen zijn identiek van vorm en grootte, maar de details in het glazuur en de vlekken maken elke schaal uniek. De compositie is symmetrisch en rustig, met veel witte ruimte tussen de schalen, wat de focus legt op de subtiele verschillen tussen hen.",
+      "cyclus": 11916,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een serie van zes identieke kommen met subtiele variaties, wat ruimte laat voor een meer persoonlijke interpretatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011916_11979.webp"
+    },
     {
       "id": 11970,
       "titel": "Verf dat zwemt door zand",
@@ -104,61 +130,35 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011874_11937.webp"
-    },
-    {
-      "id": 11931,
-      "titel": "Vlam likt kozijnrand",
-      "beschrijving": "Een raam met een donkergrijze, roetachtige omlijsting domineert het bovenste deel, waar bovenaan een oranje vlam ontsteekt die de rand van het kozijn likt. Het raam zelf is verdeeld in vier witte ruiten, gescheiden door donkere, slanke lijnen. Onder het raam bevindt zich een oranje, diamantvormig vlak met een donkere steel en drie bladeren erop, omgeven door twee horizontale oranje strepen. De achtergrond is een mix van donkergrijze en zwarte vlekken, met subtiele overgangen naar lichtere grijstinten rond het raam. De oranje elementen vormen een scherp contrast met de donkere, bijna verbrande sfeer van de rest van de compositie.",
-      "cyclus": 11868,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een stilistische keuze met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011868_11931.webp"
-    },
-    {
-      "id": 11929,
-      "titel": "Goud dat zucht in de vuurstorm",
-      "beschrijving": "Een gouden, onregelmatig gevormd vlak met een getextureerd oppervlak domineert het midden, omringd door donkere vlekken en subtiele krassen. Onder dit vlak ontsteekt een oranje vlam met scherpe, dansende tongen, die reflecteert in een natte, donkere ondergrond met verspreide grashalmen en een kleine, donkere plant met twee bladeren. De achtergrond bestaat uit grijze, wazige cirkels en spiraalvormen, met linksboven een wit netwerk van lijnen en stippen dat een sterrenhemel of een digitaal patroon suggereert. De kleuren zijn beperkt tot goud, oranje, zwart, grijs en wit, met een sfeer van contrast tussen warmte en koude, structuur en chaos.",
-      "cyclus": 11866,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011866_11929.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 11986,
-      "cyclus": 11923,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "lichte vervorming in de handen van de kinderen, minimale halo rond de toren",
-      "cliche_notities": "Iconisch landschap met toren en water, typisch ansichtkaartmotief zonder unieke compositorische keuze",
-      "bestand": "images/a011923_11986.webp"
+      "id": 11992,
+      "cyclus": 11929,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
+      "bestand": "images/a011929_11992.webp"
     },
     {
-      "id": 11985,
-      "cyclus": 11922,
+      "id": 11991,
+      "cyclus": 11928,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vensterdetails linker- en rechterkant kerk', 'lichte wazigheid in achtergrondbomen']",
-      "cliche_notities": "Kerk met kersenbloesem is een iconisch motief met decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a011922_11985.webp"
+      "tech_notities": "kleine inconsistentie in perspectief van de kerk aan de rechterkant, lichte wazigheid in de achtergrondwolken",
+      "cliche_notities": "Klassiek kerkportret met bloesemtrees en perfecte compositie, typisch voor een ansichtkaartmotief zonder onverwachte keuzes.",
+      "bestand": "images/a011928_11991.webp"
     },
     {
-      "id": 11971,
-      "cyclus": 11908,
+      "id": 11989,
+      "cyclus": 11926,
       "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "De molen en het landschap zijn een iconisch Nederlands motief, uitgevoerd in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a011908_11971.webp"
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van kerkraam links/rechts', 'lichte wazigheid in achtergrondbomen']",
+      "cliche_notities": "Klassiek kerkportret met bloesemtrees en weelderig landschap herinnert aan typische ansichtkaartcompositie zonder verrassend standpunt.",
+      "bestand": "images/a011926_11989.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11925,
-    "gemaakt": 11987,
-    "gekozen": 1847,
-    "afgekeurd": 1429,
+    "cycli": 11931,
+    "gemaakt": 11993,
+    "gekozen": 1849,
+    "afgekeurd": 1433,
     "corpus": 61,
     "notities": 459
   }
