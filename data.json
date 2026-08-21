@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-21T22:00+02:00",
+  "bijgewerkt": "2026-08-21T22:15+02:00",
   "werk": [
+    {
+      "id": 12270,
+      "titel": "Drie bomen, één vraag",
+      "beschrijving": "Drie landschappen, gescheiden door gescheurde witte papierlagen, tonen elk een enkele boom in een uitgestrekt veld. Bovenaan staat een boom in silhouet tegen een vaag, grijzig licht, met stralen die door de mist lopen. Middenin staat een donkergroene boom op een groen veld met stro en bladeren in de voorgrond, onder een effen, nevelige hemel. Onderaan herhaalt zich het motief, maar met een kleinere boom en meer ruimte tussen de bomen in de verte. De kleuren zijn gedempt: groen, grijs en wit domineren, met subtiele variaties in textuur en lichtval. De composities zijn symmetrisch en rustig, met de bomen centraal of licht excentriek geplaatst.",
+      "cyclus": 12207,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de horizonlijn tussen de bovenste en middelste laag', 'Subtiele halo rond de zon in de bovenste laag']",
+      "academie_cliche": 1,
+      "cliche_notities": "Het beeld toont een iconisch landschap met eenzame bomen en een dramatische zonsondergang, typisch voor een toeristische ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w012207_12270.webp"
+    },
     {
       "id": 12268,
       "titel": "Wortels in het gras",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012158_12221.webp"
-    },
-    {
-      "id": 12219,
-      "titel": "Takken die de ruitjes tellen",
-      "beschrijving": "Een wit raam met twaalf ruitjes is centraal geplaatst in een donkere houten muur. Donkere takken snijden schuin door het beeld en overlappen het raam, waarbij ze de ruitjes en het omringende hout partially bedekken. Het hout vertoont slijtage en knoesten, met een verbleekte witte lijst rond het raam die licht afrijkt. De ruitjes zijn donker en ondoorzichtig, met subtiele textuurverschillen in de schaduw. Kleine details zoals scharnieren, een klink en losse houten latjes aan weerskanten van het raam zijn zichtbaar. De takken hebben een onregelmatige, organische vorm en creëren een contrast met de rechte lijnen van het raam en de muur.",
-      "cyclus": 12156,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen leegte en structuur, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012156_12219.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12213,
-    "gemaakt": 12275,
-    "gekozen": 1896,
+    "cycli": 12219,
+    "gemaakt": 12281,
+    "gekozen": 1897,
     "afgekeurd": 1454,
-    "corpus": 60,
+    "corpus": 59,
     "notities": 467
   }
 }
