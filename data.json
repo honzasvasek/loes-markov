@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T03:30+02:00",
+  "bijgewerkt": "2026-08-21T03:45+02:00",
   "werk": [
+    {
+      "id": 11785,
+      "titel": "Wolken op drift door hout",
+      "beschrijving": "Donkerbruine houten planken met zichtbare korrel en slijtage vormen horizontale banen, gescheiden door smalle roze ruimtes. Op elke plank zweven roze wolken met zachte, onregelmatige contouren, wisselend van grootte en vorm. Sommige wolken zijn voller en ronder, andere slanker of licht asymmetrisch. De wolken liggen niet gecentreerd: ze drijven dichter bij de randen of iets naar voren of achterin de plank. Kleurverschillen in de wolken variëren van lichtroze tot een diepere, bijna roze-grijze tint. De houten textuur toont kleine krassen en onregelmatigheden, met af en toe een lichte reflectie van licht. De roze achtergrond omlijst de planken en vult de ruimte tussen de wolken.",
+      "cyclus": 11722,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistenties in textuur van donkere panelen, lichte vervorming van wolken in sommige panelen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een herhalend patroon met subtiele variaties",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011722_11785.webp"
+    },
+    {
+      "id": 11782,
+      "titel": "Wolken tussen de latten",
+      "beschrijving": "Negen donkere, rechthoekige houten latten liggen horizontaal gestapeld met smalle, roze verticale banden ertussen. Op elke lat is een lichtroze, wolkachtige vorm gedrukt, met subtiele variaties in vorm en textuur. De latten tonen sporen van slijtage: kleine putjes, krassen en onregelmatigheden in de houtstructuur. De achtergrond is wit, wat de contrasten tussen het donkere hout, de roze accenten en de lichte wolkenvermeldingen versterkt. De compositie is strak en herhalend, met kleine afwijkingen in de plaatsing en uitwerking van de motieven op elke lat.",
+      "cyclus": 11719,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in textuur van zwarte balken', 'lichte vervorming in randen van sommige roze vormen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de herhaling en abstractie vragen om aandacht voor detail, niet voor een directe associatie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011719_11782.webp"
+    },
     {
       "id": 11765,
       "titel": "Rode stilte in sneeuw",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w011654_11717.webp"
-    },
-    {
-      "id": 11711,
-      "titel": "Donkerblauw met onkruid",
-      "beschrijving": "Een lichtgekleurde muur met een donkerblauwe deur en een klein raampje domineert de linkerhelft, terwijl rechts groen en geel gras en onkruid de voorgrond vullen. Een schuin dak met roodbruine pannen loopt over de bovenkant, met daarboven een vaag silhouet van bomen tegen een lichte hemel. Schaduwen op de muur en de grond suggereren zonlicht van rechtsboven, en kleurtjes als beige, groen, paars en bruin vormen een rustige, iets verwaarloosde sfeer.",
-      "cyclus": 11648,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in schaduwval op de muur, lichte wazigheid in de achtergrondvegetatie",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een rustige, onopgesmakte scène met ruimte voor interpretatie",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011648_11711.webp"
-    },
-    {
-      "id": 11708,
-      "titel": "Rook tussen de botten",
-      "beschrijving": "Twee donkere, slanke houten pilaren rijzen uit een zandig landschap op, met lichte rook die tussen hen door opstijgt en zich uitstrekt naar een egale, beige achtergrond. Het zand vormt zachte golven en heuveltjes, doorsneden door donkere, rechte lijnen die als sporen of kieren door het landschap lopen. Kleine donkere steentjes liggen verspreid bij de basis van de linker pilaar, terwijl de rechter pilaar een lichte schaduw werpt op het zand. De pilaren hebben een onregelmatige, bijna organische vorm, met subtiele variaties in breedte en hoogte. De rook is dun en wazig, met lichte overgangen van wit naar grijs, en lijkt zachtjes te bewegen in de lucht tussen de pilaren.",
-      "cyclus": 11645,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011645_11708.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11720,
-    "gemaakt": 11782,
-    "gekozen": 1810,
+    "cycli": 11728,
+    "gemaakt": 11790,
+    "gekozen": 1812,
     "afgekeurd": 1405,
     "corpus": 61,
     "notities": 454
