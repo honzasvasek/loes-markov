@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T01:30+02:00",
+  "bijgewerkt": "2026-08-22T01:45+02:00",
   "werk": [
+    {
+      "id": 12363,
+      "titel": "Rook die blijft hangen",
+      "beschrijving": "Grijze en roze kubussen met ruwe, korrelige texturen vormen een onstabiele stapel op een effen grijze ondergrond. Witte rook stijgt op in slingerende lijnen van de bovenste kubus, waarbij de rook overgaat in een wazige, wolkenachtige vorm. Kleinere kubussen en fragmenten liggen verspreid rond de stapel, met schaduwen die de driedimensionaliteit benadrukken. De roze tinten op sommige blokken contrasteren met de grijze omgeving, terwijl de textuur van de kubussen een gevoel van verweering uitstraalt.",
+      "cyclus": 12300,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een eigen compositorische keuze met de abstracte blokken en rook, wat het geen ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012300_12363.webp"
+    },
+    {
+      "id": 12361,
+      "titel": "Rook die zich onthult in wit",
+      "beschrijving": "Donkere, rokerige vormen stijgen op in een verticale, vloeiende beweging tegen een lichte, textuurrijke achtergrond. Zwarte en grijze tinten vormen golvende, onregelmatige patronen die aan rook of vloeistof doen denken, met scherpe en zachte randen die in elkaard overlopen. Verspreid door het beeld bevinden zich kleine, donkere vlekken en stippen, sommige scherp, andere vaag. De compositie is asymmetrisch, met de donkerste delen集中在 boven en midden, terwijl de onderkant juist lichter en open blijft. De sfeer is dynamisch maar rustig, met een gevoel van beweging dat vastgelegd lijkt in een stil moment.",
+      "cyclus": 12298,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012298_12361.webp"
+    },
     {
       "id": 12348,
       "titel": "Wat blijft van de roei?",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012242_12305.webp"
-    },
-    {
-      "id": 12304,
-      "titel": "Wie kijkt er toe?",
-      "beschrijving": "Twee figuren met lange, donkere haren staan tot aan hun heupen in water, met hun rug naar de kijker. Ze dragen identieke donkergroene korte broeken met zakken. Voor hen uit strekt zich een landschap uit met een windmolen, enkele huizen en slanke bomen langs de horizon. De achtergrond wordt gevormd door zachte heuvels en een lichte hemel met subtiele wolken. Twee vogels vliegen in V-formatie. Het water weerspiegelt de figuren en toont concentrische cirkels rond hun benen. De scène heeft een gedempte, sepia-achtige kleurstelling met fijne textuur in de achtergrond.",
-      "cyclus": 12241,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflecties water onder benen', 'lichte vervaging in achtergrondlandschap']",
-      "academie_cliche": 1,
-      "cliche_notities": "Beeld combineert iconische Nederlandse motieven (molen, landschap) met een decoratieve, ansichtkaartachtige compositie zonder duidelijke persoonlijke invalshoek.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w012241_12304.webp"
-    },
-    {
-      "id": 12296,
-      "titel": "Vonkenregen op zand",
-      "beschrijving": "Zand met zachte, golvende patronen vult het beeld, doorsneden door een diagonale lijn van kleine, witte vonken die van boven naar beneden lopen. Twee donkere, onregelmatige vlekken met prikkeldetails liggen dichter bij de onderkant, omgeven door verspreide zwarte spetters. De vonken worden kleiner naarmate ze dichter bij de vlekken komen, en de zandkorrels zijn fijn en uniform. De sfeer is stil en leeg, met een subtiele spanning tussen de witte vonken en de donkere vlekken.",
-      "cyclus": 12233,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012233_12296.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12301,
-    "gemaakt": 12364,
-    "gekozen": 1909,
+    "cycli": 12309,
+    "gemaakt": 12371,
+    "gekozen": 1911,
     "afgekeurd": 1458,
     "corpus": 62,
     "notities": 469
