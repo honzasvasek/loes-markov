@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-21T10:30+02:00",
+  "bijgewerkt": "2026-08-21T10:45+02:00",
   "werk": [
     {
       "id": 11970,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 11986,
+      "cyclus": 11923,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "lichte vervorming in de handen van de kinderen, minimale halo rond de toren",
+      "cliche_notities": "Iconisch landschap met toren en water, typisch ansichtkaartmotief zonder unieke compositorische keuze",
+      "bestand": "images/a011923_11986.webp"
+    },
+    {
+      "id": 11985,
+      "cyclus": 11922,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vensterdetails linker- en rechterkant kerk', 'lichte wazigheid in achtergrondbomen']",
+      "cliche_notities": "Kerk met kersenbloesem is een iconisch motief met decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a011922_11985.webp"
+    },
+    {
       "id": 11971,
       "cyclus": 11908,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "De molen en het landschap zijn een iconisch Nederlands motief, uitgevoerd in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a011908_11971.webp"
-    },
-    {
-      "id": 11965,
-      "cyclus": 11902,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte vorm met een focus op textuur en kleur.",
-      "bestand": "images/a011902_11965.webp"
-    },
-    {
-      "id": 11962,
-      "cyclus": 11899,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een idyllisch landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a011899_11962.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11918,
-    "gemaakt": 11980,
+    "cycli": 11925,
+    "gemaakt": 11987,
     "gekozen": 1847,
-    "afgekeurd": 1427,
+    "afgekeurd": 1429,
     "corpus": 61,
     "notities": 459
   }
