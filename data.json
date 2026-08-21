@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T10:15+02:00",
+  "bijgewerkt": "2026-08-21T10:30+02:00",
   "werk": [
+    {
+      "id": 11970,
+      "titel": "Verf dat zwemt door zand",
+      "beschrijving": "Zand bedekt de vloer en loopt op in een hoek van twee witte muren, waar donkere, rookachtige vlekken de muur opschuiven. Een open boek ligt op het zand, met op de bladzijde een glanzende, donkere vloeistof die in onregelmatige, marmeren patronen is verspreid. Zwarte druppels en spetters zweven boven het boek en het zand, alsof ze net zijn geslingerd. Linksboven ligt een wit palet met donkere verf en een penseel met een houten steel. De vloeistof op het boek lijkt te golven en te smelten met het zand, terwijl de donkere vlekken op de muur een vaag, bewegend effect hebben. De scène is statisch, maar de details stralen een gevoel van recente actie uit.",
+      "cyclus": 11907,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met zand, inkt en een open boek, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011907_11970.webp"
+    },
+    {
+      "id": 11969,
+      "titel": "Vezels in de spleet",
+      "beschrijving": "Een scheur loopt diagonaal door een laag grijs papier, onderin breder dan bovenin, met een onregelmatige, vezelige rand. Daaronder komt een patroon van vierkanten tevoorschijn: wit, zwart en houttextuur, afwisselend geplaatst. Het hout heeft een lichte, natuurlijke kleur met zichtbare nerf. De witte en zwarte vierkanten zijn mat en textuurloos, terwijl het grijs papier een subtiele korrel heeft. De scheur verdeelt het beeld in twee duidelijke vlakken, waarbij het papier de bovenste helft domineert en het patroon de onderste. De overgang tussen de lagen is scherp, maar de rand van de scheur is ongelijkmatig en watervormig.",
+      "cyclus": 11906,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011906_11969.webp"
+    },
     {
       "id": 11964,
       "titel": "Waar begint de val?",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011866_11929.webp"
-    },
-    {
-      "id": 11926,
-      "titel": "Goud dat zachtjes oplost in roest",
-      "beschrijving": "Een onregelmatig gevormd, goudkleurig metaalachtig vlak met een textuur die aan gesmolten was of verweerd metaal doet denken, beslaat het midden van het beeld. Witte, ronde vlekken, variërend in grootte, zijn verspreid over het oppervlak, waarbij sommige scherp afsteken en andere vaag overlopen in de omringende textuur. De randen van het gouden vlak zijn ongelijkmatig en scheurvormig, alsof het materiaal langzaam aan het oplossen is in de donkergrijze, korrelige achtergrond. Subtiele, draadachtige lijnen lopen door het goud, alsof ze een verborgen structuur onthullen. De achtergrond is mat en textuurloos, met kleine, donkere vlekken die als afval of roest wirken. Het geheel straalt een sfeer van ontbinding uit, waarbij het goud zowel aanwezig als verdwijnend lijkt.",
-      "cyclus": 11863,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in de overgang tussen de koperkleurige laag en de achtergrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte, intieme close-up met een eigen compositorische keuze",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011863_11926.webp"
-    },
-    {
-      "id": 11920,
-      "titel": "Wat zit er in de rook?",
-      "beschrijving": "Twee enveloppen liggen verticaal op een donkergrijze achtergrond met wazige, wolkachtige structuren. De bovenste envelop is open en onthult een donker, rokerig interieur met onregelmatige, vage vormen in zwart en grijs, doorspekt met kleine, witte vlekken en subtiele, donkere lijnen. De randen van deze envelop zijn lichtgekleurd, met lichte verkleuringen en kleine, donkere stippen. De onderste envelop is gesloten, van een egale, crèmekleurige tint, met zachte schaduwen die de plooien van het papier benadrukken. Beide enveloppen hebben een driehoekige flap en liggen centraal, met de open envelop bovenaan en de gesloten envelop eronder. De textuur van het papier is zichtbaar, met lichte oneffenheden en kleine, donkere vlekjes op de open envelop.",
-      "cyclus": 11857,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in plooien van bovenste envelop (linkerhoek)', 'lichte halo rond rand van onderste envelop tegen achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op abstracte spanning tussen vorm en leegte, niet op herkenbaarheid.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011857_11920.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11911,
-    "gemaakt": 11973,
-    "gekozen": 1845,
+    "cycli": 11918,
+    "gemaakt": 11980,
+    "gekozen": 1847,
     "afgekeurd": 1427,
     "corpus": 61,
     "notities": 459
