@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T23:15+02:00",
+  "bijgewerkt": "2026-08-21T23:30+02:00",
   "werk": [
+    {
+      "id": 12310,
+      "titel": "Roze ruiten, donkere takken",
+      "beschrijving": "Een houten raam met vier ruiten, waarbij de twee onderste ruiten een zachtroze tint hebben en de bovenste ruiten lichter zijn. Voor het raam staan donkere, slanke takken zonder bladeren, met kleine knoppen en uitlopers die in verschillende richtingen lopen. De takken snijden door het beeld, met een diagonale tak die van linksboven naar rechtsonder loopt en een dunne tak die zich uitstrekt naar de rechterbovenhoek. Het raamkozijn is lichtgrijs met subtiele schaduwen, en de achtergrond boven en onder het raam is vaag getekend in beige en grijze tinten. De takken werpen een lichte schaduw op het raam en de omgeving.",
+      "cyclus": 12247,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een subtiele, niet-iconische compositie met een focus op leegte en stille spanning, geen toeristisch onderwerp.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012247_12310.webp"
+    },
+    {
+      "id": 12305,
+      "titel": "Rood dat fluistert met wit",
+      "beschrijving": "Rode en roze tinten vullen het beeld in onregelmatige, wazige vormen die aan wolken of vage landschappen doen denken. Donkerder rode plekken contrasteren met lichtere, bijna witte gebieden, waarbij de overgangen zacht en onscherp zijn. De textuur is korrelig en ongelijkmatig, met subtiele variaties in kleurintensiteit die een gevoel van diepte en beweging suggereren. Er zijn geen duidelijke vormen of structuren, maar de samenstelling straalt een rustige, bijna dromerige sfeer uit.",
+      "cyclus": 12242,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, sfeervolle compositie zonder duidelijke thematiek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012242_12305.webp"
+    },
     {
       "id": 12304,
       "titel": "Wie kijkt er toe?",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012193_12256.webp"
-    },
-    {
-      "id": 12253,
-      "titel": "Druppels en verdwijnende sporen",
-      "beschrijving": "Een donker, schuin dak met uitkragende rand en decoratieve elementen domineert de bovenste helft, met druppels die naar beneden vallen. Onder het dak vliegen vogels in een diagonale lijn naar beneden, richting een aardewerken pot die in water drijft. Het water toont concentrische cirkels rond de pot en een tweede, verder weg staande pot. Rookachtige vormen stijgen op vanaf het dak en vermengen zich met de achtergrond, die overgaat in een lichte, vaag getekende horizon. De scène is monochrom, met gradiënten van zwart, grijs en wit.",
-      "cyclus": 12190,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met een focus op leegte en subtiele beweging, geen typisch iconisch onderwerp.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012190_12253.webp"
-    },
-    {
-      "id": 12236,
-      "titel": "Een spoor door het zand",
-      "beschrijving": "Zand vult het grootste deel van het beeld, met subtiele golven en een smalle, donkere spoor dat diagonaal door het zand loopt. Linksboven is een scherpe, witte hoek van een muur of structuur zichtbaar, die een scherp contrast vormt met de zachte, onregelmatige vormen van het zand. De schaduw van die witte structuur valt schuin over het zand, en versterkt de diepte van het beeld. Kleuren zijn beperkt tot beige, lichtgrijs en zachtbruin, met kleine donkere vlekjes verspreid door het zand. De sfeer is kalm en minimalistisch, met veel lege ruimte die de aandacht op de textuur en de subtiele beweging in het zand richt.",
-      "cyclus": 12173,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012173_12236.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12248,
-    "gemaakt": 12310,
-    "gekozen": 1901,
+    "cycli": 12255,
+    "gemaakt": 12317,
+    "gekozen": 1903,
     "afgekeurd": 1455,
     "corpus": 59,
     "notities": 468
