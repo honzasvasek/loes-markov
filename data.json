@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-21T08:45+02:00",
+  "bijgewerkt": "2026-08-21T09:00+02:00",
   "werk": [
     {
       "id": 11929,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 11933,
-      "cyclus": 11870,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld heeft een symbolisch karakter met een wekker in water, wat niet typisch is voor een toeristische ansichtkaart.",
-      "bestand": "images/a011870_11933.webp"
-    },
-    {
-      "id": 11927,
-      "cyclus": 11864,
+      "id": 11940,
+      "cyclus": 11877,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'inconsistent perspectief', 'wazige texturen']",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kinderen bij een vuur) en decoratieve compositie zonder duidelijk artistiek standpunt.",
-      "bestand": "images/a011864_11927.webp"
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een onduidelijke, bijna surrealistische compositie zonder directe ansichtkaartwaarde.",
+      "bestand": "images/a011877_11940.webp"
     },
     {
-      "id": 11916,
-      "cyclus": 11853,
+      "id": 11938,
+      "cyclus": 11875,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in textuur van water (benedenrand iets waziger dan rest)",
-      "cliche_notities": "Beeld past in categorie 'toeristische ansichtkaart': iconisch huisje bij water met decoratieve wolken en perfecte reflectie, zonder eigen compositorisch standpunt",
-      "bestand": "images/a011853_11916.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een typische zonsondergang met wolken in een gouden gloed, een onderwerp dat vaak op ansichtkaarten te zien is zonder een uniek standpunt of compositorische verrassing.",
+      "bestand": "images/a011875_11938.webp"
+    },
+    {
+      "id": 11936,
+      "cyclus": 11873,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Herfstbladeren tegen een heldere hemel is een klassiek, iconisch motief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a011873_11936.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11872,
-    "gemaakt": 11934,
+    "cycli": 11878,
+    "gemaakt": 11940,
     "gekozen": 1838,
-    "afgekeurd": 1418,
+    "afgekeurd": 1421,
     "corpus": 61,
     "notities": 459
   }
