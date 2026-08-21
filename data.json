@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-21T11:00+02:00",
+  "bijgewerkt": "2026-08-21T11:15+02:00",
   "werk": [
     {
       "id": 11980,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 11995,
+      "cyclus": 11932,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een letter als centraal motief.",
+      "bestand": "images/a011932_11995.webp"
+    },
+    {
       "id": 11992,
       "cyclus": 11929,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "kleine inconsistentie in perspectief van de kerk aan de rechterkant, lichte wazigheid in de achtergrondwolken",
       "cliche_notities": "Klassiek kerkportret met bloesemtrees en perfecte compositie, typisch voor een ansichtkaartmotief zonder onverwachte keuzes.",
       "bestand": "images/a011928_11991.webp"
-    },
-    {
-      "id": 11989,
-      "cyclus": 11926,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van kerkraam links/rechts', 'lichte wazigheid in achtergrondbomen']",
-      "cliche_notities": "Klassiek kerkportret met bloesemtrees en weelderig landschap herinnert aan typische ansichtkaartcompositie zonder verrassend standpunt.",
-      "bestand": "images/a011926_11989.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11931,
-    "gemaakt": 11993,
+    "cycli": 11937,
+    "gemaakt": 11999,
     "gekozen": 1849,
-    "afgekeurd": 1433,
+    "afgekeurd": 1434,
     "corpus": 61,
     "notities": 459
   }
