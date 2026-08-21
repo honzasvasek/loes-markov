@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T02:45+02:00",
+  "bijgewerkt": "2026-08-21T03:00+02:00",
   "werk": [
+    {
+      "id": 11762,
+      "titel": "Prikkels in bevroren gras",
+      "beschrijving": "Donkere, slanke grasbladeren vullen het beeld in een dicht, willekeurig patroon. Veel bladeren zijn bedekt met fijne, witte ijzignestelsels die als prikkels langs de randen lopen, met kleine, spits toelopende uitsteeksels die het licht vangen. Sommige bladeren zijn scherper in focus, andere vervagen in de achtergrond, waar donkere, onscherpe vormen een diepte suggereren. De witte bevroren structuren contrastereren sterk met de donkergrijze tot zwarte tinten van het gras, waardoor een textuur ontstaat die zowel fijn als complex is. De compositie is verticaal gericht, met bladeren die in allerlei hoeken door elkaar lopen, soms parallel, soms kruisend, zonder duidelijke herhaling of symmetrie. Het geheel straalt een koele, stilstaande sfeer uit, alsof het moment van bevriezing vastgelegd is in een bevroren landschap zonder beweging.",
+      "cyclus": 11699,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, detailrijke close-up zonder toeristische connotatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011699_11762.webp"
+    },
+    {
+      "id": 11759,
+      "titel": "Stoppcontact in het licht",
+      "beschrijving": "Twaalf rechthoekige panelen vormen een raster van vier rijen en drie kolommen, gescheiden door smalle witte ruimtes. De bovenste twee rijen tonen binnenruimtes met grijze muren en vloeren, waarbij licht via ramen diagonale patronen werpt. Sommige muren hebben losse verfvlakken of kleine beschadigingen; één paneel toont een elektrisch stopcontact. De onderste twee rijen bevatten landschappen met hoge, droge grassen in beige en groene tinten, tegen een horizon met bomen en kleine witte gebouwen onder een lichte hemel. De overgang tussen binnen- en buitenscènes is scherp, met een gradatie van gesloten naar open ruimtes. Kleuren zijn gedempt, met accenten van zacht wit, grijs en gedempt groen.",
+      "cyclus": 11696,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in schaduwval op muren (bijv. middenboven vs. linkermidden)', 'lichte wazigheid in textuur van gras (onderste rij)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de leegte en ontbindingsmotieven hebben een eigen compositorische spanning.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w011696_11759.webp"
+    },
     {
       "id": 11735,
       "titel": "Regen die de schaduw veegt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w011633_11696.webp"
-    },
-    {
-      "id": 11685,
-      "titel": "Goud in de golven",
-      "beschrijving": "Een wateroppervlak domineert het midden, doorsneden door een verticale strook goudgele reflecties die onregelmatig gevormd zijn en afwisselen met witte en grijze vlekken. Het water zelf bestaat uit horizontale penseelstreken in zachte grijstinten, met subtiele blauwe en bruine ondertoon. Aan de horizon loopt een donkere, onscherpe band met groene, bruine en zwarte vormen die bomen en struikgewas suggereren. Onderaan het beeld steken slanke, groene en bruine grasstengels omhoog, met enkele kleine, donkere details die op bladeren of stenen lijken. De achtergrond is vaag en lichtgrijs, zonder duidelijke overgang naar de hemel.",
-      "cyclus": 11622,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011622_11685.webp"
-    },
-    {
-      "id": 11682,
-      "titel": "Takken snijden door het goud",
-      "beschrijving": "Donkere, slanke takken snijden door een dicht gewas van hoge, slanke grassprietjes in goudbruine en beige tinten. Achter het gras ontstaat een vaag, grijsblauw landschap met zachte, onduidelijke vormen die aan water of een verlaten weg denken laten. Gele vlekken, mogelijk reflecties van licht, drijven verspreid over het middenplan. De takken in het voorplan vormen een donker, vertakt patroon dat de blik door het beeld leidt, terwijl het gras een gevoel van beweging suggereert door de schuine, wisselende lengtes en richtingen. De achtergrond blijft onscherp en suggereert afstand, met subtiele overgangen tussen lichte en donkere grijstinten.",
-      "cyclus": 11619,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de achtergrondstructuren, alsof de penseelstreken te snel zijn geschilderd', 'enkele rietstengels hebben een onnatuurlijke, bijna glanzende textuur die niet overeenkomt met de rest van het beeld']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke, niet-decoratieve benadering van licht en compositie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011619_11682.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 11699,
-    "gemaakt": 11762,
-    "gekozen": 1806,
+    "cycli": 11707,
+    "gemaakt": 11769,
+    "gekozen": 1808,
     "afgekeurd": 1403,
     "corpus": 61,
     "notities": 454
