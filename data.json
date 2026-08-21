@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-21T07:00+02:00",
+  "bijgewerkt": "2026-08-21T07:15+02:00",
   "werk": [
     {
       "id": 11883,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 11889,
+      "cyclus": 11826,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine halo rond schuim, lichte inconsistentie in golflijnen bij horizon",
+      "cliche_notities": "Klassiek zeefoto met perfecte golven en horizon, zonder onverwachte compositorische keuzes",
+      "bestand": "images/a011826_11889.webp"
+    },
+    {
       "id": 11878,
       "cyclus": 11815,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van daken aan horizon', 'lichte wazigheid in verre achtergrond']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie van een idyllisch dorpje gezien vanuit een balkon, met perfecte balans en decoratief licht.",
       "bestand": "images/a011798_11861.webp"
-    },
-    {
-      "id": 11860,
-      "cyclus": 11797,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de deurpanelen', 'Enkele wazige overgangen tussen muur en begroeiing']",
-      "cliche_notities": "Het beeld straalt een typisch ansichtkaart-gevoel uit met de iconische blauwe deur omringd door overvloedige, decoratieve groen- en bloemmotieven in een ideale, rustige compositie.",
-      "bestand": "images/a011797_11860.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 11823,
-    "gemaakt": 11885,
+    "cycli": 11831,
+    "gemaakt": 11893,
     "gekozen": 1829,
-    "afgekeurd": 1413,
+    "afgekeurd": 1414,
     "corpus": 61,
     "notities": 458
   }
