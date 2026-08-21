@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T01:45+02:00",
+  "bijgewerkt": "2026-08-21T02:00+02:00",
   "werk": [
+    {
+      "id": 11735,
+      "titel": "Regen die de schaduw veegt",
+      "beschrijving": "Een verlaten landschap in roodbruine tinten, doorsneden door regen die als fijne lijnen door de lucht valt. Centraal staat een oude, donkere molen met vier wieken, waarvan de schaduw lang en scherp over het zandige terrein trekt. Voor de molen staat een donker, driehoekig bord op een statief, met een vaag reflecterend oppervlak. Achter de molen liggen enkele kleine, donkere schuren met schuine daken, en verderop een rij bomen die de horizon vormen. Het terrein is woest en onbegroeid, met verspreide takken, stenen en wat afval. De regen geeft het tafereel een natte, glanzende textuur, terwijl de lucht een egaal, bewolkte roze-grijze kleur heeft.",
+      "cyclus": 11672,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 1,
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratief lichteffect en geen duidelijke compositorische keuze die beyond een ansichtkaart gaat.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w011672_11735.webp"
+    },
+    {
+      "id": 11732,
+      "titel": "Waar blijft de tuinkraan?",
+      "beschrijving": "Een houten schutting met verticale latten loopt schuin door het beeld, deels ondergedompeld in zand met natte, glanzende plekken. Achter de schutting staat een houten schuur met een gesloten deur en een goudkleurige deurbel. Rechts van de schuur ligt een schop met een houten steel in het gras, omringd door verspreide stenen, een boek en een stuk hout. Het zand vormt golven die zich uitstrekken naar de voorgrond, waar kleine plantjes en losse stenen liggen. De achtergrond bestaat uit een mengsel van groen en geel gras met donkere schaduwen.",
+      "cyclus": 11669,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op subtiele details en leegte, niet op een bevestigend verhaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011669_11732.webp"
+    },
     {
       "id": 11724,
       "titel": "Scherpe randen, onrustige leegte",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w011619_11682.webp"
-    },
-    {
-      "id": 11670,
-      "titel": "Verf die vraagt om een verhaal",
-      "beschrijving": "Dikke, textuurrijke verfvlakken in aardetinten—bruin, beige, ocker en gedempt grijs—vullen het beeld, doorsneden door donkere, bijna zwarte vormen die als schaduwen of structurele elementen fungeren. Geel en lichtgrijze strepen breken de monotonie, terwijl onregelmatige penseelstreken en schuine lijnen een gevoel van beweging en onafgewerktheid uitstralen. Kleine, onverklaarde details zoals een geel puntje en een vaag wit vlekje voegen zich bij de chaotische, maar gebalanceerde compositie.",
-      "cyclus": 11607,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met persoonlijke keuzes in kleur en textuur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011607_11670.webp"
-    },
-    {
-      "id": 11663,
-      "titel": "Waar het hout zwijgt",
-      "beschrijving": "Een houten steiger loopt recht vooruit over een kalm wateroppervlak, omzoomd door blauwe metalen relingen. De houten planken vertonen slijtage, met geelbruine vlekken en donkere voeglijnen die de textuur benadrukken. Aan weerskanten rijzen houten palen uit het water, deels ondergedompeld, met hier en daar wat groen waterkruid. Het water reflecteert zacht de steiger en de lichte, bewolkte hemel erboven, met subtiele rimpelingen die de rust verstoren. In de verte verdwijnt de steiger in een lichtere horizon, waar vaag de contouren van heuvels of bergen te zien zijn. De kleuren zijn gedempt, met blauwe en groene tinten in het water en de achtergrond, terwijl het hout warme, verbleekte nuances heeft.",
-      "cyclus": 11600,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een rustige, bijna meditatieve compositie zonder iconische of toeristische elementen, en de focus ligt op de subtiele vervorming van ruimte en afwezigheid.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011600_11663.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11675,
-    "gemaakt": 11738,
-    "gekozen": 1804,
+    "cycli": 11678,
+    "gemaakt": 11740,
+    "gekozen": 1806,
     "afgekeurd": 1403,
-    "corpus": 58,
+    "corpus": 59,
     "notities": 452
   }
 }
