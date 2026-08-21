@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T17:00+02:00",
+  "bijgewerkt": "2026-08-21T17:15+02:00",
   "werk": [
+    {
+      "id": 12146,
+      "titel": "Vonken in de verte",
+      "beschrijving": "Donkerrode en bruine penseelstrepen vormen een onrustige achtergrond, doorsneden door een verticale stroom van kleine, heldere stippen in wit, blauw, geel en roze. De stippen variëren in grootte en zijn willekeurig verspreid, alsof ze een spoor nalaten dat langzaam vervagt in de donkere textuur. Rode en paarse tinten in de achtergrond geven een diepte die de stippen doet opzwellen als zwevende vonken. Geen duidelijke vorm of richting, alleen een gevoel van beweging dat stilstaat in de verf.",
+      "cyclus": 12083,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met persoonlijke kleurkeuzes en ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012083_12146.webp"
+    },
+    {
+      "id": 12142,
+      "titel": "Stromend verdwijnen",
+      "beschrijving": "Een verticale, amorf vorm domineert het beeld, opgebouwd uit zachte, vloeiende lagen roze, purper en donkerrood die overgaan in witte, textuurrijke randen. Kleurrijke druppels en kleine bubbels zijn verspreid door de vorm, met een glanzende, bijna natte uitstraling. De achtergrond is een ongelijkmatige, witte textuur met subtiele scheurtjes en losse vezels, wat een gevoel van verweerd papier of pleister suggereert. De compositie straalt een stille, organische dynamiek uit, waarbij de kleuren lijken te stromen en te vervagen in de witte ruimte eromheen. Geen duidelijke figuren of herkenbare voorwerpen, maar een abstract spel van vorm, kleur en textuur dat een gevoel van beweging en ontbinding oproept.",
+      "cyclus": 12079,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, organische vorm met een persoonlijke compositorische keuze, geen toeristische ansichtkaartstijl.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012079_12142.webp"
+    },
     {
       "id": 12126,
       "titel": "Getrapte rand, spiraalblad",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012026_12089.webp"
-    },
-    {
-      "id": 12076,
-      "titel": "Waar het zand zwijgt",
-      "beschrijving": "Twee vlakken van zand ontmoeten elkaar in een scherpe, onregelmatige lijn die diagonaal door het beeld loopt. Het bovenste vlak is lichter van kleur, met een fijne, gelijkmatige textuur, terwijl het onderste donkerder is en een grover, korreliger oppervlak heeft. Langs de scheidslijn liggen kleine klompjes en losse korrels zand, die de overgang benadrukken. In het donkere zand zijn enkele dunne, rechte sporen zichtbaar, alsof iets er ooit overheen is gegaan. De rest van het beeld is vrij van details, met alleen de subtiele variaties in textuur en schaduw die de twee vlakken van elkaar scheiden.",
-      "cyclus": 12013,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, minimalistische compositie zonder duidelijke thematiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012013_12076.webp"
-    },
-    {
-      "id": 12075,
-      "titel": "Druppels op de rand van verdwijnen",
-      "beschrijving": "Donkere, slanke takken lopen diagonaal door een wit, korrelig oppervlak, met kleine, glinsterende druppels die zich langs de randen verzamelen. De takken vertakken zich in asymmetrische patronen, waarbij sommige uiteinden scherp afgetekend zijn en andere vervagen tot fijne, donkere strepen. Het witte achtergrondmateriaal heeft een zachte, ongelijkmatige textuur, met subtiele schaduwen die de diepte van de takken benadrukken. De compositie straalt een rustige, bijna zwevende sfeer uit, waarbij de contrasten tussen donker en licht de focus leggen op de fragile balans tussen de elementen.",
-      "cyclus": 12012,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart, maar een abstracte, close-up weergave van een naaldachtige structuur met subtiele details, zonder iconisch of decoratief karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012012_12075.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12149,
+      "cyclus": 12086,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met heuvels en landhuizen onder een zachte hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012086_12149.webp"
+    },
     {
       "id": 12141,
       "cyclus": 12078,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld combineert een ongewoon onderwerp (wekker in landschap) met een niet-iconische compositie en kleurgebruik, wat het geen typische ansichtkaart maakt.",
       "bestand": "images/a012068_12131.webp"
-    },
-    {
-      "id": 12117,
-      "cyclus": 12054,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstract typografisch patroon zonder toeristische connotatie.",
-      "bestand": "images/a012054_12117.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12083,
-    "gemaakt": 12145,
-    "gekozen": 1874,
-    "afgekeurd": 1443,
+    "cycli": 12089,
+    "gemaakt": 12151,
+    "gekozen": 1876,
+    "afgekeurd": 1444,
     "corpus": 59,
     "notities": 460
   }
