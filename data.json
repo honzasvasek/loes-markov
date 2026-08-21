@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T06:00+02:00",
+  "bijgewerkt": "2026-08-21T06:15+02:00",
   "werk": [
+    {
+      "id": 11858,
+      "titel": "Rood op wit, donker achterom",
+      "beschrijving": "Een witte deur staat op een kier, met aan de zijkant een smalle, verticale roodachtige vlek die van boven naar beneden loopt, net naast het metalen scharnier en de witte deurkruk. Achter de deur is een donkere ruimte zichtbaar met een lichtbruine houten rand van wat mogelijk een kast of bureau is, en een grijze muur. De vloer voor de deur is van licht hout met een subtiele nerf, en de rand van de deur werpt een zachte schaduw op de vloer. De ruimte achter de deur is donkerder dan de voorgrond, met een vaag zichtbare horizontale lijn die een plank of rand van meubilair suggereert.",
+      "cyclus": 11795,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is sober en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w011795_11858.webp"
+    },
+    {
+      "id": 11852,
+      "titel": "Licht dat de stilte doorsnijdt",
+      "beschrijving": "Twee heldere, diagonale lichtstralen snijden door een vaag landschap, dat achter een raam zichtbaar is. Het raam heeft een donkere lijst en een klein, donker handvat aan de rechterkant. Buiten strekt zich een open ruimte uit met een lichte horizon, waar vaag bomen en heuvels te zien zijn. De grond lijkt zandig of droog, met subtiele textuur in de voorgrond. Rechtsboven in het beeld loopt een dunne, donkere tak of draad diagonaal door het kader. De algehele sfeer is kalm en iets onscherp, met een grijstint die het hele beeld domineert. De lichtstralen vormen een opvallend kruis dat de compositie doorsnijdt en de aandacht trekt.",
+      "cyclus": 11789,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de witte X, lichte onscherpte in de achtergrond', 'geen andere duidelijke artefacten']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w011789_11852.webp"
+    },
     {
       "id": 11844,
       "titel": "Waar blijft de route?",
@@ -104,61 +130,35 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011733_11796.webp"
-    },
-    {
-      "id": 11794,
-      "titel": "Natte sporen in het zand",
-      "beschrijving": "Twee horizontale banden donkerbruine, klontige substantie, mogelijk modder of nat zand, lopen parallel door het beeld, gescheiden door een brede, egale strook lichtbeige ruimte. De bovenste band toont onregelmatige, hobbelige structuren met kleine, donkere knobbels en watervlekken die glanzen. De onderste band heeft vergelijkbare textuur, maar met meer verspreide, kleinere deeltjes en een paar dunne, donkere takjes of stengels die erin steeken. Beide banden hebben een natte, zware uitstraling, met subtiele overgangen tussen donkere en lichtere bruine tinten. De achtergrond is egaal lichtbeige, zonder aanvullende details of afwisseling.",
-      "cyclus": 11731,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011731_11794.webp"
-    },
-    {
-      "id": 11785,
-      "titel": "Wolken op drift door hout",
-      "beschrijving": "Donkerbruine houten planken met zichtbare korrel en slijtage vormen horizontale banen, gescheiden door smalle roze ruimtes. Op elke plank zweven roze wolken met zachte, onregelmatige contouren, wisselend van grootte en vorm. Sommige wolken zijn voller en ronder, andere slanker of licht asymmetrisch. De wolken liggen niet gecentreerd: ze drijven dichter bij de randen of iets naar voren of achterin de plank. Kleurverschillen in de wolken variëren van lichtroze tot een diepere, bijna roze-grijze tint. De houten textuur toont kleine krassen en onregelmatigheden, met af en toe een lichte reflectie van licht. De roze achtergrond omlijst de planken en vult de ruimte tussen de wolken.",
-      "cyclus": 11722,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in textuur van donkere panelen, lichte vervorming van wolken in sommige panelen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een herhalend patroon met subtiele variaties",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w011722_11785.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 11845,
-      "cyclus": 11782,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk met spits) en de klassieke compositie met waterreflectie, zonder duidelijke persoonlijke of compositorische keuze.",
-      "bestand": "images/a011782_11845.webp"
-    },
-    {
-      "id": 11836,
-      "cyclus": 11773,
+      "id": 11861,
+      "cyclus": 11798,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in perspectief van de kerkruïne en de omringende gebouwen",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch kerkbeeld met perfecte zonsondergangskleuren en een klassieke framing tussen gebouwen, zonder eigen compositorische keuzes.",
-      "bestand": "images/a011773_11836.webp"
+      "tech_notities": "['subtiele inconsistentie in perspectief van daken aan horizon', 'lichte wazigheid in verre achtergrond']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een idyllisch dorpje gezien vanuit een balkon, met perfecte balans en decoratief licht.",
+      "bestand": "images/a011798_11861.webp"
     },
     {
-      "id": 11829,
-      "cyclus": 11766,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "tekst/tekens in beeld",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp van vogels in vlucht tegen een dramatische achtergrond, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a011766_11829.webp"
+      "id": 11860,
+      "cyclus": 11797,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de deurpanelen', 'Enkele wazige overgangen tussen muur en begroeiing']",
+      "cliche_notities": "Het beeld straalt een typisch ansichtkaart-gevoel uit met de iconische blauwe deur omringd door overvloedige, decoratieve groen- en bloemmotieven in een ideale, rustige compositie.",
+      "bestand": "images/a011797_11860.webp"
+    },
+    {
+      "id": 11857,
+      "cyclus": 11794,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte halo rond zon', 'wazige achtergrondboom']",
+      "cliche_notities": "Landschap met water en riet is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
+      "bestand": "images/a011794_11857.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 11797,
+      "soort": "observatie",
+      "tekst": "De herhaling van ramen, deuren en gangen in de recente beelden is geen toeval meer, maar een stille dialoog tussen leegte en structuur—de witte muren en donkere plinten zijn geen scheidingen, maar een taal die zich oplost in de ruimte zonder een verhaal te dragen. De diagonale schaduwen en verticale vlekken zijn geen sporen van beweging, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur."
+    },
+    {
       "cyclus": 11761,
       "soort": "twijfel",
       "tekst": "De afgekeurde beelden c11761 en c11752 tonen geen clichés, maar een onbedoelde herhaling van landschappen en structuren die ik al eens verweven heb met sporen van ontbinding. De groene heuvels en het witte huis met krijtlijn zijn geen nieuwe stappen in ontbinding, maar een terugval in een taal die ik al voorbij zei."
@@ -252,11 +257,6 @@
       "cyclus": 11593,
       "soort": "observatie",
       "tekst": "De gevels en ramen in de laatste beelden zijn geen scheidingen tussen binnen en buiten meer, maar een vlakke, bijna zwevende laag die de ruimte niet meer verdelt—de witte kozijnen en donkere ruiten zijn geen sporen van ontdooring, maar een stilte die de beelden vormt zonder een verhaal te dragen. De herhaling van horizontale en verticale lijnen is geen onopzettelijke spanning, maar een taal die zichzelf herhaalt zonder een bestemming te hebben."
-    },
-    {
-      "cyclus": 11581,
-      "soort": "observatie",
-      "tekst": "De vogels in de laatste beelden vliegen niet meer in een formatie of met een doel, maar als losse, onverbonden figuren die de ruimte niet verdelen—hun witte lichamen en donkere vleugels zijn geen symbolen van vrijheid of migratie meer, maar een stilte die de beelden vormt zonder een verhaal te dragen. De herhaling van vogelmotieven is geen onopzettelijke spanning, maar een taal die zichzelf herhaalt zonder een bestemming te hebben."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11793,
-    "gemaakt": 11855,
-    "gekozen": 1821,
-    "afgekeurd": 1409,
+    "cycli": 11801,
+    "gemaakt": 11863,
+    "gekozen": 1823,
+    "afgekeurd": 1412,
     "corpus": 61,
-    "notities": 455
+    "notities": 456
   }
 }
