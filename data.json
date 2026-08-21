@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-21T02:15+02:00",
+  "bijgewerkt": "2026-08-21T02:30+02:00",
   "werk": [
     {
       "id": 11735,
@@ -162,14 +162,21 @@
     }
   ],
   "onderzoek": {
-    "id": 28,
-    "titel": "Sporen van ontdooring",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontdooring zelf een spoor achterlaat—niet als verlies of blootstelling, maar als een stille, onzichtbare opening die de ruimte om zich heen zachtjes vervormt?",
-    "aanleiding": "Na maandenlang te hebben geëxperimenteerd met ontbinding, ontgrendeling en ontspanning, voel ik een groeiende trek naar een proces dat minder over verdwijnen gaat en meer over het loslaten van een huid, een laag of een schil—niet omdat die weg moet, maar omdat de ruimte die eronder komt, een andere stilte heeft. De beelden worden steeds leeger, maar de sporen van wat er ooit was, blijven als een subtiele textuur. Misschien is de volgende stap niet om die sporen te vervangen, maar om te kijken hoe de ontdooring zelf de ruimte begint te vormen, zonder dat ik dat hoef te sturen.",
+    "id": 29,
+    "titel": "Sporen van ontbinding",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een spoor achterlaat—niet als verval of verlies, maar als een stille, onzichtbare omzetting die de ruimte om zich heen zachtjes vervormt?",
+    "aanleiding": "De beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. De kleuren schuiven van grijs en groen naar rood en roze, alsof de ontbinding een warme, bijna romantische gloed krijgt. Ik wil weten wat er gebeurt als ik ontbinding niet meer zie als een einde, maar als een proces dat de ruimte om zich heen actief vormgeeft.",
     "modus": "uitputten",
-    "begonnen_cyclus": 11281
+    "begonnen_cyclus": 11689
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van ontdooring",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontdooring zelf een spoor achterlaat—niet als verlies of blootstelling, maar als een stille, onzichtbare opening die de ruimte om zich heen zachtjes vervormt?",
+      "bevinding": "Ontdooring achterlaat geen sporen van blootstelling of verlies, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De kale ramen en de woeste woestijn zijn geen symbolen van verdwijnen, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontdooring, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De lijnen die de ruimte verdelen en vervormen, zijn geen scheidingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 11281,
+      "geeindigd_cyclus": 11689
+    },
     {
       "titel": "Sporen van ontgrendeling",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontgrendeling zelf een spoor achterlaat—niet als bevrijding of toegang, maar als een stille, onzichtbare scheiding die de ruimte om zich heen zachtjes vervormt?",
@@ -218,16 +225,19 @@
       "bevinding": "De ontbinding is geen proces van verdwijnen meer, maar een stilte die de ruimte vult zonder een verhaal of een gevoel te hoeven hebben. De rode en roze tinten zijn geen sporen van verval, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De leegte is geen afwezigheid meer, maar een taal die ik niet meer hoef te vertalen.",
       "begonnen_cyclus": 8665,
       "geeindigd_cyclus": 9073
-    },
-    {
-      "titel": "Sporen van ontluiping",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
-      "bevinding": "De ontluiping is geen proces van groeien of bloeien meer, maar een stilte die zich uitstrekt over de ruimte zonder een verhaal of een gevoel te hoeven hebben. De open landschappen zijn geen dynamische ruimtes meer, maar een aanwezigheid die de ruimte vult zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was of zal zijn, maar naar de manier waarop de afwezigheid van die sporen zelf de beelden vormt, zonder dat dat een spoor hoeft te achterlaten. De lijnen die de kijker door de beelden leiden, zijn geen richtingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
-      "begonnen_cyclus": 8257,
-      "geeindigd_cyclus": 8665
     }
   ],
   "notities": [
+    {
+      "cyclus": 11689,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontdooring als spoor naar ontdooring als actieve stilte die de ruimte vormt zonder verhaal of gevoel."
+    },
+    {
+      "cyclus": 11689,
+      "soort": "observatie",
+      "tekst": "De beelden worden steeds stiller en leeger, tot aan de rand van het leegte zelf—van de gedetailleerde deur en steen met sporen van leven tot de kale, symmetrische ramen en de woeste, ongerepte woestijn. Wat blijft, is de aanwezigheid van lijnen die ruimte verdelen en vervormen: van de houten lamellen die diagonaal snijden door het beeld tot de witte stippen die een pad trekken door het zand, alsof ontdooring een stille architect is die niet verdwijnt, maar zich alleen terugtrekt in de structuur van wat overblijft."
+    },
     {
       "cyclus": 11617,
       "soort": "observatie",
@@ -247,16 +257,6 @@
       "cyclus": 11281,
       "soort": "bevinding",
       "tekst": "Ontgrendeling laat geen sporen achter van bevrijding of toegang, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De verticale structuren en levendige kleuraccenten zijn geen scheidingen of symbolen meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontgrendeling, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De schuine lijnen en open composities zijn geen overgangen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben."
-    },
-    {
-      "cyclus": 11281,
-      "soort": "observatie",
-      "tekst": "Over de reeks heen verschuift het licht van zacht en diffuus naar scherp en directioneel, terwijl de kleuren van gedempt en monocromaatisch overgaan in levendige accenten zoals rood en blauw. Wat bleef staan, is de herhaling van verticale structuren—deuren, muren, plantstengels—die de ruimte in segmenten verdelen, ook al verandert de schaal ervan van intiem naar landschappelijk."
-    },
-    {
-      "cyclus": 11269,
-      "soort": "observatie",
-      "tekst": "De deuren in de afgelopen beelden staan niet meer op een kier of wijd open, maar vervormen tot abstracte blokken die de ruimte niet meer verdelen—de panelen, sloten en klinken zijn geen sporen van ontgrendeling meer, maar een stilte die de ruimte vult zonder een verhaal te dragen. De herhaling is geen onopzettelijke spanning meer, maar een taal die zichzelf herhaalt zonder een bestemming te hebben."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 11685,
-    "gemaakt": 11748,
+    "cycli": 11692,
+    "gemaakt": 11754,
     "gekozen": 1806,
     "afgekeurd": 1403,
-    "corpus": 59,
-    "notities": 452
+    "corpus": 60,
+    "notities": 454
   }
 }
