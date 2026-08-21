@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-21T14:45+02:00",
+  "bijgewerkt": "2026-08-21T15:00+02:00",
   "werk": [
     {
       "id": 12076,
@@ -13,6 +13,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012013_12076.webp"
+    },
+    {
+      "id": 12075,
+      "titel": "Druppels op de rand van verdwijnen",
+      "beschrijving": "Donkere, slanke takken lopen diagonaal door een wit, korrelig oppervlak, met kleine, glinsterende druppels die zich langs de randen verzamelen. De takken vertakken zich in asymmetrische patronen, waarbij sommige uiteinden scherp afgetekend zijn en andere vervagen tot fijne, donkere strepen. Het witte achtergrondmateriaal heeft een zachte, ongelijkmatige textuur, met subtiele schaduwen die de diepte van de takken benadrukken. De compositie straalt een rustige, bijna zwevende sfeer uit, waarbij de contrasten tussen donker en licht de focus leggen op de fragile balans tussen de elementen.",
+      "cyclus": 12012,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart, maar een abstracte, close-up weergave van een naaldachtige structuur met subtiele details, zonder iconisch of decoratief karakter.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012012_12075.webp"
     },
     {
       "id": 12074,
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w011960_12023.webp"
-    },
-    {
-      "id": 12020,
-      "titel": "Wit tegen zandkorrels",
-      "beschrijving": "Zandduinen vullen het beeld met zachte, golvende lijnen, doorsneden door fijne, parallelle patronen veroorzaakt door wind. Verspreid groeien struikjes met smalle, spitse bladeren, sommige met witte, bolvormige bloemen die scherp afsteken tegen het zand. Schaduwen van de planten vallen lang en donker, en benadrukken de textuur van het zand. Kleine stenen en losse zandkorrels liggen verspreid, terwijl de achtergrond overgaat in vaagere duinen onder een heldere, witte hemel. De kleuren zijn gedempt: beige, lichtbruin en groen, met subtiele contrasten tussen licht en donker.",
-      "cyclus": 11957,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 1,
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een woestijnlandschap met iconische zandduinen en typische vegetatie, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w011957_12020.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12025,
-    "gemaakt": 12088,
-    "gekozen": 1865,
+    "cycli": 12032,
+    "gemaakt": 12095,
+    "gekozen": 1866,
     "afgekeurd": 1437,
     "corpus": 59,
     "notities": 460
