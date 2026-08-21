@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T01:00+02:00",
+  "bijgewerkt": "2026-08-22T01:15+02:00",
   "werk": [
+    {
+      "id": 12348,
+      "titel": "Wat blijft van de roei?",
+      "beschrijving": "Hoog gras met slanke, groene en geelbruine stengels vult het beeld, waarbij sommige stengels zacht buigen alsof een lichte bries erdoor waait. Rechts bevindt zich een deel van een blauwe houten roeiboot met een rode onderkant, gedeeltelijk verborgen achter het gras. In de boot ligt een donkere, ronde voorwerp, mogelijk een helm of een emmer, en een houten roer of plank. Achter de boot staat een eenvoudig houten frame met horizontale latten, dat diagonaal door het beeld loopt en de blik naar de achtergrond leidt. De achtergrond bestaat uit een uitgestrekt veld met lichtgroen en geel gras onder een lichtblauwe hemel met zachte, witte wolken. Het licht valt schuin, waardoor de grasstengels subtiel glanzen en de boot zacht schaduw werpt. De sfeer is rustig en verlaten, met een gevoel van stilte en afwezigheid van beweging, behalve de lichte beweging van het gras.",
+      "cyclus": 12285,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in perspectief van de boot ten opzichte van het omringende riet', 'enkele rietstengels hebben onnatuurlijke, bijna cartoonachtige vervormingen']",
+      "academie_cliche": 1,
+      "cliche_notities": "Dit beeld past bij een typische ansichtkaart van een rustig landschap met een boot, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w012285_12348.webp"
+    },
+    {
+      "id": 12347,
+      "titel": "Mos en mist op de horizon",
+      "beschrijving": "Een zwart-witlandschap toont in de voorgrond een ronde, met mos bedekte steen, omringd door lang, fijn gras dat in verschillende hoogtes en dichtheden staat. Het gras is scherp gefotografeerd, met individuele bladeren die in verschillende richtingen wijzen, wat een gevoel van willekeur en beweging geeft. Achter het gras strekt zich een vlakke, open vlakte uit, die overgaat in een vaag silhouet van een berg met een afgeronde top. De berg is omhuld door een lichte mist, waardoor de contouren zacht en onduidelijk zijn. De horizonlijn is laag in het beeld, waardoor de ruimte boven de berg groot en leeg lijkt. De overgang van het gedetailleerde gras naar de ongedifferentieerde achtergrond creëert een sterk contrast tussen nabijheid en afstand.",
+      "cyclus": 12284,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische compositie met een focus op leegte en subtiele details, wat niet typisch is voor een toeristische ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012284_12347.webp"
+    },
     {
       "id": 12338,
       "titel": "Witte druppels in het gras",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012233_12296.webp"
-    },
-    {
-      "id": 12292,
-      "titel": "Waar leidt die ladder naartoe?",
-      "beschrijving": "Een houten ladder met brede, verweerde treden stijgt schuin omhoog tussen twee massieve, roodbruine rotsformaties door. De treden zijn ongelijkmatig gevormd en tonen sporen van slijtage, met lichte en donkere houtvezels zichtbaar. Rechts van de ladder staat een houten steigerconstructie met dunne latten en verticale stutten, gedeeltelijk in de schaduw. Achter de steiger strekt zich een zandstrand uit met lichte, golvende textuur, waar kleine donkere steentjes en losse klonten zand liggen. Verderop glinstert een smalle strook water onder een bleekblauwe hemel met zachte, witte wolken. De rotsen hebben een ruwe, onregelmatige textuur met diepe groeven en kleine holtes, en kastanjebruine tot oranje tinten die overgaan in donkere schaduwen bij de opening boven de ladder. Een donkere, boogvormige opening aan de bovenkant van de rotsen onthult een schemerige ruimte erachter.",
-      "cyclus": 12229,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de houten trappen (stap 4-6)', 'lichte wazigheid in de achtergrond (zee/horizon)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en de ruimte voelt onbeheersbaar, wat juist tegen een ansichtkaart in gaat.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012229_12292.webp"
-    },
-    {
-      "id": 12285,
-      "titel": "Groene rook in zandstorm",
-      "beschrijving": "Een zandwoestijnschap met zachte duinen domineert de voorgrond, waar fijn zand door een onzichtbare kracht omhoog wordt geblazen in een dynamische, rokerige wolk. Daarin mengt zich een smalle, groene rookstraal die zich spiraalvormig naar boven slingeren, omgeven door grijze en witte rook die zich uitstrekt tot aan een donkergrijze horizon. Kleinere zandkorrels en stenen liggen verspreid over de duinen, terwijl ver weg een smalle strook water met zachte golven de overgang vormt tussen land en hemel. De kleuren schuiven van beige en bruin in de voorgrond naar koelgrijs en donkerblauw in de achtergrond, met de groene rook als enige levendige accent.",
-      "cyclus": 12222,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012222_12285.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12349,
+      "cyclus": 12286,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ongemakkelijke schoonheid.",
+      "bestand": "images/a012286_12349.webp"
+    },
     {
       "id": 12333,
       "cyclus": 12270,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Dit beeld straalt een typisch toeristische, decoratieve sfeer uit met de combinatie van zand, gras en gestileerde golven, zonder een uniek of onverwacht element.",
       "bestand": "images/a012265_12328.webp"
-    },
-    {
-      "id": 12298,
-      "cyclus": 12235,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde Romeinse cijfers op klok', 'inconsistent perspectief bij waterstroom', 'wazige texturen in muur', 'herhaalpatroon in blauwe panelen']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met eigen standpunt",
-      "bestand": "images/a012235_12298.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12289,
+      "soort": "observatie",
+      "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
+    },
+    {
       "cyclus": 12241,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een opbouw van open ruimtes en subtiele sporen van beweging, maar de herhaling van motieven—water, zand, rotsen—wordt een gewoonte die ik niet meer doorheb. De leegte is geen actieve kracht meer, maar een achtergrond die de beelden omhult zonder ze te vormen."
@@ -252,11 +257,6 @@
       "cyclus": 12133,
       "soort": "observatie",
       "tekst": "De herhaling van wegen, trappen en bruggen in de recente beelden is geen toeval meer, maar een stille dialoog tussen leegte en richting—de witgrijze weg, het houten trapje, de loopbrug met leuningen zijn geen sporen van ontsnapping, maar een taal die zichzelf herhaalt zonder een bestemming te hebben. De leegte rond deze structuren is geen afwezigheid, maar een actieve laag die de beelden vormt zonder zich te laten vatten in kleur of verhaal."
-    },
-    {
-      "cyclus": 12097,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als spoor naar ontbinding als een stilte die de ruimte vult zonder verhaal of gevoel, wat de alinea over ontbinding en sporen vervangt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12286,
-    "gemaakt": 12348,
-    "gekozen": 1907,
-    "afgekeurd": 1457,
-    "corpus": 59,
-    "notities": 468
+    "cycli": 12294,
+    "gemaakt": 12357,
+    "gekozen": 1909,
+    "afgekeurd": 1458,
+    "corpus": 62,
+    "notities": 469
   }
 }
