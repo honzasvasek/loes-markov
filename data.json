@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T21:15+02:00",
+  "bijgewerkt": "2026-08-21T21:30+02:00",
   "werk": [
+    {
+      "id": 12256,
+      "titel": "Wit dat zakt door donker",
+      "beschrijving": "Donkere, scherpe takken en stengels snijden door een wit-grijze, textuurrijke achtergrond, met verspreide donkere vlekken en strepen die als schaduwen of natte plekken fungeren. Dunne, onregelmatige lijnen imiteren riet of droog gras, terwijl brede, zachte penseelstreken een onrustige horizon suggereren. Donkere, amorf gevormde vormen drijven erdoorheen, soms als silhouetten van verre bomen of rotsen. Witte en grijze vlakken wisselen zich af met zwarte en donkergrijze details, waarbij de contrasten de indruk van een verlaten, nat landschap versterken. Kleine, donkere stippen en ongelijke vlakken suggereren steentjes, modder of drijffhout. De compositie is dynamisch onbalanserd, met elementen die zowel naar voren als naar achteren lijken te duiken.",
+      "cyclus": 12193,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012193_12256.webp"
+    },
+    {
+      "id": 12253,
+      "titel": "Druppels en verdwijnende sporen",
+      "beschrijving": "Een donker, schuin dak met uitkragende rand en decoratieve elementen domineert de bovenste helft, met druppels die naar beneden vallen. Onder het dak vliegen vogels in een diagonale lijn naar beneden, richting een aardewerken pot die in water drijft. Het water toont concentrische cirkels rond de pot en een tweede, verder weg staande pot. Rookachtige vormen stijgen op vanaf het dak en vermengen zich met de achtergrond, die overgaat in een lichte, vaag getekende horizon. De scène is monochrom, met gradiënten van zwart, grijs en wit.",
+      "cyclus": 12190,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met een focus op leegte en subtiele beweging, geen typisch iconisch onderwerp.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012190_12253.webp"
+    },
     {
       "id": 12236,
       "titel": "Een spoor door het zand",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012142_12205.webp"
-    },
-    {
-      "id": 12198,
-      "titel": "Vleugels boven het raster",
-      "beschrijving": "Zes ganzen vliegen in een losse V-vorm door een rozegetinte hemel, hun vleugels wijd open en hun lichamen in verschillende vluchtposities. Onder hen loopt een donkere houten omheining horizontaal door het beeld, met verticale palen en horizontale latten die een raster vormen. De achtergrond bestaat uit een egale, watervastkleurachtige roze textuur met lichte schakeringen en vage, wazige vormen die aan wolken of nevel doen denken. De ganzen hebben donkere vleugels, witte buiken en zwarte koppen met witte strepen. De compositie is verticaal opgebouwd, met de vogels in de bovenste helft en de omheining in het midden, waardoor de onderste helft van het beeld leeg blijft, behalve voor de roze textuur.",
-      "cyclus": 12135,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie en kleurkeuze zijn niet typisch voor een toeristische ansichtkaart, maar hebben een meer persoonlijke, stilistische inslag.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012135_12198.webp"
-    },
-    {
-      "id": 12196,
-      "titel": "Waar de weg zwijgt",
-      "beschrijving": "Een kronkelende, witgrijze weg snijdt door een landschap van terrasvormige, bruin-grijze heuvels. Rechts staat een klein, donker gebouw met een koepeldak en een kruis erboven, geflankeerd door een lichtere muur. De weg bestaat uit onregelmatige, zachte penseelstreken, met donkere en lichte vlakken die diepte suggereren. Verspreid over de heuvels liggen kleine, donkere vormen die op vegetatie of rotsen lijken. De achtergrond is een egaal, vaag grijs, zonder duidelijke horizon. De compositie is verticaal georiënteerd, met de weg als leidende lijn die het oog naar het gebouw trekt. Kleuren zijn gedempt, met accenten van beige, bruin en zwart.",
-      "cyclus": 12133,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de textuur van de stenen muren linksboven', 'onduidelijke overgang tussen de kerk en de achtergrond aan de rechterkant']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, dromerige kwaliteit die beyond een typische ansichtkaart gaat, met een ongemakkelijke spanning tussen leegte en aanwezigheid.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012133_12196.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12192,
-    "gemaakt": 12254,
-    "gekozen": 1892,
+    "cycli": 12199,
+    "gemaakt": 12261,
+    "gekozen": 1894,
     "afgekeurd": 1453,
     "corpus": 59,
     "notities": 466
