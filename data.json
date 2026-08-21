@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-21T16:00+02:00",
+  "bijgewerkt": "2026-08-21T16:15+02:00",
   "werk": [
+    {
+      "id": 12123,
+      "titel": "Takken snijden de horizon door",
+      "beschrijving": "Donkerbruine en zwarte takken snijden schuin door een lichtblauwe lucht, met witte wolken die zacht overgaan in de horizon. Onderaan strekt een groen veld zich uit met geelgroene en donkergroene strepen, doorsneden door een smalle, rozeachtige pad en een donkere, slanke lijn die als een waterloop of weg loopt. Rechts staat een donkere, bolvormige boom of struik, terwijl links vaag groene bomen de achtergrond vormen. Kleuren zijn helder en levendig, met een contrast tussen de scherpe takken en de soepele, golvende vormen van het landschap.",
+      "cyclus": 12060,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van bomen links/rechts', 'wazige overgang tussen horizon en lucht']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuzes zijn ongemakkelijk en niet-bevestigend",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012060_12123.webp"
+    },
+    {
+      "id": 12119,
+      "titel": "Waar de lijnen stilstaan",
+      "beschrijving": "Zichtbaar is een groep figuren met verschillende kapsels, gezien van achteren, omringd door hoog gras dat de voorgrond domineert. Witte, stralende lijnen lopen tussen de figuren en vormen een netwerk van verbindingen, met heldere punten op de kruispunten. Op de achtergrond staan bomen met bladeren en een vaag omlijnd landschap met watervlakken en een horizon. De afbeelding is in grijstinten, met een korrelige textuur die de hele scène doordringt. De lijnen en punten suggereren een onzichtbare structuur boven het tafereel.",
+      "cyclus": 12056,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van bomen achtergrond', 'lichte wazigheid in textuur van gras']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een complexe compositie met abstracte elementen",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012056_12119.webp"
+    },
     {
       "id": 12108,
       "titel": "Aders in rook",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012011_12074.webp"
-    },
-    {
-      "id": 12058,
-      "titel": "Donkere druppels op zand",
-      "beschrijving": "Een diagonale strook nat zand loopt door het beeld, omgeven door droog, gelijkmatig zand. Donkerblauwe en zwarte druppels en kleine plassen verspreiden zich langs de natte strook, met enkele grotere, glanzende bolletjes die de indruk wekken van bevroren druppels. Fijne korrels en kleine onregelmatigheden in het zand zijn zichtbaar rond de natte zone, waar het water de textuur heeft verbroken. De overgang tussen nat en droog is scherp, maar niet recht, met subtiele golven en uitlopers die de strook onvoorspelbaar maken. Het licht valt schuin, waardoor de druppels en plassen reflecties vertonen en de diepte van de donkere kleuren benadrukt wordt.",
-      "cyclus": 11995,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is abstract en niet iconisch, en de compositie is niet decoratief perfect.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w011995_12058.webp"
-    },
-    {
-      "id": 12055,
-      "titel": "Sporen van een verdronken pad",
-      "beschrijving": "Een smalle, kronkelende spoor van nat, glimmend zand loopt door een ongelijkmatig landschap van droge, korrelige aarde. De randen van het spoor zijn onregelmatig en uitgesleten, met losse kluiten modder en kleine stenen die het patroon onderbreken. Rechtsboven loopt een dunne, verticale streep roestkleurige verf of mineralen door het beeld, parallel aan een vaag spoor van wat ooit een rechte lijn moet zijn geweest. De textuur wisselt van glad en glijdend in het midden van het spoor tot ruw en brokkelig aan de randen, waar droogte en vocht elkaar ontmoeten. Kleuren variëren van beige en grijsbruin tot donkerbruin, met subtiele tinten rood en oranje in de verticale streep en op sommige plekken waar het zand nat lijkt. De compositie is asymmetrisch, met het spoor dat diagonaal door het beeld loopt en de blik meevoert van linksboven naar rechtsonder.",
-      "cyclus": 11992,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in textuur van modder aan weerskanten van de spoornadruk",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een abstracte, natuurlijke vorm zonder toeristische connotatie",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w011992_12055.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12057,
-    "gemaakt": 12119,
-    "gekozen": 1871,
+    "cycli": 12064,
+    "gemaakt": 12126,
+    "gekozen": 1873,
     "afgekeurd": 1441,
     "corpus": 59,
     "notities": 460
