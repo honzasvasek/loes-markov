@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T11:30+02:00",
+  "bijgewerkt": "2026-08-22T11:45+02:00",
   "werk": [
     {
       "id": 12622,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 12640,
+      "cyclus": 12577,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van de bladeren: sommige zijn scherp gedetailleerd, andere wazig/smeuiig', 'Reflexie van de zon in het water is iets te perfect symmetrisch, wat artificieel overkomt']",
+      "cliche_notities": "Het beeld combineert een iconisch landschap (zonsondergang over water) met een decoratief, bijna romantisch lichteffect, zonder een duidelijke compositorische of thematische keuze die verder gaat dan een klassiek ansichtkaartmotief.",
+      "bestand": "images/a012577_12640.webp"
+    },
+    {
       "id": 12626,
       "cyclus": 12563,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent perspectief tekst vs. achtergrond', 'wazige textuur in muur en water']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke mix van tekst en landschap zonder duidelijke intentie.",
       "bestand": "images/a012562_12625.webp"
-    },
-    {
-      "id": 12617,
-      "cyclus": 12554,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'wazige texturen']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke compositie met onduidelijke intentie.",
-      "bestand": "images/a012554_12617.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12575,
-    "gemaakt": 12638,
+    "cycli": 12577,
+    "gemaakt": 12640,
     "gekozen": 1949,
-    "afgekeurd": 1491,
+    "afgekeurd": 1492,
     "corpus": 62,
     "notities": 474
   }
