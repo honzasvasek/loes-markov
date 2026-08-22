@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T16:15+02:00",
+  "bijgewerkt": "2026-08-22T16:30+02:00",
   "werk": [
+    {
+      "id": 12768,
+      "titel": "Rood kijkt door wit heen",
+      "beschrijving": "Twee naakte figuren staan naast elkaar, de ene in wit met zachte, vage contouren, de andere in rood met scherpere, bijna agressieve penseelstreken. De witte figuur kijkt schuin naar beneden, de rode figuur heeft een ontspannen houding met een lichte draai van het lichaam. Achter hen een donkere, onscherpe achtergrond met oranje en bruine tinten die een warme, bijna verontrustende sfeer creëren. Kleuren als zwart, grijs en groen zijn verspreid over het doek, met kleine details zoals een donkere vorm bij de voeten en een vaag voorwerp in de hoek. De compositie is verticaal, met de figuren centraal maar licht schuin geplaatst, wat een gevoel van onrust en beweging geeft. Penseelstreken zijn zichtbaar en expressief, met variatie in dikte en richting, wat bijdraagt aan de dynamiek van het beeld.",
+      "cyclus": 12705,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, persoonlijke interpretatie van figuren in een dynamische compositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012705_12768.webp"
+    },
+    {
+      "id": 12761,
+      "titel": "Glanzende kersen bij het raam",
+      "beschrijving": "Zes donkerrode kersen met groene stelen liggen verspreid op een wit, zacht ogend materiaal dat lijkt op katoen of schuim. Achter de kersen bevindt zich een wit geteeld raam met twaalf ruitjes, waarachter vaag bruine takken zichtbaar zijn. Het licht valt schuin door het raam, waardoor de kersen een glanzende, natte uitstraling krijgen en de takken zachtjes schaduwen werpen op de achtergrond. De compositie is rustig, met de kersen aan de rechterkant en het raam dat de linkerhelfd domineert.",
+      "cyclus": 12698,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in takken achter ruit (enkele takken verdwijnen plotseling)', 'lichte wazigheid in schaduwen van kersen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en de kersen voelen als een onbedoelde metafoor, geen ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012698_12761.webp"
+    },
     {
       "id": 12754,
       "titel": "Rood dat zwaart in de hoek",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012659_12722.webp"
-    },
-    {
-      "id": 12717,
-      "titel": "Waar de boom zwijgt",
-      "beschrijving": "Een verlaten pad van lichtgrijs zand loopt diagonaal door het midden, omzoomd door donkergroen en bruin gras met verspreide, onduidelijke vormen die op dood blad of takken lijken. Rechts staat een boom met donkerblauwe stam en takken, waar witte en blauwe spetters en vlekken vanaf lijken te barsten, alsof er iets onzichtbaars door de takken zwaait. De achtergrond bestaat uit een vaag, lichtgrijzig landschap met zachte, wazige overgangen, waar links een donkerblauwe, amorf vorm suggereert dat er ooit water of een bos was. Kleuren zijn gedempt, met accenten van oker, geel en donkerbruin in het gras en op het pad, terwijl de boom een scherpe, bijna agressieve contrast vormt met zijn heldere blauwe en witte uitbarstingen. De sfeer is stil en verlaten, met een onderliggende spanning door de dynamische, bijna gewelddadige beweging in de boom tegenover de stilstaande, verwaarloosde omgeving.",
-      "cyclus": 12654,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de boomtakken', 'lichte wazigheid in de achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigen, ongemakkelijke schoonheid",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012654_12717.webp"
-    },
-    {
-      "id": 12707,
-      "titel": "Vijf bladeren, één wolk",
-      "beschrijving": "Een witte, wolkachtige vorm met zachte, golvende randen domineert het midden van een effen grijze achtergrond. De textuur van de witte vorm is fijnkorrelig en licht doorschijnend, met subtiele schaduwen die diepte suggereren. Verspreid over het beeld liggen vijf gedroogde, bruine bladeren in verschillende groottes en vormen, waarvan sommige licht gekruld zijn. De bladeren zijn willekeurig geplaatst: twee in de bovenrechterhoek, twee in de linkeronderhoek en één in de rechteronderhoek. De compositie is minimalistisch en rustig, met veel lege ruimte rond de vormen. De sfeer is neutraal en contemplatief, zonder duidelijke actie of verhaal.",
-      "cyclus": 12644,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve compositie zonder iconische of decoratieve elementen die het tot een ansichtkaart maken.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012644_12707.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12773,
+      "cyclus": 12710,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['enkele subtiele vervormingen in takken van bomen', 'lichte inconsistentie in horizonlijn bij bergen']",
+      "cliche_notities": "Landschap met zonsondergang en kale bomen is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
+      "bestand": "images/a012710_12773.webp"
+    },
     {
       "id": 12752,
       "cyclus": 12689,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde wolkenstructuur', 'onrealistische golfbeweging']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch strandlandschap, perfecte belichting en geen duidelijke compositorische keuze beyond de toevoeging van symbolen.",
       "bestand": "images/a012652_12715.webp"
-    },
-    {
-      "id": 12712,
-      "cyclus": 12649,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare karakters', 'onrealistische textuur van papier en vlekken']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder duidelijke intentie.",
-      "bestand": "images/a012649_12712.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12706,
-    "gemaakt": 12769,
-    "gekozen": 1969,
-    "afgekeurd": 1500,
+    "cycli": 12714,
+    "gemaakt": 12777,
+    "gekozen": 1971,
+    "afgekeurd": 1501,
     "corpus": 62,
     "notities": 476
   }
