@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T23:00+02:00",
+  "bijgewerkt": "2026-08-22T23:15+02:00",
   "werk": [
+    {
+      "id": 12949,
+      "titel": "Zwaartekracht op zoek",
+      "beschrijving": "Drie stenen bevinden zich in een verticale lijn boven een natte zandvlakte. De bovenste steen is donkergrijs met witte aderen en zweeft op ongeveer twintig centimeter hoogte. De middelste steen is donkerbruin, glanzend nat en hangt aan een dun waterstraaltje dat vanuit een plas omhoog schiet. Onderin ligt een lichtere, onregelmatige steen in het water, omringd door concentrische ringen van rimpelend water. Het zand is bruin met verspreide kleine steentjes en korrels, en de achtergrond vervaagt tot een onscherpe, donkerblauwe horizon. Waterdruppels vliegen door de lucht en reflecteren het licht.",
+      "cyclus": 12886,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een dynamisch moment met een ongemakkelijke schoonheid.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012886_12949.webp"
+    },
+    {
+      "id": 12948,
+      "titel": "Stenen die zwijgen houden vast",
+      "beschrijving": "Een verzameling ronde, onregelmatige stenen drijft op donkerblauw water, waarbij sommige gedeeltelijk ondergedompeld zijn en andere net boven de oppervlakte uitsteken. De stenen hebben een ruwe textuur met vlekken van grijs, beige en bruin, en enkele tonen subtiele roze of witte accenten. Rond de stenen lopen concentrische ringen door het water, alsof ze recent in het water zijn gegooid. Het water zelf is diepblauw met zachte, golvende lijnen die beweging suggereren, en er zweven kleine, donkere vormen die op bladeren of stukjes afval lijken. De compositie is asymmetrisch, met de stenen voornamelijk aan de linkerkant en onderkant van het beeld, terwijl het water de rechter- en bovenkant domineert. De sfeer is rustig en bijna meditatief, met een gevoel van stilte en afwezigheid van geluid.",
+      "cyclus": 12885,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012885_12948.webp"
+    },
     {
       "id": 12933,
       "titel": "Wat blijft hangen in de steen",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012818_12881.webp"
-    },
-    {
-      "id": 12879,
-      "titel": "Stenen die de horizon scheiden",
-      "beschrijving": "Grijsgroen gras vult het beeld, met lange, slanke stengels die in verschillende hoogtes en dichtheden staan. Een smalle, overwoekerde weg loopt diagonaal door het midden, omzoomd door hogere, slankere rietstengels die deels de horizon verbergen. Ver weg, aan de horizon, loopt een rechte lijn van donkere, ronde stenen parallel aan een vaag zichtbare bomenrij. De hemel is egaal grijs, zonder zon of wolken, en kleurt het landschap in een monotone, gedempte tint. Het gras in de voorgrond is fijner en korter, terwijl het riet dichter bij de weg hoger en wilder wordt. De stenen vormen een scherpe, kunstmatige lijn in het natuurlijke landschap, met af en toe een lichte reflectie van licht erop.",
-      "cyclus": 12816,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte wazigheid in de achtergrond en inconsistentie in de textuur van het gras",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een rustige, onopgesmakte landschapsscene zonder duidelijke compositorische keuze",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012816_12879.webp"
-    },
-    {
-      "id": 12876,
-      "titel": "Wat overblijft van de oogst",
-      "beschrijving": "Dunne, doorschijnende grassprietjes en hooistengels vullen het beeld in een chaotisch patroon, met subtiele variaties in beige, bruin en grijsgroen. Sommige prikkels zijn scherp en witachtig, andere donkerder en bijna doorschijnend, met kleine, onregelmatige uitsteeksels en gebroken uiteinden. De achtergrond bestaat uit een getextureerd, vaag patroon van zachte, golvende penseelstreken in gedempte aardetinten, met af en toe een donkere vlek of een kleine, ronde vorm die aan een zaad of een knop doet denken. De compositie is dicht en overvol, zonder duidelijke horizon of focus, waardoor de oogstarrichting constant verschuift langs de willekeurig geplaatste lijnen en vormen. De sfeer is stil en iets verwaarloosd, alsof het beeld een close-up is van een vergeten hoekje natuur, vastgelegd in een moment van rust na een storm.",
-      "cyclus": 12813,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, onbeheerste compositie zonder duidelijke intentie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012813_12876.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12884,
-    "gemaakt": 12946,
-    "gekozen": 1998,
+    "cycli": 12891,
+    "gemaakt": 12953,
+    "gekozen": 2000,
     "afgekeurd": 1516,
     "corpus": 62,
     "notities": 478
