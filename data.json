@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T22:45+02:00",
+  "bijgewerkt": "2026-08-22T23:00+02:00",
   "werk": [
+    {
+      "id": 12933,
+      "titel": "Wat blijft hangen in de steen",
+      "beschrijving": "Een onregelmatige scheur in een ruwe, textuurrijke muur van zandsteen onthult een vaag, grijs landschap achterin. De randen van de scheur zijn scherp en ongelijkmatig, met losse stenen en kleine brokjes die het gevoel van verval versterken. Door de opening zie je een nevelig, onduidelijk beeld van wat mogelijk water of een verlaten vlakte is, met subtiele verticale lijnen die regen of rimpels kunnen suggereren. De kleuren zijn gedempt: de steen is beige met bruine en grijze tinten, terwijl het achtergrondlandschap in zachte, onduidelijke grijstinten bestaat. Een enkele waterdruppel hangt aan de rand van de scheur, glinsterend in het diffuse licht. De compositie is asymmetrisch, met de scheur die diagonaal door het beeld loopt en de kijker naar het onbekende achterin trekt.",
+      "cyclus": 12870,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp is abstract en de compositie is niet decoratief perfect.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012870_12933.webp"
+    },
+    {
+      "id": 12930,
+      "titel": "Regendruppels op verlaten rotsen",
+      "beschrijving": "Donkere, natte rotsen liggen verspreid in ondiep water dat de golvende horizon raakt, met een enkele groene grasspriet die uit het water steekt. Het zandstrand loopt schuin op naar zandduinen met donkere dennenbomen, onder een bewolkte hemel die regen laat vallen. Regendruppels maken de lucht vaag en het water reflecteert een zwakke, gouden gloed, terwijl vochtig zand en natte rotsen donkere, glanzende texturen vormen. Een onscherpe grasspriet in de voorgrond en een verlaten, natte omgeving geven een gevoel van stilte en eenzaamheid.",
+      "cyclus": 12867,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte onscherpte in achtergrondbomen', 'subtiele halo rond waterhorizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een intieme, ongedwongen compositie met focus op textuur en stilte",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012867_12930.webp"
+    },
     {
       "id": 12926,
       "titel": "Rook die vragen stelt",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012813_12876.webp"
-    },
-    {
-      "id": 12872,
-      "titel": "De streep die blijft staan",
-      "beschrijving": "Een smalle, rechte weg loopt dwars door een verlaten boomgaard, geflankeerd door twee rijen kale, donkere bomen met uitgestrekte takken. Het pad is van bruin zand of grind, met een smalle, witte gestreepte lijn die precies in het midden loopt en zich naar de horizon uitstrekt. Aan weerszijden van het pad liggen verspreid kleine, donkere voorwerpen die op stenen of vruchten lijken, en enkele groene en gele vlekken die op bladeren of mos kunnen wijzen. De achtergrond vervaagt in een grijze, nevelige horizon, waarbij de bomen steeds kleiner en vaagner worden. De sfeer is stil en verlaten, met een subtiele spanning tussen de lege ruimte en de aanwezigheid van de bomen en het pad. De kleuren zijn gedempt, met overwegend bruine, grijze en groene tinten, en de witte strepen op het pad vormen een scherp contrast met de omgeving.",
-      "cyclus": 12809,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie met een sterke focus op leegte en subtiele details, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012809_12872.webp"
-    },
-    {
-      "id": 12862,
-      "titel": "Scheuren in het wit",
-      "beschrijving": "Wit papier met gescheurde randen bedekt een deel van het beeld, waarbij door de scheuren een vaag zichtbare witte deur met donkere scharnieren en een metalen kruk te zien is. Het papier heeft horizontale plooien en ligt in lagen, met de bovenste laag schuin over de onderste. De achtergrond is egale, lichtgrijze muur, en de deur bevindt zich in een donkerder kader. De scheuren in het papier onthullen verschillende hoogtes van de deur, waarbij de bovenste scheur de bovenkant van de deur laat zien en de onderste scheur de onderkant. De randen van het papier zijn onregelmatig en vezelig, met kleine losse vezeltjes die uitsteken. Het papier werpt een zachte schaduw op de muur eronder.",
-      "cyclus": 12799,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op leegte en afwezigheid, niet op een bevestigend verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012799_12862.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12944,
+      "cyclus": 12881,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een typisch Nederlands landschap met een boerderij en bomen) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a012881_12944.webp"
+    },
     {
       "id": 12904,
       "cyclus": 12841,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch kerkje met een pad erheen, omringd door bomen en gras, in een compositie die doet denken aan een typische ansichtkaart van een dorpsgezicht.",
       "bestand": "images/a012824_12887.webp"
-    },
-    {
-      "id": 12885,
-      "cyclus": 12822,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflecties op water (achtergrondhuizen vs. voorgrond)', 'lichte vervorming van takken in voorgrond (onlogische takstructuren)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met kerk en water, geschilderd in een decoratieve, realistische stijl zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a012822_12885.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12877,
-    "gemaakt": 12939,
-    "gekozen": 1996,
-    "afgekeurd": 1515,
-    "corpus": 63,
+    "cycli": 12884,
+    "gemaakt": 12946,
+    "gekozen": 1998,
+    "afgekeurd": 1516,
+    "corpus": 62,
     "notities": 478
   }
 }
