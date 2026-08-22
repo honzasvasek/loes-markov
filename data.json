@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T01:00+02:00",
+  "bijgewerkt": "2026-08-23T01:15+02:00",
   "werk": [
     {
       "id": 12999,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13005,
+      "cyclus": 12942,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk tussen bomen bij water) en de decoratieve, symmetrische compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a012942_13005.webp"
+    },
+    {
+      "id": 13002,
+      "cyclus": 12939,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de schaduwval van de vogels op de muur', 'Wazige overgang tussen mist en wateroppervlak']",
+      "cliche_notities": "Het beeld straalt een typisch 'Oosterse rust' uit met iconische elementen zoals een traditioneel dak, water en vogels in vlucht, zonder duidelijke compositorische verbeelding.",
+      "bestand": "images/a012939_13002.webp"
+    },
+    {
       "id": 13000,
       "cyclus": 12937,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in textuur van de achtergrondbomen (minder detail dan voorgrond)",
       "cliche_notities": "Landschap met vulkaan en naaldbomen is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt",
       "bestand": "images/a012937_13000.webp"
-    },
-    {
-      "id": 12989,
-      "cyclus": 12926,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de brug: de relingen lopen niet perfect parallel met de planken, wat een subtiele vervorming veroorzaakt.', 'Watervlak heeft een iets te uniforme textuur, met weinig variatie in golven of reflecties, wat artificieel overkomt.']",
-      "cliche_notities": "Dit beeld past bij de categorie 'toeristische ansichtkaart' door het iconische onderwerp (Nederlandse molen met water en bomen) en de decoratieve, perfecte belichting zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012926_12989.webp"
-    },
-    {
-      "id": 12984,
-      "cyclus": 12921,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['kleine donkere vlek in de lucht (mogelijk artefact)', 'reflectie in water iets waziger dan realistisch']",
-      "cliche_notities": "Typisch landschapsmotief met bloemen, water en wolken onder een perfecte blauwe hemel, zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a012921_12984.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12939,
-    "gemaakt": 13001,
+    "cycli": 12947,
+    "gemaakt": 13009,
     "gekozen": 2007,
-    "afgekeurd": 1526,
-    "corpus": 64,
+    "afgekeurd": 1528,
+    "corpus": 63,
     "notities": 480
   }
 }
