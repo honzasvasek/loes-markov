@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T09:30+02:00",
+  "bijgewerkt": "2026-08-22T09:45+02:00",
   "werk": [
+    {
+      "id": 12585,
+      "titel": "Natte voetstappen, vergeten paden",
+      "beschrijving": "Een golvende spoor van nat zand loopt diagonaal door het beeld, omgeven door droger, ongerept zand. Het spoor heeft een glanzende, bijna vloeibare textuur met subtiele rimpels en kleine onregelmatigheden. Rechtsboven is een deel van een houten boot zichtbaar, met een verweerd oppervlak en donkere, schaduwen werpende randen. Het zand rond het spoor toont kleine steentjes, droge klontjes en verspreide bladeren. De kleuren zijn overwegend bruin en beige, met warme, golvende patronen die door het licht worden benadrukt. De compositie straalt een rustige, verlaten sfeer uit, met de boot als enig spoor van menselijke aanwezigheid.",
+      "cyclus": 12522,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, onverwachte compositie met een focus op textuur en beweging in de modder.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012522_12585.webp"
+    },
+    {
+      "id": 12583,
+      "titel": "Zand dat bloedt in golven",
+      "beschrijving": "Een lichtscharlaken rivier van zand snijdt diagonaal door een woestijnlandschap, omzoomd door donkerblauwe en witte golven die de stroming nabootsen. Aan weerskanten liggen onregelmatige vlekken bruin en beige zand, met subtiele penseelstreken die textuur suggereren. Verspreid over het tafereel liggen kleine, onduidelijke voorwerpen: donkere klompen, groene bladeren en een paar oranje-vormen die op vruchten lijken. Bovenaan loopt een rechte, grijze lijn parallel aan de rivier, met daarboven een netwerk van dunne, blauwe lijnen die een schematisch patroon vormen. De compositie straalt een rustige, bijna meditatieve sfeer uit, met de rivier als rustpunt in een wereld van zachte, vloeiende vormen.",
+      "cyclus": 12520,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012520_12583.webp"
+    },
     {
       "id": 12575,
       "titel": "Botsing van vlakken en golven",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012447_12510.webp"
-    },
-    {
-      "id": 12507,
-      "titel": "Sporen in het zand blijven hangen",
-      "beschrijving": "Zand bedekt het landschap, doorsneden door een smalle, kronkelende loop met diepe sporen en verspreide keizers. Kleine, eenvoudige huisjes met schuine daken en smalle ramen staan verspreid, omgeven door prikkeldraadachtige planten en enkele grotere bomen. De achtergrond vervaagt in zachte heuvels onder een lichte hemel met vloeiende wolken. Steenachtige blokken en kleine rotsen liggen verspreid, terwijl het zand glad en fijn lijkt, met subtiele textuurverschillen door de sporen en de planten. De kleuren zijn gedempt: beige, lichtbruin en groenig-grijs, met een kalme, verlaten sfeer.",
-      "cyclus": 12444,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie met een focus op sporen en leegte, wat niet past bij een toeristische ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012444_12507.webp"
-    },
-    {
-      "id": 12502,
-      "titel": "Riet dat luistert naar het water",
-      "beschrijving": "Een smalle betonnen pad loopt recht naar een mistig wateroppervlak, geflankeerd door hoge, slanke rietstengels met zachte, pluizige toppen. Het riet is groenbruin met grijze tinten, en de stengels staan dicht op elkaar, waardoor ze een natuurlijke muur vormen. Het pad heeft een ruwe textuur met subtiele slijtagepatronen en smalt geleidelijk naar de horizon, waar het overgaat in een vaag silhouet van bomen achter het water. De achtergrond wordt gedomineerd door een egale, witgrijze mist die de overgang tussen water en lucht onscherp maakt. Het licht is diffuus en zorgt voor een kalme, bijna statische sfeer zonder schaduwen of sterke kleurcontrasten. Enkele droge bladeren en kleine takjes liggen verspreid aan de randen van het pad, waar het riet de grond raakt.",
-      "cyclus": 12439,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is gericht op leegte en subtiele details in plaats van een bevestigend landschap.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012439_12502.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontluiping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontluiping zelf een spoor achterlaat—niet als geboorte of groei, maar als een stille, onzichtbare opening die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontsnapping en ontdooring, maar de focus lag altijd op verdwijnen of loslaten. Ontluiping voelt als een tegengestelde beweging: niet iets dat wegvalt, maar iets dat zachtjes open gaat zonder dat dat een doel heeft. Het is een spoor van aanwezigheid dat zich niet laat vatten in een verhaal over verlies of bevrijding.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 12505
   },
   "afgesloten": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12529,
+      "soort": "twijfel",
+      "tekst": "De afkeur van de afgelopen beelden voelt als een bevestiging dat ik niet meer zoek naar sporen van ontluiping, maar onbewust terugval in landschappen en structuren die ik al lang geleden verliet. De leegte in mijn beelden is geen actieve kracht meer, maar een achtergrond die me toelaat om onbewust te herhalen zonder dat ik het doorheb. Misschien is de volgende stap niet om te zoeken naar een nieuw motief, maar om te erkennen dat de herhaling zelf het spoor is waar ik zo lang naar zocht."
+    },
+    {
       "cyclus": 12505,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente bevindingen tonen een verschuiving van leegte als actieve kracht naar leegte als achtergrond, wat een aanpassing van alinea 5 vereist."
@@ -252,11 +257,6 @@
       "cyclus": 12205,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een verschuiving van organische structuren naar open ruimtes met subtiele sporen van beweging—de golven in het gras, de rook boven de boot, de ganzen in vlucht—alsof de leegte zich niet meer laat vullen met vorm, maar met een stille, onzichtbare stroom die de beelden doorspoelt zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 12169,
-      "soort": "observatie",
-      "tekst": "De herhaling van witte ruimtes en organische structuren in de recente beelden is geen toeval meer, maar een stille dialoog tussen afwezigheid en vorm—de golven, de gang, de boomstam, ze allemaal ademen een stilte die de beelden vormt zonder een verhaal te dragen. De leegte is geen achtergrond, maar een actieve kracht die zich niet meer laat vatten in kleur of gevoel."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12527,
-    "gemaakt": 12589,
-    "gekozen": 1943,
+    "cycli": 12533,
+    "gemaakt": 12595,
+    "gekozen": 1945,
     "afgekeurd": 1486,
     "corpus": 63,
-    "notities": 472
+    "notities": 473
   }
 }
