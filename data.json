@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T02:30+02:00",
+  "bijgewerkt": "2026-08-22T02:45+02:00",
   "werk": [
+    {
+      "id": 12395,
+      "titel": "Rook die zich onthult",
+      "beschrijving": "Een wazige, witte rookspiraal stijgt op tegen een gedempte, grijsgroene achtergrond met zachte, ongelijkmatige penseelstreken. De rook vormt slingerende, doorschijnende vormen die zich naar boven uitbreiden en vervagen in de lucht, terwijl de onderkant donkerder en vager wordt. Kleurverloop loopt van lichtgrijs aan de bovenkant naar donkergrijs en zwart aan de onderkant, met subtiele blauwe en bruine tinten in de rook. De compositie is verticaal gericht, met de rook als centraal element dat de hoogte van het beeld vul",
+      "cyclus": 12332,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele textuurconsistentie in achtergrond, maar geen duidelijke artefacten', 'geen vervormde structuren of onmogelijke geometrie']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012332_12395.webp"
+    },
+    {
+      "id": 12392,
+      "titel": "Rook en verlaten hout",
+      "beschrijving": "Zandduinen met golvende patronen domineren het beeld, in tinten beige en lichtbruin. Een klein houten hutje met een schuin dak staat op de achtergrond, rechts van het midden, met een donkere deur en lichte planken. Een dunne rookpluim stijgt op van een kleine schoorsteen naast het hutje. Linksboven in het beeld, dicht bij de voorgrond, groeit een klompje groen gras met smalle bladeren. De achtergrond bestaat uit een helderblauwe lucht zonder wolken, die de horizonlijn vormt met de zandduinen. De compositie is rustig en open, met veel lege ruimte in het zand en de lucht.",
+      "cyclus": 12329,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van zand (beneden vs. boven)', 'lichte vervaging aan randen van beeld']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is ongemakkelijk en niet-obvious.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012329_12392.webp"
+    },
     {
       "id": 12388,
       "titel": "Rook die de stilte doorbreekt",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012284_12347.webp"
-    },
-    {
-      "id": 12338,
-      "titel": "Witte druppels in het gras",
-      "beschrijving": "Een smal pad van bruin zand loopt door een weelderig veld van hoge, slanke grassen in groen, geel en blauw. Witte, ronde vormen, vergelijkbaar met druppels of kleine bloemen, verspreiden zich over het pad en tussen het gras. Achter het veld rijst een donkere boomlijn op tegen een grijze, bewolkte hemel. Donkere schaduwen en strepen op het pad suggereren diepte en textuur, terwijl de kleuren van het gras overgaan in de achtergrond. De compositie leidt het oog langs het pad naar de horizon, waar de bomen de overgang vormen tussen het veld en de lucht.",
-      "cyclus": 12275,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in grasstructuren aan weerskanten pad', 'lichte wazigheid in achtergrondbomen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze met witte stippen suggereert een spoor van ontsnapping.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012275_12338.webp"
-    },
-    {
-      "id": 12334,
-      "titel": "Geheime drijvers in het riet",
-      "beschrijving": "Groene en gele grassprielen rijzen uit een kalme, grijsgroene wateroppervlakte, met subtiele reflecties van de stengels en kleine gele bloemetjes die erboven uitsteken. Donkere, ronde vormen drijven verspreid op het water, terwijl de achtergrond zacht vervaagt in lichtgroene en beige tinten. De penseelstreken zijn zichtbaar textuurrijk en dynamisch, met diagonale en verticale lijnen die beweging suggereren. Enkele donkere, amorf vormen liggen verborgen tussen het gras, en een paar kleine, heldere vlekjes suggereren licht dat op het water valt. De compositie is dicht en iets chaotisch, met het water dat de onderste helft inneemt en het gras dat de bovenste helft vult.",
-      "cyclus": 12271,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012271_12334.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12332,
-    "gemaakt": 12394,
-    "gekozen": 1915,
+    "cycli": 12338,
+    "gemaakt": 12400,
+    "gekozen": 1917,
     "afgekeurd": 1460,
-    "corpus": 63,
+    "corpus": 62,
     "notities": 469
   }
 }
