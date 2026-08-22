@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T04:30+02:00",
+  "bijgewerkt": "2026-08-22T04:45+02:00",
   "werk": [
+    {
+      "id": 12440,
+      "titel": "Waar de wereld scheurt",
+      "beschrijving": "Een scheur loopt schuin door het beeld, van boven links naar beneden rechts, met onregelmatige, versleten randen. Achter de scheur verschijnt een roze-witte lucht die overgaat in een landschap met zand, water en bomen aan de horizon. Rechtsboven in het landschap staat een roodbruin gebouw met een puntig dak, omringd door groen. De scheur verdeelt het beeld in twee duidelijke werelden: aan weerskanten grijze, textuurloze vlakken, terwijl door de scheur een realistischere, kleurrijke scène zichtbaar wordt. De overgang tussen de grijze vlakken en het landschap is scherp, alsof de scheur een venster vormt naar een andere ruimte.",
+      "cyclus": 12377,
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte onregelmatigheden in de scheurranden, maar geen vervormingen of inconsistente structuren",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is abstract en open, zonder decoratief perfect licht of typische ansichtkaart-elementen",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012377_12440.webp"
+    },
+    {
+      "id": 12436,
+      "titel": "Waar bleef het spoor?",
+      "beschrijving": "Een donkerrood wateroppervlak vult het grootste deel van het beeld, met subtiele golven die een textuur van beweging suggereren. Middenin loopt een scherpe, witte, golvende lijn verticaal door het water, alsof het een spoor is van iets dat net verdwenen is. Aan de horizon een donkere, onscherpe boomlijn die het water afschermt tegen een grijze, egale hemel. De randen van het beeld zijn lichter en wat vervagen, wat een gevoel van afstandsverlies geeft. Rechtsboven een vaag wit punt, mogelijk een boot of gebouw, maar onherkenbaar door de onscherpte. De sfeer is stil en iets melancolisch, door de koude kleuren en de leegte van het landschap.",
+      "cyclus": 12373,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief perfect.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012373_12436.webp"
+    },
     {
       "id": 12432,
       "titel": "Waar blijft de horizon",
@@ -104,61 +130,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012322_12385.webp"
-    },
-    {
-      "id": 12368,
-      "titel": "Waar blijft de uitgang?",
-      "beschrijving": "Een labyrint van kronkelende, parallelle banen snijdt door een heuvelachtig landschap, getekend in zachte grijstinten met donkere, vage vlekken die bomen of struiken suggereren. De banen, smal en golvend, lopen van de voorgrond naar de achtergrond, waar ze zich verliezen in een vaag, nevelig horizonvlak. Donkere, onregelmatige vormen en kleine stippen verspreid over het beeld geven de indruk van vegetatie of rotsen, terwijl de achtergrondheuvels zacht overlopen in de lichte, bijna witte hemel. De compositie straalt een rustige, bijna meditatieve sfeer uit, met de blik die volgt langs de slingerende lijnen die het beeld doorsnijden.",
-      "cyclus": 12305,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in perspectief bij de heuvels', 'lichte wazigheid in de donkerste zones van de bomen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie zonder typisch toeristische elementen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012305_12368.webp"
-    },
-    {
-      "id": 12366,
-      "titel": "Inkt en rook in lagen",
-      "beschrijving": "Zwart en wit vormen een labyrint van golvende, amorf vormgegeven structuren die zich van boven naar beneden uitstrekken. Donkere, bijna inktachtige vormen met korrelige texturen slingeren door het beeld, afgewisseld met lichtere, vaag getekende delen die aan rook of vloeistof doen denken. Onderin lopen horizontale, onregelmatige banden met gestippelde en gestreepte patronen, alsof het landschap zich in lagen opstapelt. Spits toelopende vormen, soms met een scherpe punt, steken uit de donkere massaën en suggereren gras of rotsen. Witte ruimtes tussen de vormen creëren een gevoel van diepte en beweging, terwijl de randen van sommige figuren zachtjes vervagen in de achtergrond.",
-      "cyclus": 12303,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte onregelmatigheden in textuur van donkere vormen', 'enkele onduidelijke overgangen tussen donker en licht']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp, maar een abstracte, open compositie zonder decoratief licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012303_12366.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 12444,
-      "cyclus": 12381,
+      "id": 12455,
+      "cyclus": 12392,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in perspectief bij de daken, lichte wazigheid in de achtergrondbomen",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een traditioneel Aziatisch waterdorp, met iconische elementen zoals grachten, traditionele daken en een serene sfeer zonder persoonlijke invalshoek.",
-      "bestand": "images/a012381_12444.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een klassiek landschap met bergen en bomen in een stijl die doet denken aan traditionele houtsneden, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012392_12455.webp"
     },
     {
-      "id": 12437,
-      "cyclus": 12374,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld combineert een klassiek motief (klok) met een onverklaarbare, bijna surrealistische figuur, wat het buiten de ansichtkaart-categorie plaatst.",
-      "bestand": "images/a012374_12437.webp"
+      "id": 12453,
+      "cyclus": 12390,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een solitaire boom aan een landweg) en de decoratieve, serene sfeer zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012390_12453.webp"
     },
     {
-      "id": 12402,
-      "cyclus": 12339,
+      "id": 12448,
+      "cyclus": 12385,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
-      "tech_notities": "tekst/tekens in beeld",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met een wekker als centraal element.",
-      "bestand": "images/a012339_12402.webp"
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde tekst (onleesbaar/onzin)', 'inconsistente tekstalignering', 'wazige textuur in bruine vorm', 'halo-effect rond roze wolken']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en niet gericht op een herkenbaar landschap of moment.",
+      "bestand": "images/a012385_12448.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12385,
-    "gemaakt": 12447,
-    "gekozen": 1921,
-    "afgekeurd": 1464,
+    "cycli": 12394,
+    "gemaakt": 12456,
+    "gekozen": 1923,
+    "afgekeurd": 1467,
     "corpus": 62,
     "notities": 469
   }
