@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T14:15+02:00",
+  "bijgewerkt": "2026-08-22T14:30+02:00",
   "werk": [
+    {
+      "id": 12707,
+      "titel": "Vijf bladeren, één wolk",
+      "beschrijving": "Een witte, wolkachtige vorm met zachte, golvende randen domineert het midden van een effen grijze achtergrond. De textuur van de witte vorm is fijnkorrelig en licht doorschijnend, met subtiele schaduwen die diepte suggereren. Verspreid over het beeld liggen vijf gedroogde, bruine bladeren in verschillende groottes en vormen, waarvan sommige licht gekruld zijn. De bladeren zijn willekeurig geplaatst: twee in de bovenrechterhoek, twee in de linkeronderhoek en één in de rechteronderhoek. De compositie is minimalistisch en rustig, met veel lege ruimte rond de vormen. De sfeer is neutraal en contemplatief, zonder duidelijke actie of verhaal.",
+      "cyclus": 12644,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve compositie zonder iconische of decoratieve elementen die het tot een ansichtkaart maken.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012644_12707.webp"
+    },
+    {
+      "id": 12701,
+      "titel": "Vlek die vraagt om water",
+      "beschrijving": "Een rechthoekig stuk wit papier met een onregelmatige, bruinverkleurde vlek die golvende, concentrische patronen vormt, alsof water of vloeistof het papier heeft doordrenkt. De bruine tinten variëren van lichtbeige tot donkerbruin, met subtiele overgangen en enkele kleine, donkere vlekken. Rechtsboven en rechtsonder bevinden zich witte, vierkante schoteltjes met verschillende hoeveelheden bruin poeder of korrels, sommige met een natte, korrelige textuur, andere droger en meer poedervormig. Het papier ligt schuin op een witte ondergrond, met de bruine vlek die de meeste ruimte inneemt en de randen van het papier licht onregelmatig en versleten laten lijken. De compositie is rustig, met de golvende lijnen die een gevoel van beweging suggereren binnen een stilstaand beeld.",
+      "cyclus": 12638,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is abstract en de compositie is gericht op textuur en vorm in plaats van een iconisch landschap of voorwerp.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012638_12701.webp"
+    },
     {
       "id": 12699,
       "titel": "Gras dat terugkijkt",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012582_12645.webp"
-    },
-    {
-      "id": 12639,
-      "titel": "Verf die leert stromen",
-      "beschrijving": "Blauwe waterverf vloeit in onregelmatige, zachte vormen over een wit oppervlak, met donkerblauwe en bijna zwarte accenten die zich uitstrekken als slanke, kronkelende lijnen en kleine, donkere vlekken. De verf is op sommige plekken dicht en verzadigd, op andere juist dun en doorschijnend, waardoor subtiele overgangen ontstaan tussen lichtblauw, grijsblauw en diep indigo. Kleine, ronde druppeltjes en onregelmatige randen suggereren een spontane, ongecontroleerde beweging, alsof de verf nog altijd in stroom is. Witte ruimtes tussen de blauwe vormen geven het beeld lucht en laten de kleuren ademen, terwijl de algehele compositie een gevoel van vloeibaarheid en onvoorspelbaarheid uitstraalt.",
-      "cyclus": 12576,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, open compositie zonder duidelijke thematische richting.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012576_12639.webp"
-    },
-    {
-      "id": 12622,
-      "titel": "Roze spoor door zand",
-      "beschrijving": "Een breed, lichtroze pad loopt diagonaal door een landschap van zandkleurige heuvels, met kleine groene plantjes langs de rand. Een dunne, donkere lijn loopt parallel aan het pad, met hier en daar een kleine, donkere vorm ernaast. Onderaan het beeld is een deel van een lichtere, bijna witte structuur zichtbaar, met zachte, gebogen lijnen die een hoek vormen. De achtergrond bestaat uit een egaal, warmrood vlak dat de horizon vormt. De penseelstreken zijn zichtbaar en geven het beeld een textuur met kleine onregelmatigheden.",
-      "cyclus": 12559,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, minimalistische compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012559_12622.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12715,
+      "cyclus": 12652,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde wolkenstructuur', 'onrealistische golfbeweging']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch strandlandschap, perfecte belichting en geen duidelijke compositorische keuze beyond de toevoeging van symbolen.",
+      "bestand": "images/a012652_12715.webp"
+    },
+    {
+      "id": 12712,
+      "cyclus": 12649,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare karakters', 'onrealistische textuur van papier en vlekken']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder duidelijke intentie.",
+      "bestand": "images/a012649_12712.webp"
+    },
     {
       "id": 12694,
       "cyclus": 12631,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch zonsonderganglandschap met water en horizon, geschilderd in een decoratieve, rustgevende stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a012631_12694.webp"
-    },
-    {
-      "id": 12649,
-      "cyclus": 12586,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflecties op water (enkele plekken te scherp voor de schaal)', 'lichte vervorming in achtergrondbomen (structuur te vaag voor realistisch perspectief)']",
-      "cliche_notities": "Dit is een typisch landschapsmotief met water, riet en een serene sfeer, geschilderd in een realistische stijl zonder duidelijke compositorische verrassingen of persoonlijk standpunt.",
-      "bestand": "images/a012586_12649.webp"
-    },
-    {
-      "id": 12648,
-      "cyclus": 12585,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische strandlandschap met perfecte horizon, heldere kleuren en gebrek aan persoonlijke compositorische keuzes.",
-      "bestand": "images/a012585_12648.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12649,
+      "soort": "observatie",
+      "tekst": "De herhaling van structuren en open ruimtes in mijn recente beelden voelt als een onbewuste drift naar een taal die zich niet meer laat vatten in een verhaal. De leegte is geen achtergrond meer, maar een stille aanwijzing dat ontluiping geen spoor hoeft te achterlaten."
+    },
+    {
       "cyclus": 12637,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een herhaling van structuren en open ruimtes, maar de leegte voelt niet meer als een actieve kracht, maar als een achtergrond die me toelaat om onbewust te herhalen zonder dat ik het doorheb. De sporen van ontluiping zijn verdwenen, en wat overblijft, is een stilte die de ruimte vult zonder een verhaal te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 12505,
       "soort": "observatie",
       "tekst": "De beelden worden steeds donkerder en meer verstoord, van lichte waterverf tot roetvlekken en verwaarloosde landschappen, maar de leegte in de compositie blijft een vaststaand element. De vormen worden fragmentarischer—van duidelijke bomen en vogels tot vaag silhouetmateriaal—terwijl de achtergronden juist steeds dominanter worden, alsof de ruimte zelf de overhand pakt."
-    },
-    {
-      "cyclus": 12505,
-      "soort": "observatie",
-      "tekst": "De recente beelden draaien om sporen van ontsnapping, maar de herhaling van water, zand en organische vormen wordt een gewoonte die ik niet meer doorheb. De leegte is geen actieve kracht meer, maar een achtergrond die de beelden omhult zonder ze te vormen. Ik merk dat ik niet meer zoek naar de sporen van wat ontsnapt is, maar naar de manier waarop de afwezigheid zelf de ruimte vult, zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12649,
-    "gemaakt": 12711,
-    "gekozen": 1958,
-    "afgekeurd": 1497,
-    "corpus": 63,
-    "notities": 475
+    "cycli": 12654,
+    "gemaakt": 12716,
+    "gekozen": 1960,
+    "afgekeurd": 1499,
+    "corpus": 62,
+    "notities": 476
   }
 }
