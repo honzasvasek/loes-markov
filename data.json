@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T06:45+02:00",
+  "bijgewerkt": "2026-08-22T07:00+02:00",
   "werk": [
     {
       "id": 12507,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 12508,
-      "cyclus": 12445,
+      "id": 12518,
+      "cyclus": 12455,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van de windmolenvleugels (één vleugel iets scherper dan de andere)', 'Subtiele halo rond de rand van de kom waar die de achtergrond raakt']",
+      "cliche_notities": "De windmolen is een iconisch Nederlands symbool, gepositioneerd in een klassieke compositie met een eenvoudige achtergrond en decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012455_12518.webp"
+    },
+    {
+      "id": 12517,
+      "cyclus": 12454,
       "afkeuringsreden": "cliche",
       "tech_score": 9.0,
       "tech_notities": "",
-      "cliche_notities": "Het landschap met de kronkelende weg en heuvels is een typisch iconisch motief, uitgevoerd in een decoratieve, bijna illustratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012445_12508.webp"
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen op een typische achtergrond, met een decoratieve, ansichtkaartachtige compositie zonder duidelijke persoonlijke of conceptuele keuze.",
+      "bestand": "images/a012454_12517.webp"
     },
     {
-      "id": 12504,
-      "cyclus": 12441,
+      "id": 12516,
+      "cyclus": 12453,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de schuur ten opzichte van de kerk', 'Wazige overgang tussen hemel en landschap']",
-      "cliche_notities": "Het beeld toont een typisch landschap met verlaten boerderijen en een kerkje, geschilderd in een nostalgische, ansichtkaartachtige stijl zonder duidelijke compositorische keuze.",
-      "bestand": "images/a012441_12504.webp"
-    },
-    {
-      "id": 12497,
-      "cyclus": 12434,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een natuurlandschap zonder iconische of toeristische elementen en heeft een natuurlijke, niet-decoratieve compositie.",
-      "bestand": "images/a012434_12497.webp"
+      "tech_notities": "",
+      "cliche_notities": "De molen en de typisch Nederlandse potten maken dit een iconisch ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012453_12516.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12448,
-    "gemaakt": 12510,
+    "cycli": 12456,
+    "gemaakt": 12518,
     "gekozen": 1935,
-    "afgekeurd": 1475,
+    "afgekeurd": 1480,
     "corpus": 63,
     "notities": 469
   }
