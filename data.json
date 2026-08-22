@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T21:00+02:00",
+  "bijgewerkt": "2026-08-22T21:15+02:00",
   "werk": [
+    {
+      "id": 12902,
+      "titel": "Was die blijft hangen",
+      "beschrijving": "Een hand houdt een ambrakleurig wasblokje boven een rond oppervlak met zwarte takken getekend in een minimalistisch patroon. Smeltende was stroomt in een gouden druppel naar beneden, waar een kleine, glanzende wasdruppel al ligt. Rook stijgt in slome, witte spiraalvorm omhoog van het wasblokje. Een open waspot met een lichtbruine inhoud rust op het oppervlak, omgeven door subtiele witte spetters en een lichte verkleuring van het materiaal. De achtergrond is donkergrijs, wat de warme tinten van de was en de textuur van het oppervlak benadrukt.",
+      "cyclus": 12839,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een intieme, contemplatieve sfeer zonder iconische of decoratieve elementen die het tot een ansichtkaart maken.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012839_12902.webp"
+    },
+    {
+      "id": 12899,
+      "titel": "De band die liep door tijd",
+      "beschrijving": "Twee ronde klokken met witte wijzerplaten en donkere wijzers hangen in een smalle, betonnen gang met houten lamellen aan de muur. De bovenste klok is verbonden met een mechanisch apparaat van metaal en hout, terwijl de onderste klok via een golvende, blauwe band met de bovenste is verbonden. De band loopt in een S-vorm van boven naar beneden en lijkt van een zacht, bijna vloeibaar materiaal te zijn. De gang loopt door naar een verdere ruimte waar een vaag silhouet van een rad zichtbaar is. Het licht valt schuin door de gang, waardoor schaduwen over de muren en de klokken vallen. De kleuren zijn gedempt, met grijze betonnen muren, donkerbruine houten elementen en de levendige blauwe band die de compositie doorsnijdt.",
+      "cyclus": 12836,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de gangwielen in de achtergrond', 'Subtiele halo rond de blauwe stroom van de klok']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, denkbeeldige compositie zonder iconische of toeristische elementen, en toont een eigenzinnige visie op tijd en ruimte.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012836_12899.webp"
+    },
     {
       "id": 12881,
       "titel": "Waar blijft het pad?",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012783_12846.webp"
-    },
-    {
-      "id": 12837,
-      "titel": null,
-      "beschrijving": "Een smalle, verticale spleet in een grijze muur onthult een houten trap die omhoog loopt naar een groen, bloeiend landschap. De treden zijn lichtbruin, met schaduwen die de diepte benadrukken. Rechtsboven vliegen drie vogels met uitgespreide vleugels tegen een lichtblauwe hemel. Aan weerskanten van de spleet zitten losse, donkergrijze rotsblokken met scherpe randen en witte vlekken. Boven de trap staan witbloeiende bomen met donkere stammen, omringd door groen gras en kleine witte bloemetjes. De achtergrond toont zachte, blauwe heuvels onder een heldere lucht. Kleine stenen en fragmenten liggen verspreid rond de muur, en een paar groene grassprietjes steken bovenaan uit de grond.",
-      "cyclus": 12774,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de verticale spleet die de kijker trekt naar een landschap, wat beyond een typische ansichtkaart gaat.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012774_12837.webp"
-    },
-    {
-      "id": 12829,
-      "titel": "Druppels met geheugen",
-      "beschrijving": "Regendruppels dalen van donkere, slanke takken met kleine, glinsterende druppels aan de uiteinden. Het water eronder vormt concentrische cirkels rond de inslaapplaats, met subtiele reflecties van de takken en een vaag silhouet van bomen op de achtergrond. Grijs en wit domineren, met aanwijzingen van groen en bruin in de voorgrond, waar onduidelijke vormen op het water drijven. De regen lijkt de lucht te vervagen, terwijl de druppels een scherpe, verticale beweging suggereren tegen de horizontale golven.",
-      "cyclus": 12766,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte weergave van water en takken met een eigen compositorische keuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012766_12829.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12904,
+      "cyclus": 12841,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde Romeinse cijfers (XII en VI)', 'onlogische wijzerposities', 'wazige randen rond wijzerplaat']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onvolmaakte weergave van een klok zonder duidelijke boodschap.",
+      "bestand": "images/a012841_12904.webp"
+    },
     {
       "id": 12887,
       "cyclus": 12824,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in reflecties op water (achtergrondhuizen vs. voorgrond)', 'lichte vervorming van takken in voorgrond (onlogische takstructuren)']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met kerk en water, geschilderd in een decoratieve, realistische stijl zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a012822_12885.webp"
-    },
-    {
-      "id": 12882,
-      "cyclus": 12819,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van kerken bij water, met een decoratief perfect licht en geen duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012819_12882.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12837,
-    "gemaakt": 12899,
-    "gekozen": 1991,
-    "afgekeurd": 1514,
+    "cycli": 12843,
+    "gemaakt": 12905,
+    "gekozen": 1993,
+    "afgekeurd": 1515,
     "corpus": 63,
     "notities": 478
   }
