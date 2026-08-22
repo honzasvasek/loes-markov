@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T07:45+02:00",
+  "bijgewerkt": "2026-08-22T08:00+02:00",
   "werk": [
+    {
+      "id": 12542,
+      "titel": "Wit op grind, korrels van twijfel",
+      "beschrijving": "Twaalf witte, rechthoekige vormen vormen een raster van drie kolommen en vier rijen op een donkerblauwe, korrelige achtergrond die zand of grind imiteert. De witte vlakken zijn scherp afgetekend en vullen het midden van het beeld, terwijl de donkere ruimtes ertussen en eromheen een onregelmatige, bijna organische textuur hebben. Kleurrijke korrels—bruin, grijs en af en toe een flits van blauw—zitten verspreid in de donkere zones, met name langs de randen van de witte vormen, waar ze een subtiele overgang creëren tussen licht en donker. De compositie is strak en symmetrisch, maar de textuur van de achtergrond voegt een element van willekeur en beweging toe aan het beeld.",
+      "cyclus": 12479,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012479_12542.webp"
+    },
+    {
+      "id": 12537,
+      "titel": "Rook tussen het verweerde rooster",
+      "beschrijving": "Negen witte, vierkante blokken liggen in een rooster van drie op drie, half ondergedompeld in donker, modderig water. Een smalle, witte rookstraal slingeren verticaal door het midden, tussen de blokken door. De randen van de blokken zijn onregelmatig en verweerd, met sporen van vuil en verkleuring. Rondom de blokken drijft los zand en kleine stenen op het wateroppervlak, en in de hoeken van het beeld zijn donkere, modderige zones met bubbels en sporen van beweging. Een dunne, bruine tak ligt in de linkeronderhoek, half ondergedompeld. De kleuren zijn gedempt: wit, grijs, bruin en zwart domineren, met subtiele glans op het water en de blokken.",
+      "cyclus": 12474,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met lege ruimte en subtiele vervormingen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012474_12537.webp"
+    },
     {
       "id": 12532,
       "titel": "Hout dat ademt water </thinking>",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012427_12490.webp"
-    },
-    {
-      "id": 12484,
-      "titel": "Modder met geheugen",
-      "beschrijving": "Een smalle, kronkelende stroom helderblauw water snijdt door een bruin, modderig landschap, omgeven door verspreid hout, droog gras en donkere, onregelmatige vormen die op rotselementen of afval lijken. Rechtsboven loopt een houten hek met verticale en horizontale latten schuin door het beeld, deels verdwenen in de modder. Het water reflecteert licht en toont subtiele witte en donkerblauwe golven, terwijl de oever een chaotisch patroon van natte en droge textuur vormt. Donkere holtes en gaten in de grond suggereren diepte, en kleine, onherkenbare voorwerpen liggen verspreid tussen het puin. De kleuren zijn gedempt, behalve het water, dat een levendige, bijna onnatuurlijke tint heeft.",
-      "cyclus": 12421,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van hek (rechtsboven), lichte wazigheid in details van modder/afval",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op subtiele spanning tussen vorm en leegte",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012421_12484.webp"
-    },
-    {
-      "id": 12481,
-      "titel": "Rook die leert vliegen",
-      "beschrijving": "Een opwellend, wervelend vorm dat lijkt op een fontein of een opstijgende rookpluim domineert het midden van het beeld, met soepel golflijnen in groen, geel en wit die zich naar boven uitbreiden tot een wolkachtige vorm. Rode en donkerblauwe accenten omlijnen de randen, terwijl kleine gele en groene stippen door de compositie verspreid zijn. Onderaan vloeit het vorm uit in een donkere, onregelmatige basis met bruine en zwarte tinten, die een textuur heeft van ruw landschap of verbrande grond. De achtergrond bestaat uit een grijzig, getekend vlak met subtiele witte krassporen en verspreide donkere vlekken, wat een gevoel van beweging en onrust toevoegt aan het tafereel.",
-      "cyclus": 12418,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van achtergrond (links/rechts)', 'kleine halo rond rode vorm bovenaan']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuzes zijn onorthodox en niet-bevestigend.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012418_12481.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12540,
+      "cyclus": 12477,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde karakters en onleesbare letters', 'inconsistent lettervormen en spaties', 'wazige randen rond tekst', 'halo-effect rond het frame']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder duidelijke intentie of context.",
+      "bestand": "images/a012477_12540.webp"
+    },
     {
       "id": 12519,
       "cyclus": 12456,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in de textuur van de windmolenvleugels (één vleugel iets scherper dan de andere)', 'Subtiele halo rond de rand van de kom waar die de achtergrond raakt']",
       "cliche_notities": "De windmolen is een iconisch Nederlands symbool, gepositioneerd in een klassieke compositie met een eenvoudige achtergrond en decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a012455_12518.webp"
-    },
-    {
-      "id": 12517,
-      "cyclus": 12454,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen op een typische achtergrond, met een decoratieve, ansichtkaartachtige compositie zonder duidelijke persoonlijke of conceptuele keuze.",
-      "bestand": "images/a012454_12517.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12477,
-    "gemaakt": 12539,
-    "gekozen": 1939,
-    "afgekeurd": 1481,
+    "cycli": 12484,
+    "gemaakt": 12546,
+    "gekozen": 1941,
+    "afgekeurd": 1482,
     "corpus": 63,
     "notities": 469
   }
