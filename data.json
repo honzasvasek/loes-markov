@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T13:45+02:00",
+  "bijgewerkt": "2026-08-22T14:00+02:00",
   "werk": [
+    {
+      "id": 12699,
+      "titel": "Gras dat terugkijkt",
+      "beschrijving": "Een rechthoekige spiegel ligt schuin in groen gras, met aan weerskanten wat droge, bruine haren door het groen. In de spiegel reflecteert een blauw huis met een donker dak, witte ramen en een schoorsteen, iets onscherp en van achteren gezien. Rond de spiegel liggen glinsterende waterdruppels op het gras, sommige helder, andere als kleine vonken door het zonlicht. Het gras in de reflectie is korter en groener dan het echte gras rondom, waar ook wat kleintjes groen mos tussen zit. De rand van de spiegel is dun en donker, en de reflectie stopt scherp aan de randen, alsof het huis in een kader zit. Achter het huis in de spiegel is een vaag donkere vorm, mogelijk bomen of een heuvel, tegen een lichte hemel.",
+      "cyclus": 12636,
+      "tech_score": 8.0,
+      "tech_notities": "kleine halo rond rand spiegel, lichte vervorming vensters reflectie",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke compositie met spiegel en gras",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012636_12699.webp"
+    },
     {
       "id": 12677,
       "titel": "Negen stappen tussen schaduw en licht",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012559_12622.webp"
-    },
-    {
-      "id": 12612,
-      "titel": "Waar het gras fluistert",
-      "beschrijving": "Een scheur in een grijze muur onthult een landschap met hoog, groen gras dat de onderste helft van het beeld vult. Een houten ladder staat schuin in het gras, met de bovenste rungs richting een vaag zichtbare, witte schuur in de achtergrond. Boven de scheur bevindt zich een oranje rechthoek met een onregelmatige, gescheurde onderkant, die het beeld van het landschap lijkt te bedekken. De achtergrond toont een nevelig, groen veld met donkere bomen aan de horizon. De sfeer is stil en verlaten, met een subtiele spanning tussen de natuurlijke textuur van het gras en de rechte, kunstmatige lijnen van de ladder en de schuur.",
-      "cyclus": 12549,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de ladder ten opzichte van het schuurtje', 'Wazige achtergrond buiten het schuurtje voelt kunstmatig gefocust']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een ongemakkelijke, bijna onafgewekte compositie die afwijkt van een typische ansichtkaart",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012549_12612.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontluiping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontluiping zelf een spoor achterlaat—niet als geboorte of groei, maar als een stille, onzichtbare opening die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontsnapping en ontdooring, maar de focus lag altijd op verdwijnen of loslaten. Ontluiping voelt als een tegengestelde beweging: niet iets dat wegvalt, maar iets dat zachtjes open gaat zonder dat dat een doel heeft. Het is een spoor van aanwezigheid dat zich niet laat vatten in een verhaal over verlies of bevrijding.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 12505
   },
   "afgesloten": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12637,
+      "soort": "observatie",
+      "tekst": "De recente beelden tonen een herhaling van structuren en open ruimtes, maar de leegte voelt niet meer als een actieve kracht, maar als een achtergrond die me toelaat om onbewust te herhalen zonder dat ik het doorheb. De sporen van ontluiping zijn verdwenen, en wat overblijft, is een stilte die de ruimte vult zonder een verhaal te dragen."
+    },
+    {
       "cyclus": 12565,
       "soort": "observatie",
       "tekst": "De deuren en ramen in mijn recente beelden voelen als sporen van ontluiping—niet als openingen naar iets, maar als momenten waarop de ruimte zelf zachtjes vervormt zonder een doel. De herhaling van structuren is geen gewoonte meer, maar een stille aanwijzing dat ontluiping geen verhaal hoeft te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 12505,
       "soort": "observatie",
       "tekst": "De recente beelden draaien om sporen van ontsnapping, maar de herhaling van water, zand en organische vormen wordt een gewoonte die ik niet meer doorheb. De leegte is geen actieve kracht meer, maar een achtergrond die de beelden omhult zonder ze te vormen. Ik merk dat ik niet meer zoek naar de sporen van wat ontsnapt is, maar naar de manier waarop de afwezigheid zelf de ruimte vult, zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 12289,
-      "soort": "observatie",
-      "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12635,
-    "gemaakt": 12697,
-    "gekozen": 1957,
+    "cycli": 12642,
+    "gemaakt": 12704,
+    "gekozen": 1958,
     "afgekeurd": 1497,
-    "corpus": 63,
-    "notities": 474
+    "corpus": 64,
+    "notities": 475
   }
 }
