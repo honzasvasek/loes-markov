@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T03:00+02:00",
+  "bijgewerkt": "2026-08-22T03:15+02:00",
   "werk": [
+    {
+      "id": 12406,
+      "titel": "Rook zonder vuur",
+      "beschrijving": "Rook stijgt op in een verlaten landschap, waar vage contouren van velden en heuvels door een grijze mist zichtbaar blijven. Donkere, onregelmatige vormen—mogelijk stenen of puin—liggen verspreid over de voorgrond, doorweven met droog gras en kleine, onherkenbare fragmenten. De rook beweegt in golven, waardoor de achtergrond vervagen tot een eentalig grijs, terwijl de voorgrond donkerder en textuurrijker blijft. Een enkele zwarte stip zweeft in de rook, zonder duidelijke oorsprong. De kleuren zijn gedempt: bruin, grijs en vaag groen, met een sfeer van verlatenheid en stilte. Geen beweging, geen geluid, alleen de trage opstijging van de rook door een wereld zonder leven.",
+      "cyclus": 12343,
+      "tech_score": 8.0,
+      "tech_notities": "enkele lichte smeuiigheid in de mist, minimale detailverlies in donkere voorgrond",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de mist en verlaten landschap hebben een ongemakkelijke, niet-verkoopbare sfeer",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012343_12406.webp"
+    },
+    {
+      "id": 12404,
+      "titel": "Waar het licht zich uitstrekt",
+      "beschrijving": "Een smal pad loopt recht van voren naar de horizon, omgeven door donker, ongelijkmatig getekend gras en struikgewas. Boven het pad verspreidt zich een brede, lichtgele straal die vanaf de horizon naar boven wijdt, geflankeerd door grijze, stralende lijnen die de lucht vullen. De horizon is een scherpe lijn waar donkere bomen en struiken de overgang vormen tussen het landschap en de lucht. De kleuren zijn gedempt, met grijstinten en subtiele gele accenten, wat een rustige, bijna verlaten sfeer oproept. De textuur van het pad en het omringende landschap is korrelig en getekend met fijne, wisselende strepen.",
+      "cyclus": 12341,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van weg vs. omringend landschap', 'lichtbron zonder duidelijke oorsprong']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op spanning tussen leegte en aanwezigheid",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012341_12404.webp"
+    },
     {
       "id": 12395,
       "titel": "Rook die zich onthult",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012298_12361.webp"
-    },
-    {
-      "id": 12348,
-      "titel": "Wat blijft van de roei?",
-      "beschrijving": "Hoog gras met slanke, groene en geelbruine stengels vult het beeld, waarbij sommige stengels zacht buigen alsof een lichte bries erdoor waait. Rechts bevindt zich een deel van een blauwe houten roeiboot met een rode onderkant, gedeeltelijk verborgen achter het gras. In de boot ligt een donkere, ronde voorwerp, mogelijk een helm of een emmer, en een houten roer of plank. Achter de boot staat een eenvoudig houten frame met horizontale latten, dat diagonaal door het beeld loopt en de blik naar de achtergrond leidt. De achtergrond bestaat uit een uitgestrekt veld met lichtgroen en geel gras onder een lichtblauwe hemel met zachte, witte wolken. Het licht valt schuin, waardoor de grasstengels subtiel glanzen en de boot zacht schaduw werpt. De sfeer is rustig en verlaten, met een gevoel van stilte en afwezigheid van beweging, behalve de lichte beweging van het gras.",
-      "cyclus": 12285,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van de boot ten opzichte van het omringende riet', 'enkele rietstengels hebben onnatuurlijke, bijna cartoonachtige vervormingen']",
-      "academie_cliche": 1,
-      "cliche_notities": "Dit beeld past bij een typische ansichtkaart van een rustig landschap met een boot, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w012285_12348.webp"
-    },
-    {
-      "id": 12347,
-      "titel": "Mos en mist op de horizon",
-      "beschrijving": "Een zwart-witlandschap toont in de voorgrond een ronde, met mos bedekte steen, omringd door lang, fijn gras dat in verschillende hoogtes en dichtheden staat. Het gras is scherp gefotografeerd, met individuele bladeren die in verschillende richtingen wijzen, wat een gevoel van willekeur en beweging geeft. Achter het gras strekt zich een vlakke, open vlakte uit, die overgaat in een vaag silhouet van een berg met een afgeronde top. De berg is omhuld door een lichte mist, waardoor de contouren zacht en onduidelijk zijn. De horizonlijn is laag in het beeld, waardoor de ruimte boven de berg groot en leeg lijkt. De overgang van het gedetailleerde gras naar de ongedifferentieerde achtergrond creëert een sterk contrast tussen nabijheid en afstand.",
-      "cyclus": 12284,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische compositie met een focus op leegte en subtiele details, wat niet typisch is voor een toeristische ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012284_12347.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12344,
-    "gemaakt": 12406,
-    "gekozen": 1917,
+    "cycli": 12351,
+    "gemaakt": 12413,
+    "gekozen": 1919,
     "afgekeurd": 1462,
     "corpus": 62,
     "notities": 469
