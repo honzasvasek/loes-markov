@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T12:30+02:00",
+  "bijgewerkt": "2026-08-22T12:45+02:00",
   "werk": [
+    {
+      "id": 12662,
+      "titel": "Rook die liegen leert",
+      "beschrijving": "Een blauwe deur staat halfopen in een groene muur, met een donkere, onduidelijke ruimte erachter. Rook stijgt in slangen van de deur af en glijdt naar rechts. Links van de deur staat een metalen emmer met een schep erin, naast een kleine, glanzende schaal en verspreide voorwerpen op de grond. Rechts leunt een schep tegen de muur, met gras dat de hoek van het beeld binnenkruipt. De deur heeft een scheur die diagonaal loopt, met losse stukken verf die het blauw onderbreken. De muur toont sporen van slijtage, met plekken waar de verf af is en het onderliggende materiaal zichtbaar is. Het licht valt schuin van linksboven, waardoor schaduwen de diepte van de scène benadrukken.",
+      "cyclus": 12599,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deurkozijnen', 'lichte wazigheid in de schaduwpartijen van de emmer']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, denkbeeldige sfeer die boven een ansichtkaart uitstijgt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012599_12662.webp"
+    },
+    {
+      "id": 12661,
+      "titel": "Waar leidt die ladder naartoe?",
+      "beschrijving": "Een houten ladder met leuningen loopt schuin omhoog vanaf een steenwanden gebouw met een getegeld dak, waarbij de treden overgaan in een rotsachtige wand. Rook met een blauwe gloed stijgt op bij de bovenste trede en verdwijnt in een vaag, wazig landschap met zandduinen en een lichtgekleurde horizon. Onderaan de ladder staat een kleine, verweerde hut met een klein raampje en een donkere ingang, omringd door verspreide voorwerpen zoals een emmer, een schep en wat groen. De achtergrond bestaat uit zachte, golvende lijnen die een woestijnsferisch landschap suggereren, met subtiele schaduwvalsen die diepte geven. De kleuren zijn overwegend beige, grijs en bruin, met de blauwe rook als enige kleuraccent. De compositie is verticaal opgebouwd, met de ladder als leidende lijn die het oog naar boven trekt, terwijl de hut en de voorwerpen eronder een zwaartepunt vormen in het onderste deel van het beeld.",
+      "cyclus": 12598,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012598_12661.webp"
+    },
     {
       "id": 12652,
       "titel": "Ribben in de vloeistof",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012522_12585.webp"
-    },
-    {
-      "id": 12583,
-      "titel": "Zand dat bloedt in golven",
-      "beschrijving": "Een lichtscharlaken rivier van zand snijdt diagonaal door een woestijnlandschap, omzoomd door donkerblauwe en witte golven die de stroming nabootsen. Aan weerskanten liggen onregelmatige vlekken bruin en beige zand, met subtiele penseelstreken die textuur suggereren. Verspreid over het tafereel liggen kleine, onduidelijke voorwerpen: donkere klompen, groene bladeren en een paar oranje-vormen die op vruchten lijken. Bovenaan loopt een rechte, grijze lijn parallel aan de rivier, met daarboven een netwerk van dunne, blauwe lijnen die een schematisch patroon vormen. De compositie straalt een rustige, bijna meditatieve sfeer uit, met de rivier als rustpunt in een wereld van zachte, vloeiende vormen.",
-      "cyclus": 12520,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012520_12583.webp"
-    },
-    {
-      "id": 12575,
-      "titel": "Botsing van vlakken en golven",
-      "beschrijving": "Een rechthoekig blauw paneel ligt schuin op een roodbruine achtergrond. Op het paneel is een donkerblauwe bergsilhouet geschilderd met horizontale penseelstreken die water of lucht suggereren. Daaronder zweeft een zwart silhouet van een boot met kleine rechthoekige openingen. Onder het paneel bevinden zich twee identieke zwarte boot-silhouetten op de roodbruine ondergrond, eveneens met rechthoekige details. De compositie combineert geometrische vormen met gestileerde natuurmotieven, waarbij de kleuren blauw en roodbruin een scherp contrast vormen. De textuur van het paneel toont subtiele korreligheid, alsof het van hout of gepatineerd metaal is.",
-      "cyclus": 12512,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; textuur van het doek en de achtergrond zijn consistent en zonder smeuiigheid of herhaalpatronen",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie met een focus op vorm en kleur in plaats van een iconisch onderwerp, wat het geen toeristische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012512_12575.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12599,
-    "gemaakt": 12661,
-    "gekozen": 1952,
+    "cycli": 12605,
+    "gemaakt": 12668,
+    "gekozen": 1954,
     "afgekeurd": 1496,
     "corpus": 63,
     "notities": 474
