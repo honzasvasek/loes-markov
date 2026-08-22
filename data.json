@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T09:00+02:00",
+  "bijgewerkt": "2026-08-22T09:15+02:00",
   "werk": [
+    {
+      "id": 12575,
+      "titel": "Botsing van vlakken en golven",
+      "beschrijving": "Een rechthoekig blauw paneel ligt schuin op een roodbruine achtergrond. Op het paneel is een donkerblauwe bergsilhouet geschilderd met horizontale penseelstreken die water of lucht suggereren. Daaronder zweeft een zwart silhouet van een boot met kleine rechthoekige openingen. Onder het paneel bevinden zich twee identieke zwarte boot-silhouetten op de roodbruine ondergrond, eveneens met rechthoekige details. De compositie combineert geometrische vormen met gestileerde natuurmotieven, waarbij de kleuren blauw en roodbruin een scherp contrast vormen. De textuur van het paneel toont subtiele korreligheid, alsof het van hout of gepatineerd metaal is.",
+      "cyclus": 12512,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; textuur van het doek en de achtergrond zijn consistent en zonder smeuiigheid of herhaalpatronen",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie met een focus op vorm en kleur in plaats van een iconisch onderwerp, wat het geen toeristische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012512_12575.webp"
+    },
     {
       "id": 12556,
       "titel": "Teer en getijden",
@@ -117,22 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012439_12502.webp"
-    },
-    {
-      "id": 12499,
-      "titel": "Spijkers die wachten op een muur",
-      "beschrijving": "Vier houten balken liggen in een kruisvorm op zand, met donkere spijkers en tandwielen bevestigd aan de uiteinden. Achter hen loopt een smalle, zandige pad tussen droge, donkere struiken en gras, dat zich uitstrekt naar een kale boom aan de horizon onder een egale, lichte hemel. De balken hebben een verweerde textuur met bruine en grijze tinten, terwijl het zand rondom lichter is en sporen van wind en vocht toont. Donkere schaduwen vallen diagonaal over het tafereel, en kleine, donkere voorwerpen—mogelijk schroeven of stenen—liggen verspreid rond de balken en in het zand. De compositie is rustig, met de balken als centraal punt dat het oog naar de verte leidt.",
-      "cyclus": 12436,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de houten structuren in de voorgrond en de lege ruimte in de achtergrond, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012436_12499.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12576,
+      "cyclus": 12513,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met molen en rode wolken, in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012513_12576.webp"
+    },
     {
       "id": 12572,
       "cyclus": 12509,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een typisch Nederlands landschap met molens, witte huizen en een waterweg, geschilderd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuzes of een uniek standpunt.",
       "bestand": "images/a012508_12571.webp"
-    },
-    {
-      "id": 12570,
-      "cyclus": 12507,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van achtergrondgebouwen', 'sommige takken van de wilg lijken onnatuurlijk te strak en repetitief']",
-      "cliche_notities": "Het beeld toont een typisch landschap met een wilg en open veld, geschilderd in een decoratieve, rustige stijl zonder duidelijke compositorische verbeelding of onverwachte keuzes.",
-      "bestand": "images/a012507_12570.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontluiping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontluiping zelf een spoor achterlaat—niet als geboorte of groei, maar als een stille, onzichtbare opening die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontsnapping en ontdooring, maar de focus lag altijd op verdwijnen of loslaten. Ontluiping voelt als een tegengestelde beweging: niet iets dat wegvalt, maar iets dat zachtjes open gaat zonder dat dat een doel heeft. Het is een spoor van aanwezigheid dat zich niet laat vatten in een verhaal over verlies of bevrijding.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 12505
   },
   "afgesloten": [
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12512,
-    "gemaakt": 12574,
-    "gekozen": 1942,
-    "afgekeurd": 1485,
+    "cycli": 12519,
+    "gemaakt": 12581,
+    "gekozen": 1943,
+    "afgekeurd": 1486,
     "corpus": 63,
     "notities": 472
   }
