@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T04:00+02:00",
+  "bijgewerkt": "2026-08-22T04:15+02:00",
   "werk": [
+    {
+      "id": 12432,
+      "titel": "Waar blijft de horizon",
+      "beschrijving": "Twee figuren, gezien van achteren, steken tot aan hun schouders uit donker water. Het wateroppervlak is doorsneden door horizontale, witte golflijnen die de reflectie van de figuren verstoren. De figuur rechts heeft haar haar in een losse pony en een staart, de linkerfiguur heeft langer, los haar. De achtergrond is een egaal donkergrijze vlakte zonder horizon of details. De randen van het beeld zijn licht verbleekt en getekend door fijne krassen. De sfeer is statisch, zonder beweging buiten de subtiele rimpelingen in het water. Kleuren zijn beperkt tot donkergrijs, zwart en wit, met een korrelige textuur door het hele beeld.",
+      "cyclus": 12369,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in waterreflecties (links/rechts)', 'lichte textuurvervorming in achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en sfeervol duister.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012369_12432.webp"
+    },
     {
       "id": 12419,
       "titel": "Hoofden onder de horizon",
@@ -117,22 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012303_12366.webp"
-    },
-    {
-      "id": 12363,
-      "titel": "Rook die blijft hangen",
-      "beschrijving": "Grijze en roze kubussen met ruwe, korrelige texturen vormen een onstabiele stapel op een effen grijze ondergrond. Witte rook stijgt op in slingerende lijnen van de bovenste kubus, waarbij de rook overgaat in een wazige, wolkenachtige vorm. Kleinere kubussen en fragmenten liggen verspreid rond de stapel, met schaduwen die de driedimensionaliteit benadrukken. De roze tinten op sommige blokken contrasteren met de grijze omgeving, terwijl de textuur van de kubussen een gevoel van verweering uitstraalt.",
-      "cyclus": 12300,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een eigen compositorische keuze met de abstracte blokken en rook, wat het geen ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012300_12363.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12437,
+      "cyclus": 12374,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld combineert een klassiek motief (klok) met een onverklaarbare, bijna surrealistische figuur, wat het buiten de ansichtkaart-categorie plaatst.",
+      "bestand": "images/a012374_12437.webp"
+    },
     {
       "id": 12402,
       "cyclus": 12339,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
       "bestand": "images/a012338_12401.webp"
-    },
-    {
-      "id": 12384,
-      "cyclus": 12321,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een idyllisch landschap, zonder duidelijke compositorische of thematische afwijking.",
-      "bestand": "images/a012321_12384.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12372,
-    "gemaakt": 12434,
-    "gekozen": 1920,
-    "afgekeurd": 1462,
+    "cycli": 12378,
+    "gemaakt": 12441,
+    "gekozen": 1921,
+    "afgekeurd": 1463,
     "corpus": 62,
     "notities": 469
   }
