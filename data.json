@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-23T01:30+02:00",
+  "bijgewerkt": "2026-08-23T01:45+02:00",
   "werk": [
+    {
+      "id": 13024,
+      "titel": "Gras dat de grens bewaakt",
+      "beschrijving": "Een smalle, grasbegroeide dijk loopt diagonaal door het midden van het beeld, geflankeerd door water aan beide kanten. Het gras is gedetailleerd getekend met lange, slanke bladeren en waterelementen die zacht rimpelen. In de verte loopt een boomlijn langs de horizon, met enkele solitaire bomen die zich aftekenen tegen een egale, lichte hemel. De sfeer is kalm en verlaten, met een subtiele spanning tussen het vaste land en het vloeibare water. De textuur van het gras en het water contrasteert met de gladde, lege ruimte van de hemel.",
+      "cyclus": 12961,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele onconsistentie in textuur van water en gras', 'lichte wazigheid in verre horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op leegte en spanning tussen vormen.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012961_13024.webp"
+    },
+    {
+      "id": 13019,
+      "titel": "Waar blijft de horizon?",
+      "beschrijving": "Zwart-wit beeld met een centrale, donkere boom met uitgespreide takken en naaldachtige bladeren. Boven de boom drijven drie witte, gestileerde wolken met zwarte contouren en subtiel grijze schaduwen. De achtergrond bestaat uit een mozaïek van textuurrijke vlakken in grijstinten, met verspreide stippen en vage patronen. Onder de boom lopen donkere, onregelmatige vormen die heuvels of rotsen suggereren, met witte ruimtes ertussen. Verspreide zwarte stippen en streepjes imiteren grind of kleine stenen op de grond. De compositie is verticaal opgebouwd, met de boom alsanker tussen hemel en aarde. De sfeer is statisch, met een contrast tussen de scherpe lijnen van de boom en de zachte vormen van de wolken.",
+      "cyclus": 12956,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van achtergrondpanelen', 'lichte vervorming aan randen van wolken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuzes zijn bewust asymmetrisch en niet-bevestigend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012956_13019.webp"
+    },
+    {
+      "id": 13014,
+      "titel": "Vezels in de stilte",
+      "beschrijving": "Donkere, verticale metalen latten vormen een raster dat een verdonkerd, wazig oppervlak omhult. Daarachter lopen honderden dunne, witte vezels in een chaotisch patroon, soms parallel, soms in scherpe hoeken door elkaar, alsof ze door een onzichtbare kracht getrokken zijn. Het oppervlak is bedekt met stof, kleine vlekken en sporen van vocht, terwijl de vezels glimmen in het gedempte licht dat van rechtsboven komt. Donkere, ronde schroeven bevestigen de latten aan een onzichtbaar kader, en aan de randen is een geelbruine verkleuring zichtbaar. De sfeer is statisch, alsof de tijd stilstaat in een verlaten ruimte waar niets meer beweegt behalve het stof dat langzaam door de lucht zweeft.",
+      "cyclus": 12951,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte halo rond de verticale metalen staven', 'enkele draden lijken onnatuurlijk scherp tegen de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een eigen, ongemakkelijke sfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012951_13014.webp"
+    },
     {
       "id": 13007,
       "titel": "Donkere sporen op water",
@@ -91,45 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012918_12981.webp"
-    },
-    {
-      "id": 12960,
-      "titel": "Vleugels boven de rand",
-      "beschrijving": "Een vogel met gespreide vleugels zweeft boven donkere, ruwe blokken die in een stapel zijn gelegd aan de rand van water. De vogel heeft een lichtgrijze buik, bruine vleugels met donkere uiteinden en een oranjeachtige snavel en poten. Onder de vogel loopt een onregelmatige, witte lijn die de overgang vormt tussen het water en een egale, lichtgrijze achtergrond. Het water heeft zachte golven en reflecteert het licht vaag. Op de blokken liggen kleine stenen en fragmenten van wit materiaal. De compositie is verticaal opgebouwd, met de vogel centraal in de bovenste helft en de blokken in de onderste helft van het beeld. De sfeer is rustig en open, met een focus op de beweging van de vogel en de textuur van de blokken.",
-      "cyclus": 12897,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van de rotsen: sommige delen zijn scherp gedetailleerd, andere delen lijken wazig of overmatig glad.', 'De overgang tussen de vogel en de achtergrond is iets te scherp, wat een kunstmatige halo-effect veroorzaakt rond de vleugels.']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen typisch toeristisch onderwerp en toont een dynamisch moment (de vogel in vlucht) met een ongewone compositie (de gescheurde papierrand), wat het geen ansichtkaart-karakter geeft.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w012897_12960.webp"
-    },
-    {
-      "id": 12951,
-      "titel": "Roodbruin papier met drijvende eieren",
-      "beschrijving": "Een kronkelende, lichtgekleurde stroom snijdt door een roodbruin landschap, omringd door donkerder, onregelmatige oevers met uitsteeksels en holtes. Langs de randen staan slanke, donkere grassprietjes en kleine, bolvormige structuren die lijken op druppels of eieren, verspreid over het oppervlak en in de stroom. De stroom zelf toont fijne, parallelle lijnen die beweging suggereren, met hier en daar een donkere vlek of bolvormige vorm die drijft. De achtergrond vervaagt in een egaal roodbruin, zonder duidelijke horizon of details. De hele scène heeft een monochromatisch karakter, met subtiele variaties in tinten rood, bruin en beige, en een textuur die aan verwaterd papier of verweerd hout doet denken. De compositie is dynamisch, met de stroom als leidende lijn die het oog door het beeld trekt, terwijl de oevers en details een gevoel van verwaarlozing en natuurlijke ontleding uitstralen.",
-      "cyclus": 12888,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op subtiele vervorming en leegte, niet op een bevestigend verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012888_12951.webp"
-    },
-    {
-      "id": 12949,
-      "titel": "Zwaartekracht op zoek",
-      "beschrijving": "Drie stenen bevinden zich in een verticale lijn boven een natte zandvlakte. De bovenste steen is donkergrijs met witte aderen en zweeft op ongeveer twintig centimeter hoogte. De middelste steen is donkerbruin, glanzend nat en hangt aan een dun waterstraaltje dat vanuit een plas omhoog schiet. Onderin ligt een lichtere, onregelmatige steen in het water, omringd door concentrische ringen van rimpelend water. Het zand is bruin met verspreide kleine steentjes en korrels, en de achtergrond vervaagt tot een onscherpe, donkerblauwe horizon. Waterdruppels vliegen door de lucht en reflecteren het licht.",
-      "cyclus": 12886,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een dynamisch moment met een ongemakkelijke schoonheid.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012886_12949.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12955,
-    "gemaakt": 13017,
-    "gekozen": 2009,
+    "cycli": 12962,
+    "gemaakt": 13024,
+    "gekozen": 2012,
     "afgekeurd": 1528,
     "corpus": 63,
     "notities": 480
