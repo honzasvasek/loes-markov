@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T13:15+02:00",
+  "bijgewerkt": "2026-08-22T13:30+02:00",
   "werk": [
+    {
+      "id": 12677,
+      "titel": "Negen stappen tussen schaduw en licht",
+      "beschrijving": "Twee houten ladders staan parallel tegen een witte achtergrond, elk met negen horizontale sporten en verticale stijlen die licht geschrabbelde textuur vertonen. De ladder aan de rechterkant is donkerder getekend, met diepere schaduwen en een iets ruwere uitstraling dan de lichtere, zachter getekende linkerladder. Beide werpen een subtiele schaduw naar linksboven, wat een gevoel van diepte geeft. De compositie is symmetrisch en minimalistisch, met veel witte ruimte rond de ladders, waardoor de focus ligt op de subtiele verschillen in textuur en schaduwval tussen de twee structuren.",
+      "cyclus": 12614,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De ladders zijn geen iconisch onderwerp en de compositie heeft een bewuste, niet-decoratieve spanning tussen de twee structuren.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012614_12677.webp"
+    },
     {
       "id": 12675,
       "titel": "Sporen van een onzichtbare storm",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012549_12612.webp"
-    },
-    {
-      "id": 12597,
-      "titel": "Waar blijft de tas?",
-      "beschrijving": "Een rood getint silhouet van een figuur loopt weg van de kijker, vaag en onscherp, met een tas in de rechterhand. De achtergrond is een egaal roze-rood, zonder duidelijke horizon of details. Onderaan het beeld zijn dunne, donkere grassprietjes zichtbaar, scherp en fijn getekend tegen de zachte achtergrond. De figuur heeft geen gezicht of handen te zien, alleen een vaag omtrek van schouders, armen en benen. De sfeer is stil en leeg, met een gevoel van verdwijnen of vertrekken.",
-      "cyclus": 12534,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een vaag silhouet met subtiele details in de voorgrond.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012534_12597.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12620,
-    "gemaakt": 12682,
-    "gekozen": 1956,
+    "cycli": 12627,
+    "gemaakt": 12689,
+    "gekozen": 1957,
     "afgekeurd": 1496,
-    "corpus": 64,
+    "corpus": 63,
     "notities": 474
   }
 }
