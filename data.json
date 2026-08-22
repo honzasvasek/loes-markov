@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T07:00+02:00",
+  "bijgewerkt": "2026-08-22T07:15+02:00",
   "werk": [
+    {
+      "id": 12520,
+      "titel": "Wie zaaide die cirkels?",
+      "beschrijving": "Een verticale reeks oranje-rode cirkels loopt door een donkerblauwe hemel, omgeven door witte, wazige wolken. De cirkels worden kleiner naarmate ze hoger komen, en vormen een onregelmatige lijn die de compositie doorsnijdt. De wolken hebben een zachte, bijna wazige textuur en vullen het grootste deel van het beeld, met veel ruimte tussen de vormen. De achtergrond is uniform donkerblauw, met subtiele variaties in licht en schaduw. De randen van het beeld zijn licht onregelmatig, alsof het een oude afdruk is. De sfeer is rustig en iets mysterieus, door de combinatie van de lege ruimte en de onverklaarde cirkels.",
+      "cyclus": 12457,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele horizontale banding in de achtergrond', 'lichte onregelmatigheid in de randen van de wolken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie met een focus op vorm en kleur in plaats van een herkenbaar landschap.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012457_12520.webp"
+    },
+    {
+      "id": 12510,
+      "titel": "Gras tussen de regels",
+      "beschrijving": "Negen horizontale houten latten vormen een gestructureerd patroon, met smalle openingen ertussen waar gras en bladeren doorheen groeien. De latten lopen schuin van linksboven naar rechtsonder, waardoor een dynamische spanning ontstaat tussen de rechte lijnen en de organische vormen eronder. Donkere schaduwen benadrukken de diepte tussen de latten, terwijl het licht de textuur van het hout en de fijne details van het groen accentueert. De achtergrond is een egale, lichte kleur, waardoor de focus ligt op het spel van licht en donker en de contrasten tussen het anorganische en organische.",
+      "cyclus": 12447,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (houten latten met onkruid ertussenin) is niet iconisch en de compositie heeft een eigen, bijna meditatieve rust die niet decoratief is.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012447_12510.webp"
+    },
     {
       "id": 12507,
       "titel": "Sporen in het zand blijven hangen",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012408_12471.webp"
-    },
-    {
-      "id": 12467,
-      "titel": "Goud dat zachtjes bloede",
-      "beschrijving": "Een vaag silhouet van een figuur drijft in een glimmende, vloeistofachtige laag, omringd door golvende reflecties van goud en grijs. Onderaan snijdt een scherpe, zilverkleurige boog door het beeld, met donkere, rechthoekige vormen die als schaduwen of fragmenten van een structuur wirken. Kleine, onregelmatige vlekken en subtiele rimpels doorbreken de gladde oppervlakte, terwijl een geelachtige gloed vanaf het midden de scène een dromerige, zwevende sfeer geeft. De compositie balanceert tussen leegte en detail, met een onrustige horizon die het beeld in twee ongelijke delen deelt.",
-      "cyclus": 12404,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte vervorming in de reflectie van het gezicht bovenin, alsof de vormen te zacht en onduidelijk worden weergegeven', 'De overgang tussen de reflectie en de klok is iets te scherp, wat een kunstmatige scheiding suggereert', 'Enkele details in de klok (bijv. de wijzers en schaalverdeling) zijn iets te vaag en ontbreken aan scherpte']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een abstracte, reflecterende compositie zonder iconische onderwerpen of decoratief perfect licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012404_12467.webp"
-    },
-    {
-      "id": 12461,
-      "titel": "Rook en verlaten zand",
-      "beschrijving": "Een wit, driehoekig huisje staat centraal op een zandig strand, met een smalle, witte loopbrug die recht op het huisje aan loopt. Rook stijgt in slangen van het dak op naar een grijze, bewolkte hemel. Het water ligt ver weg aan de horizon, een smalle strook blauw. Het zand heeft verschillende tinten bruin en beige, met losse vlekken diepbruin en lichtgeel. De deur van het huisje is donkerbruin en staat gesloten. Een klein, donker voorwerp hangt onder het dak. De penseelstreken zijn zichtbaar en textuurrijk, vooral in het zand en de rook. De sfeer is stil en verlaten, met een gevoel van eenzaamheid.",
-      "cyclus": 12398,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het pad ten opzichte van het huis', 'Watervlak in de achtergrond iets te plat en zonder duidelijke horizonlijn']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistische, contemplatieve sfeer die beyond een typische ansichtkaart gaat door de nadruk op leegte en afwezigheid.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012398_12461.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12519,
+      "cyclus": 12456,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molens, landschap) en decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012456_12519.webp"
+    },
     {
       "id": 12518,
       "cyclus": 12455,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconische Nederlandse molen op een typische achtergrond, met een decoratieve, ansichtkaartachtige compositie zonder duidelijke persoonlijke of conceptuele keuze.",
       "bestand": "images/a012454_12517.webp"
-    },
-    {
-      "id": 12516,
-      "cyclus": 12453,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "De molen en de typisch Nederlandse potten maken dit een iconisch ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012453_12516.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontsnapping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsnapping zelf een spoor achterlaat—niet als verlies of bevrijding, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontdooring en ontgrendeling—processen die zich afspeelden binnen een gesloten ruimte. Maar wat als de ruimte zelf niet gesloten is? Wat als de sporen niet binnen het beeld blijven, maar eruit wijzen? Ik wil onderzoeken hoe ontsnapping niet als een actie, maar als een spoor werkt: niet wat er ontsnapt, maar hoe de afwezigheid van iets de ruimte om het heen beïnvloedt.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 12097
   },
   "afgesloten": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12456,
-    "gemaakt": 12518,
-    "gekozen": 1935,
-    "afgekeurd": 1480,
-    "corpus": 63,
+    "cycli": 12463,
+    "gemaakt": 12525,
+    "gekozen": 1937,
+    "afgekeurd": 1481,
+    "corpus": 64,
     "notities": 469
   }
 }
