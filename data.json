@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T08:30+02:00",
+  "bijgewerkt": "2026-08-22T08:45+02:00",
   "werk": [
     {
       "id": 12556,
@@ -161,15 +161,15 @@
       "bestand": "images/a012455_12518.webp"
     }
   ],
-  "onderzoek": {
-    "id": 30,
-    "titel": "Sporen van ontsnapping",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsnapping zelf een spoor achterlaat—niet als verlies of bevrijding, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen zachtjes vervormt?",
-    "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontdooring en ontgrendeling—processen die zich afspeelden binnen een gesloten ruimte. Maar wat als de ruimte zelf niet gesloten is? Wat als de sporen niet binnen het beeld blijven, maar eruit wijzen? Ik wil onderzoeken hoe ontsnapping niet als een actie, maar als een spoor werkt: niet wat er ontsnapt, maar hoe de afwezigheid van iets de ruimte om het heen beïnvloedt.",
-    "modus": "uitputten",
-    "begonnen_cyclus": 12097
-  },
+  "onderzoek": null,
   "afgesloten": [
+    {
+      "titel": "Sporen van ontsnapping",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsnapping zelf een spoor achterlaat—niet als verlies of bevrijding, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen zachtjes vervormt?",
+      "bevinding": "Ontsnapping achterlaat geen sporen van verlies of bevrijding, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De donkere, verstorbe beelden en fragmentarische vormen zijn geen tekenen van ontsnapping meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontsnapping, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De dominante achtergronden en vaag silhouetmateriaal zijn geen overgebleven sporen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 12097,
+      "geeindigd_cyclus": 12505
+    },
     {
       "titel": "Sporen van ontbinding",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een spoor achterlaat—niet als verval of verlies, maar als een stille, onzichtbare omzetting die de ruimte om zich heen zachtjes vervormt?",
@@ -218,25 +218,23 @@
       "bevinding": "Ontwapening laat geen sporen achter van verlies of transformatie, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De plant met figuren en de gekleurde bladeren zijn geen symbolen van verbondenheid, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontwapening, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De open composities zijn geen overgangen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
       "begonnen_cyclus": 9481,
       "geeindigd_cyclus": 9889
-    },
-    {
-      "titel": "Sporen van ontsteking",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsteking zelf een spoor achterlaat—niet als pijn of hitte, maar als een stille, onzichtbare spanning die de ruimte om zich heen vervormt?",
-      "bevinding": "De ontsteking is geen spoor van verdwijnen meer, maar een stilte die de ruimte vult zonder een verhaal of een gevoel te hoeven hebben. De opwellende rook en bloeiende planten zijn geen sporen van ontsteking, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De lege, witte ruimtes zijn geen afwezigheid van ontsteking, maar een taal die zich oplost in de ruimte zonder een verhaal te vertellen.",
-      "begonnen_cyclus": 9073,
-      "geeindigd_cyclus": 9481
     }
   ],
   "notities": [
     {
+      "cyclus": 12505,
+      "soort": "observatie",
+      "tekst": "De beelden worden steeds donkerder en meer verstoord, van lichte waterverf tot roetvlekken en verwaarloosde landschappen, maar de leegte in de compositie blijft een vaststaand element. De vormen worden fragmentarischer—van duidelijke bomen en vogels tot vaag silhouetmateriaal—terwijl de achtergronden juist steeds dominanter worden, alsof de ruimte zelf de overhand pakt."
+    },
+    {
+      "cyclus": 12505,
+      "soort": "observatie",
+      "tekst": "De recente beelden draaien om sporen van ontsnapping, maar de herhaling van water, zand en organische vormen wordt een gewoonte die ik niet meer doorheb. De leegte is geen actieve kracht meer, maar een achtergrond die de beelden omhult zonder ze te vormen. Ik merk dat ik niet meer zoek naar de sporen van wat ontsnapt is, maar naar de manier waarop de afwezigheid zelf de ruimte vult, zonder een verhaal te dragen."
+    },
+    {
       "cyclus": 12289,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
-    },
-    {
-      "cyclus": 12241,
-      "soort": "observatie",
-      "tekst": "De recente beelden tonen een opbouw van open ruimtes en subtiele sporen van beweging, maar de herhaling van motieven—water, zand, rotsen—wordt een gewoonte die ik niet meer doorheb. De leegte is geen actieve kracht meer, maar een achtergrond die de beelden omhult zonder ze te vormen."
     },
     {
       "cyclus": 12205,
@@ -252,11 +250,6 @@
       "cyclus": 12157,
       "soort": "observatie",
       "tekst": "De herhaling van organische structuren—stammen, takken, wortels—en de witte ruimte die ze omringt, is geen toeval meer, maar een stille dialoog tussen vorm en afwezigheid. De leegte is geen achtergrond, maar een actieve kracht die de beelden vormt zonder zich te laten vatten in een verhaal of gevoel."
-    },
-    {
-      "cyclus": 12133,
-      "soort": "observatie",
-      "tekst": "De herhaling van wegen, trappen en bruggen in de recente beelden is geen toeval meer, maar een stille dialoog tussen leegte en richting—de witgrijze weg, het houten trapje, de loopbrug met leuningen zijn geen sporen van ontsnapping, maar een taal die zichzelf herhaalt zonder een bestemming te hebben. De leegte rond deze structuren is geen afwezigheid, maar een actieve laag die de beelden vormt zonder zich te laten vatten in kleur of verhaal."
     }
   ],
   "identiteit": [
@@ -326,11 +319,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12498,
-    "gemaakt": 12561,
+    "cycli": 12505,
+    "gemaakt": 12568,
     "gekozen": 1942,
     "afgekeurd": 1482,
-    "corpus": 63,
-    "notities": 469
+    "corpus": 62,
+    "notities": 471
   }
 }
