@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T12:00+02:00",
+  "bijgewerkt": "2026-08-22T12:15+02:00",
   "werk": [
+    {
+      "id": 12652,
+      "titel": "Ribben in de vloeistof",
+      "beschrijving": "Een ribkooi van houten latten drijft in een donkerbruine vloeistof, met een oranje-gouden horizon aan de bovenkant waar een vaag portret van een gezicht in een kader zweeft. De ribben zijn onregelmatig gevormd, met scherpe uitsteeksels en kleine metalen onderdelen die als spijkers of schroeven fungeren. Een golvende, oranje reflectie loopt van de horizon naar de ribkooi, alsof het water een spiegel is voor het licht. De achtergrond bestaat uit een egaal bruin vlak met subtiele cirkelvormige penseelstreken, terwijl de bovenrand een gescheurde, witte textuur heeft die overgang vormt naar de oranje hemel met zachte, wolkachtige vormen. De sfeer is stil en iets ongemakkelijks, door de combinatie van organische en industriële elementen en de afwezigheid van beweging, behalve de subtiele golf in de vloeistof.",
+      "cyclus": 12589,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de ribbenstructuur: sommige ribben lopen niet logisch door of hebben onverklaarde onderbrekingen', 'De horizonlijn in de achtergrond is iets schuin, wat een onstabiel gevoel geeft aan de compositie']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een unieke, verbeeldingrijke compositie met een ribbenkast als centraal motief, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012589_12652.webp"
+    },
+    {
+      "id": 12645,
+      "titel": "Melk over verkoolde vingers",
+      "beschrijving": "Een verbrande hand, donker en verkoolde textuur, ligt open op een ondergrond van as en koolstofresten. Een druppel melkwitte, viskeuze vloeistof glijdt over de vingers, met een glanzende, bijna levendige glans die scherp contrasteert met de doodse omgeving. De achtergrond toont een verweerde, roetzwarte muur met plekken verbleekte verf en kleine gaten. Verspreid liggen kleine stenen, kooltjes en witte korrels, mogelijk zout of as, door het zwart verspreid. De compositie is statisch, maar de vloeistof suggereert beweging, een laatste spoor van iets dat net verdwenen is. Geen sporen van hout of gras, geen regen—alleen de stilte na de ontbinding, met de vloeistof als enig bewijs van wat er ooit was.",
+      "cyclus": 12582,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de hand en de vloeistof, wat het geen ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012582_12645.webp"
+    },
     {
       "id": 12639,
       "titel": "Verf die leert stromen",
@@ -104,35 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012512_12575.webp"
-    },
-    {
-      "id": 12556,
-      "titel": "Teer en getijden",
-      "beschrijving": "Een smalle, donkere spoor van wat lijkt op teer of verbrand afval loopt kronkelend over het natte zand van een strand, van de voorgrond naar de horizon. Rond het spoor liggen verspreid donkere klonten, kleine stenen en wat afval, waaronder een wit stukje plastic en een schelp. Het zand is fijn en glad, met sporen van water die recent over de kust is gespoeld. Rechts van het spoor golft de zee zachtjes, met kleine, witte golven die het strand raken. Ver in de verte is een houten pier zichtbaar, met pilaren die in het water staan. De lucht is helder en lichtgrijs, zonder wolken. De kleuren zijn gedempt: het zand is lichtbruin, het water grijsblauw en het spoor zwart. De compositie is diagonaal, met het spoor dat de blik naar de horizon leidt. Er is geen beweging, behalve de lichte beweging van het water. De sfeer is rustig en verlaten, met een zweem van verwaarlozing door het afval en het donkere spoor.",
-      "cyclus": 12493,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte onscherpte in achtergrond (pier) door diepte van scherpstelling', 'kleine inconsistentie in textuur zand nabij waterlijn']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie richt zich op een ongemakkelijk spoor in het zand, wat een eigen standpunt inneemt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012493_12556.webp"
-    },
-    {
-      "id": 12542,
-      "titel": "Wit op grind, korrels van twijfel",
-      "beschrijving": "Twaalf witte, rechthoekige vormen vormen een raster van drie kolommen en vier rijen op een donkerblauwe, korrelige achtergrond die zand of grind imiteert. De witte vlakken zijn scherp afgetekend en vullen het midden van het beeld, terwijl de donkere ruimtes ertussen en eromheen een onregelmatige, bijna organische textuur hebben. Kleurrijke korrels—bruin, grijs en af en toe een flits van blauw—zitten verspreid in de donkere zones, met name langs de randen van de witte vormen, waar ze een subtiele overgang creëren tussen licht en donker. De compositie is strak en symmetrisch, maar de textuur van de achtergrond voegt een element van willekeur en beweging toe aan het beeld.",
-      "cyclus": 12479,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012479_12542.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12649,
+      "cyclus": 12586,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties op water (enkele plekken te scherp voor de schaal)', 'lichte vervorming in achtergrondbomen (structuur te vaag voor realistisch perspectief)']",
+      "cliche_notities": "Dit is een typisch landschapsmotief met water, riet en een serene sfeer, geschilderd in een realistische stijl zonder duidelijke compositorische verrassingen of persoonlijk standpunt.",
+      "bestand": "images/a012586_12649.webp"
+    },
+    {
+      "id": 12648,
+      "cyclus": 12585,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische strandlandschap met perfecte horizon, heldere kleuren en gebrek aan persoonlijke compositorische keuzes.",
+      "bestand": "images/a012585_12648.webp"
+    },
     {
       "id": 12644,
       "cyclus": 12581,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met water en riet, de decoratieve belichting en het ontbreken van een duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a012581_12644.webp"
-    },
-    {
-      "id": 12643,
-      "cyclus": 12580,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflecties op water (sommige bloemen hebben geen spiegelbeeld)', 'lichte wazigheid in verre achtergrond']",
-      "cliche_notities": "Typisch landschap met bloemen en water onder een heldere hemel, zonder onverwachte compositorische keuzes",
-      "bestand": "images/a012580_12643.webp"
-    },
-    {
-      "id": 12640,
-      "cyclus": 12577,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van de bladeren: sommige zijn scherp gedetailleerd, andere wazig/smeuiig', 'Reflexie van de zon in het water is iets te perfect symmetrisch, wat artificieel overkomt']",
-      "cliche_notities": "Het beeld combineert een iconisch landschap (zonsondergang over water) met een decoratief, bijna romantisch lichteffect, zonder een duidelijke compositorische of thematische keuze die verder gaat dan een klassiek ansichtkaartmotief.",
-      "bestand": "images/a012577_12640.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12585,
-    "gemaakt": 12647,
-    "gekozen": 1950,
-    "afgekeurd": 1494,
+    "cycli": 12593,
+    "gemaakt": 12655,
+    "gekozen": 1952,
+    "afgekeurd": 1496,
     "corpus": 63,
     "notities": 474
   }
