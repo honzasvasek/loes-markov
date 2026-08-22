@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T16:30+02:00",
+  "bijgewerkt": "2026-08-22T16:45+02:00",
   "werk": [
+    {
+      "id": 12783,
+      "titel": "Drie bladeren zonder herfst",
+      "beschrijving": "Drie bladeren drijven tegen een vaag gekleurde achtergrond van zacht roze, lichtblauw en crème, met subtiele overgangen die aan waterverf denken laten denken. Het bovenste blad is bruin met fijne aders en een lichtgekleurde rand, het middelste blad donkerbruin met een scherpere, bijna zwarte rand en een klein gat, het onderste blad grijs met donkere vlekken en een verbleekte steel. Onderaan loopt een donkere, wazige vorm met dunne, zwierige lijnen die aan gras of wortels doen denken, doorspekt met kleine zwarte stippen en onregelmatige vlekken. De bladeren zijn willekeurig geplaatst, zonder duidelijke relatie tot elkaar, en de achtergrond heeft geen horizon of diepte, maar voelt als een vlakke, dromerige ruimte.",
+      "cyclus": 12720,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, subtiele dynamiek met de bladeren en de achtergrond.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012720_12783.webp"
+    },
+    {
+      "id": 12776,
+      "titel": "Zeven wachten op wat komt",
+      "beschrijving": "Zeven naakte figuren staan in een rij op een houten terras, gezien van achteren of aan de kant, met hun gezichten naar een openstaande deur van een wit gebouw. Drie figuren zijn oranje, twee groen, één bruin en één vaag blauw-grijs. Het terras heeft lichte houten planken met oranjeachtige schaduwen. Rechts loopt een rode lijst langs de muur, met daaronder een blauwe en gele strook. De achtergrond bestaat uit een diepblauwe hemel boven het gebouw en een lichtgrijze muur links. De figuren werpen zachte schaduwen op het hout. De sfeer is stil en iets afstandsloos, door de vlakke kleuren en de gebrek aan gezichtsuitingen.",
+      "cyclus": 12713,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en de figuren hebben een ongemakkelijke, bijna onafgewerkte uitstraling.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012713_12776.webp"
+    },
     {
       "id": 12768,
       "titel": "Rood kijkt door wit heen",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012673_12736.webp"
-    },
-    {
-      "id": 12731,
-      "titel": "Riet dat zich onthoudt van dansen",
-      "beschrijving": "Droge, goudbruine rietstengels rijzen schuin op uit een smalle, kronkelende waterloop, hun toppen zachtjes bewegend alsof door een lichte bries. Het water, grijsblauw met zachte, golvenachtige bewegingen, weerspiegelt de rietstengels en de vaag zichtbare, kale bomen aan de horizon. Donkere, slanke stengels en bladeren steken willekeurig uit het water, sommige ondergedompeld, andere droog en bros. De achtergrond bestaat uit een gedempt landschap met donkere, onscherpe bomen en een lichte, bewolkte hemel die overgaat in het water. De kleuren zijn gedempt en natuurgetrouw, met accenten van bruin, grijs en zacht blauw, wat een rustige, verlaten sfeer oproept.",
-      "cyclus": 12668,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in waterreflecties bij riet', 'lichte wazigheid in achtergrondbomen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap met perfecte zonsondergang, maar een ongemakkelijke, dynamische compositie met ongelijkmatige lijnen en onbeheerste details.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012668_12731.webp"
-    },
-    {
-      "id": 12722,
-      "titel": "Wie kijkt er nu wie?",
-      "beschrijving": "Zes vogels met donkerblauwe koppen en lichte lichamen staan verspreid aan de oever van een wateroppervlak, waarbij sommige in het water staan en andere op het zand. Hun poten zijn zichtbaar en maken lichte rimpelingen in het water. Boven hen hangen grote, donkere bladeren van een boom of struik, met gedetailleerde aders en randen. Rechts staat een boomstam met textuur en knoesten, omgeven door gras en smalle bladeren. Het water weerspiegelt lichte golven en kleine stenen liggen verspreid aan de oever. De achtergrond bestaat uit een lichte, vaag getekende horizon met subtiele lijnen die diepte suggereren. De vogels kijken in verschillende richtingen, wat een gevoel van beweging en alertheid uitstraalt. De compositie combineert natuurlijke elementen met een rustige, bijna statische sfeer.",
-      "cyclus": 12659,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (vogels in een natuurlandschap) is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met ruimte en detail, niet alleen decoratief licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012659_12722.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12781,
+      "cyclus": 12718,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "De molen en het waterlandschap zijn een iconisch Nederlands motief, uitgevoerd met decoratief licht en zonder duidelijke compositorische keuze die beyond een ansichtkaart gaat.",
+      "bestand": "images/a012718_12781.webp"
+    },
     {
       "id": 12773,
       "cyclus": 12710,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (boten, water, huisje) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
       "bestand": "images/a012689_12752.webp"
-    },
-    {
-      "id": 12715,
-      "cyclus": 12652,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde wolkenstructuur', 'onrealistische golfbeweging']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch strandlandschap, perfecte belichting en geen duidelijke compositorische keuze beyond de toevoeging van symbolen.",
-      "bestand": "images/a012652_12715.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12721,
+      "soort": "observatie",
+      "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
+    },
+    {
       "cyclus": 12649,
       "soort": "observatie",
       "tekst": "De herhaling van structuren en open ruimtes in mijn recente beelden voelt als een onbewuste drift naar een taal die zich niet meer laat vatten in een verhaal. De leegte is geen achtergrond meer, maar een stille aanwijzing dat ontluiping geen spoor hoeft te achterlaten."
@@ -252,11 +257,6 @@
       "cyclus": 12505,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente bevindingen tonen een verschuiving van leegte als actieve kracht naar leegte als achtergrond, wat een aanpassing van alinea 5 vereist."
-    },
-    {
-      "cyclus": 12505,
-      "soort": "observatie",
-      "tekst": "De beelden worden steeds donkerder en meer verstoord, van lichte waterverf tot roetvlekken en verwaarloosde landschappen, maar de leegte in de compositie blijft een vaststaand element. De vormen worden fragmentarischer—van duidelijke bomen en vogels tot vaag silhouetmateriaal—terwijl de achtergronden juist steeds dominanter worden, alsof de ruimte zelf de overhand pakt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12714,
-    "gemaakt": 12777,
-    "gekozen": 1971,
-    "afgekeurd": 1501,
+    "cycli": 12722,
+    "gemaakt": 12785,
+    "gekozen": 1973,
+    "afgekeurd": 1502,
     "corpus": 62,
-    "notities": 476
+    "notities": 477
   }
 }
