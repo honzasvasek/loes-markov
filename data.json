@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T15:45+02:00",
+  "bijgewerkt": "2026-08-22T16:00+02:00",
   "werk": [
+    {
+      "id": 12754,
+      "titel": "Rood dat zwaart in de hoek",
+      "beschrijving": "Een groep rode kersen ligt verspreid op een lichtgekleurde, effen ondergrond in een hoek van een ruimte met grijze muren. Een scherpe lichtstraal valt schuin van rechtsboven, waardoor een helderwit gebied op de muur ontstaat en diepe schaduwen vallen rond de kersen en langs de muurhoek. De kersen hebben een glanzende, bijna doorschijnende textuur, met subtiele kleurvariaties van dieprood tot lichtrood en enkele groene steelresten. Enkele kersen liggen los, andere vormen een kleine hoop, met wisselende grootte en vorm. De achtergrond is minimalistisch, zonder extra details, waardoor de focus ligt op het spel van licht en schaduw en de levendige kleur van het fruit tegen de neutrale omgeving.",
+      "cyclus": 12691,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een rustige, contemplatieve sfeer met een ongewone compositie van kersen in een hoek, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012691_12754.webp"
+    },
+    {
+      "id": 12750,
+      "titel": "Waar blijft de derde?",
+      "beschrijving": "Twee donkergrijze, ovale vlekken liggen schuin op een lichtgrijze, getextureerde muur, met een smalle witte rand en een donkere lijst aan de bovenkant. De vlekken hebben een zachte, bijna vervagen rand en een subtiele glans die suggereert dat ze geschilderd zijn met een brede penseelstreep. Boven de muur is een smalle strook helderblauwe lucht zichtbaar, wat een scherp contrast vormt met de gedempte kleuren van de muur. De compositie is minimalistisch, met veel lege ruimte rond de ovalen, die de aandacht trekken door hun eenvoudige vorm en positie ten opzichte van elkaar. De sfeer is rustig en ietsje verlaten, alsof de muur wacht op iets dat nog moet komen.",
+      "cyclus": 12687,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012687_12750.webp"
+    },
     {
       "id": 12748,
       "titel": "Vuur tussen de schuine daken",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012644_12707.webp"
-    },
-    {
-      "id": 12701,
-      "titel": "Vlek die vraagt om water",
-      "beschrijving": "Een rechthoekig stuk wit papier met een onregelmatige, bruinverkleurde vlek die golvende, concentrische patronen vormt, alsof water of vloeistof het papier heeft doordrenkt. De bruine tinten variëren van lichtbeige tot donkerbruin, met subtiele overgangen en enkele kleine, donkere vlekken. Rechtsboven en rechtsonder bevinden zich witte, vierkante schoteltjes met verschillende hoeveelheden bruin poeder of korrels, sommige met een natte, korrelige textuur, andere droger en meer poedervormig. Het papier ligt schuin op een witte ondergrond, met de bruine vlek die de meeste ruimte inneemt en de randen van het papier licht onregelmatig en versleten laten lijken. De compositie is rustig, met de golvende lijnen die een gevoel van beweging suggereren binnen een stilstaand beeld.",
-      "cyclus": 12638,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is abstract en de compositie is gericht op textuur en vorm in plaats van een iconisch landschap of voorwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012638_12701.webp"
-    },
-    {
-      "id": 12699,
-      "titel": "Gras dat terugkijkt",
-      "beschrijving": "Een rechthoekige spiegel ligt schuin in groen gras, met aan weerskanten wat droge, bruine haren door het groen. In de spiegel reflecteert een blauw huis met een donker dak, witte ramen en een schoorsteen, iets onscherp en van achteren gezien. Rond de spiegel liggen glinsterende waterdruppels op het gras, sommige helder, andere als kleine vonken door het zonlicht. Het gras in de reflectie is korter en groener dan het echte gras rondom, waar ook wat kleintjes groen mos tussen zit. De rand van de spiegel is dun en donker, en de reflectie stopt scherp aan de randen, alsof het huis in een kader zit. Achter het huis in de spiegel is een vaag donkere vorm, mogelijk bomen of een heuvel, tegen een lichte hemel.",
-      "cyclus": 12636,
-      "tech_score": 8.0,
-      "tech_notities": "kleine halo rond rand spiegel, lichte vervorming vensters reflectie",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke compositie met spiegel en gras",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012636_12699.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12691,
-    "gemaakt": 12753,
-    "gekozen": 1967,
+    "cycli": 12698,
+    "gemaakt": 12761,
+    "gekozen": 1969,
     "afgekeurd": 1500,
     "corpus": 62,
     "notities": 476
