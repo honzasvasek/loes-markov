@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T20:30+02:00",
+  "bijgewerkt": "2026-08-22T20:45+02:00",
   "werk": [
+    {
+      "id": 12881,
+      "titel": "Waar blijft het pad?",
+      "beschrijving": "Een donkergrijze, korrelige achtergrond omhult een wit, slank pad dat van onder naar boven loopt en zich vertakt in een netwerk van dunne, onregelmatige lijnen. De lijnen lopen grotendeels horizontaal, maar buigen en splitsen zich op willekeurige plekken, alsof ze door een onzichtbare kracht worden geleid. Het midden van het beeld wordt gedomineerd door het pad, dat zich naar boven uitwidt en overgaat in een breder, bijna rivierachtig deel. De witte vormen contrasteren scherp met de donkere achtergrond, waardoor een gevoel van diepte ontstaat. Er zijn geen duidelijke vormen of figuren, alleen de suggestie van een organisch, bijna adersachtig patroon dat zich uitstrekt tot aan de randen van het beeld. De sfeer is statisch, maar de onregelmatigheden in de lijnen geven een subtiele beweging weer.",
+      "cyclus": 12818,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart, maar een abstracte voorstelling van een boom met een sterke compositorische keuze en geen iconisch onderwerp.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012818_12881.webp"
+    },
     {
       "id": 12879,
       "titel": "Stenen die de horizon scheiden",
@@ -26,6 +39,19 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012813_12876.webp"
+    },
+    {
+      "id": 12872,
+      "titel": "De streep die blijft staan",
+      "beschrijving": "Een smalle, rechte weg loopt dwars door een verlaten boomgaard, geflankeerd door twee rijen kale, donkere bomen met uitgestrekte takken. Het pad is van bruin zand of grind, met een smalle, witte gestreepte lijn die precies in het midden loopt en zich naar de horizon uitstrekt. Aan weerszijden van het pad liggen verspreid kleine, donkere voorwerpen die op stenen of vruchten lijken, en enkele groene en gele vlekken die op bladeren of mos kunnen wijzen. De achtergrond vervaagt in een grijze, nevelige horizon, waarbij de bomen steeds kleiner en vaagner worden. De sfeer is stil en verlaten, met een subtiele spanning tussen de lege ruimte en de aanwezigheid van de bomen en het pad. De kleuren zijn gedempt, met overwegend bruine, grijze en groene tinten, en de witte strepen op het pad vormen een scherp contrast met de omgeving.",
+      "cyclus": 12809,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie met een sterke focus op leegte en subtiele details, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012809_12872.webp"
     },
     {
       "id": 12862,
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012766_12829.webp"
-    },
-    {
-      "id": 12827,
-      "titel": "Staart van vonken, lichaam van rook",
-      "beschrijving": "Een vaag, blauwgrijs silhouet van een naakt menselijk lichaam staat links, met een slangenachtige, golvende vorm die van de heup naar beneden loopt en overgaat in een smalle, donkere staart. Rechts loopt een verticale, lichtblauwe streep met gouden stippen die als sterren of vonken lijken te vallen. De achtergrond is egaal wit, waardoor de figuren en de streep scherp afsteken. De sfeer is etheir en mysterieus, met een contrast tussen de onduidelijke, bijna geestelijke vorm van het lichaam en de heldere, bijna magische streep met gouden details.",
-      "cyclus": 12764,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, contemplatieve compositie zonder duidelijke narratiev.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012764_12827.webp"
-    },
-    {
-      "id": 12810,
-      "titel": "Ogen boven de muur",
-      "beschrijving": "Een witte bakstenen muur loopt schuin door een landschap van zand en roze water, omgeven door donkere, bladloze bomen. Twee donkere ogen kijken over de muur, naast een grijze vogelvleugel die uit de muur lijkt te groeien. Boven de muur zweven witte rookpluimen en vallende sterren tegen een roodbruine hemel. Het zand heeft een zachte, golvende textuur, met kleine roze en bruine vlekken die door het water meedrijven. De compositie is rustig, met een subtiele spanning tussen de harde muur en de vloeiende vormen eromheen.",
-      "cyclus": 12747,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een ongemakkelijke spanning tussen anonieme architectuur en organische vormen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012747_12810.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12887,
+      "cyclus": 12824,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch kerkje met een pad erheen, omringd door bomen en gras, in een compositie die doet denken aan een typische ansichtkaart van een dorpsgezicht.",
+      "bestand": "images/a012824_12887.webp"
+    },
     {
       "id": 12885,
       "cyclus": 12822,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van kerken bij water, met een decoratief perfect licht en geen duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a012819_12882.webp"
-    },
-    {
-      "id": 12878,
-      "cyclus": 12815,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke ansichtkaartwaarde.",
-      "bestand": "images/a012815_12878.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontluiping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontluiping zelf een spoor achterlaat—niet als geboorte of groei, maar als een stille, onzichtbare opening die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontsnapping en ontdooring, maar de focus lag altijd op verdwijnen of loslaten. Ontluiping voelt als een tegengestelde beweging: niet iets dat wegvalt, maar iets dat zachtjes open gaat zonder dat dat een doel heeft. Het is een spoor van aanwezigheid dat zich niet laat vatten in een verhaal over verlies of bevrijding.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 12505
   },
   "afgesloten": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12823,
-    "gemaakt": 12886,
-    "gekozen": 1989,
-    "afgekeurd": 1513,
-    "corpus": 63,
+    "cycli": 12830,
+    "gemaakt": 12892,
+    "gekozen": 1991,
+    "afgekeurd": 1514,
+    "corpus": 62,
     "notities": 478
   }
 }
