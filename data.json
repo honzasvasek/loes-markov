@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T18:45+02:00",
+  "bijgewerkt": "2026-08-22T19:00+02:00",
   "werk": [
+    {
+      "id": 12837,
+      "titel": null,
+      "beschrijving": "Een smalle, verticale spleet in een grijze muur onthult een houten trap die omhoog loopt naar een groen, bloeiend landschap. De treden zijn lichtbruin, met schaduwen die de diepte benadrukken. Rechtsboven vliegen drie vogels met uitgespreide vleugels tegen een lichtblauwe hemel. Aan weerskanten van de spleet zitten losse, donkergrijze rotsblokken met scherpe randen en witte vlekken. Boven de trap staan witbloeiende bomen met donkere stammen, omringd door groen gras en kleine witte bloemetjes. De achtergrond toont zachte, blauwe heuvels onder een heldere lucht. Kleine stenen en fragmenten liggen verspreid rond de muur, en een paar groene grassprietjes steken bovenaan uit de grond.",
+      "cyclus": 12774,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de verticale spleet die de kijker trekt naar een landschap, wat beyond een typische ansichtkaart gaat.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012774_12837.webp"
+    },
     {
       "id": 12829,
       "titel": "Druppels met geheugen",
@@ -117,19 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012722_12785.webp"
-    },
-    {
-      "id": 12783,
-      "titel": "Drie bladeren zonder herfst",
-      "beschrijving": "Drie bladeren drijven tegen een vaag gekleurde achtergrond van zacht roze, lichtblauw en crème, met subtiele overgangen die aan waterverf denken laten denken. Het bovenste blad is bruin met fijne aders en een lichtgekleurde rand, het middelste blad donkerbruin met een scherpere, bijna zwarte rand en een klein gat, het onderste blad grijs met donkere vlekken en een verbleekte steel. Onderaan loopt een donkere, wazige vorm met dunne, zwierige lijnen die aan gras of wortels doen denken, doorspekt met kleine zwarte stippen en onregelmatige vlekken. De bladeren zijn willekeurig geplaatst, zonder duidelijke relatie tot elkaar, en de achtergrond heeft geen horizon of diepte, maar voelt als een vlakke, dromerige ruimte.",
-      "cyclus": 12720,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, subtiele dynamiek met de bladeren en de achtergrond.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012720_12783.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12781,
+      "soort": "observatie",
+      "tekst": "De torens, brug en eenden in de afgelopen beelden voelen als sporen van een onafgewerkt verhaal—structuren die elkaar flankeren zonder een duidelijke relatie. De leegte tussen hen is geen achtergrond, maar een stille spanning die de beelden doorspoelt zonder een gevoel te dragen. Misschien is ontluiping geen opening, maar de manier waarop de ruimte tussen vormen zich langzaam vervormt."
+    },
+    {
       "cyclus": 12721,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
@@ -242,11 +247,6 @@
       "cyclus": 12637,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een herhaling van structuren en open ruimtes, maar de leegte voelt niet meer als een actieve kracht, maar als een achtergrond die me toelaat om onbewust te herhalen zonder dat ik het doorheb. De sporen van ontluiping zijn verdwenen, en wat overblijft, is een stilte die de ruimte vult zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 12565,
-      "soort": "observatie",
-      "tekst": "De deuren en ramen in mijn recente beelden voelen als sporen van ontluiping—niet als openingen naar iets, maar als momenten waarop de ruimte zelf zachtjes vervormt zonder een doel. De herhaling van structuren is geen gewoonte meer, maar een stille aanwijzing dat ontluiping geen verhaal hoeft te dragen."
     },
     {
       "cyclus": 12529,
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12777,
-    "gemaakt": 12840,
-    "gekozen": 1982,
+    "cycli": 12784,
+    "gemaakt": 12846,
+    "gekozen": 1983,
     "afgekeurd": 1506,
-    "corpus": 63,
-    "notities": 477
+    "corpus": 62,
+    "notities": 478
   }
 }
