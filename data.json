@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T10:15+02:00",
+  "bijgewerkt": "2026-08-22T10:30+02:00",
   "werk": [
+    {
+      "id": 12612,
+      "titel": "Waar het gras fluistert",
+      "beschrijving": "Een scheur in een grijze muur onthult een landschap met hoog, groen gras dat de onderste helft van het beeld vult. Een houten ladder staat schuin in het gras, met de bovenste rungs richting een vaag zichtbare, witte schuur in de achtergrond. Boven de scheur bevindt zich een oranje rechthoek met een onregelmatige, gescheurde onderkant, die het beeld van het landschap lijkt te bedekken. De achtergrond toont een nevelig, groen veld met donkere bomen aan de horizon. De sfeer is stil en verlaten, met een subtiele spanning tussen de natuurlijke textuur van het gras en de rechte, kunstmatige lijnen van de ladder en de schuur.",
+      "cyclus": 12549,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de ladder ten opzichte van het schuurtje', 'Wazige achtergrond buiten het schuurtje voelt kunstmatig gefocust']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een ongemakkelijke, bijna onafgewekte compositie die afwijkt van een typische ansichtkaart",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012549_12612.webp"
+    },
     {
       "id": 12597,
       "titel": "Waar blijft de tas?",
@@ -117,22 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012469_12532.webp"
-    },
-    {
-      "id": 12528,
-      "titel": "Waar blijft de rode?",
-      "beschrijving": "Een verticaal pad van roze cirkels loopt van de onderkant naar de horizon, waarbij de cirkels kleiner worden naarmate ze verder weg staan. De cirkels liggen op een schaakbordpatroon van lichtgrijze en donkergrijze vierkanten, tegen een effen grijze achtergrond die overgaat in een vaag, lichtgele hemel aan de bovenkant. Een enkele rode cirkel met een kleine, donkere kern bevindt zich in de rechteronderhoek, terwijl de overige cirkels verschillende tinten roze hebben, sommige met subtiele concentrische lijnen. De compositie is symmetrisch en de sfeer rustig en bijna meditatief.",
-      "cyclus": 12465,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief bij de verdwijnpunt van de cirkels', 'lichte textuurvervorming in de achtergrondhemel']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012465_12528.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12615,
+      "cyclus": 12552,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de reflectie van de molens op het water en een wat statische compositie van de bomen",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen in landschap) en de decoratieve, serene sfeer zonder duidelijke compositorische keuze of eigen standpunt",
+      "bestand": "images/a012552_12615.webp"
+    },
     {
       "id": 12603,
       "cyclus": 12540,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met molen en rode wolken, in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a012513_12576.webp"
-    },
-    {
-      "id": 12572,
-      "cyclus": 12509,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met willowboom, water en huisjes onder een perfecte hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012509_12572.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12548,
-    "gemaakt": 12611,
-    "gekozen": 1947,
-    "afgekeurd": 1487,
-    "corpus": 64,
+    "cycli": 12554,
+    "gemaakt": 12616,
+    "gekozen": 1948,
+    "afgekeurd": 1488,
+    "corpus": 63,
     "notities": 473
   }
 }
