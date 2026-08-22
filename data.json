@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T18:15+02:00",
+  "bijgewerkt": "2026-08-22T18:30+02:00",
   "werk": [
+    {
+      "id": 12829,
+      "titel": "Druppels met geheugen",
+      "beschrijving": "Regendruppels dalen van donkere, slanke takken met kleine, glinsterende druppels aan de uiteinden. Het water eronder vormt concentrische cirkels rond de inslaapplaats, met subtiele reflecties van de takken en een vaag silhouet van bomen op de achtergrond. Grijs en wit domineren, met aanwijzingen van groen en bruin in de voorgrond, waar onduidelijke vormen op het water drijven. De regen lijkt de lucht te vervagen, terwijl de druppels een scherpe, verticale beweging suggereren tegen de horizontale golven.",
+      "cyclus": 12766,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte weergave van water en takken met een eigen compositorische keuze.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012766_12829.webp"
+    },
+    {
+      "id": 12827,
+      "titel": "Staart van vonken, lichaam van rook",
+      "beschrijving": "Een vaag, blauwgrijs silhouet van een naakt menselijk lichaam staat links, met een slangenachtige, golvende vorm die van de heup naar beneden loopt en overgaat in een smalle, donkere staart. Rechts loopt een verticale, lichtblauwe streep met gouden stippen die als sterren of vonken lijken te vallen. De achtergrond is egaal wit, waardoor de figuren en de streep scherp afsteken. De sfeer is etheir en mysterieus, met een contrast tussen de onduidelijke, bijna geestelijke vorm van het lichaam en de heldere, bijna magische streep met gouden details.",
+      "cyclus": 12764,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, contemplatieve compositie zonder duidelijke narratiev.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012764_12827.webp"
+    },
     {
       "id": 12810,
       "titel": "Ogen boven de muur",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012720_12783.webp"
-    },
-    {
-      "id": 12776,
-      "titel": "Zeven wachten op wat komt",
-      "beschrijving": "Zeven naakte figuren staan in een rij op een houten terras, gezien van achteren of aan de kant, met hun gezichten naar een openstaande deur van een wit gebouw. Drie figuren zijn oranje, twee groen, één bruin en één vaag blauw-grijs. Het terras heeft lichte houten planken met oranjeachtige schaduwen. Rechts loopt een rode lijst langs de muur, met daaronder een blauwe en gele strook. De achtergrond bestaat uit een diepblauwe hemel boven het gebouw en een lichtgrijze muur links. De figuren werpen zachte schaduwen op het hout. De sfeer is stil en iets afstandsloos, door de vlakke kleuren en de gebrek aan gezichtsuitingen.",
-      "cyclus": 12713,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en de figuren hebben een ongemakkelijke, bijna onafgewerkte uitstraling.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012713_12776.webp"
-    },
-    {
-      "id": 12768,
-      "titel": "Rood kijkt door wit heen",
-      "beschrijving": "Twee naakte figuren staan naast elkaar, de ene in wit met zachte, vage contouren, de andere in rood met scherpere, bijna agressieve penseelstreken. De witte figuur kijkt schuin naar beneden, de rode figuur heeft een ontspannen houding met een lichte draai van het lichaam. Achter hen een donkere, onscherpe achtergrond met oranje en bruine tinten die een warme, bijna verontrustende sfeer creëren. Kleuren als zwart, grijs en groen zijn verspreid over het doek, met kleine details zoals een donkere vorm bij de voeten en een vaag voorwerp in de hoek. De compositie is verticaal, met de figuren centraal maar licht schuin geplaatst, wat een gevoel van onrust en beweging geeft. Penseelstreken zijn zichtbaar en expressief, met variatie in dikte en richting, wat bijdraagt aan de dynamiek van het beeld.",
-      "cyclus": 12705,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, persoonlijke interpretatie van figuren in een dynamische compositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012705_12768.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12764,
-    "gemaakt": 12826,
-    "gekozen": 1980,
+    "cycli": 12771,
+    "gemaakt": 12833,
+    "gekozen": 1982,
     "afgekeurd": 1505,
     "corpus": 63,
     "notities": 477
