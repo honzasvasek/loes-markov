@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-22T05:15+02:00",
+  "bijgewerkt": "2026-08-22T05:30+02:00",
   "werk": [
+    {
+      "id": 12471,
+      "titel": "Rook die blijft hangen",
+      "beschrijving": "Een huis met een schuine daklijn en een schoorsteen waar rook opstijgt in slingerende, witgele vormen. Het metselwerk is in gedempte bruine en beige tinten geschilderd, met donkere ramen en een deur die als rechthoekige uitsnijdsels in de gevel zitten. Een smalle, witte weg loopt diagonaal van voor naar achter, geflankeerd door groene en gele vlekken die gras en struikwerk suggereren. Achter het huis verandert de achtergrond in vaag blauwgrijze heuvels en donkere, onduidelijke vormen die bomen of rotsen kunnen zijn. De lucht is een mengsel van zachte blauwe en grijze penseelstreken, met subtiele gele accenten die een vaag licht suggereren. De compositie rust op de schuine lijnen van het dak en de weg, terwijl de rook een dynamisch element toevoegt aan de anders statische scène.",
+      "cyclus": 12408,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van het huis aan de linkerkant, lichte wazigheid in de achtergrondbomen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een rustige, niet-typische landschapsscene met een subtiele spanning tussen leegte en aanwezigheid",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012408_12471.webp"
+    },
+    {
+      "id": 12467,
+      "titel": "Goud dat zachtjes bloede",
+      "beschrijving": "Een vaag silhouet van een figuur drijft in een glimmende, vloeistofachtige laag, omringd door golvende reflecties van goud en grijs. Onderaan snijdt een scherpe, zilverkleurige boog door het beeld, met donkere, rechthoekige vormen die als schaduwen of fragmenten van een structuur wirken. Kleine, onregelmatige vlekken en subtiele rimpels doorbreken de gladde oppervlakte, terwijl een geelachtige gloed vanaf het midden de scène een dromerige, zwevende sfeer geeft. De compositie balanceert tussen leegte en detail, met een onrustige horizon die het beeld in twee ongelijke delen deelt.",
+      "cyclus": 12404,
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte vervorming in de reflectie van het gezicht bovenin, alsof de vormen te zacht en onduidelijk worden weergegeven', 'De overgang tussen de reflectie en de klok is iets te scherp, wat een kunstmatige scheiding suggereert', 'Enkele details in de klok (bijv. de wijzers en schaalverdeling) zijn iets te vaag en ontbreken aan scherpte']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een abstracte, reflecterende compositie zonder iconische onderwerpen of decoratief perfect licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012404_12467.webp"
+    },
+    {
+      "id": 12461,
+      "titel": "Rook en verlaten zand",
+      "beschrijving": "Een wit, driehoekig huisje staat centraal op een zandig strand, met een smalle, witte loopbrug die recht op het huisje aan loopt. Rook stijgt in slangen van het dak op naar een grijze, bewolkte hemel. Het water ligt ver weg aan de horizon, een smalle strook blauw. Het zand heeft verschillende tinten bruin en beige, met losse vlekken diepbruin en lichtgeel. De deur van het huisje is donkerbruin en staat gesloten. Een klein, donker voorwerp hangt onder het dak. De penseelstreken zijn zichtbaar en textuurrijk, vooral in het zand en de rook. De sfeer is stil en verlaten, met een gevoel van eenzaamheid.",
+      "cyclus": 12398,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het pad ten opzichte van het huis', 'Watervlak in de achtergrond iets te plat en zonder duidelijke horizonlijn']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, contemplatieve sfeer die beyond een typische ansichtkaart gaat door de nadruk op leegte en afwezigheid.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012398_12461.webp"
+    },
     {
       "id": 12451,
       "titel": "Sporen in het gras",
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012343_12406.webp"
-    },
-    {
-      "id": 12404,
-      "titel": "Waar het licht zich uitstrekt",
-      "beschrijving": "Een smal pad loopt recht van voren naar de horizon, omgeven door donker, ongelijkmatig getekend gras en struikgewas. Boven het pad verspreidt zich een brede, lichtgele straal die vanaf de horizon naar boven wijdt, geflankeerd door grijze, stralende lijnen die de lucht vullen. De horizon is een scherpe lijn waar donkere bomen en struiken de overgang vormen tussen het landschap en de lucht. De kleuren zijn gedempt, met grijstinten en subtiele gele accenten, wat een rustige, bijna verlaten sfeer oproept. De textuur van het pad en het omringende landschap is korrelig en getekend met fijne, wisselende strepen.",
-      "cyclus": 12341,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van weg vs. omringend landschap', 'lichtbron zonder duidelijke oorsprong']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op spanning tussen leegte en aanwezigheid",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012341_12404.webp"
-    },
-    {
-      "id": 12395,
-      "titel": "Rook die zich onthult",
-      "beschrijving": "Een wazige, witte rookspiraal stijgt op tegen een gedempte, grijsgroene achtergrond met zachte, ongelijkmatige penseelstreken. De rook vormt slingerende, doorschijnende vormen die zich naar boven uitbreiden en vervagen in de lucht, terwijl de onderkant donkerder en vager wordt. Kleurverloop loopt van lichtgrijs aan de bovenkant naar donkergrijs en zwart aan de onderkant, met subtiele blauwe en bruine tinten in de rook. De compositie is verticaal gericht, met de rook als centraal element dat de hoogte van het beeld vul",
-      "cyclus": 12332,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele textuurconsistentie in achtergrond, maar geen duidelijke artefacten', 'geen vervormde structuren of onmogelijke geometrie']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012332_12395.webp"
-    },
-    {
-      "id": 12392,
-      "titel": "Rook en verlaten hout",
-      "beschrijving": "Zandduinen met golvende patronen domineren het beeld, in tinten beige en lichtbruin. Een klein houten hutje met een schuin dak staat op de achtergrond, rechts van het midden, met een donkere deur en lichte planken. Een dunne rookpluim stijgt op van een kleine schoorsteen naast het hutje. Linksboven in het beeld, dicht bij de voorgrond, groeit een klompje groen gras met smalle bladeren. De achtergrond bestaat uit een helderblauwe lucht zonder wolken, die de horizonlijn vormt met de zandduinen. De compositie is rustig en open, met veel lege ruimte in het zand en de lucht.",
-      "cyclus": 12329,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van zand (beneden vs. boven)', 'lichte vervaging aan randen van beeld']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is ongemakkelijk en niet-obvious.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012329_12392.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12472,
+      "cyclus": 12409,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstract compositie met Chinese karakters.",
+      "bestand": "images/a012409_12472.webp"
+    },
     {
       "id": 12455,
       "cyclus": 12392,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een solitaire boom aan een landweg) en de decoratieve, serene sfeer zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a012390_12453.webp"
-    },
-    {
-      "id": 12448,
-      "cyclus": 12385,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde tekst (onleesbaar/onzin)', 'inconsistente tekstalignering', 'wazige textuur in bruine vorm', 'halo-effect rond roze wolken']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en niet gericht op een herkenbaar landschap of moment.",
-      "bestand": "images/a012385_12448.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12407,
-    "gemaakt": 12470,
-    "gekozen": 1925,
-    "afgekeurd": 1467,
+    "cycli": 12412,
+    "gemaakt": 12475,
+    "gekozen": 1928,
+    "afgekeurd": 1468,
     "corpus": 64,
     "notities": 469
   }
