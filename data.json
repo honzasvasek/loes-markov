@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T19:15+02:00",
+  "bijgewerkt": "2026-08-22T19:30+02:00",
   "werk": [
+    {
+      "id": 12854,
+      "titel": "Druppel die de stilte brak",
+      "beschrijving": "Nat zand, glinsterend onder zonlicht, met concentrische cirkels getekend in het oppervlak. Een tak met donkere knoppen en een scherpere schaduw snijdt diagonaal door het beeld, terwijl waterplassen in de achtergrond vaag reflecteren. Kleine steentjes en korrels zijn verspreid over het zand, dat overgaat in een donkerdere, natte zone beneden. De cirkels stralen uit van een punt waar een druppel of steen recent het zand raakte, met fijne rimpelingen die de textuur benadrukken.",
+      "cyclus": 12791,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele dynamiek in plaats van een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012791_12854.webp"
+    },
+    {
+      "id": 12846,
+      "titel": "Verf die liegt",
+      "beschrijving": "Grijze verticale en horizontale vlakken vullen het beeld, met subtiele variaties in tint en textuur. Donkerdere grijsbruine strepen lopen parallel aan de randen, terwijl lichtere, bijna witte gebieden zich in het midden bevinden. De verf is zichtbaar aangebracht met brede, ongelijkmatige penseelstreken, wat een ruwe, bijna industriële uitstraling geeft. Enkele plekken tonen lichte onregelmatigheden, zoals kleine bultjes of ongelijkheden in de verf. De compositie is strak en geometrisch, maar de onvolkomenheden in de verflaag voegen een element van willekeur toe. Er zijn geen herkenbare vormen of figuren, alleen een spel van vlakken en textuur. De sfeer is neutraal en afstandelijk, met een focus op de materiële eigenschappen van de verf en de structuur van het doek.",
+      "cyclus": 12783,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012783_12846.webp"
+    },
     {
       "id": 12837,
       "titel": null,
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012731_12794.webp"
-    },
-    {
-      "id": 12787,
-      "titel": "Spinnenweb in herfstwind",
-      "beschrijving": "Vier bladeren in herfstkleuren—bruin, goud en crème—drijven tegen een getextureerde achtergrond van gedempt blauw en bruin, met subtiele spatten en cirkels die natuurelementen suggereren. Een wit spinnenweb met fijne draden beslaat de linkerbovenhoek, terwijl kleine, sterachtige vormen verspreid zijn over het vlak. Onderaan loopt een donkerbruine houten lijst met verticale latten, die een gevoel van diepte en begrenzing geeft. De bladeren hebben duidelijke aderen en onregelmatige randen, en liggen in een losse, asymmetrische opstelling die beweging uitstraalt. De sfeer is rustig, met een lichte melancholie door de gedempte kleuren en de afwezigheid van levendige details.",
-      "cyclus": 12724,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in textuur van bladeren, lichte wazigheid in achtergrondpatronen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-typische compositie met bladeren en abstracte achtergrond.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012724_12787.webp"
-    },
-    {
-      "id": 12785,
-      "titel": "Waar blijft de horizon",
-      "beschrijving": "Een diagonale houten reling met verticale palen loopt door een oppervlak dat bestaat uit wazige, waterverfachtige vlekken in blauw, grijs en bruin. Witte, spinnenwebachtige lijnen en kleine, sterretjesvormige uitbarstingen drijven erboven, vermengd met donkere vlekken en vaag omlijnde cirkels. Onder de reling een donkerder, textuurloos gebied met verspreide, onregelmatige vlekken. Witte randen omlijsten de compositie, waarbij de overgang tussen de gebieden vloeiend en onbeheerst is.",
-      "cyclus": 12722,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012722_12785.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12859,
+      "cyclus": 12796,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met dorpsgezelligheid, kerktoren en rustige waterloop, getekend in een decoratieve, nostalgische stijl zonder duidelijke compositorische keuzes die beyond een klassiek postkaartmotief gaan.",
+      "bestand": "images/a012796_12859.webp"
+    },
     {
       "id": 12834,
       "cyclus": 12771,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk met spits, typisch landschap) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
       "bestand": "images/a012763_12826.webp"
-    },
-    {
-      "id": 12818,
-      "cyclus": 12755,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een close-up van een klok met subtiele textuur in de achtergrond.",
-      "bestand": "images/a012755_12818.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12791,
-    "gemaakt": 12853,
-    "gekozen": 1983,
-    "afgekeurd": 1506,
+    "cycli": 12798,
+    "gemaakt": 12860,
+    "gekozen": 1985,
+    "afgekeurd": 1507,
     "corpus": 63,
     "notities": 478
   }
