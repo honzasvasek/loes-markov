@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T18:30+02:00",
+  "bijgewerkt": "2026-08-22T18:45+02:00",
   "werk": [
     {
       "id": 12829,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 12834,
+      "cyclus": 12771,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met ruimte voor interpretatie.",
+      "bestand": "images/a012771_12834.webp"
+    },
+    {
       "id": 12826,
       "cyclus": 12763,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een close-up van een klok met subtiele textuur in de achtergrond.",
       "bestand": "images/a012755_12818.webp"
-    },
-    {
-      "id": 12790,
-      "cyclus": 12727,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de houten loopbrug (latten lopen niet perfect parallel)', 'lichte wazigheid in verre achtergrond (bomen/horizon)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene waterweg met bootje, symmetrische bomenrij en een pad dat de kijker 'naar binnen' trekt, zonder onverwachte keuzes of spanning.",
-      "bestand": "images/a012727_12790.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12771,
-    "gemaakt": 12833,
+    "cycli": 12777,
+    "gemaakt": 12840,
     "gekozen": 1982,
-    "afgekeurd": 1505,
+    "afgekeurd": 1506,
     "corpus": 63,
     "notities": 477
   }
