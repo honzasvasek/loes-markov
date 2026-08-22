@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T06:00+02:00",
+  "bijgewerkt": "2026-08-22T06:15+02:00",
   "werk": [
+    {
+      "id": 12490,
+      "titel": "Wat houdt die rots boven water?",
+      "beschrijving": "Een donkere, onregelmatige rots drijft boven een wateroppervlak, omgeven door concentrische cirkels die zich uitstrekken naar de oever. In de achtergrond liggen twee huizen met schuine daken aan weerszijden van een horizonlijn, geflankeerd door donkere bomen en struiken. Het water reflecteert de rots en de golven, terwijl in de voorgrond een kleinere rots en wat gras de rand van het beeld vormen. De scène is getekend in zwart-wit met fijne lijnen en stippen, wat een textuur geeft aan de rotsen, het water en de vegetatie. De compositie is verticaal opgebouwd, met de drijvende rots als centraal punt dat de blik trekt boven de rustige, uitgestrekte watervlakte.",
+      "cyclus": 12427,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en de leegte actief.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012427_12490.webp"
+    },
+    {
+      "id": 12484,
+      "titel": "Modder met geheugen",
+      "beschrijving": "Een smalle, kronkelende stroom helderblauw water snijdt door een bruin, modderig landschap, omgeven door verspreid hout, droog gras en donkere, onregelmatige vormen die op rotselementen of afval lijken. Rechtsboven loopt een houten hek met verticale en horizontale latten schuin door het beeld, deels verdwenen in de modder. Het water reflecteert licht en toont subtiele witte en donkerblauwe golven, terwijl de oever een chaotisch patroon van natte en droge textuur vormt. Donkere holtes en gaten in de grond suggereren diepte, en kleine, onherkenbare voorwerpen liggen verspreid tussen het puin. De kleuren zijn gedempt, behalve het water, dat een levendige, bijna onnatuurlijke tint heeft.",
+      "cyclus": 12421,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van hek (rechtsboven), lichte wazigheid in details van modder/afval",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op subtiele spanning tussen vorm en leegte",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012421_12484.webp"
+    },
     {
       "id": 12481,
       "titel": "Rook die leert vliegen",
@@ -104,61 +130,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012377_12440.webp"
-    },
-    {
-      "id": 12436,
-      "titel": "Waar bleef het spoor?",
-      "beschrijving": "Een donkerrood wateroppervlak vult het grootste deel van het beeld, met subtiele golven die een textuur van beweging suggereren. Middenin loopt een scherpe, witte, golvende lijn verticaal door het water, alsof het een spoor is van iets dat net verdwenen is. Aan de horizon een donkere, onscherpe boomlijn die het water afschermt tegen een grijze, egale hemel. De randen van het beeld zijn lichter en wat vervagen, wat een gevoel van afstandsverlies geeft. Rechtsboven een vaag wit punt, mogelijk een boot of gebouw, maar onherkenbaar door de onscherpte. De sfeer is stil en iets melancolisch, door de koude kleuren en de leegte van het landschap.",
-      "cyclus": 12373,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief perfect.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012373_12436.webp"
-    },
-    {
-      "id": 12432,
-      "titel": "Waar blijft de horizon",
-      "beschrijving": "Twee figuren, gezien van achteren, steken tot aan hun schouders uit donker water. Het wateroppervlak is doorsneden door horizontale, witte golflijnen die de reflectie van de figuren verstoren. De figuur rechts heeft haar haar in een losse pony en een staart, de linkerfiguur heeft langer, los haar. De achtergrond is een egaal donkergrijze vlakte zonder horizon of details. De randen van het beeld zijn licht verbleekt en getekend door fijne krassen. De sfeer is statisch, zonder beweging buiten de subtiele rimpelingen in het water. Kleuren zijn beperkt tot donkergrijs, zwart en wit, met een korrelige textuur door het hele beeld.",
-      "cyclus": 12369,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in waterreflecties (links/rechts)', 'lichte textuurvervorming in achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en sfeervol duister.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012369_12432.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 12477,
-      "cyclus": 12414,
+      "id": 12495,
+      "cyclus": 12432,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van de toren ten opzichte van het kerkgebouw, lichte wazigheid in de textuur van het dak",
-      "cliche_notities": "Dit is een typisch ansichtkaartmotief: een iconische kerk met toren tegen een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012414_12477.webp"
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch kerkje met een klassieke compositie en decoratief licht, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012432_12495.webp"
     },
     {
-      "id": 12472,
-      "cyclus": 12409,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstract compositie met Chinese karakters.",
-      "bestand": "images/a012409_12472.webp"
+      "id": 12493,
+      "cyclus": 12430,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte inconsistentie in textuurweergave van het gras (sommige stengels lijken kunstmatig scherp, andere wazig)",
+      "cliche_notities": "Molen met typisch Nederlands landschap (gras, bomen, horizon) in een klassieke, decoratieve compositie zonder duidelijke persoonlijke interpretatie of onverwachte invalshoek",
+      "bestand": "images/a012430_12493.webp"
     },
     {
-      "id": 12455,
-      "cyclus": 12392,
+      "id": 12491,
+      "cyclus": 12428,
       "afkeuringsreden": "cliche",
       "tech_score": 9.0,
       "tech_notities": "",
-      "cliche_notities": "Het beeld toont een klassiek landschap met bergen en bomen in een stijl die doet denken aan traditionele houtsneden, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012392_12455.webp"
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met zonsondergang, water en silhouetten van bomen, zonder een uniek standpunt of onverwachte compositorische keuze.",
+      "bestand": "images/a012428_12491.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12427,
-    "gemaakt": 12489,
-    "gekozen": 1930,
-    "afgekeurd": 1469,
-    "corpus": 63,
+    "cycli": 12434,
+    "gemaakt": 12496,
+    "gekozen": 1932,
+    "afgekeurd": 1472,
+    "corpus": 64,
     "notities": 469
   }
 }
