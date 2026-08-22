@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T17:45+02:00",
+  "bijgewerkt": "2026-08-22T18:00+02:00",
   "werk": [
     {
       "id": 12807,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 12818,
+      "cyclus": 12755,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een close-up van een klok met subtiele textuur in de achtergrond.",
+      "bestand": "images/a012755_12818.webp"
+    },
+    {
       "id": 12790,
       "cyclus": 12727,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "De molen en het waterlandschap zijn een iconisch Nederlands motief, uitgevoerd met decoratief licht en zonder duidelijke compositorische keuze die beyond een ansichtkaart gaat.",
       "bestand": "images/a012718_12781.webp"
-    },
-    {
-      "id": 12773,
-      "cyclus": 12710,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['enkele subtiele vervormingen in takken van bomen', 'lichte inconsistentie in horizonlijn bij bergen']",
-      "cliche_notities": "Landschap met zonsondergang en kale bomen is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
-      "bestand": "images/a012710_12773.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12752,
-    "gemaakt": 12815,
+    "cycli": 12757,
+    "gemaakt": 12820,
     "gekozen": 1978,
-    "afgekeurd": 1503,
+    "afgekeurd": 1504,
     "corpus": 63,
     "notities": 477
   }
