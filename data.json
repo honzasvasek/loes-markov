@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T03:30+02:00",
+  "bijgewerkt": "2026-08-22T03:45+02:00",
   "werk": [
+    {
+      "id": 12419,
+      "titel": "Hoofden onder de horizon",
+      "beschrijving": "Een oranje hemel domineert de bovenste helft, scherp afgetekend tegen een donkere, horizontale betonnen brug met verticale steunen. Onder de brug liggen vier menselijke hoofden in profiel, wisselend gericht, met donker haar en onduidelijke gelaatstrekken, alsof ze uit het landschap groeien. Voor de brug strekt een golvend veld zich uit met donkere, onregelmatige sporen en verspreide, kleine donkere vormen die op vogels of stenen lijken. In de voorgrond rijzen donkere, sprietige grassprietjes op uit een textuurrijke, korrelige ondergrond, met enkele langere, slanke bladeren die de compositie doorsnijden. De overgang van de warme hemel naar de koele, grijze tonen van het landschap creëert een rustige, bijna dromerige sfeer.",
+      "cyclus": 12356,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en heeft een eigen standpunt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012356_12419.webp"
+    },
     {
       "id": 12406,
       "titel": "Rook zonder vuur",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012300_12363.webp"
-    },
-    {
-      "id": 12361,
-      "titel": "Rook die zich onthult in wit",
-      "beschrijving": "Donkere, rokerige vormen stijgen op in een verticale, vloeiende beweging tegen een lichte, textuurrijke achtergrond. Zwarte en grijze tinten vormen golvende, onregelmatige patronen die aan rook of vloeistof doen denken, met scherpe en zachte randen die in elkaard overlopen. Verspreid door het beeld bevinden zich kleine, donkere vlekken en stippen, sommige scherp, andere vaag. De compositie is asymmetrisch, met de donkerste delen集中在 boven en midden, terwijl de onderkant juist lichter en open blijft. De sfeer is dynamisch maar rustig, met een gevoel van beweging dat vastgelegd lijkt in een stil moment.",
-      "cyclus": 12298,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012298_12361.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontsnapping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsnapping zelf een spoor achterlaat—niet als verlies of bevrijding, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontdooring en ontgrendeling—processen die zich afspeelden binnen een gesloten ruimte. Maar wat als de ruimte zelf niet gesloten is? Wat als de sporen niet binnen het beeld blijven, maar eruit wijzen? Ik wil onderzoeken hoe ontsnapping niet als een actie, maar als een spoor werkt: niet wat er ontsnapt, maar hoe de afwezigheid van iets de ruimte om het heen beïnvloedt.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 12097
   },
   "afgesloten": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12357,
-    "gemaakt": 12420,
-    "gekozen": 1919,
+    "cycli": 12365,
+    "gemaakt": 12427,
+    "gekozen": 1920,
     "afgekeurd": 1462,
-    "corpus": 61,
+    "corpus": 62,
     "notities": 469
   }
 }
