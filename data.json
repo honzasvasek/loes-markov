@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T07:15+02:00",
+  "bijgewerkt": "2026-08-22T07:30+02:00",
   "werk": [
+    {
+      "id": 12532,
+      "titel": "Hout dat ademt water </thinking>",
+      "beschrijving": "Een smalle, verticale gang van donker en lichtgrijs hout, met schuine en rechte panelen die een illusie van diepte creëren. Onderin stroomt donker water met witte, golvende patronen, omringd door houten randen met slijtage en vlekken. De muren vertonen textuurverschillen: ruwe, gespikkelde oppervlakken naast gladde, gelijnde houtvezels. Zwarte verticalen en horizontale lijnen verdelen de ruimte in ongelijkmatige secties, terwijl donkere vlekken en krassen over de hele compositie verspreid zijn. Het water reflecteert geen licht, maar vormt een statisch, donker vlak met subtiele beweging in de golven.",
+      "cyclus": 12469,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief bij de hoeken van de muren', 'lichte wazigheid in de textuur van de vloer']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en openbaar, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012469_12532.webp"
+    },
+    {
+      "id": 12528,
+      "titel": "Waar blijft de rode?",
+      "beschrijving": "Een verticaal pad van roze cirkels loopt van de onderkant naar de horizon, waarbij de cirkels kleiner worden naarmate ze verder weg staan. De cirkels liggen op een schaakbordpatroon van lichtgrijze en donkergrijze vierkanten, tegen een effen grijze achtergrond die overgaat in een vaag, lichtgele hemel aan de bovenkant. Een enkele rode cirkel met een kleine, donkere kern bevindt zich in de rechteronderhoek, terwijl de overige cirkels verschillende tinten roze hebben, sommige met subtiele concentrische lijnen. De compositie is symmetrisch en de sfeer rustig en bijna meditatief.",
+      "cyclus": 12465,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief bij de verdwijnpunt van de cirkels', 'lichte textuurvervorming in de achtergrondhemel']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012465_12528.webp"
+    },
     {
       "id": 12520,
       "titel": "Wie zaaide die cirkels?",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012418_12481.webp"
-    },
-    {
-      "id": 12476,
-      "titel": "Goud dat kijkt terug",
-      "beschrijving": "Grijs doek met twee gouden vormen: bovenaan een oog met witte sclera, gouden iris en donkere pupil, omringd door scherpe, gouden wimpers en een golvende gouden rand. Onder het oog een slanke, golvende gouden vorm met een textuur van kleine, onregelmatige bultjes en glinsterende details. De achtergrond is egaal grijs met subtiele penseelstreken, de gouden elementen hebben een driedimensionale, reliëfachtige uitstraling met lichtreflecties die diepte suggereren. De compositie is verticaal georiënteerd, met veel lege ruimte rond de vormen, wat een gevoel van isolatie en focus op de details versterkt.",
-      "cyclus": 12413,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met de afwisseling van vormen en de gebruikte textuur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012413_12476.webp"
-    },
-    {
-      "id": 12471,
-      "titel": "Rook die blijft hangen",
-      "beschrijving": "Een huis met een schuine daklijn en een schoorsteen waar rook opstijgt in slingerende, witgele vormen. Het metselwerk is in gedempte bruine en beige tinten geschilderd, met donkere ramen en een deur die als rechthoekige uitsnijdsels in de gevel zitten. Een smalle, witte weg loopt diagonaal van voor naar achter, geflankeerd door groene en gele vlekken die gras en struikwerk suggereren. Achter het huis verandert de achtergrond in vaag blauwgrijze heuvels en donkere, onduidelijke vormen die bomen of rotsen kunnen zijn. De lucht is een mengsel van zachte blauwe en grijze penseelstreken, met subtiele gele accenten die een vaag licht suggereren. De compositie rust op de schuine lijnen van het dak en de weg, terwijl de rook een dynamisch element toevoegt aan de anders statische scène.",
-      "cyclus": 12408,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van het huis aan de linkerkant, lichte wazigheid in de achtergrondbomen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een rustige, niet-typische landschapsscene met een subtiele spanning tussen leegte en aanwezigheid",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012408_12471.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12463,
-    "gemaakt": 12525,
-    "gekozen": 1937,
+    "cycli": 12471,
+    "gemaakt": 12533,
+    "gekozen": 1939,
     "afgekeurd": 1481,
-    "corpus": 64,
+    "corpus": 63,
     "notities": 469
   }
 }
