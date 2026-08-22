@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T17:30+02:00",
+  "bijgewerkt": "2026-08-22T17:45+02:00",
   "werk": [
+    {
+      "id": 12807,
+      "titel": "Stof en sporen in de modder",
+      "beschrijving": "Bovenin staan benen in donkerblauwe broeken en zwarte schoenen op een witgekakteld klinkerpatroon, met een gescheurde rand die overgaat in een zwarte achtergrond. Daaronder staat een verweerd wit huisje met een RVS-dak en een open houten deur, omringd door roodbruine aarde met plassen modder en verspreide stenen. Midden in de aarde vliegt stof de lucht in, met twee witte, diagonale strepen erboven en twee voorwerpen—een zwarte cilindervorm en een roze blok—die in de modder liggen. Onderaan is een deel van een golfpapierdak zichtbaar, ook met een gescheurde rand tegen de zwarte achtergrond. Kleuren zijn gedempt, met accenten van roodbruin, wit en zwart, en de sfeer is rustig maar met een spoor van recente activiteit.",
+      "cyclus": 12744,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is fragmentarisch en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012744_12807.webp"
+    },
+    {
+      "id": 12803,
+      "titel": "Rook en verdwijnende sporen",
+      "beschrijving": "Een roodbruin landschap met zandduinen wordt doorsneden door een smalle, rozeachtige pad die diagonaal loopt. Aan de linkerkant staat een houten ladder met witte treden schuin tegen het zand, naast een paarse veer die rook afgeeft. Vijf witte gansachtige vogels bevinden zich in verschillende posities: drie vliegen met gespreide vleugels, twee staan op de grond. Witte keien en een enkele witte sandaal liggen verspreid over het pad en het zand. Donkere schaduwen onder de vogels en de ladder geven diepte. De achtergrond bestaat uit zachte, golvende duinen onder een effen roodbruine hemel.",
+      "cyclus": 12740,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongewoon en heeft een eigen stemming.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012740_12803.webp"
+    },
     {
       "id": 12794,
       "titel": "Stippen die meedrijven met bladeren",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012691_12754.webp"
-    },
-    {
-      "id": 12750,
-      "titel": "Waar blijft de derde?",
-      "beschrijving": "Twee donkergrijze, ovale vlekken liggen schuin op een lichtgrijze, getextureerde muur, met een smalle witte rand en een donkere lijst aan de bovenkant. De vlekken hebben een zachte, bijna vervagen rand en een subtiele glans die suggereert dat ze geschilderd zijn met een brede penseelstreep. Boven de muur is een smalle strook helderblauwe lucht zichtbaar, wat een scherp contrast vormt met de gedempte kleuren van de muur. De compositie is minimalistisch, met veel lege ruimte rond de ovalen, die de aandacht trekken door hun eenvoudige vorm en positie ten opzichte van elkaar. De sfeer is rustig en ietsje verlaten, alsof de muur wacht op iets dat nog moet komen.",
-      "cyclus": 12687,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012687_12750.webp"
-    },
-    {
-      "id": 12748,
-      "titel": "Vuur tussen de schuine daken",
-      "beschrijving": "Een kromme stroom van wit en grijs water snijdt door een dorp met schuine daken en gevels in beige, bruin en lichtgroen. Rechts brandt een vuur met oranje en gele vlammen tussen donkere houten logjes, omringd door verspreide rode en gele vruchten en groene bladeren. Kale boomstammen en takken met enkele groene en oranje bladeren raken de bovenrand, terwijl op de achtergrond heuvels in paars en blauwgrijs de horizon vormen. Een gebouw met een kruis op het dak staat linksboven, naast een rood dak en een schoorsteen. De scène wordt doorsneden door diagonale lijnen van het water en de bomen, met verspreide kleuren als geel, oranje en groen in de vegetatie en op de grond.",
-      "cyclus": 12685,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 1,
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met kerk, kronkelende weg en herfstkleuren, gecombineerd met een decoratief perfect licht en gebrek aan een duidelijk eigen standpunt.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w012685_12748.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12745,
-    "gemaakt": 12807,
-    "gekozen": 1976,
+    "cycli": 12752,
+    "gemaakt": 12815,
+    "gekozen": 1978,
     "afgekeurd": 1503,
     "corpus": 63,
     "notities": 477
