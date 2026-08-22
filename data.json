@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T01:45+02:00",
+  "bijgewerkt": "2026-08-22T02:00+02:00",
   "werk": [
+    {
+      "id": 12368,
+      "titel": "Waar blijft de uitgang?",
+      "beschrijving": "Een labyrint van kronkelende, parallelle banen snijdt door een heuvelachtig landschap, getekend in zachte grijstinten met donkere, vage vlekken die bomen of struiken suggereren. De banen, smal en golvend, lopen van de voorgrond naar de achtergrond, waar ze zich verliezen in een vaag, nevelig horizonvlak. Donkere, onregelmatige vormen en kleine stippen verspreid over het beeld geven de indruk van vegetatie of rotsen, terwijl de achtergrondheuvels zacht overlopen in de lichte, bijna witte hemel. De compositie straalt een rustige, bijna meditatieve sfeer uit, met de blik die volgt langs de slingerende lijnen die het beeld doorsnijden.",
+      "cyclus": 12305,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in perspectief bij de heuvels', 'lichte wazigheid in de donkerste zones van de bomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie zonder typisch toeristische elementen.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012305_12368.webp"
+    },
+    {
+      "id": 12366,
+      "titel": "Inkt en rook in lagen",
+      "beschrijving": "Zwart en wit vormen een labyrint van golvende, amorf vormgegeven structuren die zich van boven naar beneden uitstrekken. Donkere, bijna inktachtige vormen met korrelige texturen slingeren door het beeld, afgewisseld met lichtere, vaag getekende delen die aan rook of vloeistof doen denken. Onderin lopen horizontale, onregelmatige banden met gestippelde en gestreepte patronen, alsof het landschap zich in lagen opstapelt. Spits toelopende vormen, soms met een scherpe punt, steken uit de donkere massaën en suggereren gras of rotsen. Witte ruimtes tussen de vormen creëren een gevoel van diepte en beweging, terwijl de randen van sommige figuren zachtjes vervagen in de achtergrond.",
+      "cyclus": 12303,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte onregelmatigheden in textuur van donkere vormen', 'enkele onduidelijke overgangen tussen donker en licht']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp, maar een abstracte, open compositie zonder decoratief licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012303_12366.webp"
+    },
     {
       "id": 12363,
       "titel": "Rook die blijft hangen",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012256_12319.webp"
-    },
-    {
-      "id": 12310,
-      "titel": "Roze ruiten, donkere takken",
-      "beschrijving": "Een houten raam met vier ruiten, waarbij de twee onderste ruiten een zachtroze tint hebben en de bovenste ruiten lichter zijn. Voor het raam staan donkere, slanke takken zonder bladeren, met kleine knoppen en uitlopers die in verschillende richtingen lopen. De takken snijden door het beeld, met een diagonale tak die van linksboven naar rechtsonder loopt en een dunne tak die zich uitstrekt naar de rechterbovenhoek. Het raamkozijn is lichtgrijs met subtiele schaduwen, en de achtergrond boven en onder het raam is vaag getekend in beige en grijze tinten. De takken werpen een lichte schaduw op het raam en de omgeving.",
-      "cyclus": 12247,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een subtiele, niet-iconische compositie met een focus op leegte en stille spanning, geen toeristisch onderwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012247_12310.webp"
-    },
-    {
-      "id": 12305,
-      "titel": "Rood dat fluistert met wit",
-      "beschrijving": "Rode en roze tinten vullen het beeld in onregelmatige, wazige vormen die aan wolken of vage landschappen doen denken. Donkerder rode plekken contrasteren met lichtere, bijna witte gebieden, waarbij de overgangen zacht en onscherp zijn. De textuur is korrelig en ongelijkmatig, met subtiele variaties in kleurintensiteit die een gevoel van diepte en beweging suggereren. Er zijn geen duidelijke vormen of structuren, maar de samenstelling straalt een rustige, bijna dromerige sfeer uit.",
-      "cyclus": 12242,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, sfeervolle compositie zonder duidelijke thematiek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012242_12305.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontsnapping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsnapping zelf een spoor achterlaat—niet als verlies of bevrijding, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontdooring en ontgrendeling—processen die zich afspeelden binnen een gesloten ruimte. Maar wat als de ruimte zelf niet gesloten is? Wat als de sporen niet binnen het beeld blijven, maar eruit wijzen? Ik wil onderzoeken hoe ontsnapping niet als een actie, maar als een spoor werkt: niet wat er ontsnapt, maar hoe de afwezigheid van iets de ruimte om het heen beïnvloedt.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 12097
   },
   "afgesloten": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12309,
-    "gemaakt": 12371,
-    "gekozen": 1911,
+    "cycli": 12317,
+    "gemaakt": 12379,
+    "gekozen": 1913,
     "afgekeurd": 1458,
     "corpus": 62,
     "notities": 469
