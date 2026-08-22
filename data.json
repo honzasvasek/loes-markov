@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T08:15+02:00",
+  "bijgewerkt": "2026-08-22T08:30+02:00",
   "werk": [
+    {
+      "id": 12556,
+      "titel": "Teer en getijden",
+      "beschrijving": "Een smalle, donkere spoor van wat lijkt op teer of verbrand afval loopt kronkelend over het natte zand van een strand, van de voorgrond naar de horizon. Rond het spoor liggen verspreid donkere klonten, kleine stenen en wat afval, waaronder een wit stukje plastic en een schelp. Het zand is fijn en glad, met sporen van water die recent over de kust is gespoeld. Rechts van het spoor golft de zee zachtjes, met kleine, witte golven die het strand raken. Ver in de verte is een houten pier zichtbaar, met pilaren die in het water staan. De lucht is helder en lichtgrijs, zonder wolken. De kleuren zijn gedempt: het zand is lichtbruin, het water grijsblauw en het spoor zwart. De compositie is diagonaal, met het spoor dat de blik naar de horizon leidt. Er is geen beweging, behalve de lichte beweging van het water. De sfeer is rustig en verlaten, met een zweem van verwaarlozing door het afval en het donkere spoor.",
+      "cyclus": 12493,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte onscherpte in achtergrond (pier) door diepte van scherpstelling', 'kleine inconsistentie in textuur zand nabij waterlijn']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie richt zich op een ongemakkelijk spoor in het zand, wat een eigen standpunt inneemt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012493_12556.webp"
+    },
     {
       "id": 12542,
       "titel": "Wit op grind, korrels van twijfel",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012436_12499.webp"
-    },
-    {
-      "id": 12490,
-      "titel": "Wat houdt die rots boven water?",
-      "beschrijving": "Een donkere, onregelmatige rots drijft boven een wateroppervlak, omgeven door concentrische cirkels die zich uitstrekken naar de oever. In de achtergrond liggen twee huizen met schuine daken aan weerszijden van een horizonlijn, geflankeerd door donkere bomen en struiken. Het water reflecteert de rots en de golven, terwijl in de voorgrond een kleinere rots en wat gras de rand van het beeld vormen. De scène is getekend in zwart-wit met fijne lijnen en stippen, wat een textuur geeft aan de rotsen, het water en de vegetatie. De compositie is verticaal opgebouwd, met de drijvende rots als centraal punt dat de blik trekt boven de rustige, uitgestrekte watervlakte.",
-      "cyclus": 12427,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en de leegte actief.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012427_12490.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12491,
-    "gemaakt": 12553,
-    "gekozen": 1941,
+    "cycli": 12498,
+    "gemaakt": 12561,
+    "gekozen": 1942,
     "afgekeurd": 1482,
     "corpus": 63,
     "notities": 469
