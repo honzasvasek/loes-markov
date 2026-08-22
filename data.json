@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T13:00+02:00",
+  "bijgewerkt": "2026-08-22T13:15+02:00",
   "werk": [
+    {
+      "id": 12675,
+      "titel": "Sporen van een onzichtbare storm",
+      "beschrijving": "Een donkere, onregelmatige vlek met uitstralende, dunne draden en verspreide druppels domineert het midden van een lichtbeige, korrelig oppervlak. Rondom de vlek liggen kleine, glanzende bolletjes in goudbruine en witte tinten, sommige verbonden door fijne lijnen. In de hoeken bevinden zich vaag zichtbare, sterachtige patronen met stralen die zacht vervagen. Donkere, diagonale strepen lopen door het beeld, met sporen van korrelig zand dat zich lijkt op te hopen. De kleuren zijn gedempt, met subtiele overgangen tussen bruin, beige en zwart, terwijl de textuur een droge, bijna poederige uitstraling heeft.",
+      "cyclus": 12612,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, ongedwongen compositie met subtiele spanningen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012612_12675.webp"
+    },
+    {
+      "id": 12668,
+      "titel": "Aarde onder beton",
+      "beschrijving": "Donkere, textuurrijke aarde vormt de basis, doorspekt met kleine stenen en droge takjes. Groene, slanke grassen en smalle, sprietige planten steken eruit, met enkele bloemknoppen die net gaan openbreeken. Boven hen strekt zich een massieve, betonnen structuur uit, bestaande uit brede, schuine liggers en verticale pijlers, met zichtbare sporen van slijtage en donkere vlekken. Achter en boven de betonconstructie rijzen donkere, naaldbomen op, met scherpe, uitstralende takken en enkele heldergroene, ster-vormige naalden die het grijze beton contrasteren. De achtergrond is een effen, lichtgrijze hemel zonder details, waardoor de focus ligt op de spanning tussen de organische vormen beneden en de harde, geometrische vormen boven.",
+      "cyclus": 12605,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van betonconstructie (benedenlinker hoek lijkt onnatuurlijk schuin)', 'Enkele naalden van de boom in de achtergrond zijn onverklaarbaar kort of ontbrekend']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of decoratief licht; de combinatie van verwaarloosde natuur en industriële structuur heeft een ongemakkelijke, niet-toeristische sfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012605_12668.webp"
+    },
     {
       "id": 12662,
       "titel": "Rook die liegen leert",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012534_12597.webp"
-    },
-    {
-      "id": 12594,
-      "titel": "Spiraal zonder uitweg",
-      "beschrijving": "Een spiraal van brede, zachte penseelstreken domineert het midden, met afwisselende tinten grijs, beige, donkerblauw en subtiele rood- en geelaccenten. Rond de spiraal lopen vaag omlijnde huizen met rode en donkere daken, afgewisseld met groene en bruine vlekken die bomen of struiken suggereren. De achtergrond bestaat uit een lichte, vaag geschilderde hemel met watervlekenachtige structuren. Kleuren zijn gedempt, met een textuur die dik en korrelig lijkt door de zichtbare penseelstreken. De compositie straalt een rustige, bijna dromerige sfeer uit, waarbij de spiraal de blik trekt als een zachte, bewegende kracht in een statisch landschap. Kleine, onregelmatige vormen en kleuren aan de randen geven een gevoel van onafgemaaktheid en openheid.",
-      "cyclus": 12531,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een abstracte, dynamische compositie met een spiraalvormige structuur die niet typisch is voor een toeristische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012531_12594.webp"
-    },
-    {
-      "id": 12585,
-      "titel": "Natte voetstappen, vergeten paden",
-      "beschrijving": "Een golvende spoor van nat zand loopt diagonaal door het beeld, omgeven door droger, ongerept zand. Het spoor heeft een glanzende, bijna vloeibare textuur met subtiele rimpels en kleine onregelmatigheden. Rechtsboven is een deel van een houten boot zichtbaar, met een verweerd oppervlak en donkere, schaduwen werpende randen. Het zand rond het spoor toont kleine steentjes, droge klontjes en verspreide bladeren. De kleuren zijn overwegend bruin en beige, met warme, golvende patronen die door het licht worden benadrukt. De compositie straalt een rustige, verlaten sfeer uit, met de boot als enig spoor van menselijke aanwezigheid.",
-      "cyclus": 12522,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, onverwachte compositie met een focus op textuur en beweging in de modder.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012522_12585.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12613,
-    "gemaakt": 12675,
-    "gekozen": 1954,
+    "cycli": 12620,
+    "gemaakt": 12682,
+    "gekozen": 1956,
     "afgekeurd": 1496,
-    "corpus": 63,
+    "corpus": 64,
     "notities": 474
   }
 }
