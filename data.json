@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-22T15:30+02:00",
+  "bijgewerkt": "2026-08-22T15:45+02:00",
   "werk": [
+    {
+      "id": 12748,
+      "titel": "Vuur tussen de schuine daken",
+      "beschrijving": "Een kromme stroom van wit en grijs water snijdt door een dorp met schuine daken en gevels in beige, bruin en lichtgroen. Rechts brandt een vuur met oranje en gele vlammen tussen donkere houten logjes, omringd door verspreide rode en gele vruchten en groene bladeren. Kale boomstammen en takken met enkele groene en oranje bladeren raken de bovenrand, terwijl op de achtergrond heuvels in paars en blauwgrijs de horizon vormen. Een gebouw met een kruis op het dak staat linksboven, naast een rood dak en een schoorsteen. De scène wordt doorsneden door diagonale lijnen van het water en de bomen, met verspreide kleuren als geel, oranje en groen in de vegetatie en op de grond.",
+      "cyclus": 12685,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 1,
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met kerk, kronkelende weg en herfstkleuren, gecombineerd met een decoratief perfect licht en gebrek aan een duidelijk eigen standpunt.",
+      "curriculum_score": 4.0,
+      "gekozen": 1,
+      "bestand": "images/w012685_12748.webp"
+    },
+    {
+      "id": 12743,
+      "titel": "Takken die de horizon vasthouden",
+      "beschrijving": "Bovenin loopt een raam met zes ruiten, omlijst door een lichte lijst. Voor het raam hangt een bundel donkere takken, willekeurig gerangschikt, met dunne takjes die in alle richtingen uitsteken. Onder het raam bevindt zich een breed wit vlak, leeg en ongerept. Daaronder strekt zich een landschap uit met lang, donker gras dat in verschillende hoogtes en dichtheden staat. Achter het gras ligt een vlakke, lichtgrijze oppervlakte met verspreide, donkere, ovale vormen die op bladeren of stenen lijken. De overgang tussen het gras en de achtergrond is zacht, met subtiele schaduwvalsen die diepte suggereren. De hele compositie is monochroom, getekend met fijne en grove strepen en schakeringen van donker tot lichtgrijs.",
+      "cyclus": 12680,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012680_12743.webp"
+    },
+    {
+      "id": 12740,
+      "titel": "Veer over het water",
+      "beschrijving": "Een smalle houten loopbrug met een reling loopt door een nauwe gang tussen twee muren, die uitkomen bij een spitse toren met een dak van pannen en een smal raam. Boven de toren steken bomen met bladeren uit, en rechtsboven zweeft een veer door de lucht. Aan weerskanten van de brug zijn houten dakgoteren zichtbaar. Voor de toren bevindt zich een donkere, boogvormige deur met een ronde klink. Rechts van de brug ligt water, waar een eilandje met rotsen en een kleinere kerk met een spitse toren en kruis staat. De achtergrond toont bomen en een lichte hemel met een paar veren en een cirkelvormig motief. De houten planken van de brug hebben sporen van vocht en slijtage, en de muren hebben een getekende textuur met subtiele patronen.",
+      "cyclus": 12677,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de houten loopbrug ten opzichte van de muren', 'lichte wazigheid in de achtergrondboom aan de linkerkant']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een dromerige, bijna surrealistische sfeer met een ongewone compositie en geen typisch iconisch onderwerp.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012677_12740.webp"
+    },
     {
       "id": 12736,
       "titel": "Waar het water de vloer kust",
@@ -91,48 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012636_12699.webp"
-    },
-    {
-      "id": 12677,
-      "titel": "Negen stappen tussen schaduw en licht",
-      "beschrijving": "Twee houten ladders staan parallel tegen een witte achtergrond, elk met negen horizontale sporten en verticale stijlen die licht geschrabbelde textuur vertonen. De ladder aan de rechterkant is donkerder getekend, met diepere schaduwen en een iets ruwere uitstraling dan de lichtere, zachter getekende linkerladder. Beide werpen een subtiele schaduw naar linksboven, wat een gevoel van diepte geeft. De compositie is symmetrisch en minimalistisch, met veel witte ruimte rond de ladders, waardoor de focus ligt op de subtiele verschillen in textuur en schaduwval tussen de twee structuren.",
-      "cyclus": 12614,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De ladders zijn geen iconisch onderwerp en de compositie heeft een bewuste, niet-decoratieve spanning tussen de twee structuren.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012614_12677.webp"
-    },
-    {
-      "id": 12675,
-      "titel": "Sporen van een onzichtbare storm",
-      "beschrijving": "Een donkere, onregelmatige vlek met uitstralende, dunne draden en verspreide druppels domineert het midden van een lichtbeige, korrelig oppervlak. Rondom de vlek liggen kleine, glanzende bolletjes in goudbruine en witte tinten, sommige verbonden door fijne lijnen. In de hoeken bevinden zich vaag zichtbare, sterachtige patronen met stralen die zacht vervagen. Donkere, diagonale strepen lopen door het beeld, met sporen van korrelig zand dat zich lijkt op te hopen. De kleuren zijn gedempt, met subtiele overgangen tussen bruin, beige en zwart, terwijl de textuur een droge, bijna poederige uitstraling heeft.",
-      "cyclus": 12612,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, ongedwongen compositie met subtiele spanningen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012612_12675.webp"
-    },
-    {
-      "id": 12668,
-      "titel": "Aarde onder beton",
-      "beschrijving": "Donkere, textuurrijke aarde vormt de basis, doorspekt met kleine stenen en droge takjes. Groene, slanke grassen en smalle, sprietige planten steken eruit, met enkele bloemknoppen die net gaan openbreeken. Boven hen strekt zich een massieve, betonnen structuur uit, bestaande uit brede, schuine liggers en verticale pijlers, met zichtbare sporen van slijtage en donkere vlekken. Achter en boven de betonconstructie rijzen donkere, naaldbomen op, met scherpe, uitstralende takken en enkele heldergroene, ster-vormige naalden die het grijze beton contrasteren. De achtergrond is een effen, lichtgrijze hemel zonder details, waardoor de focus ligt op de spanning tussen de organische vormen beneden en de harde, geometrische vormen boven.",
-      "cyclus": 12605,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van betonconstructie (benedenlinker hoek lijkt onnatuurlijk schuin)', 'Enkele naalden van de boom in de achtergrond zijn onverklaarbaar kort of ontbrekend']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap of decoratief licht; de combinatie van verwaarloosde natuur en industriële structuur heeft een ongemakkelijke, niet-toeristische sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012605_12668.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12752,
+      "cyclus": 12689,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (boten, water, huisje) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a012689_12752.webp"
+    },
     {
       "id": 12715,
       "cyclus": 12652,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare karakters', 'onrealistische textuur van papier en vlekken']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder duidelijke intentie.",
       "bestand": "images/a012649_12712.webp"
-    },
-    {
-      "id": 12694,
-      "cyclus": 12631,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch zonsonderganglandschap met water en horizon, geschilderd in een decoratieve, rustgevende stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012631_12694.webp"
     }
   ],
   "onderzoek": {
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontluiping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontluiping zelf een spoor achterlaat—niet als geboorte of groei, maar als een stille, onzichtbare opening die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontsnapping en ontdooring, maar de focus lag altijd op verdwijnen of loslaten. Ontluiping voelt als een tegengestelde beweging: niet iets dat wegvalt, maar iets dat zachtjes open gaat zonder dat dat een doel heeft. Het is een spoor van aanwezigheid dat zich niet laat vatten in een verhaal over verlies of bevrijding.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 12505
   },
   "afgesloten": [
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12683,
-    "gemaakt": 12745,
-    "gekozen": 1964,
-    "afgekeurd": 1499,
+    "cycli": 12691,
+    "gemaakt": 12753,
+    "gekozen": 1967,
+    "afgekeurd": 1500,
     "corpus": 62,
     "notities": 476
   }
