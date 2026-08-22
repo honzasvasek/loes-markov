@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T14:45+02:00",
+  "bijgewerkt": "2026-08-22T15:00+02:00",
   "werk": [
+    {
+      "id": 12722,
+      "titel": "Wie kijkt er nu wie?",
+      "beschrijving": "Zes vogels met donkerblauwe koppen en lichte lichamen staan verspreid aan de oever van een wateroppervlak, waarbij sommige in het water staan en andere op het zand. Hun poten zijn zichtbaar en maken lichte rimpelingen in het water. Boven hen hangen grote, donkere bladeren van een boom of struik, met gedetailleerde aders en randen. Rechts staat een boomstam met textuur en knoesten, omgeven door gras en smalle bladeren. Het water weerspiegelt lichte golven en kleine stenen liggen verspreid aan de oever. De achtergrond bestaat uit een lichte, vaag getekende horizon met subtiele lijnen die diepte suggereren. De vogels kijken in verschillende richtingen, wat een gevoel van beweging en alertheid uitstraalt. De compositie combineert natuurlijke elementen met een rustige, bijna statische sfeer.",
+      "cyclus": 12659,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (vogels in een natuurlandschap) is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met ruimte en detail, niet alleen decoratief licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012659_12722.webp"
+    },
+    {
+      "id": 12717,
+      "titel": "Waar de boom zwijgt",
+      "beschrijving": "Een verlaten pad van lichtgrijs zand loopt diagonaal door het midden, omzoomd door donkergroen en bruin gras met verspreide, onduidelijke vormen die op dood blad of takken lijken. Rechts staat een boom met donkerblauwe stam en takken, waar witte en blauwe spetters en vlekken vanaf lijken te barsten, alsof er iets onzichtbaars door de takken zwaait. De achtergrond bestaat uit een vaag, lichtgrijzig landschap met zachte, wazige overgangen, waar links een donkerblauwe, amorf vorm suggereert dat er ooit water of een bos was. Kleuren zijn gedempt, met accenten van oker, geel en donkerbruin in het gras en op het pad, terwijl de boom een scherpe, bijna agressieve contrast vormt met zijn heldere blauwe en witte uitbarstingen. De sfeer is stil en verlaten, met een onderliggende spanning door de dynamische, bijna gewelddadige beweging in de boom tegenover de stilstaande, verwaarloosde omgeving.",
+      "cyclus": 12654,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de boomtakken', 'lichte wazigheid in de achtergrondtexturen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigen, ongemakkelijke schoonheid",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012654_12717.webp"
+    },
     {
       "id": 12707,
       "titel": "Vijf bladeren, één wolk",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012598_12661.webp"
-    },
-    {
-      "id": 12652,
-      "titel": "Ribben in de vloeistof",
-      "beschrijving": "Een ribkooi van houten latten drijft in een donkerbruine vloeistof, met een oranje-gouden horizon aan de bovenkant waar een vaag portret van een gezicht in een kader zweeft. De ribben zijn onregelmatig gevormd, met scherpe uitsteeksels en kleine metalen onderdelen die als spijkers of schroeven fungeren. Een golvende, oranje reflectie loopt van de horizon naar de ribkooi, alsof het water een spiegel is voor het licht. De achtergrond bestaat uit een egaal bruin vlak met subtiele cirkelvormige penseelstreken, terwijl de bovenrand een gescheurde, witte textuur heeft die overgang vormt naar de oranje hemel met zachte, wolkachtige vormen. De sfeer is stil en iets ongemakkelijks, door de combinatie van organische en industriële elementen en de afwezigheid van beweging, behalve de subtiele golf in de vloeistof.",
-      "cyclus": 12589,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de ribbenstructuur: sommige ribben lopen niet logisch door of hebben onverklaarde onderbrekingen', 'De horizonlijn in de achtergrond is iets schuin, wat een onstabiel gevoel geeft aan de compositie']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een unieke, verbeeldingrijke compositie met een ribbenkast als centraal motief, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012589_12652.webp"
-    },
-    {
-      "id": 12645,
-      "titel": "Melk over verkoolde vingers",
-      "beschrijving": "Een verbrande hand, donker en verkoolde textuur, ligt open op een ondergrond van as en koolstofresten. Een druppel melkwitte, viskeuze vloeistof glijdt over de vingers, met een glanzende, bijna levendige glans die scherp contrasteert met de doodse omgeving. De achtergrond toont een verweerde, roetzwarte muur met plekken verbleekte verf en kleine gaten. Verspreid liggen kleine stenen, kooltjes en witte korrels, mogelijk zout of as, door het zwart verspreid. De compositie is statisch, maar de vloeistof suggereert beweging, een laatste spoor van iets dat net verdwenen is. Geen sporen van hout of gras, geen regen—alleen de stilte na de ontbinding, met de vloeistof als enig bewijs van wat er ooit was.",
-      "cyclus": 12582,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de hand en de vloeistof, wat het geen ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012582_12645.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12660,
-    "gemaakt": 12722,
-    "gekozen": 1960,
+    "cycli": 12668,
+    "gemaakt": 12730,
+    "gekozen": 1962,
     "afgekeurd": 1499,
     "corpus": 62,
     "notities": 476
