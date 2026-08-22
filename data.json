@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T15:00+02:00",
+  "bijgewerkt": "2026-08-22T15:15+02:00",
   "werk": [
+    {
+      "id": 12736,
+      "titel": "Waar het water de vloer kust",
+      "beschrijving": "Een smalle gang met lichtgrijze muren en een houten plafond met zichtbare lamellen leidt naar een open deur aan het eind. Door die deur zwaait een woelige golf met wit schuim en diepblauwe, groene en turkooise tinten de gang in, alsof de oceaan de ruimte binnenstroomt. Het water lijkt de houten vloer te raken, waar natte sporen en reflecties van het golfschuim zichtbaar zijn. Rechts staat een witte deur met een ronde, bruine kruk half open, terwijl links een smalle, onbepaalde vorm tegen de muur suggereert dat er misschien nog iets anders in de gang staat. Het licht komt van buitenaf, waardoor de gang helder is, maar de hoeken donkerder blijven. De penseelstreken zijn zichtbaar en geven het beeld een dynamische, bijna bewegende sfeer.",
+      "cyclus": 12673,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van de deur en de lijst, lichte wazigheid in de achtergrond van de golven",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke compositie met een open deur naar een chaotisch landschap",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012673_12736.webp"
+    },
+    {
+      "id": 12731,
+      "titel": "Riet dat zich onthoudt van dansen",
+      "beschrijving": "Droge, goudbruine rietstengels rijzen schuin op uit een smalle, kronkelende waterloop, hun toppen zachtjes bewegend alsof door een lichte bries. Het water, grijsblauw met zachte, golvenachtige bewegingen, weerspiegelt de rietstengels en de vaag zichtbare, kale bomen aan de horizon. Donkere, slanke stengels en bladeren steken willekeurig uit het water, sommige ondergedompeld, andere droog en bros. De achtergrond bestaat uit een gedempt landschap met donkere, onscherpe bomen en een lichte, bewolkte hemel die overgaat in het water. De kleuren zijn gedempt en natuurgetrouw, met accenten van bruin, grijs en zacht blauw, wat een rustige, verlaten sfeer oproept.",
+      "cyclus": 12668,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in waterreflecties bij riet', 'lichte wazigheid in achtergrondbomen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap met perfecte zonsondergang, maar een ongemakkelijke, dynamische compositie met ongelijkmatige lijnen en onbeheerste details.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012668_12731.webp"
+    },
     {
       "id": 12722,
       "titel": "Wie kijkt er nu wie?",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012605_12668.webp"
-    },
-    {
-      "id": 12662,
-      "titel": "Rook die liegen leert",
-      "beschrijving": "Een blauwe deur staat halfopen in een groene muur, met een donkere, onduidelijke ruimte erachter. Rook stijgt in slangen van de deur af en glijdt naar rechts. Links van de deur staat een metalen emmer met een schep erin, naast een kleine, glanzende schaal en verspreide voorwerpen op de grond. Rechts leunt een schep tegen de muur, met gras dat de hoek van het beeld binnenkruipt. De deur heeft een scheur die diagonaal loopt, met losse stukken verf die het blauw onderbreken. De muur toont sporen van slijtage, met plekken waar de verf af is en het onderliggende materiaal zichtbaar is. Het licht valt schuin van linksboven, waardoor schaduwen de diepte van de scène benadrukken.",
-      "cyclus": 12599,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deurkozijnen', 'lichte wazigheid in de schaduwpartijen van de emmer']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, denkbeeldige sfeer die boven een ansichtkaart uitstijgt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012599_12662.webp"
-    },
-    {
-      "id": 12661,
-      "titel": "Waar leidt die ladder naartoe?",
-      "beschrijving": "Een houten ladder met leuningen loopt schuin omhoog vanaf een steenwanden gebouw met een getegeld dak, waarbij de treden overgaan in een rotsachtige wand. Rook met een blauwe gloed stijgt op bij de bovenste trede en verdwijnt in een vaag, wazig landschap met zandduinen en een lichtgekleurde horizon. Onderaan de ladder staat een kleine, verweerde hut met een klein raampje en een donkere ingang, omringd door verspreide voorwerpen zoals een emmer, een schep en wat groen. De achtergrond bestaat uit zachte, golvende lijnen die een woestijnsferisch landschap suggereren, met subtiele schaduwvalsen die diepte geven. De kleuren zijn overwegend beige, grijs en bruin, met de blauwe rook als enige kleuraccent. De compositie is verticaal opgebouwd, met de ladder als leidende lijn die het oog naar boven trekt, terwijl de hut en de voorwerpen eronder een zwaartepunt vormen in het onderste deel van het beeld.",
-      "cyclus": 12598,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012598_12661.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12668,
-    "gemaakt": 12730,
-    "gekozen": 1962,
+    "cycli": 12676,
+    "gemaakt": 12738,
+    "gekozen": 1964,
     "afgekeurd": 1499,
     "corpus": 62,
     "notities": 476
