@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T01:15+02:00",
+  "bijgewerkt": "2026-08-23T01:30+02:00",
   "werk": [
+    {
+      "id": 13007,
+      "titel": "Donkere sporen op water",
+      "beschrijving": "Een wateroppervlak met lichte golven en donkere reflecties van bomen aan de horizon. In het midden drijven twee donkere, onregelmatige vormen die lijken op eilanden van riet of mos. De voorgrond wordt gedomineerd door scherpe, donkere grasspicpen die diagonaal door het beeld lopen, met daarachter een smalle strook zand of modder. De achtergrond toont een lijn van donkere bomen tegen een lichte, getextureerde hemel met subtiele, golvende patronen. Het geheel heeft een rustige, bijna statische sfeer, met een sterke contrasteffect tussen de donkere vormen en de lichte achtergrond.",
+      "cyclus": 12944,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van bomen aan horizon', 'lichte wazigheid in textuur van wateroppervlak']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap met decoratief licht, maar een beperkt formaat met focus op textuur en beweging in water en vegetatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012944_13007.webp"
+    },
+    {
+      "id": 13006,
+      "titel": "Trappen zonder bestemming",
+      "beschrijving": "Een donkere roeiboot drijft op kalm water, schuin gepositioneerd met de boeg naar linksboven. Achter de boot stijgen smalle, horizontale trappen op, gedeeltelijk ondergedompeld en verweerd, met donkere spleten tussen de treden. Het water weerspiegelt de trappen en de boot, met lichte rimpelingen rond de romp. Verspreid over het water en de oever liggen donkere, onregelmatige brokstukken, mogelijk hout of steen. De achtergrond bestaat uit een egale, grijze hemel zonder duidelijke overgang naar het water, wat een gesloten, nevelig gevoel geeft. De scène is monochroom, met subtiele schaduw- en lichtvariaties die de textuur van het water en de trappen benadrukken.",
+      "cyclus": 12943,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistenties in textuur van water en hout, lichte wazigheid in achtergrond",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, compositorische keuze is subtiel en niet clichématig",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012943_13006.webp"
+    },
     {
       "id": 12999,
       "titel": "Wat blijft hangen in het water",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012886_12949.webp"
-    },
-    {
-      "id": 12948,
-      "titel": "Stenen die zwijgen houden vast",
-      "beschrijving": "Een verzameling ronde, onregelmatige stenen drijft op donkerblauw water, waarbij sommige gedeeltelijk ondergedompeld zijn en andere net boven de oppervlakte uitsteken. De stenen hebben een ruwe textuur met vlekken van grijs, beige en bruin, en enkele tonen subtiele roze of witte accenten. Rond de stenen lopen concentrische ringen door het water, alsof ze recent in het water zijn gegooid. Het water zelf is diepblauw met zachte, golvende lijnen die beweging suggereren, en er zweven kleine, donkere vormen die op bladeren of stukjes afval lijken. De compositie is asymmetrisch, met de stenen voornamelijk aan de linkerkant en onderkant van het beeld, terwijl het water de rechter- en bovenkant domineert. De sfeer is rustig en bijna meditatief, met een gevoel van stilte en afwezigheid van geluid.",
-      "cyclus": 12885,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012885_12948.webp"
-    },
-    {
-      "id": 12933,
-      "titel": "Wat blijft hangen in de steen",
-      "beschrijving": "Een onregelmatige scheur in een ruwe, textuurrijke muur van zandsteen onthult een vaag, grijs landschap achterin. De randen van de scheur zijn scherp en ongelijkmatig, met losse stenen en kleine brokjes die het gevoel van verval versterken. Door de opening zie je een nevelig, onduidelijk beeld van wat mogelijk water of een verlaten vlakte is, met subtiele verticale lijnen die regen of rimpels kunnen suggereren. De kleuren zijn gedempt: de steen is beige met bruine en grijze tinten, terwijl het achtergrondlandschap in zachte, onduidelijke grijstinten bestaat. Een enkele waterdruppel hangt aan de rand van de scheur, glinsterend in het diffuse licht. De compositie is asymmetrisch, met de scheur die diagonaal door het beeld loopt en de kijker naar het onbekende achterin trekt.",
-      "cyclus": 12870,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp is abstract en de compositie is niet decoratief perfect.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012870_12933.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12947,
-    "gemaakt": 13009,
-    "gekozen": 2007,
+    "cycli": 12955,
+    "gemaakt": 13017,
+    "gekozen": 2009,
     "afgekeurd": 1528,
     "corpus": 63,
     "notities": 480
