@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T02:15+02:00",
+  "bijgewerkt": "2026-08-22T02:30+02:00",
   "werk": [
+    {
+      "id": 12388,
+      "titel": "Rook die de stilte doorbreekt",
+      "beschrijving": "Een brede, open veldruimte met losse klompen donkerbruine aarde en strooisel van droge stengels. Een lange, cilindrische metalen buis ligt schuin in het midden, bedekt met stof en modder, met een dunne straal witte rook die eruit opstijgt en zich verspreidt in de lucht. Een metalen staaf steekt schuin uit een aardklomp in de voorgrond. De achtergrond toont een horizon met schaarse groene vegetatie en een helderblauwe hemel zonder wolken. Stof wervelt op rond de buis en de aarde, en de zon werpt scherpe schaduwen.",
+      "cyclus": 12325,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een ongemakkelijke, onbeheerste scène zonder decoratief licht of compositorische keuzes die naar een ansichtkaart verwijzen.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012325_12388.webp"
+    },
+    {
+      "id": 12385,
+      "titel": "Rook die zich herinnert vuur",
+      "beschrijving": "Een donkere, chaotische ruimte wordt doorsneden door een kronkelende, witte rookstaart die zich van boven naar beneden uitstrekt, omgeven door fragmenten van hout, metaal en onherkenbare voorwerpen in bruine, grijze en blauwe tinten. Kleurrijke vlekken—rood, oranje, groen—zitten verspreid tussen het puin, terwijl de rook over een golvend, lichtgrijs oppervlak glijdt dat lijkt op water of smeltend ijs. Kleine, scherpe vormen, zoals een wit kruisje en donkere schaduwen, drijven in de rook of liggen verspreid tussen het afval. De compositie voelt als een moment van bevriezen na een explosie, met de rook als enige beweger in een wereld van stilstaand wrakschroot.",
+      "cyclus": 12322,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar wat wazigheid in de achtergrond en kleine inconsistenties in de textuur van de rook",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, denkbeeldige compositie zonder duidelijke referentie aan een plaats of moment",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012322_12385.webp"
+    },
     {
       "id": 12368,
       "titel": "Waar blijft de uitgang?",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012271_12334.webp"
-    },
-    {
-      "id": 12321,
-      "titel": "Gele stenen op paden",
-      "beschrijving": "Een smalle asfaltweg loopt in een boog door een landschap, geflankeerd door gras en kleine gele bloemen. Rechts van de weg stroomt een smalle waterloop, omgeven door bomen en struiken. In de verte staan huizen met schuine daken tegen een gele hemel met zachte wolken. Twee slanke bomen staan aan de rechterkant van de weg, hun takken uitgestrekt naar de hemel. Het gras aan de linkerkant is hoog en wat overwoekerd, met een opvallende gele steen die in het gras ligt. De weg heeft een witte randstrook en lijkt leeg en rustig. De sfeer is kalm en verlaten, met een licht nostalgische tint door de kleurverloop van de afbeelding.",
-      "cyclus": 12258,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de takken van de bomen aan de rechterkant, alsof ze in een golf bewegen zonder wind', 'De witte lijn op de weg loopt iets te recht en consistent, wat artificieel aanvoelt', 'Het gras aan de linkerkant heeft herhalende patronen, alsof het gekopieerd is']",
-      "academie_cliche": 1,
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een smalle weg die zich uitstrekt naar een horizon met huizen en bomen, in een nostalgische kleurstijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "curriculum_score": 4.0,
-      "gekozen": 1,
-      "bestand": "images/w012258_12321.webp"
-    },
-    {
-      "id": 12319,
-      "titel": "Vogels die de horizon scheuren",
-      "beschrijving": "Een schuin dak van donkerbruin hout domineert de bovenste helft, met een puntige top die de blik trekt. Daaronder strekt een zachtroze muur zich uit, waar vijf zwarte vogels in V-vorm vliegen. Twee bomen flankeren het beeld: links een boom met donkergroene en blauwe bladeren, doorspekt met gele vlekken, rechts een boom met lichtgroene en blauwe bladeren en oranjeachtige takken. Onderaan lopen groene en blauwe struiken en grassen, met hier en daar kleine gele en blauwe stippen. De achtergrond is een vaag geel, alsof de zon net ondergaat. Kleuren zijn zacht en verwaterd, met zichtbare penseelstreken die een losse, bijna speelse sfeer geven.",
-      "cyclus": 12256,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, persoonlijke compositie met ruimte voor interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012256_12319.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontsnapping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontsnapping zelf een spoor achterlaat—niet als verlies of bevrijding, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontdooring en ontgrendeling—processen die zich afspeelden binnen een gesloten ruimte. Maar wat als de ruimte zelf niet gesloten is? Wat als de sporen niet binnen het beeld blijven, maar eruit wijzen? Ik wil onderzoeken hoe ontsnapping niet als een actie, maar als een spoor werkt: niet wat er ontsnapt, maar hoe de afwezigheid van iets de ruimte om het heen beïnvloedt.",
-    "modus": "verkennen",
+    "modus": "uitputten",
     "begonnen_cyclus": 12097
   },
   "afgesloten": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12324,
-    "gemaakt": 12386,
-    "gekozen": 1913,
+    "cycli": 12332,
+    "gemaakt": 12394,
+    "gekozen": 1915,
     "afgekeurd": 1460,
-    "corpus": 62,
+    "corpus": 63,
     "notities": 469
   }
 }
