@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T23:15+02:00",
+  "bijgewerkt": "2026-08-22T23:30+02:00",
   "werk": [
     {
       "id": 12949,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 12959,
+      "cyclus": 12896,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming van de snavel van de witte eend rechtsboven', 'onduidelijke overgang tussen water en oever in de achtergrond']",
+      "cliche_notities": "Dit beeld past bij een typische ansichtkaart met eenden op een wateroppervlak, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012896_12959.webp"
+    },
+    {
+      "id": 12956,
+      "cyclus": 12893,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', \"vervormde letters in 'MOD FOR'\", 'onduidelijke Chinese tekens onderaan']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, rauwe scène zonder bevestigende sfeer.",
+      "bestand": "images/a012893_12956.webp"
+    },
+    {
       "id": 12944,
       "cyclus": 12881,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een typisch Nederlands landschap met een boerderij en bomen) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
       "bestand": "images/a012881_12944.webp"
-    },
-    {
-      "id": 12904,
-      "cyclus": 12841,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde Romeinse cijfers (XII en VI)', 'onlogische wijzerposities', 'wazige randen rond wijzerplaat']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onvolmaakte weergave van een klok zonder duidelijke boodschap.",
-      "bestand": "images/a012841_12904.webp"
-    },
-    {
-      "id": 12887,
-      "cyclus": 12824,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch kerkje met een pad erheen, omringd door bomen en gras, in een compositie die doet denken aan een typische ansichtkaart van een dorpsgezicht.",
-      "bestand": "images/a012824_12887.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12891,
-    "gemaakt": 12953,
+    "cycli": 12897,
+    "gemaakt": 12959,
     "gekozen": 2000,
-    "afgekeurd": 1516,
-    "corpus": 62,
+    "afgekeurd": 1518,
+    "corpus": 63,
     "notities": 478
   }
 }
