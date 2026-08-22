@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T19:45+02:00",
+  "bijgewerkt": "2026-08-22T20:00+02:00",
   "werk": [
+    {
+      "id": 12862,
+      "titel": "Scheuren in het wit",
+      "beschrijving": "Wit papier met gescheurde randen bedekt een deel van het beeld, waarbij door de scheuren een vaag zichtbare witte deur met donkere scharnieren en een metalen kruk te zien is. Het papier heeft horizontale plooien en ligt in lagen, met de bovenste laag schuin over de onderste. De achtergrond is egale, lichtgrijze muur, en de deur bevindt zich in een donkerder kader. De scheuren in het papier onthullen verschillende hoogtes van de deur, waarbij de bovenste scheur de bovenkant van de deur laat zien en de onderste scheur de onderkant. De randen van het papier zijn onregelmatig en vezelig, met kleine losse vezeltjes die uitsteken. Het papier werpt een zachte schaduw op de muur eronder.",
+      "cyclus": 12799,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op leegte en afwezigheid, niet op een bevestigend verhaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012799_12862.webp"
+    },
+    {
+      "id": 12860,
+      "titel": "Potlood tekent geschiedenis",
+      "beschrijving": "Een wit schuurtje met een donker dak staat centraal in een groen veld onder een lichtblauwe hemel met witte wolken. Het schuurtje heeft een witte deur met een donkere klink en een raam met vier ruiten. Rechtsboven in beeld steekt een gele potloodpunt met een zwarte huls het schuurtje aan, vastgehouden door vingers die net buiten het kader vallen. Het gras rondom is ongelijkmatig, met hier en daar kleine bloemetjes en een pad van bruine planks naar de deur. De achtergrond vervaagt tot een zachte, groene horizon.",
+      "cyclus": 12797,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming van de vingers die de potloodpunt vasthouden', 'Onduidelijke overgang tussen het gras en de achtergrond, wat een wat wazig effect geeft']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, bijna intieme compositie met de hand die de potloodpunt vasthoudt, wat het buiten de categorie 'toeristische ansichtkaart' plaatst.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w012797_12860.webp"
+    },
     {
       "id": 12854,
       "titel": "Druppel die de stilte brak",
@@ -104,35 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012744_12807.webp"
-    },
-    {
-      "id": 12803,
-      "titel": "Rook en verdwijnende sporen",
-      "beschrijving": "Een roodbruin landschap met zandduinen wordt doorsneden door een smalle, rozeachtige pad die diagonaal loopt. Aan de linkerkant staat een houten ladder met witte treden schuin tegen het zand, naast een paarse veer die rook afgeeft. Vijf witte gansachtige vogels bevinden zich in verschillende posities: drie vliegen met gespreide vleugels, twee staan op de grond. Witte keien en een enkele witte sandaal liggen verspreid over het pad en het zand. Donkere schaduwen onder de vogels en de ladder geven diepte. De achtergrond bestaat uit zachte, golvende duinen onder een effen roodbruine hemel.",
-      "cyclus": 12740,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongewoon en heeft een eigen stemming.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012740_12803.webp"
-    },
-    {
-      "id": 12794,
-      "titel": "Stippen die meedrijven met bladeren",
-      "beschrijving": "Vier bladeren drijven tegen een grijze achtergrond, elk met een unieke kleur en textuur: bruin, goud, wit en geelbruin. Donkere stippen zweven rond ze, alsof ze net los zijn gedreven. Onderaan de compositie staan groene en gele blokken met een ruwe, getekende textuur, die lijken op gestileerde stenen of hout. De bladeren hebben scherpe tanden en duidelijke aderen, terwijl de blokken een onregelmatige, bijna broze uitstraling hebben. De grijze achtergrond is glad, maar met subtiele schaduwen die diepte suggereren. De sfeer is rustig, bijna zwevend, alsof het moment net voor de val wordt vastgelegd.",
-      "cyclus": 12731,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in schaduwval bij bladeren', 'lichte wazigheid in textuur van onderste blokken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; composities zijn speels en niet-obvious.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012731_12794.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12871,
+      "cyclus": 12808,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een surrealistische compositie met een eigen standpunt.",
+      "bestand": "images/a012808_12871.webp"
+    },
+    {
+      "id": 12868,
+      "cyclus": 12805,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de weg ten opzichte van de heuvels', 'lichte wazigheid in de tekstuur van de verre bomen']",
+      "cliche_notities": "Het beeld toont een iconisch landschap met zonsondergang, een weg die de blik trekt en een klassieke compositie zonder duidelijke persoonlijke keuzes.",
+      "bestand": "images/a012805_12868.webp"
+    },
     {
       "id": 12859,
       "cyclus": 12796,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met dorpsgezelligheid, kerktoren en rustige waterloop, getekend in een decoratieve, nostalgische stijl zonder duidelijke compositorische keuzes die beyond een klassiek postkaartmotief gaan.",
       "bestand": "images/a012796_12859.webp"
-    },
-    {
-      "id": 12834,
-      "cyclus": 12771,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met ruimte voor interpretatie.",
-      "bestand": "images/a012771_12834.webp"
-    },
-    {
-      "id": 12826,
-      "cyclus": 12763,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk met spits, typisch landschap) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a012763_12826.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12804,
-    "gemaakt": 12867,
-    "gekozen": 1985,
-    "afgekeurd": 1507,
-    "corpus": 64,
+    "cycli": 12811,
+    "gemaakt": 12873,
+    "gekozen": 1987,
+    "afgekeurd": 1509,
+    "corpus": 63,
     "notities": 478
   }
 }
