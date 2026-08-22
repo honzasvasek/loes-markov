@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T05:45+02:00",
+  "bijgewerkt": "2026-08-22T06:00+02:00",
   "werk": [
+    {
+      "id": 12481,
+      "titel": "Rook die leert vliegen",
+      "beschrijving": "Een opwellend, wervelend vorm dat lijkt op een fontein of een opstijgende rookpluim domineert het midden van het beeld, met soepel golflijnen in groen, geel en wit die zich naar boven uitbreiden tot een wolkachtige vorm. Rode en donkerblauwe accenten omlijnen de randen, terwijl kleine gele en groene stippen door de compositie verspreid zijn. Onderaan vloeit het vorm uit in een donkere, onregelmatige basis met bruine en zwarte tinten, die een textuur heeft van ruw landschap of verbrande grond. De achtergrond bestaat uit een grijzig, getekend vlak met subtiele witte krassporen en verspreide donkere vlekken, wat een gevoel van beweging en onrust toevoegt aan het tafereel.",
+      "cyclus": 12418,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van achtergrond (links/rechts)', 'kleine halo rond rode vorm bovenaan']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuzes zijn onorthodox en niet-bevestigend.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012418_12481.webp"
+    },
+    {
+      "id": 12476,
+      "titel": "Goud dat kijkt terug",
+      "beschrijving": "Grijs doek met twee gouden vormen: bovenaan een oog met witte sclera, gouden iris en donkere pupil, omringd door scherpe, gouden wimpers en een golvende gouden rand. Onder het oog een slanke, golvende gouden vorm met een textuur van kleine, onregelmatige bultjes en glinsterende details. De achtergrond is egaal grijs met subtiele penseelstreken, de gouden elementen hebben een driedimensionale, reliëfachtige uitstraling met lichtreflecties die diepte suggereren. De compositie is verticaal georiënteerd, met veel lege ruimte rond de vormen, wat een gevoel van isolatie en focus op de details versterkt.",
+      "cyclus": 12413,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met de afwisseling van vormen en de gebruikte textuur.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012413_12476.webp"
+    },
     {
       "id": 12471,
       "titel": "Rook die blijft hangen",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012369_12432.webp"
-    },
-    {
-      "id": 12419,
-      "titel": "Hoofden onder de horizon",
-      "beschrijving": "Een oranje hemel domineert de bovenste helft, scherp afgetekend tegen een donkere, horizontale betonnen brug met verticale steunen. Onder de brug liggen vier menselijke hoofden in profiel, wisselend gericht, met donker haar en onduidelijke gelaatstrekken, alsof ze uit het landschap groeien. Voor de brug strekt een golvend veld zich uit met donkere, onregelmatige sporen en verspreide, kleine donkere vormen die op vogels of stenen lijken. In de voorgrond rijzen donkere, sprietige grassprietjes op uit een textuurrijke, korrelige ondergrond, met enkele langere, slanke bladeren die de compositie doorsnijden. De overgang van de warme hemel naar de koele, grijze tonen van het landschap creëert een rustige, bijna dromerige sfeer.",
-      "cyclus": 12356,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en heeft een eigen standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012356_12419.webp"
-    },
-    {
-      "id": 12406,
-      "titel": "Rook zonder vuur",
-      "beschrijving": "Rook stijgt op in een verlaten landschap, waar vage contouren van velden en heuvels door een grijze mist zichtbaar blijven. Donkere, onregelmatige vormen—mogelijk stenen of puin—liggen verspreid over de voorgrond, doorweven met droog gras en kleine, onherkenbare fragmenten. De rook beweegt in golven, waardoor de achtergrond vervagen tot een eentalig grijs, terwijl de voorgrond donkerder en textuurrijker blijft. Een enkele zwarte stip zweeft in de rook, zonder duidelijke oorsprong. De kleuren zijn gedempt: bruin, grijs en vaag groen, met een sfeer van verlatenheid en stilte. Geen beweging, geen geluid, alleen de trage opstijging van de rook door een wereld zonder leven.",
-      "cyclus": 12343,
-      "tech_score": 8.0,
-      "tech_notities": "enkele lichte smeuiigheid in de mist, minimale detailverlies in donkere voorgrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de mist en verlaten landschap hebben een ongemakkelijke, niet-verkoopbare sfeer",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012343_12406.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12420,
-    "gemaakt": 12482,
-    "gekozen": 1928,
+    "cycli": 12427,
+    "gemaakt": 12489,
+    "gekozen": 1930,
     "afgekeurd": 1469,
     "corpus": 63,
     "notities": 469
