@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T21:30+02:00",
+  "bijgewerkt": "2026-08-22T21:45+02:00",
   "werk": [
+    {
+      "id": 12908,
+      "titel": "Roze boven, groen beneden?",
+      "beschrijving": "Een roze vlak beslaat de bovenste vier vijfde van het beeld, met subtiele penseelstreken die een lichte textuur geven. Daaronder loopt een smalle strook met groene, geelgroene en donkergroene penseelstreken die gras suggereren, doorspekt met kleine kleurvlakken in blauw, oranje en roze. Enkele donkerblauwe en groene vormen lijken op kleine bloemen of zaadhoofdjes. De overgang tussen het roze en het groene deel is scherp, maar de grasstreken variëren in hoogte en dichtheid, met enkele langere, slanke vormen die omhoog steken. Kleuren zijn mat en iets vervagen, alsof ze door vocht of tijd zachtjes zijn doorgesmeerd.",
+      "cyclus": 12845,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een minimalistische compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012845_12908.webp"
+    },
     {
       "id": 12902,
       "titel": "Was die blijft hangen",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012791_12854.webp"
-    },
-    {
-      "id": 12846,
-      "titel": "Verf die liegt",
-      "beschrijving": "Grijze verticale en horizontale vlakken vullen het beeld, met subtiele variaties in tint en textuur. Donkerdere grijsbruine strepen lopen parallel aan de randen, terwijl lichtere, bijna witte gebieden zich in het midden bevinden. De verf is zichtbaar aangebracht met brede, ongelijkmatige penseelstreken, wat een ruwe, bijna industriële uitstraling geeft. Enkele plekken tonen lichte onregelmatigheden, zoals kleine bultjes of ongelijkheden in de verf. De compositie is strak en geometrisch, maar de onvolkomenheden in de verflaag voegen een element van willekeur toe. Er zijn geen herkenbare vormen of figuren, alleen een spel van vlakken en textuur. De sfeer is neutraal en afstandelijk, met een focus op de materiële eigenschappen van de verf en de structuur van het doek.",
-      "cyclus": 12783,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012783_12846.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12851,
-    "gemaakt": 12913,
-    "gekozen": 1993,
+    "cycli": 12858,
+    "gemaakt": 12921,
+    "gekozen": 1994,
     "afgekeurd": 1515,
     "corpus": 63,
     "notities": 478
