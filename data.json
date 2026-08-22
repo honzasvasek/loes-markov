@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T10:00+02:00",
+  "bijgewerkt": "2026-08-22T10:15+02:00",
   "werk": [
+    {
+      "id": 12597,
+      "titel": "Waar blijft de tas?",
+      "beschrijving": "Een rood getint silhouet van een figuur loopt weg van de kijker, vaag en onscherp, met een tas in de rechterhand. De achtergrond is een egaal roze-rood, zonder duidelijke horizon of details. Onderaan het beeld zijn dunne, donkere grassprietjes zichtbaar, scherp en fijn getekend tegen de zachte achtergrond. De figuur heeft geen gezicht of handen te zien, alleen een vaag omtrek van schouders, armen en benen. De sfeer is stil en leeg, met een gevoel van verdwijnen of vertrekken.",
+      "cyclus": 12534,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een vaag silhouet met subtiele details in de voorgrond.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012534_12597.webp"
+    },
+    {
+      "id": 12594,
+      "titel": "Spiraal zonder uitweg",
+      "beschrijving": "Een spiraal van brede, zachte penseelstreken domineert het midden, met afwisselende tinten grijs, beige, donkerblauw en subtiele rood- en geelaccenten. Rond de spiraal lopen vaag omlijnde huizen met rode en donkere daken, afgewisseld met groene en bruine vlekken die bomen of struiken suggereren. De achtergrond bestaat uit een lichte, vaag geschilderde hemel met watervlekenachtige structuren. Kleuren zijn gedempt, met een textuur die dik en korrelig lijkt door de zichtbare penseelstreken. De compositie straalt een rustige, bijna dromerige sfeer uit, waarbij de spiraal de blik trekt als een zachte, bewegende kracht in een statisch landschap. Kleine, onregelmatige vormen en kleuren aan de randen geven een gevoel van onafgemaaktheid en openheid.",
+      "cyclus": 12531,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een abstracte, dynamische compositie met een spiraalvormige structuur die niet typisch is voor een toeristische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012531_12594.webp"
+    },
     {
       "id": 12585,
       "titel": "Natte voetstappen, vergeten paden",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012465_12528.webp"
-    },
-    {
-      "id": 12520,
-      "titel": "Wie zaaide die cirkels?",
-      "beschrijving": "Een verticale reeks oranje-rode cirkels loopt door een donkerblauwe hemel, omgeven door witte, wazige wolken. De cirkels worden kleiner naarmate ze hoger komen, en vormen een onregelmatige lijn die de compositie doorsnijdt. De wolken hebben een zachte, bijna wazige textuur en vullen het grootste deel van het beeld, met veel ruimte tussen de vormen. De achtergrond is uniform donkerblauw, met subtiele variaties in licht en schaduw. De randen van het beeld zijn licht onregelmatig, alsof het een oude afdruk is. De sfeer is rustig en iets mysterieus, door de combinatie van de lege ruimte en de onverklaarde cirkels.",
-      "cyclus": 12457,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele horizontale banding in de achtergrond', 'lichte onregelmatigheid in de randen van de wolken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie met een focus op vorm en kleur in plaats van een herkenbaar landschap.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012457_12520.webp"
-    },
-    {
-      "id": 12510,
-      "titel": "Gras tussen de regels",
-      "beschrijving": "Negen horizontale houten latten vormen een gestructureerd patroon, met smalle openingen ertussen waar gras en bladeren doorheen groeien. De latten lopen schuin van linksboven naar rechtsonder, waardoor een dynamische spanning ontstaat tussen de rechte lijnen en de organische vormen eronder. Donkere schaduwen benadrukken de diepte tussen de latten, terwijl het licht de textuur van het hout en de fijne details van het groen accentueert. De achtergrond is een egale, lichte kleur, waardoor de focus ligt op het spel van licht en donker en de contrasten tussen het anorganische en organische.",
-      "cyclus": 12447,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (houten latten met onkruid ertussenin) is niet iconisch en de compositie heeft een eigen, bijna meditatieve rust die niet decoratief is.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012447_12510.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12541,
-    "gemaakt": 12603,
-    "gekozen": 1945,
+    "cycli": 12548,
+    "gemaakt": 12611,
+    "gekozen": 1947,
     "afgekeurd": 1487,
-    "corpus": 63,
+    "corpus": 64,
     "notities": 473
   }
 }
