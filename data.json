@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-23T00:45+02:00",
+  "bijgewerkt": "2026-08-23T01:00+02:00",
   "werk": [
+    {
+      "id": 12999,
+      "titel": "Wat blijft hangen in het water",
+      "beschrijving": "Donkere, slanke rietstengels rijzen uit een kalm wateroppervlak, hun spiegelbeeld scherp getekend in de golven. Achter hen strekt een bergketen zich uit met scherp getande pieken, omgeven door dunne, donkere bomen aan de horizon. Het water reflecteert niet alleen het riet, maar ook de bergen en bomen, met subtiele rimpelingen die de lijnen verstoren. In de voorgrond vullen langere, bruine grasstengels het beeld, met fijne, diagonale lijnen die diepte suggereren. De achtergrond is lichtgetekend met horizontale strepen, wat een gevoel van ruimte en afstand geeft. Donkere en lichte tinten van bruin, grijs en zwart domineren, met een sfeer van stilte en verlatenheid. Kleine details zoals vogels in vlucht en watervlekken op het water voegen toe aan de realiteit van het tafereel.",
+      "cyclus": 12936,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de focus op de leegte tussen de vormen en de reflectie in het water, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012936_12999.webp"
+    },
+    {
+      "id": 12997,
+      "titel": "Rook waar niets meer staat",
+      "beschrijving": "Een landschap met droog, bruin gras in de voorgrond, waar donkere, slanke grassprietjes doorheen steken. Achter het gras loopt een donkere, onregelmatige horizonlijn met wat lijkt op struiken of bomen. Boven die horizon stijgt een donkere, wazige rookpluim op die zich uitstrekt naar een grijze, bewolkte hemel. De kleuren zijn gedempt, met bruine en grijze tinten die een verlaten, stillere sfeer uitstralen. De compositie is verticaal, met het gras dat de onderste helft van het beeld inneemt en de rook en wolken de bovenste helft domineren. Er zijn geen duidelijke vormen of figuren te zien, alleen de suggestie van een verlaten, bijna vergeten plek.",
+      "cyclus": 12934,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in textuur van het gras aan de horizon",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaart-achtig",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012934_12997.webp"
+    },
+    {
+      "id": 12991,
+      "titel": "Het spoor dat blijft hangen",
+      "beschrijving": "Een uitgestrekt veld van droog, roodbruin gras vult de onderste helft, met lange, slanke stengels die in alle richtingen staan. De horizon is een scherpe lijn waar het veld overgaat in een egale, grijze lucht zonder wolken. Rechtsboven zweeft een donker, rechthoekig voorwerp met een ruwe textuur, alsof het van hout of steen is, met een lichte schaduw eronder. Linksboven is een vaag, donker spoor van dunne, krassende lijnen te zien, alsof iets door de lucht is getrokken. Enkele dode struiken en een enkele dunne stam steken hier en daar uit het gras. De sfeer is stil en verlaten, met een koel kleurgebruik dat de leegte benadrukt.",
+      "cyclus": 12928,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar de overgang tussen hemel en landschap is wat wazig en het donkere voorwerp in de lucht mist een duidelijke textuur",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp is niet iconisch en de compositie heeft een ongemakkelijke, denkbeeldige sfeer die beyond een simpele verbeelding gaat",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012928_12991.webp"
+    },
     {
       "id": 12983,
       "titel": "Draden die zwijgen",
@@ -91,48 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012870_12933.webp"
-    },
-    {
-      "id": 12930,
-      "titel": "Regendruppels op verlaten rotsen",
-      "beschrijving": "Donkere, natte rotsen liggen verspreid in ondiep water dat de golvende horizon raakt, met een enkele groene grasspriet die uit het water steekt. Het zandstrand loopt schuin op naar zandduinen met donkere dennenbomen, onder een bewolkte hemel die regen laat vallen. Regendruppels maken de lucht vaag en het water reflecteert een zwakke, gouden gloed, terwijl vochtig zand en natte rotsen donkere, glanzende texturen vormen. Een onscherpe grasspriet in de voorgrond en een verlaten, natte omgeving geven een gevoel van stilte en eenzaamheid.",
-      "cyclus": 12867,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte onscherpte in achtergrondbomen', 'subtiele halo rond waterhorizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch Nederlands landschap, maar een intieme, ongedwongen compositie met focus op textuur en stilte",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012867_12930.webp"
-    },
-    {
-      "id": 12926,
-      "titel": "Rook die vragen stelt",
-      "beschrijving": "Zand bedekt de grond, doorspekt met kleine stengelen en koolstofrijke brokjes. Zwarte, verkoolde blokken liggen verspreid, sommige met glanzende, natte plekken en fijne roetdeeltjes. Een dunne rookwaaier stijgt op van een van de blokken, waarbij de witte rook zich langzaam vermengt met de lucht. Een donkere, metalen staaf steekt schuin uit het koolstof, met een brede, gladde aansluiting. Witte en transparante kralen liggen verspreid tussen het zand en de kool, naast kleine, donkere fragmenten en droge plantendelen. De achtergrond vervaagt in een onscherpe, zandige vlakte met enkele donkere vlekken.",
-      "cyclus": 12863,
-      "tech_score": 8.0,
-      "tech_notities": "kleine halo rond rook, lichte inconsistentie in textuur zand",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een intieme, onopgesmukte scène",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012863_12926.webp"
-    },
-    {
-      "id": 12918,
-      "titel": "Waar de strepen stilstaan",
-      "beschrijving": "Zwart en grijs vormen een wirwar van strepen, vlekken en spetters tegen een lichte achtergrond. Donkere, onregelmatige vormen stralen uit van verschillende punten, met scherpe en zachte randen. Sommige strepen lopen diagonaal door het beeld, andere krommen of vertakken zich. Kleine, donkere stippen en ongelijkvormige vlekken zijn verspreid over het oppervlak, waarbij sommige gebieden dichter bevolkt zijn dan andere. De compositie voelt dynamisch, met een mix van snelle, krachtige bewegingen en stillere, diffuusere zones. Witte ruimtes tussen de donkere elementen geven het beeld luchthaven en diepte.",
-      "cyclus": 12855,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, dynamische compositie zonder decoratief perfect licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012855_12918.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13000,
+      "cyclus": 12937,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in textuur van de achtergrondbomen (minder detail dan voorgrond)",
+      "cliche_notities": "Landschap met vulkaan en naaldbomen is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt",
+      "bestand": "images/a012937_13000.webp"
+    },
     {
       "id": 12989,
       "cyclus": 12926,
@@ -150,15 +159,6 @@
       "tech_notities": "['kleine donkere vlek in de lucht (mogelijk artefact)', 'reflectie in water iets waziger dan realistisch']",
       "cliche_notities": "Typisch landschapsmotief met bloemen, water en wolken onder een perfecte blauwe hemel, zonder onverwachte compositorische keuzes.",
       "bestand": "images/a012921_12984.webp"
-    },
-    {
-      "id": 12980,
-      "cyclus": 12917,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een typisch Aziatisch landschap met traditionele architectuur en gras, uitgevoerd in een stijl die doet denken aan klassieke inkttekeningen, zonder duidelijke compositorische keuzes die beyond een ansichtkaart gaan.",
-      "bestand": "images/a012917_12980.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12931,
-    "gemaakt": 12993,
-    "gekozen": 2004,
-    "afgekeurd": 1525,
-    "corpus": 63,
+    "cycli": 12939,
+    "gemaakt": 13001,
+    "gekozen": 2007,
+    "afgekeurd": 1526,
+    "corpus": 64,
     "notities": 480
   }
 }
