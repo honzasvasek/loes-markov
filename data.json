@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T05:30+02:00",
+  "bijgewerkt": "2026-08-22T05:45+02:00",
   "werk": [
     {
       "id": 12471,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 12477,
+      "cyclus": 12414,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van de toren ten opzichte van het kerkgebouw, lichte wazigheid in de textuur van het dak",
+      "cliche_notities": "Dit is een typisch ansichtkaartmotief: een iconische kerk met toren tegen een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012414_12477.webp"
+    },
+    {
       "id": 12472,
       "cyclus": 12409,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een klassiek landschap met bergen en bomen in een stijl die doet denken aan traditionele houtsneden, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a012392_12455.webp"
-    },
-    {
-      "id": 12453,
-      "cyclus": 12390,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een solitaire boom aan een landweg) en de decoratieve, serene sfeer zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012390_12453.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12412,
-    "gemaakt": 12475,
+    "cycli": 12420,
+    "gemaakt": 12482,
     "gekozen": 1928,
-    "afgekeurd": 1468,
-    "corpus": 64,
+    "afgekeurd": 1469,
+    "corpus": 63,
     "notities": 469
   }
 }
