@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T02:45+02:00",
+  "bijgewerkt": "2026-08-22T03:00+02:00",
   "werk": [
     {
       "id": 12395,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 12402,
+      "cyclus": 12339,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "tekst/tekens in beeld",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met een wekker als centraal element.",
+      "bestand": "images/a012339_12402.webp"
+    },
+    {
+      "id": 12401,
+      "cyclus": 12338,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
+      "bestand": "images/a012338_12401.webp"
+    },
+    {
       "id": 12384,
       "cyclus": 12321,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een idyllisch landschap, zonder duidelijke compositorische of thematische afwijking.",
       "bestand": "images/a012321_12384.webp"
-    },
-    {
-      "id": 12381,
-      "cyclus": 12318,
-      "afkeuringsreden": "techniek",
-      "tech_score": 4.0,
-      "tech_notities": "['vervormde handen en vingers', 'inconsistent perspectief in armen en romp', 'wazige textuur in haar en huid', 'herhaalpatronen in houtstructuur op lichaam', 'detailverlies in schaduwen van heupen en benen', 'halo-effect rond silhouet tegen achtergrond']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte, ongemakkelijke voorstelling zonder bevestigende sfeer.",
-      "bestand": "images/a012318_12381.webp"
-    },
-    {
-      "id": 12349,
-      "cyclus": 12286,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ongemakkelijke schoonheid.",
-      "bestand": "images/a012286_12349.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12338,
-    "gemaakt": 12400,
+    "cycli": 12344,
+    "gemaakt": 12406,
     "gekozen": 1917,
-    "afgekeurd": 1460,
+    "afgekeurd": 1462,
     "corpus": 62,
     "notities": 469
   }
