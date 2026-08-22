@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T18:00+02:00",
+  "bijgewerkt": "2026-08-22T18:15+02:00",
   "werk": [
+    {
+      "id": 12810,
+      "titel": "Ogen boven de muur",
+      "beschrijving": "Een witte bakstenen muur loopt schuin door een landschap van zand en roze water, omgeven door donkere, bladloze bomen. Twee donkere ogen kijken over de muur, naast een grijze vogelvleugel die uit de muur lijkt te groeien. Boven de muur zweven witte rookpluimen en vallende sterren tegen een roodbruine hemel. Het zand heeft een zachte, golvende textuur, met kleine roze en bruine vlekken die door het water meedrijven. De compositie is rustig, met een subtiele spanning tussen de harde muur en de vloeiende vormen eromheen.",
+      "cyclus": 12747,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistische compositie met een ongemakkelijke spanning tussen anonieme architectuur en organische vormen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012747_12810.webp"
+    },
+    {
+      "id": 12809,
+      "titel": "De groene bol die blijft hangen",
+      "beschrijving": "Donkere takken met naalden vullen de bovenste hoek, scherp getekend tegen een bewolkte hemel. Daaronder strekt zich een heuvelachtig landschap uit met verspreide houten huizen, sommige verweerd, andere met schuine daken. Groene vlekken gras en bomen doorbreken de grijstinten, terwijl een smalle waterloop de voorgrond scheidt van een verre oever met nog meer gebouwen. Een vogel zit op een tak, klein en donker, en een enkele groene bol drijft boven het water. De lijnen zijn ruw en dynamisch, met veel witte ruimte die de lege ruimtes benadrukt.",
+      "cyclus": 12746,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van huizen aan horizon', 'lichte wazigheid in tekstuur van bomen linksboven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een ongemakkelijke, persoonlijke spanning door schuine lijnen en asymmetrische ruimteverdeling.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012746_12809.webp"
+    },
     {
       "id": 12807,
       "titel": "Stof en sporen in de modder",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012705_12768.webp"
-    },
-    {
-      "id": 12761,
-      "titel": "Glanzende kersen bij het raam",
-      "beschrijving": "Zes donkerrode kersen met groene stelen liggen verspreid op een wit, zacht ogend materiaal dat lijkt op katoen of schuim. Achter de kersen bevindt zich een wit geteeld raam met twaalf ruitjes, waarachter vaag bruine takken zichtbaar zijn. Het licht valt schuin door het raam, waardoor de kersen een glanzende, natte uitstraling krijgen en de takken zachtjes schaduwen werpen op de achtergrond. De compositie is rustig, met de kersen aan de rechterkant en het raam dat de linkerhelfd domineert.",
-      "cyclus": 12698,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in takken achter ruit (enkele takken verdwijnen plotseling)', 'lichte wazigheid in schaduwen van kersen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is ongemakkelijk en de kersen voelen als een onbedoelde metafoor, geen ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012698_12761.webp"
-    },
-    {
-      "id": 12754,
-      "titel": "Rood dat zwaart in de hoek",
-      "beschrijving": "Een groep rode kersen ligt verspreid op een lichtgekleurde, effen ondergrond in een hoek van een ruimte met grijze muren. Een scherpe lichtstraal valt schuin van rechtsboven, waardoor een helderwit gebied op de muur ontstaat en diepe schaduwen vallen rond de kersen en langs de muurhoek. De kersen hebben een glanzende, bijna doorschijnende textuur, met subtiele kleurvariaties van dieprood tot lichtrood en enkele groene steelresten. Enkele kersen liggen los, andere vormen een kleine hoop, met wisselende grootte en vorm. De achtergrond is minimalistisch, zonder extra details, waardoor de focus ligt op het spel van licht en schaduw en de levendige kleur van het fruit tegen de neutrale omgeving.",
-      "cyclus": 12691,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een rustige, contemplatieve sfeer met een ongewone compositie van kersen in een hoek, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012691_12754.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12826,
+      "cyclus": 12763,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk met spits, typisch landschap) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a012763_12826.webp"
+    },
     {
       "id": 12818,
       "cyclus": 12755,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de houten loopbrug (latten lopen niet perfect parallel)', 'lichte wazigheid in verre achtergrond (bomen/horizon)']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene waterweg met bootje, symmetrische bomenrij en een pad dat de kijker 'naar binnen' trekt, zonder onverwachte keuzes of spanning.",
       "bestand": "images/a012727_12790.webp"
-    },
-    {
-      "id": 12781,
-      "cyclus": 12718,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "De molen en het waterlandschap zijn een iconisch Nederlands motief, uitgevoerd met decoratief licht en zonder duidelijke compositorische keuze die beyond een ansichtkaart gaat.",
-      "bestand": "images/a012718_12781.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12757,
-    "gemaakt": 12820,
-    "gekozen": 1978,
-    "afgekeurd": 1504,
+    "cycli": 12764,
+    "gemaakt": 12826,
+    "gekozen": 1980,
+    "afgekeurd": 1505,
     "corpus": 63,
     "notities": 477
   }
