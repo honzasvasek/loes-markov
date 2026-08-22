@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T04:45+02:00",
+  "bijgewerkt": "2026-08-22T05:00+02:00",
   "werk": [
+    {
+      "id": 12451,
+      "titel": "Sporen in het gras",
+      "beschrijving": "Een zachtgolvende heuvel domineert het beeld, getekend in subtiele grijstinten met een lichte groene ondertoon. Donkere, onregelmatige vlekken lopen als een spoor over de helling, afgewisseld met fijn getekende, slanke planten die zich uitstrekken naar de horizon. Een smalle, donkere lijn snijdt diagonaal door de compositie, alsof het een verlaten pad of een droge beekbedding is. De achtergrond vervaagt in een vaag, mistig blauw, terwijl de voorgrond een textuur heeft van zacht, korrelig papier. De sfeer is stil en verlaten, met een gevoel van lege ruimte die de beelden omhult.",
+      "cyclus": 12388,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief perfect.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012388_12451.webp"
+    },
+    {
+      "id": 12447,
+      "titel": "Waar de mist blijft hangen",
+      "beschrijving": "Natte heuvels dalen in een nevelige vallei, waar een smalle weg zich als een donkere lijn door het landschap slingeren. Bomen, donker en slank, prikken hier en daar in de mist, terwijl een houten hek de rand van de helling markeert. De kleuren zijn gedempt: grijsgroene heuvels, vaag blauwe nevel en donkere silhouetten van bomen en hek. De compositie is diagonaal, met de weg die de beeldvlak doorsnijdt en de blik naar de verte leidt, waar bergen zich vaag aftekenen tegen een egale, bewolkte hemel. De sfeer is stil en verlaten, zonder sporen van beweging of leven.",
+      "cyclus": 12384,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sfeervolle, maar niet iconische compositie met een focus op leegte en subtiele details, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012384_12447.webp"
+    },
     {
       "id": 12440,
       "titel": "Waar de wereld scheurt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w012329_12392.webp"
-    },
-    {
-      "id": 12388,
-      "titel": "Rook die de stilte doorbreekt",
-      "beschrijving": "Een brede, open veldruimte met losse klompen donkerbruine aarde en strooisel van droge stengels. Een lange, cilindrische metalen buis ligt schuin in het midden, bedekt met stof en modder, met een dunne straal witte rook die eruit opstijgt en zich verspreidt in de lucht. Een metalen staaf steekt schuin uit een aardklomp in de voorgrond. De achtergrond toont een horizon met schaarse groene vegetatie en een helderblauwe hemel zonder wolken. Stof wervelt op rond de buis en de aarde, en de zon werpt scherpe schaduwen.",
-      "cyclus": 12325,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een ongemakkelijke, onbeheerste scène zonder decoratief licht of compositorische keuzes die naar een ansichtkaart verwijzen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012325_12388.webp"
-    },
-    {
-      "id": 12385,
-      "titel": "Rook die zich herinnert vuur",
-      "beschrijving": "Een donkere, chaotische ruimte wordt doorsneden door een kronkelende, witte rookstaart die zich van boven naar beneden uitstrekt, omgeven door fragmenten van hout, metaal en onherkenbare voorwerpen in bruine, grijze en blauwe tinten. Kleurrijke vlekken—rood, oranje, groen—zitten verspreid tussen het puin, terwijl de rook over een golvend, lichtgrijs oppervlak glijdt dat lijkt op water of smeltend ijs. Kleine, scherpe vormen, zoals een wit kruisje en donkere schaduwen, drijven in de rook of liggen verspreid tussen het afval. De compositie voelt als een moment van bevriezen na een explosie, met de rook als enige beweger in een wereld van stilstaand wrakschroot.",
-      "cyclus": 12322,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar wat wazigheid in de achtergrond en kleine inconsistenties in de textuur van de rook",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, denkbeeldige compositie zonder duidelijke referentie aan een plaats of moment",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012322_12385.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12394,
-    "gemaakt": 12456,
-    "gekozen": 1923,
+    "cycli": 12401,
+    "gemaakt": 12463,
+    "gekozen": 1925,
     "afgekeurd": 1467,
-    "corpus": 62,
+    "corpus": 63,
     "notities": 469
   }
 }
