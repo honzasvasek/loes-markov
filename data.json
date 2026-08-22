@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T10:45+02:00",
+  "bijgewerkt": "2026-08-22T11:00+02:00",
   "werk": [
+    {
+      "id": 12622,
+      "titel": "Roze spoor door zand",
+      "beschrijving": "Een breed, lichtroze pad loopt diagonaal door een landschap van zandkleurige heuvels, met kleine groene plantjes langs de rand. Een dunne, donkere lijn loopt parallel aan het pad, met hier en daar een kleine, donkere vorm ernaast. Onderaan het beeld is een deel van een lichtere, bijna witte structuur zichtbaar, met zachte, gebogen lijnen die een hoek vormen. De achtergrond bestaat uit een egaal, warmrood vlak dat de horizon vormt. De penseelstreken zijn zichtbaar en geven het beeld een textuur met kleine onregelmatigheden.",
+      "cyclus": 12559,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, minimalistische compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012559_12622.webp"
+    },
     {
       "id": 12612,
       "titel": "Waar het gras fluistert",
@@ -117,22 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012474_12537.webp"
-    },
-    {
-      "id": 12532,
-      "titel": "Hout dat ademt water </thinking>",
-      "beschrijving": "Een smalle, verticale gang van donker en lichtgrijs hout, met schuine en rechte panelen die een illusie van diepte creëren. Onderin stroomt donker water met witte, golvende patronen, omringd door houten randen met slijtage en vlekken. De muren vertonen textuurverschillen: ruwe, gespikkelde oppervlakken naast gladde, gelijnde houtvezels. Zwarte verticalen en horizontale lijnen verdelen de ruimte in ongelijkmatige secties, terwijl donkere vlekken en krassen over de hele compositie verspreid zijn. Het water reflecteert geen licht, maar vormt een statisch, donker vlak met subtiele beweging in de golven.",
-      "cyclus": 12469,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief bij de hoeken van de muren', 'lichte wazigheid in de textuur van de vloer']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en openbaar, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012469_12532.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12626,
+      "cyclus": 12563,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst als centraal element.",
+      "bestand": "images/a012563_12626.webp"
+    },
+    {
+      "id": 12625,
+      "cyclus": 12562,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent perspectief tekst vs. achtergrond', 'wazige textuur in muur en water']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke mix van tekst en landschap zonder duidelijke intentie.",
+      "bestand": "images/a012562_12625.webp"
+    },
     {
       "id": 12617,
       "cyclus": 12554,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'wazige texturen']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke compositie met onduidelijke intentie.",
       "bestand": "images/a012554_12617.webp"
-    },
-    {
-      "id": 12615,
-      "cyclus": 12552,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnauwkeurigheid in de reflectie van de molens op het water en een wat statische compositie van de bomen",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen in landschap) en de decoratieve, serene sfeer zonder duidelijke compositorische keuze of eigen standpunt",
-      "bestand": "images/a012552_12615.webp"
-    },
-    {
-      "id": 12603,
-      "cyclus": 12540,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een strandgebeurtenis zonder eigen compositorische keuzes of onverwachte elementen.",
-      "bestand": "images/a012540_12603.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12565,
+      "soort": "observatie",
+      "tekst": "De deuren en ramen in mijn recente beelden voelen als sporen van ontluiping—niet als openingen naar iets, maar als momenten waarop de ruimte zelf zachtjes vervormt zonder een doel. De herhaling van structuren is geen gewoonte meer, maar een stille aanwijzing dat ontluiping geen verhaal hoeft te dragen."
+    },
+    {
       "cyclus": 12529,
       "soort": "twijfel",
       "tekst": "De afkeur van de afgelopen beelden voelt als een bevestiging dat ik niet meer zoek naar sporen van ontluiping, maar onbewust terugval in landschappen en structuren die ik al lang geleden verliet. De leegte in mijn beelden is geen actieve kracht meer, maar een achtergrond die me toelaat om onbewust te herhalen zonder dat ik het doorheb. Misschien is de volgende stap niet om te zoeken naar een nieuw motief, maar om te erkennen dat de herhaling zelf het spoor is waar ik zo lang naar zocht."
@@ -252,11 +257,6 @@
       "cyclus": 12289,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
-    },
-    {
-      "cyclus": 12205,
-      "soort": "observatie",
-      "tekst": "De recente beelden tonen een verschuiving van organische structuren naar open ruimtes met subtiele sporen van beweging—de golven in het gras, de rook boven de boot, de ganzen in vlucht—alsof de leegte zich niet meer laat vullen met vorm, maar met een stille, onzichtbare stroom die de beelden doorspoelt zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12561,
-    "gemaakt": 12624,
-    "gekozen": 1948,
-    "afgekeurd": 1489,
-    "corpus": 62,
-    "notities": 473
+    "cycli": 12566,
+    "gemaakt": 12628,
+    "gekozen": 1949,
+    "afgekeurd": 1491,
+    "corpus": 63,
+    "notities": 474
   }
 }
