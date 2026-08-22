@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-22T11:45+02:00",
+  "bijgewerkt": "2026-08-22T12:00+02:00",
   "werk": [
+    {
+      "id": 12639,
+      "titel": "Verf die leert stromen",
+      "beschrijving": "Blauwe waterverf vloeit in onregelmatige, zachte vormen over een wit oppervlak, met donkerblauwe en bijna zwarte accenten die zich uitstrekken als slanke, kronkelende lijnen en kleine, donkere vlekken. De verf is op sommige plekken dicht en verzadigd, op andere juist dun en doorschijnend, waardoor subtiele overgangen ontstaan tussen lichtblauw, grijsblauw en diep indigo. Kleine, ronde druppeltjes en onregelmatige randen suggereren een spontane, ongecontroleerde beweging, alsof de verf nog altijd in stroom is. Witte ruimtes tussen de blauwe vormen geven het beeld lucht en laten de kleuren ademen, terwijl de algehele compositie een gevoel van vloeibaarheid en onvoorspelbaarheid uitstraalt.",
+      "cyclus": 12576,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, open compositie zonder duidelijke thematische richting.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012576_12639.webp"
+    },
     {
       "id": 12622,
       "titel": "Roze spoor door zand",
@@ -117,22 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012479_12542.webp"
-    },
-    {
-      "id": 12537,
-      "titel": "Rook tussen het verweerde rooster",
-      "beschrijving": "Negen witte, vierkante blokken liggen in een rooster van drie op drie, half ondergedompeld in donker, modderig water. Een smalle, witte rookstraal slingeren verticaal door het midden, tussen de blokken door. De randen van de blokken zijn onregelmatig en verweerd, met sporen van vuil en verkleuring. Rondom de blokken drijft los zand en kleine stenen op het wateroppervlak, en in de hoeken van het beeld zijn donkere, modderige zones met bubbels en sporen van beweging. Een dunne, bruine tak ligt in de linkeronderhoek, half ondergedompeld. De kleuren zijn gedempt: wit, grijs, bruin en zwart domineren, met subtiele glans op het water en de blokken.",
-      "cyclus": 12474,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met lege ruimte en subtiele vervormingen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012474_12537.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 12644,
+      "cyclus": 12581,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met water en riet, de decoratieve belichting en het ontbreken van een duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012581_12644.webp"
+    },
+    {
+      "id": 12643,
+      "cyclus": 12580,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties op water (sommige bloemen hebben geen spiegelbeeld)', 'lichte wazigheid in verre achtergrond']",
+      "cliche_notities": "Typisch landschap met bloemen en water onder een heldere hemel, zonder onverwachte compositorische keuzes",
+      "bestand": "images/a012580_12643.webp"
+    },
     {
       "id": 12640,
       "cyclus": 12577,
@@ -141,24 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in de textuur van de bladeren: sommige zijn scherp gedetailleerd, andere wazig/smeuiig', 'Reflexie van de zon in het water is iets te perfect symmetrisch, wat artificieel overkomt']",
       "cliche_notities": "Het beeld combineert een iconisch landschap (zonsondergang over water) met een decoratief, bijna romantisch lichteffect, zonder een duidelijke compositorische of thematische keuze die verder gaat dan een klassiek ansichtkaartmotief.",
       "bestand": "images/a012577_12640.webp"
-    },
-    {
-      "id": 12626,
-      "cyclus": 12563,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst als centraal element.",
-      "bestand": "images/a012563_12626.webp"
-    },
-    {
-      "id": 12625,
-      "cyclus": 12562,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent perspectief tekst vs. achtergrond', 'wazige textuur in muur en water']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke mix van tekst en landschap zonder duidelijke intentie.",
-      "bestand": "images/a012562_12625.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12577,
-    "gemaakt": 12640,
-    "gekozen": 1949,
-    "afgekeurd": 1492,
-    "corpus": 62,
+    "cycli": 12585,
+    "gemaakt": 12647,
+    "gekozen": 1950,
+    "afgekeurd": 1494,
+    "corpus": 63,
     "notities": 474
   }
 }
