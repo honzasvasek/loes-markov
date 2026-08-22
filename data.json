@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-22T21:45+02:00",
+  "bijgewerkt": "2026-08-22T22:00+02:00",
   "werk": [
+    {
+      "id": 12926,
+      "titel": "Rook die vragen stelt",
+      "beschrijving": "Zand bedekt de grond, doorspekt met kleine stengelen en koolstofrijke brokjes. Zwarte, verkoolde blokken liggen verspreid, sommige met glanzende, natte plekken en fijne roetdeeltjes. Een dunne rookwaaier stijgt op van een van de blokken, waarbij de witte rook zich langzaam vermengt met de lucht. Een donkere, metalen staaf steekt schuin uit het koolstof, met een brede, gladde aansluiting. Witte en transparante kralen liggen verspreid tussen het zand en de kool, naast kleine, donkere fragmenten en droge plantendelen. De achtergrond vervaagt in een onscherpe, zandige vlakte met enkele donkere vlekken.",
+      "cyclus": 12863,
+      "tech_score": 8.0,
+      "tech_notities": "kleine halo rond rook, lichte inconsistentie in textuur zand",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een intieme, onopgesmukte scène",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w012863_12926.webp"
+    },
+    {
+      "id": 12918,
+      "titel": "Waar de strepen stilstaan",
+      "beschrijving": "Zwart en grijs vormen een wirwar van strepen, vlekken en spetters tegen een lichte achtergrond. Donkere, onregelmatige vormen stralen uit van verschillende punten, met scherpe en zachte randen. Sommige strepen lopen diagonaal door het beeld, andere krommen of vertakken zich. Kleine, donkere stippen en ongelijkvormige vlekken zijn verspreid over het oppervlak, waarbij sommige gebieden dichter bevolkt zijn dan andere. De compositie voelt dynamisch, met een mix van snelle, krachtige bewegingen en stillere, diffuusere zones. Witte ruimtes tussen de donkere elementen geven het beeld luchthaven en diepte.",
+      "cyclus": 12855,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, dynamische compositie zonder decoratief perfect licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012855_12918.webp"
+    },
     {
       "id": 12908,
       "titel": "Roze boven, groen beneden?",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012799_12862.webp"
-    },
-    {
-      "id": 12860,
-      "titel": "Potlood tekent geschiedenis",
-      "beschrijving": "Een wit schuurtje met een donker dak staat centraal in een groen veld onder een lichtblauwe hemel met witte wolken. Het schuurtje heeft een witte deur met een donkere klink en een raam met vier ruiten. Rechtsboven in beeld steekt een gele potloodpunt met een zwarte huls het schuurtje aan, vastgehouden door vingers die net buiten het kader vallen. Het gras rondom is ongelijkmatig, met hier en daar kleine bloemetjes en een pad van bruine planks naar de deur. De achtergrond vervaagt tot een zachte, groene horizon.",
-      "cyclus": 12797,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming van de vingers die de potloodpunt vasthouden', 'Onduidelijke overgang tussen het gras en de achtergrond, wat een wat wazig effect geeft']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, bijna intieme compositie met de hand die de potloodpunt vasthoudt, wat het buiten de categorie 'toeristische ansichtkaart' plaatst.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w012797_12860.webp"
-    },
-    {
-      "id": 12854,
-      "titel": "Druppel die de stilte brak",
-      "beschrijving": "Nat zand, glinsterend onder zonlicht, met concentrische cirkels getekend in het oppervlak. Een tak met donkere knoppen en een scherpere schaduw snijdt diagonaal door het beeld, terwijl waterplassen in de achtergrond vaag reflecteren. Kleine steentjes en korrels zijn verspreid over het zand, dat overgaat in een donkerdere, natte zone beneden. De cirkels stralen uit van een punt waar een druppel of steen recent het zand raakte, met fijne rimpelingen die de textuur benadrukken.",
-      "cyclus": 12791,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele dynamiek in plaats van een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012791_12854.webp"
     }
   ],
   "afgekeurd": [
@@ -166,7 +166,7 @@
     "titel": "Sporen van ontluiping",
     "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontluiping zelf een spoor achterlaat—niet als geboorte of groei, maar als een stille, onzichtbare opening die de ruimte om zich heen zachtjes vervormt?",
     "aanleiding": "De afgelopen cycli draaiden om ontbinding, ontsnapping en ontdooring, maar de focus lag altijd op verdwijnen of loslaten. Ontluiping voelt als een tegengestelde beweging: niet iets dat wegvalt, maar iets dat zachtjes open gaat zonder dat dat een doel heeft. Het is een spoor van aanwezigheid dat zich niet laat vatten in een verhaal over verlies of bevrijding.",
-    "modus": "uitputten",
+    "modus": "verkennen",
     "begonnen_cyclus": 12505
   },
   "afgesloten": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 12858,
-    "gemaakt": 12921,
-    "gekozen": 1994,
+    "cycli": 12866,
+    "gemaakt": 12928,
+    "gekozen": 1996,
     "afgekeurd": 1515,
     "corpus": 63,
     "notities": 478
