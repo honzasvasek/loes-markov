@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T12:45+02:00",
+  "bijgewerkt": "2026-08-23T13:00+02:00",
   "werk": [
     {
       "id": 13321,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 13325,
-      "cyclus": 13262,
+      "id": 13334,
+      "cyclus": 13271,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
       "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerktoren bij water) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a013262_13325.webp"
+      "cliche_notities": "De molen is een iconisch Nederlands motief, weergegeven in een klassieke, decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013271_13334.webp"
     },
     {
-      "id": 13323,
-      "cyclus": 13260,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van bomen aan weerskanten van pad', 'Enkele vogels hebben iets te uniforme/platte schaduwen']",
-      "cliche_notities": "Het beeld toont een typisch landschap met een symmetrisch bomenlanewerk en een pad dat de blik naar de horizon leidt, wat doet denken aan een klassiek ansichtkaartmotief zonder duidelijke persoonlijke compositorische keuze.",
-      "bestand": "images/a013260_13323.webp"
+      "id": 13333,
+      "cyclus": 13270,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'wazige texturen']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een intieme portret met persoonlijke details.",
+      "bestand": "images/a013270_13333.webp"
     },
     {
-      "id": 13318,
-      "cyclus": 13255,
+      "id": 13330,
+      "cyclus": 13267,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in textuurweergave van de achtergrondbergen (wat waziger dan de voorgrond)",
-      "cliche_notities": "Dit is een typisch landschapsmotief met een centrale boom, een kronkelend pad en een klassieke tempelruïne, getekend in een realistische, decoratieve stijl zonder duidelijke compositorische verbeelding.",
-      "bestand": "images/a013255_13318.webp"
+      "tech_notities": "['subtiele vervorming in wolkenstructuren (rechtsboven)', 'lichte inconsistentie in textuur van donkere achtergrond']",
+      "cliche_notities": "Beeld herinnert aan een typische ansichtkaart van een zonsondergang met wolken, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013267_13330.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13264,
-    "gemaakt": 13327,
+    "cycli": 13272,
+    "gemaakt": 13334,
     "gekozen": 2062,
-    "afgekeurd": 1574,
+    "afgekeurd": 1577,
     "corpus": 61,
     "notities": 486
   }
