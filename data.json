@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T17:30+02:00",
+  "bijgewerkt": "2026-08-23T17:45+02:00",
   "werk": [
     {
       "id": 13444,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13452,
+      "cyclus": 13389,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de brugpijlers ten opzichte van de achtergrond', 'Enkele details in de torens zijn wat wazig, vooral in de schaduwgebieden']",
+      "cliche_notities": "Dit is een iconisch beeld van de Tower Bridge in Londen, weergegeven in een decoratieve watercolor-stijl zonder duidelijke compositorische keuzes die beyond een ansichtkaart gaan.",
+      "bestand": "images/a013389_13452.webp"
+    },
+    {
+      "id": 13447,
+      "cyclus": 13384,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met reflectie, perfecte zonsondergangskleuren en een klassieke compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a013384_13447.webp"
+    },
+    {
       "id": 13445,
       "cyclus": 13382,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief', 'wazige texturen', 'detailverlies in schaduw/highlight']",
       "cliche_notities": "Dit is een iconisch beeld van de Tower Bridge, getekend in een decoratieve stijl zonder eigen compositorische keuzes, typisch voor een toeristische ansichtkaart.",
       "bestand": "images/a013382_13445.webp"
-    },
-    {
-      "id": 13442,
-      "cyclus": 13379,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen) en de decoratieve, klassieke weergave zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013379_13442.webp"
-    },
-    {
-      "id": 13431,
-      "cyclus": 13368,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische molen in een vlak landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013368_13431.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13384,
-    "gemaakt": 13446,
+    "cycli": 13391,
+    "gemaakt": 13453,
     "gekozen": 2080,
-    "afgekeurd": 1599,
-    "corpus": 59,
+    "afgekeurd": 1601,
+    "corpus": 58,
     "notities": 491
   }
 }
