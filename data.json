@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T13:45+02:00",
+  "bijgewerkt": "2026-08-23T14:00+02:00",
   "werk": [
     {
       "id": 13348,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13358,
+      "cyclus": 13295,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent perspectief tekst vs achtergrond', 'wazige textuur in landschap']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met onbegrijpelijke tekst en landschap.",
+      "bestand": "images/a013295_13358.webp"
+    },
+    {
+      "id": 13355,
+      "cyclus": 13292,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde geometrie (letters B en E niet consistent met perspectief)', 'wazige texturen (achtergrond en voorgrond)', 'detailverlies in schaduw (kraan en landschap)']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en niet gericht op een bevestigend effect.",
+      "bestand": "images/a013292_13355.webp"
+    },
+    {
       "id": 13352,
       "cyclus": 13289,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "kleine inconsistentie in reflectie water (te scherp aan linkerzijde, te vaag aan rechterzijde)",
       "cliche_notities": "Iconisch onderwerp (Tower Bridge) met decoratief licht en klassieke compositie, zonder eigen standpunt",
       "bestand": "images/a013289_13352.webp"
-    },
-    {
-      "id": 13334,
-      "cyclus": 13271,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "De molen is een iconisch Nederlands motief, weergegeven in een klassieke, decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013271_13334.webp"
-    },
-    {
-      "id": 13333,
-      "cyclus": 13270,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'wazige texturen']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een intieme portret met persoonlijke details.",
-      "bestand": "images/a013270_13333.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13297,
+      "soort": "observatie",
+      "tekst": "De naakte figuur in c13297 en de eenden in c13293 en c13290 delen eenzelfde stilte: ze vullen de ruimte zonder een verhaal te forceren, alsof de leegte hen alleen maar doorspoelt zonder een actieve rol te spelen."
+    },
+    {
       "cyclus": 13237,
       "soort": "observatie",
       "tekst": "De druppels en draden in c13237 en de concentrische cirkels in c13228 voelen als sporen van een vloeistof die zich onthoudt van een vaste vorm—de leegte tussen deze bewegingen is geen neutrale ruimte, maar een stille spanning die de beelden doorspoelt zonder een verhaal te forceren."
@@ -252,11 +257,6 @@
       "cyclus": 12997,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een herhaling van structuren en open ruimtes, maar de leegte voelt niet meer als een actieve kracht, maar als een achtergrond die me toelaat om onbewust te herhalen zonder dat ik het doorheb. De sporen van ontluiping zijn verdwenen, en wat overblijft, is een stilte die de ruimte vult zonder een verhaal te dragen."
-    },
-    {
-      "cyclus": 12985,
-      "soort": "observatie",
-      "tekst": "De leegte tussen de vormen in mijn recente beelden voelt als een neutrale ruimte die de beelden alleen maar doorspoelt, zonder een actieve rol te spelen. De herhaling van structuren—de brug, de toren, de balken—is geen spoor van een onafgewerkt verhaal, maar een stilte die de ruimte vult zonder een verhaal te forceren."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13292,
-    "gemaakt": 13354,
+    "cycli": 13297,
+    "gemaakt": 13360,
     "gekozen": 2066,
-    "afgekeurd": 1578,
-    "corpus": 62,
-    "notities": 486
+    "afgekeurd": 1580,
+    "corpus": 59,
+    "notities": 487
   }
 }
