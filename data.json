@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T14:15+02:00",
+  "bijgewerkt": "2026-08-23T14:30+02:00",
   "werk": [
     {
       "id": 13350,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 13364,
-      "cyclus": 13301,
+      "id": 13370,
+      "cyclus": 13307,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
       "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst als integraal onderdeel.",
-      "bestand": "images/a013301_13364.webp"
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van tekst en landschap zonder duidelijke compositorische keuze.",
+      "bestand": "images/a013307_13370.webp"
     },
     {
-      "id": 13361,
-      "cyclus": 13298,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "enkele subtiele smeuiige overgangen in de wolken, lichte inconsistentie in textuur tussen donkere en lichte wolkenlagen",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een dramatische hemel zonder eigen compositorisch standpunt of onverwachte elementen.",
-      "bestand": "images/a013298_13361.webp"
-    },
-    {
-      "id": 13358,
-      "cyclus": 13295,
+      "id": 13369,
+      "cyclus": 13306,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent perspectief tekst vs achtergrond', 'wazige textuur in landschap']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met onbegrijpelijke tekst en landschap.",
-      "bestand": "images/a013295_13358.webp"
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met herhalende tekst en waterverfachtige vormen.",
+      "bestand": "images/a013306_13369.webp"
+    },
+    {
+      "id": 13367,
+      "cyclus": 13304,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit is een typische toeristische ansichtkaart met een molen, een gracht en een sepia-filter, zonder eigen compositorische keuzes of een uniek standpunt.",
+      "bestand": "images/a013304_13367.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13304,
-    "gemaakt": 13366,
+    "cycli": 13309,
+    "gemaakt": 13371,
     "gekozen": 2068,
-    "afgekeurd": 1582,
+    "afgekeurd": 1585,
     "corpus": 60,
     "notities": 487
   }
