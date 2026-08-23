@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-23T13:00+02:00",
+  "bijgewerkt": "2026-08-23T13:15+02:00",
   "werk": [
+    {
+      "id": 13326,
+      "titel": "Grijs op grijs, wie overheerst?",
+      "beschrijving": "Drie rechthoekige vlakken in verschillende grijstinten vullen het beeld, gepositioneerd in een diagonale opstelling van linksboven naar rechtsonder. Het bovenste vlak heeft afgeronde hoeken en een lichtere grijstint dan de andere twee, die scherpe hoeken en een donkerder grijs hebben. Het middelste vlak overlapt gedeeltelijk met het bovenste en onderste vlak, waardoor een trapeziumvormige ruimte ontstaat tussen de drie vormen. De achtergrond is een uniforme, donkergrijze textuur met een korrelig effect, wat de indruk van een korrelig oppervlak geeft. De compositie is minimalistisch en statisch, zonder duidelijke diepte of beweging, en de kleuren zijn beperkt tot verschillende nuances van grijs, wat een neutrale en kalmerende sfeer creëert.",
+      "cyclus": 13263,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013263_13326.webp"
+    },
     {
       "id": 13321,
       "titel": "Doorschijnende zweefcirkels",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013258_13321.webp"
+    },
+    {
+      "id": 13320,
+      "titel": "Slijtage in hout en lijn",
+      "beschrijving": "Grijs op grijs: een donkere achtergrond met twee vaag omlijnde driehoeken bovenaan, alsof het daken of heuvels zijn. Daaronder loopt een horizontale rij houten latten, ongelijkmatig en met slijtage, die overgaan in een verticale lat die schuin naar beneden loopt. De latten hebben een ruwe textuur, met witte en lichtgrijze strepen die slijtage of weersingrijping suggereren. Recht voorin staat een verticale houten paal, iets donkerder dan de latten, met een schuine lat die er tegen aan ligt en naar rechtsaf loopt. De compositie is statisch, maar de schuine lijnen geven een zekere beweging. Geen kleur, geen details buiten de houten structuren en de donkere achtergrond. De sfeer is rustig, bijna verlaten, met een focus op de textuur en de relaties tussen de houten elementen.",
+      "cyclus": 13257,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de houten latten', 'lichte wazigheid in de achtergrondvormen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, abstracte compositie zonder iconische of decoratieve elementen, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013257_13320.webp"
     },
     {
       "id": 13303,
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013217_13280.webp"
-    },
-    {
-      "id": 13270,
-      "titel": "Waar het hout ademhaalt",
-      "beschrijving": "Twee bruine boomstammen vormen een V-vorm met daartussen een onregelmatige, lichte opening die een vaag, textuurrijk oppervlak onthult. Donkere takken strekken zich uit tegen een egaal bruine achtergrond, terwijl kleine gele en donkerblauwe vlekken bij de basis van de stammen liggen. De penseelstreken zijn zichtbaar en geven een ruwe, bijna sculpturale textuur aan de houten vormen.",
-      "cyclus": 13207,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013207_13270.webp"
-    },
-    {
-      "id": 13269,
-      "titel": "Een vluchtige aanraking op nat papier",
-      "beschrijving": "Een grijze, korrelige textuur vult het beeld, met subtiele variaties in licht en donker die een zachte, bijna fluweelachtige indruk maken. Een dunne, onregelmatige lijn loopt schuin van linksboven naar rechtsonder, alsof iets langzaam over het oppervlak is getrokken. Kleinere details zoals minuscule putjes en lichte verkleuringen zijn verspreid over het vlak, waardoor de textuur diepte krijgt. Rechtsonder bevindt zich een klein, wit puntje dat opvalt tegen de donkerdere achtergrond. De sfeer is rustig en neutraal, zonder duidelijke focus of beweging, alsof het beeld een moment van stilte vastlegt.",
-      "cyclus": 13206,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, minimalistische compositie zonder duidelijke thematiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013206_13269.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 13272,
-    "gemaakt": 13334,
-    "gekozen": 2062,
+    "cycli": 13278,
+    "gemaakt": 13341,
+    "gekozen": 2064,
     "afgekeurd": 1577,
     "corpus": 61,
     "notities": 486
