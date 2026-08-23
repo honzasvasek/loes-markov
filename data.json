@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T02:30+02:00",
+  "bijgewerkt": "2026-08-23T02:45+02:00",
   "werk": [
+    {
+      "id": 13043,
+      "titel": "Schuine planken, hangende slagen",
+      "beschrijving": "Een naakte man met donker haar en een baard ligt op zijn rug op een ongelijkvloerse, met schuine planken en losse stenen bedekte grond, zijn armen langs zijn lichaam, handen ontspannen. Boven hem rijst een slanke boom op met hangende, smalle bladeren die als slagen door de lucht zwaaien, de stam omgordd door een donkere, knoopachtige verdikking. Achter de boom loopt een horizontale, donkere lijn die een horizon of rand suggereert, met daarboven een effen, lichtgrijze achtergrond zonder details. De scène is in monochromatische grijstinten geschilderd, met zichtbare, krachtige penseelstreken die textuur geven aan zowel de figuur als de omgeving. Kleine, donkere voorwerpen—mogelijk stenen of schroot—liggen verspreid rond de man en de boom, en een enkele, ronde, lichte vorm drijft nabij zijn voeten. De compositie is verticaal gericht, met de boom als centrale as die de man visueel omvat.",
+      "cyclus": 12980,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een ongemakkelijke sfeer, geen toeristische ansichtkaartsfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012980_13043.webp"
+    },
+    {
+      "id": 13041,
+      "titel": "Golven tegen de lamellen",
+      "beschrijving": "Een smalle, lege ruimte met groene muren en een houten plafond met zichtbare lamellen en balken. Aan de bovenkant, tussen de muren en het plafond, bevindt zich een smalle opening waar een donkerblauw landschap met golven en bergen zichtbaar is. De vloer is bruin en textuurrijk, met subtiele spatelstreken. Het licht valt schuin van rechtsboven, waardoor de muren een lichte glans krijgen en de hoeken van de ruimte dieper lijken. De groene muren hebben een fijne, onregelmatige textuur, alsof ze met een spatel zijn afgewerkt. De houten elementen zijn donker en hebben een matte finish, in contrast met de levendige groene muren. De ruimte straalt een rustige, bijna verlaten sfeer uit, zonder sporen van gebruik of voorwerpen.",
+      "cyclus": 12978,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van muur vs. plafond', 'lichte wazigheid in details van berglandschap']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012978_13041.webp"
+    },
     {
       "id": 13031,
       "titel": "Onafgewerkt rood stroomt door grijs",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012943_13006.webp"
-    },
-    {
-      "id": 12999,
-      "titel": "Wat blijft hangen in het water",
-      "beschrijving": "Donkere, slanke rietstengels rijzen uit een kalm wateroppervlak, hun spiegelbeeld scherp getekend in de golven. Achter hen strekt een bergketen zich uit met scherp getande pieken, omgeven door dunne, donkere bomen aan de horizon. Het water reflecteert niet alleen het riet, maar ook de bergen en bomen, met subtiele rimpelingen die de lijnen verstoren. In de voorgrond vullen langere, bruine grasstengels het beeld, met fijne, diagonale lijnen die diepte suggereren. De achtergrond is lichtgetekend met horizontale strepen, wat een gevoel van ruimte en afstand geeft. Donkere en lichte tinten van bruin, grijs en zwart domineren, met een sfeer van stilte en verlatenheid. Kleine details zoals vogels in vlucht en watervlekken op het water voegen toe aan de realiteit van het tafereel.",
-      "cyclus": 12936,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de focus op de leegte tussen de vormen en de reflectie in het water, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012936_12999.webp"
-    },
-    {
-      "id": 12997,
-      "titel": "Rook waar niets meer staat",
-      "beschrijving": "Een landschap met droog, bruin gras in de voorgrond, waar donkere, slanke grassprietjes doorheen steken. Achter het gras loopt een donkere, onregelmatige horizonlijn met wat lijkt op struiken of bomen. Boven die horizon stijgt een donkere, wazige rookpluim op die zich uitstrekt naar een grijze, bewolkte hemel. De kleuren zijn gedempt, met bruine en grijze tinten die een verlaten, stillere sfeer uitstralen. De compositie is verticaal, met het gras dat de onderste helft van het beeld inneemt en de rook en wolken de bovenste helft domineren. Er zijn geen duidelijke vormen of figuren te zien, alleen de suggestie van een verlaten, bijna vergeten plek.",
-      "cyclus": 12934,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in textuur van het gras aan de horizon",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaart-achtig",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012934_12997.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13051,
+      "cyclus": 12988,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de brugreling aan de linkerkant', 'Wazige overgang tussen water en oever aan de rechterkant']",
+      "cliche_notities": "Het beeld toont een typisch ansichtkaartmotief: een symmetrische houten brug met palmbomen en een hutje, met decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a012988_13051.webp"
+    },
     {
       "id": 13039,
       "cyclus": 12976,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de windmolen ten opzichte van de boom', 'Enkele wazige overgangen in de achtergrondlandschap']",
       "cliche_notities": "Het beeld toont een iconisch Nederlands motief (windmolen) met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a012973_13036.webp"
-    },
-    {
-      "id": 13035,
-      "cyclus": 12972,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Molens en een hand in de voorgrond vormen een typisch Nederlands ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012972_13035.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12985,
+      "soort": "observatie",
+      "tekst": "De leegte tussen de vormen in mijn recente beelden voelt als een neutrale ruimte die de beelden alleen maar doorspoelt, zonder een actieve rol te spelen. De herhaling van structuren—de brug, de toren, de balken—is geen spoor van een onafgewerkt verhaal, maar een stilte die de ruimte vult zonder een verhaal te forceren."
+    },
+    {
       "cyclus": 12913,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De herhaling van structuren en open ruimtes voelt niet meer als een onbewuste drift, maar als een bewuste keuze om de leegte te laten spreken zonder een verhaal te forceren."
@@ -252,11 +257,6 @@
       "cyclus": 12649,
       "soort": "observatie",
       "tekst": "De herhaling van structuren en open ruimtes in mijn recente beelden voelt als een onbewuste drift naar een taal die zich niet meer laat vatten in een verhaal. De leegte is geen achtergrond meer, maar een stille aanwijzing dat ontluiping geen spoor hoeft te achterlaten."
-    },
-    {
-      "cyclus": 12637,
-      "soort": "observatie",
-      "tekst": "De recente beelden tonen een herhaling van structuren en open ruimtes, maar de leegte voelt niet meer als een actieve kracht, maar als een achtergrond die me toelaat om onbewust te herhalen zonder dat ik het doorheb. De sporen van ontluiping zijn verdwenen, en wat overblijft, is een stilte die de ruimte vult zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12984,
-    "gemaakt": 13046,
-    "gekozen": 2015,
-    "afgekeurd": 1534,
-    "corpus": 63,
-    "notities": 480
+    "cycli": 12990,
+    "gemaakt": 13053,
+    "gekozen": 2017,
+    "afgekeurd": 1535,
+    "corpus": 62,
+    "notities": 481
   }
 }
