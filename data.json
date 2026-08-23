@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T11:30+02:00",
+  "bijgewerkt": "2026-08-23T11:45+02:00",
   "werk": [
     {
       "id": 13288,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13299,
+      "cyclus": 13236,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een gracht bij zonsondergang met decoratief perfect licht en weinig compositorische keuzes.",
+      "bestand": "images/a013236_13299.webp"
+    },
+    {
+      "id": 13298,
+      "cyclus": 13235,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een strandlandschap met iconische elementen zoals zand, water en duinen, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013235_13298.webp"
+    },
+    {
       "id": 13283,
       "cyclus": 13220,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een idealiserend landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013220_13283.webp"
-    },
-    {
-      "id": 13282,
-      "cyclus": 13219,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de boom tegen de hemel', 'lichte vervorming in de takken van de wilg']",
-      "cliche_notities": "Molen en wilg in een typisch Nederlands landschap met decoratief licht, zonder duidelijke compositorische keuze.",
-      "bestand": "images/a013219_13282.webp"
-    },
-    {
-      "id": 13278,
-      "cyclus": 13215,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen in landschap) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a013215_13278.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13231,
-    "gemaakt": 13294,
+    "cycli": 13237,
+    "gemaakt": 13299,
     "gekozen": 2057,
-    "afgekeurd": 1567,
-    "corpus": 59,
+    "afgekeurd": 1569,
+    "corpus": 60,
     "notities": 485
   }
 }
