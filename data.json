@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T01:45+02:00",
+  "bijgewerkt": "2026-08-23T02:00+02:00",
   "werk": [
     {
       "id": 13024,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13027,
+      "cyclus": 12964,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijke ansichtkaartwaarde.",
+      "bestand": "images/a012964_13027.webp"
+    },
+    {
+      "id": 13026,
+      "cyclus": 12963,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vensterindeling bovenverdieping', 'lichte vervorming in boombladeren rechtsboven']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een symmetrisch huis, perfecte tuin en decoratieve verflakjes in de voorgrond, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012963_13026.webp"
+    },
+    {
       "id": 13005,
       "cyclus": 12942,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerk tussen bomen bij water) en de decoratieve, symmetrische compositie zonder duidelijke persoonlijke keuze.",
       "bestand": "images/a012942_13005.webp"
-    },
-    {
-      "id": 13002,
-      "cyclus": 12939,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de schaduwval van de vogels op de muur', 'Wazige overgang tussen mist en wateroppervlak']",
-      "cliche_notities": "Het beeld straalt een typisch 'Oosterse rust' uit met iconische elementen zoals een traditioneel dak, water en vogels in vlucht, zonder duidelijke compositorische verbeelding.",
-      "bestand": "images/a012939_13002.webp"
-    },
-    {
-      "id": 13000,
-      "cyclus": 12937,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in textuur van de achtergrondbomen (minder detail dan voorgrond)",
-      "cliche_notities": "Landschap met vulkaan en naaldbomen is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt",
-      "bestand": "images/a012937_13000.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12962,
-    "gemaakt": 13024,
+    "cycli": 12968,
+    "gemaakt": 13030,
     "gekozen": 2012,
-    "afgekeurd": 1528,
-    "corpus": 63,
+    "afgekeurd": 1530,
+    "corpus": 62,
     "notities": 480
   }
 }
