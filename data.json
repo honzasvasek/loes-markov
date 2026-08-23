@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-23T07:00+02:00",
+  "bijgewerkt": "2026-08-23T07:15+02:00",
   "werk": [
+    {
+      "id": 13171,
+      "titel": "Witte bloesems, glazen druppels",
+      "beschrijving": "Een tak met witte bloesems strekt zich diagonaal uit tegen een onscherpe achtergrond met een vaag rond voorwerp. Onder de tak zweven heldere druppels boven een bundel gele bloemen, omringd door concentrische cirkels van blauwe en groene strepen. De achtergrond bestaat uit zachte, wazige vlakken van groen en bruin, met subtiele overgangen tussen de kleuren. De bloemen en druppels hebben een schitterende, bijna glazen textuur, terwijl de tak donkerbruin en ruw aandoet. De compositie combineert natuurlijke elementen met abstracte vormen, waarbij de bloemen en druppels de focus vormen tegen de meer ongedefinieerde achtergrond.",
+      "cyclus": 13108,
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte onduidelijkheid in de achtergrondtextuur, maar geen belemmerend",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie heeft een eigenzinnige, bijna abstracte structuur met de tak en bloemen die de ruimte doorsnijden.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013108_13171.webp"
+    },
     {
       "id": 13160,
       "titel": "Waar bleef de rest",
@@ -117,22 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013056_13119.webp"
-    },
-    {
-      "id": 13110,
-      "titel": "Rook en kale takken",
-      "beschrijving": "Een oude, donkere oliefantaas staat centraal, met een glazen koepel en een metalen handvat. Rook stijgt in wazige, witte slagen op vanaf de lamp, en slingeren zich door dunne, kale takken die schuin door het beeld lopen. De achtergrond bestaat uit onrustige, donkere strepen en vlekken, alsof er met een harde potloodpunt schetst is. Rond de lamp liggen verspreide takjes en kleine donkere vlekken op een lichtgrijze ondergrond. De rook lijkt de takken te omhullen en verdwijnt langzaam in de chaotische achtergrond.",
-      "cyclus": 13047,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in takstructuren (enkele takken lijken onnatuurlijk te vertakken)', 'lichte wazigheid in de rook bij de lamp, alsof de details niet scherp genoeg zijn']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met de combinatie van de lamp, takken en rook.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013047_13110.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13186,
+      "cyclus": 13123,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de brugpijlers', 'lichte wazigheid in achtergrondgebouwen']",
+      "cliche_notities": "Dit is een klassiek ansichtkaartmotief van de Tower Bridge met iconische compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a013123_13186.webp"
+    },
+    {
+      "id": 13181,
+      "cyclus": 13118,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van kerk toren', 'lichte wazigheid in achtergrondbomen']",
+      "cliche_notities": "Klassiek landschap met kerk en water, typisch ansichtkaartmotief zonder duidelijke persoonlijke invalshoek",
+      "bestand": "images/a013118_13181.webp"
+    },
     {
       "id": 13167,
       "cyclus": 13104,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van huizen aan horizon', 'lichte wazigheid in details van verre bomen']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een rustig Chinees dorpje met iconische elementen zoals een waterloop, traditionele huizen en een serene sfeer, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013104_13167.webp"
-    },
-    {
-      "id": 13137,
-      "cyclus": 13074,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming bij sommige eendenpoten', 'onduidelijke overgang tussen water en oever in middenvlak']",
-      "cliche_notities": "Dit is een typisch natuurlandschap met vogels in een rustige setting, zonder duidelijke compositorische keuze of uniek standpunt.",
-      "bestand": "images/a013074_13137.webp"
-    },
-    {
-      "id": 13127,
-      "cyclus": 13064,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een iconisch strandlandschap met een zonsondergang en een vlag, typisch voor een toeristische ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013064_13127.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13117,
-    "gemaakt": 13180,
-    "gekozen": 2034,
-    "afgekeurd": 1548,
+    "cycli": 13125,
+    "gemaakt": 13187,
+    "gekozen": 2035,
+    "afgekeurd": 1550,
     "corpus": 59,
     "notities": 484
   }
