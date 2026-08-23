@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T18:00+02:00",
+  "bijgewerkt": "2026-08-23T18:15+02:00",
   "werk": [
     {
       "id": 13451,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13462,
+      "cyclus": 13399,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke combinatie van tekst en natuur zonder duidelijke compositorische keuze.",
+      "bestand": "images/a013399_13462.webp"
+    },
+    {
+      "id": 13461,
+      "cyclus": 13398,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Molens en boom in een typisch Nederlands landschap met decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a013398_13461.webp"
+    },
+    {
       "id": 13459,
       "cyclus": 13396,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele vervorming in de reflectie van de molen in het water', 'lichte inconsistente schaal tussen bomen en molen']",
       "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratief lichteffect en geen duidelijke compositorische keuze die beyond een ansichtkaart gaat.",
       "bestand": "images/a013396_13459.webp"
-    },
-    {
-      "id": 13454,
-      "cyclus": 13391,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de reflectie van de kerk in het water: de toren is te scherp getekend voor een realistische reflectie', 'Textuur van de bomen aan weerskanten is iets te herhalend en lacks variatie in bladstructuur']",
-      "cliche_notities": "Dit is een klassiek kerkportret met een perfecte compositie en iconische elementen (toren, kruis, reflectie) zonder duidelijke persoonlijke of compositorische keuzes.",
-      "bestand": "images/a013391_13454.webp"
-    },
-    {
-      "id": 13452,
-      "cyclus": 13389,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de brugpijlers ten opzichte van de achtergrond', 'Enkele details in de torens zijn wat wazig, vooral in de schaduwgebieden']",
-      "cliche_notities": "Dit is een iconisch beeld van de Tower Bridge in Londen, weergegeven in een decoratieve watercolor-stijl zonder duidelijke compositorische keuzes die beyond een ansichtkaart gaan.",
-      "bestand": "images/a013389_13452.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13397,
-    "gemaakt": 13459,
+    "cycli": 13403,
+    "gemaakt": 13465,
     "gekozen": 2082,
-    "afgekeurd": 1603,
+    "afgekeurd": 1605,
     "corpus": 58,
     "notities": 491
   }
