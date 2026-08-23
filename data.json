@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T06:00+02:00",
+  "bijgewerkt": "2026-08-23T06:15+02:00",
   "werk": [
+    {
+      "id": 13156,
+      "titel": "Waar het pad verdwijnt in nevel",
+      "beschrijving": "Een smalle, zandige pad slingert zich door een verlaten kustlandschap, geflankeerd door onregelmatige rotsformaties met holtes en textuurrijke oppervlakken. Aan weerskanten groeien prikkelige, smalle planten en palmbloemen, terwijl een solitaire boom met uitgestrekte takken en fijn getekende bladeren de linkerhoek domineert. In de verte loopt een zandige heuvellijn over in een kalm, uitgestrekt wateroppervlak onder een bewolkte hemel. De kleuren zijn gedempt: zandbeige, grijsgroen en zachtbruin, met subtiele schaduwen die diepte geven aan de rotsen en vegetatie. De compositie is diagonaal opgebouwd, met het pad dat de blik naar de horizon leidt, waar het water de lucht raakt in een vaag, nevelig punt. De sfeer is stil en verlaten, met een gevoel van vergetelheid en ongerepte natuur.",
+      "cyclus": 13093,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van rotsen (linksboven vs rechtsonder)', 'lichte wazigheid in achtergrondwolken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap met bevestigend licht; de compositie kiest voor een afwijkend perspectief met lege ruimte die niet decoratief is.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013093_13156.webp"
+    },
+    {
+      "id": 13154,
+      "titel": "Zand en gras aan elkaar vast",
+      "beschrijving": "Een zandpad snijdt schuin door een uitgestrekt gebied van hoog, slank gras, waarbij de randen van het pad onregelmatig en door de vegetatie bedekt zijn. Het zand is fijn en licht van kleur, met verspreide, kleine klontjes en sporen van voetstappen of wind. Het gras is dicht en wisselt in hoogte, met sommige stengels die over het pad hangen en andere die rechtop staan. De achtergrond vervaagt in een vlakke horizon, waar het gras overgaat in een nog verder landschap. De beelden zijn in grijstinten, wat de textuur van het zand en het gras benadrukt en een rustige, bijna verlaten sfeer creëert. Er zijn geen duidelijke objecten of figuren zichtbaar, alleen de natuurlijke elementen die het landschap vormen.",
+      "cyclus": 13091,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de focus op de leegte tussen de vormen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013091_13154.webp"
+    },
     {
       "id": 13144,
       "titel": "Zes stappen over het water",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013030_13093.webp"
-    },
-    {
-      "id": 13086,
-      "titel": "Onderweg naar nergens",
-      "beschrijving": "Een verlaten weg strekt zich uit in een grijs landschap, geflankeerd door barstende betonnen palen en overwoekerd door onkruid en dode planten. De weg loopt in een boog naar de horizon, waar bomen en velden vaag zichtbaar zijn. Klei, keien en afval verspreid zich rond de palen, terwijl de textuur van het asfalt en de vegetatie ruw en verwaarloosd wirken. De compositie is diagonaal, met de weg als leidende lijn en de palen als vervagende verticale elementen. De sfeer is verlaten en vergeten, met een gevoel van stillte en achteruitgang.",
-      "cyclus": 13023,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de weg (verdwijnt te scherp)', 'enkele overgangsbereiken tussen textuur en vorm wat wazig']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie kiest voor een ongemakkelijk detail (gebarsten betonnen palen) zonder bevestigende sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013023_13086.webp"
-    },
-    {
-      "id": 13068,
-      "titel": "De spleet die blijft steken",
-      "beschrijving": "Een leeg, grijsgestreept vertrek met een smalle, donkere spleet die loodrecht door de vloer loopt, omzoomd door kleine, donkere brokjes. Aan weerszijden van de spleet loopt een smalle strook met sporen van slijtage. Links bovenin bevindt zich een raam met witte kruisingen, waar zacht daglicht door valt en een rechthoekige vlek op de vloer werpt. Rechts staat een gesloten, lichte houten deur met een donkere hendel. De muren en het plafond hebben een ongelijkmatige, getextureerde structuur met subtiele schaduwen die de ruimte een verwaarloosde sfeer geven. De vloer is glad maar bespat met donkere vlekken en krassen.",
-      "cyclus": 13005,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deur ten opzichte van de muur', 'lichte wazigheid in de hoeken van het plafond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een ongewone compositie met een sterke focus op leegte en textuur, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013005_13068.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13088,
-    "gemaakt": 13151,
-    "gekozen": 2030,
+    "cycli": 13096,
+    "gemaakt": 13158,
+    "gekozen": 2032,
     "afgekeurd": 1547,
-    "corpus": 63,
+    "corpus": 58,
     "notities": 484
   }
 }
