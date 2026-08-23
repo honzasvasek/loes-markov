@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T04:00+02:00",
+  "bijgewerkt": "2026-08-23T04:15+02:00",
   "werk": [
+    {
+      "id": 13093,
+      "titel": "Was die liegt over de winter",
+      "beschrijving": "Een blok半transparante, amberkleurige was ligt op de grond tussen gras en droog loof, met smeltende randen die als druppels over het oppervlak lopen. Een mes met een zwarte steel steekt schuin in de was, de steel wijzend naar de voorgrond. Rondom de was liggen kleine, ronde, gele en groene vruchten verspreid, sommige half begraven in het mos. Op de achtergrond strekt zich een rij kale bomen uit, met dunne stammen en uitgestrekte takken die een verlaten, winterse sfeer creëren. Het licht valt schuin, waardoor de was en het mes een zachte schaduw werpen op het onegale terrein. De was heeft een glanzende, bijna viskeuze textuur, met donkere, dunne lijnen die door het blok lopen. Het mes heeft een smalle, scherpe steel en een metalen lemmet dat het licht reflecteert. De grond is een mix van groen gras, bruine bladeren en kleine steentjes, met hier en daar een droge tak. De bomen op de achtergrond vormen een symmetrische, verdwijnende lijn die de diepte van het tafereel benadrukt.",
+      "cyclus": 13030,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in schaduwen rond het blok was, lichte wazigheid in achtergrondboomtakken",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en niet-obvious",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013030_13093.webp"
+    },
+    {
+      "id": 13086,
+      "titel": "Onderweg naar nergens",
+      "beschrijving": "Een verlaten weg strekt zich uit in een grijs landschap, geflankeerd door barstende betonnen palen en overwoekerd door onkruid en dode planten. De weg loopt in een boog naar de horizon, waar bomen en velden vaag zichtbaar zijn. Klei, keien en afval verspreid zich rond de palen, terwijl de textuur van het asfalt en de vegetatie ruw en verwaarloosd wirken. De compositie is diagonaal, met de weg als leidende lijn en de palen als vervagende verticale elementen. De sfeer is verlaten en vergeten, met een gevoel van stillte en achteruitgang.",
+      "cyclus": 13023,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de weg (verdwijnt te scherp)', 'enkele overgangsbereiken tussen textuur en vorm wat wazig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie kiest voor een ongemakkelijk detail (gebarsten betonnen palen) zonder bevestigende sfeer.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013023_13086.webp"
+    },
     {
       "id": 13068,
       "titel": "De spleet die blijft steken",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012966_13029.webp"
-    },
-    {
-      "id": 13028,
-      "titel": "Kolen tussen twee werelden",
-      "beschrijving": "Twee beelden, boven en onder, met een scherpe scheiding tussen binnen en buiten. Boven: een lange, smalle gang met witte muren en donkere deuren aan weerskanten. Twee kinderen lopen de gang op, met hun rug naar de kijker, het ene in een grijze T-shirt en gele korte broek, het andere in een rode T-shirt en blauwe korte broek. Voor in de gang ligt een hoop donkere, glimmende kolen, met hier en daar een stukje hout of droog gras ertussen. De kolen hebben een onregelmatige vorm, sommige met scherpe randen, andere met een glanzende, bijna natte textuur. Onder: een veld met hoge, groene en gele graanaren, met in de verte bomen en gebouwen onder een grijze hemel. In de voorgrond ligt een kleinere hoop kolen op de grond, omringd door aarde en wat droog gras. De kolen hier zijn minder glanzend en meer verweerd, met een ruwere textuur. Het licht is diffuus, zonder harde schaduwen, en de kleuren zijn gedempt, met groen en geel als dominante tinten.",
-      "cyclus": 12965,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in schaal tussen de koolstukkens en de achtergrond in het bovenste beeld', 'Wazige achtergrond in het onderste beeld, maar dat past bij de dieptescherpte']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en de compositie is niet decoratief perfect, maar laat ruimte voor interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012965_13028.webp"
-    },
-    {
-      "id": 13024,
-      "titel": "Gras dat de grens bewaakt",
-      "beschrijving": "Een smalle, grasbegroeide dijk loopt diagonaal door het midden van het beeld, geflankeerd door water aan beide kanten. Het gras is gedetailleerd getekend met lange, slanke bladeren en waterelementen die zacht rimpelen. In de verte loopt een boomlijn langs de horizon, met enkele solitaire bomen die zich aftekenen tegen een egale, lichte hemel. De sfeer is kalm en verlaten, met een subtiele spanning tussen het vaste land en het vloeibare water. De textuur van het gras en het water contrasteert met de gladde, lege ruimte van de hemel.",
-      "cyclus": 12961,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele onconsistentie in textuur van water en gras', 'lichte wazigheid in verre horizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op leegte en spanning tussen vormen.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012961_13024.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13097,
+      "cyclus": 13034,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten, maar lichte inconsistentie in textuurweergave van bomen (sommige wazig, andere scherp)",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap, perfecte lichtval en geen duidelijke compositorische keuze beyond de klassieke S-lijn",
+      "bestand": "images/a013034_13097.webp"
+    },
     {
       "id": 13085,
       "cyclus": 13022,
@@ -150,15 +159,6 @@
       "tech_notities": "geen zichtbare generatie-artefacten, maar lichte onnauwkeurigheid in reflectie van het water (te scherp/structuurloos)",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een eenzame roeiboot in een rustig landschap met riet, zonder onverwachte compositorische keuzes of een uniek standpunt.",
       "bestand": "images/a013004_13067.webp"
-    },
-    {
-      "id": 13066,
-      "cyclus": 13003,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap met water en bomen, uitgevoerd in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013003_13066.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13029,
-    "gemaakt": 13091,
-    "gekozen": 2021,
-    "afgekeurd": 1540,
-    "corpus": 63,
+    "cycli": 13036,
+    "gemaakt": 13099,
+    "gekozen": 2023,
+    "afgekeurd": 1541,
+    "corpus": 62,
     "notities": 484
   }
 }
