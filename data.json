@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T17:45+02:00",
+  "bijgewerkt": "2026-08-23T18:00+02:00",
   "werk": [
+    {
+      "id": 13451,
+      "titel": "Verloren penseelstreken in roze droomwerk",
+      "beschrijving": "Zachte roze en crèmekleurige vlakken vullen het beeld, met subtiele overgangen tussen lichtere en donkerdere tinten. Een opvallend roodachtig-roze blok aan de rechterkant breekt de gelijkmatigheid, omringd door gestreepte penseelstreken die een textuur van beweging suggereren. De vormen zijn vaag omlijnd, alsof ze in één ademtogt zijn geschilderd, met kleine onregelmatigheden die de indruk van een snelle, intuïtieve aanpak geven. Een enkele druppel verf en een paar lichte krassen op het oppervlak voegen een onverwachte ruwheid toe aan de anderszo zachte compositie.",
+      "cyclus": 13388,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met subtiele kleurverschillen en textuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013388_13451.webp"
+    },
+    {
+      "id": 13449,
+      "titel": "Rode golven zonder water",
+      "beschrijving": "Rode zandduinen vullen het beeld, met zachte golven en scherpe randen die door de wind zijn gevormd. Witte sporen, mogelijk door voertuigen of dieren, snijden door het zand en creëren contrasterende patronen. Enkele dorre, donkere planten steken hier en daar uit het zand, met lange, slanke bladeren die in de wind lijken te waaien. Drie dunne, donkere lijnen—waarschijnlijk hoogspanningskabels—lopen parallel door de bovenste helft van het beeld, van linksboven naar rechtsonder, en verdwijnen achter de duinen. De hemel is egale, lichtgrijze, zonder wolken of zon, en vormt een neutrale achtergrond die het landschap benadrukt. De sfeer is woest en verlaten, met een gevoel van stillte en eenzaamheid.",
+      "cyclus": 13386,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de horizonlijn', 'lichte vervorming in de textuur van de zandduinen bij de voorgrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische compositie met een focus op leegte en subtiele details, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013386_13449.webp"
+    },
     {
       "id": 13444,
       "titel": "Takken door het plafond",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013337_13400.webp"
-    },
-    {
-      "id": 13395,
-      "titel": "Zand dat herinnert aan vergeten handschriften",
-      "beschrijving": "Een verlaten landschap van donkere, onregelmatige rotsen en zwart zand, doorsneden door een lichtgekleurde, golvende zandvlakte met subtiele patronen. Boven heerst een dramatische hemel met zware, oranje-gouden wolken die een warme gloed werpen op het tafereel. In de voorgrond ligt een houten palet met sporen van gebruik, omringd door brokstukken en verspreid grasmateriaal. De compositie combineert ruwe textuur met een stilte die de leegte benadrukt, terwijl de kleuren van donker naar licht overgaan in een bijna surrealistisch contrast.",
-      "cyclus": 13332,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013332_13395.webp"
-    },
-    {
-      "id": 13388,
-      "titel": "Waar de inkt stilstaat",
-      "beschrijving": "Zwart en grijs inkt vloeit in een onregelmatige, organische vorm over een wit papierachtig oppervlak. De inkt is donkerst aan de onderkant, waar draden en druppels naar beneden lopen, en lichter aan de bovenkant, waar de vorm waziger en verspreider wordt. Kleinere spetters en vlekjes bevinden zich rond de hoofdvorm, met een enkele donkere stip linksboven. De randen van de inktvlek zijn ongelijkmatig en fractaalachtig, met subtiele overgangen tussen donker en licht. De achtergrond is egaal wit, wat de contrasten versterkt en de inktvorm centraal plaatst.",
-      "cyclus": 13325,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft geen iconisch onderwerp en geen decoratief perfect licht, maar toont een abstracte, organische vorm met subtiele variaties in textuur en donkerte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013325_13388.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13459,
+      "cyclus": 13396,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele vervorming in de reflectie van de molen in het water', 'lichte inconsistente schaal tussen bomen en molen']",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratief lichteffect en geen duidelijke compositorische keuze die beyond een ansichtkaart gaat.",
+      "bestand": "images/a013396_13459.webp"
+    },
+    {
+      "id": 13454,
+      "cyclus": 13391,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de reflectie van de kerk in het water: de toren is te scherp getekend voor een realistische reflectie', 'Textuur van de bomen aan weerskanten is iets te herhalend en lacks variatie in bladstructuur']",
+      "cliche_notities": "Dit is een klassiek kerkportret met een perfecte compositie en iconische elementen (toren, kruis, reflectie) zonder duidelijke persoonlijke of compositorische keuzes.",
+      "bestand": "images/a013391_13454.webp"
+    },
     {
       "id": 13452,
       "cyclus": 13389,
@@ -141,24 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de brugpijlers ten opzichte van de achtergrond', 'Enkele details in de torens zijn wat wazig, vooral in de schaduwgebieden']",
       "cliche_notities": "Dit is een iconisch beeld van de Tower Bridge in Londen, weergegeven in een decoratieve watercolor-stijl zonder duidelijke compositorische keuzes die beyond een ansichtkaart gaan.",
       "bestand": "images/a013389_13452.webp"
-    },
-    {
-      "id": 13447,
-      "cyclus": 13384,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met reflectie, perfecte zonsondergangskleuren en een klassieke compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a013384_13447.webp"
-    },
-    {
-      "id": 13445,
-      "cyclus": 13382,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief', 'wazige texturen', 'detailverlies in schaduw/highlight']",
-      "cliche_notities": "Dit is een iconisch beeld van de Tower Bridge, getekend in een decoratieve stijl zonder eigen compositorische keuzes, typisch voor een toeristische ansichtkaart.",
-      "bestand": "images/a013382_13445.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13391,
-    "gemaakt": 13453,
-    "gekozen": 2080,
-    "afgekeurd": 1601,
+    "cycli": 13397,
+    "gemaakt": 13459,
+    "gekozen": 2082,
+    "afgekeurd": 1603,
     "corpus": 58,
     "notities": 491
   }
