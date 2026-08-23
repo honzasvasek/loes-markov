@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T14:00+02:00",
+  "bijgewerkt": "2026-08-23T14:15+02:00",
   "werk": [
+    {
+      "id": 13350,
+      "titel": "Wit op wit, vijf verhalen",
+      "beschrijving": "Grijs-witte golven van zacht, textuurrijk materiaal vullen het beeld, met subtiele schaduwovergangen die diepte suggereren. Vijf kleine, ronde witte vormen liggen verspreid over de golven, waarbij één dichter bij de voorgrond solo staat en de overige vier in een losse groep bij elkaar. De achtergrond is een egale, lichte vlak zonder afleiding, waardoor de focus ligt op de vloeiende lijnen en de minimalistische plaatsing van de ronde elementen. De sfeer is kalm en vrij van dynamiek, met een focus op vorm en textuur boven actie of verhaal.",
+      "cyclus": 13287,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013287_13350.webp"
+    },
+    {
+      "id": 13349,
+      "titel": "Vonken in de sporen van orde",
+      "beschrijving": "Een verbrande, donkere toren met holle vensters en een boogvormige ingang staat centraal, omringd door concentrische sporen die aan spoorwegen denken laten ontstaan. Rotsblokken en verbrand puin liggen verspreid, met glimmende, donkere vloeistof die tussen de sporen loopt en reflecties werpt. Een smalle, houten brug met relingen sluit aan bij de toren, terwijl kleine, gouden vonken en witte vonkjes door het tafereel zweven. Donkere, verweerde texturen domineren, met subtiele hints van oranje en goud in de achtergrond. De compositie straalt een verlaten, bijna apocalyptische sfeer uit, met een mix van vernietiging en stille, onverstoorbare orde. Details als de textuur van het verbrande hout en de glans van de vloeistof voegen een ongemakkelijke, fascinerende laag toe aan het beeld.",
+      "cyclus": 13286,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in spoorbreedte bij binnenste cirkels', 'lichte halo rond donkere rotsblokken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust chaotisch en niet-bevestigend.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013286_13349.webp"
+    },
     {
       "id": 13348,
       "titel": "Drie rugjes op de witte lijn",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013231_13294.webp"
-    },
-    {
-      "id": 13290,
-      "titel": "Regendruppels in vuur en spiegelglas",
-      "beschrijving": "Een ovale spiegel hangt schuin tegen een donkere, regendruppels doorlopende achtergrond, met een oranje ondergrond en wit-grijze wolken erin weerspiegeld. Onder de spiegel vlamt een vuur op in oranje en gele tinten, met rook die zich uitstrekt naar de donkere achtergrond. De vloer is bruin-oranje met golvende patronen, en verspreid liggen kleine, onherkenbare voorwerpen. Regen valt verticaal door het hele beeld, ook door de spiegel en het vuur heen. De compositie combineert warme en koude elementen in een schuine, bijna onstabiele balans.",
-      "cyclus": 13227,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in regenpatroon bij randen', 'lichte wazigheid in achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een eigen, ongemakkelijke dynamiek",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013227_13290.webp"
-    },
-    {
-      "id": 13288,
-      "titel": "Bloesems in de mist",
-      "beschrijving": "Een smalle, modderige pad slingert tussen twee rijen bladloze bomen met donkere, slanke stammen en uitgestrekte takken die een labyrint van lijnen vormen tegen een grijze, nevelige hemel. Het gras is groenbruin en ongelijkmatig, met plekken waar de aarde donker en nat lijkt. Ver vooruit, aan de horizon, staat een vaag, lichtgekleurd gebouw met een ronde boogdeur, amper zichtbaar door de mist die de achtergrond omhult. Enkele takken hebben kleine, bleke bloesems of knoppen, en hier en daar ligt een losse steen of stuk hout op de grond. De kleuren zijn gedempt, met veel bruin, grijs en gedempt groen, en de sfeer is stil en ietsjes verlaten.",
-      "cyclus": 13225,
-      "tech_score": 8.0,
-      "tech_notities": "enkele lichte vervormingen in takken, minimale detailverlies in achtergrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, compositorische keuzes zijn subtiel en niet typisch ansichtkaart",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013225_13288.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13364,
+      "cyclus": 13301,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst als integraal onderdeel.",
+      "bestand": "images/a013301_13364.webp"
+    },
+    {
+      "id": 13361,
+      "cyclus": 13298,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "enkele subtiele smeuiige overgangen in de wolken, lichte inconsistentie in textuur tussen donkere en lichte wolkenlagen",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een dramatische hemel zonder eigen compositorisch standpunt of onverwachte elementen.",
+      "bestand": "images/a013298_13361.webp"
+    },
     {
       "id": 13358,
       "cyclus": 13295,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent perspectief tekst vs achtergrond', 'wazige textuur in landschap']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met onbegrijpelijke tekst en landschap.",
       "bestand": "images/a013295_13358.webp"
-    },
-    {
-      "id": 13355,
-      "cyclus": 13292,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde geometrie (letters B en E niet consistent met perspectief)', 'wazige texturen (achtergrond en voorgrond)', 'detailverlies in schaduw (kraan en landschap)']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en niet gericht op een bevestigend effect.",
-      "bestand": "images/a013292_13355.webp"
-    },
-    {
-      "id": 13352,
-      "cyclus": 13289,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in reflectie water (te scherp aan linkerzijde, te vaag aan rechterzijde)",
-      "cliche_notities": "Iconisch onderwerp (Tower Bridge) met decoratief licht en klassieke compositie, zonder eigen standpunt",
-      "bestand": "images/a013289_13352.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13297,
-    "gemaakt": 13360,
-    "gekozen": 2066,
-    "afgekeurd": 1580,
-    "corpus": 59,
+    "cycli": 13304,
+    "gemaakt": 13366,
+    "gekozen": 2068,
+    "afgekeurd": 1582,
+    "corpus": 60,
     "notities": 487
   }
 }
