@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-23T18:45+02:00",
+  "bijgewerkt": "2026-08-23T19:00+02:00",
   "werk": [
+    {
+      "id": 13476,
+      "titel": "Wetenswaardigheden zonder titel",
+      "beschrijving": "Vier donkere, onregelmatige vlekken met zachte, wazige randen drijven op een effen, lichtgrijze achtergrond. De vlekken hebben een organische vorm, met subtiele variaties in donkerte en textuur, alsof ze met natte verf zijn aangebracht en langzaam zijn gedroogd. Rechtsboven bevindt zich een kleinere, donkerdere vlek met een bijna spiraalvormige structuur, terwijl de overige drie vlekken verspreid staan, elk met hun eigen unieke onregelmatigheden. In de rechteronderhoek loopt een dunne, donkere lijn diagonaal omhoog, met een lichte kromming en een textuur die doet denken aan een penseelstreep of een dunne steel. De lijn snijdt door de lege ruimte en lijkt de vlekken visueel te verbinden zonder ze daadwerkelijk aan te raken. De algehele compositie is minimalistisch, met veel witte ruimte die de vlekken en de lijn isolert en hun aanwezigheid versterkt. De sfeer is rustig en contemplatief, met een gevoel van zwevende stillstand.",
+      "cyclus": 13413,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013413_13476.webp"
+    },
     {
       "id": 13468,
       "titel": "Glimmerend brokkelingspel",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013405_13468.webp"
+    },
+    {
+      "id": 13467,
+      "titel": "Roodbruin vergeten",
+      "beschrijving": "Een kronkelend, zilverachtig pad snijdt door een roodbruin landschap, omringd door scherp getekende, donkerbruine grassprietjes die de compositie diagonaal doorsnijden. Witte en zilveren strepen imiteren glinsterend water of nat gras, terwijl donkere schaduwen diepte suggereren. De achtergrond bestaat uit zachte, golvende penseelstreken in oker en roodbruin, met subtiele donkere vlekken die als verre heuvels of bomen fungeren. Kleine, onregelmatige vormen in de voorgrond lijken op losse stenen of droge bladeren, verspreid over het terrein. De sfeer is rustig maar dynamisch, met een gevoel van eenzaamheid en verlatenheid.",
+      "cyclus": 13404,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de weg (verdwijnt te scherp)', 'enkele grashalmen hebben onnatuurlijke, stijve vormen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of bevestigend onderwerp; de compositie is abstract en open van karakter",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013404_13467.webp"
     },
     {
       "id": 13464,
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013365_13428.webp"
-    },
-    {
-      "id": 13422,
-      "titel": "Tandwielen in waterverf",
-      "beschrijving": "Cirkelvormige vlekken in rood, blauw en grijs verspreid over een crèmekleurige achtergrond, met onregelmatige, tandwieltjesachtige randen. Rode vlekken bevinden zich voornamelijk in de boven- en rechterhelft, blauwe en grijze vlekken domineren het midden en de linkeronderkant. Sommige vlekken overlappen elkaar, waardoor kleurverloop en transparantie ontstaan. De achtergrond blijft grotendeels leeg, met alleen subtiele textuur in het papier. De compositie voelt willekeurig, maar de vlekken vormen een diagonale stroom van linksboven naar rechtsonder. Kleuren zijn zacht en watervast, met kleine variaties in intensiteit. Geen duidelijke vormen of onderwerpen, alleen abstracte kleurvlakken die ruimte laten voor interpretatie.",
-      "cyclus": 13359,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013359_13422.webp"
-    },
-    {
-      "id": 13412,
-      "titel": "Wie zocht deze voet op?",
-      "beschrijving": "Een naakte voet en onderbeen steken verticaal uit een donkere, golvende vloeistof die de helft van het beeld inneemt. De huid is licht, met zichtbare haren en textuur, en de tenen wijzen naar boven tegen een egale, lichte achtergrond. Donkere vlekken en druppels zweven rond de overgang tussen huid en vloeistof, waar rimpels en reflecties een onrustige lijn vormen. Onder de vloeistof is een korrelig, onduidelijk oppervlak zichtbaar, alsof er zand of modder onder schuilgaat. De compositie is scherp gefocust op de been, met een geleidelijke onscherpte naar de randen toe.",
-      "cyclus": 13349,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, persoonlijke compositie zonder iconische motieven of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013349_13412.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13485,
+      "cyclus": 13422,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische landschap met zonsondergang, de klassieke compositie en het ontbreken van een uniek standpunt of onverwachte compositorische keuzes.",
+      "bestand": "images/a013422_13485.webp"
+    },
+    {
+      "id": 13482,
+      "cyclus": 13419,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Vervormde vogelkoppen (twee gansachtige vogels hebben onnatuurlijke, platte koppen zonder duidelijke snavelstructuur)', 'Inconsistent perspectief: de vogels in de lucht lijken op verschillende schaalvlaggen te vliegen zonder logische dieptewerking', 'Wazige, smeuiige textuur in de achtergrond (zon en wolken) met verlies van detail in highlights']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (gans in een typisch Nederlands landschap met bomen en gras) en decoratief perfect licht zonder eigen compositorische keuze.",
+      "bestand": "images/a013419_13482.webp"
+    },
     {
       "id": 13473,
       "cyclus": 13410,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een typisch berglandschap gezien door een raam, met een perfecte zonsondergang en iconische bomen, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013410_13473.webp"
-    },
-    {
-      "id": 13472,
-      "cyclus": 13409,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met ruimte voor interpretatie.",
-      "bestand": "images/a013409_13472.webp"
-    },
-    {
-      "id": 13462,
-      "cyclus": 13399,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke combinatie van tekst en natuur zonder duidelijke compositorische keuze.",
-      "bestand": "images/a013399_13462.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13416,
-    "gemaakt": 13478,
-    "gekozen": 2085,
-    "afgekeurd": 1607,
+    "cycli": 13424,
+    "gemaakt": 13486,
+    "gekozen": 2087,
+    "afgekeurd": 1609,
     "corpus": 60,
     "notities": 491
   }
