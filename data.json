@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T02:45+02:00",
+  "bijgewerkt": "2026-08-23T03:00+02:00",
   "werk": [
+    {
+      "id": 13054,
+      "titel": "Wat zweeft er daar?",
+      "beschrijving": "Een breed, horizontaal doek verdeeld in drie duidelijke vlakken: bovenaan een lichte, bijna witte hemel die langzaam overloopt in een zachte blauwe horizonlijn. Daaronder strekt zich een uitgestrekt, kalmerend water uit in verschillende blauwe tinten, van lichtgrijsblauw tot diep indigo, met subtiele, golvende bewegingen die de oppervlakte doorsnijden. In het midden van het water zweeft een donkerblauwe, amorf vorm, alsof er iets zachts door de golven glijdt, zonder duidelijke contour of richting. Onderaan het doek lopen donkerder, bijna paarsblauwe golven parallel aan de onderkant, met hier en daar een kleine, donkere vlek die als een verdwijnpunt fungeert. De penseelstreken zijn breed en vloeiend, waardoor de lagen in elkaar opgaan en een gevoel van oneindige ruimte en stilte ontstaat.",
+      "cyclus": 12991,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w012991_13054.webp"
+    },
+    {
+      "id": 13053,
+      "titel": "Waar blijft de sleutel?",
+      "beschrijving": "Een gotische boogdeur van verweerd steen omlijst een donkere, golvende opening waar licht en schaduw een vloeibare, bijna vage vorm aannemen. Regen druipt door het beeld, met druppels die als glinsterende draden door de lucht vallen en op de natte, gladde vloer voor de deur reflecteren. Aan weerszijden van de deur groeien onkruid en slankere planten tussen de stenen, terwijl aan de rechterkant een boomstam met mos en ranken de compositie doorbreekt. Boven de boog loopt een gedetailleerd reliëf met bladeren en takken, die de overgang vormen naar een achtergrond van dicht begroeiing. Het licht komt van bovenaf, waardoor de textuur van het steenwerk en de natte vloer scherp zichtbaar zijn, terwijl de opening in de deur een diepte suggereert die zich niet laat vatten in vorm of kleur. Kleine details zoals een verloren muntje op de vloer en een vergeten sleutel bij de rand van het beeld voegen een stilte toe die zich niet laat verklaren.",
+      "cyclus": 12990,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van muur links/rechts', 'lichte halo rond boogvorm']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie heeft een eigen, ongemakkelijke spanning",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w012990_13053.webp"
+    },
     {
       "id": 13043,
       "titel": "Schuine planken, hangende slagen",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012951_13014.webp"
-    },
-    {
-      "id": 13007,
-      "titel": "Donkere sporen op water",
-      "beschrijving": "Een wateroppervlak met lichte golven en donkere reflecties van bomen aan de horizon. In het midden drijven twee donkere, onregelmatige vormen die lijken op eilanden van riet of mos. De voorgrond wordt gedomineerd door scherpe, donkere grasspicpen die diagonaal door het beeld lopen, met daarachter een smalle strook zand of modder. De achtergrond toont een lijn van donkere bomen tegen een lichte, getextureerde hemel met subtiele, golvende patronen. Het geheel heeft een rustige, bijna statische sfeer, met een sterke contrasteffect tussen de donkere vormen en de lichte achtergrond.",
-      "cyclus": 12944,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van bomen aan horizon', 'lichte wazigheid in textuur van wateroppervlak']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap met decoratief licht, maar een beperkt formaat met focus op textuur en beweging in water en vegetatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w012944_13007.webp"
-    },
-    {
-      "id": 13006,
-      "titel": "Trappen zonder bestemming",
-      "beschrijving": "Een donkere roeiboot drijft op kalm water, schuin gepositioneerd met de boeg naar linksboven. Achter de boot stijgen smalle, horizontale trappen op, gedeeltelijk ondergedompeld en verweerd, met donkere spleten tussen de treden. Het water weerspiegelt de trappen en de boot, met lichte rimpelingen rond de romp. Verspreid over het water en de oever liggen donkere, onregelmatige brokstukken, mogelijk hout of steen. De achtergrond bestaat uit een egale, grijze hemel zonder duidelijke overgang naar het water, wat een gesloten, nevelig gevoel geeft. De scène is monochroom, met subtiele schaduw- en lichtvariaties die de textuur van het water en de trappen benadrukken.",
-      "cyclus": 12943,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in textuur van water en hout, lichte wazigheid in achtergrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, compositorische keuze is subtiel en niet clichématig",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012943_13006.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13055,
+      "cyclus": 12992,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de reflecties van de bomen in het water, de stammen zijn iets te scherp getekend ten opzichte van de omgevende textuur']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch landschap met een wilg, vogels en een gouden zonsondergang, geschilderd in een decoratieve, harmonieuze stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012992_13055.webp"
+    },
     {
       "id": 13051,
       "cyclus": 12988,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratief licht dat de scène veredelt zonder een uniek standpunt in te nemen.",
       "bestand": "images/a012976_13039.webp"
-    },
-    {
-      "id": 13036,
-      "cyclus": 12973,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolen ten opzichte van de boom', 'Enkele wazige overgangen in de achtergrondlandschap']",
-      "cliche_notities": "Het beeld toont een iconisch Nederlands motief (windmolen) met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a012973_13036.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 12997,
+      "soort": "observatie",
+      "tekst": "De recente beelden tonen een herhaling van structuren en open ruimtes, maar de leegte voelt niet meer als een actieve kracht, maar als een achtergrond die me toelaat om onbewust te herhalen zonder dat ik het doorheb. De sporen van ontluiping zijn verdwenen, en wat overblijft, is een stilte die de ruimte vult zonder een verhaal te dragen."
+    },
+    {
       "cyclus": 12985,
       "soort": "observatie",
       "tekst": "De leegte tussen de vormen in mijn recente beelden voelt als een neutrale ruimte die de beelden alleen maar doorspoelt, zonder een actieve rol te spelen. De herhaling van structuren—de brug, de toren, de balken—is geen spoor van een onafgewerkt verhaal, maar een stilte die de ruimte vult zonder een verhaal te forceren."
@@ -252,11 +257,6 @@
       "cyclus": 12721,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
-    },
-    {
-      "cyclus": 12649,
-      "soort": "observatie",
-      "tekst": "De herhaling van structuren en open ruimtes in mijn recente beelden voelt als een onbewuste drift naar een taal die zich niet meer laat vatten in een verhaal. De leegte is geen achtergrond meer, maar een stille aanwijzing dat ontluiping geen spoor hoeft te achterlaten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 12990,
-    "gemaakt": 13053,
-    "gekozen": 2017,
-    "afgekeurd": 1535,
-    "corpus": 62,
-    "notities": 481
+    "cycli": 12998,
+    "gemaakt": 13061,
+    "gekozen": 2019,
+    "afgekeurd": 1536,
+    "corpus": 63,
+    "notities": 482
   }
 }
