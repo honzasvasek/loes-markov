@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T19:00+02:00",
+  "bijgewerkt": "2026-08-23T19:15+02:00",
   "werk": [
+    {
+      "id": 13486,
+      "titel": "Witte aderen in donker prikkeldraad",
+      "beschrijving": "Een verticale, onregelmatige witte vorm loopt door het midden, omgeven door zwarte, prikkeldraadachtige uitsteeksels die zich uitstrekken naar een crème-achtige achtergrond. Bovenaan en onderaan bevinden zich donkere, textuurrijke banden met kleine, glanzende bolletjes. Horizontale zwarte strepen en vlekken doorsnijden het beeld, terwijl aan de rechterkant een geelachtige, viskeuze vloeistof lijkt te lopen. Kleine witte en zwarte stippen zijn verspreid over het oppervlak, en de randen van de witte vorm tonen subtiele, ongelijke uitsteeksels.",
+      "cyclus": 13423,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013423_13486.webp"
+    },
+    {
+      "id": 13481,
+      "titel": "Wat liet dit achter",
+      "beschrijving": "Een vaag, donkerblauw spoor loopt schuin van linksboven naar rechtsonder door een effen, lichtgrijze ruimte. Het spoor is onregelmatig en vervagt naar de randen toe, alsof het in de lucht zweeft zonder duidelijke oorsprong of bestemming. De achtergrond is homogeen, zonder andere vormen of details, wat het spoor de enige focus maakt. De hoek van het spoor en de subtiele kleurverschillen geven een gevoel van beweging, alsof iets recent voorbij is geweest.",
+      "cyclus": 13418,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013418_13481.webp"
+    },
     {
       "id": 13476,
       "titel": "Wetenswaardigheden zonder titel",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013381_13444.webp"
-    },
-    {
-      "id": 13439,
-      "titel": "Rood tegen de leegte",
-      "beschrijving": "Een enkele boom met rode bladeren staat centraal in een verlaten landschap onder een helderblauwe hemel. De stam is donker en slank, met takken die zich willekeurig uitstrekken. Het landschap eromheen is zandig en woest, met verspreide stenen en droog gras. In de verte loopt een donkere horizonlijn, vaag en onduidelijk. De rode bladeren vallen op tegen de koele kleuren van de achtergrond, terwijl het zand een warme, beige tint heeft. De compositie is verticaal, met de boom als dominante verticale as die het beeld doorsnijdt. Er zijn geen sporen van leven of beweging, alleen de stilte van een verlaten plek.",
-      "cyclus": 13376,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de rode boom als centraal element tegen een gedempt landschap, wat boven een typische ansichtkaart uitstijgt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013376_13439.webp"
-    },
-    {
-      "id": 13428,
-      "titel": "Verf die zich herinnert water",
-      "beschrijving": "Wit papier draagt sporen van natte verf: donkergrijze en zwarte vlekken met onregelmatige, tandvormige randen, naast rode cirkels met een zachte, oplosende textuur. Een verticale, vaag grijze streep loopt door het midden, alsof het papier ooit nat was en droogde met een spoor van water. Kleine druppels en vage uitlopers omringen de vormen, sommige met een lichte glans alsof de verf nog niet volledig is opgedroogd. De rode cirkels hebben een intensere kern die naar de randen toe verbleekt, terwijl de donkere vlekken vaak een ongelijkmatige, bijna korrelige structuur hebben. Witte ruimtes tussen de vormen zijn niet leeg, maar suggereren een onderliggende textuur van het papier zelf.",
-      "cyclus": 13365,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013365_13428.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13492,
+      "cyclus": 13429,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (gracht met kerk en bruggen) en de decoratieve, perfecte compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a013429_13492.webp"
+    },
+    {
+      "id": 13490,
+      "cyclus": 13427,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'wazige texturen', 'detailverlies in schaduw/highlight']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een neutrale muur zonder compositorische keuze.",
+      "bestand": "images/a013427_13490.webp"
+    },
     {
       "id": 13485,
       "cyclus": 13422,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische landschap met zonsondergang, de klassieke compositie en het ontbreken van een uniek standpunt of onverwachte compositorische keuzes.",
       "bestand": "images/a013422_13485.webp"
-    },
-    {
-      "id": 13482,
-      "cyclus": 13419,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['Vervormde vogelkoppen (twee gansachtige vogels hebben onnatuurlijke, platte koppen zonder duidelijke snavelstructuur)', 'Inconsistent perspectief: de vogels in de lucht lijken op verschillende schaalvlaggen te vliegen zonder logische dieptewerking', 'Wazige, smeuiige textuur in de achtergrond (zon en wolken) met verlies van detail in highlights']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (gans in een typisch Nederlands landschap met bomen en gras) en decoratief perfect licht zonder eigen compositorische keuze.",
-      "bestand": "images/a013419_13482.webp"
-    },
-    {
-      "id": 13473,
-      "cyclus": 13410,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een typisch berglandschap gezien door een raam, met een perfecte zonsondergang en iconische bomen, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013410_13473.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13424,
-    "gemaakt": 13486,
-    "gekozen": 2087,
-    "afgekeurd": 1609,
-    "corpus": 60,
+    "cycli": 13430,
+    "gemaakt": 13492,
+    "gekozen": 2089,
+    "afgekeurd": 1611,
+    "corpus": 61,
     "notities": 491
   }
 }
