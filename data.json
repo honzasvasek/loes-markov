@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T05:00+02:00",
+  "bijgewerkt": "2026-08-23T05:15+02:00",
   "werk": [
     {
       "id": 13119,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13127,
+      "cyclus": 13064,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een iconisch strandlandschap met een zonsondergang en een vlag, typisch voor een toeristische ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013064_13127.webp"
+    },
+    {
       "id": 13117,
       "cyclus": 13054,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistenties in textuur van water en oever (smeuiig vs. scherp)', 'lichte vervorming van takken aan horizon (onlogische takstructuur)']",
       "cliche_notities": "Landschap met beek, velden en boerderijen in klassieke compositie, zonder onverwachte invalshoek of persoonlijke interpretatie.",
       "bestand": "images/a013052_13115.webp"
-    },
-    {
-      "id": 13108,
-      "cyclus": 13045,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de reflectie van de molen in het water: de reflectie is iets te scherp en symmetrisch voor een natuurlijk wateroppervlak', 'De vogels in de lucht hebben een iets artificieel patroon, alsof ze in een perfecte V-vorm vliegen zonder natuurlijke variatie']",
-      "cliche_notities": "Dit beeld past bij de categorie 'toeristische ansichtkaart' door het iconische onderwerp (Nederlandse molen in een landschap) en de decoratieve, bijna ideale compositie zonder sterke persoonlijke of compositorische keuze.",
-      "bestand": "images/a013045_13108.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13059,
-    "gemaakt": 13121,
+    "cycli": 13066,
+    "gemaakt": 13128,
     "gekozen": 2026,
-    "afgekeurd": 1545,
-    "corpus": 64,
+    "afgekeurd": 1546,
+    "corpus": 63,
     "notities": 484
   }
 }
