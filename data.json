@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T05:15+02:00",
+  "bijgewerkt": "2026-08-23T05:30+02:00",
   "werk": [
+    {
+      "id": 13122,
+      "titel": "Groen dat ontsnapt aan de kom",
+      "beschrijving": "Twee witte, licht getextureerde kommen staan gestapeld op een neutrale, beige achtergrond. De bovenste kom bevat een enkele, slanke plant met smalle, groene bladeren die zich uitstrekken naar een donkere, schetsachtige achtergrond van zwarte en grijze strepen. De kommen hebben een matte afwerking met subtiele donkere vlekken en een licht onregelmatige rand. Schaduwen onder en achter de kommen zijn getekend met donkere, vloeiende streken, wat een gevoel van diepte en textuur toevoegt aan de compositie. De plant vormt een levendig contrast met de sobere kleuren en de rustige, bijna minimalistische opstelling.",
+      "cyclus": 13059,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in schaduwval bij onderste kom', 'lichte wazigheid in textuur van achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op stilte en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013059_13122.webp"
+    },
+    {
+      "id": 13121,
+      "titel": "Gele bloemen in koper",
+      "beschrijving": "Twee gele bloemen met zes bloemblaadjes en oranje meeldraden rijzen op vanuit een koperkleurige kom met een getextureerd oppervlak. Groene, langwerpige bladeren omhullen de stengels, terwijl de achtergrond bestaat uit donker, gestileerd gras en onduidelijke vormen die aan rotsen of sneeuw doen denken. Kleinere details zoals zaadjes en fijne grassprieten verspreiden zich over de voor- en achtergrond. De compositie is verticaal georiënteerd, met de bloemen centraal en de kom aan de onderkant. Kleuren zijn grotendeels gedempt, behalve de levendige gele bloemen en de warme koperglans.",
+      "cyclus": 13058,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van gras aan linker- en rechterkant', 'lichte halo rond rand van koperen kom']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op stilte en leegte, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013058_13121.webp"
+    },
     {
       "id": 13119,
       "titel": "Een bloem die wacht op regen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w012991_13054.webp"
-    },
-    {
-      "id": 13053,
-      "titel": "Waar blijft de sleutel?",
-      "beschrijving": "Een gotische boogdeur van verweerd steen omlijst een donkere, golvende opening waar licht en schaduw een vloeibare, bijna vage vorm aannemen. Regen druipt door het beeld, met druppels die als glinsterende draden door de lucht vallen en op de natte, gladde vloer voor de deur reflecteren. Aan weerszijden van de deur groeien onkruid en slankere planten tussen de stenen, terwijl aan de rechterkant een boomstam met mos en ranken de compositie doorbreekt. Boven de boog loopt een gedetailleerd reliëf met bladeren en takken, die de overgang vormen naar een achtergrond van dicht begroeiing. Het licht komt van bovenaf, waardoor de textuur van het steenwerk en de natte vloer scherp zichtbaar zijn, terwijl de opening in de deur een diepte suggereert die zich niet laat vatten in vorm of kleur. Kleine details zoals een verloren muntje op de vloer en een vergeten sleutel bij de rand van het beeld voegen een stilte toe die zich niet laat verklaren.",
-      "cyclus": 12990,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van muur links/rechts', 'lichte halo rond boogvorm']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie heeft een eigen, ongemakkelijke spanning",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012990_13053.webp"
-    },
-    {
-      "id": 13043,
-      "titel": "Schuine planken, hangende slagen",
-      "beschrijving": "Een naakte man met donker haar en een baard ligt op zijn rug op een ongelijkvloerse, met schuine planken en losse stenen bedekte grond, zijn armen langs zijn lichaam, handen ontspannen. Boven hem rijst een slanke boom op met hangende, smalle bladeren die als slagen door de lucht zwaaien, de stam omgordd door een donkere, knoopachtige verdikking. Achter de boom loopt een horizontale, donkere lijn die een horizon of rand suggereert, met daarboven een effen, lichtgrijze achtergrond zonder details. De scène is in monochromatische grijstinten geschilderd, met zichtbare, krachtige penseelstreken die textuur geven aan zowel de figuur als de omgeving. Kleine, donkere voorwerpen—mogelijk stenen of schroot—liggen verspreid rond de man en de boom, en een enkele, ronde, lichte vorm drijft nabij zijn voeten. De compositie is verticaal gericht, met de boom als centrale as die de man visueel omvat.",
-      "cyclus": 12980,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een ongemakkelijke sfeer, geen toeristische ansichtkaartsfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012980_13043.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 13066,
-    "gemaakt": 13128,
-    "gekozen": 2026,
+    "cycli": 13073,
+    "gemaakt": 13135,
+    "gekozen": 2028,
     "afgekeurd": 1546,
     "corpus": 63,
     "notities": 484
