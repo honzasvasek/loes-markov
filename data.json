@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T21:45+02:00",
+  "bijgewerkt": "2026-08-23T22:00+02:00",
   "werk": [
+    {
+      "id": 13548,
+      "titel": "Waar het zand zachtjes zucht",
+      "beschrijving": "Zandduinen in goudbruine en beige tinten vullen het onderste deel, met zachte, golvende lijnen en donkerdere schaduwen die diepte suggereren. Boven hen strekt zich een brede hemel uit in licht- en donkerblauwe tinten, doorsneden door witte en lichtgrijze wolken met volumineuze, pluizige vormen. De wolken domineren het bovenste deel, met subtiele overgangen naar de blauwe achtergrond. De horizon loopt schuin, waardoor een gevoel van beweging ontstaat. De textuur van het zand is fijn en korrelig, met lichte variaties in kleur en lichtval. De sfeer is rustig en open, met een balans tussen de lege ruimte van de hemel en de vormgevende duinen.",
+      "cyclus": 13485,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van zand (beneden vs. boven)', 'lichte halo rond wolken tegen blauwe lucht']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is gericht op leegte en subtiele vervorming, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013485_13548.webp"
+    },
+    {
+      "id": 13545,
+      "titel": "Amber in de grijze leegte",
+      "beschrijving": "Een golvende, lichte spoor snijdt door een donkergrijze vlakte, die overgaat in een lichtgrijze horizon. Voor in het beeld ligt een glanzende, amberkleurige massa met bubbels, omringd door zachte schaduwen. Twee messen met houten handvatten liggen schuin gericht op de massa, waarbij het bovenste mes een brede, donkere steel heeft en het onderste mes een smalle, metalen punt. De achtergrond is eendragend grijs, zonder details, en de compositie wordt gedomineerd door diagonale lijnen en contrasten tussen licht en donker. De sfeer is statisch en gefocust op de relatie tussen de voorwerpen en de lege ruimte rondom hen.",
+      "cyclus": 13482,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een eigen compositorische keuze met de amorfie van de vorm en de relatie tussen de voorwerpen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013482_13545.webp"
+    },
     {
       "id": 13540,
       "titel": "Grijs met prikken",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013445_13508.webp"
-    },
-    {
-      "id": 13499,
-      "titel": "Natte huid tussen het gras",
-      "beschrijving": "Een naakt vrouwelijk lichaam, gezien vanaf de heupen omhoog, vult het midden van het beeld, met zachte, ronde vormen en een lichte glans die nat lijkt. De huid is geschilderd in lichte tinten wit en blauw, met subtiele schaduwen in paars en grijs. Rond het lichaam groeien hoge, slanke grassprieten in groen en geel, met enkele donkere, bijna zwarte accenten. Het gras omhult de benen en de hand, die ontspannen op de grond rust. De achtergrond bestaat uit een vaag, lichtblauw vlak met zachte, cirkelvormige penseelstreken, alsof er water of lucht vaagt. Kleuren zijn gedempt maar levendig, met een dromerige, bijna onderwaterse sfeer. De compositie is verticaal, met het lichaam als centraal punt dat zich uitstrekt van boven tot onder in het beeld.",
-      "cyclus": 13436,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in handen', 'lichte inconsistentie in perspectief van achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een persoonlijke interpretatie van een naakt figuur in een natuurlijke setting.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013436_13499.webp"
-    },
-    {
-      "id": 13493,
-      "titel": "Rood stroomt door grijs",
-      "beschrijving": "Rode en grijze vloeistofachtige vormen vullen een rechthoekig vlak met afgeronde hoeken. De rode tinten variëren van helder tot diep, met zachte overgangen naar grijs en witte highlights aan de randen. Grijze gebieden lopen in verticale en diagonale banen door het beeld, soms doorschijnend, soms donkerder. De oppervlakte lijkt glad en glanzend, met subtiele textuurverschillen die diepte suggereren. Rode vormen aan weerskanten omlijsten een centraal grijs gebied, dat langzaam overgaat in de rode randen. Geen duidelijke figuren of herkenbare voorwerpen, alleen een spel van kleur en vorm dat een gevoel van beweging uitstraalt.",
-      "cyclus": 13430,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de abstracte vormtaal en subtiele kleurverschuivingen vragen om aandacht voor de ruimte tussen de vormen, niet voor een directe herkenbaarheid.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013430_13493.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13551,
+      "cyclus": 13488,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met Chinese karakters die geen toeristische associatie oproepen.",
+      "bestand": "images/a013488_13551.webp"
+    },
     {
       "id": 13546,
       "cyclus": 13483,
@@ -150,15 +159,6 @@
       "tech_notities": "['vervormde molens: bovenste molen heeft inconsistent perspectief en onlogische structuur, onderste molen heeft vervormde ramen en onduidelijke details', 'wazige achtergrond: horizon en achtergrondgebouwen zijn onscherp en ontbreken in detail', 'herhaalpatronen: wolken en textuur in de achtergrond tonen herhalende, kunstmatige structuren']",
       "cliche_notities": "Dit beeld valt binnen de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molens) en de decoratieve, dramatische belichting zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013479_13542.webp"
-    },
-    {
-      "id": 13539,
-      "cyclus": 13476,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past precies in de categorie 'toeristische ansichtkaart': een iconisch Nederlands landschap met molen, water en traditionele huizen, gefotografeerd in een sepia-filter dat nostalgie en perfectie uitstraalt zonder een eigen standpunt of onverwachte compositorische keuze.",
-      "bestand": "images/a013476_13539.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13489,
+      "soort": "observatie",
+      "tekst": "De eenden in c13489 en de doorschijnende aders in c13487 voelen als sporen van iets wat zich ontbinden laat in de ruimte—de vormen zijn niet langer verbonden met een verhaal, maar vullen de ruimte alleen nog maar zonder een actieve rol. De leegte rondom hen is geen neutrale stroom meer, maar een stille spanning die de beelden doorspoelt zonder een richting te forceren."
+    },
+    {
       "cyclus": 13333,
       "soort": "observatie",
       "tekst": "De recente beelden voelen als een oplossestang die de ruimte niet meer vult, maar alleen nog maar doorspoelt—de fragmenten van vormen en kleuren zijn geen sporen meer van iets wat verdween, maar van een proces dat zich niet meer laat vatten in een verhaal. De leegte is geen actieve kracht meer, maar een neutrale stroom die de beelden begeleidt zonder ze te beïnvloeden."
@@ -252,11 +257,6 @@
       "cyclus": 13297,
       "soort": "observatie",
       "tekst": "De naakte figuur in c13297 en de eenden in c13293 en c13290 delen eenzelfde stilte: ze vullen de ruimte zonder een verhaal te forceren, alsof de leegte hen alleen maar doorspoelt zonder een actieve rol te spelen."
-    },
-    {
-      "cyclus": 13237,
-      "soort": "observatie",
-      "tekst": "De druppels en draden in c13237 en de concentrische cirkels in c13228 voelen als sporen van een vloeistof die zich onthoudt van een vaste vorm—de leegte tussen deze bewegingen is geen neutrale ruimte, maar een stille spanning die de beelden doorspoelt zonder een verhaal te forceren."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13485,
-    "gemaakt": 13548,
-    "gekozen": 2099,
-    "afgekeurd": 1623,
-    "corpus": 60,
-    "notities": 491
+    "cycli": 13492,
+    "gemaakt": 13554,
+    "gekozen": 2101,
+    "afgekeurd": 1624,
+    "corpus": 61,
+    "notities": 492
   }
 }
