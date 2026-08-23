@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T04:45+02:00",
+  "bijgewerkt": "2026-08-23T05:00+02:00",
   "werk": [
+    {
+      "id": 13119,
+      "titel": "Een bloem die wacht op regen",
+      "beschrijving": "Een witte kom met water bevat een enkele paarse crocus met smalle groene bladeren. Naast de kom ligt een donkergrijze, getextureerde steen met lichte in slagen. Drie witte, rechthoekige kaartjes liggen schuin op een donkergrijze, matte ondergrond, waarbij één kaartje deels onder de andere ligt. Kleine waterdruppels zijn zichtbaar op de ondergrond en op de steen. De compositie is rustig en minimalistisch, met een focus op de contrasten tussen de zachte vormen van de bloem en de harde, geometrische vormen van de kaartjes en de steen. De kleuren zijn gedempt, met uitzondering van de paarse bloem die een subtiele accent vormt.",
+      "cyclus": 13056,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, rustige balans zonder typisch 'ansichtkaart'-onderwerp.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013056_13119.webp"
+    },
+    {
+      "id": 13110,
+      "titel": "Rook en kale takken",
+      "beschrijving": "Een oude, donkere oliefantaas staat centraal, met een glazen koepel en een metalen handvat. Rook stijgt in wazige, witte slagen op vanaf de lamp, en slingeren zich door dunne, kale takken die schuin door het beeld lopen. De achtergrond bestaat uit onrustige, donkere strepen en vlekken, alsof er met een harde potloodpunt schetst is. Rond de lamp liggen verspreide takjes en kleine donkere vlekken op een lichtgrijze ondergrond. De rook lijkt de takken te omhullen en verdwijnt langzaam in de chaotische achtergrond.",
+      "cyclus": 13047,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in takstructuren (enkele takken lijken onnatuurlijk te vertakken)', 'lichte wazigheid in de rook bij de lamp, alsof de details niet scherp genoeg zijn']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met de combinatie van de lamp, takken en rook.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013047_13110.webp"
+    },
     {
       "id": 13095,
       "titel": "Amber in ontbinding",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012980_13043.webp"
-    },
-    {
-      "id": 13041,
-      "titel": "Golven tegen de lamellen",
-      "beschrijving": "Een smalle, lege ruimte met groene muren en een houten plafond met zichtbare lamellen en balken. Aan de bovenkant, tussen de muren en het plafond, bevindt zich een smalle opening waar een donkerblauw landschap met golven en bergen zichtbaar is. De vloer is bruin en textuurrijk, met subtiele spatelstreken. Het licht valt schuin van rechtsboven, waardoor de muren een lichte glans krijgen en de hoeken van de ruimte dieper lijken. De groene muren hebben een fijne, onregelmatige textuur, alsof ze met een spatel zijn afgewerkt. De houten elementen zijn donker en hebben een matte finish, in contrast met de levendige groene muren. De ruimte straalt een rustige, bijna verlaten sfeer uit, zonder sporen van gebruik of voorwerpen.",
-      "cyclus": 12978,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van muur vs. plafond', 'lichte wazigheid in details van berglandschap']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012978_13041.webp"
-    },
-    {
-      "id": 13031,
-      "titel": "Onafgewerkt rood stroomt door grijs",
-      "beschrijving": "Een roodbruine achtergrond wordt doorsneden door golvende, grijsachtige banen die diagonaal en horizontaal door het beeld lopen. Sommige banen zijn breder en hebben een zachte, onregelmatige rand, terwijl andere smaler en schärper getekend zijn. Witte en lichtgrijze strepen volgen de contouren van de grijze banen, waardoor een gevoel van diepte ontstaat. De verf is zichtbaar aangebracht met brede, krachtige penseelstreken, wat een textuur geeft aan zowel de achtergrond als de banen. Kleurveranderingen in de roodbruine achtergrond variëren van donkerrood tot oranjebruin, met subtiele overgangen die de dynamiek van het beeld versterken. Geen van de banen raakt de randen van het beeld volledig, wat een open, onafgewerkt gevoel creëert.",
-      "cyclus": 12968,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in lijndikte en lichte vervorming in hoeken",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met eigen compositorische keuzes",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012968_13031.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13117,
+      "cyclus": 13054,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, water, bloemen) met een decoratief lichteffect, zonder een duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013054_13117.webp"
+    },
+    {
+      "id": 13115,
+      "cyclus": 13052,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele inconsistenties in textuur van water en oever (smeuiig vs. scherp)', 'lichte vervorming van takken aan horizon (onlogische takstructuur)']",
+      "cliche_notities": "Landschap met beek, velden en boerderijen in klassieke compositie, zonder onverwachte invalshoek of persoonlijke interpretatie.",
+      "bestand": "images/a013052_13115.webp"
+    },
     {
       "id": 13108,
       "cyclus": 13045,
@@ -141,24 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in de reflectie van de molen in het water: de reflectie is iets te scherp en symmetrisch voor een natuurlijk wateroppervlak', 'De vogels in de lucht hebben een iets artificieel patroon, alsof ze in een perfecte V-vorm vliegen zonder natuurlijke variatie']",
       "cliche_notities": "Dit beeld past bij de categorie 'toeristische ansichtkaart' door het iconische onderwerp (Nederlandse molen in een landschap) en de decoratieve, bijna ideale compositie zonder sterke persoonlijke of compositorische keuze.",
       "bestand": "images/a013045_13108.webp"
-    },
-    {
-      "id": 13101,
-      "cyclus": 13038,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een typisch landschap met een gracht en bomen onder een roze hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013038_13101.webp"
-    },
-    {
-      "id": 13097,
-      "cyclus": 13034,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten, maar lichte inconsistentie in textuurweergave van bomen (sommige wazig, andere scherp)",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap, perfecte lichtval en geen duidelijke compositorische keuze beyond de klassieke S-lijn",
-      "bestand": "images/a013034_13097.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13051,
-    "gemaakt": 13114,
-    "gekozen": 2024,
-    "afgekeurd": 1543,
-    "corpus": 63,
+    "cycli": 13059,
+    "gemaakt": 13121,
+    "gekozen": 2026,
+    "afgekeurd": 1545,
+    "corpus": 64,
     "notities": 484
   }
 }
