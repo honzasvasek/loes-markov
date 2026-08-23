@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T03:00+02:00",
+  "bijgewerkt": "2026-08-23T03:15+02:00",
   "werk": [
     {
       "id": 13054,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 13055,
-      "cyclus": 12992,
+      "id": 13067,
+      "cyclus": 13004,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de reflecties van de bomen in het water, de stammen zijn iets te scherp getekend ten opzichte van de omgevende textuur']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch landschap met een wilg, vogels en een gouden zonsondergang, geschilderd in een decoratieve, harmonieuze stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012992_13055.webp"
+      "tech_notities": "geen zichtbare generatie-artefacten, maar lichte onnauwkeurigheid in reflectie van het water (te scherp/structuurloos)",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een eenzame roeiboot in een rustig landschap met riet, zonder onverwachte compositorische keuzes of een uniek standpunt.",
+      "bestand": "images/a013004_13067.webp"
     },
     {
-      "id": 13051,
-      "cyclus": 12988,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de brugreling aan de linkerkant', 'Wazige overgang tussen water en oever aan de rechterkant']",
-      "cliche_notities": "Het beeld toont een typisch ansichtkaartmotief: een symmetrische houten brug met palmbomen en een hutje, met decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a012988_13051.webp"
-    },
-    {
-      "id": 13039,
-      "cyclus": 12976,
+      "id": 13066,
+      "cyclus": 13003,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
       "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap, met een decoratief licht dat de scène veredelt zonder een uniek standpunt in te nemen.",
-      "bestand": "images/a012976_13039.webp"
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap met water en bomen, uitgevoerd in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013003_13066.webp"
+    },
+    {
+      "id": 13062,
+      "cyclus": 12999,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in vogelveren bij dichtere vogels', 'lichte wazigheid in achtergrondbomen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met vogels in een landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a012999_13062.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 12998,
-    "gemaakt": 13061,
+    "cycli": 13007,
+    "gemaakt": 13069,
     "gekozen": 2019,
-    "afgekeurd": 1536,
+    "afgekeurd": 1539,
     "corpus": 63,
     "notities": 482
   }
