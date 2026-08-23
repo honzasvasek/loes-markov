@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T03:45+02:00",
+  "bijgewerkt": "2026-08-23T04:00+02:00",
   "werk": [
     {
       "id": 13068,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13085,
+      "cyclus": 13022,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistenties in perspectief bij de molens, lichte wazigheid in de achtergrondlandschappen",
+      "cliche_notities": "Molens en landschappen in een typisch Nederlands ansichtkaartmotief zonder duidelijke compositorische keuze of eigen standpunt",
+      "bestand": "images/a013022_13085.webp"
+    },
+    {
       "id": 13067,
       "cyclus": 13004,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap met water en bomen, uitgevoerd in een decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013003_13066.webp"
-    },
-    {
-      "id": 13062,
-      "cyclus": 12999,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in vogelveren bij dichtere vogels', 'lichte wazigheid in achtergrondbomen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met vogels in een landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a012999_13062.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13021,
+      "soort": "observatie",
+      "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
+    },
+    {
       "cyclus": 13009,
       "soort": "observatie",
       "tekst": "De herhaling van structuren in de recente beelden—de boom, de gang, de vogels—voelt niet meer als een onbewuste drift, maar als een bewuste keuze om de leegte te laten spreken zonder een verhaal te forceren. De neutrale ruimte tussen de vormen vult zich niet meer met een actief verhaal, maar met een stilte die de beelden alleen maar doorspoelt."
@@ -252,11 +257,6 @@
       "cyclus": 12913,
       "soort": "observatie",
       "tekst": "De beelden worden steeds stiller en eenvoudiger: van gedetailleerde landschappen met sporen (linksboven) naar pure ruimte met alleen een hint van beweging (rechtsonder). De kleuren vervagen van rood en blauw naar beige en grijs, alsof de wereld zachtjes uitvervaagt—maar de boom blijft in elke stap een stille, onwrikbare aanwezigheid."
-    },
-    {
-      "cyclus": 12781,
-      "soort": "observatie",
-      "tekst": "De torens, brug en eenden in de afgelopen beelden voelen als sporen van een onafgewerkt verhaal—structuren die elkaar flankeren zonder een duidelijke relatie. De leegte tussen hen is geen achtergrond, maar een stille spanning die de beelden doorspoelt zonder een gevoel te dragen. Misschien is ontluiping geen opening, maar de manier waarop de ruimte tussen vormen zich langzaam vervormt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13021,
-    "gemaakt": 13083,
+    "cycli": 13029,
+    "gemaakt": 13091,
     "gekozen": 2021,
-    "afgekeurd": 1539,
+    "afgekeurd": 1540,
     "corpus": 63,
-    "notities": 483
+    "notities": 484
   }
 }
