@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-24T01:30+02:00",
+  "bijgewerkt": "2026-08-24T01:45+02:00",
   "werk": [
+    {
+      "id": 13654,
+      "titel": "Huid tussen het riet",
+      "beschrijving": "Een naakt vrouwelijk lichaam, gezien van achteren, vult het beeld in een diagonale compositie. De huid is zacht getekend met subtiele schaduwen die de contouren van de billen, heupen en rug benadrukken. Een boog van het lichaam loopt van de schouders tot de heupen, met een lichte kromming die de dynamiek van de pose versterkt. Het haar is donker en valt los over de rug, met enkele haren die zich vermengen met de achtergrond. Rond het lichaam zijn donkere, scherpe strepen te zien die aan gras of riet doen denken, met enkele fijn getekende details die diepte toevoegen. De achtergrond is vaag en lichtgetekend, waardoor het lichaam centraal staat. De sfeer is intiem en rustig, met een focus op de vorm en textuur van het lichaam tegen de natuurlijke achtergrond.",
+      "cyclus": 13591,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met ruimte en detail.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013591_13654.webp"
+    },
     {
       "id": 13643,
       "titel": "Verf dat ademhaalt",
@@ -117,22 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013544_13607.webp"
-    },
-    {
-      "id": 13605,
-      "titel": "Gras dat fluistert met water",
-      "beschrijving": "Groene heuvels met scherpe, donkergroene grasspichten en kleine, glinsterende waterdruppels die over de golven lopen. Geelgroene bloemetjes prikken hier en daar door, terwijl de achtergrond zacht vervloeit in een nevelige groene mist. De lijnen zijn scherp en dynamisch, met een herhalend patroon van heuvels dat diepte suggereert zonder een horizon te tonen.",
-      "cyclus": 13542,
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar wat wazigheid in de achtergrond en kleine inconsistenties in de graspoints",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, bijna abstracte weergave van gras met een eigen compositorische keuze",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013542_13605.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13655,
+      "cyclus": 13592,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch kerkje met boom in een minimalistisch, decoratief silhouet, zonder duidelijke compositorische keuze of eigen standpunt, typisch voor een toeristische ansichtkaart.",
+      "bestand": "images/a013592_13655.webp"
+    },
     {
       "id": 13642,
       "cyclus": 13579,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld combineert een ongewone compositie (wekker in landschap) met subtiele vervormingen, wat het geen typische ansichtkaart maakt.",
       "bestand": "images/a013573_13636.webp"
-    },
-    {
-      "id": 13635,
-      "cyclus": 13572,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld combineert een klok met gras, wat geen typisch iconisch of toeristisch onderwerp is en een eigen compositorische keuze vertoont.",
-      "bestand": "images/a013572_13635.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13590,
-    "gemaakt": 13652,
-    "gekozen": 2122,
-    "afgekeurd": 1638,
+    "cycli": 13598,
+    "gemaakt": 13660,
+    "gekozen": 2123,
+    "afgekeurd": 1639,
     "corpus": 62,
     "notities": 494
   }
