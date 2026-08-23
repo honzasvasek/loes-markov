@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T20:15+02:00",
+  "bijgewerkt": "2026-08-23T20:30+02:00",
   "werk": [
     {
       "id": 13511,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13525,
+      "cyclus": 13462,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, bijna chaotische dynamiek met de klokken als centrale, niet-obvious element.",
+      "bestand": "images/a013462_13525.webp"
+    },
+    {
+      "id": 13523,
+      "cyclus": 13460,
+      "afkeuringsreden": "techniek",
+      "tech_score": 4.0,
+      "tech_notities": "['vervormde handen (vingers te lang/onscherp)', 'inconsistent perspectief (benen/voeten)', 'wazige texturen (haar/lichaam)', 'herhaalpatronen (gras/achtergrond)']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuzes zijn ongemakkelijk en niet-bevestigend.",
+      "bestand": "images/a013460_13523.webp"
+    },
+    {
       "id": 13513,
       "cyclus": 13450,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, intieme compositie met een onverklaarbaar symbool.",
       "bestand": "images/a013450_13513.webp"
-    },
-    {
-      "id": 13510,
-      "cyclus": 13447,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de vleugelstructuren van de vogels: sommige vleugels hebben realistische veren, andere zijn wat vaag of te eenduidig getekend', 'De golven in de achtergrond tonen een herhaalpatroon, alsof ze digitaal zijn gekopieerd en geplakt', 'De schaduwen van de vogels op het strand zijn inconsistent: sommige ontbreken, andere zijn te scherp of te vaag']",
-      "cliche_notities": "Dit beeld past bij een typische ansichtkaart van een kustlandschap met vogels, zonder een uniek of onverwacht element dat het boven een standaardcompositie verheft",
-      "bestand": "images/a013447_13510.webp"
-    },
-    {
-      "id": 13509,
-      "cyclus": 13446,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van het gras aan weerskanten van het pad', 'Schaduwval op het houten pad is iets te uniform en mist natuurlijke variatie']",
-      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische combinatie van een eenzame boom, een smal pad en een uitgestrekt veld, gecombineerd met een perfecte, bijna decoratieve belichting.",
-      "bestand": "images/a013446_13509.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13458,
-    "gemaakt": 13520,
+    "cycli": 13463,
+    "gemaakt": 13525,
     "gekozen": 2093,
-    "afgekeurd": 1617,
-    "corpus": 60,
+    "afgekeurd": 1619,
+    "corpus": 61,
     "notities": 491
   }
 }
