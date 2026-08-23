@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T23:15+02:00",
+  "bijgewerkt": "2026-08-23T23:30+02:00",
   "werk": [
     {
       "id": 13585,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13596,
+      "cyclus": 13533,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijk standpunt.",
+      "bestand": "images/a013533_13596.webp"
+    },
+    {
+      "id": 13593,
+      "cyclus": 13530,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Enkele planken op de steiger hebben onnatuurlijke, scherpe randen alsof ze digitaal zijn bijgesneden', 'De reflectie in het water is inconsistent met de golven: te statisch en glad', 'Textuur van het hout op de steiger is gedeeltelijk herhalend en kunstmatig glad']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch verlaten steiger-motief met perfecte compositie en sfeervol licht, zonder duidelijke persoonlijke keuzes.",
+      "bestand": "images/a013530_13593.webp"
+    },
+    {
       "id": 13575,
       "cyclus": 13512,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap met water en riet, uitgevoerd in een sfeervolle, bijna romantische sepia-filter, zonder duidelijke compositorische keuze die beyond een ansichtkaart gaat.",
       "bestand": "images/a013512_13575.webp"
-    },
-    {
-      "id": 13558,
-      "cyclus": 13495,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een steenig strandhuisje op een pier) en de decoratieve, rustige compositie zonder duidelijke persoonlijke of conceptuele keuze.",
-      "bestand": "images/a013495_13558.webp"
-    },
-    {
-      "id": 13556,
-      "cyclus": 13493,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met molen en landweg, typisch voor toeristische ansichtkaarten, zonder duidelijke compositorische of thematische afwijking.",
-      "bestand": "images/a013493_13556.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13528,
-    "gemaakt": 13590,
+    "cycli": 13534,
+    "gemaakt": 13596,
     "gekozen": 2109,
-    "afgekeurd": 1627,
-    "corpus": 61,
+    "afgekeurd": 1629,
+    "corpus": 62,
     "notities": 493
   }
 }
