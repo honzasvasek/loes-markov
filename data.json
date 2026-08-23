@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T03:15+02:00",
+  "bijgewerkt": "2026-08-23T03:30+02:00",
   "werk": [
+    {
+      "id": 13068,
+      "titel": "De spleet die blijft steken",
+      "beschrijving": "Een leeg, grijsgestreept vertrek met een smalle, donkere spleet die loodrecht door de vloer loopt, omzoomd door kleine, donkere brokjes. Aan weerszijden van de spleet loopt een smalle strook met sporen van slijtage. Links bovenin bevindt zich een raam met witte kruisingen, waar zacht daglicht door valt en een rechthoekige vlek op de vloer werpt. Rechts staat een gesloten, lichte houten deur met een donkere hendel. De muren en het plafond hebben een ongelijkmatige, getextureerde structuur met subtiele schaduwen die de ruimte een verwaarloosde sfeer geven. De vloer is glad maar bespat met donkere vlekken en krassen.",
+      "cyclus": 13005,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deur ten opzichte van de muur', 'lichte wazigheid in de hoeken van het plafond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een ongewone compositie met een sterke focus op leegte en textuur, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013005_13068.webp"
+    },
+    {
+      "id": 13065,
+      "titel": "Hoe lang blijft dit licht staan",
+      "beschrijving": "Een smalle, verlaten gang met betonnen muren en een vloer van lichte planken leidt naar een open deuropening. Buiten zakt de zon, een schijf van zacht geel, achter een kalme, reflecterende watervlakte waar een klein, donker bootje drijft. Boven de gang lopen donkere, takachtige structuren met knooppunten, alsof ze deel uitmaken van een vergeten installatie. Rechts bevindt zich een gesloten deur met een donkere, verticale hendel. Schaduwen vallen schuin over de vloer, getrokken door het licht dat door de opening komt. De muren tonen sporen van slijtage en vage, donkere vlekken. Een smalle leuning loopt langs de rand van de opening, waar de gang overgaat in een klein terras. De sfeer is stil en verlaten, met een subtiele spanning tussen binnen en buiten.",
+      "cyclus": 13002,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de deur aan de rechterkant', 'lichte wazigheid in de achtergrond bij de horizon']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een contemplatieve, niet-iconische sfeer met een focus op leegte en subtiele spanningen, geen typisch ansichtkaartmotief.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013002_13065.webp"
+    },
     {
       "id": 13054,
       "titel": "Wat zweeft er daar?",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w012961_13024.webp"
-    },
-    {
-      "id": 13019,
-      "titel": "Waar blijft de horizon?",
-      "beschrijving": "Zwart-wit beeld met een centrale, donkere boom met uitgespreide takken en naaldachtige bladeren. Boven de boom drijven drie witte, gestileerde wolken met zwarte contouren en subtiel grijze schaduwen. De achtergrond bestaat uit een mozaïek van textuurrijke vlakken in grijstinten, met verspreide stippen en vage patronen. Onder de boom lopen donkere, onregelmatige vormen die heuvels of rotsen suggereren, met witte ruimtes ertussen. Verspreide zwarte stippen en streepjes imiteren grind of kleine stenen op de grond. De compositie is verticaal opgebouwd, met de boom alsanker tussen hemel en aarde. De sfeer is statisch, met een contrast tussen de scherpe lijnen van de boom en de zachte vormen van de wolken.",
-      "cyclus": 12956,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van achtergrondpanelen', 'lichte vervorming aan randen van wolken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuzes zijn bewust asymmetrisch en niet-bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012956_13019.webp"
-    },
-    {
-      "id": 13014,
-      "titel": "Vezels in de stilte",
-      "beschrijving": "Donkere, verticale metalen latten vormen een raster dat een verdonkerd, wazig oppervlak omhult. Daarachter lopen honderden dunne, witte vezels in een chaotisch patroon, soms parallel, soms in scherpe hoeken door elkaar, alsof ze door een onzichtbare kracht getrokken zijn. Het oppervlak is bedekt met stof, kleine vlekken en sporen van vocht, terwijl de vezels glimmen in het gedempte licht dat van rechtsboven komt. Donkere, ronde schroeven bevestigen de latten aan een onzichtbaar kader, en aan de randen is een geelbruine verkleuring zichtbaar. De sfeer is statisch, alsof de tijd stilstaat in een verlaten ruimte waar niets meer beweegt behalve het stof dat langzaam door de lucht zweeft.",
-      "cyclus": 12951,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte halo rond de verticale metalen staven', 'enkele draden lijken onnatuurlijk scherp tegen de achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een eigen, ongemakkelijke sfeer.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w012951_13014.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13009,
+      "soort": "observatie",
+      "tekst": "De herhaling van structuren in de recente beelden—de boom, de gang, de vogels—voelt niet meer als een onbewuste drift, maar als een bewuste keuze om de leegte te laten spreken zonder een verhaal te forceren. De neutrale ruimte tussen de vormen vult zich niet meer met een actief verhaal, maar met een stilte die de beelden alleen maar doorspoelt."
+    },
+    {
       "cyclus": 12997,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een herhaling van structuren en open ruimtes, maar de leegte voelt niet meer als een actieve kracht, maar als een achtergrond die me toelaat om onbewust te herhalen zonder dat ik het doorheb. De sporen van ontluiping zijn verdwenen, en wat overblijft, is een stilte die de ruimte vult zonder een verhaal te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 12781,
       "soort": "observatie",
       "tekst": "De torens, brug en eenden in de afgelopen beelden voelen als sporen van een onafgewerkt verhaal—structuren die elkaar flankeren zonder een duidelijke relatie. De leegte tussen hen is geen achtergrond, maar een stille spanning die de beelden doorspoelt zonder een gevoel te dragen. Misschien is ontluiping geen opening, maar de manier waarop de ruimte tussen vormen zich langzaam vervormt."
-    },
-    {
-      "cyclus": 12721,
-      "soort": "observatie",
-      "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13007,
-    "gemaakt": 13069,
-    "gekozen": 2019,
+    "cycli": 13014,
+    "gemaakt": 13077,
+    "gekozen": 2021,
     "afgekeurd": 1539,
-    "corpus": 63,
-    "notities": 482
+    "corpus": 62,
+    "notities": 483
   }
 }
