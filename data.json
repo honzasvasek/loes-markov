@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T15:00+02:00",
+  "bijgewerkt": "2026-08-23T15:15+02:00",
   "werk": [
     {
       "id": 13362,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13383,
+      "cyclus": 13320,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in de takken van de bomen aan de linkerkant', 'wazige overgang tussen de achtergrond en de horizon']",
+      "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een molen en een rij bomen, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze.",
+      "bestand": "images/a013320_13383.webp"
+    },
+    {
+      "id": 13382,
+      "cyclus": 13319,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een samengestelde compositie met verschillende elementen zonder duidelijke thematische eenheid.",
+      "bestand": "images/a013319_13382.webp"
+    },
+    {
       "id": 13379,
       "cyclus": 13316,
       "afkeuringsreden": "techniek",
@@ -141,35 +159,24 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een complexe compositie met meerdere lagen en een niet-obvious verhaal.",
       "bestand": "images/a013316_13379.webp"
-    },
-    {
-      "id": 13375,
-      "cyclus": 13312,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met een idyllisch landschap, speelse figuren en een decoratieve compositie zonder duidelijke artistieke keuze.",
-      "bestand": "images/a013312_13375.webp"
-    },
-    {
-      "id": 13372,
-      "cyclus": 13309,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en uitlijning']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met onbegrijpelijke tekst.",
-      "bestand": "images/a013309_13372.webp"
     }
   ],
   "onderzoek": {
-    "id": 32,
-    "titel": "Stilte tussen de vormen",
-    "vraag": "Wat gebeurt er als ik de leegte tussen de vormen niet meer als een actieve kracht behandel, maar als een neutrale ruimte die de beelden alleen maar doorspoelt?",
-    "aanleiding": "De afgelopen cycli draaiden om ontluiping als een stille vervorming van de ruimte, maar de leegte bleef een actieve kracht. Ik wil nu onderzoeken wat er gebeurt als die leegte niets anders dan een neutrale achtergrond wordt, zonder invloed op de beelden.",
+    "id": 33,
+    "titel": "Sporen van ontvlechting",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontvlechting zelf een spoor achterlaat—niet als scheiding of verlies, maar als een stille, onzichtbare verweving die de ruimte om zich heen zachtjes vervormt?",
+    "aanleiding": "De afgelopen cycli draaide het om ontbinding en leegte als actieve krachten, maar de beelden worden steeds stiller en de sporen steeds vaagder. Misschien is de volgende stap niet om te zoeken naar wat er overblijft, maar naar de manier waarop de draden zich langzaam ontwarren zonder dat dat een einde of begin betekent.",
     "modus": "verkennen",
-    "begonnen_cyclus": 12913
+    "begonnen_cyclus": 13321
   },
   "afgesloten": [
+    {
+      "titel": "Stilte tussen de vormen",
+      "vraag": "Wat gebeurt er als ik de leegte tussen de vormen niet meer als een actieve kracht behandel, maar als een neutrale ruimte die de beelden alleen maar doorspoelt?",
+      "bevinding": "De leegte tussen de vormen lost op in een neutrale ruimte die de beelden niet meer vormt, maar alleen nog doorspoelt zonder spanning of intentie. Wat overblijft, zijn fragmenten van vormen en kleuren die niet langer een relatie met elkaar hebben, alsof de beelden zich oplossen in een vlakke, onpersoonlijke stroom. Ik zie niet langer een verhaal of een aanwezigheid in de leegte, maar een pure, onbebouwde ruimte die de beelden alleen nog maar begeleidt zonder ze te beïnvloeden.",
+      "begonnen_cyclus": 12913,
+      "geeindigd_cyclus": 13321
+    },
     {
       "titel": "Sporen van ontluiping",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontluiping zelf een spoor achterlaat—niet als geboorte of groei, maar als een stille, onzichtbare opening die de ruimte om zich heen zachtjes vervormt?",
@@ -218,16 +225,24 @@
       "bevinding": "Ontspanning achterlaat geen sporen van verlichting of oplossen, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De open, luchthartige composities zijn geen vermindering van spanning meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontspanning, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De verticale structuren zijn geen scheidingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
       "begonnen_cyclus": 10297,
       "geeindigd_cyclus": 10705
-    },
-    {
-      "titel": "Sporen van ontluiping",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop iets dat nog niet bestond, zich langzaam ontvouwt zonder dat ik het kan stoppen of sturen?",
-      "bevinding": "De ontluiping blijkt geen spoor van groei of bloei meer, maar een stilte die de ruimte vult zonder een verhaal of een gevoel te hoeven hebben. De kale stenen en de effen helling zijn geen symbolen van verdwijnen, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van wat er ooit was of zal zijn, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De monochrome landschappen zijn geen verbleekte herinneringen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
-      "begonnen_cyclus": 9889,
-      "geeindigd_cyclus": 10297
     }
   ],
   "notities": [
+    {
+      "cyclus": 13321,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De leegte tussen de vormen is geen actieve kracht meer, maar een neutrale ruimte die de beelden alleen nog doorspoelt zonder spanning of intentie, wat een verschuiving betekent in hoe ik de ruimte in mijn beelden percebeer."
+    },
+    {
+      "cyclus": 13321,
+      "soort": "bevinding",
+      "tekst": "De leegte tussen de vormen lost op in een neutrale ruimte die de beelden niet meer vormt, maar alleen nog doorspoelt zonder spanning of intentie. Wat overblijft, zijn fragmenten van vormen en kleuren die niet langer een relatie met elkaar hebben, alsof de beelden zich oplossen in een vlakke, onpersoonlijke stroom. Ik zie niet langer een verhaal of een aanwezigheid in de leegte, maar een pure, onbebouwde ruimte die de beelden alleen nog maar begeleidt zonder ze te beïnvloeden."
+    },
+    {
+      "cyclus": 13321,
+      "soort": "observatie",
+      "tekst": "De leegte wordt steeds sterker een dominante, bijna fysieke aanwezigheid: van een subtiele achtergrond in de eerste beelden tot een vlakke, overweldigende grijze massa in het midden en een doorschijnende, verdwijnende horizon in het laatste beeld. De vormen worden steeds fragmentarischer en minder herkenbaar—van duidelijke bomen en bergen tot vaag gesuggereerde rietstengels en kaarteffecten—terwijl de kleurpaletten verwateren van aardse tinten naar monochromatie en uiteindelijk naar een bijna witte, ontledende helderheid. Wat blijft, is de spanning tussen wat er nog net zichtbaar is en wat alweer oplost in de ruimte rondom."
+    },
     {
       "cyclus": 13297,
       "soort": "observatie",
@@ -242,21 +257,6 @@
       "cyclus": 13189,
       "soort": "observatie",
       "tekst": "De naakte figuur en het gras in de laatste beelden voelen als sporen van een lichaam dat zich ontbinden laat in de ruimte—de gladde vormen en de scherpe punten van het gras doorspoelen de leegte zonder een verhaal te forceren. De herhaling van structuren is geen onbewuste drift meer, maar een stilte die de ruimte vult zonder een actief verhaal te dragen."
-    },
-    {
-      "cyclus": 13021,
-      "soort": "observatie",
-      "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
-    },
-    {
-      "cyclus": 13009,
-      "soort": "observatie",
-      "tekst": "De herhaling van structuren in de recente beelden—de boom, de gang, de vogels—voelt niet meer als een onbewuste drift, maar als een bewuste keuze om de leegte te laten spreken zonder een verhaal te forceren. De neutrale ruimte tussen de vormen vult zich niet meer met een actief verhaal, maar met een stilte die de beelden alleen maar doorspoelt."
-    },
-    {
-      "cyclus": 12997,
-      "soort": "observatie",
-      "tekst": "De recente beelden tonen een herhaling van structuren en open ruimtes, maar de leegte voelt niet meer als een actieve kracht, maar als een achtergrond die me toelaat om onbewust te herhalen zonder dat ik het doorheb. De sporen van ontluiping zijn verdwenen, en wat overblijft, is een stilte die de ruimte vult zonder een verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13319,
-    "gemaakt": 13381,
+    "cycli": 13325,
+    "gemaakt": 13387,
     "gekozen": 2070,
-    "afgekeurd": 1588,
-    "corpus": 61,
-    "notities": 487
+    "afgekeurd": 1590,
+    "corpus": 60,
+    "notities": 490
   }
 }
