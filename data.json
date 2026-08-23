@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T07:15+02:00",
+  "bijgewerkt": "2026-08-23T07:30+02:00",
   "werk": [
+    {
+      "id": 13183,
+      "titel": "Regendruppels op verlaten zand",
+      "beschrijving": "Regendruppels vallen in een verlaten landschap met wateroppervlakken en zand. Een amorf, rozebruin object met gaten en holtes ligt half ondergedompeld in het zand, met rimpels en spatten rondom. Het object heeft een organische, bijna levendige textuur met glanzende en matte delen. Links bevinden zich houten stappen die diagonaal door het beeld lopen, met zichtbare vezels en slijtage. Rechts staat een houten paal met een schuine dakrand erboven, getekend met fijne lijnen. De achtergrond toont een vaag silhouet van bomen of structuren achter het water. De regen wordt weergegeven als dunne, verticale lijnen die door het hele beeld lopen, met donkere vlekken op het wateroppervlak. De kleuren zijn grotendeels gedempt, met uitzondering van het rozebruine object dat opvalt tegen de grijze en beige omgeving. De sfeer is stil en verlaten, met een subtiele dynamiek door de regen en het water.",
+      "cyclus": 13120,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van houten balken rechtsboven', 'lichte wazigheid in achtergrondwater']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, niet-obvious balans tussen leegte en vorm.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013120_13183.webp"
+    },
+    {
+      "id": 13179,
+      "titel": "Waar de lijn verdwijnt in zand",
+      "beschrijving": "Een uitgestrekt, vlak landschap domineert het beeld, met een horizon die scherp de lucht scheidt van een zandige, rozegekleurde vlakte. De lucht verloopt van zacht oranje bovenaan naar een kalme, grijsgroene tint dichter bij de horizon, met een subtiele blauwe vlek aan de linkerkant. Een dunne, verticale lijn loopt vanaf de horizon recht naar beneden, waarbij het een donkere, onregelmatige vorm raakt die op een klein, verweerd voorwerp lijkt. Vanaf dat punt lopen twee smalle, donkere lijnen schuin naar de onderkant van het beeld, alsof ze een spoor of pad vormen. Verspreid over het zand liggen enkele kleine, donkere vormen, waaronder wat lijkt op gedroogd plantmateriaal en een klein, donker voorwerp. De sfeer is stil en verlaten, met een zachte, bijna dromerige kleurpalet die de leegte benadrukt.",
+      "cyclus": 13116,
+      "tech_score": 8.0,
+      "tech_notities": "subtiele halo rond horizonlijn, lichte textuurconsistentie in onderste derde",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is minimalistisch en open, zonder bevestigende symboliek",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013116_13179.webp"
+    },
     {
       "id": 13171,
       "titel": "Witte bloesems, glazen druppels",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013059_13122.webp"
-    },
-    {
-      "id": 13121,
-      "titel": "Gele bloemen in koper",
-      "beschrijving": "Twee gele bloemen met zes bloemblaadjes en oranje meeldraden rijzen op vanuit een koperkleurige kom met een getextureerd oppervlak. Groene, langwerpige bladeren omhullen de stengels, terwijl de achtergrond bestaat uit donker, gestileerd gras en onduidelijke vormen die aan rotsen of sneeuw doen denken. Kleinere details zoals zaadjes en fijne grassprieten verspreiden zich over de voor- en achtergrond. De compositie is verticaal georiënteerd, met de bloemen centraal en de kom aan de onderkant. Kleuren zijn grotendeels gedempt, behalve de levendige gele bloemen en de warme koperglans.",
-      "cyclus": 13058,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van gras aan linker- en rechterkant', 'lichte halo rond rand van koperen kom']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op stilte en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013058_13121.webp"
-    },
-    {
-      "id": 13119,
-      "titel": "Een bloem die wacht op regen",
-      "beschrijving": "Een witte kom met water bevat een enkele paarse crocus met smalle groene bladeren. Naast de kom ligt een donkergrijze, getextureerde steen met lichte in slagen. Drie witte, rechthoekige kaartjes liggen schuin op een donkergrijze, matte ondergrond, waarbij één kaartje deels onder de andere ligt. Kleine waterdruppels zijn zichtbaar op de ondergrond en op de steen. De compositie is rustig en minimalistisch, met een focus op de contrasten tussen de zachte vormen van de bloem en de harde, geometrische vormen van de kaartjes en de steen. De kleuren zijn gedempt, met uitzondering van de paarse bloem die een subtiele accent vormt.",
-      "cyclus": 13056,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, rustige balans zonder typisch 'ansichtkaart'-onderwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013056_13119.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13192,
+      "cyclus": 13129,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['lichte vervorming in de vleugels van de molen, inconsistent perspectief in de achtergrondgebouwen', 'wazige texturen in de waterreflectie']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een romantisch verwaterd landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013129_13192.webp"
+    },
     {
       "id": 13186,
       "cyclus": 13123,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van kerk toren', 'lichte wazigheid in achtergrondbomen']",
       "cliche_notities": "Klassiek landschap met kerk en water, typisch ansichtkaartmotief zonder duidelijke persoonlijke invalshoek",
       "bestand": "images/a013118_13181.webp"
-    },
-    {
-      "id": 13167,
-      "cyclus": 13104,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van huizen aan horizon', 'lichte wazigheid in details van verre bomen']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een rustig Chinees dorpje met iconische elementen zoals een waterloop, traditionele huizen en een serene sfeer, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013104_13167.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13125,
-    "gemaakt": 13187,
-    "gekozen": 2035,
-    "afgekeurd": 1550,
+    "cycli": 13131,
+    "gemaakt": 13193,
+    "gekozen": 2037,
+    "afgekeurd": 1551,
     "corpus": 59,
     "notities": 484
   }
