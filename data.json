@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T10:00+02:00",
+  "bijgewerkt": "2026-08-23T10:15+02:00",
   "werk": [
     {
       "id": 13243,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13257,
+      "cyclus": 13194,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de daken', 'lichte wazigheid in de achtergrondboom']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een traditionele Japanse steeg, met iconische elementen en decoratief licht.",
+      "bestand": "images/a013194_13257.webp"
+    },
+    {
+      "id": 13255,
+      "cyclus": 13192,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsonderganglandschap, decoratief licht en een passieve horizonlijn zonder duidelijke compositorische keuze.",
+      "bestand": "images/a013192_13255.webp"
+    },
+    {
       "id": 13250,
       "cyclus": 13187,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte compositie zonder decoratief perfect licht.",
       "bestand": "images/a013187_13250.webp"
-    },
-    {
-      "id": 13238,
-      "cyclus": 13175,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnatuurlijkheid in de waterbeweging en schaduwval van de paal",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene strandscene met iconische elementen zoals golven, zand en een solitaire paal, zonder duidelijke compositorische keuze of eigen standpunt",
-      "bestand": "images/a013175_13238.webp"
-    },
-    {
-      "id": 13236,
-      "cyclus": 13173,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de zon, lichte vervorming in de takken van de bomen aan de horizon']",
-      "cliche_notities": "Molen bij zonsondergang met decoratief licht en typisch Nederlands landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013173_13236.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13190,
-    "gemaakt": 13252,
+    "cycli": 13197,
+    "gemaakt": 13260,
     "gekozen": 2049,
-    "afgekeurd": 1558,
-    "corpus": 59,
+    "afgekeurd": 1560,
+    "corpus": 58,
     "notities": 485
   }
 }
