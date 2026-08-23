@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T16:00+02:00",
+  "bijgewerkt": "2026-08-23T16:15+02:00",
   "werk": [
+    {
+      "id": 13408,
+      "titel": "Wat onder het papier verborgen bleef",
+      "beschrijving": "Een scheur in het papier onthult een vaag, organisch vormgegeven voorwerp met een onregelmatige, bijna amorf structuur. Het voorwerp heeft een lichtbeige tot crèmekleurige textuur met donkerbruine en grijze vlekken, alsof het door vocht of slijtage is getekend. Rondom het voorwerp bevinden zich subtiele kleurvlakken in zachtroze, beige en lichtgrijze tinten, met hier en daar kleine, donkere stippen en vage, donkerpaarse of blauwe vlekken die als druppels of vlekken lijken. De randen van de scheur zijn onregelmatig en frans, met kleine, witte vezels die het papier lijken te doorbreken. Onder de scheur is een deel van een ander vlak zichtbaar, met vaag herkenbare, donkere vormen en een lichtere, bijna transparante textuur. De algehele sfeer is stil en wat verwaaid, met een gevoel van verlatenheid en subtiele ontbinding. De compositie is asymmetrisch, met de scheur die diagonaal door het beeld loopt en het voorwerp centraal, maar niet precies in het midden, plaatst. Kleuren zijn gedempt en aardse, met kleine accenten van donkerder en levendiger tinten die de indruk van verwaarlozing versterken.",
+      "cyclus": 13345,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is abstract en niet iconisch, de compositie is niet decoratief perfect en er is geen bevestigend standpunt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013345_13408.webp"
+    },
+    {
+      "id": 13400,
+      "titel": "Wat overblijft van de vonk",
+      "beschrijving": "Donkere, verkoolde houtblokken liggen in een onregelmatige stapel op een zwarte, korrelige ondergrond, omringd door verspreide stukjes hout, as en dunne takjes. Het hout toont verschillende texturen: sommige delen zijn glanzend zwart en gescheurd, andere zijn grijs en vezelig met diepe barsten en gaten. Op de achtergrond strekt een uitgestrekt, donker veld zich uit onder een egale, lichtgrijze hemel, met vaag zichtbare bomen en silhouetten van gebouwen aan de horizon. De compositie is gericht op de houtstap in het midden, met de achtergrond die langzaam vervaagt in een nevelige, onduidelijke lijn. Kleuren zijn beperkt tot zwart, grijs en gedempte aardetinten, met subtiele contrasten tussen de ruwe, verkoolde oppervlakken en de fijnkorrelige as.",
+      "cyclus": 13337,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (verbrand hout in een verlaten landschap) is niet iconisch of decoratief, en de compositie kiest voor een intieme, bijna ongemakkelijke close-up in plaats van een klassieke weidsheid.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013337_13400.webp"
+    },
     {
       "id": 13395,
       "titel": "Zand dat herinnert aan vergeten handschriften",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013282_13345.webp"
-    },
-    {
-      "id": 13326,
-      "titel": "Grijs op grijs, wie overheerst?",
-      "beschrijving": "Drie rechthoekige vlakken in verschillende grijstinten vullen het beeld, gepositioneerd in een diagonale opstelling van linksboven naar rechtsonder. Het bovenste vlak heeft afgeronde hoeken en een lichtere grijstint dan de andere twee, die scherpe hoeken en een donkerder grijs hebben. Het middelste vlak overlapt gedeeltelijk met het bovenste en onderste vlak, waardoor een trapeziumvormige ruimte ontstaat tussen de drie vormen. De achtergrond is een uniforme, donkergrijze textuur met een korrelig effect, wat de indruk van een korrelig oppervlak geeft. De compositie is minimalistisch en statisch, zonder duidelijke diepte of beweging, en de kleuren zijn beperkt tot verschillende nuances van grijs, wat een neutrale en kalmerende sfeer creëert.",
-      "cyclus": 13263,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013263_13326.webp"
-    },
-    {
-      "id": 13321,
-      "titel": "Doorschijnende zweefcirkels",
-      "beschrijving": "Twee grote, zachte cirkels vullen de hoeken van het beeld, de ene links onder, de andere rechts boven, met een lichte overgang naar een effen, lichtblauwe achtergrond die de ruimte ertussen open houdt. De cirkels hebben een vaag, bijna doorschijnend karakter, met subtiele, dunne lijnen die hun randen zachtjes omlijnen en een gevoel van diepte suggereren zonder duidelijke vorm. Kleuren zijn gedempt: de cirkels zijn lichtbeige met een lichte roze ondertoon, terwijl de achtergrond een koele, neutrale blauwtint heeft. Er zijn geen schaduwen of duidelijke structuren, alleen een kalme, uitgestrekte ruimte waarin de vormen zachtjes lijken te zweven.",
-      "cyclus": 13258,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013258_13321.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13411,
+      "cyclus": 13348,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met dynamische vormen en kleuren.",
+      "bestand": "images/a013348_13411.webp"
+    },
     {
       "id": 13406,
       "cyclus": 13343,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte onscherpte in de achtergrondbomen, maar niet storend', 'Reflectie in het water is iets te perfect symmetrisch, wat artificieel overkomt']",
       "cliche_notities": "Een wilg in water is een klassiek, bijna iconisch motief, met een decoratieve compositie en geen duidelijke persoonlijke keuzes.",
       "bestand": "images/a013334_13397.webp"
-    },
-    {
-      "id": 13396,
-      "cyclus": 13333,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in vensterroosters (linksboven vs rechtsonder)",
-      "cliche_notities": "Iconisch huis met speelse kinderen in een idyllisch landschap onder een perfecte zonsondergang, zonder compositorische verrassingen",
-      "bestand": "images/a013333_13396.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13345,
-    "gemaakt": 13407,
-    "gekozen": 2072,
-    "afgekeurd": 1593,
+    "cycli": 13350,
+    "gemaakt": 13412,
+    "gekozen": 2074,
+    "afgekeurd": 1594,
     "corpus": 60,
     "notities": 491
   }
