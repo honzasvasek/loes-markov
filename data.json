@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T22:00+02:00",
+  "bijgewerkt": "2026-08-23T22:15+02:00",
   "werk": [
     {
       "id": 13548,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13558,
+      "cyclus": 13495,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een steenig strandhuisje op een pier) en de decoratieve, rustige compositie zonder duidelijke persoonlijke of conceptuele keuze.",
+      "bestand": "images/a013495_13558.webp"
+    },
+    {
+      "id": 13556,
+      "cyclus": 13493,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met molen en landweg, typisch voor toeristische ansichtkaarten, zonder duidelijke compositorische of thematische afwijking.",
+      "bestand": "images/a013493_13556.webp"
+    },
+    {
       "id": 13551,
       "cyclus": 13488,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met Chinese karakters die geen toeristische associatie oproepen.",
       "bestand": "images/a013488_13551.webp"
-    },
-    {
-      "id": 13546,
-      "cyclus": 13483,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met letters die geen duidelijke betekenis hebben.",
-      "bestand": "images/a013483_13546.webp"
-    },
-    {
-      "id": 13542,
-      "cyclus": 13479,
-      "afkeuringsreden": "cliche",
-      "tech_score": 6.0,
-      "tech_notities": "['vervormde molens: bovenste molen heeft inconsistent perspectief en onlogische structuur, onderste molen heeft vervormde ramen en onduidelijke details', 'wazige achtergrond: horizon en achtergrondgebouwen zijn onscherp en ontbreken in detail', 'herhaalpatronen: wolken en textuur in de achtergrond tonen herhalende, kunstmatige structuren']",
-      "cliche_notities": "Dit beeld valt binnen de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molens) en de decoratieve, dramatische belichting zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013479_13542.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13492,
-    "gemaakt": 13554,
+    "cycli": 13499,
+    "gemaakt": 13561,
     "gekozen": 2101,
-    "afgekeurd": 1624,
+    "afgekeurd": 1626,
     "corpus": 61,
     "notities": 492
   }
