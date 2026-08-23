@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T10:45+02:00",
+  "bijgewerkt": "2026-08-23T11:00+02:00",
   "werk": [
+    {
+      "id": 13270,
+      "titel": "Waar het hout ademhaalt",
+      "beschrijving": "Twee bruine boomstammen vormen een V-vorm met daartussen een onregelmatige, lichte opening die een vaag, textuurrijk oppervlak onthult. Donkere takken strekken zich uit tegen een egaal bruine achtergrond, terwijl kleine gele en donkerblauwe vlekken bij de basis van de stammen liggen. De penseelstreken zijn zichtbaar en geven een ruwe, bijna sculpturale textuur aan de houten vormen.",
+      "cyclus": 13207,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013207_13270.webp"
+    },
+    {
+      "id": 13269,
+      "titel": "Een vluchtige aanraking op nat papier",
+      "beschrijving": "Een grijze, korrelige textuur vult het beeld, met subtiele variaties in licht en donker die een zachte, bijna fluweelachtige indruk maken. Een dunne, onregelmatige lijn loopt schuin van linksboven naar rechtsonder, alsof iets langzaam over het oppervlak is getrokken. Kleinere details zoals minuscule putjes en lichte verkleuringen zijn verspreid over het vlak, waardoor de textuur diepte krijgt. Rechtsonder bevindt zich een klein, wit puntje dat opvalt tegen de donkerdere achtergrond. De sfeer is rustig en neutraal, zonder duidelijke focus of beweging, alsof het beeld een moment van stilte vastlegt.",
+      "cyclus": 13206,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, minimalistische compositie zonder duidelijke thematiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013206_13269.webp"
+    },
     {
       "id": 13262,
       "titel": "Groen dat blijft hangen",
@@ -104,61 +130,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013161_13224.webp"
-    },
-    {
-      "id": 13222,
-      "titel": "Waar het gras ademt",
-      "beschrijving": "Dunne, slanke stengels van gras reiken schuin omhoog, met aan de toppen fijne, uitgespreide aaren die zachtjes in de wind lijken te bewegen. De stengels zijn in subtiele groen- en bruintinten geschilderd, met af en toe een donkerdere adering die de lengte door loopt. De achtergrond bestaat uit een vaag, waterverfacht vlak van gedempt groen en grijs, met onregelmatige randen die het gevoel van een natuurlijk landschap suggereren zonder het uit te beelden. Witte en lichtgrijze vlekken in de achtergrond geven de indruk van diffuus licht dat door het gras filtert. Enkele stengels staan scherp in het middenplan, terwijl andere in de achtergrond vervagen tot zachte, onduidelijke vormen. Kleine, donkere vlekjes en watervlekken zijn verspreid over het beeld, vooral in de onderste helft, waar ze een textuur toevoegen die doet denken aan nat papier of een licht besproeid oppervlak. De compositie is asymmetrisch, met de grasstengels die zich uitstrekken van de linkerbenedenhoek naar de rechterbovenhoek, waardoor een dynamische, bijna spontane beweging ontstaat.",
-      "cyclus": 13159,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met subtiele details en een niet-decoratieve sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013159_13222.webp"
-    },
-    {
-      "id": 13209,
-      "titel": "Rug naar de horizon",
-      "beschrijving": "Een blauwe silhouet van een naakte rug, met een donkere rok die tot de knieën reikt, staat centraal tegen een horizon die overgaat in een zachte, witte gloed. De bovenkant van het beeld wordt gedomineerd door een diepblauwe hemel met subtiele, wazige penseelstreken die wolken suggereren. De figuur heeft kort haar en staat met de rug naar de kijker, armen langs het lichaam, handen licht gebald. De benen zijn slank en de voeten rusten op een effen, lichtgrijze ondergrond die overgaat in de horizon. Een zwakke schaduw valt vanaf de voeten naar beneden, de enige hint van diepte in een compositie die anders plat en bijna tweedimensionaal is. De kleuren zijn gedempt, met een sterke contrast tussen de donkere figuur en de lichte achtergrond.",
-      "cyclus": 13146,
-      "tech_score": 8.0,
-      "tech_notities": "lichte inconsistentie in de overgang tussen de achtergrond en de figuur, minimale halo rond de silhouetrand",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief perfect.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013146_13209.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 13265,
-      "cyclus": 13202,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'wazige en onleesbare letters door water-effect', 'onduidelijke structuur door rimpels en druppels']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst en water-effecten.",
-      "bestand": "images/a013202_13265.webp"
-    },
-    {
-      "id": 13263,
-      "cyclus": 13200,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde Chinese karakters', 'inconsistent nummering', 'onleesbare/onsinnige tekst']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte lijst met tekst die geen duidelijke betekenis heeft.",
-      "bestand": "images/a013200_13263.webp"
-    },
-    {
-      "id": 13257,
-      "cyclus": 13194,
+      "id": 13278,
+      "cyclus": 13215,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de daken', 'lichte wazigheid in de achtergrondboom']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een traditionele Japanse steeg, met iconische elementen en decoratief licht.",
-      "bestand": "images/a013194_13257.webp"
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen in landschap) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a013215_13278.webp"
+    },
+    {
+      "id": 13274,
+      "cyclus": 13211,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, een zonsondergang en een decoratief landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013211_13274.webp"
+    },
+    {
+      "id": 13273,
+      "cyclus": 13210,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen ten opzichte van de rotsen', 'enkele zones in de golven tonen lichte detailverlies door overmatige witruimte']",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (windmolen bij de kust) en de klassieke compositie zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a013210_13273.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13209,
-    "gemaakt": 13271,
-    "gekozen": 2052,
-    "afgekeurd": 1562,
+    "cycli": 13217,
+    "gemaakt": 13279,
+    "gekozen": 2054,
+    "afgekeurd": 1565,
     "corpus": 59,
     "notities": 485
   }
