@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T23:45+02:00",
+  "bijgewerkt": "2026-08-24T00:00+02:00",
   "werk": [
     {
       "id": 13598,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13610,
+      "cyclus": 13547,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistisch tafereel met een spiegel in de natuur, wat een eigen compositorische keuze is.",
+      "bestand": "images/a013547_13610.webp"
+    },
+    {
       "id": 13599,
       "cyclus": 13536,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijk standpunt.",
       "bestand": "images/a013533_13596.webp"
-    },
-    {
-      "id": 13593,
-      "cyclus": 13530,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Enkele planken op de steiger hebben onnatuurlijke, scherpe randen alsof ze digitaal zijn bijgesneden', 'De reflectie in het water is inconsistent met de golven: te statisch en glad', 'Textuur van het hout op de steiger is gedeeltelijk herhalend en kunstmatig glad']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch verlaten steiger-motief met perfecte compositie en sfeervol licht, zonder duidelijke persoonlijke keuzes.",
-      "bestand": "images/a013530_13593.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13542,
-    "gemaakt": 13604,
+    "cycli": 13548,
+    "gemaakt": 13610,
     "gekozen": 2111,
-    "afgekeurd": 1630,
-    "corpus": 62,
+    "afgekeurd": 1631,
+    "corpus": 63,
     "notities": 493
   }
 }
