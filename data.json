@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T09:30+02:00",
+  "bijgewerkt": "2026-08-23T09:45+02:00",
   "werk": [
+    {
+      "id": 13230,
+      "titel": "Glimmend puin in cirkelvorm",
+      "beschrijving": "Een donkere, onregelmatige vorm van gebroken, glimmende fragmenten vormt een cirkel met een staart die naar beneden loopt en overgaat in een smalle, donkere spoorlijn. De fragmenten hebben scherpe randen en verschillende groottes, met hier en daar een metallic glans. Rond de vorm ligt fijn stof en kleine brokjes verspreid over een egale, beige achtergrond. Onderaan de staart zijn subtiele, donkere reflecties te zien, alsof er een natte laag de vorm raakt. De compositie is centraal geplaatst, met veel lege ruimte rondom die de focus op de donkere vorm legt. De sfeer is statisch en minimalistisch, met een contrast tussen de ruwe textuur van de fragmenten en de gladde achtergrond.",
+      "cyclus": 13167,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte vorm met een sterke compositorische keuze, geen toeristische ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013167_13230.webp"
+    },
+    {
+      "id": 13227,
+      "titel": "Groen dat zich verweeft met stilte",
+      "beschrijving": "Groene en gele penseelstrepen vormen dichte, onregelmatige vormen die aan struikgewas denken laten, met donkerblauwe, paarse en roze accenten verspreid erdoor. Lange, slanke grasbladeren snijden schuin door het beeld, sommige scherp en witgroen, andere vager en geel. Onderin domineert een brede, effen vlakte van lichtgroen met subtiele verticale strepen, alsof het gras hier korter en gelijkmatiger is. Kleuren overlappen in korte, krachtige streken, zonder duidelijke horizon of diepte. De sfeer is rustig maar levendig, met een gevoel van overgroei en ongerepte natuur. Geen figuren, geen structuren, alleen het gedoezel van bladeren en grassen dat de hele compositie vult.",
+      "cyclus": 13164,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuurweergave tussen voor- en achtergrond', 'enkele grashalmen lijken zonder logische overgang te verdwijnen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, onopgesomde weergave van vegetatie zonder duidelijke compositie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013164_13227.webp"
+    },
     {
       "id": 13224,
       "titel": "Gras dat zand doorbreekt",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013130_13193.webp"
-    },
-    {
-      "id": 13183,
-      "titel": "Regendruppels op verlaten zand",
-      "beschrijving": "Regendruppels vallen in een verlaten landschap met wateroppervlakken en zand. Een amorf, rozebruin object met gaten en holtes ligt half ondergedompeld in het zand, met rimpels en spatten rondom. Het object heeft een organische, bijna levendige textuur met glanzende en matte delen. Links bevinden zich houten stappen die diagonaal door het beeld lopen, met zichtbare vezels en slijtage. Rechts staat een houten paal met een schuine dakrand erboven, getekend met fijne lijnen. De achtergrond toont een vaag silhouet van bomen of structuren achter het water. De regen wordt weergegeven als dunne, verticale lijnen die door het hele beeld lopen, met donkere vlekken op het wateroppervlak. De kleuren zijn grotendeels gedempt, met uitzondering van het rozebruine object dat opvalt tegen de grijze en beige omgeving. De sfeer is stil en verlaten, met een subtiele dynamiek door de regen en het water.",
-      "cyclus": 13120,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van houten balken rechtsboven', 'lichte wazigheid in achtergrondwater']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een ongemakkelijke, niet-obvious balans tussen leegte en vorm.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013120_13183.webp"
-    },
-    {
-      "id": 13179,
-      "titel": "Waar de lijn verdwijnt in zand",
-      "beschrijving": "Een uitgestrekt, vlak landschap domineert het beeld, met een horizon die scherp de lucht scheidt van een zandige, rozegekleurde vlakte. De lucht verloopt van zacht oranje bovenaan naar een kalme, grijsgroene tint dichter bij de horizon, met een subtiele blauwe vlek aan de linkerkant. Een dunne, verticale lijn loopt vanaf de horizon recht naar beneden, waarbij het een donkere, onregelmatige vorm raakt die op een klein, verweerd voorwerp lijkt. Vanaf dat punt lopen twee smalle, donkere lijnen schuin naar de onderkant van het beeld, alsof ze een spoor of pad vormen. Verspreid over het zand liggen enkele kleine, donkere vormen, waaronder wat lijkt op gedroogd plantmateriaal en een klein, donker voorwerp. De sfeer is stil en verlaten, met een zachte, bijna dromerige kleurpalet die de leegte benadrukt.",
-      "cyclus": 13116,
-      "tech_score": 8.0,
-      "tech_notities": "subtiele halo rond horizonlijn, lichte textuurconsistentie in onderste derde",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is minimalistisch en open, zonder bevestigende symboliek",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013116_13179.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13177,
-    "gemaakt": 13239,
-    "gekozen": 2045,
+    "cycli": 13183,
+    "gemaakt": 13246,
+    "gekozen": 2047,
     "afgekeurd": 1557,
-    "corpus": 59,
+    "corpus": 58,
     "notities": 484
   }
 }
