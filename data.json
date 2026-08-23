@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T12:00+02:00",
+  "bijgewerkt": "2026-08-23T12:15+02:00",
   "werk": [
+    {
+      "id": 13303,
+      "titel": "Druppel die vraagt om een naam",
+      "beschrijving": "Een wit oppervlak met een blauwe vloeistofdruppel die zich uitstrekt naar een donkergrijze, wazige cirkel met een glanzende kern. Linksboven kleurt een vlek rood, met subtiele roodbruine strepen die vervagen in het wit. Een kleine, donkere draad drijft in de buurt van de blauwe druppel, terwijl verder naar beneden een vaag cirkelvormig spoor en een minuscule donkere stip zichtbaar zijn. De achtergrond is egaal wit met lichte schaduwen die de vormen zacht omlijnen.",
+      "cyclus": 13240,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de blauwe druppel', 'lichte vervorming in de grijze spiraal']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013240_13303.webp"
+    },
+    {
+      "id": 13297,
+      "titel": "Rook en schaduwen in het zand",
+      "beschrijving": "Zandduinen vullen het beeld, met zachte, golvende lijnen die door de wind zijn gevormd. Een scherpe, donkere schaduw van een onzichtbaar voorwerp snijdt diagonaal door het zand, omgeven door fijne, parallelle ribbels. Rokers roken witte rook stijgt op uit een smalle spleet tussen de duinen, en verspreidt zich in een wazige, bewegende wolk. Donkere steentjes en kleine onregelmatigheden prikkelen hier en daar door het zand. De achtergrond toont verderop nog duinen, die vervagen in een lichte, egale horizon. Het geheel straalt een stilte uit, onderbroken door de subtiele dynamiek van de rook en de schuine schaduw.",
+      "cyclus": 13234,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie met een focus op textuur en vorm in plaats van een herkenbaar landschap of onderwerp.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013234_13297.webp"
+    },
     {
       "id": 13294,
       "titel": "Grijze lagen, donkere prikken",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013199_13262.webp"
-    },
-    {
-      "id": 13261,
-      "titel": "Wat overblijft van de horizon",
-      "beschrijving": "Zandduinen met scherpe, golvende lijnen vullen het beeld, getekend in zachte beige en bruine tinten. Een verlaten, halfbegraven houten structuur met latten en palen steekt schuin uit het zand, de lijnen ervan parallel aan de horizon. Kleine donkere vlekken, mogelijk stenen of afval, liggen verspreid over het zand, samen met wat droog gras en takjes. De achtergrond bestaat uit een egale, lichte hemel zonder details, wat de leegte versterkt. De compositie is rustig, met de duinen die de voorgrond domineren en de structuur die de blik trekt als enig spoor van menselijke aanwezigheid.",
-      "cyclus": 13198,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie zonder iconische of toeristische elementen, en de leegte speelt een actieve rol in de spanning van het beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013198_13261.webp"
-    },
-    {
-      "id": 13254,
-      "titel": "Onder het getrapte dak",
-      "beschrijving": "Een solitaire boom met slanke, hangende takken en fijn, groen loof staat onder een schuin dak van getrapte metalen planken, ondersteund door donker houten latwerk. De stam, omwonden met een lichte, spiraalvormige koord, rijst op uit een bed van donkere aarde, verspreide takken en wild groen. Achter de boom strekt een heldere, lichtblauwe hemel zich uit, terwijl aan de horizon vaag silhouet van bomen en velden zichtbaar is. Het dak vormt een driehoekig kader rond de boom, met aan weerszijden open ruimtes waar het licht de takken kust. Spijkers en verbindingen in het houten latwerk zijn zichtbaar, evenals subtiele schaduwen onder het dak.",
-      "cyclus": 13191,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de houten balken van het dak: sommige lijnen lopen niet perfect parallel, wat een subtiele vervorming suggereert.', 'De overgang tussen de boom en de achtergrond is iets te scherp, alsof de boom erbij is geplakt in plaats van natuurlijk deel uit te maken van het landschap.']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen typisch toeristisch onderwerp en de compositie is niet decoratief perfect, maar toont een meer persoonlijke kijk op de relatie tussen natuur en architectuur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013191_13254.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13312,
+      "cyclus": 13249,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de vlag tegen de horizon', 'lichte inconsistentie in de golven aan de onderkant']",
+      "cliche_notities": "Het beeld toont een iconisch zeelandschap met een vlag, typisch voor een toeristische ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013249_13312.webp"
+    },
+    {
+      "id": 13311,
+      "cyclus": 13248,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de kerk ten opzichte van de pier', 'lichte wazigheid in de achtergrond van de kerk']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische combinatie van een kerk, water en vogels in een serene compositie.",
+      "bestand": "images/a013248_13311.webp"
+    },
     {
       "id": 13299,
       "cyclus": 13236,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een gracht bij zonsondergang met decoratief perfect licht en weinig compositorische keuzes.",
       "bestand": "images/a013236_13299.webp"
-    },
-    {
-      "id": 13298,
-      "cyclus": 13235,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een strandlandschap met iconische elementen zoals zand, water en duinen, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013235_13298.webp"
-    },
-    {
-      "id": 13283,
-      "cyclus": 13220,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een idealiserend landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013220_13283.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13244,
-    "gemaakt": 13306,
-    "gekozen": 2059,
-    "afgekeurd": 1569,
+    "cycli": 13251,
+    "gemaakt": 13313,
+    "gekozen": 2061,
+    "afgekeurd": 1571,
     "corpus": 59,
     "notities": 486
   }
