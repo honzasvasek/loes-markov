@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T19:30+02:00",
+  "bijgewerkt": "2026-08-23T19:45+02:00",
   "werk": [
+    {
+      "id": 13499,
+      "titel": "Natte huid tussen het gras",
+      "beschrijving": "Een naakt vrouwelijk lichaam, gezien vanaf de heupen omhoog, vult het midden van het beeld, met zachte, ronde vormen en een lichte glans die nat lijkt. De huid is geschilderd in lichte tinten wit en blauw, met subtiele schaduwen in paars en grijs. Rond het lichaam groeien hoge, slanke grassprieten in groen en geel, met enkele donkere, bijna zwarte accenten. Het gras omhult de benen en de hand, die ontspannen op de grond rust. De achtergrond bestaat uit een vaag, lichtblauw vlak met zachte, cirkelvormige penseelstreken, alsof er water of lucht vaagt. Kleuren zijn gedempt maar levendig, met een dromerige, bijna onderwaterse sfeer. De compositie is verticaal, met het lichaam als centraal punt dat zich uitstrekt van boven tot onder in het beeld.",
+      "cyclus": 13436,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in handen', 'lichte inconsistentie in perspectief van achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een persoonlijke interpretatie van een naakt figuur in een natuurlijke setting.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013436_13499.webp"
+    },
+    {
+      "id": 13493,
+      "titel": "Rood stroomt door grijs",
+      "beschrijving": "Rode en grijze vloeistofachtige vormen vullen een rechthoekig vlak met afgeronde hoeken. De rode tinten variëren van helder tot diep, met zachte overgangen naar grijs en witte highlights aan de randen. Grijze gebieden lopen in verticale en diagonale banen door het beeld, soms doorschijnend, soms donkerder. De oppervlakte lijkt glad en glanzend, met subtiele textuurverschillen die diepte suggereren. Rode vormen aan weerskanten omlijsten een centraal grijs gebied, dat langzaam overgaat in de rode randen. Geen duidelijke figuren of herkenbare voorwerpen, alleen een spel van kleur en vorm dat een gevoel van beweging uitstraalt.",
+      "cyclus": 13430,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de abstracte vormtaal en subtiele kleurverschuivingen vragen om aandacht voor de ruimte tussen de vormen, niet voor een directe herkenbaarheid.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013430_13493.webp"
+    },
     {
       "id": 13486,
       "titel": "Witte aderen in donker prikkeldraad",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013388_13451.webp"
-    },
-    {
-      "id": 13449,
-      "titel": "Rode golven zonder water",
-      "beschrijving": "Rode zandduinen vullen het beeld, met zachte golven en scherpe randen die door de wind zijn gevormd. Witte sporen, mogelijk door voertuigen of dieren, snijden door het zand en creëren contrasterende patronen. Enkele dorre, donkere planten steken hier en daar uit het zand, met lange, slanke bladeren die in de wind lijken te waaien. Drie dunne, donkere lijnen—waarschijnlijk hoogspanningskabels—lopen parallel door de bovenste helft van het beeld, van linksboven naar rechtsonder, en verdwijnen achter de duinen. De hemel is egale, lichtgrijze, zonder wolken of zon, en vormt een neutrale achtergrond die het landschap benadrukt. De sfeer is woest en verlaten, met een gevoel van stillte en eenzaamheid.",
-      "cyclus": 13386,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de horizonlijn', 'lichte vervorming in de textuur van de zandduinen bij de voorgrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische compositie met een focus op leegte en subtiele details, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013386_13449.webp"
-    },
-    {
-      "id": 13444,
-      "titel": "Takken door het plafond",
-      "beschrijving": "Een smalle, rechte gang met hoge muren en een vlakke vloer loopt in een punt naar achteren, waarbij de muren en het plafond een effen, lichtgrijze textuur hebben. Bovenin, tegen het plafond, zweeft een grote, zachte wolk met onregelmatige, bolle vormen en subtiel schaduwen, alsof deze de gang binnen is gedruppeld. Door de wolk en de gang heen lopen dunne, donkere takken van een boom, zonder bladeren, die willekeurig door de ruimte lopen en de wolk en de muren raken. De takken hebben een scherpe, uitgesproken contour en vormen een contrast met de zachte vormen van de wolk en de rechte lijnen van de gang. Het licht komt van voren, waardoor de gang steeds donkerder wordt naarmate hij smaller wordt, en de wolk en takken een lichte schaduw werpen op het plafond en de muren. Er zijn geen andere details of voorwerpen zichtbaar.",
-      "cyclus": 13381,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de gang (wanden lopen niet perfect parallel)', 'enkele takken van de boom hebben onnatuurlijke, scherp hoekige vertakkingen die niet met de rest van de boom overeenstemmen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een unieke, dromerige compositie met een ongemakkelijke spanning tussen realiteit en fantasie, wat het geen ansichtkaart maakt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013381_13444.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13504,
+      "cyclus": 13441,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflectie water (vensters niet 1-op-1 weerspiegeld)', 'lichte wazigheid in achtergrondbomen']",
+      "cliche_notities": "Klassiek motief van een verlaten huis in water met dramatisch licht en symmetrische compositie, typisch voor romantische landschapskunst zonder verrassend element.",
+      "bestand": "images/a013441_13504.webp"
+    },
     {
       "id": 13498,
       "cyclus": 13435,
@@ -150,15 +159,6 @@
       "tech_notities": "['lichte halo rond horizonlijn', 'textuur gras iets te uniform in middenvlak']",
       "cliche_notities": "Landschap met water en grasland herinnert aan typische ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a013433_13496.webp"
-    },
-    {
-      "id": 13492,
-      "cyclus": 13429,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (gracht met kerk en bruggen) en de decoratieve, perfecte compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a013429_13492.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13438,
-    "gemaakt": 13500,
-    "gekozen": 2089,
-    "afgekeurd": 1613,
+    "cycli": 13444,
+    "gemaakt": 13506,
+    "gekozen": 2091,
+    "afgekeurd": 1614,
     "corpus": 60,
     "notities": 491
   }
