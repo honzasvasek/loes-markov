@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-23T12:30+02:00",
+  "bijgewerkt": "2026-08-23T12:45+02:00",
   "werk": [
+    {
+      "id": 13321,
+      "titel": "Doorschijnende zweefcirkels",
+      "beschrijving": "Twee grote, zachte cirkels vullen de hoeken van het beeld, de ene links onder, de andere rechts boven, met een lichte overgang naar een effen, lichtblauwe achtergrond die de ruimte ertussen open houdt. De cirkels hebben een vaag, bijna doorschijnend karakter, met subtiele, dunne lijnen die hun randen zachtjes omlijnen en een gevoel van diepte suggereren zonder duidelijke vorm. Kleuren zijn gedempt: de cirkels zijn lichtbeige met een lichte roze ondertoon, terwijl de achtergrond een koele, neutrale blauwtint heeft. Er zijn geen schaduwen of duidelijke structuren, alleen een kalme, uitgestrekte ruimte waarin de vormen zachtjes lijken te zweven.",
+      "cyclus": 13258,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013258_13321.webp"
+    },
     {
       "id": 13303,
       "titel": "Druppel die vraagt om een naam",
@@ -117,22 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013206_13269.webp"
-    },
-    {
-      "id": 13262,
-      "titel": "Groen dat blijft hangen",
-      "beschrijving": "Een verlaten, modderig landschap met een enkele, slanke wilg in het midden, waarvan de takken zachtjes in de nevel hangen. Rondscharrelend vuilnis en houtafval liggen verspreid over de natte grond, terwijl in de achtergrond vaag houten constructies van een verlaten schuur of loods te zien zijn. De nevel sluit het tafereel in een grijze, onrustige stilte, met alleen de groene tinten van de boom die een subtiele beweging suggereren. Twee scheurvormige witte randen lopen diagonaal door het beeld, alsof het een uitsnede is van een groter verhaal.",
-      "cyclus": 13199,
-      "tech_score": 7.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van houten balken bovenin', 'Wazige overgang tussen rook en achtergrond', 'Enkele takken van de boom lijken onnatuurlijk herhaald']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de scheur in het beeld en de focus op de ene boom, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013199_13262.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13325,
+      "cyclus": 13262,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (kerktoren bij water) en de decoratieve, rustige compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a013262_13325.webp"
+    },
+    {
+      "id": 13323,
+      "cyclus": 13260,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van bomen aan weerskanten van pad', 'Enkele vogels hebben iets te uniforme/platte schaduwen']",
+      "cliche_notities": "Het beeld toont een typisch landschap met een symmetrisch bomenlanewerk en een pad dat de blik naar de horizon leidt, wat doet denken aan een klassiek ansichtkaartmotief zonder duidelijke persoonlijke compositorische keuze.",
+      "bestand": "images/a013260_13323.webp"
+    },
     {
       "id": 13318,
       "cyclus": 13255,
@@ -141,24 +159,6 @@
       "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in textuurweergave van de achtergrondbergen (wat waziger dan de voorgrond)",
       "cliche_notities": "Dit is een typisch landschapsmotief met een centrale boom, een kronkelend pad en een klassieke tempelruïne, getekend in een realistische, decoratieve stijl zonder duidelijke compositorische verbeelding.",
       "bestand": "images/a013255_13318.webp"
-    },
-    {
-      "id": 13312,
-      "cyclus": 13249,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de vlag tegen de horizon', 'lichte inconsistentie in de golven aan de onderkant']",
-      "cliche_notities": "Het beeld toont een iconisch zeelandschap met een vlag, typisch voor een toeristische ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013249_13312.webp"
-    },
-    {
-      "id": 13311,
-      "cyclus": 13248,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de kerk ten opzichte van de pier', 'lichte wazigheid in de achtergrond van de kerk']",
-      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische combinatie van een kerk, water en vogels in een serene compositie.",
-      "bestand": "images/a013248_13311.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13257,
-    "gemaakt": 13320,
-    "gekozen": 2061,
-    "afgekeurd": 1572,
+    "cycli": 13264,
+    "gemaakt": 13327,
+    "gekozen": 2062,
+    "afgekeurd": 1574,
     "corpus": 61,
     "notities": 486
   }
