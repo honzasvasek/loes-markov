@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-23T16:30+02:00",
+  "bijgewerkt": "2026-08-23T16:45+02:00",
   "werk": [
+    {
+      "id": 13412,
+      "titel": "Wie zocht deze voet op?",
+      "beschrijving": "Een naakte voet en onderbeen steken verticaal uit een donkere, golvende vloeistof die de helft van het beeld inneemt. De huid is licht, met zichtbare haren en textuur, en de tenen wijzen naar boven tegen een egale, lichte achtergrond. Donkere vlekken en druppels zweven rond de overgang tussen huid en vloeistof, waar rimpels en reflecties een onrustige lijn vormen. Onder de vloeistof is een korrelig, onduidelijk oppervlak zichtbaar, alsof er zand of modder onder schuilgaat. De compositie is scherp gefocust op de been, met een geleidelijke onscherpte naar de randen toe.",
+      "cyclus": 13349,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, persoonlijke compositie zonder iconische motieven of decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013349_13412.webp"
+    },
     {
       "id": 13408,
       "titel": "Wat onder het papier verborgen bleef",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013345_13408.webp"
+    },
+    {
+      "id": 13407,
+      "titel": "Sporen die blijven steken",
+      "beschrijving": "Donkergrijze, natte zandvlaktes worden doorsneden door een serpentine van witte, schuimende sporen, gevormd door herhaalde, parallelle bewegingen die een vloeiende, bijna ritmische golflijn creëren. Kleiner wit zand en kiezelstenen liggen verspreid langs de randen van de sporen, waar het zand lichter en korreliger is. Een smalle, donkere spleet loopt parallel aan de sporen, met losse, onregelmatige stenen aan weerszijden. De achtergrond bestaat uit een eentalig, zachtgrijs zandlandschap zonder duidelijke horizon, waarbij de sporen zich langzaam vernauwen en vervagen in de verte. De textuur van het zand varieert van glad en nat in de sporen tot ruwer en droger aan de randen.",
+      "cyclus": 13344,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013344_13407.webp"
     },
     {
       "id": 13400,
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013286_13349.webp"
-    },
-    {
-      "id": 13348,
-      "titel": "Drie rugjes op de witte lijn",
-      "beschrijving": "Een smalle, witte strook loopt verticaal door het midden, geflankeerd door bruine, houtachtige vlakken met zichtbare vezels. Langs de randen van de witte strook bevinden zich donkere, onregelmatige vormen die lijken op knopen of knopen, afwisselend zwart en rood. Drie gestileerde figuren in witte kleding staan op de witte strook, gezien van achteren, met donker haar en eenvoudige contouren. Rechtsboven loopt een grijze, golvende vorm met concentrische cirkels over in een roodachtige hoek. De achtergrond is overwegend bruin met subtiele kleurverschillen, en de compositie straalt een rustige, bijna verlaten sfeer uit.",
-      "cyclus": 13285,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van figuren', 'lichte wazigheid in textuur van bruine vlakken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuzes zijn speels en niet-obvious.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013285_13348.webp"
-    },
-    {
-      "id": 13345,
-      "titel": "Blauw dat zakt en blijft hangen",
-      "beschrijving": "Blauwe vloeistof loopt in slanke, onregelmatige draden naar beneden over een crèmekleurige achtergrond, waarbij sommige draden uitlopen in ronde druppels die zweven of net de val hebben voltooid. Bovenin verspreidt de vloeistof zich in wazige, rokerige vormen die overgaan in de lichte achtergrond, terwijl onderin de draden steeds dunner worden en verdwijnen in vaag blauw. De druppels variëren in grootte en positie, sommige dicht bij elkaar, andere verspreid, met een glanzende, bijna transparante textuur die het licht lijkt te vangen. De compositie is verticaal gericht, met de beweging van boven naar beneden, en de kleuren schuiven van diep blauw naar lichtere, bijna witte tinten waar de vloeistof dunner wordt.",
-      "cyclus": 13282,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met focus op leegte en stroming.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013282_13345.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13426,
+      "cyclus": 13363,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte inconsistentie in schaduwwerking bij de eenden",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: iconisch landschap met kerk en eenden, decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a013363_13426.webp"
+    },
     {
       "id": 13413,
       "cyclus": 13350,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met dynamische vormen en kleuren.",
       "bestand": "images/a013348_13411.webp"
-    },
-    {
-      "id": 13406,
-      "cyclus": 13343,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in textuur van wateroppervlak (beneden vs. boven)', 'subtiele halo rond de zonsondergang']",
-      "cliche_notities": "Het beeld toont een iconisch landschap (zonsondergang over water) met decoratief licht en een klassieke compositie, zonder duidelijke persoonlijke keuze of verrassend element.",
-      "bestand": "images/a013343_13406.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13357,
-    "gemaakt": 13420,
-    "gekozen": 2074,
-    "afgekeurd": 1595,
-    "corpus": 59,
+    "cycli": 13365,
+    "gemaakt": 13427,
+    "gekozen": 2076,
+    "afgekeurd": 1596,
+    "corpus": 60,
     "notities": 491
   }
 }
