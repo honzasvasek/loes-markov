@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T21:30+02:00",
+  "bijgewerkt": "2026-08-23T21:45+02:00",
   "werk": [
     {
       "id": 13540,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13546,
+      "cyclus": 13483,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met letters die geen duidelijke betekenis hebben.",
+      "bestand": "images/a013483_13546.webp"
+    },
+    {
+      "id": 13542,
+      "cyclus": 13479,
+      "afkeuringsreden": "cliche",
+      "tech_score": 6.0,
+      "tech_notities": "['vervormde molens: bovenste molen heeft inconsistent perspectief en onlogische structuur, onderste molen heeft vervormde ramen en onduidelijke details', 'wazige achtergrond: horizon en achtergrondgebouwen zijn onscherp en ontbreken in detail', 'herhaalpatronen: wolken en textuur in de achtergrond tonen herhalende, kunstmatige structuren']",
+      "cliche_notities": "Dit beeld valt binnen de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molens) en de decoratieve, dramatische belichting zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013479_13542.webp"
+    },
+    {
       "id": 13539,
       "cyclus": 13476,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past precies in de categorie 'toeristische ansichtkaart': een iconisch Nederlands landschap met molen, water en traditionele huizen, gefotografeerd in een sepia-filter dat nostalgie en perfectie uitstraalt zonder een eigen standpunt of onverwachte compositorische keuze.",
       "bestand": "images/a013476_13539.webp"
-    },
-    {
-      "id": 13538,
-      "cyclus": 13475,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en grootte']",
-      "cliche_notities": "Dit beeld heeft een typisch ansichtkaart-achtige compositie met een berglandschap en een inspirerende quote, zonder unieke compositorische keuzes.",
-      "bestand": "images/a013475_13538.webp"
-    },
-    {
-      "id": 13525,
-      "cyclus": 13462,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, bijna chaotische dynamiek met de klokken als centrale, niet-obvious element.",
-      "bestand": "images/a013462_13525.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13479,
-    "gemaakt": 13541,
+    "cycli": 13485,
+    "gemaakt": 13548,
     "gekozen": 2099,
-    "afgekeurd": 1621,
+    "afgekeurd": 1623,
     "corpus": 60,
     "notities": 491
   }
