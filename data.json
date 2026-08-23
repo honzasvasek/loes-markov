@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T09:00+02:00",
+  "bijgewerkt": "2026-08-23T09:15+02:00",
   "werk": [
     {
       "id": 13224,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13238,
+      "cyclus": 13175,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte onnatuurlijkheid in de waterbeweging en schaduwval van de paal",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene strandscene met iconische elementen zoals golven, zand en een solitaire paal, zonder duidelijke compositorische keuze of eigen standpunt",
+      "bestand": "images/a013175_13238.webp"
+    },
+    {
+      "id": 13236,
+      "cyclus": 13173,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de zon, lichte vervorming in de takken van de bomen aan de horizon']",
+      "cliche_notities": "Molen bij zonsondergang met decoratief licht en typisch Nederlands landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013173_13236.webp"
+    },
+    {
       "id": 13229,
       "cyclus": 13166,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['lichte inconsistentie in perspectief van de wieken boven en onder', 'watervlekken-effect in achtergrond lijkt kunstmatig herhaald']",
       "cliche_notities": "Molens in een landschap zijn een klassiek iconisch onderwerp zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013166_13229.webp"
-    },
-    {
-      "id": 13211,
-      "cyclus": 13148,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de kabels van de brug aan de rechterkant, waar ze niet natuurlijk lopen', 'Wazige achtergrond bij de molens, alsof ze niet scherp in focus zijn']",
-      "cliche_notities": "Dit beeld straalt een typisch toeristisch Nederland uit met molens en een brug in een landschap dat doet denken aan een ansichtkaart van Kinderdijk of de Biesbosch.",
-      "bestand": "images/a013148_13211.webp"
-    },
-    {
-      "id": 13210,
-      "cyclus": 13147,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'herhaalpatronen']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een serie van gezichtloze portretten met een experimentele opzet.",
-      "bestand": "images/a013147_13210.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13172,
-    "gemaakt": 13234,
+    "cycli": 13175,
+    "gemaakt": 13238,
     "gekozen": 2045,
-    "afgekeurd": 1555,
-    "corpus": 59,
+    "afgekeurd": 1557,
+    "corpus": 58,
     "notities": 484
   }
 }
