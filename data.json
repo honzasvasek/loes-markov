@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T14:30+02:00",
+  "bijgewerkt": "2026-08-23T14:45+02:00",
   "werk": [
+    {
+      "id": 13362,
+      "titel": "Rood dat zich onthoudt",
+      "beschrijving": "Rode en grijze watervervlekken verspreiden zich over een wit oppervlak, met donkere druppels en fijne spetters die de vorm van een onregelmatige, verticale vorm suggereren. De rode tinten variëren van helderrood tot zacht roze, terwijl het grijs overgaat in zwart bij de donkerste delen. Dunne, donkere lijnen en watervlekken doorbreken de vormen, en enkele kleine, ronde roodbruine vlekken liggen verspreid. De compositie is asymmetrisch, met meer ruimte aan de linker- en onderkant, en de kleuren lijken te zijn ontstaan door spontane uitvalling en verspreiding van verf op papier.",
+      "cyclus": 13299,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, niet-decoratieve compositie met een eigen compositorische keuze.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013299_13362.webp"
+    },
+    {
+      "id": 13360,
+      "titel": "Bodem onder de huid",
+      "beschrijving": "Een naakt vrouwelijk lichaam vult het midden van het beeld, gezien van boven de heupen tot net onder de borsten, met een zachte, ronde buik en heupen die overgaan in dijken. Het lichaam is getekend met fijne, wisselende lijnen die textuur suggereren, en de borsten hebben een natuurlijke, zware vorm met donkere tepels. Rechtsboven staat een donkere, gestileerde boom met uitgespreide takken, die contrasteert met de lichte achtergrond. Rond het lichaam groeien hoge, spitse grassprietten in donkere en lichte tinten, die de compositie omlijsten en een gevoel van omhullend landschap geven. De achtergrond is een egale, lichtgrijze vlakte zonder details, waardoor het lichaam en de boom centraal staan. De sfeer is rustig en intiem, met een subtiele spanning tussen het naakte lichaam en de omringende natuur.",
+      "cyclus": 13297,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van huid vs. achtergrond', 'lichte vervorming van boomtakken rechtsboven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en niet-obvious.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013297_13360.webp"
+    },
     {
       "id": 13350,
       "titel": "Wit op wit, vijf verhalen",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013240_13303.webp"
-    },
-    {
-      "id": 13297,
-      "titel": "Rook en schaduwen in het zand",
-      "beschrijving": "Zandduinen vullen het beeld, met zachte, golvende lijnen die door de wind zijn gevormd. Een scherpe, donkere schaduw van een onzichtbaar voorwerp snijdt diagonaal door het zand, omgeven door fijne, parallelle ribbels. Rokers roken witte rook stijgt op uit een smalle spleet tussen de duinen, en verspreidt zich in een wazige, bewegende wolk. Donkere steentjes en kleine onregelmatigheden prikkelen hier en daar door het zand. De achtergrond toont verderop nog duinen, die vervagen in een lichte, egale horizon. Het geheel straalt een stilte uit, onderbroken door de subtiele dynamiek van de rook en de schuine schaduw.",
-      "cyclus": 13234,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie met een focus op textuur en vorm in plaats van een herkenbaar landschap of onderwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013234_13297.webp"
-    },
-    {
-      "id": 13294,
-      "titel": "Grijze lagen, donkere prikken",
-      "beschrijving": "Grijze heuvels vullen het beeld in lagen, met zachte, golvende lijnen die zich uitstrekken tot aan de horizon. Donkere, scherpe grassprietjes prikken hier en daar uit de heuvels, met name in het voor- en middenplan, waar ze als dunne, onregelmatige strepen door het landschap lopen. De achtergrond wordt gevormd door vaagere, lichtere heuvels die langzaam overgaan in een egale, lichtgrijze hemel zonder details. De compositie is rustig en open, met veel lege ruimte tussen de heuvels en het gras, wat een gevoel van uitgestrektheid en stilte uitstraalt. De kleuren zijn beperkt tot verschillende tinten grijs, van donker tot licht, met de donkerste tonen in de grasstrepen en de randen van de heuvels.",
-      "cyclus": 13231,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een minimalistische landschapscutie met een focus op vorm en ruimte, geen toeristische ansichtkaartstijl.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013231_13294.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13375,
+      "cyclus": 13312,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met een idyllisch landschap, speelse figuren en een decoratieve compositie zonder duidelijke artistieke keuze.",
+      "bestand": "images/a013312_13375.webp"
+    },
+    {
+      "id": 13372,
+      "cyclus": 13309,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en uitlijning']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met onbegrijpelijke tekst.",
+      "bestand": "images/a013309_13372.webp"
+    },
     {
       "id": 13370,
       "cyclus": 13307,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van tekst en landschap zonder duidelijke compositorische keuze.",
       "bestand": "images/a013307_13370.webp"
-    },
-    {
-      "id": 13369,
-      "cyclus": 13306,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met herhalende tekst en waterverfachtige vormen.",
-      "bestand": "images/a013306_13369.webp"
-    },
-    {
-      "id": 13367,
-      "cyclus": 13304,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit is een typische toeristische ansichtkaart met een molen, een gracht en een sepia-filter, zonder eigen compositorische keuzes of een uniek standpunt.",
-      "bestand": "images/a013304_13367.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13309,
-    "gemaakt": 13371,
-    "gekozen": 2068,
-    "afgekeurd": 1585,
+    "cycli": 13314,
+    "gemaakt": 13376,
+    "gekozen": 2070,
+    "afgekeurd": 1587,
     "corpus": 60,
     "notities": 487
   }
