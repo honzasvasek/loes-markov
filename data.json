@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T15:45+02:00",
+  "bijgewerkt": "2026-08-23T16:00+02:00",
   "werk": [
     {
       "id": 13395,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13406,
+      "cyclus": 13343,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuur van wateroppervlak (beneden vs. boven)', 'subtiele halo rond de zonsondergang']",
+      "cliche_notities": "Het beeld toont een iconisch landschap (zonsondergang over water) met decoratief licht en een klassieke compositie, zonder duidelijke persoonlijke keuze of verrassend element.",
+      "bestand": "images/a013343_13406.webp"
+    },
+    {
       "id": 13397,
       "cyclus": 13334,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in vensterroosters (linksboven vs rechtsonder)",
       "cliche_notities": "Iconisch huis met speelse kinderen in een idyllisch landschap onder een perfecte zonsondergang, zonder compositorische verrassingen",
       "bestand": "images/a013333_13396.webp"
-    },
-    {
-      "id": 13383,
-      "cyclus": 13320,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de takken van de bomen aan de linkerkant', 'wazige overgang tussen de achtergrond en de horizon']",
-      "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een molen en een rij bomen, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze.",
-      "bestand": "images/a013320_13383.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13339,
-    "gemaakt": 13401,
+    "cycli": 13345,
+    "gemaakt": 13407,
     "gekozen": 2072,
-    "afgekeurd": 1592,
+    "afgekeurd": 1593,
     "corpus": 60,
     "notities": 491
   }
