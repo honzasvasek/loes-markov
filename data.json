@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T08:00+02:00",
+  "bijgewerkt": "2026-08-23T08:15+02:00",
   "werk": [
     {
       "id": 13203,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13211,
+      "cyclus": 13148,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de kabels van de brug aan de rechterkant, waar ze niet natuurlijk lopen', 'Wazige achtergrond bij de molens, alsof ze niet scherp in focus zijn']",
+      "cliche_notities": "Dit beeld straalt een typisch toeristisch Nederland uit met molens en een brug in een landschap dat doet denken aan een ansichtkaart van Kinderdijk of de Biesbosch.",
+      "bestand": "images/a013148_13211.webp"
+    },
+    {
+      "id": 13210,
+      "cyclus": 13147,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'herhaalpatronen']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een serie van gezichtloze portretten met een experimentele opzet.",
+      "bestand": "images/a013147_13210.webp"
+    },
+    {
       "id": 13201,
       "cyclus": 13138,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een landschap met water en wrakschromen, geschilderd in een decoratieve, bijna ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013138_13201.webp"
-    },
-    {
-      "id": 13192,
-      "cyclus": 13129,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['lichte vervorming in de vleugels van de molen, inconsistent perspectief in de achtergrondgebouwen', 'wazige texturen in de waterreflectie']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een romantisch verwaterd landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013129_13192.webp"
-    },
-    {
-      "id": 13186,
-      "cyclus": 13123,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de brugpijlers', 'lichte wazigheid in achtergrondgebouwen']",
-      "cliche_notities": "Dit is een klassiek ansichtkaartmotief van de Tower Bridge met iconische compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a013123_13186.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13145,
-    "gemaakt": 13208,
+    "cycli": 13151,
+    "gemaakt": 13214,
     "gekozen": 2040,
-    "afgekeurd": 1552,
-    "corpus": 59,
+    "afgekeurd": 1554,
+    "corpus": 60,
     "notities": 484
   }
 }
