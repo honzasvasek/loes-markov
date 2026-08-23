@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-23T20:30+02:00",
+  "bijgewerkt": "2026-08-23T20:45+02:00",
   "werk": [
+    {
+      "id": 13520,
+      "titel": "Scheidslijn tussen water en verweering",
+      "beschrijving": "Een smalle, kronkelige spleet loopt door donkere, ruwe aarde, omzoomd door onregelmatige, verweerde houten planken die diep in de grond lijken te zijn geslagen. Het water in de spleet is helder en kalmerend, met een zachte, zilvergrijze glans die het licht reflecteert. Rondom de spleet liggen verspreid stukken hout, takjes en kleine stenen, allemaal in verschillende tinten grijs en zwart, wat een textuur van verwaarlozing en verweering suggereert. De compositie is strikt verticaal, met de spleet als een scherpe, bijna menselijke scheiding tussen twee werelden. De sfeer is stil en verlaten, met een onderliggende spanning tussen het stilstaande water en de ruwe, onrustige omgeving.",
+      "cyclus": 13457,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp is abstract en de compositie is niet decoratief perfect.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013457_13520.webp"
+    },
+    {
+      "id": 13519,
+      "titel": "Gras tussen de tenen",
+      "beschrijving": "Een naakt vrouwelijk lichaam staat centraal in een smalle, donkere nis met rechte muren en een plat plafond. Het lichaam is zonder hoofd weergegeven, met de armen langs de zijden hangend en de handen licht geopend. De huid heeft een zachte, crèmekleurige tint met subtiele schaduwen die de vormen benadrukken. Rond de voeten groeien hoge, smalle groene grassprietjes en kleine bladeren, die de overgang vormen tussen het lichaam en de grond. De achtergrond is neutraal gekleurd, met grijze en beige tinten die de nis en het omringende oppervlak vullen. De compositie is verticaal en symmetrisch, met het lichaam als belangrijkste focuspunt. De sfeer is rustig en ietsje ongemakkelijk door de afwezigheid van een gezicht en de beperkte ruimte.",
+      "cyclus": 13456,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp met decoratief licht; de compositie is ongemakkelijk en de afwezigheid van een hoofd en gezicht geeft een ongemakkelijke, niet-toeristische sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013456_13519.webp"
+    },
+    {
+      "id": 13518,
+      "titel": "Rook en schuim",
+      "beschrijving": "Donkere golven met wit schuim rollen over een landschap waarbij rookachtige vormen in de lucht opstijgen. Witte en zwarte spatten vliegen door de lucht, terwijl aan de horizon zachte heuvels de achtergrond vormen. Rechtsboven steekt een donkere, rechte vorm uit het water, omgeven door de beweging van de golven. De scène wordt gedomineerd door contrasten tussen donker en licht, met een textuur die zowel ruw als vloeiend is.",
+      "cyclus": 13455,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in golflijnen bij horizon",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met rook en golven is ontypisch voor ansichtkaart",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013455_13518.webp"
+    },
     {
       "id": 13511,
       "titel": "Waar blijft het middelpunt?",
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013413_13476.webp"
-    },
-    {
-      "id": 13468,
-      "titel": "Glimmerend brokkelingspel",
-      "beschrijving": "Donkere, hoekige blokken met glinsterende, metaalachtige oppervlakken domineren de linkerhelft, omringd door kleinere, scherpe fragmenten die op gebroken glas lijken. Een zandkleurige, golvende ondergrond loopt door het midden, met sporen van beweging en donkere vlekken die druppels of plassen suggereren. Rechtsboven zweven zachte, grijze vormen met ronde, onduidelijke contouren, alsof ze van een onzichtbaar materiaal zijn gehakt. Een bruine, korrelige massa met gaten en uitstulpingen bevindt zich rechtsonder, met een textuur die aan modder of verweerd steen doet denken. De achtergrond is een egale, crèmekleurige vlakte zonder details, waardoor de voorgrondselementen scherp afsteken. Kleuren zijn beperkt tot zwart, grijs, beige en bruin, met subtiele glans en schaduw die diepte creëren zonder een duidelijke lichtbron. De compositie is asymmetrisch, met een spanning tussen de harde, donkere vormen links en de zachte, lichte vormen rechts.",
-      "cyclus": 13405,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013405_13468.webp"
-    },
-    {
-      "id": 13467,
-      "titel": "Roodbruin vergeten",
-      "beschrijving": "Een kronkelend, zilverachtig pad snijdt door een roodbruin landschap, omringd door scherp getekende, donkerbruine grassprietjes die de compositie diagonaal doorsnijden. Witte en zilveren strepen imiteren glinsterend water of nat gras, terwijl donkere schaduwen diepte suggereren. De achtergrond bestaat uit zachte, golvende penseelstreken in oker en roodbruin, met subtiele donkere vlekken die als verre heuvels of bomen fungeren. Kleine, onregelmatige vormen in de voorgrond lijken op losse stenen of droge bladeren, verspreid over het terrein. De sfeer is rustig maar dynamisch, met een gevoel van eenzaamheid en verlatenheid.",
-      "cyclus": 13404,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de weg (verdwijnt te scherp)', 'enkele grashalmen hebben onnatuurlijke, stijve vormen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap of bevestigend onderwerp; de compositie is abstract en open van karakter",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013404_13467.webp"
-    },
-    {
-      "id": 13464,
-      "titel": "Gras tussen de heupen",
-      "beschrijving": "Een naakt vrouwelijk lichaam zit op de grond, omringd door lang gras en kleine plantjes. Het lichaam is getekend met zachte schaduwen en fijne details, waarbij de borsten, buik en benen duidelijk zichtbaar zijn. De armen rusten op de grond, de handen lichtjes gespreid. Het haar is donker en krullend, en valt over de schouders. De achtergrond is vaag en grijs, waardoor het lichaam en het gras in het midden van de compositie centraal staan. De sfeer is rustig en intiem, met een focus op de vormen en textuur van het lichaam en de natuur rondom.",
-      "cyclus": 13401,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in vingers van linkerhand', 'lichte inconsistentie in perspectief van benen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongebruikelijk en heeft een eigen standpunt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013401_13464.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13463,
-    "gemaakt": 13525,
-    "gekozen": 2093,
+    "cycli": 13469,
+    "gemaakt": 13531,
+    "gekozen": 2096,
     "afgekeurd": 1619,
-    "corpus": 61,
+    "corpus": 60,
     "notities": 491
   }
 }
