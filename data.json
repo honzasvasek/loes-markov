@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T08:15+02:00",
+  "bijgewerkt": "2026-08-23T08:30+02:00",
   "werk": [
+    {
+      "id": 13209,
+      "titel": "Rug naar de horizon",
+      "beschrijving": "Een blauwe silhouet van een naakte rug, met een donkere rok die tot de knieën reikt, staat centraal tegen een horizon die overgaat in een zachte, witte gloed. De bovenkant van het beeld wordt gedomineerd door een diepblauwe hemel met subtiele, wazige penseelstreken die wolken suggereren. De figuur heeft kort haar en staat met de rug naar de kijker, armen langs het lichaam, handen licht gebald. De benen zijn slank en de voeten rusten op een effen, lichtgrijze ondergrond die overgaat in de horizon. Een zwakke schaduw valt vanaf de voeten naar beneden, de enige hint van diepte in een compositie die anders plat en bijna tweedimensionaal is. De kleuren zijn gedempt, met een sterke contrast tussen de donkere figuur en de lichte achtergrond.",
+      "cyclus": 13146,
+      "tech_score": 8.0,
+      "tech_notities": "lichte inconsistentie in de overgang tussen de achtergrond en de figuur, minimale halo rond de silhouetrand",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief perfect.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013146_13209.webp"
+    },
+    {
+      "id": 13205,
+      "titel": "Takken die de horizon vastgrijpen",
+      "beschrijving": "Donkere, kale takken strekken zich uit tegen een grijze, bewolkte hemel, met een donkerblauwe, golvende vlakte eronder die lijkt op water of zand. De takken lopen schuin van rechtsboven naar linksonder en verdwijnen in een donkere, onduidelijke vorm aan de horizon. Kleinere takken vertakken zich in verschillende richtingen, sommige scherp en dun, andere breder en meer uitgespreid. De achtergrond is eendragend grijs met lichte variaties in tint, terwijl de voorgrond donkerder en textuurrijker is, met zachte, vloeiende overgangen tussen de donkere en lichtere gebieden. Enkele kleine, donkere vlekken zijn verspreid over de vlakte, mogelijk stenen of drijfstokken. De sfeer is stil en verlaten, met een gevoel van eenzaamheid en rust.",
+      "cyclus": 13142,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; texturen en structuren zijn consistent en natuurlijk",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de boom als centrale, bijna abstracte vorm.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013142_13205.webp"
+    },
     {
       "id": 13203,
       "titel": "Rood bloedt door de takken",
@@ -13,6 +39,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013140_13203.webp"
+    },
+    {
+      "id": 13200,
+      "titel": "Wat blijft zweven? </think>",
+      "beschrijving": "Een smalle, kronkelende waterloop snijdt door droog, bruin gras, met glinsterende golven die een mix van bruin, grijs en zilver vormen. Het water is troebel, met sporen van schuim en donkere, zwevende deeltjes. Rietstengels raken het water, sommige ondergedompeld, andere stijf en glanzend van vocht. De randen van het beeld zijn afgetekend met onregelmatige, gescheurde papier randen, die een textuur van verweerd karton onthullen. Donkere stenen en modder zijn zichtbaar onder het water, met hier en daar een drijvend takje of blad. Het licht valt schuin, waardoor de golven en het gras diepe schaduwen werpen.",
+      "cyclus": 13137,
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte inconsistentie in textuur van het papier aan de randen, maar geen belemmerend effect",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp; de compositie is gericht op subtiele dynamiek in water en gras, zonder toeristische allure",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013137_13200.webp"
     },
     {
       "id": 13196,
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013097_13160.webp"
-    },
-    {
-      "id": 13159,
-      "titel": "Wat overblijft van de stilte",
-      "beschrijving": "Een enkele, donkerblauwe steel met prikkels steekt omhoog uit nat zand, waar een open bloem met vijf ronde bloemblaadjes en een witte steel zich tegen een goudgele, onscherpe achtergrond aftekent. Rond de steel bevinden zich kleine, donkere knoppen en een afgebroken stengel die schuin in het water ligt. Het water vormt een spiegelende laag met glinsterende druppels en reflecties van de steel en de bloem, terwijl het zand eromheen natte en droge plekken heeft met subtiele textuurverschillen. De achtergrond bestaat uit vaag zichtbare, donkere stengels en een zachte, golvende horizon met een mix van blauwe en gouden tinten. De compositie is verticaal gericht, met de bloem als centraal punt dat de blik trekt boven de reflecterende, onrustige ondergrond.",
-      "cyclus": 13096,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een intieme, close-up compositie met een ongewone focus op een blauwe bloem in nat zand, wat afwijkt van typische ansichtkaartmotieven.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013096_13159.webp"
-    },
-    {
-      "id": 13156,
-      "titel": "Waar het pad verdwijnt in nevel",
-      "beschrijving": "Een smalle, zandige pad slingert zich door een verlaten kustlandschap, geflankeerd door onregelmatige rotsformaties met holtes en textuurrijke oppervlakken. Aan weerskanten groeien prikkelige, smalle planten en palmbloemen, terwijl een solitaire boom met uitgestrekte takken en fijn getekende bladeren de linkerhoek domineert. In de verte loopt een zandige heuvellijn over in een kalm, uitgestrekt wateroppervlak onder een bewolkte hemel. De kleuren zijn gedempt: zandbeige, grijsgroen en zachtbruin, met subtiele schaduwen die diepte geven aan de rotsen en vegetatie. De compositie is diagonaal opgebouwd, met het pad dat de blik naar de horizon leidt, waar het water de lucht raakt in een vaag, nevelig punt. De sfeer is stil en verlaten, met een gevoel van vergetelheid en ongerepte natuur.",
-      "cyclus": 13093,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van rotsen (linksboven vs rechtsonder)', 'lichte wazigheid in achtergrondwolken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap met bevestigend licht; de compositie kiest voor een afwijkend perspectief met lege ruimte die niet decoratief is.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013093_13156.webp"
-    },
-    {
-      "id": 13154,
-      "titel": "Zand en gras aan elkaar vast",
-      "beschrijving": "Een zandpad snijdt schuin door een uitgestrekt gebied van hoog, slank gras, waarbij de randen van het pad onregelmatig en door de vegetatie bedekt zijn. Het zand is fijn en licht van kleur, met verspreide, kleine klontjes en sporen van voetstappen of wind. Het gras is dicht en wisselt in hoogte, met sommige stengels die over het pad hangen en andere die rechtop staan. De achtergrond vervaagt in een vlakke horizon, waar het gras overgaat in een nog verder landschap. De beelden zijn in grijstinten, wat de textuur van het zand en het gras benadrukt en een rustige, bijna verlaten sfeer creëert. Er zijn geen duidelijke objecten of figuren zichtbaar, alleen de natuurlijke elementen die het landschap vormen.",
-      "cyclus": 13091,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de focus op de leegte tussen de vormen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013091_13154.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13151,
-    "gemaakt": 13214,
-    "gekozen": 2040,
+    "cycli": 13158,
+    "gemaakt": 13220,
+    "gekozen": 2043,
     "afgekeurd": 1554,
-    "corpus": 60,
+    "corpus": 59,
     "notities": 484
   }
 }
