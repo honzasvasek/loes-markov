@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T09:45+02:00",
+  "bijgewerkt": "2026-08-23T10:00+02:00",
   "werk": [
+    {
+      "id": 13243,
+      "titel": "Regendruppels op glazen water",
+      "beschrijving": "Regendruppels prikkelen het donkerblauwe wateroppervlak, waar een enkele groene blad een zwakke rimpeling achterlaat. Een donkere, schuine schaduw loopt diagonaal door het beeld, van linksboven naar rechtsonder, en verdeelt het water in twee ongelijke delen. Rechtsonder, aan de rand, steekt een klein deel van een oever tevoorschijn met donkere rotsen, natte bladeren en een dunne tak die over het water hangt. De regen vormt fijne, verticale lijnen door het hele beeld, terwijl het water zelf een glimmende, bijna glazen textuur heeft. De kleuren zijn gedempt: het water is een diep, koel blauw met subtiele groene en grijze tinten, de schaduw is bijna zwart en de vegetatie aan de rand is levendig groen met donkere, natte plekken. De compositie is rustig, met veel lege ruimte in het water, maar de regen en de schaduw geven een gevoel van beweging en spanning.",
+      "cyclus": 13180,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele spanning tussen vorm en leegte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013180_13243.webp"
+    },
+    {
+      "id": 13241,
+      "titel": "Denim aan de horizon",
+      "beschrijving": "Donkerblauwe denim shorts met uitgescheurde randen liggen op een lichte, gladde rand boven water. Achter hen strekt zich een overstroming uit met concentrische cirkels op het oppervlak, veroorzaakt door regendruppels. Kale bomen met donkere stammen en takken rijzen uit het water, hun spiegeling verstoord door de golven. De achtergrond toont een vaag silhouet van bomen en een lichtgrijze hemel. De shorts hebben twee voorzakken met koperkleurige rivetten, een riemlus en een metalen knoop. Het water reflecteert de bomen en de overstroming suggereert een nat, koud landschap. De compositie combineert een alledaags kledingstuk met een verlaten, waterrijk tafereel.",
+      "cyclus": 13178,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongewone combinatie van voorwerpen en landschap, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013178_13241.webp"
+    },
     {
       "id": 13230,
       "titel": "Glimmend puin in cirkelvorm",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013137_13200.webp"
-    },
-    {
-      "id": 13196,
-      "titel": "Spiegels zonder weerspiegeling",
-      "beschrijving": "Drie verlaten gebouwen staan in een woest landschap, gescheiden door gescheurde papierlagen die horizontaal door het beeld lopen. Het bovenste deel toont een witte, rechthoekige spiegel met een donkere rand, schuin hangend tegen een egale grijze achtergrond. Daaronder bevindt zich een klein, verweerd gebouw met een beschadigd dak en donkere openingen waar ramen en deuren zouden moeten zijn. Het middelste deel is leeg, alleen een grijze vlakte. Het onderste deel herbergt een vergelijkbaar verlaten gebouw, omgeven door onkruid en dode bomen. De sfeer is verlaten en stil, met een gevoel van verwaarlozing en afwezigheid. De compositie is verticaal opgebouwd, met de gebouwen die steeds kleiner worden naarmate ze hoger komen, en de gescheurde papierlagen creëren een gevoel van fragmentatie en onvolledigheid.",
-      "cyclus": 13133,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en heeft een eigen standpunt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013133_13196.webp"
-    },
-    {
-      "id": 13193,
-      "titel": "Regendruppels in gescheurd papier",
-      "beschrijving": "Donkere, onregelmatige vormen domineren de linkerhelft, met witte en grijze textuur die aan gescheurd papier of verweerd gesteente doet denken. Dünne, donkere takken met kleine knopjes strekken zich uit naar een vaag, wazig gebied aan de rechterkant, waar lichte vlekken en subtiele verticale lijnen een gevoel van regen of draden suggereren. Witte, kromme lijnen en donkere vlekken lopen door de donkere structuren, alsof ze aders of krassen nabootsen. De overgang tussen de donkere en lichte gebieden is scherp, maar de details vervagen in een nevelige achtergrond. Kleine, donkere cirkels en onregelmatige patronen zijn verspreid over het beeld, met een paar heldere, ronde vormen die als druppels of bliksemflitsen door de compositie lopen.",
-      "cyclus": 13130,
-      "tech_score": 8.0,
-      "tech_notities": "[\"subtiele halo's rond donkere vormen in de bovenste helft\", 'lichte inconsistentie in takstructuren rechtsboven']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013130_13193.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13250,
+      "cyclus": 13187,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte compositie zonder decoratief perfect licht.",
+      "bestand": "images/a013187_13250.webp"
+    },
     {
       "id": 13238,
       "cyclus": 13175,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele halo rond de zon, lichte vervorming in de takken van de bomen aan de horizon']",
       "cliche_notities": "Molen bij zonsondergang met decoratief licht en typisch Nederlands landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013173_13236.webp"
-    },
-    {
-      "id": 13229,
-      "cyclus": 13166,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['lichte inconsistentie in perspectief van de wieken boven en onder', 'watervlekken-effect in achtergrond lijkt kunstmatig herhaald']",
-      "cliche_notities": "Molens in een landschap zijn een klassiek iconisch onderwerp zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013166_13229.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13189,
+      "soort": "observatie",
+      "tekst": "De naakte figuur en het gras in de laatste beelden voelen als sporen van een lichaam dat zich ontbinden laat in de ruimte—de gladde vormen en de scherpe punten van het gras doorspoelen de leegte zonder een verhaal te forceren. De herhaling van structuren is geen onbewuste drift meer, maar een stilte die de ruimte vult zonder een actief verhaal te dragen."
+    },
+    {
       "cyclus": 13021,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een opbouw van structuren die zichzelf herhalen zonder een duidelijke richting—de bomen, de ramen, de latten, ze allemaal voelen als sporen van een onafgewerkte taal die zich niet meer laat vatten in een verhaal. De leegte rond deze vormen is geen achtergrond, maar een actieve laag die de beelden doorspoelt zonder een gevoel of bedoeling te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 12913,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De herhaling van structuren en open ruimtes voelt niet meer als een onbewuste drift, maar als een bewuste keuze om de leegte te laten spreken zonder een verhaal te forceren."
-    },
-    {
-      "cyclus": 12913,
-      "soort": "observatie",
-      "tekst": "De beelden worden steeds stiller en eenvoudiger: van gedetailleerde landschappen met sporen (linksboven) naar pure ruimte met alleen een hint van beweging (rechtsonder). De kleuren vervagen van rood en blauw naar beige en grijs, alsof de wereld zachtjes uitvervaagt—maar de boom blijft in elke stap een stille, onwrikbare aanwezigheid."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13183,
-    "gemaakt": 13246,
-    "gekozen": 2047,
-    "afgekeurd": 1557,
-    "corpus": 58,
-    "notities": 484
+    "cycli": 13190,
+    "gemaakt": 13252,
+    "gekozen": 2049,
+    "afgekeurd": 1558,
+    "corpus": 59,
+    "notities": 485
   }
 }
