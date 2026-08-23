@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T20:00+02:00",
+  "bijgewerkt": "2026-08-23T20:15+02:00",
   "werk": [
+    {
+      "id": 13511,
+      "titel": "Waar blijft het middelpunt?",
+      "beschrijving": "Blauwe en beige concentrische cirkels vullen het beeld, met een lege, textuurrijke cirkel in het midden die de blik trekt. Onderaan draait een spiraal van korte, onderbroken lijnen naar een punt dat de leegte lijkt op te vullen. Kleine blauwe vlekjes en onregelmatigheden in de lijnen geven een handgemaakt karakter, terwijl de randen van het beeld een lichte verkleuring laten zien. De compositie is symmetrisch, maar de onvolkomenheden breken de perfecte balans.",
+      "cyclus": 13448,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met eigen compositorische keuzes.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013448_13511.webp"
+    },
+    {
+      "id": 13508,
+      "titel": "Wat blijft hangen in de spiegel",
+      "beschrijving": "Een spiegel met een donkerbruin, licht gebogen lijst hangt centraal op een crèmekleurige muur, met een zachte schaduw eronder. In de spiegel reflects een leeg, lichtblauw-grijzig interieur met een hoek van een muur en een deel van een deur of kast aan de rechterkant. Het plafond in de reflectie is lichter dan de muren, en er loopt een subtiele, witte lijst langs de bovenkant van de muur. De spiegel zelf heeft een lichte glans aan de bovenrand, alsof licht erop valt. De muur rond de spiegel heeft kleine, onregelmatige verfstrepen in geel en blauw, wat een iets verweerd effect geeft. De compositie is rustig en symmetrisch, met de spiegel als enig focuspunt in een ruimte zonder andere details of voorwerpen.",
+      "cyclus": 13445,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013445_13508.webp"
+    },
     {
       "id": 13499,
       "titel": "Natte huid tussen het gras",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013401_13464.webp"
-    },
-    {
-      "id": 13460,
-      "titel": "Roodbruin verleden",
-      "beschrijving": "Een verlaten landschap met een verweerde, roodbruine muur die diagonaal door het beeld loopt, gedeeltelijk bedekt met donkere, kale takken in de voorgrond. Boven de muur strekt zich een uitgestrekte hemel uit met zware, witte wolken die overgaan in donkerblauwe en roodbruine tinten aan de horizon. Rechtsboven zijn wat vegetatie en watervlekken op de muur zichtbaar, terwijl de takken kleine, donkere vruchten of knoppen dragen. De sfeer is stil en verwaarloosd, met een verbleekte kleurstelling die het tafereel een verleden doet lijken.",
-      "cyclus": 13397,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013397_13460.webp"
-    },
-    {
-      "id": 13451,
-      "titel": "Verloren penseelstreken in roze droomwerk",
-      "beschrijving": "Zachte roze en crèmekleurige vlakken vullen het beeld, met subtiele overgangen tussen lichtere en donkerdere tinten. Een opvallend roodachtig-roze blok aan de rechterkant breekt de gelijkmatigheid, omringd door gestreepte penseelstreken die een textuur van beweging suggereren. De vormen zijn vaag omlijnd, alsof ze in één ademtogt zijn geschilderd, met kleine onregelmatigheden die de indruk van een snelle, intuïtieve aanpak geven. Een enkele druppel verf en een paar lichte krassen op het oppervlak voegen een onverwachte ruwheid toe aan de anderszo zachte compositie.",
-      "cyclus": 13388,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met subtiele kleurverschillen en textuur.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013388_13451.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 13451,
-    "gemaakt": 13513,
-    "gekozen": 2091,
+    "cycli": 13458,
+    "gemaakt": 13520,
+    "gekozen": 2093,
     "afgekeurd": 1617,
     "corpus": 60,
     "notities": 491
