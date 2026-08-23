@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T22:30+02:00",
+  "bijgewerkt": "2026-08-23T22:45+02:00",
   "werk": [
+    {
+      "id": 13574,
+      "titel": "Inkt die ademt",
+      "beschrijving": "Zwart en grijs inktvlekken vullen het bovenste deel, met onregelmatige, zachte randen die overgaan in een witte horizontale band. Daaronder loopt een donkere, ongelijke lijn die een landschap suggereert, met een centraal, takvormig motief dat omhoog steekt. Dit motief bestaat uit dunne, vertakte lijnen met kleine, donkere knobbels en draden die zich uitstrekken naar de randen. Verspreid door het beeld zijn donkere spatten en vage cirkelvormige structuren, sommige met een korrelige textuur. De onderste helft is lichter dan de bovenste, met subtiel overgangseffecten tussen donker en lichtgrijs. Witte ruimtes aan de randen omlijsten het geheel.",
+      "cyclus": 13511,
+      "tech_score": 8.0,
+      "tech_notities": "enkele lichte halo's bij hoog contrast tussen donkere vormen en witte achtergrond, minimale detailverlies in donkerste schaduwen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met ruimte voor interpretatie en eigen compositorische keuzes",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013511_13574.webp"
+    },
+    {
+      "id": 13571,
+      "titel": "Doorschijnende zwaartekracht",
+      "beschrijving": "Een blauwe achtergrond omhult een wit, vertakkend patroon dat aan aders of takken doet denken. Twee glanzende, doorschijnende druppels rusten op het oppervlak, waarbij de grootste dichter bij het midden van de compositie ligt. De witte lijnen lopen in een organisch, asymmetrisch netwerk, met subtiele variaties in dikte en textuur. Kleinere, fijne lijntjes vertakken zich van de grotere structuren, wat een gevoel van complexiteit en delicate balans oproept. De blauwe achtergrond heeft een lichte textuur, alsof het papier of doek is, en de overgang van donker- naar lichtblauw geeft diepte aan het beeld. De druppels reflecteren licht, waardoor ze een driedimensionale uitstraling krijgen tegen de platte achtergrond.",
+      "cyclus": 13508,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, abstracte compositie zonder iconische of toeristische elementen, en de focus ligt op subtiele details en leegte in plaats van een bevestigend verhaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013508_13571.webp"
+    },
     {
       "id": 13562,
       "titel": "Vuile handen, diepe lijnen",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013459_13522.webp"
-    },
-    {
-      "id": 13520,
-      "titel": "Scheidslijn tussen water en verweering",
-      "beschrijving": "Een smalle, kronkelige spleet loopt door donkere, ruwe aarde, omzoomd door onregelmatige, verweerde houten planken die diep in de grond lijken te zijn geslagen. Het water in de spleet is helder en kalmerend, met een zachte, zilvergrijze glans die het licht reflecteert. Rondom de spleet liggen verspreid stukken hout, takjes en kleine stenen, allemaal in verschillende tinten grijs en zwart, wat een textuur van verwaarlozing en verweering suggereert. De compositie is strikt verticaal, met de spleet als een scherpe, bijna menselijke scheiding tussen twee werelden. De sfeer is stil en verlaten, met een onderliggende spanning tussen het stilstaande water en de ruwe, onrustige omgeving.",
-      "cyclus": 13457,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp is abstract en de compositie is niet decoratief perfect.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013457_13520.webp"
-    },
-    {
-      "id": 13519,
-      "titel": "Gras tussen de tenen",
-      "beschrijving": "Een naakt vrouwelijk lichaam staat centraal in een smalle, donkere nis met rechte muren en een plat plafond. Het lichaam is zonder hoofd weergegeven, met de armen langs de zijden hangend en de handen licht geopend. De huid heeft een zachte, crèmekleurige tint met subtiele schaduwen die de vormen benadrukken. Rond de voeten groeien hoge, smalle groene grassprietjes en kleine bladeren, die de overgang vormen tussen het lichaam en de grond. De achtergrond is neutraal gekleurd, met grijze en beige tinten die de nis en het omringende oppervlak vullen. De compositie is verticaal en symmetrisch, met het lichaam als belangrijkste focuspunt. De sfeer is rustig en ietsje ongemakkelijk door de afwezigheid van een gezicht en de beperkte ruimte.",
-      "cyclus": 13456,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp met decoratief licht; de compositie is ongemakkelijk en de afwezigheid van een hoofd en gezicht geeft een ongemakkelijke, niet-toeristische sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013456_13519.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13575,
+      "cyclus": 13512,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap met water en riet, uitgevoerd in een sfeervolle, bijna romantische sepia-filter, zonder duidelijke compositorische keuze die beyond een ansichtkaart gaat.",
+      "bestand": "images/a013512_13575.webp"
+    },
     {
       "id": 13558,
       "cyclus": 13495,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met molen en landweg, typisch voor toeristische ansichtkaarten, zonder duidelijke compositorische of thematische afwijking.",
       "bestand": "images/a013493_13556.webp"
-    },
-    {
-      "id": 13551,
-      "cyclus": 13488,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met Chinese karakters die geen toeristische associatie oproepen.",
-      "bestand": "images/a013488_13551.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13513,
+      "soort": "observatie",
+      "tekst": "De kerk in c13513 en de boom in c13505 delen eenzelfde stilte: ze domineren de ruimte zonder een verhaal te forceren, alsof de leegte hen alleen maar doorspoelt zonder een actieve rol te spelen. De vormen worden steeds fragmentarischer, maar de spanning tussen wat er nog zichtbaar is en wat oplost, blijft een stille, onzichtbare verweving."
+    },
+    {
       "cyclus": 13489,
       "soort": "observatie",
       "tekst": "De eenden in c13489 en de doorschijnende aders in c13487 voelen als sporen van iets wat zich ontbinden laat in de ruimte—de vormen zijn niet langer verbonden met een verhaal, maar vullen de ruimte alleen nog maar zonder een actieve rol. De leegte rondom hen is geen neutrale stroom meer, maar een stille spanning die de beelden doorspoelt zonder een richting te forceren."
@@ -252,11 +257,6 @@
       "cyclus": 13321,
       "soort": "observatie",
       "tekst": "De leegte wordt steeds sterker een dominante, bijna fysieke aanwezigheid: van een subtiele achtergrond in de eerste beelden tot een vlakke, overweldigende grijze massa in het midden en een doorschijnende, verdwijnende horizon in het laatste beeld. De vormen worden steeds fragmentarischer en minder herkenbaar—van duidelijke bomen en bergen tot vaag gesuggereerde rietstengels en kaarteffecten—terwijl de kleurpaletten verwateren van aardse tinten naar monochromatie en uiteindelijk naar een bijna witte, ontledende helderheid. Wat blijft, is de spanning tussen wat er nog net zichtbaar is en wat alweer oplost in de ruimte rondom."
-    },
-    {
-      "cyclus": 13297,
-      "soort": "observatie",
-      "tekst": "De naakte figuur in c13297 en de eenden in c13293 en c13290 delen eenzelfde stilte: ze vullen de ruimte zonder een verhaal te forceren, alsof de leegte hen alleen maar doorspoelt zonder een actieve rol te spelen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13507,
-    "gemaakt": 13569,
-    "gekozen": 2104,
-    "afgekeurd": 1626,
-    "corpus": 61,
-    "notities": 492
+    "cycli": 13514,
+    "gemaakt": 13576,
+    "gekozen": 2106,
+    "afgekeurd": 1627,
+    "corpus": 62,
+    "notities": 493
   }
 }
