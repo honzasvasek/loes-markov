@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-23T22:15+02:00",
+  "bijgewerkt": "2026-08-23T22:30+02:00",
   "werk": [
+    {
+      "id": 13562,
+      "titel": "Vuile handen, diepe lijnen",
+      "beschrijving": "Een open hand ligt op een getextureerd, lichtgrijs oppervlak, met de palm naar boven en vingers licht gespreid. De huid is bleek met subtiele roodbruine tinten bij de gewrichten en vingertoppen, en bedekt met fijne, donkere vuilsporen—vooral op de duim, wijsvinger en middelvinger—die een korrelige textuur suggereren. De palm toont diepe, natuurlijke lijnen en een kleine, donkere vlek near de basis van de duim. Een glimp van het onderarmhaar is zichtbaar aan de onderkant. De schaduw van de hand valt scherp naar rechts, wat een zachte, diffuse belichting van linksboven aangeeft. De achtergrond is homogeen, zonder afleiding, en benadrukt de details van de hand.",
+      "cyclus": 13499,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in vingerlengten (wijzer/vierde vinger), lichte wazigheid in achtergrondtextuur",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de ruwe, onopgesmukte hand met sporen van arbeid, wat een persoonlijke, niet-toeristische kijk biedt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013499_13562.webp"
+    },
+    {
+      "id": 13559,
+      "titel": "Blauw gras, zachte huid",
+      "beschrijving": "Een naakt vrouwelijk lichaam staat centraal, gezien vanaf de bovenborst tot de bovenbenen, met zachte, vloeiende lijnen en subtiele schaduwen die de contouren benadrukken. De huid heeft een egale, bijna marmeren textuur met een lichte blauwe ondertoon. Rond het lichaam heen staan scherpe, donkerblauwe grasspelden met rode punten, die een contrast vormen met de zachte vormen van het lichaam. De achtergrond is egaal en lichtgekleurd, waardoor het lichaam en het gras prominent naar voren komen. De compositie is verticaal en symmetrisch, met een rustige, bijna statische sfeer.",
+      "cyclus": 13496,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in handen', 'lichte wazigheid in schaduwgebieden van lichaam']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een eigen, ongemakkelijke spanning door de prikkels en de naakte figuur.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013496_13559.webp"
+    },
+    {
+      "id": 13555,
+      "titel": "Roes in het onafgewerkte lichaam",
+      "beschrijving": "Een donkere, onduidelijke menselijke silhouet staat centraal, met uitgestrekte armen en benen die licht gespreid zijn. Het lichaam is gevuld met een getextureerd, donkergrijs patroon dat aan vervaagde inkt of roet doet denken, met donkerdere vlekken die willekeurig verspreid zijn. Onder het silhouet groeit een dichte, groene bundel gras met lange, smalle bladeren die in verschillende richtingen wijzen. Verspreid tussen het gras bevinden zich kleine, gele en groene bolletjes die op zaadkoppen of miniatuurvruchten lijken. De achtergrond is egale wit, zonder details of overgangen, waardoor het silhouet en het gras scherp afsteken. De compositie is verticaal georiënteerd, met het lichaam dat de hoogte van het beeld vult en het gras dat de onderste rand beslaat. De sfeer is statisch en iets onpersoonlijks, door de afwezigheid van gezichtskenmerken en de minimalistische achtergrond.",
+      "cyclus": 13492,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013492_13555.webp"
+    },
     {
       "id": 13548,
       "titel": "Waar het zand zachtjes zucht",
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013456_13519.webp"
-    },
-    {
-      "id": 13518,
-      "titel": "Rook en schuim",
-      "beschrijving": "Donkere golven met wit schuim rollen over een landschap waarbij rookachtige vormen in de lucht opstijgen. Witte en zwarte spatten vliegen door de lucht, terwijl aan de horizon zachte heuvels de achtergrond vormen. Rechtsboven steekt een donkere, rechte vorm uit het water, omgeven door de beweging van de golven. De scène wordt gedomineerd door contrasten tussen donker en licht, met een textuur die zowel ruw als vloeiend is.",
-      "cyclus": 13455,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in golflijnen bij horizon",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met rook en golven is ontypisch voor ansichtkaart",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013455_13518.webp"
-    },
-    {
-      "id": 13511,
-      "titel": "Waar blijft het middelpunt?",
-      "beschrijving": "Blauwe en beige concentrische cirkels vullen het beeld, met een lege, textuurrijke cirkel in het midden die de blik trekt. Onderaan draait een spiraal van korte, onderbroken lijnen naar een punt dat de leegte lijkt op te vullen. Kleine blauwe vlekjes en onregelmatigheden in de lijnen geven een handgemaakt karakter, terwijl de randen van het beeld een lichte verkleuring laten zien. De compositie is symmetrisch, maar de onvolkomenheden breken de perfecte balans.",
-      "cyclus": 13448,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met eigen compositorische keuzes.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013448_13511.webp"
-    },
-    {
-      "id": 13508,
-      "titel": "Wat blijft hangen in de spiegel",
-      "beschrijving": "Een spiegel met een donkerbruin, licht gebogen lijst hangt centraal op een crèmekleurige muur, met een zachte schaduw eronder. In de spiegel reflects een leeg, lichtblauw-grijzig interieur met een hoek van een muur en een deel van een deur of kast aan de rechterkant. Het plafond in de reflectie is lichter dan de muren, en er loopt een subtiele, witte lijst langs de bovenkant van de muur. De spiegel zelf heeft een lichte glans aan de bovenrand, alsof licht erop valt. De muur rond de spiegel heeft kleine, onregelmatige verfstrepen in geel en blauw, wat een iets verweerd effect geeft. De compositie is rustig en symmetrisch, met de spiegel als enig focuspunt in een ruimte zonder andere details of voorwerpen.",
-      "cyclus": 13445,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013445_13508.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 13499,
-    "gemaakt": 13561,
-    "gekozen": 2101,
+    "cycli": 13507,
+    "gemaakt": 13569,
+    "gekozen": 2104,
     "afgekeurd": 1626,
     "corpus": 61,
     "notities": 492
