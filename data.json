@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T05:45+02:00",
+  "bijgewerkt": "2026-08-23T06:00+02:00",
   "werk": [
+    {
+      "id": 13144,
+      "titel": "Zes stappen over het water",
+      "beschrijving": "Een houten loopbrug met leuningen loopt diagonaal door een grijze, lege ruimte. Zes eenden lopen in een lijn parallel aan de brug, gericht naar rechtsboven. Drie donkere, bolvormige objecten zweven in de achtergrond, verspreid over de bovenste helft van het beeld. De houten planken van de brug tonen slijtage en knoesten, met schaduwen die de diepte benadrukken. De eenden hebben donkere koppen en lichamen met lichtere buiken en witte vlekken op hun vleugels. De achtergrond is egale grijs, zonder horizon of extra details. De compositie combineert de rechte lijnen van de brug met de organische vormen van de eenden en bollen.",
+      "cyclus": 13081,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een ongemakkelijke, bijna surrealistische spanning tussen de leegte en de vormen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013081_13144.webp"
+    },
+    {
+      "id": 13136,
+      "titel": "PAPIER DAT ZICHTBAAR WORDT",
+      "beschrijving": "Een verfrommeld stuk beige papier met scheurtjes en losse randen ligt op een effen, lichte ondergrond. Een glanzende, witte substantie, vergelijkbaar met lijm of gesmolten was, loopt in een onregelmatige, organische vorm over het papier, met druppels die in verschillende groottes verspreid zijn. De substantie vormt een glimmende, bijna driedimensionale laag die het papier deels bedekt en de textuur van het papier benadrukt. Kleine, donkere vlekjes en fragmenten van papier zijn zichtbaar rond de randen, waar het papier scheurt of loslaat. De compositie is asymmetrisch, met de witte substantie die een dynamische lijn trekt door het beeld, terwijl de achtergrond rustig en ongestoord blijft. De sfeer is neutraal en matter, met een focus op de textuur en de interactie tussen het papier en de witte substantie.",
+      "cyclus": 13073,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met een focus op textuur en vorm in plaats van een herkenbaar tafereel.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013073_13136.webp"
+    },
     {
       "id": 13122,
       "titel": "Groen dat ontsnapt aan de kom",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013005_13068.webp"
-    },
-    {
-      "id": 13065,
-      "titel": "Hoe lang blijft dit licht staan",
-      "beschrijving": "Een smalle, verlaten gang met betonnen muren en een vloer van lichte planken leidt naar een open deuropening. Buiten zakt de zon, een schijf van zacht geel, achter een kalme, reflecterende watervlakte waar een klein, donker bootje drijft. Boven de gang lopen donkere, takachtige structuren met knooppunten, alsof ze deel uitmaken van een vergeten installatie. Rechts bevindt zich een gesloten deur met een donkere, verticale hendel. Schaduwen vallen schuin over de vloer, getrokken door het licht dat door de opening komt. De muren tonen sporen van slijtage en vage, donkere vlekken. Een smalle leuning loopt langs de rand van de opening, waar de gang overgaat in een klein terras. De sfeer is stil en verlaten, met een subtiele spanning tussen binnen en buiten.",
-      "cyclus": 13002,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de deur aan de rechterkant', 'lichte wazigheid in de achtergrond bij de horizon']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een contemplatieve, niet-iconische sfeer met een focus op leegte en subtiele spanningen, geen typisch ansichtkaartmotief.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013002_13065.webp"
-    },
-    {
-      "id": 13054,
-      "titel": "Wat zweeft er daar?",
-      "beschrijving": "Een breed, horizontaal doek verdeeld in drie duidelijke vlakken: bovenaan een lichte, bijna witte hemel die langzaam overloopt in een zachte blauwe horizonlijn. Daaronder strekt zich een uitgestrekt, kalmerend water uit in verschillende blauwe tinten, van lichtgrijsblauw tot diep indigo, met subtiele, golvende bewegingen die de oppervlakte doorsnijden. In het midden van het water zweeft een donkerblauwe, amorf vorm, alsof er iets zachts door de golven glijdt, zonder duidelijke contour of richting. Onderaan het doek lopen donkerder, bijna paarsblauwe golven parallel aan de onderkant, met hier en daar een kleine, donkere vlek die als een verdwijnpunt fungeert. De penseelstreken zijn breed en vloeiend, waardoor de lagen in elkaar opgaan en een gevoel van oneindige ruimte en stilte ontstaat.",
-      "cyclus": 12991,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w012991_13054.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 13081,
-    "gemaakt": 13143,
-    "gekozen": 2028,
+    "cycli": 13088,
+    "gemaakt": 13151,
+    "gekozen": 2030,
     "afgekeurd": 1547,
     "corpus": 63,
     "notities": 484
