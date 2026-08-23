@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T16:45+02:00",
+  "bijgewerkt": "2026-08-23T17:00+02:00",
   "werk": [
+    {
+      "id": 13428,
+      "titel": "Verf die zich herinnert water",
+      "beschrijving": "Wit papier draagt sporen van natte verf: donkergrijze en zwarte vlekken met onregelmatige, tandvormige randen, naast rode cirkels met een zachte, oplosende textuur. Een verticale, vaag grijze streep loopt door het midden, alsof het papier ooit nat was en droogde met een spoor van water. Kleine druppels en vage uitlopers omringen de vormen, sommige met een lichte glans alsof de verf nog niet volledig is opgedroogd. De rode cirkels hebben een intensere kern die naar de randen toe verbleekt, terwijl de donkere vlekken vaak een ongelijkmatige, bijna korrelige structuur hebben. Witte ruimtes tussen de vormen zijn niet leeg, maar suggereren een onderliggende textuur van het papier zelf.",
+      "cyclus": 13365,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013365_13428.webp"
+    },
+    {
+      "id": 13422,
+      "titel": "Tandwielen in waterverf",
+      "beschrijving": "Cirkelvormige vlekken in rood, blauw en grijs verspreid over een crèmekleurige achtergrond, met onregelmatige, tandwieltjesachtige randen. Rode vlekken bevinden zich voornamelijk in de boven- en rechterhelft, blauwe en grijze vlekken domineren het midden en de linkeronderkant. Sommige vlekken overlappen elkaar, waardoor kleurverloop en transparantie ontstaan. De achtergrond blijft grotendeels leeg, met alleen subtiele textuur in het papier. De compositie voelt willekeurig, maar de vlekken vormen een diagonale stroom van linksboven naar rechtsonder. Kleuren zijn zacht en watervast, met kleine variaties in intensiteit. Geen duidelijke vormen of onderwerpen, alleen abstracte kleurvlakken die ruimte laten voor interpretatie.",
+      "cyclus": 13359,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013359_13422.webp"
+    },
     {
       "id": 13412,
       "titel": "Wie zocht deze voet op?",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013297_13360.webp"
-    },
-    {
-      "id": 13350,
-      "titel": "Wit op wit, vijf verhalen",
-      "beschrijving": "Grijs-witte golven van zacht, textuurrijk materiaal vullen het beeld, met subtiele schaduwovergangen die diepte suggereren. Vijf kleine, ronde witte vormen liggen verspreid over de golven, waarbij één dichter bij de voorgrond solo staat en de overige vier in een losse groep bij elkaar. De achtergrond is een egale, lichte vlak zonder afleiding, waardoor de focus ligt op de vloeiende lijnen en de minimalistische plaatsing van de ronde elementen. De sfeer is kalm en vrij van dynamiek, met een focus op vorm en textuur boven actie of verhaal.",
-      "cyclus": 13287,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013287_13350.webp"
-    },
-    {
-      "id": 13349,
-      "titel": "Vonken in de sporen van orde",
-      "beschrijving": "Een verbrande, donkere toren met holle vensters en een boogvormige ingang staat centraal, omringd door concentrische sporen die aan spoorwegen denken laten ontstaan. Rotsblokken en verbrand puin liggen verspreid, met glimmende, donkere vloeistof die tussen de sporen loopt en reflecties werpt. Een smalle, houten brug met relingen sluit aan bij de toren, terwijl kleine, gouden vonken en witte vonkjes door het tafereel zweven. Donkere, verweerde texturen domineren, met subtiele hints van oranje en goud in de achtergrond. De compositie straalt een verlaten, bijna apocalyptische sfeer uit, met een mix van vernietiging en stille, onverstoorbare orde. Details als de textuur van het verbrande hout en de glans van de vloeistof voegen een ongemakkelijke, fascinerende laag toe aan het beeld.",
-      "cyclus": 13286,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in spoorbreedte bij binnenste cirkels', 'lichte halo rond donkere rotsblokken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust chaotisch en niet-bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013286_13349.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13431,
+      "cyclus": 13368,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische molen in een vlak landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013368_13431.webp"
+    },
     {
       "id": 13426,
       "cyclus": 13363,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een solitaire boom bij een waterloop) en de decoratieve, rustige compositie zonder sterke persoonlijke of conceptuele keuzes.",
       "bestand": "images/a013350_13413.webp"
-    },
-    {
-      "id": 13411,
-      "cyclus": 13348,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met dynamische vormen en kleuren.",
-      "bestand": "images/a013348_13411.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13365,
-    "gemaakt": 13427,
-    "gekozen": 2076,
-    "afgekeurd": 1596,
+    "cycli": 13372,
+    "gemaakt": 13434,
+    "gekozen": 2078,
+    "afgekeurd": 1597,
     "corpus": 60,
     "notities": 491
   }
