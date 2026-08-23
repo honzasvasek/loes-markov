@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T19:45+02:00",
+  "bijgewerkt": "2026-08-23T20:00+02:00",
   "werk": [
     {
       "id": 13499,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 13504,
-      "cyclus": 13441,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflectie water (vensters niet 1-op-1 weerspiegeld)', 'lichte wazigheid in achtergrondbomen']",
-      "cliche_notities": "Klassiek motief van een verlaten huis in water met dramatisch licht en symmetrische compositie, typisch voor romantische landschapskunst zonder verrassend element.",
-      "bestand": "images/a013441_13504.webp"
+      "id": 13513,
+      "cyclus": 13450,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, intieme compositie met een onverklaarbaar symbool.",
+      "bestand": "images/a013450_13513.webp"
     },
     {
-      "id": 13498,
-      "cyclus": 13435,
+      "id": 13510,
+      "cyclus": 13447,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming bij vleugels van twee vogels', 'onduidelijke textuur in verre bomen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met vogels in vlucht boven een dorpsgezicht met kerk, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013435_13498.webp"
+      "tech_notities": "['Lichte inconsistentie in de vleugelstructuren van de vogels: sommige vleugels hebben realistische veren, andere zijn wat vaag of te eenduidig getekend', 'De golven in de achtergrond tonen een herhaalpatroon, alsof ze digitaal zijn gekopieerd en geplakt', 'De schaduwen van de vogels op het strand zijn inconsistent: sommige ontbreken, andere zijn te scherp of te vaag']",
+      "cliche_notities": "Dit beeld past bij een typische ansichtkaart van een kustlandschap met vogels, zonder een uniek of onverwacht element dat het boven een standaardcompositie verheft",
+      "bestand": "images/a013447_13510.webp"
     },
     {
-      "id": 13496,
-      "cyclus": 13433,
+      "id": 13509,
+      "cyclus": 13446,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['lichte halo rond horizonlijn', 'textuur gras iets te uniform in middenvlak']",
-      "cliche_notities": "Landschap met water en grasland herinnert aan typische ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a013433_13496.webp"
+      "tech_notities": "['Lichte inconsistentie in de textuur van het gras aan weerskanten van het pad', 'Schaduwval op het houten pad is iets te uniform en mist natuurlijke variatie']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische combinatie van een eenzame boom, een smal pad en een uitgestrekt veld, gecombineerd met een perfecte, bijna decoratieve belichting.",
+      "bestand": "images/a013446_13509.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13444,
-    "gemaakt": 13506,
+    "cycli": 13451,
+    "gemaakt": 13513,
     "gekozen": 2091,
-    "afgekeurd": 1614,
+    "afgekeurd": 1617,
     "corpus": 60,
     "notities": 491
   }
