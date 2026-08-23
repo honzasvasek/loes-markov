@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-23T07:45+02:00",
+  "bijgewerkt": "2026-08-23T08:00+02:00",
   "werk": [
+    {
+      "id": 13203,
+      "titel": "Rood bloedt door de takken",
+      "beschrijving": "Een slanke, bladloze boom met donkerrode takken domineert het midden van het beeld, tegen een egaal roodachtig-pink achtergrond. De stam loopt verticaal, met enkele takken die schuin naar boven of horizontaal uitsteken. Onder de boom bevindt zich een donkere, onregelmatige vorm die lijkt op een schaduw of een stuk hout, met daarachter een rechthoekig element in oranje-rood, mogelijk een bank of structuur. De verf is zichtbaar aangebracht met brede, textuurrijke streken, wat een ruwe, bijna abstracte uitstraling geeft. De kleuren zijn grotendeels monochrom, met subtiele variaties in rood, pink en bruin, en de compositie is eenvoudig maar krachtig door de verticale en diagonale lijnen van de boom en de achtergrondvormen.",
+      "cyclus": 13140,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013140_13203.webp"
+    },
+    {
+      "id": 13196,
+      "titel": "Spiegels zonder weerspiegeling",
+      "beschrijving": "Drie verlaten gebouwen staan in een woest landschap, gescheiden door gescheurde papierlagen die horizontaal door het beeld lopen. Het bovenste deel toont een witte, rechthoekige spiegel met een donkere rand, schuin hangend tegen een egale grijze achtergrond. Daaronder bevindt zich een klein, verweerd gebouw met een beschadigd dak en donkere openingen waar ramen en deuren zouden moeten zijn. Het middelste deel is leeg, alleen een grijze vlakte. Het onderste deel herbergt een vergelijkbaar verlaten gebouw, omgeven door onkruid en dode bomen. De sfeer is verlaten en stil, met een gevoel van verwaarlozing en afwezigheid. De compositie is verticaal opgebouwd, met de gebouwen die steeds kleiner worden naarmate ze hoger komen, en de gescheurde papierlagen creëren een gevoel van fragmentatie en onvolledigheid.",
+      "cyclus": 13133,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en heeft een eigen standpunt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013133_13196.webp"
+    },
+    {
+      "id": 13193,
+      "titel": "Regendruppels in gescheurd papier",
+      "beschrijving": "Donkere, onregelmatige vormen domineren de linkerhelft, met witte en grijze textuur die aan gescheurd papier of verweerd gesteente doet denken. Dünne, donkere takken met kleine knopjes strekken zich uit naar een vaag, wazig gebied aan de rechterkant, waar lichte vlekken en subtiele verticale lijnen een gevoel van regen of draden suggereren. Witte, kromme lijnen en donkere vlekken lopen door de donkere structuren, alsof ze aders of krassen nabootsen. De overgang tussen de donkere en lichte gebieden is scherp, maar de details vervagen in een nevelige achtergrond. Kleine, donkere cirkels en onregelmatige patronen zijn verspreid over het beeld, met een paar heldere, ronde vormen die als druppels of bliksemflitsen door de compositie lopen.",
+      "cyclus": 13130,
+      "tech_score": 8.0,
+      "tech_notities": "[\"subtiele halo's rond donkere vormen in de bovenste helft\", 'lichte inconsistentie in takstructuren rechtsboven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013130_13193.webp"
+    },
     {
       "id": 13183,
       "titel": "Regendruppels op verlaten zand",
@@ -91,48 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013091_13154.webp"
-    },
-    {
-      "id": 13144,
-      "titel": "Zes stappen over het water",
-      "beschrijving": "Een houten loopbrug met leuningen loopt diagonaal door een grijze, lege ruimte. Zes eenden lopen in een lijn parallel aan de brug, gericht naar rechtsboven. Drie donkere, bolvormige objecten zweven in de achtergrond, verspreid over de bovenste helft van het beeld. De houten planken van de brug tonen slijtage en knoesten, met schaduwen die de diepte benadrukken. De eenden hebben donkere koppen en lichamen met lichtere buiken en witte vlekken op hun vleugels. De achtergrond is egale grijs, zonder horizon of extra details. De compositie combineert de rechte lijnen van de brug met de organische vormen van de eenden en bollen.",
-      "cyclus": 13081,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een ongemakkelijke, bijna surrealistische spanning tussen de leegte en de vormen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013081_13144.webp"
-    },
-    {
-      "id": 13136,
-      "titel": "PAPIER DAT ZICHTBAAR WORDT",
-      "beschrijving": "Een verfrommeld stuk beige papier met scheurtjes en losse randen ligt op een effen, lichte ondergrond. Een glanzende, witte substantie, vergelijkbaar met lijm of gesmolten was, loopt in een onregelmatige, organische vorm over het papier, met druppels die in verschillende groottes verspreid zijn. De substantie vormt een glimmende, bijna driedimensionale laag die het papier deels bedekt en de textuur van het papier benadrukt. Kleine, donkere vlekjes en fragmenten van papier zijn zichtbaar rond de randen, waar het papier scheurt of loslaat. De compositie is asymmetrisch, met de witte substantie die een dynamische lijn trekt door het beeld, terwijl de achtergrond rustig en ongestoord blijft. De sfeer is neutraal en matter, met een focus op de textuur en de interactie tussen het papier en de witte substantie.",
-      "cyclus": 13073,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met een focus op textuur en vorm in plaats van een herkenbaar tafereel.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013073_13136.webp"
-    },
-    {
-      "id": 13122,
-      "titel": "Groen dat ontsnapt aan de kom",
-      "beschrijving": "Twee witte, licht getextureerde kommen staan gestapeld op een neutrale, beige achtergrond. De bovenste kom bevat een enkele, slanke plant met smalle, groene bladeren die zich uitstrekken naar een donkere, schetsachtige achtergrond van zwarte en grijze strepen. De kommen hebben een matte afwerking met subtiele donkere vlekken en een licht onregelmatige rand. Schaduwen onder en achter de kommen zijn getekend met donkere, vloeiende streken, wat een gevoel van diepte en textuur toevoegt aan de compositie. De plant vormt een levendig contrast met de sobere kleuren en de rustige, bijna minimalistische opstelling.",
-      "cyclus": 13059,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in schaduwval bij onderste kom', 'lichte wazigheid in textuur van achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op stilte en leegte, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013059_13122.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13201,
+      "cyclus": 13138,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een landschap met water en wrakschromen, geschilderd in een decoratieve, bijna ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013138_13201.webp"
+    },
     {
       "id": 13192,
       "cyclus": 13129,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de brugpijlers', 'lichte wazigheid in achtergrondgebouwen']",
       "cliche_notities": "Dit is een klassiek ansichtkaartmotief van de Tower Bridge met iconische compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a013123_13186.webp"
-    },
-    {
-      "id": 13181,
-      "cyclus": 13118,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van kerk toren', 'lichte wazigheid in achtergrondbomen']",
-      "cliche_notities": "Klassiek landschap met kerk en water, typisch ansichtkaartmotief zonder duidelijke persoonlijke invalshoek",
-      "bestand": "images/a013118_13181.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13138,
-    "gemaakt": 13200,
-    "gekozen": 2037,
-    "afgekeurd": 1551,
+    "cycli": 13145,
+    "gemaakt": 13208,
+    "gekozen": 2040,
+    "afgekeurd": 1552,
     "corpus": 59,
     "notities": 484
   }
