@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T20:45+02:00",
+  "bijgewerkt": "2026-08-23T21:00+02:00",
   "werk": [
     {
       "id": 13520,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13538,
+      "cyclus": 13475,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en grootte']",
+      "cliche_notities": "Dit beeld heeft een typisch ansichtkaart-achtige compositie met een berglandschap en een inspirerende quote, zonder unieke compositorische keuzes.",
+      "bestand": "images/a013475_13538.webp"
+    },
+    {
       "id": 13525,
       "cyclus": 13462,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['vervormde handen (vingers te lang/onscherp)', 'inconsistent perspectief (benen/voeten)', 'wazige texturen (haar/lichaam)', 'herhaalpatronen (gras/achtergrond)']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuzes zijn ongemakkelijk en niet-bevestigend.",
       "bestand": "images/a013460_13523.webp"
-    },
-    {
-      "id": 13513,
-      "cyclus": 13450,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, intieme compositie met een onverklaarbaar symbool.",
-      "bestand": "images/a013450_13513.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13469,
-    "gemaakt": 13531,
+    "cycli": 13475,
+    "gemaakt": 13538,
     "gekozen": 2096,
-    "afgekeurd": 1619,
-    "corpus": 60,
+    "afgekeurd": 1620,
+    "corpus": 59,
     "notities": 491
   }
 }
