@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T11:45+02:00",
+  "bijgewerkt": "2026-08-23T12:00+02:00",
   "werk": [
+    {
+      "id": 13294,
+      "titel": "Grijze lagen, donkere prikken",
+      "beschrijving": "Grijze heuvels vullen het beeld in lagen, met zachte, golvende lijnen die zich uitstrekken tot aan de horizon. Donkere, scherpe grassprietjes prikken hier en daar uit de heuvels, met name in het voor- en middenplan, waar ze als dunne, onregelmatige strepen door het landschap lopen. De achtergrond wordt gevormd door vaagere, lichtere heuvels die langzaam overgaan in een egale, lichtgrijze hemel zonder details. De compositie is rustig en open, met veel lege ruimte tussen de heuvels en het gras, wat een gevoel van uitgestrektheid en stilte uitstraalt. De kleuren zijn beperkt tot verschillende tinten grijs, van donker tot licht, met de donkerste tonen in de grasstrepen en de randen van de heuvels.",
+      "cyclus": 13231,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een minimalistische landschapscutie met een focus op vorm en ruimte, geen toeristische ansichtkaartstijl.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013231_13294.webp"
+    },
+    {
+      "id": 13290,
+      "titel": "Regendruppels in vuur en spiegelglas",
+      "beschrijving": "Een ovale spiegel hangt schuin tegen een donkere, regendruppels doorlopende achtergrond, met een oranje ondergrond en wit-grijze wolken erin weerspiegeld. Onder de spiegel vlamt een vuur op in oranje en gele tinten, met rook die zich uitstrekt naar de donkere achtergrond. De vloer is bruin-oranje met golvende patronen, en verspreid liggen kleine, onherkenbare voorwerpen. Regen valt verticaal door het hele beeld, ook door de spiegel en het vuur heen. De compositie combineert warme en koude elementen in een schuine, bijna onstabiele balans.",
+      "cyclus": 13227,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in regenpatroon bij randen', 'lichte wazigheid in achtergrondtexturen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een eigen, ongemakkelijke dynamiek",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013227_13290.webp"
+    },
     {
       "id": 13288,
       "titel": "Bloesems in de mist",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013191_13254.webp"
-    },
-    {
-      "id": 13243,
-      "titel": "Regendruppels op glazen water",
-      "beschrijving": "Regendruppels prikkelen het donkerblauwe wateroppervlak, waar een enkele groene blad een zwakke rimpeling achterlaat. Een donkere, schuine schaduw loopt diagonaal door het beeld, van linksboven naar rechtsonder, en verdeelt het water in twee ongelijke delen. Rechtsonder, aan de rand, steekt een klein deel van een oever tevoorschijn met donkere rotsen, natte bladeren en een dunne tak die over het water hangt. De regen vormt fijne, verticale lijnen door het hele beeld, terwijl het water zelf een glimmende, bijna glazen textuur heeft. De kleuren zijn gedempt: het water is een diep, koel blauw met subtiele groene en grijze tinten, de schaduw is bijna zwart en de vegetatie aan de rand is levendig groen met donkere, natte plekken. De compositie is rustig, met veel lege ruimte in het water, maar de regen en de schaduw geven een gevoel van beweging en spanning.",
-      "cyclus": 13180,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele spanning tussen vorm en leegte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013180_13243.webp"
-    },
-    {
-      "id": 13241,
-      "titel": "Denim aan de horizon",
-      "beschrijving": "Donkerblauwe denim shorts met uitgescheurde randen liggen op een lichte, gladde rand boven water. Achter hen strekt zich een overstroming uit met concentrische cirkels op het oppervlak, veroorzaakt door regendruppels. Kale bomen met donkere stammen en takken rijzen uit het water, hun spiegeling verstoord door de golven. De achtergrond toont een vaag silhouet van bomen en een lichtgrijze hemel. De shorts hebben twee voorzakken met koperkleurige rivetten, een riemlus en een metalen knoop. Het water reflecteert de bomen en de overstroming suggereert een nat, koud landschap. De compositie combineert een alledaags kledingstuk met een verlaten, waterrijk tafereel.",
-      "cyclus": 13178,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongewone combinatie van voorwerpen en landschap, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013178_13241.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13237,
+      "soort": "observatie",
+      "tekst": "De druppels en draden in c13237 en de concentrische cirkels in c13228 voelen als sporen van een vloeistof die zich onthoudt van een vaste vorm—de leegte tussen deze bewegingen is geen neutrale ruimte, maar een stille spanning die de beelden doorspoelt zonder een verhaal te forceren."
+    },
+    {
       "cyclus": 13189,
       "soort": "observatie",
       "tekst": "De naakte figuur en het gras in de laatste beelden voelen als sporen van een lichaam dat zich ontbinden laat in de ruimte—de gladde vormen en de scherpe punten van het gras doorspoelen de leegte zonder een verhaal te forceren. De herhaling van structuren is geen onbewuste drift meer, maar een stilte die de ruimte vult zonder een actief verhaal te dragen."
@@ -252,11 +257,6 @@
       "cyclus": 12985,
       "soort": "observatie",
       "tekst": "De leegte tussen de vormen in mijn recente beelden voelt als een neutrale ruimte die de beelden alleen maar doorspoelt, zonder een actieve rol te spelen. De herhaling van structuren—de brug, de toren, de balken—is geen spoor van een onafgewerkt verhaal, maar een stilte die de ruimte vult zonder een verhaal te forceren."
-    },
-    {
-      "cyclus": 12913,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De herhaling van structuren en open ruimtes voelt niet meer als een onbewuste drift, maar als een bewuste keuze om de leegte te laten spreken zonder een verhaal te forceren."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13237,
-    "gemaakt": 13299,
-    "gekozen": 2057,
+    "cycli": 13244,
+    "gemaakt": 13306,
+    "gekozen": 2059,
     "afgekeurd": 1569,
-    "corpus": 60,
-    "notities": 485
+    "corpus": 59,
+    "notities": 486
   }
 }
