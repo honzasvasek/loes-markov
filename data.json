@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T06:30+02:00",
+  "bijgewerkt": "2026-08-23T06:45+02:00",
   "werk": [
+    {
+      "id": 13160,
+      "titel": "Waar bleef de rest",
+      "beschrijving": "Een donkergrijze, bijna zwarte vlakte domineert het beeld, met een zachtgolvende horizonlijn die het bovenste derde deel scheidt van de rest. Langs die horizon loopt een smalle, onregelmatige rand van donkerbruine, korrelige textuur, alsof het zand of grind is dat langzaam wegzakt in de grijze leegte. Rechtsboven snijdt een dunne, helderblauwe lijn scherp door de horizon, een smalle strook die lijkt op een verdwijnende waterlijn of een vergeten pad. De rest van het beeld is eendragend grijs, zonder duidelijke vormen of details, wat een gevoel van stilte en afwezigheid uitstraalt. De blauwe lijn is het enige dat beweging suggereert, alsof iets recent verdwenen is en alleen deze subtiele spoor achterlaat.",
+      "cyclus": 13097,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013097_13160.webp"
+    },
+    {
+      "id": 13159,
+      "titel": "Wat overblijft van de stilte",
+      "beschrijving": "Een enkele, donkerblauwe steel met prikkels steekt omhoog uit nat zand, waar een open bloem met vijf ronde bloemblaadjes en een witte steel zich tegen een goudgele, onscherpe achtergrond aftekent. Rond de steel bevinden zich kleine, donkere knoppen en een afgebroken stengel die schuin in het water ligt. Het water vormt een spiegelende laag met glinsterende druppels en reflecties van de steel en de bloem, terwijl het zand eromheen natte en droge plekken heeft met subtiele textuurverschillen. De achtergrond bestaat uit vaag zichtbare, donkere stengels en een zachte, golvende horizon met een mix van blauwe en gouden tinten. De compositie is verticaal gericht, met de bloem als centraal punt dat de blik trekt boven de reflecterende, onrustige ondergrond.",
+      "cyclus": 13096,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een intieme, close-up compositie met een ongewone focus op een blauwe bloem in nat zand, wat afwijkt van typische ansichtkaartmotieven.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013096_13159.webp"
+    },
     {
       "id": 13156,
       "titel": "Waar het pad verdwijnt in nevel",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013047_13110.webp"
-    },
-    {
-      "id": 13095,
-      "titel": "Amber in ontbinding",
-      "beschrijving": "Een amorf, doorschijnend blok met een amberkleurige, viskeuze textuur domineert het midden, omgeven door donkere, watervlekachtige vormen die aan mos of verweerd hout doen denken. Dunne, donkere lijnen stralen uit van het blok, alsof het een zachte, organische pulsatie uitstraalt. Kleurrijke druppels en vage, groene grassprietjes suggereren een vochtige, vergeten hoek van de natuur, terwijl de achtergrond wit blijft, alsof de scène uit een droom wordt getekend. De compositie voelt als een moment van stilstaan in een proces van ontbinding of groei, zonder dat duidelijk is welke kant opwint.",
-      "cyclus": 13032,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte compositie met persoonlijke compositorische keuzes, geen ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013032_13095.webp"
-    },
-    {
-      "id": 13093,
-      "titel": "Was die liegt over de winter",
-      "beschrijving": "Een blok半transparante, amberkleurige was ligt op de grond tussen gras en droog loof, met smeltende randen die als druppels over het oppervlak lopen. Een mes met een zwarte steel steekt schuin in de was, de steel wijzend naar de voorgrond. Rondom de was liggen kleine, ronde, gele en groene vruchten verspreid, sommige half begraven in het mos. Op de achtergrond strekt zich een rij kale bomen uit, met dunne stammen en uitgestrekte takken die een verlaten, winterse sfeer creëren. Het licht valt schuin, waardoor de was en het mes een zachte schaduw werpen op het onegale terrein. De was heeft een glanzende, bijna viskeuze textuur, met donkere, dunne lijnen die door het blok lopen. Het mes heeft een smalle, scherpe steel en een metalen lemmet dat het licht reflecteert. De grond is een mix van groen gras, bruine bladeren en kleine steentjes, met hier en daar een droge tak. De bomen op de achtergrond vormen een symmetrische, verdwijnende lijn die de diepte van het tafereel benadrukt.",
-      "cyclus": 13030,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in schaduwen rond het blok was, lichte wazigheid in achtergrondboomtakken",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en niet-obvious",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013030_13093.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13167,
+      "cyclus": 13104,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van huizen aan horizon', 'lichte wazigheid in details van verre bomen']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een rustig Chinees dorpje met iconische elementen zoals een waterloop, traditionele huizen en een serene sfeer, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013104_13167.webp"
+    },
     {
       "id": 13137,
       "cyclus": 13074,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een iconisch strandlandschap met een zonsondergang en een vlag, typisch voor een toeristische ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013064_13127.webp"
-    },
-    {
-      "id": 13117,
-      "cyclus": 13054,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, water, bloemen) met een decoratief lichteffect, zonder een duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013054_13117.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13103,
-    "gemaakt": 13165,
-    "gekozen": 2032,
-    "afgekeurd": 1547,
+    "cycli": 13110,
+    "gemaakt": 13172,
+    "gekozen": 2034,
+    "afgekeurd": 1548,
     "corpus": 59,
     "notities": 484
   }
