@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T23:30+02:00",
+  "bijgewerkt": "2026-08-23T23:45+02:00",
   "werk": [
+    {
+      "id": 13598,
+      "titel": "Zonder hoofd, met borsten",
+      "beschrijving": "Een blauw, naakt menselijk lichaam zonder hoofd zit op de grond, omringd door groen gras. Het lichaam is geschilderd met zachte, vloeiende penseelstreken, waarbij de blauwe tinten variëren van donkerblauw aan de randen tot lichtblauw op de heuvels van de borsten, buik en dijen. De borsten hebben donkere tepels, en de navel is een kleine, donkere stip. De armen rusten langs het lichaam, de handen zichtbaar aan weerskanten. De benen zijn gebogen, het linkerbeen over het rechterbeen gelegd, met de voet naar voren gericht. Het gras is geschilderd met lange, slanke penseelstreken in verschillende groene tinten, met wat lichtgroene en donkergroene accenten. De achtergrond bestaat uit een effen, lichtgrijze muur met subtiele, onregelmatige penseelstreken. De sfeer is rustig en wat verlaten, met een focus op de vorm en textuur van het lichaam en het gras.",
+      "cyclus": 13535,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie en kleurkeuze zijn onorthodox en niet typisch voor een ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013535_13598.webp"
+    },
+    {
+      "id": 13590,
+      "titel": "Wie kijkt er nu echt?",
+      "beschrijving": "Drie eenden staan op een zandig oppervlak onder een boom met uitgestrekte takken en bladeren. De eenden hebben gedetailleerde veren met donkere en lichte patronen, en hun koppen zijn gericht in verschillende richtingen. Rechts staat een boomstam met textuurrijke bast, knoesten en kleine openingen. Boven de eenden hangen takken met langwerpige bladeren, en verspreid liggen enkele bladeren op de grond. De achtergrond is licht en ongedetailleerd, waardoor de eenden en de boom centraal staan. De tekening is in zwart-wit met fijne lijnen en schaduwen die diepte suggereren.",
+      "cyclus": 13527,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (eenden bij een boom) is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met lege ruimte en gedetailleerde textuur, niet decoratief perfect licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013527_13590.webp"
+    },
     {
       "id": 13585,
       "titel": "Gras dat door beton breekt",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013492_13555.webp"
-    },
-    {
-      "id": 13548,
-      "titel": "Waar het zand zachtjes zucht",
-      "beschrijving": "Zandduinen in goudbruine en beige tinten vullen het onderste deel, met zachte, golvende lijnen en donkerdere schaduwen die diepte suggereren. Boven hen strekt zich een brede hemel uit in licht- en donkerblauwe tinten, doorsneden door witte en lichtgrijze wolken met volumineuze, pluizige vormen. De wolken domineren het bovenste deel, met subtiele overgangen naar de blauwe achtergrond. De horizon loopt schuin, waardoor een gevoel van beweging ontstaat. De textuur van het zand is fijn en korrelig, met lichte variaties in kleur en lichtval. De sfeer is rustig en open, met een balans tussen de lege ruimte van de hemel en de vormgevende duinen.",
-      "cyclus": 13485,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van zand (beneden vs. boven)', 'lichte halo rond wolken tegen blauwe lucht']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is gericht op leegte en subtiele vervorming, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013485_13548.webp"
-    },
-    {
-      "id": 13545,
-      "titel": "Amber in de grijze leegte",
-      "beschrijving": "Een golvende, lichte spoor snijdt door een donkergrijze vlakte, die overgaat in een lichtgrijze horizon. Voor in het beeld ligt een glanzende, amberkleurige massa met bubbels, omringd door zachte schaduwen. Twee messen met houten handvatten liggen schuin gericht op de massa, waarbij het bovenste mes een brede, donkere steel heeft en het onderste mes een smalle, metalen punt. De achtergrond is eendragend grijs, zonder details, en de compositie wordt gedomineerd door diagonale lijnen en contrasten tussen licht en donker. De sfeer is statisch en gefocust op de relatie tussen de voorwerpen en de lege ruimte rondom hen.",
-      "cyclus": 13482,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een eigen compositorische keuze met de amorfie van de vorm en de relatie tussen de voorwerpen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013482_13545.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13599,
+      "cyclus": 13536,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Molens en waterweg in een typisch Nederlands landschap met decoratief licht en geen duidelijke compositorische keuze beyond het iconische onderwerp.",
+      "bestand": "images/a013536_13599.webp"
+    },
     {
       "id": 13596,
       "cyclus": 13533,
@@ -150,15 +159,6 @@
       "tech_notities": "['Enkele planken op de steiger hebben onnatuurlijke, scherpe randen alsof ze digitaal zijn bijgesneden', 'De reflectie in het water is inconsistent met de golven: te statisch en glad', 'Textuur van het hout op de steiger is gedeeltelijk herhalend en kunstmatig glad']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch verlaten steiger-motief met perfecte compositie en sfeervol licht, zonder duidelijke persoonlijke keuzes.",
       "bestand": "images/a013530_13593.webp"
-    },
-    {
-      "id": 13575,
-      "cyclus": 13512,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap met water en riet, uitgevoerd in een sfeervolle, bijna romantische sepia-filter, zonder duidelijke compositorische keuze die beyond een ansichtkaart gaat.",
-      "bestand": "images/a013512_13575.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13534,
-    "gemaakt": 13596,
-    "gekozen": 2109,
-    "afgekeurd": 1629,
+    "cycli": 13542,
+    "gemaakt": 13604,
+    "gekozen": 2111,
+    "afgekeurd": 1630,
     "corpus": 62,
     "notities": 493
   }
