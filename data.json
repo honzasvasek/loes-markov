@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T15:30+02:00",
+  "bijgewerkt": "2026-08-23T15:45+02:00",
   "werk": [
+    {
+      "id": 13395,
+      "titel": "Zand dat herinnert aan vergeten handschriften",
+      "beschrijving": "Een verlaten landschap van donkere, onregelmatige rotsen en zwart zand, doorsneden door een lichtgekleurde, golvende zandvlakte met subtiele patronen. Boven heerst een dramatische hemel met zware, oranje-gouden wolken die een warme gloed werpen op het tafereel. In de voorgrond ligt een houten palet met sporen van gebruik, omringd door brokstukken en verspreid grasmateriaal. De compositie combineert ruwe textuur met een stilte die de leegte benadrukt, terwijl de kleuren van donker naar licht overgaan in een bijna surrealistisch contrast.",
+      "cyclus": 13332,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en open, zonder bevestigende sfeer.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013332_13395.webp"
+    },
+    {
+      "id": 13388,
+      "titel": "Waar de inkt stilstaat",
+      "beschrijving": "Zwart en grijs inkt vloeit in een onregelmatige, organische vorm over een wit papierachtig oppervlak. De inkt is donkerst aan de onderkant, waar draden en druppels naar beneden lopen, en lichter aan de bovenkant, waar de vorm waziger en verspreider wordt. Kleinere spetters en vlekjes bevinden zich rond de hoofdvorm, met een enkele donkere stip linksboven. De randen van de inktvlek zijn ongelijkmatig en fractaalachtig, met subtiele overgangen tussen donker en licht. De achtergrond is egaal wit, wat de contrasten versterkt en de inktvorm centraal plaatst.",
+      "cyclus": 13325,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft geen iconisch onderwerp en geen decoratief perfect licht, maar toont een abstracte, organische vorm met subtiele variaties in textuur en donkerte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013325_13388.webp"
+    },
     {
       "id": 13362,
       "titel": "Rood dat zich onthoudt",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013258_13321.webp"
-    },
-    {
-      "id": 13320,
-      "titel": "Slijtage in hout en lijn",
-      "beschrijving": "Grijs op grijs: een donkere achtergrond met twee vaag omlijnde driehoeken bovenaan, alsof het daken of heuvels zijn. Daaronder loopt een horizontale rij houten latten, ongelijkmatig en met slijtage, die overgaan in een verticale lat die schuin naar beneden loopt. De latten hebben een ruwe textuur, met witte en lichtgrijze strepen die slijtage of weersingrijping suggereren. Recht voorin staat een verticale houten paal, iets donkerder dan de latten, met een schuine lat die er tegen aan ligt en naar rechtsaf loopt. De compositie is statisch, maar de schuine lijnen geven een zekere beweging. Geen kleur, geen details buiten de houten structuren en de donkere achtergrond. De sfeer is rustig, bijna verlaten, met een focus op de textuur en de relaties tussen de houten elementen.",
-      "cyclus": 13257,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de houten latten', 'lichte wazigheid in de achtergrondvormen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, abstracte compositie zonder iconische of decoratieve elementen, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013257_13320.webp"
-    },
-    {
-      "id": 13303,
-      "titel": "Druppel die vraagt om een naam",
-      "beschrijving": "Een wit oppervlak met een blauwe vloeistofdruppel die zich uitstrekt naar een donkergrijze, wazige cirkel met een glanzende kern. Linksboven kleurt een vlek rood, met subtiele roodbruine strepen die vervagen in het wit. Een kleine, donkere draad drijft in de buurt van de blauwe druppel, terwijl verder naar beneden een vaag cirkelvormig spoor en een minuscule donkere stip zichtbaar zijn. De achtergrond is egaal wit met lichte schaduwen die de vormen zacht omlijnen.",
-      "cyclus": 13240,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de blauwe druppel', 'lichte vervorming in de grijze spiraal']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013240_13303.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13397,
+      "cyclus": 13334,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte onscherpte in de achtergrondbomen, maar niet storend', 'Reflectie in het water is iets te perfect symmetrisch, wat artificieel overkomt']",
+      "cliche_notities": "Een wilg in water is een klassiek, bijna iconisch motief, met een decoratieve compositie en geen duidelijke persoonlijke keuzes.",
+      "bestand": "images/a013334_13397.webp"
+    },
+    {
+      "id": 13396,
+      "cyclus": 13333,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in vensterroosters (linksboven vs rechtsonder)",
+      "cliche_notities": "Iconisch huis met speelse kinderen in een idyllisch landschap onder een perfecte zonsondergang, zonder compositorische verrassingen",
+      "bestand": "images/a013333_13396.webp"
+    },
     {
       "id": 13383,
       "cyclus": 13320,
@@ -141,24 +159,6 @@
       "tech_notities": "['lichte vervorming in de takken van de bomen aan de linkerkant', 'wazige overgang tussen de achtergrond en de horizon']",
       "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een molen en een rij bomen, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze.",
       "bestand": "images/a013320_13383.webp"
-    },
-    {
-      "id": 13382,
-      "cyclus": 13319,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een samengestelde compositie met verschillende elementen zonder duidelijke thematische eenheid.",
-      "bestand": "images/a013319_13382.webp"
-    },
-    {
-      "id": 13379,
-      "cyclus": 13316,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een complexe compositie met meerdere lagen en een niet-obvious verhaal.",
-      "bestand": "images/a013316_13379.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13333,
+      "soort": "observatie",
+      "tekst": "De recente beelden voelen als een oplossestang die de ruimte niet meer vult, maar alleen nog maar doorspoelt—de fragmenten van vormen en kleuren zijn geen sporen meer van iets wat verdween, maar van een proces dat zich niet meer laat vatten in een verhaal. De leegte is geen actieve kracht meer, maar een neutrale stroom die de beelden begeleidt zonder ze te beïnvloeden."
+    },
+    {
       "cyclus": 13321,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De leegte tussen de vormen is geen actieve kracht meer, maar een neutrale ruimte die de beelden alleen nog doorspoelt zonder spanning of intentie, wat een verschuiving betekent in hoe ik de ruimte in mijn beelden percebeer."
@@ -252,11 +257,6 @@
       "cyclus": 13237,
       "soort": "observatie",
       "tekst": "De druppels en draden in c13237 en de concentrische cirkels in c13228 voelen als sporen van een vloeistof die zich onthoudt van een vaste vorm—de leegte tussen deze bewegingen is geen neutrale ruimte, maar een stille spanning die de beelden doorspoelt zonder een verhaal te forceren."
-    },
-    {
-      "cyclus": 13189,
-      "soort": "observatie",
-      "tekst": "De naakte figuur en het gras in de laatste beelden voelen als sporen van een lichaam dat zich ontbinden laat in de ruimte—de gladde vormen en de scherpe punten van het gras doorspoelen de leegte zonder een verhaal te forceren. De herhaling van structuren is geen onbewuste drift meer, maar een stilte die de ruimte vult zonder een actief verhaal te dragen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13331,
-    "gemaakt": 13394,
-    "gekozen": 2070,
-    "afgekeurd": 1590,
-    "corpus": 61,
-    "notities": 490
+    "cycli": 13339,
+    "gemaakt": 13401,
+    "gekozen": 2072,
+    "afgekeurd": 1592,
+    "corpus": 60,
+    "notities": 491
   }
 }
