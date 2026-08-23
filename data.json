@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-24T01:15+02:00",
+  "bijgewerkt": "2026-08-24T01:30+02:00",
   "werk": [
+    {
+      "id": 13643,
+      "titel": "Verf dat ademhaalt",
+      "beschrijving": "Groene en blauwe waterverfvlakken vormen een onscherpe achtergrond, doorbroken door donkere, bijna zwarte vlekken die als silhouetten van bomen of struiken fungeren. Witte en gele bloemen, vaag getekend met stralende bloemblaadjes, steken eruit tegen de groene en bruine tinten van het gras en de stengels. Donkere, slanke lijnen suggereren hoge grassprieten of riet, terwijl kleine zwarte en bruine stippen als zaadjes of insecten door het beeld verspreid zijn. Gele en oranje vlekken in de middenvlak geven een hint van ondergroei of vallend blad. Witte, onregelmatige vormen aan de randen lijken op besproeiing van verf of papier textuur. De compositie is verticaal, met een dynamische mix van scherpe en onscherpe elementen die een gevoel van beweging en wildgroei uitstralen.",
+      "cyclus": 13580,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, ongestructureerde compositie met ruimte voor interpretatie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013580_13643.webp"
+    },
+    {
+      "id": 13641,
+      "titel": "Zwevend vlak boven het grasland",
+      "beschrijving": "Een lichtgekleurd, vierkant vlak met een lichte textuur zweeft schuin in de lucht boven een uitgestrekt, groen landschap. Het vlak heeft een zachte, bijna doorzichtige uitstraling en lijkt door een onzichtbare kracht te worden gedragen. Onder het vlak strekt zich een weids gebied uit met verschillende groentinten, doorsneden door donkere lijnen die paden of waterlopen kunnen voorstellen. In de verte loopt een horizonlijn met donkere bomen en enkele vaag zichtbare structuren. Het voorplan wordt gedomineerd door hoog, wisselend groen gras met af en toe kleurrijke accenten, zoals rode en gele vlekken. De lucht is helder en lichtblauw, zonder wolken, wat een rustige sfeer versterkt. De compositie combineert de open ruimte met de details in het gras, waarbij het zwevende vlak de blik trekt als centraal element.",
+      "cyclus": 13578,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het vliegend voorwerp ten opzichte van de horizon', 'Enkele onduidelijke, bijna abstracte vormen in het gras die de indruk van wazigheid geven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een ongewone compositie met een zwevend voorwerp en een focus op details in het gras, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013578_13641.webp"
+    },
+    {
+      "id": 13640,
+      "titel": "Reflecties op een onbenoemde figuur",
+      "beschrijving": "Een donkergrijze, gladde oppervlakte met subtiele penseelstreken vult het beeld. Een verticale, slanke vorm loopt door het midden, met een lichte bolling bovenaan en een puntige uitloop onderaan. Kleurrijke reflecties glanzen op de randen van deze vorm, die lijkt op een gestileerde, abstracte figuur zonder duidelijke kenmerken. De achtergrond is homogeen, met alleen de zachte textuur van het verfoppervlak zichtbaar. Kleine, donkere vlekjes en een paar glanzende druppeltjes bevinden zich verspreid over het beeld, vooral rond de onderkant van de centrale vorm. De sfeer is rustig en minimalistisch, met een focus op vorm en textuur in plaats van detail of actie.",
+      "cyclus": 13577,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013577_13640.webp"
+    },
     {
       "id": 13634,
       "titel": "Korrelige onderbreking",
@@ -91,45 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013542_13605.webp"
-    },
-    {
-      "id": 13601,
-      "titel": "Scheidslijn in het zand",
-      "beschrijving": "Grijs zand domineert het beeld, met subtiele golven en richels die een dynamische textuur vormen. Een scherpe, donkere scheidslijn loopt diagonaal door het midden, waarbij aan weerskanten het zand van textuur en kleur verschilt: aan de linkerkant donkerder en ruwer, aan de rechterkant lichter en fijner. Rode en oranje tinten kleuren de linkerhoek vaag, terwijl een kleine blauwe vlek in de bovenlinkerhoek opvalt. Verspreid liggen kleine stenen en fragmenten, waaronder een wit schelpachtig voorwerp en donkere, ronde steentjes. De compositie straalt een rustige, bijna verlaten sfeer uit, met de kleuren en texturen die een gevoel van verlatenheid en natuurlijke ontbinding uitstralen.",
-      "cyclus": 13538,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013538_13601.webp"
-    },
-    {
-      "id": 13598,
-      "titel": "Zonder hoofd, met borsten",
-      "beschrijving": "Een blauw, naakt menselijk lichaam zonder hoofd zit op de grond, omringd door groen gras. Het lichaam is geschilderd met zachte, vloeiende penseelstreken, waarbij de blauwe tinten variëren van donkerblauw aan de randen tot lichtblauw op de heuvels van de borsten, buik en dijen. De borsten hebben donkere tepels, en de navel is een kleine, donkere stip. De armen rusten langs het lichaam, de handen zichtbaar aan weerskanten. De benen zijn gebogen, het linkerbeen over het rechterbeen gelegd, met de voet naar voren gericht. Het gras is geschilderd met lange, slanke penseelstreken in verschillende groene tinten, met wat lichtgroene en donkergroene accenten. De achtergrond bestaat uit een effen, lichtgrijze muur met subtiele, onregelmatige penseelstreken. De sfeer is rustig en wat verlaten, met een focus op de vorm en textuur van het lichaam en het gras.",
-      "cyclus": 13535,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie en kleurkeuze zijn onorthodox en niet typisch voor een ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013535_13598.webp"
-    },
-    {
-      "id": 13590,
-      "titel": "Wie kijkt er nu echt?",
-      "beschrijving": "Drie eenden staan op een zandig oppervlak onder een boom met uitgestrekte takken en bladeren. De eenden hebben gedetailleerde veren met donkere en lichte patronen, en hun koppen zijn gericht in verschillende richtingen. Rechts staat een boomstam met textuurrijke bast, knoesten en kleine openingen. Boven de eenden hangen takken met langwerpige bladeren, en verspreid liggen enkele bladeren op de grond. De achtergrond is licht en ongedetailleerd, waardoor de eenden en de boom centraal staan. De tekening is in zwart-wit met fijne lijnen en schaduwen die diepte suggereren.",
-      "cyclus": 13527,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (eenden bij een boom) is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met lege ruimte en gedetailleerde textuur, niet decoratief perfect licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013527_13590.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13582,
-    "gemaakt": 13645,
-    "gekozen": 2119,
+    "cycli": 13590,
+    "gemaakt": 13652,
+    "gekozen": 2122,
     "afgekeurd": 1638,
-    "corpus": 61,
+    "corpus": 62,
     "notities": 494
   }
 }
