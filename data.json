@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-23T12:15+02:00",
+  "bijgewerkt": "2026-08-23T12:30+02:00",
   "werk": [
     {
       "id": 13303,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13318,
+      "cyclus": 13255,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in textuurweergave van de achtergrondbergen (wat waziger dan de voorgrond)",
+      "cliche_notities": "Dit is een typisch landschapsmotief met een centrale boom, een kronkelend pad en een klassieke tempelruïne, getekend in een realistische, decoratieve stijl zonder duidelijke compositorische verbeelding.",
+      "bestand": "images/a013255_13318.webp"
+    },
+    {
       "id": 13312,
       "cyclus": 13249,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de kerk ten opzichte van de pier', 'lichte wazigheid in de achtergrond van de kerk']",
       "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische combinatie van een kerk, water en vogels in een serene compositie.",
       "bestand": "images/a013248_13311.webp"
-    },
-    {
-      "id": 13299,
-      "cyclus": 13236,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een gracht bij zonsondergang met decoratief perfect licht en weinig compositorische keuzes.",
-      "bestand": "images/a013236_13299.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13251,
-    "gemaakt": 13313,
+    "cycli": 13257,
+    "gemaakt": 13320,
     "gekozen": 2061,
-    "afgekeurd": 1571,
-    "corpus": 59,
+    "afgekeurd": 1572,
+    "corpus": 61,
     "notities": 486
   }
 }
