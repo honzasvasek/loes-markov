@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T23:00+02:00",
+  "bijgewerkt": "2026-08-23T23:15+02:00",
   "werk": [
+    {
+      "id": 13585,
+      "titel": "Gras dat door beton breekt",
+      "beschrijving": "Een betonnen muur met een onregelmatige, organische opening, omgeven door kleurrijke, geschilderde vormen in pastelroze, geel, lichtblauw, groen, oranje en donkerblauw. De vormen hebben zachte, golvende randen en lijken op abstracte stenen of druppels, met enkele donkerblauwe druppelvormen die erop lijken te vallen. Door de opening is groen gras zichtbaar, dat ook voor de muur groeit. De textuur van de muur is ruw en korrelig, terwijl de geschilderde vormen een gladde, bijna glanzende afwerking hebben. De compositie is asymmetrisch, met de opening als centraal punt dat de blik trekt naar het groen achter de muur.",
+      "cyclus": 13522,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in textuur van beton (linksboven wat korreliger dan rest), lichte halo rond donkere opening",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is abstract en niet-obvious",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013522_13585.webp"
+    },
+    {
+      "id": 13580,
+      "titel": "Twaalf uur zonder geluid",
+      "beschrijving": "Een grote, ronde klok domineert het bovenste deel, met een witte wijzerplaat en donkere wijzers die precies op twaalf uur staan. Rond de klok loopt een donkere, getextureerde rand die overgaat in een verweerd, grijzig oppervlak met subtiele krassen en vlekken. Onder de klok strekt zich een landschap uit met zacht glooiende heuvels, bedekt met lichtgroen en beige gras dat in golven door de wind lijkt te waaien. Donkere bomen en struiken vormen een silhouet tegen de horizon, terwijl in de voorgrond lange, slanke grassprietjes en kleine witte bloemetjes de scène dynamiek geven. De kleuren zijn gedempt, met een sepia-achtige tint die een verouderde, bijna nostalgische sfeer oproept. De compositie is verticaal opgebouwd, met de klok als centraal punt dat het oog direct trekt, terwijl het landschap eronder een gevoel van ruimte en stilte uitstraalt.",
+      "cyclus": 13517,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van het gras aan de linkerkant: sommige stengels zijn scherp getekend, andere verdwijnen in een wazige massa', 'De overgang tussen de horizon en de lucht is iets te scherp, alsof de twee lagen niet helemaal naadloos zijn samengevoegd']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het landschap is niet iconisch of typisch Nederlands, en de compositie heeft een ongemakkelijke, bijna verontrustende asymmetrie die geen decoratief doel dient",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013517_13580.webp"
+    },
     {
       "id": 13574,
       "titel": "Inkt die ademt",
@@ -13,6 +39,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013511_13574.webp"
+    },
+    {
+      "id": 13573,
+      "titel": "Tekenfout in het zand",
+      "beschrijving": "Zwart, ruw getekende takken strekken zich uit over een compositie van zandkleurige en grijze vlakken, doorsneden door witte, golvende lijnen die een gevoel van beweging suggereren. De takken, met hun scherpe, onregelmatige vertakkingen, domineren het beeld en creëren een contrast met de zachtere, meer vage achtergrond. Kleurrijke accenten ontbreken, waardoor de focus ligt op de textuur en de spanning tussen de donkere, duidelijke lijnen en de lichte, vaagere vlakken. Een kleine, onduidelijke vorm in de hoek voegt een subtiele onrust toe aan de anders minimalistische scène.",
+      "cyclus": 13510,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013510_13573.webp"
     },
     {
       "id": 13571,
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013482_13545.webp"
-    },
-    {
-      "id": 13540,
-      "titel": "Grijs met prikken",
-      "beschrijving": "Een grijze stam loopt schuin door het beeld, met takken die zich uitstrekken naar de hoeken. Donkere knopen en kleine, donkere vlekken prikken in de gladde, grijze textuur. De achtergrond is een egaal, lichtgrijs vlak zonder details, waardoor de stam en takken scherp afsteken. Subtiele schaduwen geven de stam diepte, terwijl de takken dunner en fragiel overkomen. De compositie is minimalistisch, met veel lege ruimte rond de stam, wat een gevoel van stilte en eenzaamheid uitstraalt. De kleuren zijn beperkt tot verschillende tinten grijs, met alleen de donkere accenten die breaking in de monochromatie.",
-      "cyclus": 13477,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp (een boomstam met takken) is niet iconisch of decoratief, en de compositie heeft een eigen, minimalistische uitstraling zonder bevestigend licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013477_13540.webp"
-    },
-    {
-      "id": 13531,
-      "titel": "Vingers die een grens overschrijden",
-      "beschrijving": "Twee handen raken elkaar boven een donkere, onregelmatige lijn die de afbeelding horizontaal doorknipt. Boven de lijn vult een grijze, wazige achtergrond de ruimte, zonder herkenbare vormen. Onder de lijn ligt aan de linkerkant een textuurrijk oppervlak met verspreide, lichtgekleurde fragmenten die op droog gras of houtsporen lijken, omgeven door donkere vlekken. Rechts daalt een arm schuin naar beneden, bedekt met een textielachtig materiaal dat plooien en een korrelige structuur vertoont. De handen vormen een smalle verbinding tussen boven- en onderkant, waarbij de vingers zachtjes tegen elkaar aan liggen. De compositie is verticaal opgebouwd met duidelijke vlakindeling, en de sfeer is stil en gefocust op de aanraking als centraal punt.",
-      "cyclus": 13468,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met ruimte en textuur.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013468_13531.webp"
-    },
-    {
-      "id": 13522,
-      "titel": "Wortels in de wind",
-      "beschrijving": "Donkere, organische vormen domineren het beeld, met een centrale stamachtige structuur die diagonaal door het midden loopt en uitwaaierd in takken en wortelachtige uitlopers. Zwarte en donkergrijze vlekken en spetters zijn willekeurig verspreid, met dichtere clusteringen bij de stam en takken, terwijl de achtergrond een getextureerd, beige-grijs heeft met subtiele, vaag omlijnde heuvels of golven. De onderkant toont donkere, amorf gevormde vlekken die overgaan in de stam, met verspreide zwarte druppels en fijne, kronkeliende lijnen die door het hele beeld lopen. De compositie voelt ongestructureerd, met een mix van scherpe en vervage randen, alsof de vormen in beweging zijn vastgevroren.",
-      "cyclus": 13459,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, persoonlijke interpretatie van vorm en ruimte, geen toeristische ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013459_13522.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 13520,
-    "gemaakt": 13582,
-    "gekozen": 2106,
+    "cycli": 13528,
+    "gemaakt": 13590,
+    "gekozen": 2109,
     "afgekeurd": 1627,
     "corpus": 61,
     "notities": 493
