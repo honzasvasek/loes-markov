@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T00:00+02:00",
+  "bijgewerkt": "2026-08-24T00:15+02:00",
   "werk": [
+    {
+      "id": 13607,
+      "titel": "Rood dat zich onthoudt",
+      "beschrijving": "Rode en roze tinten domineren een verticaal compositie met takkenachtige vormen die zich uitstrekken tegen een vaag gestreepte achtergrond van wit en lichtgrijs. Donkergrijze, wazige vlekken suggereren onduidelijke vormen aan weerskanten, terwijl kleine rode vlekken en druppels verspreid over de takken een gevoel van onrust toevoegen. De textuur is korrelig en ongelijkmatig, met overgangen die zacht en vaag zijn, alsof de kleuren langzaam in elkaar opgaan. Witte ruimtes aan de randen laten de vormen lijken te zweven, zonder duidelijke horizon of grond.",
+      "cyclus": 13544,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuur van de rode takken (soms scherp, soms wazig)', 'subtiele halo rond sommige donkergrijze vormen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013544_13607.webp"
+    },
+    {
+      "id": 13601,
+      "titel": "Scheidslijn in het zand",
+      "beschrijving": "Grijs zand domineert het beeld, met subtiele golven en richels die een dynamische textuur vormen. Een scherpe, donkere scheidslijn loopt diagonaal door het midden, waarbij aan weerskanten het zand van textuur en kleur verschilt: aan de linkerkant donkerder en ruwer, aan de rechterkant lichter en fijner. Rode en oranje tinten kleuren de linkerhoek vaag, terwijl een kleine blauwe vlek in de bovenlinkerhoek opvalt. Verspreid liggen kleine stenen en fragmenten, waaronder een wit schelpachtig voorwerp en donkere, ronde steentjes. De compositie straalt een rustige, bijna verlaten sfeer uit, met de kleuren en texturen die een gevoel van verlatenheid en natuurlijke ontbinding uitstralen.",
+      "cyclus": 13538,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013538_13601.webp"
+    },
     {
       "id": 13598,
       "titel": "Zonder hoofd, met borsten",
@@ -104,35 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013499_13562.webp"
-    },
-    {
-      "id": 13559,
-      "titel": "Blauw gras, zachte huid",
-      "beschrijving": "Een naakt vrouwelijk lichaam staat centraal, gezien vanaf de bovenborst tot de bovenbenen, met zachte, vloeiende lijnen en subtiele schaduwen die de contouren benadrukken. De huid heeft een egale, bijna marmeren textuur met een lichte blauwe ondertoon. Rond het lichaam heen staan scherpe, donkerblauwe grasspelden met rode punten, die een contrast vormen met de zachte vormen van het lichaam. De achtergrond is egaal en lichtgekleurd, waardoor het lichaam en het gras prominent naar voren komen. De compositie is verticaal en symmetrisch, met een rustige, bijna statische sfeer.",
-      "cyclus": 13496,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in handen', 'lichte wazigheid in schaduwgebieden van lichaam']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een eigen, ongemakkelijke spanning door de prikkels en de naakte figuur.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013496_13559.webp"
-    },
-    {
-      "id": 13555,
-      "titel": "Roes in het onafgewerkte lichaam",
-      "beschrijving": "Een donkere, onduidelijke menselijke silhouet staat centraal, met uitgestrekte armen en benen die licht gespreid zijn. Het lichaam is gevuld met een getextureerd, donkergrijs patroon dat aan vervaagde inkt of roet doet denken, met donkerdere vlekken die willekeurig verspreid zijn. Onder het silhouet groeit een dichte, groene bundel gras met lange, smalle bladeren die in verschillende richtingen wijzen. Verspreid tussen het gras bevinden zich kleine, gele en groene bolletjes die op zaadkoppen of miniatuurvruchten lijken. De achtergrond is egale wit, zonder details of overgangen, waardoor het silhouet en het gras scherp afsteken. De compositie is verticaal georiënteerd, met het lichaam dat de hoogte van het beeld vult en het gras dat de onderste rand beslaat. De sfeer is statisch en iets onpersoonlijks, door de afwezigheid van gezichtskenmerken en de minimalistische achtergrond.",
-      "cyclus": 13492,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013492_13555.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13615,
+      "cyclus": 13552,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont geen decoratief perfect licht, maar een abstracte, dynamische compositie met een eigen taal van vormen en texturen.",
+      "bestand": "images/a013552_13615.webp"
+    },
+    {
+      "id": 13611,
+      "cyclus": 13548,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (bomen/reflexie)', 'inconsistent perspectief (kaart vs. eendjes)', 'wazige texturen (achtergrond)', 'detailverlies in schaduwen (eenden)']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de combinatie van elementen is ongewoon en niet typisch ansichtkaart-materiaal.",
+      "bestand": "images/a013548_13611.webp"
+    },
     {
       "id": 13610,
       "cyclus": 13547,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een surrealistisch tafereel met een spiegel in de natuur, wat een eigen compositorische keuze is.",
       "bestand": "images/a013547_13610.webp"
-    },
-    {
-      "id": 13599,
-      "cyclus": 13536,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Molens en waterweg in een typisch Nederlands landschap met decoratief licht en geen duidelijke compositorische keuze beyond het iconische onderwerp.",
-      "bestand": "images/a013536_13599.webp"
-    },
-    {
-      "id": 13596,
-      "cyclus": 13533,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijk standpunt.",
-      "bestand": "images/a013533_13596.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13548,
-    "gemaakt": 13610,
-    "gekozen": 2111,
-    "afgekeurd": 1631,
-    "corpus": 63,
+    "cycli": 13554,
+    "gemaakt": 13616,
+    "gekozen": 2113,
+    "afgekeurd": 1633,
+    "corpus": 62,
     "notities": 493
   }
 }
