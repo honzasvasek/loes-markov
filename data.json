@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-23T17:15+02:00",
+  "bijgewerkt": "2026-08-23T17:30+02:00",
   "werk": [
+    {
+      "id": 13444,
+      "titel": "Takken door het plafond",
+      "beschrijving": "Een smalle, rechte gang met hoge muren en een vlakke vloer loopt in een punt naar achteren, waarbij de muren en het plafond een effen, lichtgrijze textuur hebben. Bovenin, tegen het plafond, zweeft een grote, zachte wolk met onregelmatige, bolle vormen en subtiel schaduwen, alsof deze de gang binnen is gedruppeld. Door de wolk en de gang heen lopen dunne, donkere takken van een boom, zonder bladeren, die willekeurig door de ruimte lopen en de wolk en de muren raken. De takken hebben een scherpe, uitgesproken contour en vormen een contrast met de zachte vormen van de wolk en de rechte lijnen van de gang. Het licht komt van voren, waardoor de gang steeds donkerder wordt naarmate hij smaller wordt, en de wolk en takken een lichte schaduw werpen op het plafond en de muren. Er zijn geen andere details of voorwerpen zichtbaar.",
+      "cyclus": 13381,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de gang (wanden lopen niet perfect parallel)', 'enkele takken van de boom hebben onnatuurlijke, scherp hoekige vertakkingen die niet met de rest van de boom overeenstemmen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een unieke, dromerige compositie met een ongemakkelijke spanning tussen realiteit en fantasie, wat het geen ansichtkaart maakt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013381_13444.webp"
+    },
+    {
+      "id": 13439,
+      "titel": "Rood tegen de leegte",
+      "beschrijving": "Een enkele boom met rode bladeren staat centraal in een verlaten landschap onder een helderblauwe hemel. De stam is donker en slank, met takken die zich willekeurig uitstrekken. Het landschap eromheen is zandig en woest, met verspreide stenen en droog gras. In de verte loopt een donkere horizonlijn, vaag en onduidelijk. De rode bladeren vallen op tegen de koele kleuren van de achtergrond, terwijl het zand een warme, beige tint heeft. De compositie is verticaal, met de boom als dominante verticale as die het beeld doorsnijdt. Er zijn geen sporen van leven of beweging, alleen de stilte van een verlaten plek.",
+      "cyclus": 13376,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de rode boom als centraal element tegen een gedempt landschap, wat boven een typische ansichtkaart uitstijgt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013376_13439.webp"
+    },
     {
       "id": 13428,
       "titel": "Verf die zich herinnert water",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013325_13388.webp"
-    },
-    {
-      "id": 13362,
-      "titel": "Rood dat zich onthoudt",
-      "beschrijving": "Rode en grijze watervervlekken verspreiden zich over een wit oppervlak, met donkere druppels en fijne spetters die de vorm van een onregelmatige, verticale vorm suggereren. De rode tinten variëren van helderrood tot zacht roze, terwijl het grijs overgaat in zwart bij de donkerste delen. Dunne, donkere lijnen en watervlekken doorbreken de vormen, en enkele kleine, ronde roodbruine vlekken liggen verspreid. De compositie is asymmetrisch, met meer ruimte aan de linker- en onderkant, en de kleuren lijken te zijn ontstaan door spontane uitvalling en verspreiding van verf op papier.",
-      "cyclus": 13299,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, niet-decoratieve compositie met een eigen compositorische keuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013299_13362.webp"
-    },
-    {
-      "id": 13360,
-      "titel": "Bodem onder de huid",
-      "beschrijving": "Een naakt vrouwelijk lichaam vult het midden van het beeld, gezien van boven de heupen tot net onder de borsten, met een zachte, ronde buik en heupen die overgaan in dijken. Het lichaam is getekend met fijne, wisselende lijnen die textuur suggereren, en de borsten hebben een natuurlijke, zware vorm met donkere tepels. Rechtsboven staat een donkere, gestileerde boom met uitgespreide takken, die contrasteert met de lichte achtergrond. Rond het lichaam groeien hoge, spitse grassprietten in donkere en lichte tinten, die de compositie omlijsten en een gevoel van omhullend landschap geven. De achtergrond is een egale, lichtgrijze vlakte zonder details, waardoor het lichaam en de boom centraal staan. De sfeer is rustig en intiem, met een subtiele spanning tussen het naakte lichaam en de omringende natuur.",
-      "cyclus": 13297,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van huid vs. achtergrond', 'lichte vervorming van boomtakken rechtsboven']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en niet-obvious.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013297_13360.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13445,
+      "cyclus": 13382,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief', 'wazige texturen', 'detailverlies in schaduw/highlight']",
+      "cliche_notities": "Dit is een iconisch beeld van de Tower Bridge, getekend in een decoratieve stijl zonder eigen compositorische keuzes, typisch voor een toeristische ansichtkaart.",
+      "bestand": "images/a013382_13445.webp"
+    },
+    {
+      "id": 13442,
+      "cyclus": 13379,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld valt in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (molen) en de decoratieve, klassieke weergave zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013379_13442.webp"
+    },
     {
       "id": 13431,
       "cyclus": 13368,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische molen in een vlak landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013368_13431.webp"
-    },
-    {
-      "id": 13426,
-      "cyclus": 13363,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten; lichte inconsistentie in schaduwwerking bij de eenden",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: iconisch landschap met kerk en eenden, decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a013363_13426.webp"
-    },
-    {
-      "id": 13413,
-      "cyclus": 13350,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een solitaire boom bij een waterloop) en de decoratieve, rustige compositie zonder sterke persoonlijke of conceptuele keuzes.",
-      "bestand": "images/a013350_13413.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13378,
-    "gemaakt": 13441,
-    "gekozen": 2078,
-    "afgekeurd": 1597,
-    "corpus": 58,
+    "cycli": 13384,
+    "gemaakt": 13446,
+    "gekozen": 2080,
+    "afgekeurd": 1599,
+    "corpus": 59,
     "notities": 491
   }
 }
