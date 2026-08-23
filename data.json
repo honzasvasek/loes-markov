@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T01:00+02:00",
+  "bijgewerkt": "2026-08-24T01:15+02:00",
   "werk": [
     {
       "id": 13634,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13642,
+      "cyclus": 13579,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een idyllisch landschap, zonder duidelijke compositorische keuzes of een uniek standpunt.",
+      "bestand": "images/a013579_13642.webp"
+    },
+    {
       "id": 13636,
       "cyclus": 13573,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld combineert een klok met gras, wat geen typisch iconisch of toeristisch onderwerp is en een eigen compositorische keuze vertoont.",
       "bestand": "images/a013572_13635.webp"
-    },
-    {
-      "id": 13624,
-      "cyclus": 13561,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen met water en riet, in een decoratieve, ansichtkaartachtige compositie zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a013561_13624.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13574,
-    "gemaakt": 13637,
+    "cycli": 13582,
+    "gemaakt": 13645,
     "gekozen": 2119,
-    "afgekeurd": 1637,
+    "afgekeurd": 1638,
     "corpus": 61,
     "notities": 494
   }
