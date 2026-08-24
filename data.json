@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T22:15+02:00",
+  "bijgewerkt": "2026-08-24T22:30+02:00",
   "werk": [
+    {
+      "id": 14208,
+      "titel": "Sporen in de stroming",
+      "beschrijving": "Zwart-wit golven snijden door een lichtgrijze vlakte, met donkere, bijna zwarte lijnen die als sporen door het beeld lopen. Bovenaan een smalle strook met onregelmatige, donkere vormen die aan vegetatie doen denken, terwijl de golven zich naar beneden toe veranderen in fluidere, golvende patronen. Middenin een cluster van kleine, donkere vlekken, alsof iets in de stroming zweeft. De overgang van harde lijnen bovenin naar zachte, vloeiende bewegingen onderin geeft een gevoel van dynamische rust. Rechtsonder een donkere, golvende vorm die de indruk wekt van een rand of oever.",
+      "cyclus": 14145,
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in textuurweergave bij de overgang tussen donkere en lichte gebieden",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte weergave van water met een eigen compositorische keuze",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014145_14208.webp"
+    },
+    {
+      "id": 14202,
+      "titel": "Grijze sporen van een onzichtbare reis",
+      "beschrijving": "Grijs op grijs, met subtiele variaties in textuur en lichtval. Een smalle, golvende lijn loopt diagonaal door het beeld, met kleine onregelmatigheden en een paar minimale kleuraccenten in oranje en wit. De achtergrond is eendragend, met zachte, parallelle penseelstreken die een rustige, bijna statische sfeer creëren. De lijn lijkt een spoor te vormen, alsof iets langzaam over het oppervlak is glijdend, zonder dat duidelijk is wat die beweging veroorzaakt heeft. De ruimte rond de lijn is leeg, zonder verdere details of afleiding, waardoor de focus ligt op de subtiele dynamiek van de vorm en textuur.",
+      "cyclus": 14139,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, minimale compositie zonder toeristische connotaties.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014139_14202.webp"
+    },
     {
       "id": 14184,
       "titel": "Wat overblijft van de horizon",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014075_14138.webp"
-    },
-    {
-      "id": 14132,
-      "titel": "Rook die zich onthult",
-      "beschrijving": "Witte rookvormen slingeren in een verticale, slanke kolom omhoog tegen een donkergrijze achtergrond, met subtiele overgangen naar lichtgrijze tinten waar de rook dunner wordt. De rook vormt soepele, organische curven en spiraalvormige structuren, met enkele scherpe, bijna geometrische lijnen die door de compositie lopen. De achtergrond is textuurrijk, met fijne, witte krassen en lijnen die een gevoel van verweering of ouderdom suggereren. De randen van het beeld zijn lichtgekleurd en iets onregelmatig, alsof het een oude foto of afdruk is. De sfeer is statisch en contemplatief, met de rook als enig dynamisch element dat een zachte, zwevende beweging uitstraalt.",
-      "cyclus": 14069,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, dynamische compositie zonder decoratief perfect licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014069_14132.webp"
-    },
-    {
-      "id": 14118,
-      "titel": "Papier scheurt door zand",
-      "beschrijving": "Zand vormt golvende laagjes, onderbroken door witte, gescheurde papierlagen die diagonaal door het beeld lopen. Bruine, sprietvormige structuren steken uit het zand, verspreid over drie niveaus. Een kleine, witte bol rust op de rand van een papierlaag. De achtergrond is helderwit, zonder extra details. Schaduwen onder de papierlagen en de sprieten geven diepte. Kleuren zijn beperkt tot beige, bruin en wit, met een minimalistische, gestructureerde sfeer.",
-      "cyclus": 14055,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014055_14118.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14216,
+      "cyclus": 14153,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van de windmolenwieken, lichte wazigheid in de achtergrondbomen",
+      "cliche_notities": "De windmolen in een landschap is een iconisch motief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014153_14216.webp"
+    },
     {
       "id": 14198,
       "cyclus": 14135,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch strandlandschap met perfecte belichting en een klassieke compositie zonder duidelijke persoonlijke keuzes.",
       "bestand": "images/a014099_14162.webp"
-    },
-    {
-      "id": 14160,
-      "cyclus": 14097,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een kerk met toren en kruis, omringd door groen en een heldere lucht, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014097_14160.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14147,
-    "gemaakt": 14209,
-    "gekozen": 2207,
-    "afgekeurd": 1701,
+    "cycli": 14155,
+    "gemaakt": 14217,
+    "gekozen": 2209,
+    "afgekeurd": 1702,
     "corpus": 59,
     "notities": 514
   }
