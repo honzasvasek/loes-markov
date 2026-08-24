@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T01:45+02:00",
+  "bijgewerkt": "2026-08-24T02:00+02:00",
   "werk": [
     {
       "id": 13654,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13663,
+      "cyclus": 13600,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflectie van molen in water', 'lichte wazigheid in achtergrondwolken']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse molens en een idyllisch landschap, zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a013600_13663.webp"
+    },
+    {
       "id": 13655,
       "cyclus": 13592,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een idyllisch landschap, zonder duidelijke compositorische keuzes of een uniek standpunt.",
       "bestand": "images/a013579_13642.webp"
-    },
-    {
-      "id": 13636,
-      "cyclus": 13573,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld combineert een ongewone compositie (wekker in landschap) met subtiele vervormingen, wat het geen typische ansichtkaart maakt.",
-      "bestand": "images/a013573_13636.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13598,
-    "gemaakt": 13660,
+    "cycli": 13606,
+    "gemaakt": 13668,
     "gekozen": 2123,
-    "afgekeurd": 1639,
-    "corpus": 62,
+    "afgekeurd": 1640,
+    "corpus": 63,
     "notities": 494
   }
 }
