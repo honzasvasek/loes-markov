@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T00:45+02:00",
+  "bijgewerkt": "2026-08-25T01:00+02:00",
   "werk": [
+    {
+      "id": 14279,
+      "titel": "Krijt dat liegen kan",
+      "beschrijving": "Donkere, korrelige ondergrond met twee onvolledige, witte kringvormen getekend in krijt. Links een lichtblauwe en gele krijtstift, rechts een witte en roze. De kringen lopen parallel, met kleine onregelmatigheden in de lijnen. Verspreide kleine steentjes en korrels op de ondergrond. Licht valt schuin, waardoor zachte schaduwen ontstaan bij de krijtstiften en de kringen. Ruimte tussen de kringen leeg, alleen de textuur van de ondergrond zichtbaar.",
+      "cyclus": 14216,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014216_14279.webp"
+    },
+    {
+      "id": 14277,
+      "titel": "Rook die zich onthoudt",
+      "beschrijving": "Zwart, verkoolde houtblokken liggen verspreid op zand, met witte as en roetvlekken die de ruwe textuur benadrukken. Rook stijgt zwak op van een van de blokken, terwijl gedroogde grassprieten en kleine steentjes het zand doorspeken. De houtvezels zijn duidelijk zichtbaar, met golvende, uitgesneden randen en holtes waar het vuur het hout heeft uitgehold. Donkere koolstukken en grijze as vormen een contrast met de lichtere zandkorrels en de bleekgrijze, bijna zilveren verbrande lagen op het hout.",
+      "cyclus": 14214,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar focust op de textuur en ontbinding van hout.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014214_14277.webp"
+    },
     {
       "id": 14272,
       "titel": "Gras dat fluistert met de wind",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014173_14236.webp"
-    },
-    {
-      "id": 14233,
-      "titel": "Glimsterende brokken stilte",
-      "beschrijving": "Een donker, onregelmatig blok met een ruwe, korrelige textuur ligt op een grijze, textuurrijke achtergrond. Aan de linkerkant van het blok bevindt zich een gebied met glinsterende, kristallijne structuren die een bijna metaalachtige glans uitstralen, terwijl de rechterkant bestaat uit scherpe, verticale richels die diep en smaal zijn. Twee dunne, donkere draden lopen diagonaal over het blok, waarbij één draad een lichte boog vormt. De randen van het blok zijn ongelijkmatig en lijken gedeeltelijk verbrokeld, met kleine fragmenten die losliggen. De achtergrond heeft een zachte, vezelige textuur die contrasteert met de harde, donkere vormen van het blok.",
-      "cyclus": 14170,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, textuurrijke compositie zonder decoratief licht of toeristische uitstraling.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014170_14233.webp"
-    },
-    {
-      "id": 14227,
-      "titel": "Waar het groen bijt",
-      "beschrijving": "Een dood boomstam steekt schuin omhoog uit een weelderig grasveld, omringd door lange, slanke bladeren in groene en gele tinten. Witte en roze bloemetjes prikken hier en daar door het groen. De achtergrond wordt gedomineerd door een uitgestrekte hemel met zware, witte wolken die zich uitstrekken over een diepblauwe achtergrond. Het landschap lijkt verlaten, maar de levendige kleuren en de dynamische penseelstreken geven een gevoel van beweging en vitaliteit. De compositie is diagonaal opgebouwd, met de boomstam als leidende lijn die het oog naar de horizon trekt, waar een vaag silhouet van een vogel te zien is. De sfeer is zowel rustig als onrustig, met een spanning tussen de dood van de boom en de bloeiende natuur eromheen.",
-      "cyclus": 14164,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de kromme boomstam en de ruwe, bijna chaotische textuur van het gras, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014164_14227.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14288,
+      "cyclus": 14225,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de horizonlijn van het water aan weerskanten van de scheiding', 'Subtiele wazigheid in de achtergrondbomen aan de linkerhorizon']",
+      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molens, water, groene landschappen) in een klassieke ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a014225_14288.webp"
+    },
     {
       "id": 14276,
       "cyclus": 14213,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte vervorming in de daklijnen van sommige huizen, alsof ze in een golf bewegen', 'Onduidelijke overgang tussen voorgrond en achtergrond, alsof de mist de details te veel opslokt', 'Enkele ramen en deuren lijken asymmetrisch of te klein voor de schaal van de gebouwen']",
       "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische, bijna romantische weergave van een traditioneel dorpje, omhuld door een zachte, dromerige mist.",
       "bestand": "images/a014206_14269.webp"
-    },
-    {
-      "id": 14263,
-      "cyclus": 14200,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een mistig landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014200_14263.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14220,
-    "gemaakt": 14282,
-    "gekozen": 2221,
-    "afgekeurd": 1711,
+    "cycli": 14228,
+    "gemaakt": 14290,
+    "gekozen": 2223,
+    "afgekeurd": 1712,
     "corpus": 59,
     "notities": 515
   }
