@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T09:30+02:00",
+  "bijgewerkt": "2026-08-24T09:45+02:00",
   "werk": [
     {
       "id": 13856,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13872,
+      "cyclus": 13809,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de toren ten opzichte van de rest van de kerk', 'lichte wazigheid in de textuur van het dak']",
+      "cliche_notities": "Dit is een iconisch kerkportret met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a013809_13872.webp"
+    },
+    {
       "id": 13867,
       "cyclus": 13804,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een typisch landschap met gras en een veld, geframed door een letter, wat doet denken aan een ansichtkaart met een decoratief motief.",
       "bestand": "images/a013800_13863.webp"
-    },
-    {
-      "id": 13851,
-      "cyclus": 13788,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; textuur en perspectief consistent",
-      "cliche_notities": "Molen als iconisch Nederlands motief met decoratief licht en klassieke compositie, zonder duidelijke persoonlijke interpretatie",
-      "bestand": "images/a013788_13851.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13805,
-    "gemaakt": 13867,
+    "cycli": 13812,
+    "gemaakt": 13874,
     "gekozen": 2155,
-    "afgekeurd": 1664,
-    "corpus": 61,
+    "afgekeurd": 1665,
+    "corpus": 62,
     "notities": 503
   }
 }
