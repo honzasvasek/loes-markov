@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T13:00+02:00",
+  "bijgewerkt": "2026-08-24T13:15+02:00",
   "werk": [
+    {
+      "id": 13968,
+      "titel": "Bijna aanraking tussen drie werelden",
+      "beschrijving": "Drie handen vullen het beeld in een driehoekige opstelling tegen een egale, lichtgrijze achtergrond. Twee handen reiken naar elkaar, met de vingers bijna raakend, terwijl de derde hand onderaan de andere twee omvat. De huidtonen variëren van warm bruin tot koel beige, met zichtbare aderen en textuur in de vingers en handpalmen. De nagels zijn kort en natuurlijk. Het licht valt schuin van bovenaf, waardoor zachte schaduwen de vormen benadrukken en de diepte versterken. De compositie straalt een spanning uit tussen aanraking en afstand, met de handen die elkaar bijna, maar niet helemaal raken.",
+      "cyclus": 13905,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar toont een dynamische interactie tussen handen zonder typisch ansichtkaart-motief.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013905_13968.webp"
+    },
+    {
+      "id": 13964,
+      "titel": "Waar het licht stopt",
+      "beschrijving": "Een verticaal gescheurde lijn loopt door een beige vlak, met aan weerskanten subtiele witte strepen die water of zand suggereren. Boven de scheur zweven donkerbruine en oranje wolken met zachte, onregelmatige contouren. De scheur zelf is donker, met schuine, ongelijkmatige randen die naar beneden uitwaaieren in scherpe, bijna dorenhoudende vormen. Het midden van de scheur is smaller en loopt over in een smalle, donkere spleet. De achtergrond is egaal, zonder duidelijke horizon of objecten, wat de scheur als centraal motief laat uitkomen. De kleuren zijn gedempt, met een focus op aardetinten en donkere contrasten.",
+      "cyclus": 13901,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve compositie zonder iconische of toeristische elementen, en toont een persoonlijke interpretatie van ruimte en spanning.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013901_13964.webp"
+    },
     {
       "id": 13957,
       "titel": "Wat overblijft van de golf",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013839_13902.webp"
-    },
-    {
-      "id": 13898,
-      "titel": "Druppels met geheugenspanning",
-      "beschrijving": "Witte, fijne grassprietjes hangen tegen een diepblauwe achtergrond, met druppels die in een rechte lijn naar beneden vallen en op zandige grond landen. Het zand is gemengd met kleine steentjes, droge plantendelen en donkere korrels. De druppels vormen een verticale as die de compositie doorsnijdt, terwijl de grassprietjes een zachte, wazige textuur hebben. De overgang van blauw naar bruin is scherp, met een onscherpe achtergrond die de focus op de druppels en het zand legt.",
-      "cyclus": 13835,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een intieme, ongedwongen close-up met een focus op subtiele details en textuur.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013835_13898.webp"
-    },
-    {
-      "id": 13892,
-      "titel": "Waar het water stilstaat denken ze",
-      "beschrijving": "Donkere golven rollen over een bruin zandstrand, met wit schuim dat de overgang vormt tussen water en land. De golven hebben een golvende, bijna vloeibare textuur, met subtiele overgangen van zwart naar grijs. Het schuim is gedetailleerd geschilderd met kleine druppels en bubbels, wat een gevoel van beweging geeft. Het zand heeft een gladde, natte textuur met verspreide kleine steentjes en sporen van water. De achtergrond is donker en vaag, wat de focus legt op de dynamiek van de golven en het schuim. De compositie is verticaal, met de golven die zich uitstrekken van boven naar beneden, en het schuim dat zich uitstrekt naar de voorgrond. De sfeer is rustig maar levendig, met een contrast tussen de donkere golven en het lichte schuim.",
-      "cyclus": 13829,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld toont een dynamisch golfschot met een ongebruikelijke kleurstelling en textuur, wat het uitmaakt boven een typische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013829_13892.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13971,
+      "cyclus": 13908,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met kaartdetails en natuurlijke elementen.",
+      "bestand": "images/a013908_13971.webp"
+    },
     {
       "id": 13952,
       "cyclus": 13889,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de houten planken aan de horizon', 'lichte wazigheid in de achtergrondwolken']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een serene, iconische weg door riet naar water met decoratief licht en geen duidelijke compositorische keuze.",
       "bestand": "images/a013882_13945.webp"
-    },
-    {
-      "id": 13943,
-      "cyclus": 13880,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van gras/graan (soms scherp, soms wazig)', 'lichte halo rond kruis op toren tegen hemel']",
-      "cliche_notities": "Kerk met toren en kruis in landschap is een iconisch, bevestigd onderwerp zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013880_13943.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13906,
-    "gemaakt": 13968,
-    "gekozen": 2169,
-    "afgekeurd": 1668,
+    "cycli": 13912,
+    "gemaakt": 13974,
+    "gekozen": 2171,
+    "afgekeurd": 1669,
     "corpus": 62,
     "notities": 506
   }
