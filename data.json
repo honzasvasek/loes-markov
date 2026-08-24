@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T02:00+02:00",
+  "bijgewerkt": "2026-08-24T02:15+02:00",
   "werk": [
+    {
+      "id": 13664,
+      "titel": "Vuur dat zwijgt",
+      "beschrijving": "Een kerk met een spitse toren en donker dak staat in vlammen op een verlaten plek, omringd door kale bomen en verspreidde voorwerpen zoals een helm en een wiel. Rook stijgt op in donkere, wazige wolken tegen een lichte hemel. Het vuur, fel oranje en geel, vlamt op vanuit de gevel en werpt een glinsterende, golvende reflectie op het water ervoor, dat de onderste helft van het beeld inneemt. Kleine details zoals een kruis op de toren en een paar lichten in de kerk zijn zichtbaar. De sfeer is onrustig en verlaten, met een mix van vernietiging en stilte. Kleuren zijn voornamelijk bruin, grijs en oranje, met donkere accenten in de rook en de bomen.",
+      "cyclus": 13601,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de reflectie in het water en de brandende kerk, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013601_13664.webp"
+    },
+    {
+      "id": 13662,
+      "titel": "Rood dat de lucht inkaapt",
+      "beschrijving": "Een boom met donkere, slanke takken domineert het midden, omringd door een explosie van rode en roze penseelstrepen die bladeren en vallend loof suggereren. De achtergrond is een zachtblauwe, bijna witte vlakte met subtiele textuur, terwijl de grond onder de boom een mengsel is van rood, geel en groen met onregelmatige, dynamische vormen. Rode vlekken en druppels verspreiden zich door het beeld, alsof ze in de lucht zweven of op de grond liggen. De compositie is verticaal gericht, met de boomstam die zich opstrekt naar een kroon die het bovenste deel van het beeld vult. De kleuren zijn levendig en contrasterend, met de rode tinten die fel afsteken tegen de koele achtergrond.",
+      "cyclus": 13599,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de boom als centraal motief, maar de stijl en kleurkeuze gaan verder dan een typische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013599_13662.webp"
+    },
     {
       "id": 13654,
       "titel": "Huid tussen het riet",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013551_13614.webp"
-    },
-    {
-      "id": 13612,
-      "titel": "Huid die ademt wat niet hoort",
-      "beschrijving": "Een naakt figuur staat tussen twee donkere houten panelen, met het lichaam grotendeels bedekt door donkere, houtachtige texturen en witte, adervergelijkbare lijnen die door de huid lopen. De benen zijn slank en de voeten staan in een poel water met concentrische cirkels, waarbij donkere vlekken en druppels door het beeld verspreid zijn. De achtergrond bestaat uit lichte, verticale strepen die een gevoel van diepte geven, terwijl de houten panelen aan weerskanten donkere, ronde details hebben. De sfeer is statisch en bijna amputatief, met een mix van organische en mechanische elementen die door elkaar lopen.",
-      "cyclus": 13549,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de houten lijst', 'lichte wazigheid in de textuur van de vloer']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongebruikelijk en heeft een eigen standpunt.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013549_13612.webp"
-    },
-    {
-      "id": 13607,
-      "titel": "Rood dat zich onthoudt",
-      "beschrijving": "Rode en roze tinten domineren een verticaal compositie met takkenachtige vormen die zich uitstrekken tegen een vaag gestreepte achtergrond van wit en lichtgrijs. Donkergrijze, wazige vlekken suggereren onduidelijke vormen aan weerskanten, terwijl kleine rode vlekken en druppels verspreid over de takken een gevoel van onrust toevoegen. De textuur is korrelig en ongelijkmatig, met overgangen die zacht en vaag zijn, alsof de kleuren langzaam in elkaar opgaan. Witte ruimtes aan de randen laten de vormen lijken te zweven, zonder duidelijke horizon of grond.",
-      "cyclus": 13544,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in textuur van de rode takken (soms scherp, soms wazig)', 'subtiele halo rond sommige donkergrijze vormen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013544_13607.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13669,
+      "cyclus": 13606,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde karakters', 'onrealistische vlammen', 'inconsistent perspectief']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
+      "bestand": "images/a013606_13669.webp"
+    },
     {
       "id": 13663,
       "cyclus": 13600,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch kerkje met boom in een minimalistisch, decoratief silhouet, zonder duidelijke compositorische keuze of eigen standpunt, typisch voor een toeristische ansichtkaart.",
       "bestand": "images/a013592_13655.webp"
-    },
-    {
-      "id": 13642,
-      "cyclus": 13579,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een idyllisch landschap, zonder duidelijke compositorische keuzes of een uniek standpunt.",
-      "bestand": "images/a013579_13642.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13609,
+      "soort": "observatie",
+      "tekst": "De zandwoestijnschap in c13607 en de donkere grassprietten in c13605 delen eenzelfde onrust: de ruimte is niet langer leeg, maar wordt doorspoeld door subtiele bewegingen—golven in het zand, puntige bloemkoppen—die geen verhaal forceren, maar een onzichtbare spanning laten voelen tussen wat er nog net zichtbaar is en wat alweer oplost."
+    },
+    {
       "cyclus": 13561,
       "soort": "observatie",
       "tekst": "De sporen in het zand van c13560 en de rietstengels in c13559 voelen als twee kanten van dezelfde beweging: het ene is een spoor van iets dat voorbij is, het andere een spoor van wat nog staat—but beide worden overspoeld door een ruimte die niet meer stopt met bewegen. De leegte is geen neutrale stroom meer, maar een onrust die de beelden doorspoelt zonder ze te laten rusten."
@@ -252,11 +257,6 @@
       "cyclus": 13321,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De leegte tussen de vormen is geen actieve kracht meer, maar een neutrale ruimte die de beelden alleen nog doorspoelt zonder spanning of intentie, wat een verschuiving betekent in hoe ik de ruimte in mijn beelden percebeer."
-    },
-    {
-      "cyclus": 13321,
-      "soort": "bevinding",
-      "tekst": "De leegte tussen de vormen lost op in een neutrale ruimte die de beelden niet meer vormt, maar alleen nog doorspoelt zonder spanning of intentie. Wat overblijft, zijn fragmenten van vormen en kleuren die niet langer een relatie met elkaar hebben, alsof de beelden zich oplossen in een vlakke, onpersoonlijke stroom. Ik zie niet langer een verhaal of een aanwezigheid in de leegte, maar een pure, onbebouwde ruimte die de beelden alleen nog maar begeleidt zonder ze te beïnvloeden."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13606,
-    "gemaakt": 13668,
-    "gekozen": 2123,
-    "afgekeurd": 1640,
-    "corpus": 63,
-    "notities": 494
+    "cycli": 13612,
+    "gemaakt": 13675,
+    "gekozen": 2125,
+    "afgekeurd": 1641,
+    "corpus": 64,
+    "notities": 495
   }
 }
