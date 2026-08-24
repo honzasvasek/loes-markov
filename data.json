@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T12:00+02:00",
+  "bijgewerkt": "2026-08-24T12:15+02:00",
   "werk": [
     {
       "id": 13931,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 13945,
+      "cyclus": 13882,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de houten planken aan de horizon', 'lichte wazigheid in de achtergrondwolken']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een serene, iconische weg door riet naar water met decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a013882_13945.webp"
+    },
+    {
+      "id": 13943,
+      "cyclus": 13880,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van gras/graan (soms scherp, soms wazig)', 'lichte halo rond kruis op toren tegen hemel']",
+      "cliche_notities": "Kerk met toren en kruis in landschap is een iconisch, bevestigd onderwerp zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013880_13943.webp"
+    },
+    {
       "id": 13872,
       "cyclus": 13809,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de toren ten opzichte van de rest van de kerk', 'lichte wazigheid in de textuur van het dak']",
       "cliche_notities": "Dit is een iconisch kerkportret met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a013809_13872.webp"
-    },
-    {
-      "id": 13867,
-      "cyclus": 13804,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit is geen toeristische ansichtkaart, maar een abstracte kaart met een onduidelijk onderwerp en geen iconische motieven.",
-      "bestand": "images/a013804_13867.webp"
-    },
-    {
-      "id": 13863,
-      "cyclus": 13800,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een typisch landschap met gras en een veld, geframed door een letter, wat doet denken aan een ansichtkaart met een decoratief motief.",
-      "bestand": "images/a013800_13863.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13877,
-    "gemaakt": 13939,
+    "cycli": 13885,
+    "gemaakt": 13947,
     "gekozen": 2166,
-    "afgekeurd": 1665,
-    "corpus": 61,
+    "afgekeurd": 1667,
+    "corpus": 62,
     "notities": 506
   }
 }
