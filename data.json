@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T12:15+02:00",
+  "bijgewerkt": "2026-08-24T12:30+02:00",
   "werk": [
+    {
+      "id": 13938,
+      "titel": "Vezels in de schaduw",
+      "beschrijving": "Een scheur in een beige, textuurrijk oppervlak onthult een donkere, glanzende vorm die lijkt op een druppel of een smeltende massa. De randen van de scheur zijn onregelmatig en vezelig, met kleine losse vezels die de textuur van het materiaal benadrukken. De donkere vorm heeft een gladde, bijna vloeibare uitstraling, met subtiele overgangen van donkergrijs naar zwart. Licht valt schuin op de scheur, waardoor de diepte en de textuur van zowel het oppervlak als de donkere vorm zichtbaar worden. De compositie is centraal gericht, met de scheur die de kijker direct in het midden van het beeld trekt. De sfeer is rustig en iets mysterieus, door de contrasten tussen licht en donker en de ongerepte, bijna statische houding van het beeld.",
+      "cyclus": 13875,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, contemplatieve compositie zonder decoratief licht of toeristische associaties.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013875_13938.webp"
+    },
+    {
+      "id": 13937,
+      "titel": "Borstels die door zand glijden",
+      "beschrijving": "Donkere, slanke stengels met uitgespreide, borstelachtige toppen domineren het beeld, getekend in zwarte en donkergrijze tinten tegen een vaag, lichtgrijze achtergrond. Onderaan loopt een band van korrelig, beige zand met verspreide donkere vlekken en subtiele witte plekken. De stengels snijden diagonaal door het vlak, sommige scherp en donker, andere vaag en doorschijnend, met kleine, donkere knopjes en uitlopers die de indruk van beweging geven. De compositie laat veel lege ruimte over, waarbij de stengels als dunne, dynamische lijnen door het beeld lijken te glijden, zonder een duidelijk middelpunt.",
+      "cyclus": 13874,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een abstracte, contemplatieve kwaliteit zonder iconische onderwerpen of decoratief licht.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013874_13937.webp"
+    },
     {
       "id": 13931,
       "titel": "Waar blijft de weg?",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013821_13884.webp"
-    },
-    {
-      "id": 13879,
-      "titel": "Handen die zoeken naar de horizon",
-      "beschrijving": "Een persoon zit met de rug naar de kijker op een donkere, rechte rand, mogelijk een muur of richel, met één hand op de grond en de andere hand geheven alsof ze iets vastgrijpt of wil aanraken. Voor hen strekt zich een breed wateroppervlak uit, met aan de overkant een groene, open vlakte en een horizonlijn met bomen. De bovenkant van het beeld wordt ingekaderd door donkere, onregelmatige penseelstreken die een onvolpreffen raam of opening suggereren. Kleuren zijn gedempt: blauw-grijze tinten in het water en de lucht, groen en bruin in het landschap, en donkere kleding bij de figuur. De sfeer is stil en wat verlaten, met een focus op de leegte tussen de figuur en de horizon.",
-      "cyclus": 13816,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de handen van de figuur (vingers iets te lang/onscherp)', 'Subtiele inconsistentie in perspectief van de horizonlijn ten opzichte van de voorgrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, introspectieve sfeer zonder typisch toeristische motieven of decoratief perfect licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013816_13879.webp"
-    },
-    {
-      "id": 13870,
-      "titel": "Pluimen die de wind onthouden",
-      "beschrijving": "Slanke, verticale stengels van gras en riet domineren het beeld, met subtiele tinten geel, groen en bruin die door diagonale penseelstreken worden gesuggereerd. Aan de rechterkant zweven pluimen zacht, met donkerbruine en oranje accenten die een gevoel van beweging geven. De achtergrond bestaat uit vaag geschilderde, lichte verticale vormen, alsof er een verlaten landschap achterloopt. Donkere, scherpe takken snijden door het bovenste deel, met kleine, donkere knoppen en wat lijkt op vogelveren of droge bloemdelen. De kleuren zijn gedempt, met een lichte, bijna melkachtige achtergrond die de fijnheid van de planten benadrukt. Penseelstreken zijn zichtbaar en textuurrijk, met plekken waar de verf dik is aangebracht en andere waar het dun en doorschijnend is.",
-      "cyclus": 13807,
-      "tech_score": 8.0,
-      "tech_notities": "enkele lichte vervormingen in de fijnere details van de planten, minimale inconsistenties in de textuur van de achtergrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, persoonlijke interpretatie van natuurmotieven",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013807_13870.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13952,
+      "cyclus": 13889,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties op water (sommige vormen te scherp, andere te wazig)', 'kleine halo rond kerkspits tegen donkere achtergrond']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met kerk, water en zonsondergang, zonder onverwachte compositorische keuzes of een persoonlijk standpunt.",
+      "bestand": "images/a013889_13952.webp"
+    },
     {
       "id": 13945,
       "cyclus": 13882,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in textuur van gras/graan (soms scherp, soms wazig)', 'lichte halo rond kruis op toren tegen hemel']",
       "cliche_notities": "Kerk met toren en kruis in landschap is een iconisch, bevestigd onderwerp zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013880_13943.webp"
-    },
-    {
-      "id": 13872,
-      "cyclus": 13809,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de toren ten opzichte van de rest van de kerk', 'lichte wazigheid in de textuur van het dak']",
-      "cliche_notities": "Dit is een iconisch kerkportret met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a013809_13872.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13885,
-    "gemaakt": 13947,
-    "gekozen": 2166,
-    "afgekeurd": 1667,
-    "corpus": 62,
+    "cycli": 13891,
+    "gemaakt": 13954,
+    "gekozen": 2168,
+    "afgekeurd": 1668,
+    "corpus": 61,
     "notities": 506
   }
 }
