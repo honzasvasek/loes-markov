@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-25T01:15+02:00",
+  "bijgewerkt": "2026-08-25T01:30+02:00",
   "werk": [
+    {
+      "id": 14296,
+      "titel": "Groene stralen, ongelijk maar vast",
+      "beschrijving": "Groene en donkergroene penseelstreken stralen uit van een donker punt in het midden, met een lichte, bijna beige achtergrond die de vorm omhult. De streken zijn breed en ongelijkmatig, met zichtbare textuur en kleine onvolkomenheden aan de randen. Een paar donkere vlekken liggen verspreid, en de overgang tussen de groene en beige gebieden is zacht en vaag. De compositie is radiaal, met de streken die zich uitstrekken naar de randen van het beeld, waarbij sommige streken langer en smaler zijn dan andere. De sfeer is rustig en gefocust, met een subtiele dynamiek door de variatie in lengte en richting van de streken.",
+      "cyclus": 14233,
+      "tech_score": 8.0,
+      "tech_notities": "Enkele lichte vervormingen in de randen van de donkergroene vormen, minimale inconsistenties in de textuur van de achtergrond",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met persoonlijke keuzes in vorm en kleur",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014233_14296.webp"
+    },
+    {
+      "id": 14295,
+      "titel": "Penseelstreken in de leegte",
+      "beschrijving": "Grijze, concentrische cirkels vullen het beeld, met een donkere, lege cirkel in het midden. De cirkels hebben een getekende, bijna geschilderde textuur met zichtbare penseelstreken en onregelmatigheden. Witte en lichtgrijze details breken de monochromie, vooral aan de randen van de cirkels, waar kleine, onregelmatige uitsteeksels en scheurtjes zichtbaar zijn. De compositie is radiaal en symmetrisch, met een sterke focus op het midden, dat als een diepe, ondoordringbare leegte werkt. De sfeer is statisch en bijna hypnotiserend, met een gevoel van beweging dat uit de lagen en textuur ontstaat.",
+      "cyclus": 14232,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, meditatieve compositie zonder decoratief licht of toeristische associaties.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014232_14295.webp"
+    },
+    {
+      "id": 14289,
+      "titel": "Waar de lijnen zwijgen",
+      "beschrijving": "Donkere, onregelmatige vormen drijven in een vaag, golvend landschap van lichtgrijze en beige tinten. Witte, slanke lijnen snijden door het beeld als smalle, kronkelende paden die de vormen van elkaar scheiden en een gevoel van beweging suggereren. Verspreid liggen kleine, ronde vormen die doen denken aan stenen of druppels, sommige donker, andere lichtgrijs met een glimmende rand. De achtergrond is textuurrijk, met vage, watervlekkenachtige patronen die de indruk wekken van verweerd papier of nat zand. Donkere, bijna zwarte vlakken vormen de contouren van de grotere structuren, terwijl lichtere gebieden zacht overgaan in de omgeving. Het geheel straalt een rustige, bijna dromerige sfeer uit, zonder duidelijke horizon of focus.",
+      "cyclus": 14226,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, niet-decoratieve compositie met een eigen compositorische keuze.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014226_14289.webp"
+    },
     {
       "id": 14279,
       "titel": "Krijt dat liegen kan",
@@ -91,48 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014186_14249.webp"
-    },
-    {
-      "id": 14242,
-      "titel": "Rode beloftes in de takken",
-      "beschrijving": "Donkere, slanke takken strekken zich uit tegen een lichte, getextureerde achtergrond, doorspekt met roodbruine en roze vlekken die aan bloesem of herfstbladeren denken laten. Fijne, donkere lijnen lopen door de takken, met af en toe kleine, donkere knoppen of vruchten. Verspreid door het beeld bevinden zich oranje en rode stippen en vage, witte vormen die als lichtreflecties of onvoltooide penseelstreken fungeren. De compositie is dynamisch, met takken die diagonaal door het beeld lopen en een gevoel van beweging creëren. De kleuren zijn gedempt, maar de rode en oranje tinten trekken de blik en geven een subtiele warmte aan het tafereel.",
-      "cyclus": 14179,
-      "tech_score": 8.0,
-      "tech_notities": "['Enkele takken hebben lichte vervormingen aan de randen, alsof ze in een onnatuurlijke hoek uit elkaar groeien', 'Enkele rode vlekken hebben een onverklaarbare glans die niet bij het overige kleurgebruik past']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en de compositie is niet decoratief, maar juist ongemakkelijk schuin en onbalanserd",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014179_14242.webp"
-    },
-    {
-      "id": 14239,
-      "titel": "Waar blijft de regen?",
-      "beschrijving": "Donkere, droge aarde met verspreide, scherpe, donkerblauwe grassprietjes die schuin omhoog wijzen. Sommige sprietjes zijn geelbruin of wit, met smalle, puntige uiteinden. De achtergrond wordt gedomineerd door een diepblauwe, effen vlakte met subtiele, lichte penseelstreken die een vaag horizonlijn suggereren. Witte en lichtgroene vlekken in de verte vormen een onduidelijke overgang naar de blauwe achtergrond. Droog gras en kleine takjes liggen verspreid over de aarde, met schaduwen die diepte geven aan de textuur van de grond en het gras.",
-      "cyclus": 14176,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de achtergrond (hemel) met onnatuurlijke penseelstreken', 'Sommige grasbladeren hebben onrealistische, scherp gepunteerde vormen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een ongemakkelijke, bijna onafgewerkte sfeer die afwijkt van een typische ansichtkaartcompositie",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014176_14239.webp"
-    },
-    {
-      "id": 14236,
-      "titel": "Handen die een tak vasthouden",
-      "beschrijving": "Twee blauve handen, met lange vingers en zichtbare aderen, omvatten een dunne, donkere tak met kleine aftakkingen. De handen staan in een dynamische houding, waarbij de vingers zachtjes de tak omklemmen en de duimen tegen elkaar aan liggen. De achtergrond is egaal beige, zonder afleiding, waardoor de blauwe handen en de tak scherp afsteken. De tak loopt diagonaal door het beeld, met de punt naar boven gericht, en de handen volgen die lijn. De huid is glad en de nagels zijn kort en ongelakkerd. De belichting is zacht, waardoor de handen en de tak subtiel schaduwen werpen op de achtergrond.",
-      "cyclus": 14173,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, abstracte interactie tussen handen en tak, zonder toeristische connotaties.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014173_14236.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14298,
+      "cyclus": 14235,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch landschap met een eencilige boom en uitgestrekte velden, typisch voor een ansichtkaartachtige voorstelling zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014235_14298.webp"
+    },
+    {
+      "id": 14297,
+      "cyclus": 14234,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de wieken ten opzichte van de romp', 'lichte wazigheid in de achtergrondtextuur van de hemel']",
+      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen, met een iconisch onderwerp en decoratief licht zonder eigen compositorische keuzes.",
+      "bestand": "images/a014234_14297.webp"
+    },
     {
       "id": 14293,
       "cyclus": 14230,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'onrealistische schaduw onder de pen']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
       "bestand": "images/a014230_14293.webp"
-    },
-    {
-      "id": 14288,
-      "cyclus": 14225,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de horizonlijn van het water aan weerskanten van de scheiding', 'Subtiele wazigheid in de achtergrondbomen aan de linkerhorizon']",
-      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molens, water, groene landschappen) in een klassieke ansichtkaartcompositie zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a014225_14288.webp"
-    },
-    {
-      "id": 14276,
-      "cyclus": 14213,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde schaduw (onrealistische verhoudingen)', 'wazige achtergrondtextuur (sneeuw/bomen)']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en de tekst voegt een onpersoonlijke laag toe.",
-      "bestand": "images/a014213_14276.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14233,
-    "gemaakt": 14296,
-    "gekozen": 2223,
-    "afgekeurd": 1713,
+    "cycli": 14242,
+    "gemaakt": 14304,
+    "gekozen": 2226,
+    "afgekeurd": 1715,
     "corpus": 59,
     "notities": 515
   }
