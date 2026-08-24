@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T19:00+02:00",
+  "bijgewerkt": "2026-08-24T19:15+02:00",
   "werk": [
     {
       "id": 14118,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14133,
+      "cyclus": 14070,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte vorm zonder toeristische connotatie.",
+      "bestand": "images/a014070_14133.webp"
+    },
+    {
       "id": 14126,
       "cyclus": 14063,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een typisch landschap met een huis en graan, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014052_14115.webp"
-    },
-    {
-      "id": 14110,
-      "cyclus": 14047,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de kerk ten opzichte van de bomen', 'Enkele grashalmen in de voorgrond hebben onnatuurlijke, stijve vormen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch kerkje in een idyllisch landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014047_14110.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14067,
-    "gemaakt": 14130,
+    "cycli": 14074,
+    "gemaakt": 14136,
     "gekozen": 2198,
-    "afgekeurd": 1694,
+    "afgekeurd": 1695,
     "corpus": 59,
     "notities": 509
   }
