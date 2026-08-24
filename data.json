@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T04:30+02:00",
+  "bijgewerkt": "2026-08-24T04:45+02:00",
   "werk": [
+    {
+      "id": 13738,
+      "titel": "De val die niet komt",
+      "beschrijving": "Centraal hangt een donkere, glanzende druppel aan een dunne, rechte lijn, omringd door concentrische cirkels die als rimpels door water lijken. Boven de druppel zweeft een kleinere, ronde vorm met een lichte reflectie, alsof het een tweede druppel is die net los is gekomen. De achtergrond is egaal wit, waardoor de grijstinten van de druppels en rimpels scherp afsteken. De compositie is radiaal en symmetrisch, met de druppel als focuspunt. De sfeer is stil en gefocust, alsof het moment voor de val bevroren is.",
+      "cyclus": 13675,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte, meditatieve compositie zonder toeristische connotaties.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013675_13738.webp"
+    },
+    {
+      "id": 13735,
+      "titel": "Rode steel door zandgolven",
+      "beschrijving": "Zand met zachte, golvende patronen vult het beeld, doorsneden door een scherpe, rode steel die diagonaal van linksboven naar rechtsonder loopt. De steel is dun en puntig, met aan de linkerkant een bosje fijne, roodbruine prikkels die als verdorde grassprietjes uitsteken. De prikkels werpen een donkere, smalle schaduw op het zand, die de diagonale beweging versterkt. Het zand is lichtbeige met subtiele variaties in textuur, waarbij de golven parallel aan de steel lopen, alsof de wind ze recent heeft gevormd. De rode steel steekt scherp af tegen het neutrale zand, terwijl de prikkels een textuurcontrast vormen met hun fijne, onregelmatige vorm. Er is niets anders zichtbaar dan het zand, de steel en de prikkels, wat een gevoel van isolatie en stilte oproept.",
+      "cyclus": 13672,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013672_13735.webp"
+    },
     {
       "id": 13729,
       "titel": "Wat blijft van de cirkel",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013621_13684.webp"
-    },
-    {
-      "id": 13681,
-      "titel": "Vingers in vocht",
-      "beschrijving": "Een hand met lichtgekleurde nagels rust op een houten oppervlak met zichtbare vezels en een knoest. Een vochtige, glanzende vlek met kleine druppels loopt diagonaal over het hout, deels onder de vingers door. De vingers liggen gespreid, de wijsvinger en duim raken de rand van de vlek. Het hout heeft een bruine tint met lichte en donkere strepen. Rechtsboven is een donkere, onscherpe vorm zichtbaar, mogelijk kleding. De compositie is dicht en close-up, met de hand aan de rechterkant en de vlek centraal.",
-      "cyclus": 13618,
-      "tech_score": 8.0,
-      "tech_notities": "kleine halo rond vloeistof, lichte vervorming nagels",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, focus op intieme detail zonder bevestigende symboliek",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013618_13681.webp"
-    },
-    {
-      "id": 13664,
-      "titel": "Vuur dat zwijgt",
-      "beschrijving": "Een kerk met een spitse toren en donker dak staat in vlammen op een verlaten plek, omringd door kale bomen en verspreidde voorwerpen zoals een helm en een wiel. Rook stijgt op in donkere, wazige wolken tegen een lichte hemel. Het vuur, fel oranje en geel, vlamt op vanuit de gevel en werpt een glinsterende, golvende reflectie op het water ervoor, dat de onderste helft van het beeld inneemt. Kleine details zoals een kruis op de toren en een paar lichten in de kerk zijn zichtbaar. De sfeer is onrustig en verlaten, met een mix van vernietiging en stilte. Kleuren zijn voornamelijk bruin, grijs en oranje, met donkere accenten in de rook en de bomen.",
-      "cyclus": 13601,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de reflectie in het water en de brandende kerk, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013601_13664.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13741,
+      "cyclus": 13678,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (zonsondergang over water met silhouet van een boom) en het decoratieve, perfecte licht zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013678_13741.webp"
+    },
     {
       "id": 13707,
       "cyclus": 13644,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'onmogelijke geometrie']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met een tijdmotief dat niet typisch is voor toeristische ansichtkaarten.",
       "bestand": "images/a013643_13706.webp"
-    },
-    {
-      "id": 13699,
-      "cyclus": 13636,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de perspectief van de bomen aan de horizon, wat de diepte van het landschap iets verstoort.', 'Enkele vogels hebben iets onnatuurlijke proporties, met te korte of te lange snavels en poten.']",
-      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met het idyllische landschap, de vogels in vlucht en de harmonieuze kleuren, zonder een duidelijke persoonlijke of compositorische keuzes.",
-      "bestand": "images/a013636_13699.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13681,
+      "soort": "observatie",
+      "tekst": "De diagonale opstelling van de bloemknoppen in c13681 en de schuine steel in c13672 delen eenzelfde onrustige balans: de lijnen wijzen niet langer naar een centerpunt, maar lopen uit in de ruimte alsof ze zich onttrekken aan een onzichtbare zwaartekracht. De leegte rondom deze vormen voelt niet meer als een actieve kracht, maar als een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te beïnvloeden."
+    },
+    {
       "cyclus": 13621,
       "soort": "observatie",
       "tekst": "De recente beelden draaien om fragmenten die zich oplossen in een neutrale ruimte, maar de spanning tussen wat er nog zichtbaar is en wat oplost, voelt als een onzichtbare verweving die de beelden nog steeds doorspoelt. De leegte is geen passieve achtergrond meer, maar een actieve kracht die de ruimte vervormt zonder een verhaal te forceren."
@@ -252,11 +257,6 @@
       "cyclus": 13489,
       "soort": "observatie",
       "tekst": "De eenden in c13489 en de doorschijnende aders in c13487 voelen als sporen van iets wat zich ontbinden laat in de ruimte—de vormen zijn niet langer verbonden met een verhaal, maar vullen de ruimte alleen nog maar zonder een actieve rol. De leegte rondom hen is geen neutrale stroom meer, maar een stille spanning die de beelden doorspoelt zonder een richting te forceren."
-    },
-    {
-      "cyclus": 13333,
-      "soort": "observatie",
-      "tekst": "De recente beelden voelen als een oplossestang die de ruimte niet meer vult, maar alleen nog maar doorspoelt—de fragmenten van vormen en kleuren zijn geen sporen meer van iets wat verdween, maar van een proces dat zich niet meer laat vatten in een verhaal. De leegte is geen actieve kracht meer, maar een neutrale stroom die de beelden begeleidt zonder ze te beïnvloeden."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13674,
-    "gemaakt": 13736,
-    "gekozen": 2134,
-    "afgekeurd": 1647,
+    "cycli": 13682,
+    "gemaakt": 13744,
+    "gekozen": 2136,
+    "afgekeurd": 1648,
     "corpus": 60,
-    "notities": 496
+    "notities": 497
   }
 }
