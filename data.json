@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T09:45+02:00",
+  "bijgewerkt": "2026-08-24T10:00+02:00",
   "werk": [
+    {
+      "id": 13870,
+      "titel": "Pluimen die de wind onthouden",
+      "beschrijving": "Slanke, verticale stengels van gras en riet domineren het beeld, met subtiele tinten geel, groen en bruin die door diagonale penseelstreken worden gesuggereerd. Aan de rechterkant zweven pluimen zacht, met donkerbruine en oranje accenten die een gevoel van beweging geven. De achtergrond bestaat uit vaag geschilderde, lichte verticale vormen, alsof er een verlaten landschap achterloopt. Donkere, scherpe takken snijden door het bovenste deel, met kleine, donkere knoppen en wat lijkt op vogelveren of droge bloemdelen. De kleuren zijn gedempt, met een lichte, bijna melkachtige achtergrond die de fijnheid van de planten benadrukt. Penseelstreken zijn zichtbaar en textuurrijk, met plekken waar de verf dik is aangebracht en andere waar het dun en doorschijnend is.",
+      "cyclus": 13807,
+      "tech_score": 8.0,
+      "tech_notities": "enkele lichte vervormingen in de fijnere details van de planten, minimale inconsistenties in de textuur van de achtergrond",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, persoonlijke interpretatie van natuurmotieven",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013807_13870.webp"
+    },
+    {
+      "id": 13865,
+      "titel": "Wit dat het groen doorbreekt",
+      "beschrijving": "Een doorschijnend blad met een fijn adernetwerk ligt schuin door het beeld, bedekt met een witte, kristallijne laag die de randen en aders volgt. De textuur is korrelig en prikkelig, met kleine uitsteeksels die de overgang naar het groene gras in de achtergrond benadrukken. Het gras bestaat uit smalle, langwerpige bladeren in verschillende groentinten, sommige scherp in focus, andere onscherp en vaag. Een enkele gele steel steekt er tussen uit. Het licht valt zacht, waardoor de details van het blad en de omringende vegetatie duidelijk zichtbaar zijn. De compositie is dicht en intim, met het blad als centraal element dat de kijker door het beeld leidt.",
+      "cyclus": 13802,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het toont een close-up van een bevroren blad met een abstracte, bijna sculpturale kwaliteit, zonder iconisch of decoratief karakter.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013802_13865.webp"
+    },
     {
       "id": 13856,
       "titel": "Metaal tussen de resten",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013748_13811.webp"
-    },
-    {
-      "id": 13809,
-      "titel": "Waar blijft de horizon",
-      "beschrijving": "Zwart en wit inktvlekken vullen het beeld, met donkere, onregelmatige vormen die aan wolken of roet doen denken. In het midden loopt een horizontale hekstructuur, getekend met dunne, ongelijke lijnen, achter welke vaag silhouetten van bomen en struiken zichtbaar zijn. Onder het hek strekt een rasterpatroon zich uit, alsof het een veld of terras voorstelt, met verspreide donkere vlekken die op bloemen of stenen lijken. Donkere spetters en strepen zijn over het hele beeld verspreid, met wat witte ruimte die door de donkere lagen heen komt. De compositie voelt chaotisch, maar de horizontale lijnen van het hek en het raster geven een subtiele structuur.",
-      "cyclus": 13746,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische compositie met ruimte voor interpretatie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013746_13809.webp"
-    },
-    {
-      "id": 13797,
-      "titel": "De druppel die blijft hangen",
-      "beschrijving": "Een gladde, grijze oppervlakte domineert het beeld, met een zachte, golvende lijn die een vloeistof suggereert die langzaam naar beneden stroomt. Drie druppels hangen aan die lijn: twee kleine, schitterende bolletjes aan weerskanten en één grotere, heldere druppel die net loslaat en een subtiele schaduw werpt. De overgang tussen de lichte en donkere grijstinten is vloeiend, waardoor de druppels en de stroming een driedimensionale uitstraling krijgen. De achtergrond blijft egaal en ongestoord, waardoor de focus ligt op de delicate balans tussen beweging en stilte in de vloeistof.",
-      "cyclus": 13734,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte, minimalistische compositie zonder decoratief licht of toeristische associatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013734_13797.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13813,
+      "soort": "observatie",
+      "tekst": "De omhelzing in c13813 en de gang in c13812 delen eenzelfde spanning tussen intimiteit en afstand: de figuren raken bijna, de gang loopt door zonder bestemming—beide beelden stralen een onafgewerkte beweging uit die de leegte niet oplost, maar alleen nog maar benadrukt."
+    },
+    {
       "cyclus": 13789,
       "soort": "observatie",
       "tekst": "De koolstukken in c13789 en de dakpannen in c13776 delen eenzelfde onregelmatigheid: ze liggen niet in een patroon, maar verspreid, alsof ze net van een onzichtbare stroom zijn gevallen—de leegte tussen hen voelt niet als afwezigheid, maar als een neutrale ruimte die hen alleen nog maar begeleidt zonder ze te beïnvloeden."
@@ -252,11 +257,6 @@
       "cyclus": 13729,
       "soort": "observatie",
       "tekst": "De beelden worden stiller en meer gefocust op individuele momenten, terwijl de achtergronden eenvoudiger en meer leeg ruimen. De kleurpaletten versmalden van dynamische contrasten naar subtiele, bijna monocromatische tinten, maar de aanwezigheid van water en organische vormen blijft een doorlopend thema."
-    },
-    {
-      "cyclus": 13681,
-      "soort": "observatie",
-      "tekst": "De diagonale opstelling van de bloemknoppen in c13681 en de schuine steel in c13672 delen eenzelfde onrustige balans: de lijnen wijzen niet langer naar een centerpunt, maar lopen uit in de ruimte alsof ze zich onttrekken aan een onzichtbare zwaartekracht. De leegte rondom deze vormen voelt niet meer als een actieve kracht, maar als een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te beïnvloeden."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13812,
-    "gemaakt": 13874,
-    "gekozen": 2155,
+    "cycli": 13819,
+    "gemaakt": 13881,
+    "gekozen": 2157,
     "afgekeurd": 1665,
-    "corpus": 62,
-    "notities": 503
+    "corpus": 61,
+    "notities": 504
   }
 }
