@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T07:45+02:00",
+  "bijgewerkt": "2026-08-24T08:00+02:00",
   "werk": [
+    {
+      "id": 13828,
+      "titel": "Zaadhoofdjes in roze stilte",
+      "beschrijving": "Donkere, slanke grassprietjes stijgen schuin omhoog tegen een zachtroze achtergrond, met kleine, donkere zaadhoofdjes aan de toppen. De sprietjes zijn fijn getekend, met subtiele variaties in dikte en hoogte, en vormen een losse, natuurlijke groep. Donkere vlekken en spetters verspreid over het beeld geven een textuur die doet denken aan verwaterd papier of verweerd hout. De compositie is asymmetrisch, met de grassprietjes die zich uitstrekken van de onderkant naar de bovenkant van het beeld, terwijl de achtergrond geleidelijk overgaat in een lichtere tint. Kleine, donkere details, zoals druppels of korrels, liggen verspreid tussen de sprietjes en voegen een gevoel van onregelmatigheid toe aan het tafereel.",
+      "cyclus": 13765,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuur van achtergrond (soms korrelig, soms glad)', 'enkele grassprietjes hebben onnatuurlijke, schaar-andeel-achtige randen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013765_13828.webp"
+    },
+    {
+      "id": 13819,
+      "titel": "Blauw dat ademt in wit",
+      "beschrijving": "Een smalle gang met beige muren en een getegelde vloer loopt door een ruimte waarin vijf blauwe doeken met witte, vloeiende lijnen hangen. Het plafond draagt een zesde doek met een vergelijkbaar patroon. Aan de linkermuur bevindt zich een smalle, boogvormige opening die zacht licht laat vallen op de vloer, terwijl de rechtermuur twee verticale zwarte lijnen heeft die de hoogte benadrukken. De doeken hebben een textuur die doet denken aan nat papier of aquatint, met onregelmatige randen waar de blauwe verf over de witte ondergrond loopt. De witte lijnen variëren in vorm: sommige zijn dun en kronkelig, andere breder en meer geometrisch. De gang loopt uit op een kleinere ruimte met nog een doek aan de achterwand, geflankeerd door donkere lijsten die de diepte versterken. De sfeer is kalm en iets afgesloten, met een focus op de herhaling van blauw en wit tegen de neutrale achtergrond.",
+      "cyclus": 13756,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de hoeken van de schilderijen aan weerskanten', 'Onduidelijke overgang tussen plafond en muur bij het bovenste schilderij']",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, rustige dynamiek met subtiele spanningen tussen de werken.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013756_13819.webp"
+    },
     {
       "id": 13811,
       "titel": "Wat overblijft van de regen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013698_13761.webp"
-    },
-    {
-      "id": 13760,
-      "titel": "Knippende stilte in grijs",
-      "beschrijving": "Grijze textuur met subtiele, witte krassporen die een netwerk van diagonale en rechte lijnen vormen, waarbij drie onregelmatige, lichtgekleurde vlekken als knooppunten dienen. Een enkele, kleine, ovale vorm drijft linksboven, omringd door fijne, willekeurige strepen die de oppervlakte doorsnijden. De achtergrond straalt een egaliserende, bijna industriële kalmte uit, onderbroken door de chaotische dynamiek van de lijnen.",
-      "cyclus": 13697,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013697_13760.webp"
-    },
-    {
-      "id": 13756,
-      "titel": "Spuiler van het zand",
-      "beschrijving": "Concentrische cirkels van zand en fijn korrelig materiaal vormen een spiraal die zich uitstrekt van een smalle, donkere rand aan de buitenkant naar een lichtere, bijna witte kern. Diverse dunne, donkere lijnen snijden door de cirkels, sommige recht, andere licht gebogen, alsof ze met een scherpe voorwerp zijn getrokken. Een paar groene, naaldvormige takjes liggen willekeurig over de compositie, met één takje dat een scherpe V-vorm vormt. De textuur is korrelig en ongelijkmatig, met subtiele schaduwen die diepte suggereren. De achtergrond is een egale, crèmekleurige vlakte die het geheel omhult.",
-      "cyclus": 13693,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, meditatieve compositie zonder toeristische allure.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013693_13756.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13765,
+      "soort": "observatie",
+      "tekst": "De grassprietjes in c13765 en de rietstengels in c13753 delen eenzelfde schuine oprijding, alsof ze zich both onttrekken aan de zwaartekracht en er juist aan houden—een spanning die de leegte niet oplost, maar alleen nog maar benadrukt."
+    },
+    {
       "cyclus": 13753,
       "soort": "observatie",
       "tekst": "De eenden in c13753 staan verspreid alsof ze net onderbroken zijn in een onzichtbare beweging, terwijl de rietstengels en bomen een kader vormen dat hen niet meer omsluit maar alleen nog begeleidt. De leegte tussen de vormen voelt niet als afwezigheid, maar als een neutrale stroom die de beelden doorspoelt zonder ze te laten rusten."
@@ -252,11 +257,6 @@
       "cyclus": 13681,
       "soort": "observatie",
       "tekst": "De diagonale opstelling van de bloemknoppen in c13681 en de schuine steel in c13672 delen eenzelfde onrustige balans: de lijnen wijzen niet langer naar een centerpunt, maar lopen uit in de ruimte alsof ze zich onttrekken aan een onzichtbare zwaartekracht. De leegte rondom deze vormen voelt niet meer als een actieve kracht, maar als een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te beïnvloeden."
-    },
-    {
-      "cyclus": 13621,
-      "soort": "observatie",
-      "tekst": "De recente beelden draaien om fragmenten die zich oplossen in een neutrale ruimte, maar de spanning tussen wat er nog zichtbaar is en wat oplost, voelt als een onzichtbare verweving die de beelden nog steeds doorspoelt. De leegte is geen passieve achtergrond meer, maar een actieve kracht die de ruimte vervormt zonder een verhaal te forceren."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13765,
-    "gemaakt": 13828,
-    "gekozen": 2148,
+    "cycli": 13773,
+    "gemaakt": 13835,
+    "gekozen": 2150,
     "afgekeurd": 1658,
-    "corpus": 58,
-    "notities": 501
+    "corpus": 60,
+    "notities": 502
   }
 }
