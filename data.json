@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T22:45+02:00",
+  "bijgewerkt": "2026-08-24T23:00+02:00",
   "werk": [
     {
       "id": 14212,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 14232,
+      "cyclus": 14169,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van het waterpad', 'enkele wazige details in de achtergrondvegetatie']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een typisch Nederlands landschap met een gracht en bloemen, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014169_14232.webp"
+    },
+    {
+      "id": 14228,
+      "cyclus": 14165,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een iconisch woestijnschap met een perfecte zonsondergang en een minimalistisch symbool, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014165_14228.webp"
+    },
+    {
       "id": 14222,
       "cyclus": 14159,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van het huis ten opzichte van de omringende bomen', 'lichte wazigheid in de achtergrondwolken']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met een weg die naar een huis loopt, omgeven door groen en een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014159_14222.webp"
-    },
-    {
-      "id": 14220,
-      "cyclus": 14157,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming van sommige eenden (te veel/te weinig poten, onnatuurlijke houdingen)', 'watervlak mist subtiele golven/reflecties op sommige plekken']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene rivierlandschap met eenden bij zonsondergang, zonder onverwachte of persoonlijke compositorische keuzes.",
-      "bestand": "images/a014157_14220.webp"
-    },
-    {
-      "id": 14216,
-      "cyclus": 14153,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van de windmolenwieken, lichte wazigheid in de achtergrondbomen",
-      "cliche_notities": "De windmolen in een landschap is een iconisch motief zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014153_14216.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14163,
-    "gemaakt": 14225,
+    "cycli": 14170,
+    "gemaakt": 14232,
     "gekozen": 2211,
-    "afgekeurd": 1704,
+    "afgekeurd": 1706,
     "corpus": 59,
     "notities": 515
   }
