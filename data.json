@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-24T16:00+02:00",
+  "bijgewerkt": "2026-08-24T16:15+02:00",
   "werk": [
+    {
+      "id": 14045,
+      "titel": "Wat blijft van de kern",
+      "beschrijving": "Concentrische cirkels vullen het beeld, getekend in zilverachtige en donkergrijze tinten met een korrelige textuur. De cirkels worden smaller naarmate ze dichter bij het midden komen, waar een donkere, bijna zwarte kern zit. Witte en zilveren strepen lopen onregelmatig door de ringen, met kleine, verspreide donkere vlekken en krassen die de oppervlakte doorsnijden. De randen van de cirkels zijn soms scherp, soms vaag, met sporen van slijtage of verf die af is gebladderd. De achtergrond is een egaal donkergrijs, dat de cirkels doet uitkomen als een diep, textuurrijk patroon.",
+      "cyclus": 13982,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, meditatieve compositie zonder decoratief licht of toeristische associatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013982_14045.webp"
+    },
     {
       "id": 14044,
       "titel": "Vergeten kustlijn zonder golven",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013981_14044.webp"
+    },
+    {
+      "id": 14043,
+      "titel": "Stilstaan in de valkuil",
+      "beschrijving": "Zwart op wit papier, met schone, scherpe lijnen die diagonaal door het midden lopen, alsof ze in één beweging getekend zijn. Bovenin een dichte laag van willekeurig gerichte, dunne stengels die door elkaar lopen, sommige scherp, andere vager, met kleine, donkere vlekken die als druppels of korrels door de structuur verspreid zijn. Daaronder een brede, golvende laag van langere, soepelere strepen die zich uitstrekken naar de onderkant, waar de lijnen dunner en zachter worden, bijna verdwijnend in het wit. De bovenste laag voelt statisch en chaotisch, de onderste beweeglijk en open, met veel lege ruimte die de lijnen omhult zonder ze te begrenzen. Geen kleur, geen textuur buiten de inkt, geen vorm die een herkenbaar onderwerp suggereert.",
+      "cyclus": 13980,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013980_14043.webp"
     },
     {
       "id": 14038,
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013939_14002.webp"
-    },
-    {
-      "id": 13987,
-      "titel": "Wat groeit hier uit melk?",
-      "beschrijving": "Een amorf, melig vormgegeven object domineert het midden, met een zachte, vloeibare textuur in beige en lichtgele tinten. Daarin is een doorschijnende, groene bladstructuur verweven, met fijn gedetailleerde aders en een organische, golvende vorm. Kleinere, naaldachtige groene elementen, vergelijkbaar met dennenboomnaalden, steken hier en daar uit het object, vooral rond de randen en door de holtes. Een donkerbruine, houten stam met verticale vezels loopt door het midden, omgeven door de groene elementen en de melige substantie. De achtergrond is egaal grijs, waardoor het object scherp afsteekt. De compositie combineert natuurlijke materialen met een surrealistische, bijna dromerige esthetiek, waarbij de overgang tussen de verschillende texturen en vormen vloeiend en onverklaarbaar is.",
-      "cyclus": 13924,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de combinatie van organische vormen en een abstracte structuur.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013924_13987.webp"
-    },
-    {
-      "id": 13980,
-      "titel": "Blauw loopt door zand",
-      "beschrijving": "Zand vormt zachte, golvende structuren met een blauwe, vloeistofachtige streep die erdoorheen loopt. Twee dunne, bruine stengels liggen schuin, met schaduwen die de textuur van het zand benadrukken. Kleine korrels en onregelmatigheden zijn zichtbaar rond de blauwe vorm, die een glanzende, bijna natte uitstraling heeft. De compositie is minimalistisch, met veel lege ruimte en een focus op de contrasten tussen zand, kleur en licht.",
-      "cyclus": 13917,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013917_13980.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14059,
+      "cyclus": 13996,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch landschap met een houten loopbrug door zandduinen, typisch voor een kustgebied, met decoratief zonlicht en geen duidelijke compositorische keuze beyond de standaardcompositie.",
+      "bestand": "images/a013996_14059.webp"
+    },
     {
       "id": 14049,
       "cyclus": 13986,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met molen en water, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013984_14047.webp"
-    },
-    {
-      "id": 14039,
-      "cyclus": 13976,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een ongemakkelijke, bijna willekeurige verdeling van eenden die geen typisch ansichtkaartmotief vormt.",
-      "bestand": "images/a013976_14039.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13991,
-    "gemaakt": 14054,
-    "gekozen": 2184,
-    "afgekeurd": 1679,
+    "cycli": 13998,
+    "gemaakt": 14060,
+    "gekozen": 2186,
+    "afgekeurd": 1680,
     "corpus": 61,
     "notities": 507
   }
