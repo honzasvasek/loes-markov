@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T02:30+02:00",
+  "bijgewerkt": "2026-08-24T02:45+02:00",
   "werk": [
+    {
+      "id": 13684,
+      "titel": "Verf die groeit uit papier",
+      "beschrijving": "Zeven tarweaarren rijzen op uit een vlek bruin waterverf, hun spitse顶端en schuivend in verschillende hoogtes en hoeken. De aren zijn gedetailleerd getekend met fijne, donkere lijnen, terwijl de stengels slank en lichtgrijs zijn, met subtiele schaduwen die diepte suggereren. Rond de basis van de tarwe loopt een onregelmatige, waterige rand van beige en lichtbruin, met kleine vlekken en druppels die het effect van nat papier versterken. Rechtsboven ligt een donkergrijze, rechthoekige verfdoos met een witte rand, en rechtsonder rust een penseel met een zwarte steel en een houten handvat, de punt gericht op de tekening. Het papier heeft een textuur die de korrel van waterverf vastlegt, en de achtergrond blijft wit en ongerept, waardoor de tarwe en de verf de enige focus vormen. De compositie is verticaal, met de tarweaarren die de hoogte van het beeld opvullen en de verf die de onderkant beslaat.",
+      "cyclus": 13621,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (gras) is niet iconisch en de compositie heeft een persoonlijke, ongedwongen uitstraling met ruimte voor stilte en ontbinding.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013621_13684.webp"
+    },
+    {
+      "id": 13681,
+      "titel": "Vingers in vocht",
+      "beschrijving": "Een hand met lichtgekleurde nagels rust op een houten oppervlak met zichtbare vezels en een knoest. Een vochtige, glanzende vlek met kleine druppels loopt diagonaal over het hout, deels onder de vingers door. De vingers liggen gespreid, de wijsvinger en duim raken de rand van de vlek. Het hout heeft een bruine tint met lichte en donkere strepen. Rechtsboven is een donkere, onscherpe vorm zichtbaar, mogelijk kleding. De compositie is dicht en close-up, met de hand aan de rechterkant en de vlek centraal.",
+      "cyclus": 13618,
+      "tech_score": 8.0,
+      "tech_notities": "kleine halo rond vloeistof, lichte vervorming nagels",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, focus op intieme detail zonder bevestigende symboliek",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013618_13681.webp"
+    },
     {
       "id": 13664,
       "titel": "Vuur dat zwijgt",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013557_13620.webp"
-    },
-    {
-      "id": 13618,
-      "titel": "Voor de storm breekt los",
-      "beschrijving": "Een donkere, slanke vogel zweeft in silhouet tegen een zachte, roze-grijze hemel, met uitgespreide vleugels die een subtiele boog vormen. Onder de vogel loopt een scherpe, diagonale horizonlijn, waarachter donkere heuvels en bomen als een gladde, ononderbroken vorm liggen. Voor in het beeld hangt een fijn, donker net van draden en koorden, schuin getrokken en met kleine, onregelmatige knopen en losse einden die in de lucht zwiepen. Het net is niet strak, maar zakt aan de randen door, waardoor het een organische, bijna verwaarloosde uitstraling krijgt. Onder het net, aan de onderkant van het beeld, rijzen donkere, slanke grassprietjes op, vaag en wazig tegen de lichtere achtergrond. De kleuren zijn gedempt, met overgangen van roze naar grijs en donkerblauw, en de sfeer is stil en verlaten, alsof het moment net voor of na een storm vastgelegd is.",
-      "cyclus": 13555,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in de horizonlijn tussen boven- en onderbeeld', 'lichte onstabiliteit in de netstructuur (enkele draden lopen inconsistent)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap of decoratief licht; de compositie is bewust scheef en ongemakkelijk, met een focus op leegte en ontbinding in plaats van bevestiging.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013555_13618.webp"
-    },
-    {
-      "id": 13614,
-      "titel": "Grijze golven zonder oever",
-      "beschrijving": "Grijs op grijs, met subtiele variaties in tint en textuur. De oppervlakte lijkt glad, maar onthult bij nadere beschouwing fijne, parallelle strepen en zachte golven, alsof een penseel of spatel recent over het materiaal is gegaan. Enkele plekken tonen lichtere, bijna witte highlights waar het licht valt, terwijl andere delen dieper grijs zijn, met een bijna zilverachtige glans. Er zijn geen duidelijke vormen of figuren, alleen een endeloos vlak van textuur en lichtval, waarbij de beweging van het materiaal de enige dynamiek vormt. De sfeer is neutraal, noch koud noch warm, noch rustig noch onrustig—alleen aanwezig, zonder verdere suggestie van context of bedoeling.",
-      "cyclus": 13551,
-      "tech_score": 10.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte textuur zonder duidelijke compositie of onderwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013551_13614.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13621,
+      "soort": "observatie",
+      "tekst": "De recente beelden draaien om fragmenten die zich oplossen in een neutrale ruimte, maar de spanning tussen wat er nog zichtbaar is en wat oplost, voelt als een onzichtbare verweving die de beelden nog steeds doorspoelt. De leegte is geen passieve achtergrond meer, maar een actieve kracht die de ruimte vervormt zonder een verhaal te forceren."
+    },
+    {
       "cyclus": 13609,
       "soort": "observatie",
       "tekst": "De zandwoestijnschap in c13607 en de donkere grassprietten in c13605 delen eenzelfde onrust: de ruimte is niet langer leeg, maar wordt doorspoeld door subtiele bewegingen—golven in het zand, puntige bloemkoppen—die geen verhaal forceren, maar een onzichtbare spanning laten voelen tussen wat er nog net zichtbaar is en wat alweer oplost."
@@ -252,11 +257,6 @@
       "cyclus": 13333,
       "soort": "observatie",
       "tekst": "De recente beelden voelen als een oplossestang die de ruimte niet meer vult, maar alleen nog maar doorspoelt—de fragmenten van vormen en kleuren zijn geen sporen meer van iets wat verdween, maar van een proces dat zich niet meer laat vatten in een verhaal. De leegte is geen actieve kracht meer, maar een neutrale stroom die de beelden begeleidt zonder ze te beïnvloeden."
-    },
-    {
-      "cyclus": 13321,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De leegte tussen de vormen is geen actieve kracht meer, maar een neutrale ruimte die de beelden alleen nog doorspoelt zonder spanning of intentie, wat een verschuiving betekent in hoe ik de ruimte in mijn beelden percebeer."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13619,
-    "gemaakt": 13681,
-    "gekozen": 2125,
+    "cycli": 13625,
+    "gemaakt": 13687,
+    "gekozen": 2127,
     "afgekeurd": 1642,
     "corpus": 62,
-    "notities": 495
+    "notities": 496
   }
 }
