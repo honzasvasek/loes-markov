@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T18:15+02:00",
+  "bijgewerkt": "2026-08-24T18:30+02:00",
   "werk": [
+    {
+      "id": 14114,
+      "titel": "Waar blijft de grond?",
+      "beschrijving": "Zwarte eenden zweven door een cirkelvormig patroon van concentrische lijnen, omgeven door witte, pluizige wolken die door dunne draden aan het plafond hangen. Sommige eenden staan op de wolken, andere vliegen vrij door de lucht, terwijl twee onderaan op een onzichtbare grond staan, omringd door sprieten gras. De achtergrond bestaat uit donkerder, stralende lijnen die naar het midden lopen, waar een heldere, lege cirkel de blik trekt. Kleine witte bolletjes en rookachtige vormen drijven door het beeld, dat grotendeels in grijstinten is getekend met fijne details in de veren en textuur van de wolken.",
+      "cyclus": 14051,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of bevestigend, maar verbeeldt een dromerig, bijna surrealistisch tafereel zonder typisch Nederlands onderwerp.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014051_14114.webp"
+    },
+    {
+      "id": 14109,
+      "titel": "Rook die adert door wit papier",
+      "beschrijving": "Zwart en wit rookachtige vormen kronkelen door een lichte, korrelige achtergrond, met donkere, bijna inktachtige strepen die zich vermengen met fijnere, doorschijnende lijnen. Verspreide donkere vlekken en kleine stippen drijven door het beeld, sommige scherp, andere vervagen tot zachte cirkels. Een dunne, witte, vertakte lijn loopt diagonaal door het midden, omgeven door donkere, golvende structuren die aan vezels of aders doen denken. De compositie voelt ongestructureerd, met beweging die van linksboven naar rechtsonder lijkt te stromen, terwijl de randen van de vormen onregelmatig en vaag blijven.",
+      "cyclus": 14046,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, open compositie zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014046_14109.webp"
+    },
     {
       "id": 14093,
       "titel": "Vingers die een vraag vasthouden",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013992_14055.webp"
-    },
-    {
-      "id": 14045,
-      "titel": "Wat blijft van de kern",
-      "beschrijving": "Concentrische cirkels vullen het beeld, getekend in zilverachtige en donkergrijze tinten met een korrelige textuur. De cirkels worden smaller naarmate ze dichter bij het midden komen, waar een donkere, bijna zwarte kern zit. Witte en zilveren strepen lopen onregelmatig door de ringen, met kleine, verspreide donkere vlekken en krassen die de oppervlakte doorsnijden. De randen van de cirkels zijn soms scherp, soms vaag, met sporen van slijtage of verf die af is gebladderd. De achtergrond is een egaal donkergrijs, dat de cirkels doet uitkomen als een diep, textuurrijk patroon.",
-      "cyclus": 13982,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, meditatieve compositie zonder decoratief licht of toeristische associatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013982_14045.webp"
-    },
-    {
-      "id": 14044,
-      "titel": "Vergeten kustlijn zonder golven",
-      "beschrijving": "Zand en water vormen een golvende overgang, met aan weerskanten rietachtige planten die zich uitstrekken naar een lichte, ongedefinieerde horizon. De kleuren zijn gedempt: beige, zandbruin en groenbruin, met subtiele variaties in textuur die een zachte, bijna verbleekte sfeer oproepen. De compositie is asymmetrisch, met lege ruimtes die de blik leiden langs de kronkelende lijnen van het water en de slanke stengels van het riet. Kleine details zoals de fijne haren op de rietkoppen en de onregelmatige vorm van de zandbank geven het beeld een natuurlijke, ongerepte uitstraling.",
-      "cyclus": 13981,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013981_14044.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14115,
+      "cyclus": 14052,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een typisch landschap met een huis en graan, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014052_14115.webp"
+    },
     {
       "id": 14110,
       "cyclus": 14047,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (eenden in een landschap) en de decoratieve, traditionele uitvoering zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014041_14104.webp"
-    },
-    {
-      "id": 14101,
-      "cyclus": 14038,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de golven ten opzichte van de bergen', 'Enkele druppels in de golven zijn wat wazig en verliezen detail']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische motief van golven en zonsondergang met decoratief licht en een klassieke compositie.",
-      "bestand": "images/a014038_14101.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14048,
-    "gemaakt": 14110,
-    "gekozen": 2194,
-    "afgekeurd": 1692,
-    "corpus": 61,
+    "cycli": 14054,
+    "gemaakt": 14116,
+    "gekozen": 2196,
+    "afgekeurd": 1693,
+    "corpus": 59,
     "notities": 509
   }
 }
