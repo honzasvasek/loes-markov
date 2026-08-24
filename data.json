@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T00:15+02:00",
+  "bijgewerkt": "2026-08-25T00:30+02:00",
   "werk": [
+    {
+      "id": 14272,
+      "titel": "Gras dat fluistert met de wind",
+      "beschrijving": "Donkere, scherpe grasbladeren domineren de voorgrond, met lange, smalle vormen die diagonaal door het beeld lopen en een gevoel van beweging creëren. Daartussen verschijnen kleinere, donkere bladeren met een ronde, bijna hartvormige vorm, verspreid over het midden van de compositie. De achtergrond bestaat uit een lichte, vaag getekende structuur met subtiele verticale lijnen en zachte, grijze tinten, die een diepte effect geven zonder duidelijke vormen. Witte en lichtgrijze strepen doorbreken de donkere grasbladeren, waardoor een contrast ontstaat tussen de scherpe, donkere lijnen en de zachtere, lichtere elementen. De algehele sfeer is rustig maar dynamisch, met een focus op de textuur en de wisselwerking tussen licht en donker in de vegetatie.",
+      "cyclus": 14209,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuurweergave van achtergrondvegetatie', 'lichte wazigheid in meest achtergrondgelegen bladeren']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is gericht op subtiele spanning tussen voor- en achtergrond zonder typisch ansichtkaartkarakter",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014209_14272.webp"
+    },
+    {
+      "id": 14266,
+      "titel": "Kool en verdwijnpunt",
+      "beschrijving": "Concentrische cirkels vullen het beeld, getekend in grijstinten die van donker naar licht overgaan. De lijnen zijn ongelijkmatig en korrelig, alsof ze met kool of potlood zijn getrokken, en stralen uit van een donkere, bijna zwarte kern in het midden. De randen van de cirkels vervagen naar de hoeken, waar het grijs lichter wordt en de textuur fijner. Er is geen duidelijke horizon of ondergrond; de cirkels domineren de hele compositie, met een subtiele beweging die de blik naar het centrum trekt. De sfeer is statisch maar dynamisch, door de spanning tussen de vaste vorm en de vloeiende overgang van tinten.",
+      "cyclus": 14203,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, meditatieve compositie zonder decoratief licht of toeristische associaties.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014203_14266.webp"
+    },
     {
       "id": 14257,
       "titel": "Wat blijft hangen in je handen",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014164_14227.webp"
-    },
-    {
-      "id": 14212,
-      "titel": "Vingers die een vraag stellen",
-      "beschrijving": "Twee handen raken elkaar in het midden van een effen, lichtgrijze achtergrond. De vingers zijn subtiel gevouwen, alsof ze net in aanraking zijn gekomen of zich net los laten. De huid is zachtgekleurd met lichte roze tinten, en de nagels zijn kort en ongelijk gevormd. Donkere schaduwen onder de handen geven diepte, terwijl de overige ruimte leeg en ongestoord blijft. De compositie is centraal en symmetrisch, met de handen als enig focuspunt. Geen andere objecten of details onderbreken de stilte van het beeld.",
-      "cyclus": 14149,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De handen zijn geen iconisch onderwerp met decoratief licht, maar een subtiele, intieme moment zonder typische ansichtkaartcompositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014149_14212.webp"
-    },
-    {
-      "id": 14210,
-      "titel": "Waar blijft de uitgang",
-      "beschrijving": "Donkere, onregelmatige lijnen vormen een labyrint dat een verlaten trap en een gedeelte van een gebouw omhult. De lijnen zijn dik en ongelijkmatig getekend, met enkele plekken waar ze zich overlappen of abrupt eindigen. In het midden van het labyrint bevindt zich een donkere, amorf vorm die lijkt op een klomp of een schaduw. Onderaan de afbeelding ligt een glanzend, donker voorwerp dat aan een schoen of een steen doet denken, met een reflecterende oppervlakte. De achtergrond is wit, wat het contrast met de zwarte lijnen en vormen versterkt. De compositie voelt gesloten en iets chaotisch, met weinig ruimte voor beweging.",
-      "cyclus": 14147,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014147_14210.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14269,
+      "cyclus": 14206,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['Lichte vervorming in de daklijnen van sommige huizen, alsof ze in een golf bewegen', 'Onduidelijke overgang tussen voorgrond en achtergrond, alsof de mist de details te veel opslokt', 'Enkele ramen en deuren lijken asymmetrisch of te klein voor de schaal van de gebouwen']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische, bijna romantische weergave van een traditioneel dorpje, omhuld door een zachte, dromerige mist.",
+      "bestand": "images/a014206_14269.webp"
+    },
     {
       "id": 14263,
       "cyclus": 14200,
@@ -150,15 +159,6 @@
       "tech_notities": "['lichte vervorming in reflecties water', 'onduidelijke details in achtergrondgebouwen']",
       "cliche_notities": "Molen en waterlandschap zijn iconisch Nederlands ansichtkaartmateriaal zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a014190_14253.webp"
-    },
-    {
-      "id": 14251,
-      "cyclus": 14188,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten, lichte onnauwkeurigheid in de proporties van de wieken",
-      "cliche_notities": "Molen in landschap is een klassiek iconisch onderwerp zonder duidelijke compositorische keuze of eigen standpunt",
-      "bestand": "images/a014188_14251.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14206,
-    "gemaakt": 14268,
-    "gekozen": 2219,
-    "afgekeurd": 1709,
-    "corpus": 61,
+    "cycli": 14213,
+    "gemaakt": 14275,
+    "gekozen": 2221,
+    "afgekeurd": 1710,
+    "corpus": 59,
     "notities": 515
   }
 }
