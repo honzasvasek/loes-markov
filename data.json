@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T05:45+02:00",
+  "bijgewerkt": "2026-08-24T06:00+02:00",
   "werk": [
+    {
+      "id": 13774,
+      "titel": "Waar blijft de wind?",
+      "beschrijving": "Drie bundels droog gras staan verspreid op een ongelijkmatig vlak van bruin getekende heuvels, getekend met zachte, waterverfachtige overgangen. Het gras aan de linkerkant is het hoogst, met fijne, uitgespreide bloemkoppen die lichtbruin zijn met donkere punten. De stengels zijn slank en groenbruin, met enkele langere, smalle bladeren die diagonaal door het beeld lopen. Rechtsboven staat een kleinere bundel gras, met kortere stengels en minder bloemkoppen. De achtergrond bestaat uit golvende, vaag omlijnde heuvels in lichtere bruine tinten, die overgaan in een crèmekleurige, textuurrijke achtergrond. Kleine, donkerbruine vlekken en stippen liggen verspreid over het onderste deel van het beeld, alsof ze nat of modderig zijn. De randen van de heuvels zijn onregelmatig en iets frans, alsof het papier is losgetrokken. De sfeer is rustig en verlaten, met een focus op de subtiele details van het gras en de zachte overgangen tussen de kleuren.",
+      "cyclus": 13711,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaart-materiaal.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013711_13774.webp"
+    },
+    {
+      "id": 13773,
+      "titel": "Wat grijp je aan?",
+      "beschrijving": "Een hand met lichtroze en beige tinten strekt uit naar een donkere, gebroken vorm die lijkt op een kapotte muur of puin, geschilderd in donkergrijze en zwarte penseelstreken met af en toe goudkleurige en blauwe accenten. De achtergrond is een egale, lichtbeige textuur met subtiele penseelstreken, waar hier en daar kleine donkere en groene vlekken liggen. De hand heeft een zachte, bijna transparante uitstraling, met zichtbare vingers die zich uitstrekken alsof ze iets willen vastgrijpen of aanraken. De overgang tussen de hand en de donkere vorm is scherp, alsof er een onzichtbare barrière tussen beide zit. Kleurrijke fragmenten, zoals een witte schaal en een donkerblauw stukje, liggen verspreid in de buurt van de hand en het puin.",
+      "cyclus": 13710,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van hand ten opzichte van arm', 'lichte wazigheid in textuur van donkere kleding']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, onopgesmukte momentopname zonder toeristische inslag.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013710_13773.webp"
+    },
     {
       "id": 13762,
       "titel": "Rood dat zich onthoudt",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013672_13735.webp"
-    },
-    {
-      "id": 13729,
-      "titel": "Wat blijft van de cirkel",
-      "beschrijving": "Een zandlandschap met een perfecte, ingekrastе cirkel. Het zand is fijn en gelijkmatig, met een zachte, beige tint die de hele compositie domineert. De cirkel loopt schuin door het beeld, met een subtiele schaduw aan de bovenkant die diepte suggereert. Binnen de cirkel is het zand iets donkerder en textuurrijker, alsof het recent is aangeraakt. Kleine, donkere stipjes liggen verspreid langs de rand van de cirkel, bijna onzichtbaar tegen de monochrome achtergrond. De leegte rondom de cirkel is absoluut, zonder afleiding, waardoor de focus ligt op de eenvoudige, maar krachtige vorm.",
-      "cyclus": 13666,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013666_13729.webp"
-    },
-    {
-      "id": 13715,
-      "titel": "Huid met geheime kaart",
-      "beschrijving": "Een naakt lichaam staat centraal, met benen die licht gespreid zijn en voeten die rusten op een donkere ondergrond. De huid is getekend met fijne lijnen en vlekken, alsof er textuur en slijtage in zitten. Rond de heupen en dijen lopen donkere, bijna krassende patronen, terwijl de knieën en schenen lichtere, gladdere vlakken hebben. Langs de zijkanten van het lichaam rijzen spitse, grasachtige vormen op, wit en scherp getekend tegen de donkere achtergrond. Kleine zwarte vlekken en stippen zijn verspreid over het beeld, soms geclusterd, soms alleenstaand. De compositie is verticaal, met het lichaam dat de volledige hoogte van het beeld inneemt, omringd door de donkere, bijna zwevende ruimte. De sfeer is intiem en wat ongemakkelijk, door de directe weergave van het lichaam en de ruwe, bijna onvolmaakte uitvoering.",
-      "cyclus": 13652,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in de tenen van de voeten', 'lichte inconsistentie in de textuur van het gras aan weerskanten']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke, niet-decoratieve benadering van vorm en textuur.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013652_13715.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13778,
+      "cyclus": 13715,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in de proporties van de windmolenwieken en de kerkspits",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse elementen (molen, kerk, groene velden) en een decoratief, harmonieus licht zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013715_13778.webp"
+    },
+    {
+      "id": 13777,
+      "cyclus": 13714,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een wilg, water en een kaart, uitgevoerd in een decoratieve, ansichtkaart-achtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013714_13777.webp"
+    },
     {
       "id": 13772,
       "cyclus": 13709,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch kerkje met een pad erheen, geschilderd in een decoratief, ansichtkaartachtig stijl met zachte kleuren en een ideale compositie, zonder duidelijke persoonlijke of compositorische keuze.",
       "bestand": "images/a013709_13772.webp"
-    },
-    {
-      "id": 13741,
-      "cyclus": 13678,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (zonsondergang over water met silhouet van een boom) en het decoratieve, perfecte licht zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013678_13741.webp"
-    },
-    {
-      "id": 13707,
-      "cyclus": 13644,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief bij bomen in middenvlak', 'Enkele bomen hebben onnatuurlijke, vervormde takken']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch berglandschap, een kronkelende rivier en perfecte belichting, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013644_13707.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13711,
-    "gemaakt": 13774,
-    "gekozen": 2142,
-    "afgekeurd": 1649,
+    "cycli": 13718,
+    "gemaakt": 13780,
+    "gekozen": 2144,
+    "afgekeurd": 1651,
     "corpus": 59,
     "notities": 498
   }
