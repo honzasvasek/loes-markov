@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T16:30+02:00",
+  "bijgewerkt": "2026-08-24T16:45+02:00",
   "werk": [
+    {
+      "id": 14064,
+      "titel": "Wat overblijft van een kruis",
+      "beschrijving": "Een verticale, donkere lijn loopt door het midden van een lichtgrijze, textuurrijke achtergrond, met aan weerszijden kortere, schuine lijnen die als takken of spaken uitstralen. Een horizontale lijn snijdt de verticale lijn dwars door, iets boven het midden, en vormt een onvolledig kruis. Kleine, donkere vlekken en stippen zijn verspreid over de lijnen, met name rond de verbindingen. Onderaan de verticale lijn verbleekt de tekening geleidelijk, tot een vaag, bijna onzichtbaar spoor. De achtergrond is egaal, zonder duidelijke vormen of details, en de tekening zelf heeft een schetsachtige, onafgewerkte uitstraling.",
+      "cyclus": 14001,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele onregelmatigheden in lijnvoering bij takken', 'lichte textuurvervorming in achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is abstract en open",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014001_14064.webp"
+    },
+    {
+      "id": 14055,
+      "titel": "Krijt dat zwijgt",
+      "beschrijving": "Drie golvende lijnen lopen diagonaal over een effen beige ondergrond, getekend met witte en donkere krijtstrepen die zacht over elkaar lopen. De witte lijnen vormen de bovenkant van elke golf, terwijl de donkere strepen eronder een subtiel schaduw-effect creëren. De lijnen zijn niet perfect glad, maar hebben een lichte, organische onregelmatigheid, alsof ze in één vloeiende beweging zijn getrokken. De ruimte tussen de golven is evenwichtig verdeeld, waardoor er een rustig ritme ontstaat. Het papier heeft een matte textuur die de krijtstrepen doet uitkomen, zonder dat er andere details of afleiding aanwezig zijn.",
+      "cyclus": 13992,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met bewuste keuze voor eenvoudige lijnen en ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013992_14055.webp"
+    },
     {
       "id": 14045,
       "titel": "Wat blijft van de kern",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013946_14009.webp"
-    },
-    {
-      "id": 14005,
-      "titel": "Kleur zonder grenzen",
-      "beschrijving": "Een glad vlak van kleur, zonder duidelijke vormen of structuren. Bovenover loopt een zachte overgang van lichtblauw naar een vaag paars, dat langzaam overgaat in een warm roze en uiteindelijk in een licht oranjeachtige tint onderaan. De kleuren zijn egaliserend en zonder scherp contrast, waardoor het geheel een rustige, bijna zwevende uitstraling krijgt. Er zijn geen textuur, patronen of onderdelen te bespeuren die de homogeniteit doorbreken. De compositie is volledig symmetrisch en laat geen ruimte voor een focuspunt of beweging.",
-      "cyclus": 13942,
-      "tech_score": 10.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; het beeld is een subtiele kleurverloop zonder duidelijke compositie of onderwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013942_14005.webp"
-    },
-    {
-      "id": 14002,
-      "titel": "Papier dat ademt",
-      "beschrijving": "Een spiraal van concentrische, vloeiende banen domineert het beeld, met donkerblauwe en grijze tinten die zich vermengen met warme oranje en beige accenten. De lijnen zijn onregelmatig en organisch, alsof ze met een penseel zijn getekend, en stralen uit vanaf een klein, donker punt in het midden. Witte ruimtes tussen de banen geven het gevoel van diepte en beweging, terwijl de randen van de spiraal steeds breder en onscherper worden. Kleine, donkere vlekken en subtiele textuurverschillen doorbreken de soepelheid van de vormen, en aan de onderkant van het beeld zijn watervlekken zichtbaar die de indruk van nat papier versterken. De compositie is radiaal en symmetrisch, maar de onvolkomenheden in de lijnen en kleuren geven het een dynamische, bijna levendige uitstraling.",
-      "cyclus": 13939,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in textuurflow aan randen', 'lichte halo rond donkerste blauwe vormen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de abstracte spiraal heeft een eigen compositorische dynamiek",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013939_14002.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14067,
+      "cyclus": 14004,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden']",
+      "cliche_notities": "Het beeld toont een iconisch motief (molens) met een decoratieve, ansichtkaart-achtige compositie zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a014004_14067.webp"
+    },
     {
       "id": 14061,
       "cyclus": 13998,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch landschap met een houten loopbrug door zandduinen, typisch voor een kustgebied, met decoratief zonlicht en geen duidelijke compositorische keuze beyond de standaardcompositie.",
       "bestand": "images/a013996_14059.webp"
-    },
-    {
-      "id": 14049,
-      "cyclus": 13986,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele vervorming in vleugels van verre vogels', 'lichte inconsistentie in grasstructuren aan horizon']",
-      "cliche_notities": "Landschap met vogels in vlucht en golvend gras is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
-      "bestand": "images/a013986_14049.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14005,
+      "soort": "observatie",
+      "tekst": "De eenden in c14005 en c13993 staan verspreid alsof ze net onderbroken zijn in een onzichtbare beweging, terwijl het riet en de bomen een kader vormen dat hen niet meer omsluit maar alleen nog begeleidt—de leegte tussen de vormen voelt niet als afwezigheid, maar als een neutrale stroom die de beelden doorspoelt zonder ze te laten rusten."
+    },
+    {
       "cyclus": 13945,
       "soort": "observatie",
       "tekst": "De kerk in c13945 en de kerkspits in c13938 delen eenzelfde uitstraling van opgaande beweging, maar waar de eerste een rustige, statische aanwezigheid heeft, straalt de tweede een dynamische uitstraling uit die de ruimte om hem heen lijkt te vervormen—de ontspanning is geen statisch moment, maar een onzichtbare stroom die de ruimte zachtjes doortrekt zonder een bestemming te hebben."
@@ -252,11 +257,6 @@
       "cyclus": 13789,
       "soort": "observatie",
       "tekst": "De koolstukken in c13789 en de dakpannen in c13776 delen eenzelfde onregelmatigheid: ze liggen niet in een patroon, maar verspreid, alsof ze net van een onzichtbare stroom zijn gevallen—de leegte tussen hen voelt niet als afwezigheid, maar als een neutrale ruimte die hen alleen nog maar begeleidt zonder ze te beïnvloeden."
-    },
-    {
-      "cyclus": 13765,
-      "soort": "observatie",
-      "tekst": "De grassprietjes in c13765 en de rietstengels in c13753 delen eenzelfde schuine oprijding, alsof ze zich both onttrekken aan de zwaartekracht en er juist aan houden—een spanning die de leegte niet oplost, maar alleen nog maar benadrukt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14004,
-    "gemaakt": 14066,
-    "gekozen": 2186,
-    "afgekeurd": 1681,
+    "cycli": 14011,
+    "gemaakt": 14073,
+    "gekozen": 2188,
+    "afgekeurd": 1682,
     "corpus": 62,
-    "notities": 507
+    "notities": 508
   }
 }
