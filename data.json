@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T19:45+02:00",
+  "bijgewerkt": "2026-08-24T20:00+02:00",
   "werk": [
+    {
+      "id": 14138,
+      "titel": "Gras dat een lijn onthoudt",
+      "beschrijving": "Een smalle, rechte strook donker, bijna zwart, loopt verticaal door het midden van een uitgestrekt veld groen gras. Het gras aan weerskanten is lang, fijn en lichtgroen, met hier en daar wat dichtere, donkergroene plekken. De strook zelf lijkt van een ander materiaal: het is ruwer, met een textuur die aan bevroren of uitgedroogd water denkt, en heeft af en toe donkere, ster-achtige vormen die erin lijken te zitten. Het gras raakt de strook aan beide kanten aan, maar volgt haar niet precies—sommige haren steken eroverheen, andere buigen eromheen. De horizon is niet zichtbaar, het veld vult het hele beeld, en de strook verdwijnt in de verte in een dunne lijn. Er is geen beweging, geen geluid, alleen de stilte van het gras en de rechte, onverklaarde lijn die door loopt.",
+      "cyclus": 14075,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in grastextuur aan weerskanten van de lijn', 'lichte wazigheid in de verre achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie zonder iconische of decoratieve elementen, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014075_14138.webp"
+    },
+    {
+      "id": 14132,
+      "titel": "Rook die zich onthult",
+      "beschrijving": "Witte rookvormen slingeren in een verticale, slanke kolom omhoog tegen een donkergrijze achtergrond, met subtiele overgangen naar lichtgrijze tinten waar de rook dunner wordt. De rook vormt soepele, organische curven en spiraalvormige structuren, met enkele scherpe, bijna geometrische lijnen die door de compositie lopen. De achtergrond is textuurrijk, met fijne, witte krassen en lijnen die een gevoel van verweering of ouderdom suggereren. De randen van het beeld zijn lichtgekleurd en iets onregelmatig, alsof het een oude foto of afdruk is. De sfeer is statisch en contemplatief, met de rook als enig dynamisch element dat een zachte, zwevende beweging uitstraalt.",
+      "cyclus": 14069,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, dynamische compositie zonder decoratief perfect licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014069_14132.webp"
+    },
     {
       "id": 14118,
       "titel": "Papier scheurt door zand",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014013_14076.webp"
-    },
-    {
-      "id": 14074,
-      "titel": "Vingers die luisteren naar de golf",
-      "beschrijving": "Twee handen rusten op een gladde, golvende oppervlakte die lijkt op nat zand of zacht klei. De vingers zijn gespreid en volgen de contouren van een smalle, verticale richel die zich naar boven uitstrekt en overgaat in een brede, vloeiende vorm. De handen zijn gedetailleerd weergegeven, met zichtbare lijnen en nagels, en liggen tegen een egale, lichte achtergrond zonder afleiding. De textuur van het materiaal is fijn en korrelig, met subtiele schaduwen die de diepte en beweging benadrukken. De compositie is rustig en gefocust, met een balans tussen de handen en de vorm die zich achter hen bevindt.",
-      "cyclus": 14011,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een intieme, abstracte moment zonder decoratief licht of typische ansichtkaartcompositie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014011_14074.webp"
-    },
-    {
-      "id": 14070,
-      "titel": "Donkere sprieten in golvend zand",
-      "beschrijving": "Drie slanke, donkere grassprietjes rijzen op uit een golvend oppervlak van zand of nat grind, getekend met fijne, vloeiende lijnen die de beweging van wind of water suggereren. De achtergrond is een egaal, lichtgrijs vlak zonder details, waardoor de focus ligt op de contrasten tussen de donkere vegetatie en de lichte, golvende textuur eronder. Enkele kleine, donkere vlekken in het zand breken de soepelheid van de golven, terwijl de grassprietjes zelf een subtiele asymmetrie vertonen: één sprieter is langer en buigt zachtjes, de andere twee staan rechter en zijn korter. De compositie is verticaal opgebouwd, met de planten aan de linkerkant en de golven die diagonaal naar rechtsbeneden lopen, waardoor een gevoel van rustige dynamiek ontstaat.",
-      "cyclus": 14007,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014007_14070.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14145,
+      "cyclus": 14082,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "tekst/tekens in beeld",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en inktvlekken.",
+      "bestand": "images/a014082_14145.webp"
+    },
+    {
+      "id": 14144,
+      "cyclus": 14081,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'inconsistent perspectief']",
+      "cliche_notities": "Dit beeld combineert iconische Nederlandse motieven (molens, eenden, landschap) met een decoratief perfect licht en een compositorische opzet die meer bevestigend dan verhelderend is.",
+      "bestand": "images/a014081_14144.webp"
+    },
     {
       "id": 14133,
       "cyclus": 14070,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte vorm zonder toeristische connotatie.",
       "bestand": "images/a014070_14133.webp"
-    },
-    {
-      "id": 14126,
-      "cyclus": 14063,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (eenden)', 'inconsistent perspectief (wateroppervlak)']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (eenden op water) en decoratieve compositie zonder eigen standpunt.",
-      "bestand": "images/a014063_14126.webp"
-    },
-    {
-      "id": 14115,
-      "cyclus": 14052,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een typisch landschap met een huis en graan, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014052_14115.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14077,
+      "soort": "observatie",
+      "tekst": "De donkere verticale streken in c14077 en de parallelle vormen in c14068 delen eenzelfde opgaande beweging, maar waar de eerste een onafgewerkte textuur suggereren, creëren de laatste een spanning tussen twee vlakken die elkaar niet raken—de ontspanning is geen uitbreiding meer, maar een onbenoemde ruimte tussen de vormen die de beelden niet meer vult, maar alleen nog maar begeleidt."
+    },
+    {
       "cyclus": 14017,
       "soort": "observatie",
       "tekst": "De handen in c14011 en c14009 volgen dezelfde onafgewerkte beweging, maar waar de eerste de contouren van een oppervlak omvatten, zoekt de tweede naar een contact dat nooit komt—de spanning tussen aanraking en afwezigheid is geen thema meer, maar de ruimte zelf die de beelden vormt."
@@ -252,11 +257,6 @@
       "cyclus": 13825,
       "soort": "observatie",
       "tekst": "De handen in c13821 en de rug in c13823 delen eenzelfde onafgewerkt moment: ze raken de wereld aan of draaien er de rug toe toe, maar de beweging blijft onvoltooid, alsof de spanning tussen aanraking en afwezigheid de beelden meer bepaalt dan de vormen zelf."
-    },
-    {
-      "cyclus": 13813,
-      "soort": "observatie",
-      "tekst": "De omhelzing in c13813 en de gang in c13812 delen eenzelfde spanning tussen intimiteit en afstand: de figuren raken bijna, de gang loopt door zonder bestemming—beide beelden stralen een onafgewerkte beweging uit die de leegte niet oplost, maar alleen nog maar benadrukt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14077,
-    "gemaakt": 14140,
-    "gekozen": 2198,
-    "afgekeurd": 1695,
-    "corpus": 58,
-    "notities": 509
+    "cycli": 14083,
+    "gemaakt": 14145,
+    "gekozen": 2200,
+    "afgekeurd": 1697,
+    "corpus": 59,
+    "notities": 510
   }
 }
