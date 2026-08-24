@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T09:15+02:00",
+  "bijgewerkt": "2026-08-24T09:30+02:00",
   "werk": [
+    {
+      "id": 13856,
+      "titel": "Metaal tussen de resten",
+      "beschrijving": "Twee verbrande houten blokken liggen op donkere, korrelige aarde, omringd door houtskool, naalden en kleine witte deeltjes. Tussen de blokken steekt een glanzend, metalen voorwerp met een schuine, rechthoekige vorm en scherpe randen. Het metaal reflecteert het licht en contrasteert met de ruwe, verweerde textuur van het hout en de aarde. De compositie is dicht en dynamisch, met de houten blokken die diagonaal door het beeld lopen en het metaal dat daartegen aanligt. De sfeer is donker en textuurrijk, met een spel van licht en schaduw dat de details van het verbrande hout en het glanzende metaal benadrukt.",
+      "cyclus": 13793,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een ongebruikelijke combinatie van materialen met een sterke compositorische keuze.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013793_13856.webp"
+    },
+    {
+      "id": 13854,
+      "titel": "Wat overblijft van de getijden",
+      "beschrijving": "Grijs, glanzend materiaal stroomt in onregelmatige, golvende banen over zand, met scherpe en zachte randen die zich uitstrekken tussen lange, slanke grasspelden. Witte en bruine kiezels en kleine, ronde voorwerpen liggen verspreid in het zand, sommige halfbegraven in het grijze materiaal. Donkere, korrelige stof vormt een smalle strook tussen de banen, waar ook kleine, glanzende druppels en fragmenten van het grijze materiaal te zien zijn. De textuur van het materiaal is zowel glad als ongelijkmatig, met sporen van beweging en verdwijnen.",
+      "cyclus": 13791,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, niet-decoratieve compositie met een eigen compositorische keuze.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013791_13854.webp"
+    },
     {
       "id": 13848,
       "titel": "Verf die zich herinnert",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013734_13797.webp"
-    },
-    {
-      "id": 13794,
-      "titel": "Goud dat fluistert door schors",
-      "beschrijving": "Zes donkere, slanke stengels stijgen op uit een zandige, beige ondergrond, elk bekroond met een spitse, amandelvormige bloemknop. De knoppen zijn gedeeltelijk gevuld met een glinsterende, goudkleurige textuur, terwijl de randen donker en scherp getekend zijn. Witte, lijnachtige details lopen door de knoppen, alsof ze een interne structuur onthullen. Rond de basis van de stengels verspreidt zich een wazige, korrelige vlek van hetzelfde beige zand, met enkele donkere druppels en kleine, glinsterende deeltjes die willekeurig verspreid liggen. De achtergrond is egaal crèmekleurig, waardoor de donkere vormen en goudkleurige accenten scherp afsteken. De compositie is verticaal gericht, met de stengels die zich waaiervormig uitstrekken vanaf een gemeenschappelijk punt onderin.",
-      "cyclus": 13731,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met abstracte vormen en textuur.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013731_13794.webp"
-    },
-    {
-      "id": 13774,
-      "titel": "Waar blijft de wind?",
-      "beschrijving": "Drie bundels droog gras staan verspreid op een ongelijkmatig vlak van bruin getekende heuvels, getekend met zachte, waterverfachtige overgangen. Het gras aan de linkerkant is het hoogst, met fijne, uitgespreide bloemkoppen die lichtbruin zijn met donkere punten. De stengels zijn slank en groenbruin, met enkele langere, smalle bladeren die diagonaal door het beeld lopen. Rechtsboven staat een kleinere bundel gras, met kortere stengels en minder bloemkoppen. De achtergrond bestaat uit golvende, vaag omlijnde heuvels in lichtere bruine tinten, die overgaan in een crèmekleurige, textuurrijke achtergrond. Kleine, donkerbruine vlekken en stippen liggen verspreid over het onderste deel van het beeld, alsof ze nat of modderig zijn. De randen van de heuvels zijn onregelmatig en iets frans, alsof het papier is losgetrokken. De sfeer is rustig en verlaten, met een focus op de subtiele details van het gras en de zachte overgangen tussen de kleuren.",
-      "cyclus": 13711,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en niet typisch ansichtkaart-materiaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013711_13774.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13867,
+      "cyclus": 13804,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit is geen toeristische ansichtkaart, maar een abstracte kaart met een onduidelijk onderwerp en geen iconische motieven.",
+      "bestand": "images/a013804_13867.webp"
+    },
+    {
+      "id": 13863,
+      "cyclus": 13800,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een typisch landschap met gras en een veld, geframed door een letter, wat doet denken aan een ansichtkaart met een decoratief motief.",
+      "bestand": "images/a013800_13863.webp"
+    },
     {
       "id": 13851,
       "cyclus": 13788,
@@ -141,24 +159,6 @@
       "tech_notities": "geen zichtbare generatie-artefacten; textuur en perspectief consistent",
       "cliche_notities": "Molen als iconisch Nederlands motief met decoratief licht en klassieke compositie, zonder duidelijke persoonlijke interpretatie",
       "bestand": "images/a013788_13851.webp"
-    },
-    {
-      "id": 13845,
-      "cyclus": 13782,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de takstructuur van de boom: sommige takken lopen logisch door, andere verdwijnen plotseling of lopen in een onnatuurlijke hoek.', 'Subtiele halo-effecten rond de boomstam tegen de achtergrond, vooral waar donkere en lichte kleuren elkaar raken.']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch strandlandschap met een enkele boom, zachte golven en een rustige sfeer, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013782_13845.webp"
-    },
-    {
-      "id": 13844,
-      "cyclus": 13781,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte onscherpte in achtergrond, maar geen duidelijke artefacten']",
-      "cliche_notities": "Beeld herinnert aan een typische ansichtkaart met eenzame figuur tegen zonsondergang, zonder unieke compositorische keuze",
-      "bestand": "images/a013781_13844.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13800,
-    "gemaakt": 13862,
-    "gekozen": 2153,
-    "afgekeurd": 1662,
-    "corpus": 60,
+    "cycli": 13805,
+    "gemaakt": 13867,
+    "gekozen": 2155,
+    "afgekeurd": 1664,
+    "corpus": 61,
     "notities": 503
   }
 }
