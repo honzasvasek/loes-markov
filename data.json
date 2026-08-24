@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T18:45+02:00",
+  "bijgewerkt": "2026-08-24T19:00+02:00",
   "werk": [
+    {
+      "id": 14118,
+      "titel": "Papier scheurt door zand",
+      "beschrijving": "Zand vormt golvende laagjes, onderbroken door witte, gescheurde papierlagen die diagonaal door het beeld lopen. Bruine, sprietvormige structuren steken uit het zand, verspreid over drie niveaus. Een kleine, witte bol rust op de rand van een papierlaag. De achtergrond is helderwit, zonder extra details. Schaduwen onder de papierlagen en de sprieten geven diepte. Kleuren zijn beperkt tot beige, bruin en wit, met een minimalistische, gestructureerde sfeer.",
+      "cyclus": 14055,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014055_14118.webp"
+    },
+    {
+      "id": 14117,
+      "titel": "Golven zonder bestemming",
+      "beschrijving": "Golvende banen in zacht roze, lichtblauw en roomwit snijden door een neutraal grijs vlak, gescheiden door scherpe zwarte lijnen die de vormen omhullen. De golven lopen parallel aan elkaar, met lichte variaties in breedte en kromming, waardoor een gevoel van beweging ontstaat zonder duidelijke richting. De kleuren vloeien soepel in elkaar over, met subtiele overgangen die een dromerige, bijna vage sfeer creëren. Het grijs vormt een rustige achtergrond die de kleurrijke golven laat opspringen, terwijl de zwarte lijnen een structuur toevoegen die de vormen definieert zonder ze te beperken.",
+      "cyclus": 14054,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met bewuste keuze voor vloeiende vormen en kleurovergangen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014054_14117.webp"
+    },
     {
       "id": 14114,
       "titel": "Waar blijft de grond?",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014007_14070.webp"
-    },
-    {
-      "id": 14064,
-      "titel": "Wat overblijft van een kruis",
-      "beschrijving": "Een verticale, donkere lijn loopt door het midden van een lichtgrijze, textuurrijke achtergrond, met aan weerszijden kortere, schuine lijnen die als takken of spaken uitstralen. Een horizontale lijn snijdt de verticale lijn dwars door, iets boven het midden, en vormt een onvolledig kruis. Kleine, donkere vlekken en stippen zijn verspreid over de lijnen, met name rond de verbindingen. Onderaan de verticale lijn verbleekt de tekening geleidelijk, tot een vaag, bijna onzichtbaar spoor. De achtergrond is egaal, zonder duidelijke vormen of details, en de tekening zelf heeft een schetsachtige, onafgewerkte uitstraling.",
-      "cyclus": 14001,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele onregelmatigheden in lijnvoering bij takken', 'lichte textuurvervorming in achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is abstract en open",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014001_14064.webp"
-    },
-    {
-      "id": 14055,
-      "titel": "Krijt dat zwijgt",
-      "beschrijving": "Drie golvende lijnen lopen diagonaal over een effen beige ondergrond, getekend met witte en donkere krijtstrepen die zacht over elkaar lopen. De witte lijnen vormen de bovenkant van elke golf, terwijl de donkere strepen eronder een subtiel schaduw-effect creëren. De lijnen zijn niet perfect glad, maar hebben een lichte, organische onregelmatigheid, alsof ze in één vloeiende beweging zijn getrokken. De ruimte tussen de golven is evenwichtig verdeeld, waardoor er een rustig ritme ontstaat. Het papier heeft een matte textuur die de krijtstrepen doet uitkomen, zonder dat er andere details of afleiding aanwezig zijn.",
-      "cyclus": 13992,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met bewuste keuze voor eenvoudige lijnen en ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013992_14055.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14126,
+      "cyclus": 14063,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (eenden)', 'inconsistent perspectief (wateroppervlak)']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (eenden op water) en decoratieve compositie zonder eigen standpunt.",
+      "bestand": "images/a014063_14126.webp"
+    },
     {
       "id": 14115,
       "cyclus": 14052,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de kerk ten opzichte van de bomen', 'Enkele grashalmen in de voorgrond hebben onnatuurlijke, stijve vormen']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch kerkje in een idyllisch landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014047_14110.webp"
-    },
-    {
-      "id": 14104,
-      "cyclus": 14041,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (eenden in een landschap) en de decoratieve, traditionele uitvoering zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014041_14104.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14061,
-    "gemaakt": 14124,
-    "gekozen": 2196,
-    "afgekeurd": 1693,
+    "cycli": 14067,
+    "gemaakt": 14130,
+    "gekozen": 2198,
+    "afgekeurd": 1694,
     "corpus": 59,
     "notities": 509
   }
