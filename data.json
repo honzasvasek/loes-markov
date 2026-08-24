@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T14:30+02:00",
+  "bijgewerkt": "2026-08-24T14:45+02:00",
   "werk": [
+    {
+      "id": 14013,
+      "titel": "Gras dat kust wat huid raakt",
+      "beschrijving": "Een naakt vrouwelijk lichaam ligt op zijn rug in hoog gras, het bovenlichaam licht opgeheven, armen gestrekt boven het hoofd. De borsten en buikspieren zijn gedetailleerd getekend, met donkere tepels en een navel. Het haar is donker, krullend en valt over de schouders. Het gras omringt het lichaam, met lange, smalle bladeren die in verschillende richtingen staan, sommige raken de huid. De achtergrond bestaat uit vaag getekende vegetatie, met wat donkere vlekken die mogelijk bladeren of schaduwen zijn. De tekening is in grijstinten, met fijne lijnen en schakeringen die textuur en diepte geven. Het licht valt van linksboven, waardoor de contouren van het lichaam en het gras duidelijk zichtbaar zijn.",
+      "cyclus": 13950,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van het lichaam ten opzichte van het gras', 'lichte wazigheid in de achtergrondtexturen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een intieme, niet-iconische compositie met een focus op de subtiele interactie tussen lichaam en natuur, geen typisch ansichtkaartmotief.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013950_14013.webp"
+    },
+    {
+      "id": 14009,
+      "titel": "Donkere vlekken in beweging",
+      "beschrijving": "Donkere, bijna zwarte takken en bladeren tegen een egale, lichtbeige achtergrond. De takken lopen diagonaal van linksboven naar rechtsonder, met kleine, langwerpige bladeren die als donkere vlekken aan de takken zitten. Sommige bladeren hebben een zachte, vaagere rand, alsof ze in beweging zijn. Fijne, harige structuren zijn zichtbaar op de takken en bladeren, met kleine, donkere knopjes verspreid door het beeld. De compositie laat veel lege ruimte over aan de rechterkant en onderaan, waardoor de takken een zwevende indruk maken. De sfeer is rustig en stil, met een subtiele spanning tussen de donkere vormen en de lichte achtergrond.",
+      "cyclus": 13946,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met ruimte en detail, niet alleen decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013946_14009.webp"
+    },
     {
       "id": 14005,
       "titel": "Kleur zonder grenzen",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013903_13966.webp"
-    },
-    {
-      "id": 13964,
-      "titel": "Waar het licht stopt",
-      "beschrijving": "Een verticaal gescheurde lijn loopt door een beige vlak, met aan weerskanten subtiele witte strepen die water of zand suggereren. Boven de scheur zweven donkerbruine en oranje wolken met zachte, onregelmatige contouren. De scheur zelf is donker, met schuine, ongelijkmatige randen die naar beneden uitwaaieren in scherpe, bijna dorenhoudende vormen. Het midden van de scheur is smaller en loopt over in een smalle, donkere spleet. De achtergrond is egaal, zonder duidelijke horizon of objecten, wat de scheur als centraal motief laat uitkomen. De kleuren zijn gedempt, met een focus op aardetinten en donkere contrasten.",
-      "cyclus": 13901,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve compositie zonder iconische of toeristische elementen, en toont een persoonlijke interpretatie van ruimte en spanning.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013901_13964.webp"
-    },
-    {
-      "id": 13957,
-      "titel": "Wat overblijft van de golf",
-      "beschrijving": "Donkere, scherpe lijnen snijden door zachte, golvende blauwe en witte vlakken, alsof water en lucht door een onzichtbare kracht worden doormidden gesneden. Een bundel zwarte, sprieterige vormen steekt schuin omhoog, alsof het restanten zijn van iets dat net is verbroken. Kleine zwarte stippen en een driehoekige vorm drijven erbij, alsof ze net uit de lijnen zijn gevallen. De blauwe vlakken hebben een waterverfachtige textuur, met lichte en donkere schakeringen die beweging suggereren. Witte ruimtes tussen de lijnen laten de indruk van diepte ontstaan, terwijl de donkere contouren de vormen van de golven en de sprieters scherp aftekenen tegen de lichte achtergrond. Een enkele donkere vlek in de onderste hoek lijkt een druppel of een klein gat in het beeld.",
-      "cyclus": 13894,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met persoonlijke lijnwerk en kleurkeuzes.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013894_13957.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14017,
+      "cyclus": 13954,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van huizen aan horizon', 'lichte wazigheid in tekstuur van boombladeren']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een rustig dorp met zee op de achtergrond, met decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a013954_14017.webp"
+    },
     {
       "id": 13994,
       "cyclus": 13931,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsonderganglandschap, perfecte belichting en geen duidelijke compositorische keuze beyond het klassieke kader.",
       "bestand": "images/a013930_13993.webp"
-    },
-    {
-      "id": 13991,
-      "cyclus": 13928,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een familie die samen eet in een idyllisch landschap, met decoratief perfect licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a013928_13991.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13950,
-    "gemaakt": 14013,
-    "gekozen": 2178,
-    "afgekeurd": 1673,
-    "corpus": 59,
+    "cycli": 13958,
+    "gemaakt": 14020,
+    "gekozen": 2180,
+    "afgekeurd": 1674,
+    "corpus": 60,
     "notities": 507
   }
 }
