@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T07:00+02:00",
+  "bijgewerkt": "2026-08-24T07:15+02:00",
   "werk": [
     {
       "id": 13797,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 13789,
-      "cyclus": 13726,
+      "id": 13814,
+      "cyclus": 13751,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de zonnestralen (onsymmetrisch, wat onnatuurlijk)', 'Textuur van het gras is wat schematisch/herhalend, mist variatie']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch landschap met zonsondergang, bloemen en een hond, uitgevoerd in een decoratief, vlak stijl zonder duidelijke compositorische keuze of eigen stem.",
-      "bestand": "images/a013726_13789.webp"
+      "tech_score": 7.0,
+      "tech_notities": "['lichte vervorming in de reflectie van de molens in het water', 'watervlak mist consistente textuur', 'achtergrondboom aan rechterkant heeft onnatuurlijke takstructuur']",
+      "cliche_notities": "Molen met water en bomen in een klassieke compositie zonder onverwachte elementen of persoonlijk standpunt",
+      "bestand": "images/a013751_13814.webp"
     },
     {
-      "id": 13783,
-      "cyclus": 13720,
+      "id": 13810,
+      "cyclus": 13747,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in boomtakken rechtsboven', 'lichte wazigheid in achtergrondboom links']",
+      "cliche_notities": "Klassiek kerkje met boom en weelderig grasland herinnert aan typische ansichtkaartcompositie zonder verrassend standpunt.",
+      "bestand": "images/a013747_13810.webp"
+    },
+    {
+      "id": 13808,
+      "cyclus": 13745,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
       "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst als integraal onderdeel.",
-      "bestand": "images/a013720_13783.webp"
-    },
-    {
-      "id": 13778,
-      "cyclus": 13715,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in de proporties van de windmolenwieken en de kerkspits",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse elementen (molen, kerk, groene velden) en een decoratief, harmonieus licht zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013715_13778.webp"
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch landschap (wilgentak boven water) en decoratief licht, zonder eigen compositorische keuze.",
+      "bestand": "images/a013745_13808.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13745,
-    "gemaakt": 13807,
+    "cycli": 13752,
+    "gemaakt": 13814,
     "gekozen": 2146,
-    "afgekeurd": 1653,
-    "corpus": 59,
+    "afgekeurd": 1656,
+    "corpus": 60,
     "notities": 500
   }
 }
