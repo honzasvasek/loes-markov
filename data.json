@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T13:45+02:00",
+  "bijgewerkt": "2026-08-24T14:00+02:00",
   "werk": [
+    {
+      "id": 13987,
+      "titel": "Wat groeit hier uit melk?",
+      "beschrijving": "Een amorf, melig vormgegeven object domineert het midden, met een zachte, vloeibare textuur in beige en lichtgele tinten. Daarin is een doorschijnende, groene bladstructuur verweven, met fijn gedetailleerde aders en een organische, golvende vorm. Kleinere, naaldachtige groene elementen, vergelijkbaar met dennenboomnaalden, steken hier en daar uit het object, vooral rond de randen en door de holtes. Een donkerbruine, houten stam met verticale vezels loopt door het midden, omgeven door de groene elementen en de melige substantie. De achtergrond is egaal grijs, waardoor het object scherp afsteekt. De compositie combineert natuurlijke materialen met een surrealistische, bijna dromerige esthetiek, waarbij de overgang tussen de verschillende texturen en vormen vloeiend en onverklaarbaar is.",
+      "cyclus": 13924,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de combinatie van organische vormen en een abstracte structuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013924_13987.webp"
+    },
+    {
+      "id": 13980,
+      "titel": "Blauw loopt door zand",
+      "beschrijving": "Zand vormt zachte, golvende structuren met een blauwe, vloeistofachtige streep die erdoorheen loopt. Twee dunne, bruine stengels liggen schuin, met schaduwen die de textuur van het zand benadrukken. Kleine korrels en onregelmatigheden zijn zichtbaar rond de blauwe vorm, die een glanzende, bijna natte uitstraling heeft. De compositie is minimalistisch, met veel lege ruimte en een focus op de contrasten tussen zand, kleur en licht.",
+      "cyclus": 13917,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013917_13980.webp"
+    },
     {
       "id": 13977,
       "titel": "Waar het water zachtjes loodst",
@@ -104,61 +130,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013874_13937.webp"
-    },
-    {
-      "id": 13931,
-      "titel": "Waar blijft de weg?",
-      "beschrijving": "Een figuur in donkerblauwe kleding zit op een kleine blauwe stoel op een roodbruine vloer, met de rug naar de kijker, gericht op een smal, wit pad dat loopt naar een lichtroze huis met een rood dak. Rechts van de figuur staan een gele kan met blauwe steel, een blauwe kop en een groene, omgevallen vat op de vloer. Achter de figuur rijzen vier donkergroene, slanke cactusachtige bomen op uit een geelgroen veld, terwijl de achtergrond een effen lichtblauwe hemel toont met een vaag, gebogen spoor. Het huis heeft twee kleine, rechthoekige ramen en een donkerrode deur, en een kleine, donkergroene struik staat links ervan. De scène wordt omlijst door een subtiele, onregelmatige rand van ongeschilderd doek.",
-      "cyclus": 13868,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief perfect.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013868_13931.webp"
-    },
-    {
-      "id": 13929,
-      "titel": "De gum die bleef steken",
-      "beschrijving": "Een potloodtekening toont een rustig waterlandschap met riet en gras aan weerskanten van een smalle waterloop. Links staan hoge, slanke rietstengels met zachte, waaierachtige toppen, terwijl rechts korter, slanker gras de oever bevolkt. Het water weerspiegelt subtiele golven en loopt over in een zandige, met keien en stukken hout begane oever. Op de achtergrond liggen zacht gecontureerde heuvels onder een effen, lichtgrijze hemel. Rechtsonder rust een donker, rechthoekig voorwerp met een afgeronde hoek—een gum—schuin op de tekening, deels buiten het beeld. De tekening is gedetailleerd, met fijne lijnen en schaduwen die textuur en diepte geven, terwijl de compositie een gevoel van stilte en verlatenheid uitstraalt.",
-      "cyclus": 13866,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van water (beneden vs. boven)', 'lichte wazigheid in verre heuvels']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op subtiele spanning tussen leegte en detail, niet op een bevestigend landschap.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013866_13929.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 13983,
-      "cyclus": 13920,
+      "id": 13994,
+      "cyclus": 13931,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de kerktoren ten opzichte van de rest van het gebouw', 'Watervlak mist subtiele detailvariatie in de reflecties, wat een iets kunstmatige uitstraling geeft']",
-      "cliche_notities": "Het beeld toont een iconisch berglandschap met kerken, typisch voor een toeristische ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013920_13983.webp"
+      "tech_notities": "['Lichte inconsistentie in de takken van de bomen: sommige takken lijken zonder logische reden abrupt te eindigen', 'De textuur van de grond is wat wazig en mist duidelijke details']",
+      "cliche_notities": "Dit beeld past bij de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een molen tussen bomen) en de decoratieve, rustige compositie zonder sterke persoonlijke keuze.",
+      "bestand": "images/a013931_13994.webp"
     },
     {
-      "id": 13971,
-      "cyclus": 13908,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met kaartdetails en natuurlijke elementen.",
-      "bestand": "images/a013908_13971.webp"
+      "id": 13993,
+      "cyclus": 13930,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsonderganglandschap, perfecte belichting en geen duidelijke compositorische keuze beyond het klassieke kader.",
+      "bestand": "images/a013930_13993.webp"
     },
     {
-      "id": 13952,
-      "cyclus": 13889,
+      "id": 13991,
+      "cyclus": 13928,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflecties op water (sommige vormen te scherp, andere te wazig)', 'kleine halo rond kerkspits tegen donkere achtergrond']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch dorp met kerk, water en zonsondergang, zonder onverwachte compositorische keuzes of een persoonlijk standpunt.",
-      "bestand": "images/a013889_13952.webp"
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een familie die samen eet in een idyllisch landschap, met decoratief perfect licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a013928_13991.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13927,
-    "gemaakt": 13990,
-    "gekozen": 2174,
-    "afgekeurd": 1670,
-    "corpus": 62,
+    "cycli": 13935,
+    "gemaakt": 13998,
+    "gekozen": 2176,
+    "afgekeurd": 1673,
+    "corpus": 60,
     "notities": 506
   }
 }
