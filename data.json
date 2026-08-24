@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T03:45+02:00",
+  "bijgewerkt": "2026-08-24T04:00+02:00",
   "werk": [
+    {
+      "id": 13715,
+      "titel": "Huid met geheime kaart",
+      "beschrijving": "Een naakt lichaam staat centraal, met benen die licht gespreid zijn en voeten die rusten op een donkere ondergrond. De huid is getekend met fijne lijnen en vlekken, alsof er textuur en slijtage in zitten. Rond de heupen en dijen lopen donkere, bijna krassende patronen, terwijl de knieën en schenen lichtere, gladdere vlakken hebben. Langs de zijkanten van het lichaam rijzen spitse, grasachtige vormen op, wit en scherp getekend tegen de donkere achtergrond. Kleine zwarte vlekken en stippen zijn verspreid over het beeld, soms geclusterd, soms alleenstaand. De compositie is verticaal, met het lichaam dat de volledige hoogte van het beeld inneemt, omringd door de donkere, bijna zwevende ruimte. De sfeer is intiem en wat ongemakkelijk, door de directe weergave van het lichaam en de ruwe, bijna onvolmaakte uitvoering.",
+      "cyclus": 13652,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in de tenen van de voeten', 'lichte inconsistentie in de textuur van het gras aan weerskanten']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke, niet-decoratieve benadering van vorm en textuur.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013652_13715.webp"
+    },
+    {
+      "id": 13710,
+      "titel": "Pitten in het zand",
+      "beschrijving": "Een dicht bos van bomen met gevarieerde bladeren in blauwgroene, gele en oranje tinten domineert het beeld, met stammen die zich diagonaal door de compositie trekken. Voorin loopt een zandige heuvel met verspreide donkere pitten, droge grassprietjes en een paar dunne, bruine takken. De achtergrond is een egale, lichtbeige vlakte die het bos afschermt. De bladeren hebben een gedetailleerde, bijna reliëfachtige textuur, en de bomen staan dicht op elkaar, met de oranje en gele bladeren die een contrast vormen met de koelere blauwgroene tinten. Kleine, donkere vogels zijn zichtbaar tussen het gebladerte en op de grond.",
+      "cyclus": 13647,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met een focus op textuur en kleurverschillen, geen toeristische ansichtkaartstijl.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013647_13710.webp"
+    },
     {
       "id": 13696,
       "titel": "Zandkorrels die liegen",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013599_13662.webp"
-    },
-    {
-      "id": 13654,
-      "titel": "Huid tussen het riet",
-      "beschrijving": "Een naakt vrouwelijk lichaam, gezien van achteren, vult het beeld in een diagonale compositie. De huid is zacht getekend met subtiele schaduwen die de contouren van de billen, heupen en rug benadrukken. Een boog van het lichaam loopt van de schouders tot de heupen, met een lichte kromming die de dynamiek van de pose versterkt. Het haar is donker en valt los over de rug, met enkele haren die zich vermengen met de achtergrond. Rond het lichaam zijn donkere, scherpe strepen te zien die aan gras of riet doen denken, met enkele fijn getekende details die diepte toevoegen. De achtergrond is vaag en lichtgetekend, waardoor het lichaam centraal staat. De sfeer is intiem en rustig, met een focus op de vorm en textuur van het lichaam tegen de natuurlijke achtergrond.",
-      "cyclus": 13591,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met ruimte en detail.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013591_13654.webp"
-    },
-    {
-      "id": 13643,
-      "titel": "Verf dat ademhaalt",
-      "beschrijving": "Groene en blauwe waterverfvlakken vormen een onscherpe achtergrond, doorbroken door donkere, bijna zwarte vlekken die als silhouetten van bomen of struiken fungeren. Witte en gele bloemen, vaag getekend met stralende bloemblaadjes, steken eruit tegen de groene en bruine tinten van het gras en de stengels. Donkere, slanke lijnen suggereren hoge grassprieten of riet, terwijl kleine zwarte en bruine stippen als zaadjes of insecten door het beeld verspreid zijn. Gele en oranje vlekken in de middenvlak geven een hint van ondergroei of vallend blad. Witte, onregelmatige vormen aan de randen lijken op besproeiing van verf of papier textuur. De compositie is verticaal, met een dynamische mix van scherpe en onscherpe elementen die een gevoel van beweging en wildgroei uitstralen.",
-      "cyclus": 13580,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, ongestructureerde compositie met ruimte voor interpretatie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013580_13643.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 13654,
-    "gemaakt": 13716,
-    "gekozen": 2131,
+    "cycli": 13661,
+    "gemaakt": 13723,
+    "gekozen": 2133,
     "afgekeurd": 1647,
     "corpus": 60,
     "notities": 496
