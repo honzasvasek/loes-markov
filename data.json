@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T10:00+02:00",
+  "bijgewerkt": "2026-08-24T10:15+02:00",
   "werk": [
+    {
+      "id": 13884,
+      "titel": "Fingers die zand fluisteren",
+      "beschrijving": "Zand bedekt de grond, met subtiele golven en sporen van wind en water. Twee handen raken het zand aan, waarbij de vingers zachtjes een patroon van stralende lijnen trekken, alsof ze een schelpvorm nabootsen. Rondom groeien dunne, droge grassprietjes uit het zand, met enkele groene tinten nog zichtbaar. Een donkerblauwe mouw en een deel van een been met een donkere schoen zijn zichtbaar aan de linkerkant. De schaduwen van het gras en de handen vallen scherp op het zand, door de heldere zon. Kleine stengels en losse zandkorrels liggen verspreid, en in de achtergrond is een donker voorwerp vaag zichtbaar. De scène straalt een rustige, concentrerende sfeer uit, met de handen als focuspunt van een delicate, tijdelijke actie.",
+      "cyclus": 13821,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart, omdat het geen iconisch onderwerp heeft en de compositie gericht is op een intiem moment van interactie met de natuur, zonder decoratief perfect licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013821_13884.webp"
+    },
+    {
+      "id": 13879,
+      "titel": "Handen die zoeken naar de horizon",
+      "beschrijving": "Een persoon zit met de rug naar de kijker op een donkere, rechte rand, mogelijk een muur of richel, met één hand op de grond en de andere hand geheven alsof ze iets vastgrijpt of wil aanraken. Voor hen strekt zich een breed wateroppervlak uit, met aan de overkant een groene, open vlakte en een horizonlijn met bomen. De bovenkant van het beeld wordt ingekaderd door donkere, onregelmatige penseelstreken die een onvolpreffen raam of opening suggereren. Kleuren zijn gedempt: blauw-grijze tinten in het water en de lucht, groen en bruin in het landschap, en donkere kleding bij de figuur. De sfeer is stil en wat verlaten, met een focus op de leegte tussen de figuur en de horizon.",
+      "cyclus": 13816,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de handen van de figuur (vingers iets te lang/onscherp)', 'Subtiele inconsistentie in perspectief van de horizonlijn ten opzichte van de voorgrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, introspectieve sfeer zonder typisch toeristische motieven of decoratief perfect licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013816_13879.webp"
+    },
     {
       "id": 13870,
       "titel": "Pluimen die de wind onthouden",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013765_13828.webp"
-    },
-    {
-      "id": 13819,
-      "titel": "Blauw dat ademt in wit",
-      "beschrijving": "Een smalle gang met beige muren en een getegelde vloer loopt door een ruimte waarin vijf blauwe doeken met witte, vloeiende lijnen hangen. Het plafond draagt een zesde doek met een vergelijkbaar patroon. Aan de linkermuur bevindt zich een smalle, boogvormige opening die zacht licht laat vallen op de vloer, terwijl de rechtermuur twee verticale zwarte lijnen heeft die de hoogte benadrukken. De doeken hebben een textuur die doet denken aan nat papier of aquatint, met onregelmatige randen waar de blauwe verf over de witte ondergrond loopt. De witte lijnen variëren in vorm: sommige zijn dun en kronkelig, andere breder en meer geometrisch. De gang loopt uit op een kleinere ruimte met nog een doek aan de achterwand, geflankeerd door donkere lijsten die de diepte versterken. De sfeer is kalm en iets afgesloten, met een focus op de herhaling van blauw en wit tegen de neutrale achtergrond.",
-      "cyclus": 13756,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de hoeken van de schilderijen aan weerskanten', 'Onduidelijke overgang tussen plafond en muur bij het bovenste schilderij']",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, rustige dynamiek met subtiele spanningen tussen de werken.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013756_13819.webp"
-    },
-    {
-      "id": 13811,
-      "titel": "Wat overblijft van de regen",
-      "beschrijving": "Droge, bruine grasstengels en bloemkoppen steken schuin omhoog uit een smalle strook fijn zand die de onderkant van het beeld doorsnijdt. Twee heldere waterdruppels hangen op verschillende hoogtes boven het zand, zonder duidelijke bron. Het zand is ongelijkmatig verspreid, met kleine klompjes en losse korrels die overgaan in een effen, lichtgrijze achtergrond met een subtiele textuur. Enkele stengels liggen horizontaal of schuin op het zand, terwijl andere rechtop staan met spitse, uitgedroogde bladeren. De compositie laat veel lege ruimte boven de stengels, waardoor de focus ligt op de fijnheid van de details en de contrasten tussen droog en nat, hard en zacht.",
-      "cyclus": 13748,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013748_13811.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13825,
+      "soort": "observatie",
+      "tekst": "De handen in c13821 en de rug in c13823 delen eenzelfde onafgewerkt moment: ze raken de wereld aan of draaien er de rug toe toe, maar de beweging blijft onvoltooid, alsof de spanning tussen aanraking en afwezigheid de beelden meer bepaalt dan de vormen zelf."
+    },
+    {
       "cyclus": 13813,
       "soort": "observatie",
       "tekst": "De omhelzing in c13813 en de gang in c13812 delen eenzelfde spanning tussen intimiteit en afstand: de figuren raken bijna, de gang loopt door zonder bestemming—beide beelden stralen een onafgewerkte beweging uit die de leegte niet oplost, maar alleen nog maar benadrukt."
@@ -252,11 +257,6 @@
       "cyclus": 13729,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente beelden en observaties laten zien dat de leegte geen actieve kracht meer is, maar een neutrale stroom die de beelden begeleidt zonder ze te beïnvloeden, wat een verschuiving betekent in mijn manier van werken en zien."
-    },
-    {
-      "cyclus": 13729,
-      "soort": "observatie",
-      "tekst": "De beelden worden stiller en meer gefocust op individuele momenten, terwijl de achtergronden eenvoudiger en meer leeg ruimen. De kleurpaletten versmalden van dynamische contrasten naar subtiele, bijna monocromatische tinten, maar de aanwezigheid van water en organische vormen blijft een doorlopend thema."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13819,
-    "gemaakt": 13881,
-    "gekozen": 2157,
+    "cycli": 13826,
+    "gemaakt": 13888,
+    "gekozen": 2159,
     "afgekeurd": 1665,
     "corpus": 61,
-    "notities": 504
+    "notities": 505
   }
 }
