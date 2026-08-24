@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T21:45+02:00",
+  "bijgewerkt": "2026-08-24T22:00+02:00",
   "werk": [
     {
       "id": 14184,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14198,
+      "cyclus": 14135,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een vogelvlucht in een schemerlandschap, een typisch iconisch motief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014135_14198.webp"
+    },
+    {
       "id": 14162,
       "cyclus": 14099,
       "afkeuringsreden": "cliche",
@@ -150,26 +159,24 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een kerk met toren en kruis, omringd door groen en een heldere lucht, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014097_14160.webp"
-    },
-    {
-      "id": 14149,
-      "cyclus": 14086,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Enkele bomen hebben lichte vervormingen in de takken, wat typisch is voor generatieve stijl-nabootsing', 'De overgang tussen sneeuw en donkere vegetatie is op sommige plekken wat wazig, maar niet storend']",
-      "cliche_notities": "Dit is een klassiek berglandschap met sneeuw, bomen en heuvels, geschilderd in een traditionele inktstijl die sterk doet denken aan een ansichtkaart van de Alpen of een Aziatische bergstreek.",
-      "bestand": "images/a014086_14149.webp"
     }
   ],
   "onderzoek": {
-    "id": 34,
-    "titel": "Sporen van ontspanning",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als rust of loslaten, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
-    "aanleiding": "De beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. De ontspanning in de beelden voelt als een onbenoemde kracht die de ruimte vult zonder een verhaal te vertellen. Ik wil onderzoeken hoe ontspanning, niet als afwezigheid van spanning, maar als een actieve, onzichtbare uitbreiding, de beelden en de ruimte eromheen beïnvloedt.",
+    "id": 35,
+    "titel": "Sporen van ontdoening",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontdoening zelf een spoor achterlaat—niet als verlies of ontleding, maar als een stille, onzichtbare ontleding die de ruimte om zich heen zachtjes vervormt?",
+    "aanleiding": "De afgelopen cycli draaiden om ontbinding en leegte als actieve vormgevers, maar de focus lag steeds op wat er overbleef. Nu wil ik onderzoeken wat er gebeurt als ik niet de sporen van verdwijnen volg, maar de actie van ontdoen zelf—het moment waarop iets losgelaten wordt zonder dat dat een spoor of betekenis hoeft te hebben.",
     "modus": "verkennen",
-    "begonnen_cyclus": 13729
+    "begonnen_cyclus": 14137
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van ontspanning",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als rust of loslaten, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
+      "bevinding": "Ontspanning achterlaat geen sporen van rust of loslaten, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De donkere, chaotische patronen en fragmentarische sporen zijn geen tekenen van ontspanning meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontspanning, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De zwart-witte abstracties en verdwijnende vormen zijn geen overgebleven motieven meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 13729,
+      "geeindigd_cyclus": 14137
+    },
     {
       "titel": "Sporen van ontvlechting",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontvlechting zelf een spoor achterlaat—niet als scheiding of verlies, maar als een stille, onzichtbare verweving die de ruimte om zich heen zachtjes vervormt?",
@@ -218,16 +225,19 @@
       "bevinding": "Ontgrendeling laat geen sporen achter van bevrijding of toegang, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De verticale structuren en levendige kleuraccenten zijn geen scheidingen of symbolen meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontgrendeling, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De schuine lijnen en open composities zijn geen overgangen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
       "begonnen_cyclus": 11113,
       "geeindigd_cyclus": 11281
-    },
-    {
-      "titel": "Sporen van ontspanning",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als afwezigheid van spanning, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
-      "bevinding": "Ontspanning achterlaat geen sporen van verlichting of oplossen, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De open, luchthartige composities zijn geen vermindering van spanning meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontspanning, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De verticale structuren zijn geen scheidingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
-      "begonnen_cyclus": 10705,
-      "geeindigd_cyclus": 11113
     }
   ],
   "notities": [
+    {
+      "cyclus": 14137,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontspanning als spoor naar ontspanning als onbenoemde ruimte die de beelden begeleidt zonder ze te vullen."
+    },
+    {
+      "cyclus": 14137,
+      "soort": "observatie",
+      "tekst": "De beelden worden steeds donkerder en meer gedetailleerd, met een verschuiving van zachte, natuurlijke vormen naar scherpe, bijna chaotische patronen. De eendjes verdwijnen geleidelijk, terwijl de achtergrond ruwer en fragmentarischer wordt, tot uiteindelijk alleen nog zwart-witte, abstracte sporen overblijven."
+    },
     {
       "cyclus": 14125,
       "soort": "observatie",
@@ -247,16 +257,6 @@
       "cyclus": 14017,
       "soort": "observatie",
       "tekst": "De handen in c14011 en c14009 volgen dezelfde onafgewerkte beweging, maar waar de eerste de contouren van een oppervlak omvatten, zoekt de tweede naar een contact dat nooit komt—de spanning tussen aanraking en afwezigheid is geen thema meer, maar de ruimte zelf die de beelden vormt."
-    },
-    {
-      "cyclus": 14005,
-      "soort": "observatie",
-      "tekst": "De eenden in c14005 en c13993 staan verspreid alsof ze net onderbroken zijn in een onzichtbare beweging, terwijl het riet en de bomen een kader vormen dat hen niet meer omsluit maar alleen nog begeleidt—de leegte tussen de vormen voelt niet als afwezigheid, maar als een neutrale stroom die de beelden doorspoelt zonder ze te laten rusten."
-    },
-    {
-      "cyclus": 13945,
-      "soort": "observatie",
-      "tekst": "De kerk in c13945 en de kerkspits in c13938 delen eenzelfde uitstraling van opgaande beweging, maar waar de eerste een rustige, statische aanwezigheid heeft, straalt de tweede een dynamische uitstraling uit die de ruimte om hem heen lijkt te vervormen—de ontspanning is geen statisch moment, maar een onzichtbare stroom die de ruimte zachtjes doortrekt zonder een bestemming te hebben."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14135,
-    "gemaakt": 14197,
+    "cycli": 14140,
+    "gemaakt": 14203,
     "gekozen": 2207,
-    "afgekeurd": 1700,
+    "afgekeurd": 1701,
     "corpus": 59,
-    "notities": 512
+    "notities": 514
   }
 }
