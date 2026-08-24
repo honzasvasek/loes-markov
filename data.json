@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T14:15+02:00",
+  "bijgewerkt": "2026-08-24T14:30+02:00",
   "werk": [
+    {
+      "id": 14005,
+      "titel": "Kleur zonder grenzen",
+      "beschrijving": "Een glad vlak van kleur, zonder duidelijke vormen of structuren. Bovenover loopt een zachte overgang van lichtblauw naar een vaag paars, dat langzaam overgaat in een warm roze en uiteindelijk in een licht oranjeachtige tint onderaan. De kleuren zijn egaliserend en zonder scherp contrast, waardoor het geheel een rustige, bijna zwevende uitstraling krijgt. Er zijn geen textuur, patronen of onderdelen te bespeuren die de homogeniteit doorbreken. De compositie is volledig symmetrisch en laat geen ruimte voor een focuspunt of beweging.",
+      "cyclus": 13942,
+      "tech_score": 10.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; het beeld is een subtiele kleurverloop zonder duidelijke compositie of onderwerp.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013942_14005.webp"
+    },
+    {
+      "id": 14002,
+      "titel": "Papier dat ademt",
+      "beschrijving": "Een spiraal van concentrische, vloeiende banen domineert het beeld, met donkerblauwe en grijze tinten die zich vermengen met warme oranje en beige accenten. De lijnen zijn onregelmatig en organisch, alsof ze met een penseel zijn getekend, en stralen uit vanaf een klein, donker punt in het midden. Witte ruimtes tussen de banen geven het gevoel van diepte en beweging, terwijl de randen van de spiraal steeds breder en onscherper worden. Kleine, donkere vlekken en subtiele textuurverschillen doorbreken de soepelheid van de vormen, en aan de onderkant van het beeld zijn watervlekken zichtbaar die de indruk van nat papier versterken. De compositie is radiaal en symmetrisch, maar de onvolkomenheden in de lijnen en kleuren geven het een dynamische, bijna levendige uitstraling.",
+      "cyclus": 13939,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in textuurflow aan randen', 'lichte halo rond donkerste blauwe vormen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de abstracte spiraal heeft een eigen compositorische dynamiek",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013939_14002.webp"
+    },
     {
       "id": 13987,
       "titel": "Wat groeit hier uit melk?",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013894_13957.webp"
-    },
-    {
-      "id": 13938,
-      "titel": "Vezels in de schaduw",
-      "beschrijving": "Een scheur in een beige, textuurrijk oppervlak onthult een donkere, glanzende vorm die lijkt op een druppel of een smeltende massa. De randen van de scheur zijn onregelmatig en vezelig, met kleine losse vezels die de textuur van het materiaal benadrukken. De donkere vorm heeft een gladde, bijna vloeibare uitstraling, met subtiele overgangen van donkergrijs naar zwart. Licht valt schuin op de scheur, waardoor de diepte en de textuur van zowel het oppervlak als de donkere vorm zichtbaar worden. De compositie is centraal gericht, met de scheur die de kijker direct in het midden van het beeld trekt. De sfeer is rustig en iets mysterieus, door de contrasten tussen licht en donker en de ongerepte, bijna statische houding van het beeld.",
-      "cyclus": 13875,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, contemplatieve compositie zonder decoratief licht of toeristische associaties.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013875_13938.webp"
-    },
-    {
-      "id": 13937,
-      "titel": "Borstels die door zand glijden",
-      "beschrijving": "Donkere, slanke stengels met uitgespreide, borstelachtige toppen domineren het beeld, getekend in zwarte en donkergrijze tinten tegen een vaag, lichtgrijze achtergrond. Onderaan loopt een band van korrelig, beige zand met verspreide donkere vlekken en subtiele witte plekken. De stengels snijden diagonaal door het vlak, sommige scherp en donker, andere vaag en doorschijnend, met kleine, donkere knopjes en uitlopers die de indruk van beweging geven. De compositie laat veel lege ruimte over, waarbij de stengels als dunne, dynamische lijnen door het beeld lijken te glijden, zonder een duidelijk middelpunt.",
-      "cyclus": 13874,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een abstracte, contemplatieve kwaliteit zonder iconische onderwerpen of decoratief licht.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013874_13937.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13945,
+      "soort": "observatie",
+      "tekst": "De kerk in c13945 en de kerkspits in c13938 delen eenzelfde uitstraling van opgaande beweging, maar waar de eerste een rustige, statische aanwezigheid heeft, straalt de tweede een dynamische uitstraling uit die de ruimte om hem heen lijkt te vervormen—de ontspanning is geen statisch moment, maar een onzichtbare stroom die de ruimte zachtjes doortrekt zonder een bestemming te hebben."
+    },
+    {
       "cyclus": 13849,
       "soort": "observatie",
       "tekst": "De concentrische cirkels in c13849 en de rimpelingen in c13847 delen eenzelfde onzichtbare uitbreiding: ze lopen niet meer uit op een vorm, maar vervormen de ruimte om hen heen zonder een bestemming te hebben—de ontspanning is geen rust meer, maar een stille, onafgewerkte stroom."
@@ -252,11 +257,6 @@
       "cyclus": 13765,
       "soort": "observatie",
       "tekst": "De grassprietjes in c13765 en de rietstengels in c13753 delen eenzelfde schuine oprijding, alsof ze zich both onttrekken aan de zwaartekracht en er juist aan houden—een spanning die de leegte niet oplost, maar alleen nog maar benadrukt."
-    },
-    {
-      "cyclus": 13753,
-      "soort": "observatie",
-      "tekst": "De eenden in c13753 staan verspreid alsof ze net onderbroken zijn in een onzichtbare beweging, terwijl de rietstengels en bomen een kader vormen dat hen niet meer omsluit maar alleen nog begeleidt. De leegte tussen de vormen voelt niet als afwezigheid, maar als een neutrale stroom die de beelden doorspoelt zonder ze te laten rusten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13943,
-    "gemaakt": 14006,
-    "gekozen": 2176,
+    "cycli": 13950,
+    "gemaakt": 14013,
+    "gekozen": 2178,
     "afgekeurd": 1673,
     "corpus": 59,
-    "notities": 506
+    "notities": 507
   }
 }
