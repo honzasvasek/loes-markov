@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T21:00+02:00",
+  "bijgewerkt": "2026-08-24T21:15+02:00",
   "werk": [
+    {
+      "id": 14176,
+      "titel": "Nagellak op zand en verf",
+      "beschrijving": "Twee handen met kort, ongelijkmatig nagellak raken een textuurrijk oppervlak aan, bestaande uit lagen beige en crèmekleurige verf met zichtbare penseelstreken. Tussen de handen door ligt een smalle strook zand, doorspekt met kleine, donkerbruine deeltjes en verspreide graankorrels. Twee droge, bruine grassprietjes met zachte, veerachtige toppen steken schuin uit het zand, geflankeerd door smalle, groene bladeren met een glanzende textuur. De verf toont onregelmatige, vloeiende vormen, alsof deze recent is aangebracht en nog niet volledig droog is. Kleine druppels verf en losse korrels zand liggen verspreid over het oppervlak, wat een gevoel van beweging en onafgemaktheid oproept. De compositie is symmetrisch opgebouwd rond de handen, met de grassprietjes die een diagonale lijn vormen die het beeld doorsnijdt. De sfeer is rustig en contemplatief, met een subtiele spanning tussen de zachte, organische vormen en de ruwe, textuurrijke achtergrond.",
+      "cyclus": 14113,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van zand vs. verf (zand lijkt te scherp, verf te glad)', 'lichte vervorming van vingers aan linkerhand (middelvinger te lang/smald)', 'kleine halo rond rand van rechterhand']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust asymmetrisch en de handen voelen als een persoonlijke, niet-toeristische aanraking.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014113_14176.webp"
+    },
+    {
+      "id": 14174,
+      "titel": "Groen dat fluistert door het hek",
+      "beschrijving": "Groen domineert het beeld, in alle varianten: donkergroene, blauwgroene en geelgroene grassprietjes vullen de voor- en middengrond, schuin opgaand en willekeurig door elkaar. Achter het gras loopt een houten hek met horizontale en verticale latten, deels verweerd, in bruine en beige tinten. Achter het hek verdwijnt het landschap in een onscherpe achtergrond van groen en vaag blauw, met hints van een lichtere horizon. Het licht valt schuin, waardoor sommige grassprietjes helder oplichten en andere in schaduw verdwijnen. Kleuren zijn verzadigd maar niet fel, met subtiele overgangen tussen de groentinten. De compositie is dynamisch door de diagonale lijnen van het gras en het hek, terwijl de achtergrond rustiger blijft. Geen figuren, geen duidelijke vormen buiten het gras en het hek.",
+      "cyclus": 14111,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van hekwerk', 'lichte wazigheid in achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een focus op details zonder duidelijke compositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014111_14174.webp"
+    },
     {
       "id": 14156,
       "titel": "Waar het zand zwijgt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014051_14114.webp"
-    },
-    {
-      "id": 14109,
-      "titel": "Rook die adert door wit papier",
-      "beschrijving": "Zwart en wit rookachtige vormen kronkelen door een lichte, korrelige achtergrond, met donkere, bijna inktachtige strepen die zich vermengen met fijnere, doorschijnende lijnen. Verspreide donkere vlekken en kleine stippen drijven door het beeld, sommige scherp, andere vervagen tot zachte cirkels. Een dunne, witte, vertakte lijn loopt diagonaal door het midden, omgeven door donkere, golvende structuren die aan vezels of aders doen denken. De compositie voelt ongestructureerd, met beweging die van linksboven naar rechtsonder lijkt te stromen, terwijl de randen van de vormen onregelmatig en vaag blijven.",
-      "cyclus": 14046,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, open compositie zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014046_14109.webp"
-    },
-    {
-      "id": 14093,
-      "titel": "Vingers die een vraag vasthouden",
-      "beschrijving": "Twee handen met lichtgekleurde huid strekken zich uit vanuit de linker- en rechterbovenhoek, vingers licht gebogen en指尖 bijna raakend in het midden. De nagels zijn kort en netjes, met subtiele schaduwen die de textuur van de huid benadrukken. De achtergrond bestaat uit fijn gestreept papier met een donkergrijze, bijna zwarte tint, waar een vaag, geometrisch patroon in de bovenste helft een V-vorm vormt. Onder de handen loopt een verticale, lichtere strook die de compositie doorsnijdt, met een textuur die doet denken aan verweerd hout of verbleekt canvas. Kleine, donkere vlekjes en onregelmatigheden in het papier geven een gevoel van verloop en tijd. De handen zijn gedetailleerd getekend met fijne lijnen die de plooien en aderen weergeven, terwijl de achtergrond meer vaag en textuurrijk is.",
-      "cyclus": 14030,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De handen zijn geen iconisch motief en de compositie heeft een eigen, subtiele spanning, geen ansichtkaart-licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014030_14093.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14112,
-    "gemaakt": 14174,
-    "gekozen": 2203,
+    "cycli": 14119,
+    "gemaakt": 14181,
+    "gekozen": 2205,
     "afgekeurd": 1700,
     "corpus": 60,
     "notities": 511
