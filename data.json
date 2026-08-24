@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T06:45+02:00",
+  "bijgewerkt": "2026-08-24T07:00+02:00",
   "werk": [
+    {
+      "id": 13797,
+      "titel": "De druppel die blijft hangen",
+      "beschrijving": "Een gladde, grijze oppervlakte domineert het beeld, met een zachte, golvende lijn die een vloeistof suggereert die langzaam naar beneden stroomt. Drie druppels hangen aan die lijn: twee kleine, schitterende bolletjes aan weerskanten en één grotere, heldere druppel die net loslaat en een subtiele schaduw werpt. De overgang tussen de lichte en donkere grijstinten is vloeiend, waardoor de druppels en de stroming een driedimensionale uitstraling krijgen. De achtergrond blijft egaal en ongestoord, waardoor de focus ligt op de delicate balans tussen beweging en stilte in de vloeistof.",
+      "cyclus": 13734,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte, minimalistische compositie zonder decoratief licht of toeristische associatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013734_13797.webp"
+    },
+    {
+      "id": 13794,
+      "titel": "Goud dat fluistert door schors",
+      "beschrijving": "Zes donkere, slanke stengels stijgen op uit een zandige, beige ondergrond, elk bekroond met een spitse, amandelvormige bloemknop. De knoppen zijn gedeeltelijk gevuld met een glinsterende, goudkleurige textuur, terwijl de randen donker en scherp getekend zijn. Witte, lijnachtige details lopen door de knoppen, alsof ze een interne structuur onthullen. Rond de basis van de stengels verspreidt zich een wazige, korrelige vlek van hetzelfde beige zand, met enkele donkere druppels en kleine, glinsterende deeltjes die willekeurig verspreid liggen. De achtergrond is egaal crèmekleurig, waardoor de donkere vormen en goudkleurige accenten scherp afsteken. De compositie is verticaal gericht, met de stengels die zich waaiervormig uitstrekken vanaf een gemeenschappelijk punt onderin.",
+      "cyclus": 13731,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met abstracte vormen en textuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013731_13794.webp"
+    },
     {
       "id": 13774,
       "titel": "Waar blijft de wind?",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013685_13748.webp"
-    },
-    {
-      "id": 13738,
-      "titel": "De val die niet komt",
-      "beschrijving": "Centraal hangt een donkere, glanzende druppel aan een dunne, rechte lijn, omringd door concentrische cirkels die als rimpels door water lijken. Boven de druppel zweeft een kleinere, ronde vorm met een lichte reflectie, alsof het een tweede druppel is die net los is gekomen. De achtergrond is egaal wit, waardoor de grijstinten van de druppels en rimpels scherp afsteken. De compositie is radiaal en symmetrisch, met de druppel als focuspunt. De sfeer is stil en gefocust, alsof het moment voor de val bevroren is.",
-      "cyclus": 13675,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte, meditatieve compositie zonder toeristische connotaties.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013675_13738.webp"
-    },
-    {
-      "id": 13735,
-      "titel": "Rode steel door zandgolven",
-      "beschrijving": "Zand met zachte, golvende patronen vult het beeld, doorsneden door een scherpe, rode steel die diagonaal van linksboven naar rechtsonder loopt. De steel is dun en puntig, met aan de linkerkant een bosje fijne, roodbruine prikkels die als verdorde grassprietjes uitsteken. De prikkels werpen een donkere, smalle schaduw op het zand, die de diagonale beweging versterkt. Het zand is lichtbeige met subtiele variaties in textuur, waarbij de golven parallel aan de steel lopen, alsof de wind ze recent heeft gevormd. De rode steel steekt scherp af tegen het neutrale zand, terwijl de prikkels een textuurcontrast vormen met hun fijne, onregelmatige vorm. Er is niets anders zichtbaar dan het zand, de steel en de prikkels, wat een gevoel van isolatie en stilte oproept.",
-      "cyclus": 13672,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013672_13735.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13738,
-    "gemaakt": 13800,
-    "gekozen": 2144,
+    "cycli": 13745,
+    "gemaakt": 13807,
+    "gekozen": 2146,
     "afgekeurd": 1653,
-    "corpus": 60,
+    "corpus": 59,
     "notities": 500
   }
 }
