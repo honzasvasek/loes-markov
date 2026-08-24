@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T15:15+02:00",
+  "bijgewerkt": "2026-08-24T15:30+02:00",
   "werk": [
     {
       "id": 14024,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14039,
+      "cyclus": 13976,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een ongemakkelijke, bijna willekeurige verdeling van eenden die geen typisch ansichtkaartmotief vormt.",
+      "bestand": "images/a013976_14039.webp"
+    },
+    {
       "id": 14025,
       "cyclus": 13962,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: twee kinderen die hand in hand door een idyllisch landschap lopen, met een perfecte compositie en zacht licht dat geen eigen standpunt veronderstelt.",
       "bestand": "images/a013960_14023.webp"
-    },
-    {
-      "id": 14017,
-      "cyclus": 13954,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van huizen aan horizon', 'lichte wazigheid in tekstuur van boombladeren']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een rustig dorp met zee op de achtergrond, met decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a013954_14017.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13972,
-    "gemaakt": 14034,
+    "cycli": 13978,
+    "gemaakt": 14040,
     "gekozen": 2182,
-    "afgekeurd": 1676,
-    "corpus": 61,
+    "afgekeurd": 1677,
+    "corpus": 62,
     "notities": 507
   }
 }
