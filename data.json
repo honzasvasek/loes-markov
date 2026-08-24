@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T15:00+02:00",
+  "bijgewerkt": "2026-08-24T15:15+02:00",
   "werk": [
+    {
+      "id": 14024,
+      "titel": "Gras dat de horizon omlijst",
+      "beschrijving": "Zandduinen vullen het middenplan, met zachte, golvende lijnen die overgaan in een vaag horizonvlak. Drie groepen donkerbruin gras steken scherp en diagonaal uit het zand, waarbij de hoogste stengels aan weerskanten de compositie lijken te omlijsten. Kleine, donkere vlekken—misschien steentjes of modder—zijn verspreid over het zand, vooral bij de basis van het gras. De achtergrond bestaat uit een lichtgrijze, korrelige textuur die een verlaten, droge sfeer uitstraalt. De randen van het beeld zijn onregelmatig en iets donkerder, alsof het papier is verscheurd of verbleekt. De kleuren zijn beperkt tot beige, bruin en grijs, met een subtiele textuur die aan verweerd papier doet denken.",
+      "cyclus": 13961,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met ruimte en details die niet typisch zijn voor een toeristische ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013961_14024.webp"
+    },
+    {
+      "id": 14021,
+      "titel": "Sporen van een vergeten reis",
+      "beschrijving": "Zand vormt een gelijkmatige, lichtbeige achtergrond met subtiele textuurvariaties. Een donkere, slanke steel loopt diagonaal door het beeld, met daaruit vertakkende takjes die kleine, donkere bloemhoofdjes en bladeren dragen. De bloemhoofdjes zijn bolvormig met prikkels, de bladeren variëren van lancetvormig tot gesegmenteerd. Sommige delen zijn scherp getekend, andere vervagen in het zand. Donkere vlekken en sporen lopen parallel aan de steel, alsof iets langs het zand is getrokken. Het licht valt schuin, waardoor zachte schaduwen de diepte benadrukken. Geen beweging, geen geluid—alleen de stilstaande, bijna fossiele indruk van een plant die in het zand is gedrukt.",
+      "cyclus": 13958,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp (een plant op zand) is niet iconisch en de compositie heeft een eigen, subtiele dynamiek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013958_14021.webp"
+    },
     {
       "id": 14013,
       "titel": "Gras dat kust wat huid raakt",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013910_13973.webp"
-    },
-    {
-      "id": 13968,
-      "titel": "Bijna aanraking tussen drie werelden",
-      "beschrijving": "Drie handen vullen het beeld in een driehoekige opstelling tegen een egale, lichtgrijze achtergrond. Twee handen reiken naar elkaar, met de vingers bijna raakend, terwijl de derde hand onderaan de andere twee omvat. De huidtonen variëren van warm bruin tot koel beige, met zichtbare aderen en textuur in de vingers en handpalmen. De nagels zijn kort en natuurlijk. Het licht valt schuin van bovenaf, waardoor zachte schaduwen de vormen benadrukken en de diepte versterken. De compositie straalt een spanning uit tussen aanraking en afstand, met de handen die elkaar bijna, maar niet helemaal raken.",
-      "cyclus": 13905,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar toont een dynamische interactie tussen handen zonder typisch ansichtkaart-motief.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013905_13968.webp"
-    },
-    {
-      "id": 13966,
-      "titel": "Waar het zand zacht blijft staan",
-      "beschrijving": "Zandduinen strekken zich uit in zachte, golvende lijnen, doorsneden door smalle, kronkelende paden die verdwijnen in de horizon. Verspreide keizers en kleine stenen liggen verspreid over het zand, terwijl lange, slanke rietstengels aan weerskanten van het beeld de scène omkaderen. De schaduwen van het riet vallen scherp en diagonaal over het zand, wat een gevoel van diepte en beweging toevoegt aan het landschap. De textuur van het zand is fijn en gedetailleerd, met subtiele variaties in licht en donker die de overgang tussen de duinen benadrukken. De achtergrond vervaagt langzaam naar een egaal, lichtgrijs vlak, waardoor de focus ligt op de textuur en vorm van het zand en het riet in het voor- en middengedeelte.",
-      "cyclus": 13903,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is subtiel en niet typisch ansichtkaart-materiaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013903_13966.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13965,
-    "gemaakt": 14027,
-    "gekozen": 2180,
+    "cycli": 13972,
+    "gemaakt": 14034,
+    "gekozen": 2182,
     "afgekeurd": 1676,
-    "corpus": 60,
+    "corpus": 61,
     "notities": 507
   }
 }
