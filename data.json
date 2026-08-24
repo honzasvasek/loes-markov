@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T14:45+02:00",
+  "bijgewerkt": "2026-08-24T15:00+02:00",
   "werk": [
     {
       "id": 14013,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 14025,
+      "cyclus": 13962,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflecties op water (bomen links/rechts niet 1-op-1)', 'lichte wazigheid in achtergrondboombladeren']",
+      "cliche_notities": "Molens, gracht en wilgen in een idyllisch landschap vormen een klassiek Nederlands ansichtkaartmotief zonder onverwachte compositorische keuzes.",
+      "bestand": "images/a013962_14025.webp"
+    },
+    {
+      "id": 14023,
+      "cyclus": 13960,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: twee kinderen die hand in hand door een idyllisch landschap lopen, met een perfecte compositie en zacht licht dat geen eigen standpunt veronderstelt.",
+      "bestand": "images/a013960_14023.webp"
+    },
+    {
       "id": 14017,
       "cyclus": 13954,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van huizen aan horizon', 'lichte wazigheid in tekstuur van boombladeren']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een rustig dorp met zee op de achtergrond, met decoratief licht en geen duidelijke compositorische keuze.",
       "bestand": "images/a013954_14017.webp"
-    },
-    {
-      "id": 13994,
-      "cyclus": 13931,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de takken van de bomen: sommige takken lijken zonder logische reden abrupt te eindigen', 'De textuur van de grond is wat wazig en mist duidelijke details']",
-      "cliche_notities": "Dit beeld past bij de categorie 'toeristische ansichtkaart' door het iconische onderwerp (een molen tussen bomen) en de decoratieve, rustige compositie zonder sterke persoonlijke keuze.",
-      "bestand": "images/a013931_13994.webp"
-    },
-    {
-      "id": 13993,
-      "cyclus": 13930,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch zonsonderganglandschap, perfecte belichting en geen duidelijke compositorische keuze beyond het klassieke kader.",
-      "bestand": "images/a013930_13993.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13958,
-    "gemaakt": 14020,
+    "cycli": 13965,
+    "gemaakt": 14027,
     "gekozen": 2180,
-    "afgekeurd": 1674,
+    "afgekeurd": 1676,
     "corpus": 60,
     "notities": 507
   }
