@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T00:00+02:00",
+  "bijgewerkt": "2026-08-25T00:15+02:00",
   "werk": [
     {
       "id": 14257,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14263,
+      "cyclus": 14200,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een mistig landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014200_14263.webp"
+    },
+    {
       "id": 14253,
       "cyclus": 14190,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "geen significante generatie-artefacten, lichte onnauwkeurigheid in de proporties van de wieken",
       "cliche_notities": "Molen in landschap is een klassiek iconisch onderwerp zonder duidelijke compositorische keuze of eigen standpunt",
       "bestand": "images/a014188_14251.webp"
-    },
-    {
-      "id": 14232,
-      "cyclus": 14169,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van het waterpad', 'enkele wazige details in de achtergrondvegetatie']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een typisch Nederlands landschap met een gracht en bloemen, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014169_14232.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14198,
-    "gemaakt": 14260,
+    "cycli": 14206,
+    "gemaakt": 14268,
     "gekozen": 2219,
-    "afgekeurd": 1708,
+    "afgekeurd": 1709,
     "corpus": 61,
     "notities": 515
   }
