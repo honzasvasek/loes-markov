@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-24T04:15+02:00",
+  "bijgewerkt": "2026-08-24T04:30+02:00",
   "werk": [
+    {
+      "id": 13729,
+      "titel": "Wat blijft van de cirkel",
+      "beschrijving": "Een zandlandschap met een perfecte, ingekrastе cirkel. Het zand is fijn en gelijkmatig, met een zachte, beige tint die de hele compositie domineert. De cirkel loopt schuin door het beeld, met een subtiele schaduw aan de bovenkant die diepte suggereert. Binnen de cirkel is het zand iets donkerder en textuurrijker, alsof het recent is aangeraakt. Kleine, donkere stipjes liggen verspreid langs de rand van de cirkel, bijna onzichtbaar tegen de monochrome achtergrond. De leegte rondom de cirkel is absoluut, zonder afleiding, waardoor de focus ligt op de eenvoudige, maar krachtige vorm.",
+      "cyclus": 13666,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013666_13729.webp"
+    },
     {
       "id": 13715,
       "titel": "Huid met geheime kaart",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013601_13664.webp"
-    },
-    {
-      "id": 13662,
-      "titel": "Rood dat de lucht inkaapt",
-      "beschrijving": "Een boom met donkere, slanke takken domineert het midden, omringd door een explosie van rode en roze penseelstrepen die bladeren en vallend loof suggereren. De achtergrond is een zachtblauwe, bijna witte vlakte met subtiele textuur, terwijl de grond onder de boom een mengsel is van rood, geel en groen met onregelmatige, dynamische vormen. Rode vlekken en druppels verspreiden zich door het beeld, alsof ze in de lucht zweven of op de grond liggen. De compositie is verticaal gericht, met de boomstam die zich opstrekt naar een kroon die het bovenste deel van het beeld vult. De kleuren zijn levendig en contrasterend, met de rode tinten die fel afsteken tegen de koele achtergrond.",
-      "cyclus": 13599,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de boom als centraal motief, maar de stijl en kleurkeuze gaan verder dan een typische ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013599_13662.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 13667,
-    "gemaakt": 13730,
-    "gekozen": 2133,
+    "cycli": 13674,
+    "gemaakt": 13736,
+    "gekozen": 2134,
     "afgekeurd": 1647,
     "corpus": 60,
     "notities": 496
