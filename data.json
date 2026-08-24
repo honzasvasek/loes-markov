@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T11:45+02:00",
+  "bijgewerkt": "2026-08-24T12:00+02:00",
   "werk": [
+    {
+      "id": 13931,
+      "titel": "Waar blijft de weg?",
+      "beschrijving": "Een figuur in donkerblauwe kleding zit op een kleine blauwe stoel op een roodbruine vloer, met de rug naar de kijker, gericht op een smal, wit pad dat loopt naar een lichtroze huis met een rood dak. Rechts van de figuur staan een gele kan met blauwe steel, een blauwe kop en een groene, omgevallen vat op de vloer. Achter de figuur rijzen vier donkergroene, slanke cactusachtige bomen op uit een geelgroen veld, terwijl de achtergrond een effen lichtblauwe hemel toont met een vaag, gebogen spoor. Het huis heeft twee kleine, rechthoekige ramen en een donkerrode deur, en een kleine, donkergroene struik staat links ervan. De scène wordt omlijst door een subtiele, onregelmatige rand van ongeschilderd doek.",
+      "cyclus": 13868,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief perfect.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013868_13931.webp"
+    },
+    {
+      "id": 13929,
+      "titel": "De gum die bleef steken",
+      "beschrijving": "Een potloodtekening toont een rustig waterlandschap met riet en gras aan weerskanten van een smalle waterloop. Links staan hoge, slanke rietstengels met zachte, waaierachtige toppen, terwijl rechts korter, slanker gras de oever bevolkt. Het water weerspiegelt subtiele golven en loopt over in een zandige, met keien en stukken hout begane oever. Op de achtergrond liggen zacht gecontureerde heuvels onder een effen, lichtgrijze hemel. Rechtsonder rust een donker, rechthoekig voorwerp met een afgeronde hoek—een gum—schuin op de tekening, deels buiten het beeld. De tekening is gedetailleerd, met fijne lijnen en schaduwen die textuur en diepte geven, terwijl de compositie een gevoel van stilte en verlatenheid uitstraalt.",
+      "cyclus": 13866,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van water (beneden vs. boven)', 'lichte wazigheid in verre heuvels']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op subtiele spanning tussen leegte en detail, niet op een bevestigend landschap.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013866_13929.webp"
+    },
     {
       "id": 13912,
       "titel": "Rood dat ademhaalt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013807_13870.webp"
-    },
-    {
-      "id": 13865,
-      "titel": "Wit dat het groen doorbreekt",
-      "beschrijving": "Een doorschijnend blad met een fijn adernetwerk ligt schuin door het beeld, bedekt met een witte, kristallijne laag die de randen en aders volgt. De textuur is korrelig en prikkelig, met kleine uitsteeksels die de overgang naar het groene gras in de achtergrond benadrukken. Het gras bestaat uit smalle, langwerpige bladeren in verschillende groentinten, sommige scherp in focus, andere onscherp en vaag. Een enkele gele steel steekt er tussen uit. Het licht valt zacht, waardoor de details van het blad en de omringende vegetatie duidelijk zichtbaar zijn. De compositie is dicht en intim, met het blad als centraal element dat de kijker door het beeld leidt.",
-      "cyclus": 13802,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het toont een close-up van een bevroren blad met een abstracte, bijna sculpturale kwaliteit, zonder iconisch of decoratief karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013802_13865.webp"
-    },
-    {
-      "id": 13856,
-      "titel": "Metaal tussen de resten",
-      "beschrijving": "Twee verbrande houten blokken liggen op donkere, korrelige aarde, omringd door houtskool, naalden en kleine witte deeltjes. Tussen de blokken steekt een glanzend, metalen voorwerp met een schuine, rechthoekige vorm en scherpe randen. Het metaal reflecteert het licht en contrasteert met de ruwe, verweerde textuur van het hout en de aarde. De compositie is dicht en dynamisch, met de houten blokken die diagonaal door het beeld lopen en het metaal dat daartegen aanligt. De sfeer is donker en textuurrijk, met een spel van licht en schaduw dat de details van het verbrande hout en het glanzende metaal benadrukt.",
-      "cyclus": 13793,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een ongebruikelijke combinatie van materialen met een sterke compositorische keuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013793_13856.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 13869,
-    "gemaakt": 13931,
-    "gekozen": 2164,
+    "cycli": 13877,
+    "gemaakt": 13939,
+    "gekozen": 2166,
     "afgekeurd": 1665,
     "corpus": 61,
     "notities": 506
