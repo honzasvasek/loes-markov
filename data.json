@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T03:00+02:00",
+  "bijgewerkt": "2026-08-24T03:15+02:00",
   "werk": [
+    {
+      "id": 13696,
+      "titel": "Zandkorrels die liegen",
+      "beschrijving": "Donkere, onregelmatige blokken liggen verspreid op een zandige ondergrond, omgeven door slanke, groene grasachtige planten met gele en grijze tinten. Kleine zwarte steentjes en losse zandkorrels bevinden zich rond de blokken, die een ruwe, getextureerde uitstraling hebben met zichtbare penseelstreken. De achtergrond is een egale, lichte kleur, waardoor de donkere blokken en de subtiele details van het zand en de planten sterk contrasteren. De compositie is asymmetrisch, met de blokken集中在 de linkeronderhoek en de planten die zich uitstrekken naar de rechterkant en bovenkant van het beeld.",
+      "cyclus": 13633,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van gras aan linker- en rechterkant', 'lichte halo rond sommige kolenblokken bij hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een rustige, onopgesmakte compositie zonder duidelijke narratieve intentie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013633_13696.webp"
+    },
+    {
+      "id": 13692,
+      "titel": "Aderlijke verbinding met het gras",
+      "beschrijving": "Een naakt lichaam rust in groen gras, met gebogen benen en een zichtbare borst en buik. Translucent, aderachtige structuren lopen door het gras en over het been, alsof ze uit de huid ontspringen. De compositie wordt onderbroken door scheurvormige witte randen die het beeld in verticale segmenten verdelen, tegen een egale beige achtergrond. Het gras is dicht en textuurrijk, met individuele bladeren die de huid raken. De sfeer is stil en intiem, met een focus op de overgang tussen lichaam en natuur.",
+      "cyclus": 13629,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de overgang tussen de gescheurde papierrand en de achtergrond, waarbij de schaduw wat artificieel lijkt', 'De textuur van het gras is in sommige delen wat wazig en mist detail, vooral in de donkerdere zones']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en de compositie is niet decoratief perfect, maar toont een bewuste keuze voor afwezigheid en spanning tussen vorm en leegte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013629_13692.webp"
+    },
     {
       "id": 13684,
       "titel": "Verf die groeit uit papier",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013577_13640.webp"
-    },
-    {
-      "id": 13634,
-      "titel": "Korrelige onderbreking",
-      "beschrijving": "Zachte, korrelige lijnen lopen diagonaal door een effen, lichtgrijze ruimte, getekend met een donkere, korrelige stof die lijkt op kool of potlood. Vijf donkere, onregelmatige blokken, getekend met dezelfde stof, liggen verspreid langs de lijnen, waarbij sommige blokken de lijnen raken of kruisen. De lijnen en blokken vormen een losse, asymmetrische structuur die de ruimte in verschillende segmenten verdeelt, zonder een duidelijke richting of patroon. De achtergrond blijft glad en ongestoord, waardoor de korrelige textuur van de lijnen en blokken extra opvalt. De compositie voelt statisch, maar de onregelmatigheden in de lijnen en blokken geven een gevoel van beweging alsof de vorming net is onderbroken.",
-      "cyclus": 13571,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met een eigen compositorische keuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013571_13634.webp"
-    },
-    {
-      "id": 13620,
-      "titel": "Lijnen die liegen",
-      "beschrijving": "Grijze en witte lijnen vullen het beeld in een chaotisch maar harmonieus patroon, waarbij dunne, kronkelende vormen zich vermengen met bredere, vloeiende banen. Donkere achtergronden laten subtiele textuur zien, alsof er iets verborgens onder de oppervlakte speelt. Sommige lijnen stralen uit vanuit een onzichtbaar middelpunt, terwijl andere willekeurig door het beeld snijden, waardoor een gevoel van beweging ontstaat zonder duidelijke richting. De contrasten tussen licht en donker creëren diepte, alsof de lijnen in lagen boven elkaar liggen, soms scherp, soms vervagen in de verte. Er is geen duidelijk onderwerp, maar de samenstelling roept een gevoel van onrustige balans op, alsof het beeld vastgelegd is op het moment net na een plotselinge beweging.",
-      "cyclus": 13557,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele herhaling van lijnpatronen in middenvlak', 'lichte wazigheid in donkerste schaduwen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013557_13620.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13699,
+      "cyclus": 13636,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de perspectief van de bomen aan de horizon, wat de diepte van het landschap iets verstoort.', 'Enkele vogels hebben iets onnatuurlijke proporties, met te korte of te lange snavels en poten.']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met het idyllische landschap, de vogels in vlucht en de harmonieuze kleuren, zonder een duidelijke persoonlijke of compositorische keuzes.",
+      "bestand": "images/a013636_13699.webp"
+    },
+    {
+      "id": 13697,
+      "cyclus": 13634,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van golven aan horizon', 'lichte wazigheid in detail van gras aan rechterrand']",
+      "cliche_notities": "Dit is een typisch ansichtkaartmotief: een serene kustlijn met golven en gras, geschilderd in een decoratieve, realistische stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013634_13697.webp"
+    },
     {
       "id": 13695,
       "cyclus": 13632,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met zandduinen en typische vegetatie, gecombineerd met een decoratief licht en een klassieke compositie zonder duidelijke persoonlijke keuzes.",
       "bestand": "images/a013632_13695.webp"
-    },
-    {
-      "id": 13676,
-      "cyclus": 13613,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld heeft een surrealistische, niet-iconische compositie met een focus op abstracte structuren en texturen, geen toeristisch onderwerp.",
-      "bestand": "images/a013613_13676.webp"
-    },
-    {
-      "id": 13669,
-      "cyclus": 13606,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde karakters', 'onrealistische vlammen', 'inconsistent perspectief']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
-      "bestand": "images/a013606_13669.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13632,
-    "gemaakt": 13695,
-    "gekozen": 2127,
-    "afgekeurd": 1643,
-    "corpus": 61,
+    "cycli": 13640,
+    "gemaakt": 13703,
+    "gekozen": 2129,
+    "afgekeurd": 1645,
+    "corpus": 63,
     "notities": 496
   }
 }
