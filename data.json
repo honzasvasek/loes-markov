@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T15:45+02:00",
+  "bijgewerkt": "2026-08-24T16:00+02:00",
   "werk": [
     {
       "id": 14044,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 14049,
+      "cyclus": 13986,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele vervorming in vleugels van verre vogels', 'lichte inconsistentie in grasstructuren aan horizon']",
+      "cliche_notities": "Landschap met vogels in vlucht en golvend gras is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
+      "bestand": "images/a013986_14049.webp"
+    },
+    {
+      "id": 14047,
+      "cyclus": 13984,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met molen en water, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013984_14047.webp"
+    },
+    {
       "id": 14039,
       "cyclus": 13976,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een ongemakkelijke, bijna willekeurige verdeling van eenden die geen typisch ansichtkaartmotief vormt.",
       "bestand": "images/a013976_14039.webp"
-    },
-    {
-      "id": 14025,
-      "cyclus": 13962,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflecties op water (bomen links/rechts niet 1-op-1)', 'lichte wazigheid in achtergrondboombladeren']",
-      "cliche_notities": "Molens, gracht en wilgen in een idyllisch landschap vormen een klassiek Nederlands ansichtkaartmotief zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a013962_14025.webp"
-    },
-    {
-      "id": 14023,
-      "cyclus": 13960,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: twee kinderen die hand in hand door een idyllisch landschap lopen, met een perfecte compositie en zacht licht dat geen eigen standpunt veronderstelt.",
-      "bestand": "images/a013960_14023.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13984,
-    "gemaakt": 14046,
+    "cycli": 13991,
+    "gemaakt": 14054,
     "gekozen": 2184,
-    "afgekeurd": 1677,
+    "afgekeurd": 1679,
     "corpus": 61,
     "notities": 507
   }
