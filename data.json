@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T08:15+02:00",
+  "bijgewerkt": "2026-08-24T08:30+02:00",
   "werk": [
+    {
+      "id": 13835,
+      "titel": "Zwart snijdt wit door",
+      "beschrijving": "Zwart en grijs vormen een chaotisch patroon van strepen, vlekken en spetters tegen een witte achtergrond. Donkere, scherpe lijnen snijden door zachte, vaagere vormen, terwijl kleine, donkere cirkels en onregelmatige klompen verspreid liggen. Een takje met zaag tandenachtige bladeren steekt scherp uit tegen de wazige achtergrond, omgeven door wat lijkt op verwaterde penseelstreken en fijne, uitstralende draden. De compositie voelt ongelijkmatig en dynamisch, met een spanning tussen de harde, donkere elementen en de lichte, open ruimtes.",
+      "cyclus": 13772,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013772_13835.webp"
+    },
+    {
+      "id": 13831,
+      "titel": "Getande vertakkingen in wit",
+      "beschrijving": "Zwart-wit beeld met een centrale, verticale steel die zich vertakt in meerdere donkere, getande lijnen. Rondom deze structuur bevinden zich vaag omschreven, doorschijnende vormen die aan bladeren of petalen doen denken, met subtiele schakeringen van grijs en donkere vlekken. De randen van de vormen zijn onregelmatig en soms onscherp, terwijl de achtergrond volledig wit is, waardoor de donkere elementen scherp afsteken. De compositie is asymmetrisch, met de steel als leidende lijn die het oog door het beeld leidt.",
+      "cyclus": 13768,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond donkere stengels tegen witte achtergrond', 'lichte inconsistentie in textuur van bladeren (boven/onder)', 'geen duidelijke hands/gezichten/tekst']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en niet gericht op een herkenbaar tafereel.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013768_13831.webp"
+    },
     {
       "id": 13828,
       "titel": "Zaadhoofdjes in roze stilte",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013710_13773.webp"
-    },
-    {
-      "id": 13762,
-      "titel": "Rood dat zich onthoudt",
-      "beschrijving": "Een vaag, grijswit vlak domineert het beeld, omringd door een onregelmatige rode rand die de hoeken zachtjes omvat. Het midden is homogeen en zonder duidelijke structuren, terwijl de rode rand subtiel varieert in intensiteit, met plekken die donkerder of lichter rood zijn. Er zijn geen herkenbare vormen, texturen of details te bespeuren binnen het grijze vlak, en de overgang tussen de rode rand en het grijze deel is onscherp en vloeiend. De compositie is statisch en laat geen sporen van beweging of diepte zien.",
-      "cyclus": 13699,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013699_13762.webp"
-    },
-    {
-      "id": 13761,
-      "titel": "Rook in roze golven",
-      "beschrijving": "Een zachte, roze achtergrond vult het beeld, doorsneden door een donkerrode, rokerige vorm die zich in golven uitstrekt van linksboven naar rechtsonder. De vorm bestaat uit dunne, doorschijnende lagen die zich overlappen en langzaam vervagen naar de randen, waardoor een gevoel van beweging ontstaat. De overgang tussen de donkerdere en lichtere delen is vloeiend, zonder scherpe randen. De ruimte rond de rokerige vorm blijft egale, zonder afleiding, waardoor de focus ligt op de subtiele dynamiek van de lijnen en de kleurverschillen binnen de roze en roodbruine tinten.",
-      "cyclus": 13698,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, subtiele vormtaal zonder bevestigend karakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013698_13761.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 13775,
-    "gemaakt": 13838,
-    "gekozen": 2150,
+    "cycli": 13778,
+    "gemaakt": 13840,
+    "gekozen": 2152,
     "afgekeurd": 1658,
     "corpus": 60,
     "notities": 502
