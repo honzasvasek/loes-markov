@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T20:30+02:00",
+  "bijgewerkt": "2026-08-24T20:45+02:00",
   "werk": [
+    {
+      "id": 14156,
+      "titel": "Waar het zand zwijgt",
+      "beschrijving": "Zand vormt een spiraal die zich naar binnen toe verkleint, met zachte, golvende lijnen die de overgang vormen tussen warme beige en koelblauwe tinten. In het midden bevindt zich een donkerblauwe holte, omringd door fijne, parallelle richels die de indruk wekken van bewogen zand. De randen van de spiraal worden onderbroken door kleine, donkere vlekken, alsof iets het zand heeft aangeraakt. De achtergrond bestaat uit een gladde, lichtblauwe vlakte die overgaat in de zandkleuren, terwijl de voorgrond zandduinen toont met subtiele schaduwen die de textuur benadrukken. De compositie straalde rust uit, met een focus op de vloeiende beweging van het zand en de contrasten tussen licht en donker.",
+      "cyclus": 14093,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een abstracte, dynamische compositie zonder iconische of bevestigende onderwerpen, en toont een eigen compositorische keuze met de spiraalvormige structuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014093_14156.webp"
+    },
+    {
+      "id": 14154,
+      "titel": "Drie handen, één steel",
+      "beschrijving": "Drie handen met lichtgekleurde nagels houden een dunne, bruine steel van droog gras vast, waarbij de vingers zachtjes de steel omklemmen. Bovenaan de steel zitten fijne, prikkeldraadachtige bloemkoppen met een lichtbruine tot beige tint. De achtergrond bestaat uit een onscherp zandig oppervlak met verspreide, verticale stengels van droog gras en enkele dunne, rechte stengels die diagonaal door het beeld lopen. Een deel van een zwarte mouw is zichtbaar aan de rechteronderkant. De kleuren zijn gedempt, met overwegend beige, bruin en zandige tinten, en de sfeer is rustig en gefocust op de tactiele interactie tussen handen en plant.",
+      "cyclus": 14091,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de vingers van de onderste hand: de wijsvinger lijkt onnatuurlijk gekromd en mist een duidelijke overgang naar de nagel.', 'Subtiele halo rond de rand van de droge grasspriet tegen de achtergrond, vooral bij het dunste deel van de steel.']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een intieme, niet-iconische compositie met een focus op de handen en het fragile moment van aanraking, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014091_14154.webp"
+    },
     {
       "id": 14139,
       "titel": "Vingers die de horizon vasthouden",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014030_14093.webp"
-    },
-    {
-      "id": 14092,
-      "titel": "Papier dat ademt",
-      "beschrijving": "Zachte, doorschijnende kleurvlekken vullen het vlak, met subtiele overgangen tussen roze, lichtblauw, beige en groenachtige tinten. De vormen zijn organisch en onregelmatig, alsof ze door water zijn getrokken, met vaag omlijnde randen die in elkaar opgaan. Een dunne, verticale lijn loopt door het midden, licht blauw getekend, en suggereert een onzichtbare as. Witte ruimtes tussen de kleuren geven de indruk van lucht of papier dat niet volledig bedekt is. De sfeer is kalm en zwevend, zonder duidelijke focus of richting.",
-      "cyclus": 14029,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met subtiele kleurvlakken en ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014029_14092.webp"
-    },
-    {
-      "id": 14081,
-      "titel": "Sprieten in het zand </thought>",
-      "beschrijving": "Twee bundels donker, spriettig gras steken uit een zandige heuvel, met lange, slanke bladeren die scherp afsteken tegen een egale, crèmekleurige achtergrond. Het zand heeft een korrelige textuur en wordt doorsneden door subtiele, golvende lijnen die diepte suggereren. Donkere vlekken en kleine steentjes zijn verspreid over het zand, vooral bij de basis van het gras. De compositie is asymmetrisch, met de grasbundels aan weerskanten en een brede, lege ruimte ertussenin die de blik naar boven leidt. De sfeer is rustig en minimalistisch, met een focus op de contrasten tussen de donkere vormen en de lichte, open ruimte.",
-      "cyclus": 14018,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een minimalistische compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014018_14081.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14162,
+      "cyclus": 14099,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch strandlandschap met perfecte belichting en een klassieke compositie zonder duidelijke persoonlijke keuzes.",
+      "bestand": "images/a014099_14162.webp"
+    },
     {
       "id": 14160,
       "cyclus": 14097,
@@ -150,15 +159,6 @@
       "tech_notities": "['Enkele bomen hebben lichte vervormingen in de takken, wat typisch is voor generatieve stijl-nabootsing', 'De overgang tussen sneeuw en donkere vegetatie is op sommige plekken wat wazig, maar niet storend']",
       "cliche_notities": "Dit is een klassiek berglandschap met sneeuw, bomen en heuvels, geschilderd in een traditionele inktstijl die sterk doet denken aan een ansichtkaart van de Alpen of een Aziatische bergstreek.",
       "bestand": "images/a014086_14149.webp"
-    },
-    {
-      "id": 14145,
-      "cyclus": 14082,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "tekst/tekens in beeld",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en inktvlekken.",
-      "bestand": "images/a014082_14145.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14098,
-    "gemaakt": 14160,
-    "gekozen": 2201,
-    "afgekeurd": 1699,
+    "cycli": 14104,
+    "gemaakt": 14166,
+    "gekozen": 2203,
+    "afgekeurd": 1700,
     "corpus": 60,
     "notities": 511
   }
