@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T17:00+02:00",
+  "bijgewerkt": "2026-08-24T17:15+02:00",
   "werk": [
+    {
+      "id": 14076,
+      "titel": "De witte rand die blijft staan",
+      "beschrijving": "Een effen, lichtgrijze vlak vult het grootste deel van het beeld, omlijst door een onregelmatige witte rand die de hoeken en randen van een rechthoek suggereert. De witte lijnen zijn aan de linker- en bovenkant duidelijker en iets breder dan aan de rechter- en onderkant, waar ze nauwelijks zichtbaar zijn. Het oppervlak heeft een subtiele textuur, alsof het papier of doek is, met lichte schaduwen die een zachte driedimensionaliteit geven. Er zijn geen andere vormen, kleuren of details aanwezig; de compositie is extreem minimalistisch en rustig, met de witte rand als enige onderbreking van de homogeneous grijze ruimte. De sfeer is neutraal en open, zonder duidelijke focus of beweging.",
+      "cyclus": 14013,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de leegte is actief en niet bedoeld als bevestigend landschap.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014013_14076.webp"
+    },
+    {
+      "id": 14070,
+      "titel": "Donkere sprieten in golvend zand",
+      "beschrijving": "Drie slanke, donkere grassprietjes rijzen op uit een golvend oppervlak van zand of nat grind, getekend met fijne, vloeiende lijnen die de beweging van wind of water suggereren. De achtergrond is een egaal, lichtgrijs vlak zonder details, waardoor de focus ligt op de contrasten tussen de donkere vegetatie en de lichte, golvende textuur eronder. Enkele kleine, donkere vlekken in het zand breken de soepelheid van de golven, terwijl de grassprietjes zelf een subtiele asymmetrie vertonen: één sprieter is langer en buigt zachtjes, de andere twee staan rechter en zijn korter. De compositie is verticaal opgebouwd, met de planten aan de linkerkant en de golven die diagonaal naar rechtsbeneden lopen, waardoor een gevoel van rustige dynamiek ontstaat.",
+      "cyclus": 14007,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, abstracte compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014007_14070.webp"
+    },
     {
       "id": 14064,
       "titel": "Wat overblijft van een kruis",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013958_14021.webp"
-    },
-    {
-      "id": 14013,
-      "titel": "Gras dat kust wat huid raakt",
-      "beschrijving": "Een naakt vrouwelijk lichaam ligt op zijn rug in hoog gras, het bovenlichaam licht opgeheven, armen gestrekt boven het hoofd. De borsten en buikspieren zijn gedetailleerd getekend, met donkere tepels en een navel. Het haar is donker, krullend en valt over de schouders. Het gras omringt het lichaam, met lange, smalle bladeren die in verschillende richtingen staan, sommige raken de huid. De achtergrond bestaat uit vaag getekende vegetatie, met wat donkere vlekken die mogelijk bladeren of schaduwen zijn. De tekening is in grijstinten, met fijne lijnen en schakeringen die textuur en diepte geven. Het licht valt van linksboven, waardoor de contouren van het lichaam en het gras duidelijk zichtbaar zijn.",
-      "cyclus": 13950,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van het lichaam ten opzichte van het gras', 'lichte wazigheid in de achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een intieme, niet-iconische compositie met een focus op de subtiele interactie tussen lichaam en natuur, geen typisch ansichtkaartmotief.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013950_14013.webp"
-    },
-    {
-      "id": 14009,
-      "titel": "Donkere vlekken in beweging",
-      "beschrijving": "Donkere, bijna zwarte takken en bladeren tegen een egale, lichtbeige achtergrond. De takken lopen diagonaal van linksboven naar rechtsonder, met kleine, langwerpige bladeren die als donkere vlekken aan de takken zitten. Sommige bladeren hebben een zachte, vaagere rand, alsof ze in beweging zijn. Fijne, harige structuren zijn zichtbaar op de takken en bladeren, met kleine, donkere knopjes verspreid door het beeld. De compositie laat veel lege ruimte over aan de rechterkant en onderaan, waardoor de takken een zwevende indruk maken. De sfeer is rustig en stil, met een subtiele spanning tussen de donkere vormen en de lichte achtergrond.",
-      "cyclus": 13946,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is niet iconisch of bevestigend, en de compositie toont bewuste keuzes met ruimte en detail, niet alleen decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013946_14009.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14079,
+      "cyclus": 14016,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde kaartstructuur', 'inconsistent perspectief kaart', 'wazige details in kaart']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, niet-verhalende compositie.",
+      "bestand": "images/a014016_14079.webp"
+    },
     {
       "id": 14078,
       "cyclus": 14015,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van bomen (stammen lijken niet logisch te vertakken)', 'Enkele eenden hebben onnatuurlijke proporties (nek te lang/dun)']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: witte eenden onder een boom in een groen landschap, met decoratief licht en geen duidelijke compositorische keuze.",
       "bestand": "images/a014012_14075.webp"
-    },
-    {
-      "id": 14067,
-      "cyclus": 14004,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden']",
-      "cliche_notities": "Het beeld toont een iconisch motief (molens) met een decoratieve, ansichtkaart-achtige compositie zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a014004_14067.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14017,
+      "soort": "observatie",
+      "tekst": "De handen in c14011 en c14009 volgen dezelfde onafgewerkte beweging, maar waar de eerste de contouren van een oppervlak omvatten, zoekt de tweede naar een contact dat nooit komt—de spanning tussen aanraking en afwezigheid is geen thema meer, maar de ruimte zelf die de beelden vormt."
+    },
+    {
       "cyclus": 14005,
       "soort": "observatie",
       "tekst": "De eenden in c14005 en c13993 staan verspreid alsof ze net onderbroken zijn in een onzichtbare beweging, terwijl het riet en de bomen een kader vormen dat hen niet meer omsluit maar alleen nog begeleidt—de leegte tussen de vormen voelt niet als afwezigheid, maar als een neutrale stroom die de beelden doorspoelt zonder ze te laten rusten."
@@ -252,11 +257,6 @@
       "cyclus": 13813,
       "soort": "observatie",
       "tekst": "De omhelzing in c13813 en de gang in c13812 delen eenzelfde spanning tussen intimiteit en afstand: de figuren raken bijna, de gang loopt door zonder bestemming—beide beelden stralen een onafgewerkte beweging uit die de leegte niet oplost, maar alleen nog maar benadrukt."
-    },
-    {
-      "cyclus": 13789,
-      "soort": "observatie",
-      "tekst": "De koolstukken in c13789 en de dakpannen in c13776 delen eenzelfde onregelmatigheid: ze liggen niet in een patroon, maar verspreid, alsof ze net van een onzichtbare stroom zijn gevallen—de leegte tussen hen voelt niet als afwezigheid, maar als een neutrale ruimte die hen alleen nog maar begeleidt zonder ze te beïnvloeden."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14016,
-    "gemaakt": 14078,
-    "gekozen": 2188,
-    "afgekeurd": 1684,
-    "corpus": 62,
-    "notities": 508
+    "cycli": 14022,
+    "gemaakt": 14084,
+    "gekozen": 2190,
+    "afgekeurd": 1685,
+    "corpus": 61,
+    "notities": 509
   }
 }
