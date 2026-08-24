@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-24T08:45+02:00",
+  "bijgewerkt": "2026-08-24T09:00+02:00",
   "werk": [
+    {
+      "id": 13848,
+      "titel": "Verf die zich herinnert",
+      "beschrijving": "Een rechthoekig vlak, volledig bedekt met een egale laag lichtgrijze verf, getextureerd door brede, vloeiende penseelstreken die in verschillende richtingen lopen. Aan de randen zijn de streken onregelmatiger, met kleine onvolkomenheden en lichte uitstulpingen waar de verf dikker is aangebracht. In het midden van het vlak loopt een subtiele, golvende lijn die het beeld in twee ongelijk grote delen deelt, terwijl rechtsonder een vaag cirkelvormig patroon suggereert dat de verf ooit in een spiraal is bewogen. De textuur is zichtbaar korrelig, met kleine putjes en hobbelletjes die het oppervlak ongelijkmatig maken. Er zijn geen andere kleuren of vormen aanwezig, en de sfeer is neutraal, bijna leeg, met een focus op de fysieke eigenschappen van de verf en de beweging van de penseelstreken.",
+      "cyclus": 13785,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onopzettelijke compositie zonder duidelijke intentie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013785_13848.webp"
+    },
     {
       "id": 13835,
       "titel": "Zwart snijdt wit door",
@@ -117,22 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013711_13774.webp"
-    },
-    {
-      "id": 13773,
-      "titel": "Wat grijp je aan?",
-      "beschrijving": "Een hand met lichtroze en beige tinten strekt uit naar een donkere, gebroken vorm die lijkt op een kapotte muur of puin, geschilderd in donkergrijze en zwarte penseelstreken met af en toe goudkleurige en blauwe accenten. De achtergrond is een egale, lichtbeige textuur met subtiele penseelstreken, waar hier en daar kleine donkere en groene vlekken liggen. De hand heeft een zachte, bijna transparante uitstraling, met zichtbare vingers die zich uitstrekken alsof ze iets willen vastgrijpen of aanraken. De overgang tussen de hand en de donkere vorm is scherp, alsof er een onzichtbare barrière tussen beide zit. Kleurrijke fragmenten, zoals een witte schaal en een donkerblauw stukje, liggen verspreid in de buurt van de hand en het puin.",
-      "cyclus": 13710,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van hand ten opzichte van arm', 'lichte wazigheid in textuur van donkere kleding']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, onopgesmukte momentopname zonder toeristische inslag.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013710_13773.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13851,
+      "cyclus": 13788,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; textuur en perspectief consistent",
+      "cliche_notities": "Molen als iconisch Nederlands motief met decoratief licht en klassieke compositie, zonder duidelijke persoonlijke interpretatie",
+      "bestand": "images/a013788_13851.webp"
+    },
     {
       "id": 13845,
       "cyclus": 13782,
@@ -150,15 +159,6 @@
       "tech_notities": "['lichte onscherpte in achtergrond, maar geen duidelijke artefacten']",
       "cliche_notities": "Beeld herinnert aan een typische ansichtkaart met eenzame figuur tegen zonsondergang, zonder unieke compositorische keuze",
       "bestand": "images/a013781_13844.webp"
-    },
-    {
-      "id": 13843,
-      "cyclus": 13780,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de ramen ten opzichte van de muur', 'lichte wazigheid in de achtergrondvegetatie']",
-      "cliche_notities": "De molen in een klassieke Nederlandse landschapsscene, gefotografeerd door een raam met decoratief licht, past precies in de ansichtkaarttraditie zonder eigen compositorische keuzes.",
-      "bestand": "images/a013780_13843.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13789,
+      "soort": "observatie",
+      "tekst": "De koolstukken in c13789 en de dakpannen in c13776 delen eenzelfde onregelmatigheid: ze liggen niet in een patroon, maar verspreid, alsof ze net van een onzichtbare stroom zijn gevallen—de leegte tussen hen voelt niet als afwezigheid, maar als een neutrale ruimte die hen alleen nog maar begeleidt zonder ze te beïnvloeden."
+    },
+    {
       "cyclus": 13765,
       "soort": "observatie",
       "tekst": "De grassprietjes in c13765 en de rietstengels in c13753 delen eenzelfde schuine oprijding, alsof ze zich both onttrekken aan de zwaartekracht en er juist aan houden—een spanning die de leegte niet oplost, maar alleen nog maar benadrukt."
@@ -247,11 +252,6 @@
       "cyclus": 13729,
       "soort": "observatie",
       "tekst": "De beelden worden stiller en meer gefocust op individuele momenten, terwijl de achtergronden eenvoudiger en meer leeg ruimen. De kleurpaletten versmalden van dynamische contrasten naar subtiele, bijna monocromatische tinten, maar de aanwezigheid van water en organische vormen blijft een doorlopend thema."
-    },
-    {
-      "cyclus": 13705,
-      "soort": "observatie",
-      "tekst": "De boom in c13705 en de hut in c13704 delen eenzelfde eenzaamheid: ze staan alleen in de ruimte, omgeven door leegte die hen niet meer omsluit, maar alleen nog begeleidt. De takken en het loof wijzen niet langer naar een centerpunt, maar lopen uit in de ruimte alsof ze zich onttrekken aan een onzichtbare zwaartekracht."
     },
     {
       "cyclus": 13681,
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13786,
-    "gemaakt": 13848,
-    "gekozen": 2152,
-    "afgekeurd": 1661,
-    "corpus": 61,
-    "notities": 502
+    "cycli": 13794,
+    "gemaakt": 13856,
+    "gekozen": 2153,
+    "afgekeurd": 1662,
+    "corpus": 60,
+    "notities": 503
   }
 }
