@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T16:15+02:00",
+  "bijgewerkt": "2026-08-24T16:30+02:00",
   "werk": [
     {
       "id": 14045,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14061,
+      "cyclus": 13998,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte focus op textuur en vorm.",
+      "bestand": "images/a013998_14061.webp"
+    },
+    {
       "id": 14059,
       "cyclus": 13996,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele vervorming in vleugels van verre vogels', 'lichte inconsistentie in grasstructuren aan horizon']",
       "cliche_notities": "Landschap met vogels in vlucht en golvend gras is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
       "bestand": "images/a013986_14049.webp"
-    },
-    {
-      "id": 14047,
-      "cyclus": 13984,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met molen en water, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013984_14047.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13998,
-    "gemaakt": 14060,
+    "cycli": 14004,
+    "gemaakt": 14066,
     "gekozen": 2186,
-    "afgekeurd": 1680,
-    "corpus": 61,
+    "afgekeurd": 1681,
+    "corpus": 62,
     "notities": 507
   }
 }
