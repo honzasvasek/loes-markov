@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T17:45+02:00",
+  "bijgewerkt": "2026-08-24T18:00+02:00",
   "werk": [
     {
       "id": 14081,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14101,
+      "cyclus": 14038,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de golven ten opzichte van de bergen', 'Enkele druppels in de golven zijn wat wazig en verliezen detail']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische motief van golven en zonsondergang met decoratief licht en een klassieke compositie.",
+      "bestand": "images/a014038_14101.webp"
+    },
+    {
       "id": 14095,
       "cyclus": 14032,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en uitlijning', 'wazige randen rond tekst', 'onverklaarbare zwarte vlek bovenaan']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onontbrekende compositie zonder toeristische allure.",
       "bestand": "images/a014028_14091.webp"
-    },
-    {
-      "id": 14090,
-      "cyclus": 14027,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de molenschachten ten opzichte van de molen', 'Enkele onduidelijke vormen in de voorgrond (afval/stuiverdie) missen plausibele structuur']",
-      "cliche_notities": "Molen tegen een gestileerde achtergrond met witte pieken (herinnerend aan Japanse bergmotieven) past bij een iconisch, toeristisch thema zonder duidelijke persoonlijke compositorische keuze.",
-      "bestand": "images/a014027_14090.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14035,
-    "gemaakt": 14097,
+    "cycli": 14041,
+    "gemaakt": 14103,
     "gekozen": 2192,
-    "afgekeurd": 1689,
-    "corpus": 61,
+    "afgekeurd": 1690,
+    "corpus": 62,
     "notities": 509
   }
 }
