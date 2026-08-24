@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T02:45+02:00",
+  "bijgewerkt": "2026-08-24T03:00+02:00",
   "werk": [
     {
       "id": 13684,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13695,
+      "cyclus": 13632,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met zandduinen en typische vegetatie, gecombineerd met een decoratief licht en een klassieke compositie zonder duidelijke persoonlijke keuzes.",
+      "bestand": "images/a013632_13695.webp"
+    },
+    {
       "id": 13676,
       "cyclus": 13613,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde karakters', 'onrealistische vlammen', 'inconsistent perspectief']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
       "bestand": "images/a013606_13669.webp"
-    },
-    {
-      "id": 13663,
-      "cyclus": 13600,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in reflectie van molen in water', 'lichte wazigheid in achtergrondwolken']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse molens en een idyllisch landschap, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a013600_13663.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13625,
-    "gemaakt": 13687,
+    "cycli": 13632,
+    "gemaakt": 13695,
     "gekozen": 2127,
-    "afgekeurd": 1642,
-    "corpus": 62,
+    "afgekeurd": 1643,
+    "corpus": 61,
     "notities": 496
   }
 }
