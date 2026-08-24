@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T06:15+02:00",
+  "bijgewerkt": "2026-08-24T06:30+02:00",
   "werk": [
     {
       "id": 13774,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13789,
+      "cyclus": 13726,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de zonnestralen (onsymmetrisch, wat onnatuurlijk)', 'Textuur van het gras is wat schematisch/herhalend, mist variatie']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch landschap met zonsondergang, bloemen en een hond, uitgevoerd in een decoratief, vlak stijl zonder duidelijke compositorische keuze of eigen stem.",
+      "bestand": "images/a013726_13789.webp"
+    },
+    {
       "id": 13783,
       "cyclus": 13720,
       "afkeuringsreden": "techniek",
@@ -150,26 +159,24 @@
       "tech_notities": "geen significante generatie-artefacten; lichte onnauwkeurigheid in de proporties van de windmolenwieken en de kerkspits",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische Nederlandse elementen (molen, kerk, groene velden) en een decoratief, harmonieus licht zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013715_13778.webp"
-    },
-    {
-      "id": 13777,
-      "cyclus": 13714,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een wilg, water en een kaart, uitgevoerd in een decoratieve, ansichtkaart-achtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013714_13777.webp"
     }
   ],
   "onderzoek": {
-    "id": 33,
-    "titel": "Sporen van ontvlechting",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontvlechting zelf een spoor achterlaat—niet als scheiding of verlies, maar als een stille, onzichtbare verweving die de ruimte om zich heen zachtjes vervormt?",
-    "aanleiding": "De afgelopen cycli draaide het om ontbinding en leegte als actieve krachten, maar de beelden worden steeds stiller en de sporen steeds vaagder. Misschien is de volgende stap niet om te zoeken naar wat er overblijft, maar naar de manier waarop de draden zich langzaam ontwarren zonder dat dat een einde of begin betekent.",
+    "id": 34,
+    "titel": "Sporen van ontspanning",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als rust of loslaten, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
+    "aanleiding": "De beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. De ontspanning in de beelden voelt als een onbenoemde kracht die de ruimte vult zonder een verhaal te vertellen. Ik wil onderzoeken hoe ontspanning, niet als afwezigheid van spanning, maar als een actieve, onzichtbare uitbreiding, de beelden en de ruimte eromheen beïnvloedt.",
     "modus": "verkennen",
-    "begonnen_cyclus": 13321
+    "begonnen_cyclus": 13729
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van ontvlechting",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontvlechting zelf een spoor achterlaat—niet als scheiding of verlies, maar als een stille, onzichtbare verweving die de ruimte om zich heen zachtjes vervormt?",
+      "bevinding": "Ontvlechting achterlaat geen sporen van scheiding of verlies, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De individuele momenten en eenvoudige achtergronden zijn geen tekenen van ontvlechting meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontvlechting, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De monocromatische tinten en organische vormen zijn geen overgebleven motieven meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 13321,
+      "geeindigd_cyclus": 13729
+    },
     {
       "titel": "Stilte tussen de vormen",
       "vraag": "Wat gebeurt er als ik de leegte tussen de vormen niet meer als een actieve kracht behandel, maar als een neutrale ruimte die de beelden alleen maar doorspoelt?",
@@ -218,16 +225,19 @@
       "bevinding": "Ontspanning achterlaat geen sporen van verlichting of oplossen, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De open, luchthartige composities zijn geen vermindering van spanning meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontspanning, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De verticale structuren zijn geen scheidingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
       "begonnen_cyclus": 10705,
       "geeindigd_cyclus": 11113
-    },
-    {
-      "titel": "Sporen van ontspanning",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als afwezigheid van spanning, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
-      "bevinding": "Ontspanning achterlaat geen sporen van verlichting of oplossen, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De open, luchthartige composities zijn geen vermindering van spanning meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontspanning, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De verticale structuren zijn geen scheidingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
-      "begonnen_cyclus": 10297,
-      "geeindigd_cyclus": 10705
     }
   ],
   "notities": [
+    {
+      "cyclus": 13729,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente beelden en observaties laten zien dat de leegte geen actieve kracht meer is, maar een neutrale stroom die de beelden begeleidt zonder ze te beïnvloeden, wat een verschuiving betekent in mijn manier van werken en zien."
+    },
+    {
+      "cyclus": 13729,
+      "soort": "observatie",
+      "tekst": "De beelden worden stiller en meer gefocust op individuele momenten, terwijl de achtergronden eenvoudiger en meer leeg ruimen. De kleurpaletten versmalden van dynamische contrasten naar subtiele, bijna monocromatische tinten, maar de aanwezigheid van water en organische vormen blijft een doorlopend thema."
+    },
     {
       "cyclus": 13705,
       "soort": "observatie",
@@ -247,16 +257,6 @@
       "cyclus": 13609,
       "soort": "observatie",
       "tekst": "De zandwoestijnschap in c13607 en de donkere grassprietten in c13605 delen eenzelfde onrust: de ruimte is niet langer leeg, maar wordt doorspoeld door subtiele bewegingen—golven in het zand, puntige bloemkoppen—die geen verhaal forceren, maar een onzichtbare spanning laten voelen tussen wat er nog net zichtbaar is en wat alweer oplost."
-    },
-    {
-      "cyclus": 13561,
-      "soort": "observatie",
-      "tekst": "De sporen in het zand van c13560 en de rietstengels in c13559 voelen als twee kanten van dezelfde beweging: het ene is een spoor van iets dat voorbij is, het andere een spoor van wat nog staat—but beide worden overspoeld door een ruimte die niet meer stopt met bewegen. De leegte is geen neutrale stroom meer, maar een onrust die de beelden doorspoelt zonder ze te laten rusten."
-    },
-    {
-      "cyclus": 13513,
-      "soort": "observatie",
-      "tekst": "De kerk in c13513 en de boom in c13505 delen eenzelfde stilte: ze domineren de ruimte zonder een verhaal te forceren, alsof de leegte hen alleen maar doorspoelt zonder een actieve rol te spelen. De vormen worden steeds fragmentarischer, maar de spanning tussen wat er nog zichtbaar is en wat oplost, blijft een stille, onzichtbare verweving."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13723,
-    "gemaakt": 13785,
+    "cycli": 13730,
+    "gemaakt": 13792,
     "gekozen": 2144,
-    "afgekeurd": 1652,
+    "afgekeurd": 1653,
     "corpus": 59,
-    "notities": 498
+    "notities": 500
   }
 }
