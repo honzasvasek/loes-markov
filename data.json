@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T01:30+02:00",
+  "bijgewerkt": "2026-08-25T01:45+02:00",
   "werk": [
+    {
+      "id": 14308,
+      "titel": "Blauwgroene draden in witte leegte",
+      "beschrijving": "Dunne, bruine takken lopen diagonaal door het beeld, met daarop slanke, spits toelopende bladeren in zachte blauwgrijze tinten. De bladeren hebben subtiele overgangen naar lichtgroen en beige aan de randen, met enkele donkere, bijna zwarte punten waar ze de tak raken. Kleine, donkere knoppen zijn verspreid over de takken. De achtergrond is een egaal, lichtgrijs-wit, wat de bladeren en takken laat opvallen. De compositie is luchtig, met veel lege ruimte rond de takken, waardoor de focus ligt op de fijne details van de bladeren en de delicate structuur van de takken.",
+      "cyclus": 14245,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: de compositie is subtiel en niet iconisch, met een focus op stilte en leegte in plaats van een herkenbaar motief.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014245_14308.webp"
+    },
+    {
+      "id": 14305,
+      "titel": "Glimsterend onrust",
+      "beschrijving": "Donkere, verticale textuur met golvende, lichtere aders die diagonaal lopen door een ruw, bijna metaalachtig oppervlak. Kleine, onregelmatige putjes en glinsterende deeltjes doorbreken de monochromatische grijstinten. Rechtsboven een effen, lichtgrijze achtergrond die scherp contrasteert met de donkere, onrustige structuur. Geen duidelijke horizon of herkenbare vormen, alleen een spel van licht en donker dat een gevoel van diepte en beweging suggereert.",
+      "cyclus": 14242,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de lichte aders in de textuur', 'lichte inconsistentie in de diepte van de textuur aan de rechterrand']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014242_14305.webp"
+    },
     {
       "id": 14296,
       "titel": "Groene stralen, ongelijk maar vast",
@@ -26,6 +52,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014232_14295.webp"
+    },
+    {
+      "id": 14292,
+      "titel": "Vlammen die vragen stellen",
+      "beschrijving": "Op een donkergrijze achtergrond ontploft een dynamische vorm van oranje, bruine en zilverachtige tinten, die doet denken aan vlammen of opwellend rook. De vormen zijn slank en wervelend, met scherp gepunte uiteinden en zachte, golvende overgangen. Kleinere oranje vlekken en stippen zijn verspreid door de compositie, alsof ze uit de vorm zelf ontsnappen. Een enkele, kleine oranje ster bevindt zich bovenin, net buiten de hoofdvorm. De textuur is korrelig en heeft een bijna driedimensionale uitstraling, met licht en schaduw die de beweging benadrukken. De ruimte rondom de vorm is leeg, waardoor de focus volledig op de energieke, bijna chaotische beweging ligt.",
+      "cyclus": 14229,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van de oranje vormen (soms scherp, soms wazig)', 'kleine halo rond sommige witte details tegen donkere achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigend onderwerp, maar een abstracte vormtaal met persoonlijke compositorische keuzes",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014229_14292.webp"
     },
     {
       "id": 14289,
@@ -91,48 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014203_14266.webp"
-    },
-    {
-      "id": 14257,
-      "titel": "Wat blijft hangen in je handen",
-      "beschrijving": "Twee handen hangen vanuit de bovenhoeken van het beeld, met de vingers licht gebogen alsof ze net iets hebben losgelaten. Tussen de handen door stroomt een gouden, viskeuze substantie in een smalle straaltje naar beneden, waar het een onregelmatige, glanzende plas vormt op een oppervlak dat lijkt op water of nat zand. Rond de plas lopen subtiele, concentrische rimpels, alsof de vloeistof net het oppervlak heeft gestoord. De achtergrond is grotendeels wit, maar de onderste helft van het beeld wordt gevuld met donkere, watervlekkenachtige vormen in zwart en grijs, met hier en daar een donkere vlek of stip. Rechtsonder ligt een klein, rechthoekig voorwerp dat doet denken aan een stuk zeep of een blokje was, met een matte, rozeachtige kleur. De handen en de gouden vloeistof zijn getekend met zachte, watervaste lijnen, terwijl de achtergrond een meer spontane, watervlekkenachtige textuur heeft. De sfeer is stil en bijna ceremonieel, met een focus op de beweging van de vloeistof en de relatie tussen de handen en het oppervlak beneden.",
-      "cyclus": 14194,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vingerposities (linkerhand: middelvinger en ringvinger lijken samengesmolten)', 'lichte halo rond de honingstroom bij overgang naar witte achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op een intieme, bijna abstracte actie zonder toeristische connotaties.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014194_14257.webp"
-    },
-    {
-      "id": 14255,
-      "titel": "Wat blijft van de beweging",
-      "beschrijving": "Een donkergrijze, korrelige spoor loopt in een golvende lijn over een effen beige ondergrond, met verspreide deeltjes aan weerszijden. Rechtsboven ligt een cilindervormig voorwerp van gelijksoortig materiaal, met een matte textuur en een lichte schaduw eronder. Het spoor toont variaties in dichtheid en glans, met enkele lichtere plekken waar het materiaal fijner verspreid lijkt. De compositie is minimalistisch, met veel lege ruimte rond de lijn en het voorwerp, wat de focus legt op de textuur en vorm van het spoor.",
-      "cyclus": 14192,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, contemplatieve compositie zonder decoratief perfect licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014192_14255.webp"
-    },
-    {
-      "id": 14249,
-      "titel": "Onvolmaakte cirkels in zand",
-      "beschrijving": "Zand vormt een vlakke, lichtbeige vlakte met concentrische cirkels die vanuit het midden naar buiten lopen. De cirkels zijn niet perfect rond: sommige lijnen zijn onregelmatig, met kleine brokjes en oneffenheden in het zand. De textuur is fijnkorrelig, met subtiele schaduwen die de diepte van de groeven benadrukken. In het midden bevindt zich een kleine, gladde hobbel, omringd door nauwere cirkels die naar buiten toe breder en zachter worden. De randen van de cirkels zijn soms vaag, alsof de wind of water de patronen licht heeft verstoord. De compositie straal uit vanaf het centrum, met een rustige, bijna meditatieve sfeer door de herhalende, maar onvolmaakte vormen.",
-      "cyclus": 14186,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014186_14249.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14310,
+      "cyclus": 14247,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuur van golven (soms scherp, soms wazig)', 'kleine halo rond wit schuim tegen donkerblauw water']",
+      "cliche_notities": "Klassiek zeelandschap met golven en rotsen, uitgevoerd in een decoratief waterverf-stijltje zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014247_14310.webp"
+    },
+    {
+      "id": 14306,
+      "cyclus": 14243,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met boom en water, uitgevoerd in een klassieke, decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014243_14306.webp"
+    },
     {
       "id": 14298,
       "cyclus": 14235,
@@ -141,24 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch landschap met een eencilige boom en uitgestrekte velden, typisch voor een ansichtkaartachtige voorstelling zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014235_14298.webp"
-    },
-    {
-      "id": 14297,
-      "cyclus": 14234,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de wieken ten opzichte van de romp', 'lichte wazigheid in de achtergrondtextuur van de hemel']",
-      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen, met een iconisch onderwerp en decoratief licht zonder eigen compositorische keuzes.",
-      "bestand": "images/a014234_14297.webp"
-    },
-    {
-      "id": 14293,
-      "cyclus": 14230,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'onrealistische schaduw onder de pen']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
-      "bestand": "images/a014230_14293.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14242,
-    "gemaakt": 14304,
-    "gekozen": 2226,
-    "afgekeurd": 1715,
+    "cycli": 14249,
+    "gemaakt": 14311,
+    "gekozen": 2229,
+    "afgekeurd": 1717,
     "corpus": 59,
     "notities": 515
   }
