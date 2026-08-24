@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-24T12:30+02:00",
+  "bijgewerkt": "2026-08-24T12:45+02:00",
   "werk": [
+    {
+      "id": 13957,
+      "titel": "Wat overblijft van de golf",
+      "beschrijving": "Donkere, scherpe lijnen snijden door zachte, golvende blauwe en witte vlakken, alsof water en lucht door een onzichtbare kracht worden doormidden gesneden. Een bundel zwarte, sprieterige vormen steekt schuin omhoog, alsof het restanten zijn van iets dat net is verbroken. Kleine zwarte stippen en een driehoekige vorm drijven erbij, alsof ze net uit de lijnen zijn gevallen. De blauwe vlakken hebben een waterverfachtige textuur, met lichte en donkere schakeringen die beweging suggereren. Witte ruimtes tussen de lijnen laten de indruk van diepte ontstaan, terwijl de donkere contouren de vormen van de golven en de sprieters scherp aftekenen tegen de lichte achtergrond. Een enkele donkere vlek in de onderste hoek lijkt een druppel of een klein gat in het beeld.",
+      "cyclus": 13894,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met persoonlijke lijnwerk en kleurkeuzes.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013894_13957.webp"
+    },
     {
       "id": 13938,
       "titel": "Vezels in de schaduw",
@@ -117,19 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013829_13892.webp"
-    },
-    {
-      "id": 13884,
-      "titel": "Fingers die zand fluisteren",
-      "beschrijving": "Zand bedekt de grond, met subtiele golven en sporen van wind en water. Twee handen raken het zand aan, waarbij de vingers zachtjes een patroon van stralende lijnen trekken, alsof ze een schelpvorm nabootsen. Rondom groeien dunne, droge grassprietjes uit het zand, met enkele groene tinten nog zichtbaar. Een donkerblauwe mouw en een deel van een been met een donkere schoen zijn zichtbaar aan de linkerkant. De schaduwen van het gras en de handen vallen scherp op het zand, door de heldere zon. Kleine stengels en losse zandkorrels liggen verspreid, en in de achtergrond is een donker voorwerp vaag zichtbaar. De scène straalt een rustige, concentrerende sfeer uit, met de handen als focuspunt van een delicate, tijdelijke actie.",
-      "cyclus": 13821,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart, omdat het geen iconisch onderwerp heeft en de compositie gericht is op een intiem moment van interactie met de natuur, zonder decoratief perfect licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013821_13884.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13891,
-    "gemaakt": 13954,
-    "gekozen": 2168,
+    "cycli": 13899,
+    "gemaakt": 13961,
+    "gekozen": 2169,
     "afgekeurd": 1668,
-    "corpus": 61,
+    "corpus": 62,
     "notities": 506
   }
 }
