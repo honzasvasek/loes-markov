@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T11:00+02:00",
+  "bijgewerkt": "2026-08-24T11:15+02:00",
   "werk": [
+    {
+      "id": 13909,
+      "titel": "Scheuten in de modder",
+      "beschrijving": "Twee rijen bladloze bomen met donkere, slanke takken lopen parallel aan elkaar, geflankeerd door modderige, ongelijke paden met verspreide takken, dood gras en kleine groene scheuten. De bomen staan op regelmatige afstanden, ondersteund door houten palen met rode banden. De achtergrond wordt gevuld door een bewolkte hemel met zachte oranje en roze tinten aan de horizon, die overgaan in blauw en grijs. Verspreid over de grond liggen fragmenten van onherkenbare voorwerpen, waaronder wat lijkt op gebroken glas en metalen onderdelen. De compositie is symmetrisch, met de bomenrijen die de blik naar een verdwijnpunt in het midden leiden, waar een vaag silhouet van bomen de horizon afsluit. De sfeer is rustig en wat verlaten, met een subtiele spanning tussen de dood van de bomen en de levenskracht van de scheuten.",
+      "cyclus": 13846,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming aan de horizonlijn waar de bomen de lucht raken', 'enkele takken in de voorgrond hebben onnatuurlijke, bijna pixelige randen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een ongemakkelijke, bijna verontrustende sfeer door de verwaarloosde staat van het landschap en de verstoorde symmetrie, wat het geen typische ansichtkaartsfeer geeft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013846_13909.webp"
+    },
+    {
+      "id": 13902,
+      "titel": "Waar blijft de wind?",
+      "beschrijving": "Droge, slanke grassprietjes met zachte, veerachtige bloeiwijzen steken schuin omhoog uit een zandige, onrustige ondergrond. Rondom hen zweven fijne deeltjes stof of zand in een vaag, wazig patroon, alsof er net een windstoot voorbij is. Donkere, onregelmatige vormen—misschien stenen of verdorde bladeren—liggen verspreid in het zand, dat overgaat in een donkere, bijna zwarte achtergrond met subtiele textuur. Kleine, ronde voorwerpen, mogelijk zaden of keizers, liggen verspreid near de basis van het gras, terwijl enkele dunne, witte lijnen door het beeld lopen, alsof ze door de wind zijn getrokken. De kleuren zijn gedempt: beige, bruin en zwart domineren, met subtiele hints van goud en grijs in de bloeiwijzen en het stof. De compositie voelt onstabiel, alsof alles in beweging is, maar net stilstaat voordat het weer verdwijnt.",
+      "cyclus": 13839,
+      "tech_score": 8.0,
+      "tech_notities": "Enkele lichte vervormingen in de achtergrondtextuur, minimale detailverlies in donkere gebieden",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele, niet-obvious compositie met ruimte voor interpretatie",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w013839_13902.webp"
+    },
     {
       "id": 13898,
       "titel": "Druppels met geheugenspanning",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013791_13854.webp"
-    },
-    {
-      "id": 13848,
-      "titel": "Verf die zich herinnert",
-      "beschrijving": "Een rechthoekig vlak, volledig bedekt met een egale laag lichtgrijze verf, getextureerd door brede, vloeiende penseelstreken die in verschillende richtingen lopen. Aan de randen zijn de streken onregelmatiger, met kleine onvolkomenheden en lichte uitstulpingen waar de verf dikker is aangebracht. In het midden van het vlak loopt een subtiele, golvende lijn die het beeld in twee ongelijk grote delen deelt, terwijl rechtsonder een vaag cirkelvormig patroon suggereert dat de verf ooit in een spiraal is bewogen. De textuur is zichtbaar korrelig, met kleine putjes en hobbelletjes die het oppervlak ongelijkmatig maken. Er zijn geen andere kleuren of vormen aanwezig, en de sfeer is neutraal, bijna leeg, met een focus op de fysieke eigenschappen van de verf en de beweging van de penseelstreken.",
-      "cyclus": 13785,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onopzettelijke compositie zonder duidelijke intentie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013785_13848.webp"
-    },
-    {
-      "id": 13835,
-      "titel": "Zwart snijdt wit door",
-      "beschrijving": "Zwart en grijs vormen een chaotisch patroon van strepen, vlekken en spetters tegen een witte achtergrond. Donkere, scherpe lijnen snijden door zachte, vaagere vormen, terwijl kleine, donkere cirkels en onregelmatige klompen verspreid liggen. Een takje met zaag tandenachtige bladeren steekt scherp uit tegen de wazige achtergrond, omgeven door wat lijkt op verwaterde penseelstreken en fijne, uitstralende draden. De compositie voelt ongelijkmatig en dynamisch, met een spanning tussen de harde, donkere elementen en de lichte, open ruimtes.",
-      "cyclus": 13772,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013772_13835.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13849,
+      "soort": "observatie",
+      "tekst": "De concentrische cirkels in c13849 en de rimpelingen in c13847 delen eenzelfde onzichtbare uitbreiding: ze lopen niet meer uit op een vorm, maar vervormen de ruimte om hen heen zonder een bestemming te hebben—de ontspanning is geen rust meer, maar een stille, onafgewerkte stroom."
+    },
+    {
       "cyclus": 13825,
       "soort": "observatie",
       "tekst": "De handen in c13821 en de rug in c13823 delen eenzelfde onafgewerkt moment: ze raken de wereld aan of draaien er de rug toe toe, maar de beweging blijft onvoltooid, alsof de spanning tussen aanraking en afwezigheid de beelden meer bepaalt dan de vormen zelf."
@@ -252,11 +257,6 @@
       "cyclus": 13753,
       "soort": "observatie",
       "tekst": "De eenden in c13753 staan verspreid alsof ze net onderbroken zijn in een onzichtbare beweging, terwijl de rietstengels en bomen een kader vormen dat hen niet meer omsluit maar alleen nog begeleidt. De leegte tussen de vormen voelt niet als afwezigheid, maar als een neutrale stroom die de beelden doorspoelt zonder ze te laten rusten."
-    },
-    {
-      "cyclus": 13729,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De recente beelden en observaties laten zien dat de leegte geen actieve kracht meer is, maar een neutrale stroom die de beelden begeleidt zonder ze te beïnvloeden, wat een verschuiving betekent in mijn manier van werken en zien."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13848,
-    "gemaakt": 13910,
-    "gekozen": 2161,
+    "cycli": 13855,
+    "gemaakt": 13917,
+    "gekozen": 2163,
     "afgekeurd": 1665,
     "corpus": 61,
-    "notities": 505
+    "notities": 506
   }
 }
