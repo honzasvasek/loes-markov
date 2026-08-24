@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T15:30+02:00",
+  "bijgewerkt": "2026-08-24T15:45+02:00",
   "werk": [
+    {
+      "id": 14044,
+      "titel": "Vergeten kustlijn zonder golven",
+      "beschrijving": "Zand en water vormen een golvende overgang, met aan weerskanten rietachtige planten die zich uitstrekken naar een lichte, ongedefinieerde horizon. De kleuren zijn gedempt: beige, zandbruin en groenbruin, met subtiele variaties in textuur die een zachte, bijna verbleekte sfeer oproepen. De compositie is asymmetrisch, met lege ruimtes die de blik leiden langs de kronkelende lijnen van het water en de slanke stengels van het riet. Kleine details zoals de fijne haren op de rietkoppen en de onregelmatige vorm van de zandbank geven het beeld een natuurlijke, ongerepte uitstraling.",
+      "cyclus": 13981,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is subtiel en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013981_14044.webp"
+    },
+    {
+      "id": 14038,
+      "titel": "Waar de takken zwijgen",
+      "beschrijving": "Een boom met een donkerbruine stam en takken domineert de rechterkant, met groene en geelgroene bladeren die zich uitstrekken naar de linkerbovenhoek. Onder de boom groeit groen gras met donkergroene en blauwgroene tinten, doorspekt met kleine gele en bruine vlekjes. De achtergrond bestaat uit een lichte, bijna witte hemel die overgaat in een zachtgroene horizon met vaag omlijnde struiken en gras. De compositie is verticaal, met de boom als centrale as en het landschap dat zich uitstrekt naar de onderkant. Kleuren zijn voornamelijk groen, bruin en wit, met subtiele variaties in tinten en textuur.",
+      "cyclus": 13975,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief perfect.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013975_14038.webp"
+    },
     {
       "id": 14024,
       "titel": "Gras dat de horizon omlijst",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013917_13980.webp"
-    },
-    {
-      "id": 13977,
-      "titel": "Waar het water zachtjes loodst",
-      "beschrijving": "Een kronkelend waterloop snijdt door een landschap van blote bomen met dunne, donkere takken die zich uitstrekken naar een lichte, wazige horizon. Het water, geschilderd in zachte blauwe en grijze tinten met witte golven, reflecteert licht en draagt verspreide, kleurrijke vormen: oranje en gele cirkels, groene bladeren en donkere, onregelmatige stenen. Aan weerskanten van het water lopen smalle stroken gras en mos in groene en bruine nuances, doorspekt met kleine, heldere kleurstrepen. De bomen aan weerszijden hebben een ruwe textuur, met stammen in beige en grijs, en takken die in een complex patroon door elkaar lopen. In de voorgrond drijft een oranje bloem met groene bloemblaadjes op het water, omringd door lange, slanke grasspieren. De achtergrond vervagt in een zachte, onduidelijke groenbruine massa, waarbij de bomen steeds kleiner en vaagner worden naarmate ze verder weg staan. De sfeer is rustig en iets verlaten, met een onderliggende dynamiek door de beweging van het water en de verspreide kleuren.",
-      "cyclus": 13914,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van bomen aan horizon', 'enkele penseelstreken water lijken te zweven zonder logische richting']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch landschap of decoratief licht; de compositie is bewust asymmetrisch en de kleurkeuze (dempe groen/grijs met oranje accenten) is niet typisch ansichtkaart.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013914_13977.webp"
-    },
-    {
-      "id": 13973,
-      "titel": "Wat blijft van de oogst",
-      "beschrijving": "Drie tarwearen rijzen schuin omhoog uit een ongelijkmatige basis van donkere, korrelige stoffen en kleine steentjes. De aren zijn gedetailleerd getekend met spitse, donkere kafschubben die zich uitstrekken naar een lichte, effen achtergrond. Lange, smalle bladeren stralen willekeurig uit van de steel, sommige met subtiele textuur, andere als donkere silhouetten. Rond de basis verspreiden zich donkere vlekken en fijne deeltjes, alsof er iets poedervormigs is uitgestrooid. De compositie is asymmetrisch, met de aren die de blik naar boven leiden en de bladeren die de ruimte beneden vullen met een gevoel van ongeremd groeien. Het geheel straalt een rustige, bijna vergeten sfeer uit, alsof het moment van de oogst al lang voorbij is.",
-      "cyclus": 13910,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (gras) is niet iconisch en de compositie heeft een eigen, minimalistische uitstraling zonder decoratief perfect licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013910_13973.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13978,
-    "gemaakt": 14040,
-    "gekozen": 2182,
+    "cycli": 13984,
+    "gemaakt": 14046,
+    "gekozen": 2184,
     "afgekeurd": 1677,
-    "corpus": 62,
+    "corpus": 61,
     "notities": 507
   }
 }
