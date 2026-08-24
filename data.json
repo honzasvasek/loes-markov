@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T22:30+02:00",
+  "bijgewerkt": "2026-08-24T22:45+02:00",
   "werk": [
+    {
+      "id": 14212,
+      "titel": "Vingers die een vraag stellen",
+      "beschrijving": "Twee handen raken elkaar in het midden van een effen, lichtgrijze achtergrond. De vingers zijn subtiel gevouwen, alsof ze net in aanraking zijn gekomen of zich net los laten. De huid is zachtgekleurd met lichte roze tinten, en de nagels zijn kort en ongelijk gevormd. Donkere schaduwen onder de handen geven diepte, terwijl de overige ruimte leeg en ongestoord blijft. De compositie is centraal en symmetrisch, met de handen als enig focuspunt. Geen andere objecten of details onderbreken de stilte van het beeld.",
+      "cyclus": 14149,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De handen zijn geen iconisch onderwerp met decoratief licht, maar een subtiele, intieme moment zonder typische ansichtkaartcompositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014149_14212.webp"
+    },
+    {
+      "id": 14210,
+      "titel": "Waar blijft de uitgang",
+      "beschrijving": "Donkere, onregelmatige lijnen vormen een labyrint dat een verlaten trap en een gedeelte van een gebouw omhult. De lijnen zijn dik en ongelijkmatig getekend, met enkele plekken waar ze zich overlappen of abrupt eindigen. In het midden van het labyrint bevindt zich een donkere, amorf vorm die lijkt op een klomp of een schaduw. Onderaan de afbeelding ligt een glanzend, donker voorwerp dat aan een schoen of een steen doet denken, met een reflecterende oppervlakte. De achtergrond is wit, wat het contrast met de zwarte lijnen en vormen versterkt. De compositie voelt gesloten en iets chaotisch, met weinig ruimte voor beweging.",
+      "cyclus": 14147,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014147_14210.webp"
+    },
     {
       "id": 14208,
       "titel": "Sporen in de stroming",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014091_14154.webp"
-    },
-    {
-      "id": 14139,
-      "titel": "Vingers die de horizon vasthouden",
-      "beschrijving": "Twee handen liggen op elkaar, de vingers licht gebogen, met zichtbare vingernagels en huidplooien. De handen rusten op een houten oppervlak met verticale latten, waarlangs lange, slanke grasstengels omhoog groeien. Boven de handen zweven twee pluimen van gras, met fijne, donkere zaadhoofdjes. De achtergrond bestaat uit subtiele, parallelle lijnen die een zachte horizon suggereren. De afbeelding is getekend in zwart-wit, met scherp contrast tussen de donkere lijnen en de witte ruimtes. De compositie is dynamisch, met de handen centraal en het gras dat diagonaal door het beeld loopt. De sfeer is rustig en intiem, met een focus op de textuur van huid, hout en gras.",
-      "cyclus": 14076,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, introspectieve sfeer en geen typisch toeristisch onderwerp of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014076_14139.webp"
-    },
-    {
-      "id": 14138,
-      "titel": "Gras dat een lijn onthoudt",
-      "beschrijving": "Een smalle, rechte strook donker, bijna zwart, loopt verticaal door het midden van een uitgestrekt veld groen gras. Het gras aan weerskanten is lang, fijn en lichtgroen, met hier en daar wat dichtere, donkergroene plekken. De strook zelf lijkt van een ander materiaal: het is ruwer, met een textuur die aan bevroren of uitgedroogd water denkt, en heeft af en toe donkere, ster-achtige vormen die erin lijken te zitten. Het gras raakt de strook aan beide kanten aan, maar volgt haar niet precies—sommige haren steken eroverheen, andere buigen eromheen. De horizon is niet zichtbaar, het veld vult het hele beeld, en de strook verdwijnt in de verte in een dunne lijn. Er is geen beweging, geen geluid, alleen de stilte van het gras en de rechte, onverklaarde lijn die door loopt.",
-      "cyclus": 14075,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in grastextuur aan weerskanten van de lijn', 'lichte wazigheid in de verre achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie zonder iconische of decoratieve elementen, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014075_14138.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14222,
+      "cyclus": 14159,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van het huis ten opzichte van de omringende bomen', 'lichte wazigheid in de achtergrondwolken']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met een weg die naar een huis loopt, omgeven door groen en een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014159_14222.webp"
+    },
+    {
+      "id": 14220,
+      "cyclus": 14157,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming van sommige eenden (te veel/te weinig poten, onnatuurlijke houdingen)', 'watervlak mist subtiele golven/reflecties op sommige plekken']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene rivierlandschap met eenden bij zonsondergang, zonder onverwachte of persoonlijke compositorische keuzes.",
+      "bestand": "images/a014157_14220.webp"
+    },
     {
       "id": 14216,
       "cyclus": 14153,
@@ -141,24 +159,6 @@
       "tech_notities": "kleine inconsistentie in perspectief van de windmolenwieken, lichte wazigheid in de achtergrondbomen",
       "cliche_notities": "De windmolen in een landschap is een iconisch motief zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014153_14216.webp"
-    },
-    {
-      "id": 14198,
-      "cyclus": 14135,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een vogelvlucht in een schemerlandschap, een typisch iconisch motief zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014135_14198.webp"
-    },
-    {
-      "id": 14162,
-      "cyclus": 14099,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch strandlandschap met perfecte belichting en een klassieke compositie zonder duidelijke persoonlijke keuzes.",
-      "bestand": "images/a014099_14162.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14161,
+      "soort": "observatie",
+      "tekst": "De concentrische cirkels in c14161 en de donkere schaduwen in c14158 delen eenzelfde stralende beweging, maar waar de eerste de ruimte vullen met een onzichtbare spanning, laten de laatste een onafgewerkte textuur achter die de ruimte niet meer begeleidt, maar alleen nog maar omhult zonder een bestemming te hebben."
+    },
+    {
       "cyclus": 14137,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontspanning als spoor naar ontspanning als onbenoemde ruimte die de beelden begeleidt zonder ze te vullen."
@@ -252,11 +257,6 @@
       "cyclus": 14077,
       "soort": "observatie",
       "tekst": "De donkere verticale streken in c14077 en de parallelle vormen in c14068 delen eenzelfde opgaande beweging, maar waar de eerste een onafgewerkte textuur suggereren, creëren de laatste een spanning tussen twee vlakken die elkaar niet raken—de ontspanning is geen uitbreiding meer, maar een onbenoemde ruimte tussen de vormen die de beelden niet meer vult, maar alleen nog maar begeleidt."
-    },
-    {
-      "cyclus": 14017,
-      "soort": "observatie",
-      "tekst": "De handen in c14011 en c14009 volgen dezelfde onafgewerkte beweging, maar waar de eerste de contouren van een oppervlak omvatten, zoekt de tweede naar een contact dat nooit komt—de spanning tussen aanraking en afwezigheid is geen thema meer, maar de ruimte zelf die de beelden vormt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14155,
-    "gemaakt": 14217,
-    "gekozen": 2209,
-    "afgekeurd": 1702,
+    "cycli": 14163,
+    "gemaakt": 14225,
+    "gekozen": 2211,
+    "afgekeurd": 1704,
     "corpus": 59,
-    "notities": 514
+    "notities": 515
   }
 }
