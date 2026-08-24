@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T06:00+02:00",
+  "bijgewerkt": "2026-08-24T06:15+02:00",
   "werk": [
     {
       "id": 13774,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 13783,
+      "cyclus": 13720,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst als integraal onderdeel.",
+      "bestand": "images/a013720_13783.webp"
+    },
+    {
       "id": 13778,
       "cyclus": 13715,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een typisch Nederlands landschap met een wilg, water en een kaart, uitgevoerd in een decoratieve, ansichtkaart-achtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013714_13777.webp"
-    },
-    {
-      "id": 13772,
-      "cyclus": 13709,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch kerkje met een pad erheen, geschilderd in een decoratief, ansichtkaartachtig stijl met zachte kleuren en een ideale compositie, zonder duidelijke persoonlijke of compositorische keuze.",
-      "bestand": "images/a013709_13772.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 13718,
-    "gemaakt": 13780,
+    "cycli": 13723,
+    "gemaakt": 13785,
     "gekozen": 2144,
-    "afgekeurd": 1651,
+    "afgekeurd": 1652,
     "corpus": 59,
     "notities": 498
   }
