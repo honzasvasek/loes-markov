@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T03:15+02:00",
+  "bijgewerkt": "2026-08-24T03:30+02:00",
   "werk": [
     {
       "id": 13696,
@@ -15,6 +15,19 @@
       "bestand": "images/w013633_13696.webp"
     },
     {
+      "id": 13694,
+      "titel": "Wekalarm in het zand",
+      "beschrijving": "Een donkere wekker halfbegraven in zand, omringd door donkere grassprietjes die schuin omhoog wijzen. Rechts een paletmes met houten steel, puntig en zilverkleurig, gericht op de wekker. Twee klonten verf: een ambrbruine, onregelmatige vorm en een rode, ronde klont met een glanzende, natte textuur. Achtergrond: roze lucht boven rode heuvels en een smalle, donkere bomenrij aan de horizon. Een lichtgekleurde, zandige vlakte loopt diagonaal door het midden, met subtiele sporen van beweging. Schaduwen vallen naar links, alsof het licht van rechts komt.",
+      "cyclus": 13631,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief tussen voorgrond (zand, klok) en achtergrond (landschap)', 'Textuur van zand wat wazig/smeuiig, minder gedetailleerd dan overige elementen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch/toeristisch onderwerp en geen decoratief perfect licht; compositie heeft een eigen, ongemakkelijke spanning tussen voor- en achtergrond.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013631_13694.webp"
+    },
+    {
       "id": 13692,
       "titel": "Aderlijke verbinding met het gras",
       "beschrijving": "Een naakt lichaam rust in groen gras, met gebogen benen en een zichtbare borst en buik. Translucent, aderachtige structuren lopen door het gras en over het been, alsof ze uit de huid ontspringen. De compositie wordt onderbroken door scheurvormige witte randen die het beeld in verticale segmenten verdelen, tegen een egale beige achtergrond. Het gras is dicht en textuurrijk, met individuele bladeren die de huid raken. De sfeer is stil en intiem, met een focus op de overgang tussen lichaam en natuur.",
@@ -26,6 +39,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013629_13692.webp"
+    },
+    {
+      "id": 13691,
+      "titel": "Wat zuigt hier wat op?",
+      "beschrijving": "Een glanzend, donkerblauw, amorf voorwerp met een gladde, bijna viskeuze textuur ligt op een bed van fijn, lichtbruin zand. Het voorwerp heeft een onregelmatige, organische vorm met zachte, golvende contouren en een smalle, uitlopende punt aan de onderkant, die doet denken aan een poot of een steel. Verspreid over het oppervlak bevinden zich kleine, doorschijnende bolletjes en fijne, witte, vezelachtige structuren die lijken op daden of worteltjes. Drie slanke, groenbruine stengels steken schuin uit het zand, waarvan één dicht bij de punt van het blauwe voorwerp en twee verder naar rechts. Rechtsboven ligt een kleinere, ronde, donkerblauwe steen met een gladde, glanzende oppervlakte, ook omgeven door zand en met een stengel erin. De achtergrond is helderwit, waardoor de kleuren en texturen van het voorwerp en het zand scherp afsteken. De compositie is rustig en gefocust, met een subtiele spanning tussen de zachte vormen en de scherpe, lineaire stengels.",
+      "cyclus": 13628,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met eigen standpunt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013628_13691.webp"
     },
     {
       "id": 13684,
@@ -104,35 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013580_13643.webp"
-    },
-    {
-      "id": 13641,
-      "titel": "Zwevend vlak boven het grasland",
-      "beschrijving": "Een lichtgekleurd, vierkant vlak met een lichte textuur zweeft schuin in de lucht boven een uitgestrekt, groen landschap. Het vlak heeft een zachte, bijna doorzichtige uitstraling en lijkt door een onzichtbare kracht te worden gedragen. Onder het vlak strekt zich een weids gebied uit met verschillende groentinten, doorsneden door donkere lijnen die paden of waterlopen kunnen voorstellen. In de verte loopt een horizonlijn met donkere bomen en enkele vaag zichtbare structuren. Het voorplan wordt gedomineerd door hoog, wisselend groen gras met af en toe kleurrijke accenten, zoals rode en gele vlekken. De lucht is helder en lichtblauw, zonder wolken, wat een rustige sfeer versterkt. De compositie combineert de open ruimte met de details in het gras, waarbij het zwevende vlak de blik trekt als centraal element.",
-      "cyclus": 13578,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van het vliegend voorwerp ten opzichte van de horizon', 'Enkele onduidelijke, bijna abstracte vormen in het gras die de indruk van wazigheid geven']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een ongewone compositie met een zwevend voorwerp en een focus op details in het gras, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013578_13641.webp"
-    },
-    {
-      "id": 13640,
-      "titel": "Reflecties op een onbenoemde figuur",
-      "beschrijving": "Een donkergrijze, gladde oppervlakte met subtiele penseelstreken vult het beeld. Een verticale, slanke vorm loopt door het midden, met een lichte bolling bovenaan en een puntige uitloop onderaan. Kleurrijke reflecties glanzen op de randen van deze vorm, die lijkt op een gestileerde, abstracte figuur zonder duidelijke kenmerken. De achtergrond is homogeen, met alleen de zachte textuur van het verfoppervlak zichtbaar. Kleine, donkere vlekjes en een paar glanzende druppeltjes bevinden zich verspreid over het beeld, vooral rond de onderkant van de centrale vorm. De sfeer is rustig en minimalistisch, met een focus op vorm en textuur in plaats van detail of actie.",
-      "cyclus": 13577,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013577_13640.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13707,
+      "cyclus": 13644,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij bomen in middenvlak', 'Enkele bomen hebben onnatuurlijke, vervormde takken']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch berglandschap, een kronkelende rivier en perfecte belichting, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013644_13707.webp"
+    },
+    {
+      "id": 13706,
+      "cyclus": 13643,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'onmogelijke geometrie']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met een tijdmotief dat niet typisch is voor toeristische ansichtkaarten.",
+      "bestand": "images/a013643_13706.webp"
+    },
     {
       "id": 13699,
       "cyclus": 13636,
@@ -141,24 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in de perspectief van de bomen aan de horizon, wat de diepte van het landschap iets verstoort.', 'Enkele vogels hebben iets onnatuurlijke proporties, met te korte of te lange snavels en poten.']",
       "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met het idyllische landschap, de vogels in vlucht en de harmonieuze kleuren, zonder een duidelijke persoonlijke of compositorische keuzes.",
       "bestand": "images/a013636_13699.webp"
-    },
-    {
-      "id": 13697,
-      "cyclus": 13634,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van golven aan horizon', 'lichte wazigheid in detail van gras aan rechterrand']",
-      "cliche_notities": "Dit is een typisch ansichtkaartmotief: een serene kustlijn met golven en gras, geschilderd in een decoratieve, realistische stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013634_13697.webp"
-    },
-    {
-      "id": 13695,
-      "cyclus": 13632,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met zandduinen en typische vegetatie, gecombineerd met een decoratief licht en een klassieke compositie zonder duidelijke persoonlijke keuzes.",
-      "bestand": "images/a013632_13695.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13640,
-    "gemaakt": 13703,
-    "gekozen": 2129,
-    "afgekeurd": 1645,
-    "corpus": 63,
+    "cycli": 13647,
+    "gemaakt": 13709,
+    "gekozen": 2131,
+    "afgekeurd": 1647,
+    "corpus": 62,
     "notities": 496
   }
 }
