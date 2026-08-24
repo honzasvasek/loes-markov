@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T08:30+02:00",
+  "bijgewerkt": "2026-08-24T08:45+02:00",
   "werk": [
     {
       "id": 13835,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 13827,
-      "cyclus": 13764,
+      "id": 13845,
+      "cyclus": 13782,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['Lichte vervorming in de reflectie van de boom in het water', 'Watervlak mist subtiele textuurdetails']",
-      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap (molen, water, boom) met een klassieke compositie en decoratief licht, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a013764_13827.webp"
+      "tech_notities": "['Lichte inconsistentie in de takstructuur van de boom: sommige takken lopen logisch door, andere verdwijnen plotseling of lopen in een onnatuurlijke hoek.', 'Subtiele halo-effecten rond de boomstam tegen de achtergrond, vooral waar donkere en lichte kleuren elkaar raken.']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch strandlandschap met een enkele boom, zachte golven en een rustige sfeer, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a013782_13845.webp"
     },
     {
-      "id": 13825,
-      "cyclus": 13762,
+      "id": 13844,
+      "cyclus": 13781,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de kerk aan de rechterkant', 'lichte wazigheid in de achtergrondbomen']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een typisch Nederlands grachtenschilderij met kerken en een brug, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a013762_13825.webp"
+      "tech_notities": "['lichte onscherpte in achtergrond, maar geen duidelijke artefacten']",
+      "cliche_notities": "Beeld herinnert aan een typische ansichtkaart met eenzame figuur tegen zonsondergang, zonder unieke compositorische keuze",
+      "bestand": "images/a013781_13844.webp"
     },
     {
-      "id": 13814,
-      "cyclus": 13751,
+      "id": 13843,
+      "cyclus": 13780,
       "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['lichte vervorming in de reflectie van de molens in het water', 'watervlak mist consistente textuur', 'achtergrondboom aan rechterkant heeft onnatuurlijke takstructuur']",
-      "cliche_notities": "Molen met water en bomen in een klassieke compositie zonder onverwachte elementen of persoonlijk standpunt",
-      "bestand": "images/a013751_13814.webp"
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de ramen ten opzichte van de muur', 'lichte wazigheid in de achtergrondvegetatie']",
+      "cliche_notities": "De molen in een klassieke Nederlandse landschapsscene, gefotografeerd door een raam met decoratief licht, past precies in de ansichtkaarttraditie zonder eigen compositorische keuzes.",
+      "bestand": "images/a013780_13843.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13778,
-    "gemaakt": 13840,
+    "cycli": 13786,
+    "gemaakt": 13848,
     "gekozen": 2152,
-    "afgekeurd": 1658,
-    "corpus": 60,
+    "afgekeurd": 1661,
+    "corpus": 61,
     "notities": 502
   }
 }
