@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T16:45+02:00",
+  "bijgewerkt": "2026-08-24T17:00+02:00",
   "werk": [
     {
       "id": 14064,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 14078,
+      "cyclus": 14015,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen tegen een dramatische hemel, zonder originele compositorische keuzes.",
+      "bestand": "images/a014015_14078.webp"
+    },
+    {
+      "id": 14075,
+      "cyclus": 14012,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van bomen (stammen lijken niet logisch te vertakken)', 'Enkele eenden hebben onnatuurlijke proporties (nek te lang/dun)']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: witte eenden onder een boom in een groen landschap, met decoratief licht en geen duidelijke compositorische keuze.",
+      "bestand": "images/a014012_14075.webp"
+    },
+    {
       "id": 14067,
       "cyclus": 14004,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden']",
       "cliche_notities": "Het beeld toont een iconisch motief (molens) met een decoratieve, ansichtkaart-achtige compositie zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a014004_14067.webp"
-    },
-    {
-      "id": 14061,
-      "cyclus": 13998,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte focus op textuur en vorm.",
-      "bestand": "images/a013998_14061.webp"
-    },
-    {
-      "id": 14059,
-      "cyclus": 13996,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch landschap met een houten loopbrug door zandduinen, typisch voor een kustgebied, met decoratief zonlicht en geen duidelijke compositorische keuze beyond de standaardcompositie.",
-      "bestand": "images/a013996_14059.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14011,
-    "gemaakt": 14073,
+    "cycli": 14016,
+    "gemaakt": 14078,
     "gekozen": 2188,
-    "afgekeurd": 1682,
+    "afgekeurd": 1684,
     "corpus": 62,
     "notities": 508
   }
