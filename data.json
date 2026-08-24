@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T10:30+02:00",
+  "bijgewerkt": "2026-08-24T10:45+02:00",
   "werk": [
+    {
+      "id": 13898,
+      "titel": "Druppels met geheugenspanning",
+      "beschrijving": "Witte, fijne grassprietjes hangen tegen een diepblauwe achtergrond, met druppels die in een rechte lijn naar beneden vallen en op zandige grond landen. Het zand is gemengd met kleine steentjes, droge plantendelen en donkere korrels. De druppels vormen een verticale as die de compositie doorsnijdt, terwijl de grassprietjes een zachte, wazige textuur hebben. De overgang van blauw naar bruin is scherp, met een onscherpe achtergrond die de focus op de druppels en het zand legt.",
+      "cyclus": 13835,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een intieme, ongedwongen close-up met een focus op subtiele details en textuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013835_13898.webp"
+    },
+    {
+      "id": 13892,
+      "titel": "Waar het water stilstaat denken ze",
+      "beschrijving": "Donkere golven rollen over een bruin zandstrand, met wit schuim dat de overgang vormt tussen water en land. De golven hebben een golvende, bijna vloeibare textuur, met subtiele overgangen van zwart naar grijs. Het schuim is gedetailleerd geschilderd met kleine druppels en bubbels, wat een gevoel van beweging geeft. Het zand heeft een gladde, natte textuur met verspreide kleine steentjes en sporen van water. De achtergrond is donker en vaag, wat de focus legt op de dynamiek van de golven en het schuim. De compositie is verticaal, met de golven die zich uitstrekken van boven naar beneden, en het schuim dat zich uitstrekt naar de voorgrond. De sfeer is rustig maar levendig, met een contrast tussen de donkere golven en het lichte schuim.",
+      "cyclus": 13829,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld toont een dynamisch golfschot met een ongebruikelijke kleurstelling en textuur, wat het uitmaakt boven een typische ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w013829_13892.webp"
+    },
     {
       "id": 13884,
       "titel": "Fingers die zand fluisteren",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013772_13835.webp"
-    },
-    {
-      "id": 13831,
-      "titel": "Getande vertakkingen in wit",
-      "beschrijving": "Zwart-wit beeld met een centrale, verticale steel die zich vertakt in meerdere donkere, getande lijnen. Rondom deze structuur bevinden zich vaag omschreven, doorschijnende vormen die aan bladeren of petalen doen denken, met subtiele schakeringen van grijs en donkere vlekken. De randen van de vormen zijn onregelmatig en soms onscherp, terwijl de achtergrond volledig wit is, waardoor de donkere elementen scherp afsteken. De compositie is asymmetrisch, met de steel als leidende lijn die het oog door het beeld leidt.",
-      "cyclus": 13768,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond donkere stengels tegen witte achtergrond', 'lichte inconsistentie in textuur van bladeren (boven/onder)', 'geen duidelijke hands/gezichten/tekst']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en niet gericht op een herkenbaar tafereel.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013768_13831.webp"
-    },
-    {
-      "id": 13828,
-      "titel": "Zaadhoofdjes in roze stilte",
-      "beschrijving": "Donkere, slanke grassprietjes stijgen schuin omhoog tegen een zachtroze achtergrond, met kleine, donkere zaadhoofdjes aan de toppen. De sprietjes zijn fijn getekend, met subtiele variaties in dikte en hoogte, en vormen een losse, natuurlijke groep. Donkere vlekken en spetters verspreid over het beeld geven een textuur die doet denken aan verwaterd papier of verweerd hout. De compositie is asymmetrisch, met de grassprietjes die zich uitstrekken van de onderkant naar de bovenkant van het beeld, terwijl de achtergrond geleidelijk overgaat in een lichtere tint. Kleine, donkere details, zoals druppels of korrels, liggen verspreid tussen de sprietjes en voegen een gevoel van onregelmatigheid toe aan het tafereel.",
-      "cyclus": 13765,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in textuur van achtergrond (soms korrelig, soms glad)', 'enkele grassprietjes hebben onnatuurlijke, schaar-andeel-achtige randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w013765_13828.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13833,
-    "gemaakt": 13895,
-    "gekozen": 2159,
+    "cycli": 13840,
+    "gemaakt": 13902,
+    "gekozen": 2161,
     "afgekeurd": 1665,
-    "corpus": 61,
+    "corpus": 62,
     "notities": 505
   }
 }
