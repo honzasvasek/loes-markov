@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-24T17:30+02:00",
+  "bijgewerkt": "2026-08-24T17:45+02:00",
   "werk": [
+    {
+      "id": 14081,
+      "titel": "Sprieten in het zand </thought>",
+      "beschrijving": "Twee bundels donker, spriettig gras steken uit een zandige heuvel, met lange, slanke bladeren die scherp afsteken tegen een egale, crèmekleurige achtergrond. Het zand heeft een korrelige textuur en wordt doorsneden door subtiele, golvende lijnen die diepte suggereren. Donkere vlekken en kleine steentjes zijn verspreid over het zand, vooral bij de basis van het gras. De compositie is asymmetrisch, met de grasbundels aan weerskanten en een brede, lege ruimte ertussenin die de blik naar boven leidt. De sfeer is rustig en minimalistisch, met een focus op de contrasten tussen de donkere vormen en de lichte, open ruimte.",
+      "cyclus": 14018,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een minimalistische compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014018_14081.webp"
+    },
     {
       "id": 14076,
       "titel": "De witte rand die blijft staan",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014013_14076.webp"
+    },
+    {
+      "id": 14074,
+      "titel": "Vingers die luisteren naar de golf",
+      "beschrijving": "Twee handen rusten op een gladde, golvende oppervlakte die lijkt op nat zand of zacht klei. De vingers zijn gespreid en volgen de contouren van een smalle, verticale richel die zich naar boven uitstrekt en overgaat in een brede, vloeiende vorm. De handen zijn gedetailleerd weergegeven, met zichtbare lijnen en nagels, en liggen tegen een egale, lichte achtergrond zonder afleiding. De textuur van het materiaal is fijn en korrelig, met subtiele schaduwen die de diepte en beweging benadrukken. De compositie is rustig en gefocust, met een balans tussen de handen en de vorm die zich achter hen bevindt.",
+      "cyclus": 14011,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een intieme, abstracte moment zonder decoratief licht of typische ansichtkaartcompositie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014011_14074.webp"
     },
     {
       "id": 14070,
@@ -104,35 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w013975_14038.webp"
-    },
-    {
-      "id": 14024,
-      "titel": "Gras dat de horizon omlijst",
-      "beschrijving": "Zandduinen vullen het middenplan, met zachte, golvende lijnen die overgaan in een vaag horizonvlak. Drie groepen donkerbruin gras steken scherp en diagonaal uit het zand, waarbij de hoogste stengels aan weerskanten de compositie lijken te omlijsten. Kleine, donkere vlekken—misschien steentjes of modder—zijn verspreid over het zand, vooral bij de basis van het gras. De achtergrond bestaat uit een lichtgrijze, korrelige textuur die een verlaten, droge sfeer uitstraalt. De randen van het beeld zijn onregelmatig en iets donkerder, alsof het papier is verscheurd of verbleekt. De kleuren zijn beperkt tot beige, bruin en grijs, met een subtiele textuur die aan verweerd papier doet denken.",
-      "cyclus": 13961,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met ruimte en details die niet typisch zijn voor een toeristische ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013961_14024.webp"
-    },
-    {
-      "id": 14021,
-      "titel": "Sporen van een vergeten reis",
-      "beschrijving": "Zand vormt een gelijkmatige, lichtbeige achtergrond met subtiele textuurvariaties. Een donkere, slanke steel loopt diagonaal door het beeld, met daaruit vertakkende takjes die kleine, donkere bloemhoofdjes en bladeren dragen. De bloemhoofdjes zijn bolvormig met prikkels, de bladeren variëren van lancetvormig tot gesegmenteerd. Sommige delen zijn scherp getekend, andere vervagen in het zand. Donkere vlekken en sporen lopen parallel aan de steel, alsof iets langs het zand is getrokken. Het licht valt schuin, waardoor zachte schaduwen de diepte benadrukken. Geen beweging, geen geluid—alleen de stilstaande, bijna fossiele indruk van een plant die in het zand is gedrukt.",
-      "cyclus": 13958,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp (een plant op zand) is niet iconisch en de compositie heeft een eigen, subtiele dynamiek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013958_14021.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14095,
+      "cyclus": 14032,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
+      "bestand": "images/a014032_14095.webp"
+    },
+    {
+      "id": 14091,
+      "cyclus": 14028,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en uitlijning', 'wazige randen rond tekst', 'onverklaarbare zwarte vlek bovenaan']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onontbrekende compositie zonder toeristische allure.",
+      "bestand": "images/a014028_14091.webp"
+    },
     {
       "id": 14090,
       "cyclus": 14027,
@@ -141,24 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de molenschachten ten opzichte van de molen', 'Enkele onduidelijke vormen in de voorgrond (afval/stuiverdie) missen plausibele structuur']",
       "cliche_notities": "Molen tegen een gestileerde achtergrond met witte pieken (herinnerend aan Japanse bergmotieven) past bij een iconisch, toeristisch thema zonder duidelijke persoonlijke compositorische keuze.",
       "bestand": "images/a014027_14090.webp"
-    },
-    {
-      "id": 14085,
-      "cyclus": 14022,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld combineert een klok met vuur en een landschap in een surrealistische stijl, wat geen typisch toeristisch onderwerp is en een eigen compositorische keuze vertoont.",
-      "bestand": "images/a014022_14085.webp"
-    },
-    {
-      "id": 14079,
-      "cyclus": 14016,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde kaartstructuur', 'inconsistent perspectief kaart', 'wazige details in kaart']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, niet-verhalende compositie.",
-      "bestand": "images/a014016_14079.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14028,
-    "gemaakt": 14090,
-    "gekozen": 2190,
-    "afgekeurd": 1687,
+    "cycli": 14035,
+    "gemaakt": 14097,
+    "gekozen": 2192,
+    "afgekeurd": 1689,
     "corpus": 61,
     "notities": 509
   }
