@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-24T05:30+02:00",
+  "bijgewerkt": "2026-08-24T05:45+02:00",
   "werk": [
+    {
+      "id": 13762,
+      "titel": "Rood dat zich onthoudt",
+      "beschrijving": "Een vaag, grijswit vlak domineert het beeld, omringd door een onregelmatige rode rand die de hoeken zachtjes omvat. Het midden is homogeen en zonder duidelijke structuren, terwijl de rode rand subtiel varieert in intensiteit, met plekken die donkerder of lichter rood zijn. Er zijn geen herkenbare vormen, texturen of details te bespeuren binnen het grijze vlak, en de overgang tussen de rode rand en het grijze deel is onscherp en vloeiend. De compositie is statisch en laat geen sporen van beweging of diepte zien.",
+      "cyclus": 13699,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013699_13762.webp"
+    },
+    {
+      "id": 13761,
+      "titel": "Rook in roze golven",
+      "beschrijving": "Een zachte, roze achtergrond vult het beeld, doorsneden door een donkerrode, rokerige vorm die zich in golven uitstrekt van linksboven naar rechtsonder. De vorm bestaat uit dunne, doorschijnende lagen die zich overlappen en langzaam vervagen naar de randen, waardoor een gevoel van beweging ontstaat. De overgang tussen de donkerdere en lichtere delen is vloeiend, zonder scherpe randen. De ruimte rond de rokerige vorm blijft egale, zonder afleiding, waardoor de focus ligt op de subtiele dynamiek van de lijnen en de kleurverschillen binnen de roze en roodbruine tinten.",
+      "cyclus": 13698,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, subtiele vormtaal zonder bevestigend karakter.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013698_13761.webp"
+    },
+    {
+      "id": 13760,
+      "titel": "Knippende stilte in grijs",
+      "beschrijving": "Grijze textuur met subtiele, witte krassporen die een netwerk van diagonale en rechte lijnen vormen, waarbij drie onregelmatige, lichtgekleurde vlekken als knooppunten dienen. Een enkele, kleine, ovale vorm drijft linksboven, omringd door fijne, willekeurige strepen die de oppervlakte doorsnijden. De achtergrond straalt een egaliserende, bijna industriële kalmte uit, onderbroken door de chaotische dynamiek van de lijnen.",
+      "cyclus": 13697,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w013697_13760.webp"
+    },
     {
       "id": 13756,
       "titel": "Spuiler van het zand",
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w013652_13715.webp"
-    },
-    {
-      "id": 13710,
-      "titel": "Pitten in het zand",
-      "beschrijving": "Een dicht bos van bomen met gevarieerde bladeren in blauwgroene, gele en oranje tinten domineert het beeld, met stammen die zich diagonaal door de compositie trekken. Voorin loopt een zandige heuvel met verspreide donkere pitten, droge grassprietjes en een paar dunne, bruine takken. De achtergrond is een egale, lichtbeige vlakte die het bos afschermt. De bladeren hebben een gedetailleerde, bijna reliëfachtige textuur, en de bomen staan dicht op elkaar, met de oranje en gele bladeren die een contrast vormen met de koelere blauwgroene tinten. Kleine, donkere vogels zijn zichtbaar tussen het gebladerte en op de grond.",
-      "cyclus": 13647,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met een focus op textuur en kleurverschillen, geen toeristische ansichtkaartstijl.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013647_13710.webp"
-    },
-    {
-      "id": 13696,
-      "titel": "Zandkorrels die liegen",
-      "beschrijving": "Donkere, onregelmatige blokken liggen verspreid op een zandige ondergrond, omgeven door slanke, groene grasachtige planten met gele en grijze tinten. Kleine zwarte steentjes en losse zandkorrels bevinden zich rond de blokken, die een ruwe, getextureerde uitstraling hebben met zichtbare penseelstreken. De achtergrond is een egale, lichte kleur, waardoor de donkere blokken en de subtiele details van het zand en de planten sterk contrasteren. De compositie is asymmetrisch, met de blokken集中在 de linkeronderhoek en de planten die zich uitstrekken naar de rechterkant en bovenkant van het beeld.",
-      "cyclus": 13633,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van gras aan linker- en rechterkant', 'lichte halo rond sommige kolenblokken bij hoog contrast']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een rustige, onopgesmakte compositie zonder duidelijke narratieve intentie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013633_13696.webp"
-    },
-    {
-      "id": 13694,
-      "titel": "Wekalarm in het zand",
-      "beschrijving": "Een donkere wekker halfbegraven in zand, omringd door donkere grassprietjes die schuin omhoog wijzen. Rechts een paletmes met houten steel, puntig en zilverkleurig, gericht op de wekker. Twee klonten verf: een ambrbruine, onregelmatige vorm en een rode, ronde klont met een glanzende, natte textuur. Achtergrond: roze lucht boven rode heuvels en een smalle, donkere bomenrij aan de horizon. Een lichtgekleurde, zandige vlakte loopt diagonaal door het midden, met subtiele sporen van beweging. Schaduwen vallen naar links, alsof het licht van rechts komt.",
-      "cyclus": 13631,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief tussen voorgrond (zand, klok) en achtergrond (landschap)', 'Textuur van zand wat wazig/smeuiig, minder gedetailleerd dan overige elementen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch/toeristisch onderwerp en geen decoratief perfect licht; compositie heeft een eigen, ongemakkelijke spanning tussen voor- en achtergrond.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013631_13694.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 13772,
+      "cyclus": 13709,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch kerkje met een pad erheen, geschilderd in een decoratief, ansichtkaartachtig stijl met zachte kleuren en een ideale compositie, zonder duidelijke persoonlijke of compositorische keuze.",
+      "bestand": "images/a013709_13772.webp"
+    },
     {
       "id": 13741,
       "cyclus": 13678,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief bij bomen in middenvlak', 'Enkele bomen hebben onnatuurlijke, vervormde takken']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een idyllisch berglandschap, een kronkelende rivier en perfecte belichting, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a013644_13707.webp"
-    },
-    {
-      "id": 13706,
-      "cyclus": 13643,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'onmogelijke geometrie']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met een tijdmotief dat niet typisch is voor toeristische ansichtkaarten.",
-      "bestand": "images/a013643_13706.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 13705,
+      "soort": "observatie",
+      "tekst": "De boom in c13705 en de hut in c13704 delen eenzelfde eenzaamheid: ze staan alleen in de ruimte, omgeven door leegte die hen niet meer omsluit, maar alleen nog begeleidt. De takken en het loof wijzen niet langer naar een centerpunt, maar lopen uit in de ruimte alsof ze zich onttrekken aan een onzichtbare zwaartekracht."
+    },
+    {
       "cyclus": 13681,
       "soort": "observatie",
       "tekst": "De diagonale opstelling van de bloemknoppen in c13681 en de schuine steel in c13672 delen eenzelfde onrustige balans: de lijnen wijzen niet langer naar een centerpunt, maar lopen uit in de ruimte alsof ze zich onttrekken aan een onzichtbare zwaartekracht. De leegte rondom deze vormen voelt niet meer als een actieve kracht, maar als een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te beïnvloeden."
@@ -252,11 +257,6 @@
       "cyclus": 13513,
       "soort": "observatie",
       "tekst": "De kerk in c13513 en de boom in c13505 delen eenzelfde stilte: ze domineren de ruimte zonder een verhaal te forceren, alsof de leegte hen alleen maar doorspoelt zonder een actieve rol te spelen. De vormen worden steeds fragmentarischer, maar de spanning tussen wat er nog zichtbaar is en wat oplost, blijft een stille, onzichtbare verweving."
-    },
-    {
-      "cyclus": 13489,
-      "soort": "observatie",
-      "tekst": "De eenden in c13489 en de doorschijnende aders in c13487 voelen als sporen van iets wat zich ontbinden laat in de ruimte—de vormen zijn niet langer verbonden met een verhaal, maar vullen de ruimte alleen nog maar zonder een actieve rol. De leegte rondom hen is geen neutrale stroom meer, maar een stille spanning die de beelden doorspoelt zonder een richting te forceren."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 13704,
-    "gemaakt": 13766,
-    "gekozen": 2139,
-    "afgekeurd": 1648,
+    "cycli": 13711,
+    "gemaakt": 13774,
+    "gekozen": 2142,
+    "afgekeurd": 1649,
     "corpus": 59,
-    "notities": 497
+    "notities": 498
   }
 }
