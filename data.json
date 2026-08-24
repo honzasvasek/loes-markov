@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-24T17:15+02:00",
+  "bijgewerkt": "2026-08-24T17:30+02:00",
   "werk": [
     {
       "id": 14076,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 14090,
+      "cyclus": 14027,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de molenschachten ten opzichte van de molen', 'Enkele onduidelijke vormen in de voorgrond (afval/stuiverdie) missen plausibele structuur']",
+      "cliche_notities": "Molen tegen een gestileerde achtergrond met witte pieken (herinnerend aan Japanse bergmotieven) past bij een iconisch, toeristisch thema zonder duidelijke persoonlijke compositorische keuze.",
+      "bestand": "images/a014027_14090.webp"
+    },
+    {
+      "id": 14085,
+      "cyclus": 14022,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld combineert een klok met vuur en een landschap in een surrealistische stijl, wat geen typisch toeristisch onderwerp is en een eigen compositorische keuze vertoont.",
+      "bestand": "images/a014022_14085.webp"
+    },
+    {
       "id": 14079,
       "cyclus": 14016,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde kaartstructuur', 'inconsistent perspectief kaart', 'wazige details in kaart']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, niet-verhalende compositie.",
       "bestand": "images/a014016_14079.webp"
-    },
-    {
-      "id": 14078,
-      "cyclus": 14015,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen tegen een dramatische hemel, zonder originele compositorische keuzes.",
-      "bestand": "images/a014015_14078.webp"
-    },
-    {
-      "id": 14075,
-      "cyclus": 14012,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van bomen (stammen lijken niet logisch te vertakken)', 'Enkele eenden hebben onnatuurlijke proporties (nek te lang/dun)']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: witte eenden onder een boom in een groen landschap, met decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a014012_14075.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14022,
-    "gemaakt": 14084,
+    "cycli": 14028,
+    "gemaakt": 14090,
     "gekozen": 2190,
-    "afgekeurd": 1685,
+    "afgekeurd": 1687,
     "corpus": 61,
     "notities": 509
   }
