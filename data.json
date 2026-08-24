@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T18:00+02:00",
+  "bijgewerkt": "2026-08-24T18:15+02:00",
   "werk": [
+    {
+      "id": 14093,
+      "titel": "Vingers die een vraag vasthouden",
+      "beschrijving": "Twee handen met lichtgekleurde huid strekken zich uit vanuit de linker- en rechterbovenhoek, vingers licht gebogen en指尖 bijna raakend in het midden. De nagels zijn kort en netjes, met subtiele schaduwen die de textuur van de huid benadrukken. De achtergrond bestaat uit fijn gestreept papier met een donkergrijze, bijna zwarte tint, waar een vaag, geometrisch patroon in de bovenste helft een V-vorm vormt. Onder de handen loopt een verticale, lichtere strook die de compositie doorsnijdt, met een textuur die doet denken aan verweerd hout of verbleekt canvas. Kleine, donkere vlekjes en onregelmatigheden in het papier geven een gevoel van verloop en tijd. De handen zijn gedetailleerd getekend met fijne lijnen die de plooien en aderen weergeven, terwijl de achtergrond meer vaag en textuurrijk is.",
+      "cyclus": 14030,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De handen zijn geen iconisch motief en de compositie heeft een eigen, subtiele spanning, geen ansichtkaart-licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014030_14093.webp"
+    },
+    {
+      "id": 14092,
+      "titel": "Papier dat ademt",
+      "beschrijving": "Zachte, doorschijnende kleurvlekken vullen het vlak, met subtiele overgangen tussen roze, lichtblauw, beige en groenachtige tinten. De vormen zijn organisch en onregelmatig, alsof ze door water zijn getrokken, met vaag omlijnde randen die in elkaar opgaan. Een dunne, verticale lijn loopt door het midden, licht blauw getekend, en suggereert een onzichtbare as. Witte ruimtes tussen de kleuren geven de indruk van lucht of papier dat niet volledig bedekt is. De sfeer is kalm en zwevend, zonder duidelijke focus of richting.",
+      "cyclus": 14029,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met subtiele kleurvlakken en ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014029_14092.webp"
+    },
     {
       "id": 14081,
       "titel": "Sprieten in het zand </thought>",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w013981_14044.webp"
-    },
-    {
-      "id": 14043,
-      "titel": "Stilstaan in de valkuil",
-      "beschrijving": "Zwart op wit papier, met schone, scherpe lijnen die diagonaal door het midden lopen, alsof ze in één beweging getekend zijn. Bovenin een dichte laag van willekeurig gerichte, dunne stengels die door elkaar lopen, sommige scherp, andere vager, met kleine, donkere vlekken die als druppels of korrels door de structuur verspreid zijn. Daaronder een brede, golvende laag van langere, soepelere strepen die zich uitstrekken naar de onderkant, waar de lijnen dunner en zachter worden, bijna verdwijnend in het wit. De bovenste laag voelt statisch en chaotisch, de onderste beweeglijk en open, met veel lege ruimte die de lijnen omhult zonder ze te begrenzen. Geen kleur, geen textuur buiten de inkt, geen vorm die een herkenbaar onderwerp suggereert.",
-      "cyclus": 13980,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w013980_14043.webp"
-    },
-    {
-      "id": 14038,
-      "titel": "Waar de takken zwijgen",
-      "beschrijving": "Een boom met een donkerbruine stam en takken domineert de rechterkant, met groene en geelgroene bladeren die zich uitstrekken naar de linkerbovenhoek. Onder de boom groeit groen gras met donkergroene en blauwgroene tinten, doorspekt met kleine gele en bruine vlekjes. De achtergrond bestaat uit een lichte, bijna witte hemel die overgaat in een zachtgroene horizon met vaag omlijnde struiken en gras. De compositie is verticaal, met de boom als centrale as en het landschap dat zich uitstrekt naar de onderkant. Kleuren zijn voornamelijk groen, bruin en wit, met subtiele variaties in tinten en textuur.",
-      "cyclus": 13975,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is niet decoratief perfect.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w013975_14038.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14110,
+      "cyclus": 14047,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de kerk ten opzichte van de bomen', 'Enkele grashalmen in de voorgrond hebben onnatuurlijke, stijve vormen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconisch kerkje in een idyllisch landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014047_14110.webp"
+    },
+    {
+      "id": 14104,
+      "cyclus": 14041,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (eenden in een landschap) en de decoratieve, traditionele uitvoering zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014041_14104.webp"
+    },
     {
       "id": 14101,
       "cyclus": 14038,
@@ -141,24 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de golven ten opzichte van de bergen', 'Enkele druppels in de golven zijn wat wazig en verliezen detail']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische motief van golven en zonsondergang met decoratief licht en een klassieke compositie.",
       "bestand": "images/a014038_14101.webp"
-    },
-    {
-      "id": 14095,
-      "cyclus": 14032,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
-      "bestand": "images/a014032_14095.webp"
-    },
-    {
-      "id": 14091,
-      "cyclus": 14028,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistent lettertype en uitlijning', 'wazige randen rond tekst', 'onverklaarbare zwarte vlek bovenaan']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onontbrekende compositie zonder toeristische allure.",
-      "bestand": "images/a014028_14091.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14041,
-    "gemaakt": 14103,
-    "gekozen": 2192,
-    "afgekeurd": 1690,
-    "corpus": 62,
+    "cycli": 14048,
+    "gemaakt": 14110,
+    "gekozen": 2194,
+    "afgekeurd": 1692,
+    "corpus": 61,
     "notities": 509
   }
 }
