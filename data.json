@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-24T23:30+02:00",
+  "bijgewerkt": "2026-08-24T23:45+02:00",
   "werk": [
+    {
+      "id": 14242,
+      "titel": "Rode beloftes in de takken",
+      "beschrijving": "Donkere, slanke takken strekken zich uit tegen een lichte, getextureerde achtergrond, doorspekt met roodbruine en roze vlekken die aan bloesem of herfstbladeren denken laten. Fijne, donkere lijnen lopen door de takken, met af en toe kleine, donkere knoppen of vruchten. Verspreid door het beeld bevinden zich oranje en rode stippen en vage, witte vormen die als lichtreflecties of onvoltooide penseelstreken fungeren. De compositie is dynamisch, met takken die diagonaal door het beeld lopen en een gevoel van beweging creëren. De kleuren zijn gedempt, maar de rode en oranje tinten trekken de blik en geven een subtiele warmte aan het tafereel.",
+      "cyclus": 14179,
+      "tech_score": 8.0,
+      "tech_notities": "['Enkele takken hebben lichte vervormingen aan de randen, alsof ze in een onnatuurlijke hoek uit elkaar groeien', 'Enkele rode vlekken hebben een onverklaarbare glans die niet bij het overige kleurgebruik past']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en de compositie is niet decoratief, maar juist ongemakkelijk schuin en onbalanserd",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014179_14242.webp"
+    },
+    {
+      "id": 14239,
+      "titel": "Waar blijft de regen?",
+      "beschrijving": "Donkere, droge aarde met verspreide, scherpe, donkerblauwe grassprietjes die schuin omhoog wijzen. Sommige sprietjes zijn geelbruin of wit, met smalle, puntige uiteinden. De achtergrond wordt gedomineerd door een diepblauwe, effen vlakte met subtiele, lichte penseelstreken die een vaag horizonlijn suggereren. Witte en lichtgroene vlekken in de verte vormen een onduidelijke overgang naar de blauwe achtergrond. Droog gras en kleine takjes liggen verspreid over de aarde, met schaduwen die diepte geven aan de textuur van de grond en het gras.",
+      "cyclus": 14176,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de achtergrond (hemel) met onnatuurlijke penseelstreken', 'Sommige grasbladeren hebben onrealistische, scherp gepunteerde vormen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een ongemakkelijke, bijna onafgewerkte sfeer die afwijkt van een typische ansichtkaartcompositie",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014176_14239.webp"
+    },
     {
       "id": 14236,
       "titel": "Handen die een tak vasthouden",
@@ -104,35 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014121_14184.webp"
-    },
-    {
-      "id": 14183,
-      "titel": "Wit spoor door goud",
-      "beschrijving": "Zand, fijn en goudkleurig, vormt een glad oppervlak waar een smalle, witte spoor doorheen loopt, golfslagvormig en met subtiele textuurverschillen. Aan de linkerkant rijzen slanke, groene grassprietten op, sommige met bruine, droge uiteinden, en werpen korte schaduwen op het zand. Kleiachtige tinten en zachte overgangen domineren, met kleine donkere korrels verspreid over het zand. De compositie is rustig, met de witte lijn die de blik door het beeld leidt, terwijl het gras een verticale balans vormt tegen de horizontale uitstreking van het zand.",
-      "cyclus": 14120,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, bijna abstracte compositie met een focus op textuur en vorm, wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014120_14183.webp"
-    },
-    {
-      "id": 14176,
-      "titel": "Nagellak op zand en verf",
-      "beschrijving": "Twee handen met kort, ongelijkmatig nagellak raken een textuurrijk oppervlak aan, bestaande uit lagen beige en crèmekleurige verf met zichtbare penseelstreken. Tussen de handen door ligt een smalle strook zand, doorspekt met kleine, donkerbruine deeltjes en verspreide graankorrels. Twee droge, bruine grassprietjes met zachte, veerachtige toppen steken schuin uit het zand, geflankeerd door smalle, groene bladeren met een glanzende textuur. De verf toont onregelmatige, vloeiende vormen, alsof deze recent is aangebracht en nog niet volledig droog is. Kleine druppels verf en losse korrels zand liggen verspreid over het oppervlak, wat een gevoel van beweging en onafgemaktheid oproept. De compositie is symmetrisch opgebouwd rond de handen, met de grassprietjes die een diagonale lijn vormen die het beeld doorsnijdt. De sfeer is rustig en contemplatief, met een subtiele spanning tussen de zachte, organische vormen en de ruwe, textuurrijke achtergrond.",
-      "cyclus": 14113,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van zand vs. verf (zand lijkt te scherp, verf te glad)', 'lichte vervorming van vingers aan linkerhand (middelvinger te lang/smald)', 'kleine halo rond rand van rechterhand']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust asymmetrisch en de handen voelen als een persoonlijke, niet-toeristische aanraking.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014113_14176.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14253,
+      "cyclus": 14190,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['lichte vervorming in reflecties water', 'onduidelijke details in achtergrondgebouwen']",
+      "cliche_notities": "Molen en waterlandschap zijn iconisch Nederlands ansichtkaartmateriaal zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a014190_14253.webp"
+    },
+    {
+      "id": 14251,
+      "cyclus": 14188,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen significante generatie-artefacten, lichte onnauwkeurigheid in de proporties van de wieken",
+      "cliche_notities": "Molen in landschap is een klassiek iconisch onderwerp zonder duidelijke compositorische keuze of eigen standpunt",
+      "bestand": "images/a014188_14251.webp"
+    },
     {
       "id": 14232,
       "cyclus": 14169,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van het waterpad', 'enkele wazige details in de achtergrondvegetatie']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een typisch Nederlands landschap met een gracht en bloemen, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014169_14232.webp"
-    },
-    {
-      "id": 14228,
-      "cyclus": 14165,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een iconisch woestijnschap met een perfecte zonsondergang en een minimalistisch symbool, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014165_14228.webp"
-    },
-    {
-      "id": 14222,
-      "cyclus": 14159,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van het huis ten opzichte van de omringende bomen', 'lichte wazigheid in de achtergrondwolken']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met een weg die naar een huis loopt, omgeven door groen en een dramatische hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014159_14222.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14184,
-    "gemaakt": 14246,
-    "gekozen": 2214,
-    "afgekeurd": 1706,
+    "cycli": 14191,
+    "gemaakt": 14253,
+    "gekozen": 2216,
+    "afgekeurd": 1708,
     "corpus": 61,
     "notities": 515
   }
