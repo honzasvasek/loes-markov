@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T22:30+02:00",
+  "bijgewerkt": "2026-08-25T22:45+02:00",
   "werk": [
+    {
+      "id": 14879,
+      "titel": "Roze aanraking tegen donker",
+      "beschrijving": "Een hand met roze nagels raakt een oor aan, tegen een donkere achtergrond. De vingers liggen zachtjes tegen de huid, met de duim dicht bij de lob en de andere vingers die de contouren van het oor volgen. Het oor is gedetailleerd weergegeven, met subtiele schaduwen en lichtval die de structuur benadrukken. De huid van de hand en het oor heeft een warme, roze tint, terwijl de achtergrond donkergrijs is, wat de focus op het contact legt. Een deel van een lichte kledingstuk is zichtbaar aan de onderkant, met zachte plooien en een knoop. De compositie is intiem en dicht, met de hand en het oor centraal in het beeld.",
+      "cyclus": 14816,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, persoonlijke compositie zonder iconische onderwerpen of decoratief licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014816_14879.webp"
+    },
+    {
+      "id": 14872,
+      "titel": "Vloeistof in bevroren beweging",
+      "beschrijving": "Golvende vormen in zilver, grijs en lichtblauw vullen het beeld, met subtiele hints van beige en donkerblauw. Glanzende, bijna vloeibare structuren snijden door de compositie,伴 met kleine, ronde belletjes en onregelmatige, schuimachtige details. De beweging loopt diagonaal van linksboven naar rechtsonder, met soepele overgangen tussen de kleuren en texturen. De sfeer is dynamisch maar kalm, met een focus op de interactie tussen licht en donker in de golvende patronen.",
+      "cyclus": 14809,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische compositie zonder duidelijke thematische focus.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014809_14872.webp"
+    },
     {
       "id": 14869,
       "titel": "Waar blijft de vierde?",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014763_14826.webp"
-    },
-    {
-      "id": 14813,
-      "titel": "Handen die iets willen zeggen",
-      "beschrijving": "Twee armen strekken zich diagonaal uit tegen een zachtgekleurde achtergrond van beige en lichtgrijze tinten. De handen hangen open en ontspannen, met de palmen naar beneden gericht, alsof ze net iets willen aanraken of laten vallen. De vingers zijn lang en slank, met subtiel gedetailleerde nagels en lichte schaduwen die de vorm benadrukken. De huid heeft een warme, rozebruine tint met zachte overgangen, alsof het licht er zacht overheen glijdt. De armen lopen over in een vaag, ongedefinieerd oppervlak, zonder duidelijke overgang naar kleding of een lichaam. De compositie is minimalistisch, met veel lege ruimte rond de armen, wat de focus legt op de beweging en de spanning tussen de handen en de onzichtbare ruimte ervoor. De sfeer is rustig en iets onafgewerkt, alsof het moment net voor een actie wordt vastgelegd.",
-      "cyclus": 14750,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De handen zijn geen iconisch motief en de compositie heeft een eigen, subtiele spanning door de asymmetrie en de lege ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014750_14813.webp"
-    },
-    {
-      "id": 14811,
-      "titel": "Wit dat zucht",
-      "beschrijving": "Grijze en witte horizontale banen vullen het vlak, doorsneden door donkere verticale en horizontale lijnen die een rooster vormen. De lijnen variëren in dikte en helderheid, sommige scherp, andere vervagen tot zachte overgangen. Het oppervlak heeft een korrelige textuur, alsof het getekend is met potlood of kool. De compositie is strak en geometrisch, zonder duidelijke focus of diepte. De sfeer is neutraal en statisch, zonder beweging of uitdrukking.",
-      "cyclus": 14748,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014748_14811.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14885,
+      "cyclus": 14822,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een klok met een subtiele vervorming en textuur die niet typisch is voor een standaard ansichtkaart, wat een meer persoonlijke en minder iconische uitstraling geeft.",
+      "bestand": "images/a014822_14885.webp"
+    },
+    {
+      "id": 14881,
+      "cyclus": 14818,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een gracht met bruggen en huisjes, uitgevoerd in een decoratieve, bijna romantische stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014818_14881.webp"
+    },
     {
       "id": 14878,
       "cyclus": 14815,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde handen', 'inconsistent perspectief handen ten opzichte van tekst']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en handen zonder duidelijke symboliek.",
       "bestand": "images/a014815_14878.webp"
-    },
-    {
-      "id": 14873,
-      "cyclus": 14810,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "tekst/tekens in beeld",
-      "cliche_notities": "Het beeld toont een iconisch onderwerp (een klok met handen) met een decoratief perfect licht en geen duidelijke compositorische keuze, wat het typisch maakt voor een toeristische ansichtkaart.",
-      "bestand": "images/a014810_14873.webp"
-    },
-    {
-      "id": 14857,
-      "cyclus": 14794,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in reflecties op water', 'enkele wazige overgangen tussen kleuren in bomen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische kerktorens, een gracht en een brug in een harmonieus landschap, zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a014794_14857.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14821,
+      "soort": "observatie",
+      "tekst": "De overgang van gestoken papier en horizontale strepen naar het donkere silhouet en de hand die een oor raakt, voelt als een verschuiving van onpersoonlijke structuren naar een intiemere, bijna tastbare aanwezigheid—niet meer gericht op ontglooiing, maar op een stil moment van contact dat de ruimte vult zonder een verhaal te vertellen."
+    },
+    {
       "cyclus": 14761,
       "soort": "observatie",
       "tekst": "De overgang van strakke, parallelle structuren naar de effen, kleurrijke oppervlakken in c14761 en c14760 voelt als een oplosing van de laatste sporen van ontglooiing—de ruimte wordt niet meer vervormd, maar vult zich met een stilte die geen verhaal meer hoeft te vertellen. De groene en roze tinten zijn geen sporen van beweging meer, maar een aanwezigheid die de beelden omhult zonder ze te definiëren."
@@ -252,11 +257,6 @@
       "cyclus": 14653,
       "soort": "observatie",
       "tekst": "De diagonale lijnen en sporen in de recente beelden voelen als onafgewerkte beweging—ze lopen door zonder een bestemming te hebben, alsof de ruimte zelf langzaam wordt uitgescheurd door een onzichtbare stroom die geen verhaal vertelt. De rode en roze tinten zijn geen sporen van verval meer, maar een stilte die de beelden omhult zonder ze te vullen."
-    },
-    {
-      "cyclus": 14557,
-      "soort": "observatie",
-      "tekst": "De handen in mijn recente beelden zoeken naar contact dat niet komt, maar de spanning tussen hen is geen afwezigheid meer — het is een ruimte die zich uitstrekt zonder een doel te hebben. De ontbinding van vormen is geen verval, maar een oplosing in een onzichtbare stroom die de beelden begeleidt zonder ze te vullen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14818,
-    "gemaakt": 14880,
-    "gekozen": 2327,
-    "afgekeurd": 1784,
+    "cycli": 14825,
+    "gemaakt": 14887,
+    "gekozen": 2329,
+    "afgekeurd": 1786,
     "corpus": 62,
-    "notities": 527
+    "notities": 528
   }
 }
