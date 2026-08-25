@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T02:45+02:00",
+  "bijgewerkt": "2026-08-25T03:00+02:00",
   "werk": [
     {
       "id": 14323,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 14346,
+      "cyclus": 14283,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming vleugels bij één vogel bovenaan', 'onduidelijke textuur in dakpannen rechts']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met vogels in vlucht boven nostalgische huizen, zonder onverwachte compositorische keuzes.",
+      "bestand": "images/a014283_14346.webp"
+    },
+    {
+      "id": 14342,
+      "cyclus": 14279,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in waterreflecties bij de oever', 'enkele grassprietjes hebben onnatuurlijke, herhalende patronen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een rustige rivier door een groen landschap, zonder onverwachte compositorische keuzes of een uniek standpunt.",
+      "bestand": "images/a014279_14342.webp"
+    },
+    {
       "id": 14339,
       "cyclus": 14276,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde geometrie (dak/gevel)', 'inconsistent perspectief (ramen/deur)']",
       "cliche_notities": "Iconisch onderwerp (klassiek gebouw met klok) met decoratief licht en geen duidelijke compositorische keuze.",
       "bestand": "images/a014276_14339.webp"
-    },
-    {
-      "id": 14328,
-      "cyclus": 14265,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en symbolen.",
-      "bestand": "images/a014265_14328.webp"
-    },
-    {
-      "id": 14318,
-      "cyclus": 14255,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch verlaten hok in een landschap, getekend in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014255_14318.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14277,
-    "gemaakt": 14340,
+    "cycli": 14285,
+    "gemaakt": 14348,
     "gekozen": 2233,
-    "afgekeurd": 1720,
+    "afgekeurd": 1722,
     "corpus": 59,
     "notities": 516
   }
