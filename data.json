@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T12:00+02:00",
+  "bijgewerkt": "2026-08-25T12:15+02:00",
   "werk": [
+    {
+      "id": 14596,
+      "titel": "Vingers die stilstaan in regen",
+      "beschrijving": "Twee handafdrukken domineren het beeld, de linker in roze en bruine tinten, de rechter in donkerblauw en grijs, met vingers die zachtjes uitwaaieren. Linksboven liggen vijf gekleurde pastelkrijtjes schuin gerangschikt: rood, paars, donkerblauw, groen en geel, waarvan de punten de kleuren van de handafdrukken weerspiegelen. De achtergrond bestaat uit een wit vel papier met subtiele, natte waterverfvlakken die de handen omhullen, met druppels en lopende kleuren die een gevoel van beweging suggereren. De compositie is asymmetrisch, met de handen centraal maar licht schuin geplaatst, terwijl de krijtjes een diagonale lijn vormen die het oog naar de linkerhand leidt. De sfeer is speels en intuïtief, met een mix van scherpe en vaag uitgelopen vormen.",
+      "cyclus": 14533,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke, abstracte benadering met ruimte voor interpretatie, geen ansichtkaartcompositie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014533_14596.webp"
+    },
+    {
+      "id": 14586,
+      "titel": "Zwart slurpt wit op",
+      "beschrijving": "Een donker, textuurrijk vlak domineert het beeld, omlijst door een smalle witte rand die de hoeken zacht af rondet. Onderaan loopt een onregelmatige witte lijn die een horizon suggereert, met daaronder een wirwar van korte, gebroken lijnen en stippen die een onrustig oppervlak imiteren. De witte elementen vormen een contrast met de diepzwarte achtergrond, waarbij de lijnen variëren in dikte en richting, alsof ze willekeurig zijn getekend maar toch een onderliggende structuur suggereren. De compositie is verticaal uitgesproken, met de donkere ruimte die de kijker naar beneden trekt, waar de witte vormen een gevoel van diepte en beweging creëren zonder een duidelijk onderwerp te vormen. De sfeer is minimalistisch en iets ongemakkelijks, door de scherpe contrasten en de afwezigheid van kleur buiten zwart en wit.",
+      "cyclus": 14523,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014523_14586.webp"
+    },
     {
       "id": 14583,
       "titel": "Wat blijft van nat papier",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014483_14546.webp"
-    },
-    {
-      "id": 14538,
-      "titel": "Vingers die vragen om te raken",
-      "beschrijving": "Twee handen strekken zich naar elkaar uit tegen een effen, lichtbeige achtergrond. De bovenste hand, met de palm naar beneden, hangt iets hoger en wijst met de vingers gespreid naar beneden. De onderste hand, met de palm naar boven, ligt lager en heeft de vingers eveneens gespreid, alsof deze de bovenste hand wil opvangen. Beide handen zijn getekend met fijne, donkere lijnen en schaduwen, waardoor de textuur van de huid en de spieren zichtbaar zijn. De armen lopen diagonaal door het beeld, waardoor er een spanning ontstaat tussen de twee handen die elkaar bijna raken, maar nog niet. De achtergrond is volledig leeg, waardoor de focus volledig op de handen en hun onderlinge relatie ligt.",
-      "cyclus": 14475,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in vingerlengten bovenste hand, lichte wazigheid in schaduwpartijen van onderarmen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een subtiele spanning tussen afwezigheid en aanwezigheid in de composities",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014475_14538.webp"
-    },
-    {
-      "id": 14536,
-      "titel": null,
-      "beschrijving": "Donkere, onregelmatige vlekken van wat lijkt op natte verf of roet verspreiden zich over een wit, textuurrijk oppervlak, met zachte overgangen naar lichtgrijze zones die de randen vormen. De donkerste partiën, bijna zwart, zitten voornamig in het midden en de linkerbovenhoek, waar ze ongestroomlijnde, amorf vormen suggereren met subtiele, adervergelijkbare uitlopers die zich uitstrekken naar de lichtere gebieden. De witte ruimte aan de onder- en rechterkant blijft grotendeels leeg, met alleen enkele vaag zichtbare, fijne lijnen die de textuur van het papier of de ondergrond doorbreken. De overgang tussen donker en licht is vloeiend, zonder scherpe randen, wat een gevoel van organische uitbreiding geeft.",
-      "cyclus": 14473,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014473_14536.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14531,
-    "gemaakt": 14594,
-    "gekozen": 2279,
+    "cycli": 14538,
+    "gemaakt": 14601,
+    "gekozen": 2281,
     "afgekeurd": 1757,
-    "corpus": 63,
+    "corpus": 60,
     "notities": 519
   }
 }
