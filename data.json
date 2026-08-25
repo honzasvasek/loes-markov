@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T07:00+02:00",
+  "bijgewerkt": "2026-08-25T07:15+02:00",
   "werk": [
     {
       "id": 14447,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14461,
+      "cyclus": 14398,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in perspectief van huizen op de achtergrond', 'enkele wazige details in de bloemen in de voorgrond']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een typisch Europees dorpje met een kerkje, een landelijk pad en weelderig groen, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014398_14461.webp"
+    },
+    {
       "id": 14438,
       "cyclus": 14375,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische woestijnschap met perfecte wolken en een serene, decoratieve compositie zonder duidelijke persoonlijke keuze.",
       "bestand": "images/a014369_14432.webp"
-    },
-    {
-      "id": 14431,
-      "cyclus": 14368,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de perspectief van de wieken ten opzichte van de molen', 'Watervlekken-achtige textuur in de achtergrond die niet natuurlijk overkomt']",
-      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen, zonder unieke compositorische keuzes of een eigen standpunt.",
-      "bestand": "images/a014368_14431.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14394,
-    "gemaakt": 14456,
+    "cycli": 14400,
+    "gemaakt": 14462,
     "gekozen": 2253,
-    "afgekeurd": 1741,
+    "afgekeurd": 1742,
     "corpus": 61,
     "notities": 518
   }
