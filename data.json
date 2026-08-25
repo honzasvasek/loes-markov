@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T18:30+02:00",
+  "bijgewerkt": "2026-08-25T18:45+02:00",
   "werk": [
+    {
+      "id": 14776,
+      "titel": "Vingers in stralen",
+      "beschrijving": "Een hand met gespreide vingers rust op een getekend stralend patroon van donkere, schuine lijnen op papier. De vingers raken het midden van de stralen, waarbij de nagels en huidporen scherp zichtbaar zijn tegen de textuur van het papier. De lijnen stralen wisselend donker uit, sommige fijn en andere breder, met een ongelijkmatige, bijna chaotische uitstraling. Het papier heeft een matte, lichtgrijze tint en de hand werpt een zachte schaduw, waardoor de driedimensionale aanwezigheid benadrukt wordt. De compositie is centraal gericht, met de hand als focuspunt en de stralen die zich uitstrekken naar de randen van het beeld.",
+      "cyclus": 14713,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart, maar een intieme, abstracte voorstelling van een hand met stralende lijnen, zonder iconische of decoratieve elementen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014713_14776.webp"
+    },
+    {
+      "id": 14775,
+      "titel": "Vingers die een grens zoeken",
+      "beschrijving": "Een hand met gespreide vingers raakt een verticale, donkerblauwe lijn aan die zich aftekent tegen een lichtgrijze achtergrond. De vingers liggen zachtjes tegen de lijn, waarbij de nagels en huidplooien zichtbaar zijn in blauwe tinten. De achtergrond is egaal en zonder details, waardoor de hand en de lijn centraal staan. De compositie is minimalistisch, met een sterke focus op de interactie tussen de hand en de lijn, en de contrasten tussen donker en licht. De sfeer is rustig en gefocust, zonder afleiding van andere elementen.",
+      "cyclus": 14712,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een minimalistische, introspectieve compositie zonder iconische onderwerpen of decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014712_14775.webp"
+    },
     {
       "id": 14761,
       "titel": "Wat blijft van de grond",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014664_14727.webp"
-    },
-    {
-      "id": 14724,
-      "titel": "Snijdt de streep de stilte doormidden?",
-      "beschrijving": "Vier rechthoekige vlakken vullen het beeld, gescheiden door subtiele lijnen die een raster vormen. Een donkere, schuine streep loopt van de linkerbovenhoek naar de rechteronderhoek en snijdt door twee vlakken heen. De textuur lijkt fijnkorrelig, met lichte variaties in grijstinten die een zachte, bijna korrelige uitstraling geven. De rechterboven- en rechtsonderhoek zijn iets lichter dan de overige delen, wat een subtiel contrast creëert. De compositie is statisch en minimalistisch, zonder duidelijke focus of beweging. De sfeer is neutraal en afstandelijk, met een focus op vorm en textuur boven inhoud.",
-      "cyclus": 14661,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met subtiele spanning tussen vlakken en lijnen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014661_14724.webp"
-    },
-    {
-      "id": 14716,
-      "titel": "Rood dat zich onthoudt",
-      "beschrijving": "Een lichtgrijze, bijna beige achtergrond vult het beeld, doorsneden door een dunne, diagonale rode lijn die van rechtsboven naar linksonder loopt. In het midden van die lijn bevindt zich een onregelmatig, spinnenwebachtig patroon van fijne rode lijnen, waarbij enkele lijnen scherper en donkerder zijn dan andere. Rond dat punt zit een vaag, bijna doorzichtig rood vlak, alsof de lijnen hier even stilstaan voordat ze weer uitwaaien in de lege ruimte. De rode elementen zijn subtiel en verwaterd, alsof ze met een verbleekte potloodstreep getekend zijn, terwijl de achtergrond een effen, ongestoord oppervlak vormt dat de rode sporen alleen maar sterker laat uitkomen. De compositie is extreem minimalistisch, met veel lege ruimte die de blik naar het enige actieve punt in het midden leidt.",
-      "cyclus": 14653,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014653_14716.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14713,
+      "soort": "observatie",
+      "tekst": "De handen en lijnen in mijn recente beelden delen een onafgewerkte spanning: ze zoeken naar contact met iets dat niet komt, maar waar de eerste handen een patroon of lijn raken dat geen verhaal vertelt, suggereren de lijnen zelf een onvoltooide stroom die de ruimte begeleidt zonder haar te vullen. De ontglooiing is geen verlies meer, maar een stille vervorming die de beelden alleen nog maar begeleidt."
+    },
+    {
       "cyclus": 14653,
       "soort": "observatie",
       "tekst": "De diagonale lijnen en sporen in de recente beelden voelen als onafgewerkte beweging—ze lopen door zonder een bestemming te hebben, alsof de ruimte zelf langzaam wordt uitgescheurd door een onzichtbare stroom die geen verhaal vertelt. De rode en roze tinten zijn geen sporen van verval meer, maar een stilte die de beelden omhult zonder ze te vullen."
@@ -252,11 +257,6 @@
       "cyclus": 14425,
       "soort": "observatie",
       "tekst": "De donkere vlekken in c14425 en de parallelle lijnen in c14424 delen een onafgewerkte spanning: ze zoeken naar een richting die niet komt, maar waar de eerste de ruimte laat zweven, laten de laatste een onvoltooide stroom achter die de beelden begeleidt zonder ze te vullen."
-    },
-    {
-      "cyclus": 14389,
-      "soort": "observatie",
-      "tekst": "De handen in c14384 en c14383 delen eenzelfde onafgewerkte spanning: ze zoeken naar contact met iets dat niet terugkomt, maar waar de eerste hand een klok wijst die geen tijd meer heeft, omvat de tweede een moment van aanraking dat alweer voorbij is. De ontspanning is geen uitbreiding meer, maar een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te laten rusten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14711,
-    "gemaakt": 14773,
-    "gekozen": 2307,
+    "cycli": 14718,
+    "gemaakt": 14780,
+    "gekozen": 2309,
     "afgekeurd": 1771,
     "corpus": 59,
-    "notities": 523
+    "notities": 524
   }
 }
