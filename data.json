@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T04:30+02:00",
+  "bijgewerkt": "2026-08-25T04:45+02:00",
   "werk": [
+    {
+      "id": 14386,
+      "titel": "Glad oppervlak, onrust in de scheur",
+      "beschrijving": "Een gladde, lichtgrijze oppervlakte met subtiele textuurveranderingen domineert het beeld. Een scherpe, onregelmatige scheur loopt diagonaal door het midden, omgeven door zachte, golvende plooien die de indruk wekken van een materiaal dat langzaam aan het oplossen is. De randen van de scheur zijn dun en fragiel, met kleine, donkere spleetjes die diepte suggereren. De achtergrond is homogeen, zonder duidelijke vormen of details, wat de focus legt op de spanning tussen de gladde vlakken en de onrust in de scheur. De kleurvariaties zijn minimaal, met lichte schakeringen van grijs die de textuur benadrukken. De compositie is minimalistisch, met veel lege ruimte die de scheur als enig dynamisch element omringt.",
+      "cyclus": 14323,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onpersoonlijke vormtaal zonder toeristische connotaties.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014323_14386.webp"
+    },
+    {
+      "id": 14375,
+      "titel": null,
+      "beschrijving": "Vier onregelmatige stenen, in verschillende groottes en texturen, vallen in een diagonale lijn van linksboven naar rechtsonder tegen een effen, lichtgrijze achtergrond. De steen het dichtst bij de bovenrand is het kleinst en heeft een ruwe, bruinige textuur, terwijl de grootste steen onderaan een lichtere, bijna witte kleur heeft met donkere vlekken. Een scherpe, onregelmatige scheur loopt van linksboven naar het midden van de compositie, waarbij de bovenste steen net door de scheur heen lijkt te vallen. De achtergrond is glad en zonder afleiding, waardoor de stenen en de scheur de enige zichtbare elementen zijn. De sfeer is statisch en minimalistisch, met een focus op de contrasten tussen de ruwe stenen en de effen achtergrond.",
+      "cyclus": 14312,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014312_14375.webp"
+    },
     {
       "id": 14372,
       "titel": "Roet dat zich onthoudt van lucht",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014254_14317.webp"
-    },
-    {
-      "id": 14315,
-      "titel": "Sneeuw die vragen stelt",
-      "beschrijving": "Een besneeuwde straat loopt schuin naar achteren, geflankeerd door kale bomen aan de linkerkant en een lichtgrijze muur met smalle ramen aan de rechterkant. De sneeuw bedekt de grond in zachte, onregelmatige heuvels, met subtiele blauwe en paarse schaduwen die de diepte benadrukken. De bomen hebben donkere, slanke stammen met witte sneeuwlaagjes op de takken, die in een complex patroon tegen de lichte hemel staan. Ver weg is een vaag silhouet van een persoon te zien, zittend op een bankje, omringd door sneeuw. De sfeer is stil en koud, met een gevoel van verlatenheid dat door de lege straat en de afwezigheid van beweging wordt versterkt. De kleuren zijn gedempt, met accenten van bruin en grijs in de bomen en de muur, terwijl de sneeuw de dominante witte en lichtblauwe tinten draagt.",
-      "cyclus": 14252,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van bomen aan linkerzijde', \"lichte wazigheid in achtergrond bij auto's\"]",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze met schuine bomen en lege ruimte geeft eigen standpunt",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014252_14315.webp"
-    },
-    {
-      "id": 14308,
-      "titel": "Blauwgroene draden in witte leegte",
-      "beschrijving": "Dunne, bruine takken lopen diagonaal door het beeld, met daarop slanke, spits toelopende bladeren in zachte blauwgrijze tinten. De bladeren hebben subtiele overgangen naar lichtgroen en beige aan de randen, met enkele donkere, bijna zwarte punten waar ze de tak raken. Kleine, donkere knoppen zijn verspreid over de takken. De achtergrond is een egaal, lichtgrijs-wit, wat de bladeren en takken laat opvallen. De compositie is luchtig, met veel lege ruimte rond de takken, waardoor de focus ligt op de fijne details van de bladeren en de delicate structuur van de takken.",
-      "cyclus": 14245,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: de compositie is subtiel en niet iconisch, met een focus op stilte en leegte in plaats van een herkenbaar motief.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014245_14308.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14396,
+      "cyclus": 14333,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief bij de horizonlijn', 'lichte wazigheid in de schaduwpartijen van de bomen']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische combinatie van een zonsondergang, een kronkelende rivier en een solitaire boom, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014333_14396.webp"
+    },
     {
       "id": 14385,
       "cyclus": 14322,
@@ -150,15 +159,6 @@
       "tech_notities": "geen duidelijke generatie-artefacten, maar wat onnauwkeurige takstructuren en een iets wazige achtergrond",
       "cliche_notities": "Molens en bomen in een winterlandschap zijn een typisch Nederlands ansichtkaartmotief zonder duidelijke persoonlijke interpretatie.",
       "bestand": "images/a014321_14384.webp"
-    },
-    {
-      "id": 14378,
-      "cyclus": 14315,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een complexe compositie met meerdere lagen en een ongemakkelijke schoonheid.",
-      "bestand": "images/a014315_14378.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14329,
-    "gemaakt": 14392,
-    "gekozen": 2239,
-    "afgekeurd": 1732,
-    "corpus": 59,
+    "cycli": 14337,
+    "gemaakt": 14399,
+    "gekozen": 2241,
+    "afgekeurd": 1733,
+    "corpus": 61,
     "notities": 516
   }
 }
