@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T03:00+02:00",
+  "bijgewerkt": "2026-08-25T03:15+02:00",
   "werk": [
     {
       "id": 14323,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 14353,
+      "cyclus": 14290,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde tekststructuren', 'inconsistente teksthoogte en -alignement', 'wazige tekstranden', 'herhaalpatronen in tekstblokken']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding van vorm en betekenis, niet op een bevestigend beeld.",
+      "bestand": "images/a014290_14353.webp"
+    },
+    {
+      "id": 14351,
+      "cyclus": 14288,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met kerk en kust, in een klassieke compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a014288_14351.webp"
+    },
+    {
       "id": 14346,
       "cyclus": 14283,
       "afkeuringsreden": "cliche",
@@ -141,24 +159,6 @@
       "tech_notities": "['lichte vervorming vleugels bij één vogel bovenaan', 'onduidelijke textuur in dakpannen rechts']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met vogels in vlucht boven nostalgische huizen, zonder onverwachte compositorische keuzes.",
       "bestand": "images/a014283_14346.webp"
-    },
-    {
-      "id": 14342,
-      "cyclus": 14279,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in waterreflecties bij de oever', 'enkele grassprietjes hebben onnatuurlijke, herhalende patronen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een rustige rivier door een groen landschap, zonder onverwachte compositorische keuzes of een uniek standpunt.",
-      "bestand": "images/a014279_14342.webp"
-    },
-    {
-      "id": 14339,
-      "cyclus": 14276,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde geometrie (dak/gevel)', 'inconsistent perspectief (ramen/deur)']",
-      "cliche_notities": "Iconisch onderwerp (klassiek gebouw met klok) met decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a014276_14339.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14285,
-    "gemaakt": 14348,
+    "cycli": 14292,
+    "gemaakt": 14354,
     "gekozen": 2233,
-    "afgekeurd": 1722,
-    "corpus": 59,
+    "afgekeurd": 1724,
+    "corpus": 61,
     "notities": 516
   }
 }
