@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T10:45+02:00",
+  "bijgewerkt": "2026-08-25T11:00+02:00",
   "werk": [
+    {
+      "id": 14557,
+      "titel": "Waar blijft de horizon?",
+      "beschrijving": "Een rechthoekig raam met een donkere lijst staat schuin in een grasveld, de onderkant rustend op de grond. Door het raam zie je een hemel met opwellende oranje en roze wolken, doorsneden door donkergrijze vormen. Onder de wolken loopt een dunne strook groenbruin landschap met bomen en struiken. Het gras rond het raam is groen met donkere en lichte strepen, en enkele hoge, smalle grassprietjes steken scherp omhoog. Achter het raam is een donkergrijze muur of oppervlak zichtbaar, met subtiele textuur en een kleine, ronde, donkere knop aan de rechterkant van het raam. De randen van het beeld zijn licht onregelmatig en getekend, alsof het een prent is.",
+      "cyclus": 14494,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het schilderij ten opzichte van de achtergrond', 'Enkele grashalmen in de voorgrond zijn wat wazig en ontbreken aan duidelijke structuur']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, bijna intieme compositie met de schuine plaatsing van het schilderij en de focus op de leegte rondom, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014494_14557.webp"
+    },
+    {
+      "id": 14550,
+      "titel": "Wat blijft van een onafgewerkt verhaal",
+      "beschrijving": "Een verticaal formaat met een ongelijkmatige, versleten rand, alsof papier langzaam is opgelost in water. De achtergrond is een egaal, lichtgrijs vlak met subtiele verticale textuur, alsof het oppervlak zachtjes is gekreukt. Een donkere, slanke lijn loopt diagonaal van rechtsboven naar linksonder, met een lichte boog en een verdwijnpunt aan de onderkant. Deze lijn is niet recht, maar heeft een organische, bijna adervergelijkbare structuur, met kleine uitstulpingen en een onregelmatige dikte. Aan de linkerkant, iets boven het midden, bevindt zich een donkerdere, amorf vorm die lijkt op een vlek of een gesloten knoop, met een onduidelijke rand die overloopt in de achtergrond. Vanaf deze vorm lopen twee dunne, donkere lijnen naar de diagonale lijn, waar ze zich splitsen in een X-vorm. De lijnen zijn niet gelijkmatig: één is rechter en donkerder, de andere is lichter en heeft een wat onrustige textuur. De rechterkant van het beeld is helderder en leeg, met alleen een paar vaag zichtbare, dunne lijntjes die als sporen door het grijs lopen. De onderkant van het beeld heeft een donkere, onregelmatige rand, alsof het papier hier meer is beschadigd of verkleurd. De algehele sfeer is stil en verlaten, met een gevoel van langzaam verdwijnen, alsof het beeld zelf in een proces",
+      "cyclus": 14487,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond donkere lijnen bij randen', 'lichte inconsistentie in textuur van achtergrond (verticale strepen vs. horizontale vervaaging)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014487_14550.webp"
+    },
     {
       "id": 14548,
       "titel": "Waar blijft de greep",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014442_14505.webp"
-    },
-    {
-      "id": 14502,
-      "titel": "Wat bleef er over?",
-      "beschrijving": "Een effen, lichtgrijze textuur vult het hele beeld, met subtiele variaties in de penseelstreken die een zachte, bijna onzichtbare diepte creëren. Horizontale en verticale lijnen lopen door het vlak, niet scherp gedefinieerd maar wel waarneembaar als lichte onderbrekingen in de textuur. In het midden van het beeld bevindt zich een vaag, rechthoekig gebied waar de penseelstreken iets donkerder en textuurrijker zijn, alsof er ooit iets was dat nu verdwenen is. Een enkele, kleine donkere stip zit net onder dat gebied, een onopzettelijke afwijking in de gelijkmatigheid. De randen van het beeld zijn iets lichter dan de rest, wat een gevoel van ruimte rondom het midden suggereert. Er is geen duidelijke horizon of focus, alleen een rustige, ongestoorde uitbreiding van grijs.",
-      "cyclus": 14439,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, minimale compositie zonder duidelijke thematiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014439_14502.webp"
-    },
-    {
-      "id": 14499,
-      "titel": "Vingers op een stapel papier",
-      "beschrijving": "Twee handen reiken naar elkaar, de vingers bijna raakend, in een compositie die herinnert aan een bekend schilderij maar hier in een grafisch, getekend formaat. De handen zijn gedetailleerd weergegeven met aderen en nagels, terwijl de achtergrond bestaat uit zes rechthoekige vlakken in verschillende grijstinten, gescheiden door witte lijnen. De sfeer is statisch en gefocust, met een spanning tussen de handen en de lege ruimtes eromheen.",
-      "cyclus": 14436,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een eigen compositorische keuze met de asymmetrische indeling en de focus op de handen, geen typische ansichtkaartcompositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014436_14499.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14496,
-    "gemaakt": 14558,
-    "gekozen": 2273,
+    "cycli": 14501,
+    "gemaakt": 14563,
+    "gekozen": 2275,
     "afgekeurd": 1755,
     "corpus": 62,
     "notities": 519
