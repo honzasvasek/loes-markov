@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T20:45+02:00",
+  "bijgewerkt": "2026-08-25T21:00+02:00",
   "werk": [
+    {
+      "id": 14836,
+      "titel": "Papiersneden met een mes",
+      "beschrijving": "Twee handen domineren het beeld: één rechtsboven, met een mes in de greep, de punt gericht op een kleurrijke, vaag vormgegeven hand linksboven. Die linkerhand lijkt van papier of een zacht materiaal, met vingers die wazig en doorschijnend zijn, in tinten groen, oranje en bruin. Onderaan links bevindt zich een donkerblauwe, gestileerde vorm met witte lijnen en cirkels, alsof het een abstract symbool of een fragment van een object is. De achtergrond is helderwit, wat de handen en kleuren doet uitkomen. De sfeer is gespannen door de positie van het mes, maar ook mysterieus door de onduidelijke vormen en de mix van realistische en gestileerde elementen. Kleuren zoals oranje, groen, blauw en bruin contrasteren met de neutrale huidtinten en het witte vlak.",
+      "cyclus": 14773,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vingerproporties bij de hand met het mes', 'lichte wazigheid in de schaduwpartijen van de onderste hand']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de contrasten tussen realistische en gestileerde handen en de symbolische inbreng van het mes, wat het boven een toeristisch onderwerp verheft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014773_14836.webp"
+    },
+    {
+      "id": 14826,
+      "titel": "Vingertoppen op afstand",
+      "beschrijving": "Twee handen liggen naast elkaar, vingers gespreid en parallel, met een subtiele spanning tussen de vingertoppen. De huid toont fijne details: rimpels, aders en kleine onregelmatigheden, met een roodbruine tot beige kleurverloop. Nagels zijn kort geknipt, met een matte, licht glanzende textuur. Donkere schaduwen omlijnen de handen, die zich aftekenen tegen een egale, crèmekleurige achtergrond. Druppeltjes vocht en subtiele textuurverschillen geven een vochtig, bijna tastbaar gevoel. De compositie is symmetrisch, met een focus op de relatie tussen de handen en de lege ruimte ertussen.",
+      "cyclus": 14763,
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele vervorming in vingers (te lang/te dun)', 'lichte inconsistentie in nagelvormen', 'wazige overgang huid/textuur aan randen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op intieme, ongemakkelijke details zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014763_14826.webp"
+    },
     {
       "id": 14813,
       "titel": "Handen die iets willen zeggen",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014725_14788.webp"
-    },
-    {
-      "id": 14784,
-      "titel": "Vingers die rimpels tellen",
-      "beschrijving": "Vier handen raken het wateroppervlak, waarbij de vingers zachtjes de rimpels raken die zich concentrisch uitbreiden. Twee handen bevinden zich bovenin, de andere twee aan weerskanten, met de duimen en wijsvingers die het water bijna aanraken. Het water reflecteert licht en donkere tonen, met glinsterende highlights die de beweging benadrukken. Onderin het beeld liggen twee rechthoekige, houten blokken schuin tegen elkaar, met zichtbare korrel en scharnierende randen. De achtergrond bestaat uit een vaag getekend oppervlak met subtiele lijnen en schaduwen, wat een gevoel van diepte geeft. De compositie is gericht op de interactie tussen de handen en het water, met de houten blokken als statische counterpart. De sfeer is rustig en gefocust, met een spel van licht en donker dat de textuur van het water en het hout benadrukt.",
-      "cyclus": 14721,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van wateroppervlak', 'lichte wazigheid in textuur van houten blokken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele interactie tussen handen en water zonder typisch ansichtkaartmotief.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014721_14784.webp"
-    },
-    {
-      "id": 14780,
-      "titel": "Spoor in het zand",
-      "beschrijving": "Zandduinen vullen het beeld, getekend met fijne, donkere strepen die diepte en textuur suggereren. Een smalle, kronkelende spoor van donkere, onregelmatige vormen loopt van de voorgrond naar de achtergrond, alsof iets of iemand hier recent voorbij is geweest. De duinen hebben zachte, golvenachtige vormen, met schaduwen die de overgangen benadrukken. De achtergrond bestaat uit een egale, lichte hemel zonder details, wat de leegte van het landschap versterkt. De compositie is rustig en symmetrisch, met de spoor als enige onderbreking van de vloeiende lijnen. De sfeer is stil en verlaten, met een subtiele spanning tussen de lege ruimte en de sporen van beweging.",
-      "cyclus": 14717,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is bewust asymmetrisch en open, wat niet past bij een ansichtkaart-achtige benadering.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014717_14780.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14840,
+      "cyclus": 14777,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch huisje omgeven door groen, met een perfecte balans tussen licht en kleur, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014777_14840.webp"
+    },
     {
       "id": 14827,
       "cyclus": 14764,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare teksten', 'inconsistent perspectief in tekstband', 'wazige randen rond tekst']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder toeristische associatie.",
       "bestand": "images/a014759_14822.webp"
-    },
-    {
-      "id": 14816,
-      "cyclus": 14753,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde cijfers (16 in plaats van 6)', 'inconsistent perspectief cijfers', 'wazige textuur op klokoppervlak']",
-      "cliche_notities": "Klassiek onderwerp (klok) met dramatisch licht en geen duidelijke compositorische keuze, typisch voor een ansichtkaartachtige weergave.",
-      "bestand": "images/a014753_14816.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14771,
-    "gemaakt": 14833,
-    "gekozen": 2319,
-    "afgekeurd": 1779,
-    "corpus": 60,
+    "cycli": 14778,
+    "gemaakt": 14840,
+    "gekozen": 2321,
+    "afgekeurd": 1780,
+    "corpus": 61,
     "notities": 527
   }
 }
