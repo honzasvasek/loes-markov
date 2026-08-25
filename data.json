@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T21:30+02:00",
+  "bijgewerkt": "2026-08-25T21:45+02:00",
   "werk": [
+    {
+      "id": 14858,
+      "titel": "Korrelige scheiding",
+      "beschrijving": "Drie donkere, onregelmatige lijnen snijden schuin door een effen, lichtbeige vlak. De lijnen zijn niet rechtgetrokken: ze bevatten korrelige textuur en lichte variaties in dikte, alsof ze met een stift of koolstof zijn getekend. Tussen de lijnen over en weer loopt een subtiele, witte ader die de textuur versterkt. Het oppervlak heeft een matte, bijna papierachtige kwaliteit, zonder duidelijke horizon of diepte. De compositie is minimalistisch, met veel lege ruimte die de lijnen omhult. Er is geen spoor van beweging of detail buiten de drie lijnen en het textuurrijke oppervlak.",
+      "cyclus": 14795,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014795_14858.webp"
+    },
+    {
+      "id": 14850,
+      "titel": "Sporen van een vergeten les",
+      "beschrijving": "Donkere, korrelige achtergrond met zes kleurige krijtsporen: twee gele strepen, twee roze cirkels met diagonale lijnen, één blauwe reeks parallelle strepen en één witte, onvoltooide cirkel met een straal. Een beige krijtstokje ligt schuin in de linkeronderhoek, met een afgeronde punt en een lichtere, korrelige textuur. De krijtsporen hebben een ongelijkmatige, korrelige rand, alsof ze met druk getekend zijn. De compositie is willekeurig verspreid, zonder duidelijke hiërarchie, met veel donkere ruimte tussen de vormen. De sfeer is speels en informeel, met een focus op de textuur van het krijt en de ruwe, onafgewerkte lijnen.",
+      "cyclus": 14787,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met speelse vormen en kleuren.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014787_14850.webp"
+    },
     {
       "id": 14848,
       "titel": "Vingers die zochtten naar vorm",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014737_14800.webp"
-    },
-    {
-      "id": 14794,
-      "titel": "Zes spleten, vier handen",
-      "beschrijving": "Vier handen met lichtgekleurde nagels raken een donkerbruin, textuurrijk oppervlak aan, dat lijkt op hout of klei. De handen zijn gepositioneerd in een ster-achtige vorm, met de vingers die zich richten op een centraal punt waar zes smalle, donkere spleten samenkomen. Het oppervlak vertoont sporen van beweging, zoals lichte krassen en onregelmatigheden, en de handen werpen zachte schaduwen die de diepte benadrukken. De kleuren zijn overwegend aardetinten, met subtiele variaties in bruin en beige, en de compositie straalt een gevoel van集中te aandacht uit zonder een duidelijke actie te suggereren.",
-      "cyclus": 14731,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in vingerlengten bij linkerhand boven, lichte wazigheid in textuur van achtergrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is gericht op interactie en spanning, niet op bevestiging.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014731_14794.webp"
-    },
-    {
-      "id": 14793,
-      "titel": "Drie handen, één vierkant",
-      "beschrijving": "Drie handen met lichtgekleurde nagels raken een donkergrijze, matte oppervlakte aan, waar dunne, donkere lijnen een onregelmatig vierkant vormen. Twee vingers aan weerskanten houden de hoeken van het vierkant vast, terwijl een derde hand onderaan de rand aanraakt. De huid is glad met subtiele ridderlijnen, en de nagels zijn kort en netjes bijgesneden. De achtergrond is egaal en zonder afleiding, waardoor de handen en de lijnen centraal staan. De sfeer is rustig en gefocust, met een gevoel van precisie en zorgvuldigheid in de aanrakingen.",
-      "cyclus": 14730,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, bijna intieme focus op handen en een abstract patroon, zonder iconische of decoratieve elementen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014730_14793.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14857,
+      "cyclus": 14794,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in reflecties op water', 'enkele wazige overgangen tussen kleuren in bomen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met iconische kerktorens, een gracht en een brug in een harmonieus landschap, zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a014794_14857.webp"
+    },
     {
       "id": 14846,
       "cyclus": 14783,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch huisje omgeven door groen, met een perfecte balans tussen licht en kleur, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014777_14840.webp"
-    },
-    {
-      "id": 14827,
-      "cyclus": 14764,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'wazige texturen']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
-      "bestand": "images/a014764_14827.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14792,
-    "gemaakt": 14854,
-    "gekozen": 2323,
-    "afgekeurd": 1781,
+    "cycli": 14798,
+    "gemaakt": 14860,
+    "gekozen": 2325,
+    "afgekeurd": 1782,
     "corpus": 61,
     "notities": 527
   }
