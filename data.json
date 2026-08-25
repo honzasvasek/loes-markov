@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-25T03:15+02:00",
+  "bijgewerkt": "2026-08-25T03:30+02:00",
   "werk": [
+    {
+      "id": 14341,
+      "titel": null,
+      "beschrijving": "Een hand trekt een scheur in bruin papier open, waardoor een bevroren landschap zichtbaar wordt: bevroren gras en riet aan de rand van een waterloop, met in de verte landbouwvelden en huizen onder een grijze hemel. Het papier heeft een onregelmatige, gescheurde rand, en op de voorgrond liggen bevroren grassprietjes op het zand. De kleuren zijn gedempt, met tinten grijs, groen en bruin, en de sfeer is koud en stil.",
+      "cyclus": 14278,
+      "tech_score": 8.0,
+      "tech_notities": "['Hand is iets te glad en mist subtiele huidtextuur', 'Rand van het gescheurde papier is aan één kant iets te scherp gedefinieerd']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een realistisch landschap met een tactiele, bijna installatie-achtige laag (papier, zand, bevroren gras), wat beyond een typische ansichtkaartcompositie gaat.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014278_14341.webp"
+    },
     {
       "id": 14323,
       "titel": "Stippen die verdwijnen",
@@ -117,22 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014229_14292.webp"
-    },
-    {
-      "id": 14289,
-      "titel": "Waar de lijnen zwijgen",
-      "beschrijving": "Donkere, onregelmatige vormen drijven in een vaag, golvend landschap van lichtgrijze en beige tinten. Witte, slanke lijnen snijden door het beeld als smalle, kronkelende paden die de vormen van elkaar scheiden en een gevoel van beweging suggereren. Verspreid liggen kleine, ronde vormen die doen denken aan stenen of druppels, sommige donker, andere lichtgrijs met een glimmende rand. De achtergrond is textuurrijk, met vage, watervlekkenachtige patronen die de indruk wekken van verweerd papier of nat zand. Donkere, bijna zwarte vlakken vormen de contouren van de grotere structuren, terwijl lichtere gebieden zacht overgaan in de omgeving. Het geheel straalt een rustige, bijna dromerige sfeer uit, zonder duidelijke horizon of focus.",
-      "cyclus": 14226,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, niet-decoratieve compositie met een eigen compositorische keuze.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014226_14289.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14360,
+      "cyclus": 14297,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Molen in landschap met decoratief licht en typisch Nederlands motief, zonder eigen compositorisch standpunt.",
+      "bestand": "images/a014297_14360.webp"
+    },
+    {
+      "id": 14357,
+      "cyclus": 14294,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde horizonlijn', 'inconsistent perspectief in landschap']",
+      "cliche_notities": "Landschap met dramatische wolken en woestijnsferen herinnert aan typische ansichtkaartmotieven zonder duidelijke compositorische keuze.",
+      "bestand": "images/a014294_14357.webp"
+    },
     {
       "id": 14353,
       "cyclus": 14290,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde tekststructuren', 'inconsistente teksthoogte en -alignement', 'wazige tekstranden', 'herhaalpatronen in tekstblokken']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding van vorm en betekenis, niet op een bevestigend beeld.",
       "bestand": "images/a014290_14353.webp"
-    },
-    {
-      "id": 14351,
-      "cyclus": 14288,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch Nederlands landschap met kerk en kust, in een klassieke compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a014288_14351.webp"
-    },
-    {
-      "id": 14346,
-      "cyclus": 14283,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming vleugels bij één vogel bovenaan', 'onduidelijke textuur in dakpannen rechts']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met vogels in vlucht boven nostalgische huizen, zonder onverwachte compositorische keuzes.",
-      "bestand": "images/a014283_14346.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14292,
-    "gemaakt": 14354,
-    "gekozen": 2233,
-    "afgekeurd": 1724,
-    "corpus": 61,
+    "cycli": 14298,
+    "gemaakt": 14361,
+    "gekozen": 2234,
+    "afgekeurd": 1726,
+    "corpus": 60,
     "notities": 516
   }
 }
