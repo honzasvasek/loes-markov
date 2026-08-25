@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T22:00+02:00",
+  "bijgewerkt": "2026-08-25T22:15+02:00",
   "werk": [
+    {
+      "id": 14869,
+      "titel": "Waar blijft de vierde?",
+      "beschrijving": "Drie silhouetten van kinderen rennen van links naar rechts door hoog gras, getekend in donkere, vloeiende lijnen tegen een lichtbruine achtergrond. Hun haren en kleren wapperen in de wind, die ook het gras en een bosje riet boven hen doet buigen. Onder hen loopt een donkere, golvende lijn die een pad of water suggereert. Verspreid door het gras staan dunne stengels met kleine, glinsterende bolletjes, alsof het dauw of bloemknoppen zijn. De scène straalt beweging uit, met de kinderen in verschillende loopmomenten en het gras dat in golven door de compositie loopt. De sfeer is dynamisch en vrij, met een subtiele spanning tussen de donkere figuren en de lichte achtergrond.",
+      "cyclus": 14806,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de kinderen (middelste figuur lijkt proportioneel kleiner dan de andere twee, zonder duidelijke reden)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een dynamische, niet-iconische compositie met een focus op beweging en subtiele details (bijv. de glinsterende draden in het gras), wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w014806_14869.webp"
+    },
+    {
+      "id": 14864,
+      "titel": "Sporen van verdwijnen",
+      "beschrijving": "Een verlaten landschap met steile, gekleurde hellingen in rood, oranje en paars, afgewisseld met donkere, ruwe texturen. Donkergrijze, bijna zwarte blokken en fragmenten van onherkenbare voorwerpen liggen verspreid over een oppervlak met diepe, parallelle sporen, alsof zware voertuigen hier recent zijn geweest. Kleinere stenen en onregelmatige vormen liggen eromheen, met hier en daar een donkere, bolvormige vorm. De achtergrond toont een effen, lichte horizon met een smalle strook donkerder landschap, terwijl de voorgrond domineerd wordt door de textuurrijke, donkere grond en de scherpe overgang naar de kleurrijke hellingen. De sfeer is woest en verlaten, met een gevoel van verlaten activiteit en onafgewerktheid.",
+      "cyclus": 14801,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met een ongemakkelijke schoonheid, geen toeristische ansichtkaart.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014801_14864.webp"
+    },
     {
       "id": 14858,
       "titel": "Korrelige scheiding",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014748_14811.webp"
-    },
-    {
-      "id": 14810,
-      "titel": "Waar blijft de reddingboot",
-      "beschrijving": "Een witte kapel met een donker dak staat half ondergedompeld in woelig water, omringd door drijvend hout en puin. Golven met wit schuim slaan tegen de muren en de rommel, terwijl donkere rotsen en losse planken door het water drijven. De achtergrond is een egale, grijze hemel zonder details. Kleuren zijn voornamelijk wit, grijs, blauw en bruin, met accenten van donkerblauw en zwart in de schaduwen en het water. De compositie is dynamisch, met diagonale lijnen in de golven en het puin, en de kapel vormt een statig, maar verweerd middelpunt.",
-      "cyclus": 14747,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van het dak, lichte wazigheid in de achtergrondgolven",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een dynamische, ongemakkelijke compositie met afbrekende architectuur en woelige golven.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014747_14810.webp"
-    },
-    {
-      "id": 14800,
-      "titel": "Zeven blokken, één verhaal",
-      "beschrijving": "Zeven donkere, onregelmatige blokken met ruwe, korrelige oppervlakken drijven tegen een egale, lichtgrijze achtergrond. De blokken verschillen in grootte en vorm: sommige zijn hoekig met scherp afgetekende randen, andere hebben ronde, uitgesletene contouren. Op een paar blokken zitten kleine, lichte vlekken of putjes, terwijl andere een glanzende, bijna natte textuur hebben. De blokken zijn willekeurig verspreid, zonder duidelijke richting of hiërarchie, en werpen zachte schaduwen die ze driedimensionaal laten lijken. De achtergrond heeft een subtiele, papierachtige textuur die het contrast met de donkere blokken versterkt.",
-      "cyclus": 14737,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie zonder decoratief licht of toeristische uitstraling.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014737_14800.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14873,
+      "cyclus": 14810,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "tekst/tekens in beeld",
+      "cliche_notities": "Het beeld toont een iconisch onderwerp (een klok met handen) met een decoratief perfect licht en geen duidelijke compositorische keuze, wat het typisch maakt voor een toeristische ansichtkaart.",
+      "bestand": "images/a014810_14873.webp"
+    },
     {
       "id": 14857,
       "cyclus": 14794,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld heeft een surrealistische, niet-iconische compositie met een abstracte boom en onleesbare tekst, wat het geen typische ansichtkaart maakt.",
       "bestand": "images/a014783_14846.webp"
-    },
-    {
-      "id": 14840,
-      "cyclus": 14777,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een idyllisch huisje omgeven door groen, met een perfecte balans tussen licht en kleur, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014777_14840.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14806,
-    "gemaakt": 14868,
-    "gekozen": 2325,
-    "afgekeurd": 1782,
-    "corpus": 61,
+    "cycli": 14811,
+    "gemaakt": 14874,
+    "gekozen": 2327,
+    "afgekeurd": 1783,
+    "corpus": 62,
     "notities": 527
   }
 }
