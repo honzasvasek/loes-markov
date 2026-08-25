@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T13:45+02:00",
+  "bijgewerkt": "2026-08-25T14:00+02:00",
   "werk": [
     {
       "id": 14644,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14647,
+      "cyclus": 14584,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in reflectie van de molen op het water', 'lichte vervorming van de takken van de bomen aan de linkerkant']",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (Nederlandse molen) en de klassieke compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a014584_14647.webp"
+    },
+    {
       "id": 14643,
       "cyclus": 14580,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een surrealistische compositie met een eigen standpunt.",
       "bestand": "images/a014578_14641.webp"
-    },
-    {
-      "id": 14636,
-      "cyclus": 14573,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van water met zonnestralen, een klassiek en bevestigd motief zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014573_14636.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14582,
-    "gemaakt": 14645,
+    "cycli": 14590,
+    "gemaakt": 14652,
     "gekozen": 2285,
-    "afgekeurd": 1761,
+    "afgekeurd": 1762,
     "corpus": 60,
     "notities": 522
   }
