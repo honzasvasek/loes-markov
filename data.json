@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T05:00+02:00",
+  "bijgewerkt": "2026-08-25T05:15+02:00",
   "werk": [
     {
       "id": 14395,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14407,
+      "cyclus": 14344,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "enkele lichte krassen en korreligheid in de hemel, maar geen ernstige artefacten",
+      "cliche_notities": "Kerk met toren en kruis in een klassieke, bijna ansichtkaartachtige compositie zonder duidelijke persoonlijke invalshoek",
+      "bestand": "images/a014344_14407.webp"
+    },
+    {
       "id": 14405,
       "cyclus": 14342,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met water, bomen en wolken onder een dynamische hemel, uitgevoerd in een decoratief, bijna romantisch kleurgebruik zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014339_14402.webp"
-    },
-    {
-      "id": 14401,
-      "cyclus": 14338,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met tekst als integraal onderdeel van het beeld.",
-      "bestand": "images/a014338_14401.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14344,
-    "gemaakt": 14406,
+    "cycli": 14351,
+    "gemaakt": 14414,
     "gekozen": 2243,
-    "afgekeurd": 1736,
+    "afgekeurd": 1737,
     "corpus": 61,
     "notities": 516
   }
