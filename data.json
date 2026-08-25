@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-25T18:00+02:00",
+  "bijgewerkt": "2026-08-25T18:15+02:00",
   "werk": [
+    {
+      "id": 14761,
+      "titel": "Wat blijft van de grond",
+      "beschrijving": "Een diepe, onregelmatige spleet loopt diagonaal door een woestijnachtig landschap, omgeven door zand en losse keien. De randen van de scheur zijn scherp getekend, met donkere schaduwen die de diepte benadrukken. Verspreid rond de spleet liggen fragmenten van wat ooit structuren mochten zijn: houten planken, metalen onderdelen en onherkenbare voorwerpen, allemaal in verschillende stadia van verval. Fijne, stralende lijnen suggereren beweging, alsof de grond nog altijd aan het uit elkaar vallen is. Het palet is monochroom, met grijstinten die van lichtgrijs tot bijna zwart variëren, wat een gevoel van verlatenheid en stilte versterkt. De compositie is asymmetrisch, met de spleet als dominante lijn die het beeld in twee ongelijke delen deelt.",
+      "cyclus": 14698,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een focus op textuur en spanning in de leegte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014698_14761.webp"
+    },
+    {
+      "id": 14755,
+      "titel": "Waar de huid ademt",
+      "beschrijving": "Twee handen vormen een fragiel patroon tegen een effen grijze achtergrond, waarbij de vingers zachtjes door elkaar lopen in een gebaar dat zowel beschermend als kwetsbaar aanvoelt. De huid is bleek met een lichte roze tint aan de vingertoppen en de nagels zijn kort geknipt, netjes maar niet gelakt. Aders en pezen zijn subtiel zichtbaar onder de huid, vooral aan de handrug en de polsen, waar de huid dunner is. De polsen wijzen naar beneden en de onderarmen verdwijnen buiten het beeld, wat de focus legt op de interactie tussen de handen. De achtergrond heeft een matte, iets textuurrijke uitstraling, met lichte schakeringen van grijs die een gevoel van diepte geven zonder afleiding te bieden. Het licht valt zachtjes van bovenaf, waardoor de handen een lichte schaduw werpen op de achtergrond en de details van de huid en vingers scherp worden benadrukt. De compositie is centraal en symmetrisch, met de handen als enig focuspunt in een ruimte die anders leeg en onpersoonlijk is.",
+      "cyclus": 14692,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De handen zijn geen iconisch onderwerp en de compositie heeft een persoonlijke, niet-decoratieve spanning.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014692_14755.webp"
+    },
+    {
+      "id": 14752,
+      "titel": "Vezels die liegen",
+      "beschrijving": "Vier onregelmatige, gescheurde papieren vormen met witte, vezelige randen liggen verspreid over een effen beige ondergrond. De scheuren onthullen donkere, bijna zwarte vlakken eronder, met subtiele schaduwval aan de randen van het papier. De composities zijn asymmetrisch, met de scheuren die diagonaal en willekeurig door het beeld lopen, waardoor er geen duidelijke focus ontstaat. De textuur van het papier is zichtbaar korrelig, met kleine onregelmatigheden in de scheurranden. De sfeer is statisch en neutraal, zonder beweging of duidelijke narratieviteit.",
+      "cyclus": 14689,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op textuur en ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014689_14752.webp"
+    },
     {
       "id": 14743,
       "titel": "Druppels die blijven hangen",
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014653_14716.webp"
-    },
-    {
-      "id": 14712,
-      "titel": "Sporen van een verdwijning",
-      "beschrijving": "Drie donkere, parallelle sporen lopen schuin van linksboven naar rechtsonder over een lichtgrijze achtergrond. Het middelste spoor is breder en donkerder, met een onregelmatige, korrelige textuur die doet denken aan verspreid poeder of verbleekte inkt. In het midden van dit spoor bevindt zich een donkere, amorf vorm met een vaag ovaal contour, alsof iets ooit hier heeft gerust. Rond deze vorm zitten kleine, donkere vlekken en spetters, alsof er iets is gekraakt of is uitgespat. De randen van de sporen zijn onscherp en vervagen geleidelijk in de achtergrond, terwijl de punten aan weerskanten scherp en donker blijven. De achtergrond is egaal en textuurloos, wat de sporen en de donkere vorm extra doet uitkomen.",
-      "cyclus": 14649,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met ruimte voor interpretatie, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014649_14712.webp"
-    },
-    {
-      "id": 14709,
-      "titel": "Natte en droge spanning",
-      "beschrijving": "Twee diagonale, donkergrijze strepen lopen van linksboven naar rechtsonder, met een witte ruimte ertussen. De linkersteep is donkerder en heeft een glanzende, bijna natte textuur, met kleine, donkere druppels die zich vooral aan de onderkant bevinden. De rechtersteep is lichter en heeft een zachtere, meer verspreide textuur. Beide strepen hebben een onregelmatige rand, alsof ze met een brede, droge borstel zijn getrokken. De achtergrond is helderwit en onverstoord, wat de contrasten tussen de strepen en de witte ruimte versterkt. De compositie is minimalistisch en gericht op de spanning tussen de twee strepen en de lege ruimte eromheen.",
-      "cyclus": 14646,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met een focus op textuur en beweging, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014646_14709.webp"
-    },
-    {
-      "id": 14698,
-      "titel": "Waar vingers de horizon raken",
-      "beschrijving": "Twee handen met gespreide vingers raken zachtjes het oppervlak van donkerblauw water, waarbij de wijsvingers net elkaar raken en lichte rimpelingen veroorzaken. Het water reflecteert vaag oranje en roze tinten, alsof er een ondergaande zon boven hangt, en de golven lopen in concentrische cirkels uit vanaf het raakpunt. De handen hebben een realistische textuur met zichtbare aders en nagels, en de overgang tussen huid en water is vloeiend, alsof de handen langzaam in het water zinken. De achtergrond bestaat uit een onscherpe mix van blauwe en oranje kleuren, wat een dromerige sfeer creëert.",
-      "cyclus": 14635,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een intieme, persoonlijke sfeer en geen typisch toeristisch onderwerp of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014635_14698.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14696,
-    "gemaakt": 14759,
-    "gekozen": 2304,
+    "cycli": 14704,
+    "gemaakt": 14766,
+    "gekozen": 2307,
     "afgekeurd": 1771,
     "corpus": 59,
     "notities": 523
