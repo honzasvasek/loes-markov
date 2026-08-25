@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T02:15+02:00",
+  "bijgewerkt": "2026-08-25T02:30+02:00",
   "werk": [
+    {
+      "id": 14323,
+      "titel": "Stippen die verdwijnen",
+      "beschrijving": "Een effen, lichtgrijze textuur vult het beeld, met een subtiele, verticale lijn die diagonaal van rechtsboven naar linksonder loopt. De lijn is dun en onregelmatig, alsof getekend met een stomp potlood, en bestaat uit kleine, onderbroken stippen die langzaam vervagen. De achtergrond heeft een zachte, korrelige structuur, vergelijkbaar met papier of pleister, en toont geen andere vormen of details. De sfeer is rustig en minimalistisch, met een focus op de stilte tussen de lijn en de lege ruimte eromheen.",
+      "cyclus": 14260,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een subtiele, abstracte compositie zonder duidelijke thematiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014260_14323.webp"
+    },
+    {
+      "id": 14317,
+      "titel": "Vingers die vuur willen vasthouden",
+      "beschrijving": "Twee handen hangen boven een klein vuurtje, vingers gespreid alsof ze de vlammen willen vastgrijpen zonder ze aan te raken. Het vuur likt om donkere, verkoelde houtstammen die in een losse stapel op de grond liggen, omringd door droog gras en kleine stenen. Een dunne rookpluim stijgt recht omhoog tegen een egale, lichte achtergrond. De handen zijn donker getekend, met zichtbare aderen en korte nagels, terwijl de vlammen een zachte, wazige contour hebben. De grond is ongelijk en donker, met verspreide takjes en vuurwerk.",
+      "cyclus": 14254,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond vlammen tegen achtergrond', 'lichte inconsistentie in vingerlengten (linkerhand)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen handen en vuur, niet op een bevestigend beeld.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014254_14317.webp"
+    },
     {
       "id": 14315,
       "titel": "Sneeuw die vragen stelt",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014226_14289.webp"
-    },
-    {
-      "id": 14279,
-      "titel": "Krijt dat liegen kan",
-      "beschrijving": "Donkere, korrelige ondergrond met twee onvolledige, witte kringvormen getekend in krijt. Links een lichtblauwe en gele krijtstift, rechts een witte en roze. De kringen lopen parallel, met kleine onregelmatigheden in de lijnen. Verspreide kleine steentjes en korrels op de ondergrond. Licht valt schuin, waardoor zachte schaduwen ontstaan bij de krijtstiften en de kringen. Ruimte tussen de kringen leeg, alleen de textuur van de ondergrond zichtbaar.",
-      "cyclus": 14216,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014216_14279.webp"
-    },
-    {
-      "id": 14277,
-      "titel": "Rook die zich onthoudt",
-      "beschrijving": "Zwart, verkoolde houtblokken liggen verspreid op zand, met witte as en roetvlekken die de ruwe textuur benadrukken. Rook stijgt zwak op van een van de blokken, terwijl gedroogde grassprieten en kleine steentjes het zand doorspeken. De houtvezels zijn duidelijk zichtbaar, met golvende, uitgesneden randen en holtes waar het vuur het hout heeft uitgehold. Donkere koolstukken en grijze as vormen een contrast met de lichtere zandkorrels en de bleekgrijze, bijna zilveren verbrande lagen op het hout.",
-      "cyclus": 14214,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar focust op de textuur en ontbinding van hout.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014214_14277.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14328,
+      "cyclus": 14265,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en symbolen.",
+      "bestand": "images/a014265_14328.webp"
+    },
     {
       "id": 14318,
       "cyclus": 14255,
@@ -150,15 +159,6 @@
       "tech_notities": "['lichte inconsistentie in textuur van golven (soms scherp, soms wazig)', 'kleine halo rond wit schuim tegen donkerblauw water']",
       "cliche_notities": "Klassiek zeelandschap met golven en rotsen, uitgevoerd in een decoratief waterverf-stijltje zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014247_14310.webp"
-    },
-    {
-      "id": 14306,
-      "cyclus": 14243,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met boom en water, uitgevoerd in een klassieke, decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014243_14306.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14269,
+      "soort": "observatie",
+      "tekst": "De kaart in c14269 en de panelen in c14262 delen eenzelfde onafgewerkte structuur: ze zijn beide opgebouwd uit onvoltooide vormen die de ruimte niet vullen, maar alleen nog maar begeleiden zonder een bestemming te hebben. De ontspanning is geen uitbreiding meer, maar een neutrale stroom die de beelden doorspoelt zonder ze te laten rusten."
+    },
+    {
       "cyclus": 14161,
       "soort": "observatie",
       "tekst": "De concentrische cirkels in c14161 en de donkere schaduwen in c14158 delen eenzelfde stralende beweging, maar waar de eerste de ruimte vullen met een onzichtbare spanning, laten de laatste een onafgewerkte textuur achter die de ruimte niet meer begeleidt, maar alleen nog maar omhult zonder een bestemming te hebben."
@@ -252,11 +257,6 @@
       "cyclus": 14089,
       "soort": "observatie",
       "tekst": "De rimpelingen in c14089 en de golvende heuvels in c14088 delen eenzelfde onzichtbare stroom: ze vervormen de ruimte om hen heen zonder een bestemming te hebben, alsof de ontspanning geen uitbreiding meer is, maar een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te laten rusten."
-    },
-    {
-      "cyclus": 14077,
-      "soort": "observatie",
-      "tekst": "De donkere verticale streken in c14077 en de parallelle vormen in c14068 delen eenzelfde opgaande beweging, maar waar de eerste een onafgewerkte textuur suggereren, creëren de laatste een spanning tussen twee vlakken die elkaar niet raken—de ontspanning is geen uitbreiding meer, maar een onbenoemde ruimte tussen de vormen die de beelden niet meer vult, maar alleen nog maar begeleidt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14264,
-    "gemaakt": 14326,
-    "gekozen": 2231,
-    "afgekeurd": 1718,
-    "corpus": 59,
-    "notities": 515
+    "cycli": 14271,
+    "gemaakt": 14333,
+    "gekozen": 2233,
+    "afgekeurd": 1719,
+    "corpus": 60,
+    "notities": 516
   }
 }
