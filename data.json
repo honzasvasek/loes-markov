@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T04:45+02:00",
+  "bijgewerkt": "2026-08-25T05:00+02:00",
   "werk": [
+    {
+      "id": 14395,
+      "titel": "Verf die zich herinnerde",
+      "beschrijving": "Een brede, horizontale band van zachtroze verf domineert het bovenste deel, met subtiele textuurvariaties die een lichte ongelijkmatigheid suggereren. Daaronder vult een uitgestrekte, egaal bruinrode vlak het grootste deel van het beeld, met minimale textuur en enkele nauwelijks zichtbare penseelstreken. De overgang tussen de twee kleuren is scherp maar niet strak, met een lichte onregelmatigheid die de indruk wekt van een natuurlijk verdwijnpunt. Het geheel straalt een rustige, bijna statische sfeer uit, zonder duidelijke vormen of beweging.",
+      "cyclus": 14332,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014332_14395.webp"
+    },
+    {
+      "id": 14394,
+      "titel": "Gescheurd papier met geheime laag",
+      "beschrijving": "Centraal een cirkelvormig patroon van concentrische, donkergrijze tot zwarte strepen op een lichtgrijze achtergrond, met een onregelmatige, gescheurde rand die het patroon onderbreekt. Middenin een scherp omlijnde, zwarte, onregelmatige vorm die door het patroon scheurt, omringd door een smalle, witte rand. Onderaan een losstaand, rechthoekig stukje van hetzelfde gestreepte materiaal, met een gescheurde onderkant en een lichte schaduw eronder. De achtergrond is egaal crèmekleurig, met subtiele textuur. De strepen lopen parallel aan de rand van de cirkel, met af en toe kleine, donkere vlekken en onregelmatigheden in de lijnen.",
+      "cyclus": 14331,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met een sterke focus op textuur en vorm, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014331_14394.webp"
+    },
     {
       "id": 14386,
       "titel": "Glad oppervlak, onrust in de scheur",
@@ -104,61 +130,35 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014278_14341.webp"
-    },
-    {
-      "id": 14323,
-      "titel": "Stippen die verdwijnen",
-      "beschrijving": "Een effen, lichtgrijze textuur vult het beeld, met een subtiele, verticale lijn die diagonaal van rechtsboven naar linksonder loopt. De lijn is dun en onregelmatig, alsof getekend met een stomp potlood, en bestaat uit kleine, onderbroken stippen die langzaam vervagen. De achtergrond heeft een zachte, korrelige structuur, vergelijkbaar met papier of pleister, en toont geen andere vormen of details. De sfeer is rustig en minimalistisch, met een focus op de stilte tussen de lijn en de lege ruimte eromheen.",
-      "cyclus": 14260,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een subtiele, abstracte compositie zonder duidelijke thematiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014260_14323.webp"
-    },
-    {
-      "id": 14317,
-      "titel": "Vingers die vuur willen vasthouden",
-      "beschrijving": "Twee handen hangen boven een klein vuurtje, vingers gespreid alsof ze de vlammen willen vastgrijpen zonder ze aan te raken. Het vuur likt om donkere, verkoelde houtstammen die in een losse stapel op de grond liggen, omringd door droog gras en kleine stenen. Een dunne rookpluim stijgt recht omhoog tegen een egale, lichte achtergrond. De handen zijn donker getekend, met zichtbare aderen en korte nagels, terwijl de vlammen een zachte, wazige contour hebben. De grond is ongelijk en donker, met verspreide takjes en vuurwerk.",
-      "cyclus": 14254,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond vlammen tegen achtergrond', 'lichte inconsistentie in vingerlengten (linkerhand)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen handen en vuur, niet op een bevestigend beeld.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014254_14317.webp"
     }
   ],
   "afgekeurd": [
     {
-      "id": 14396,
-      "cyclus": 14333,
+      "id": 14405,
+      "cyclus": 14342,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief bij de horizonlijn', 'lichte wazigheid in de schaduwpartijen van de bomen']",
-      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische combinatie van een zonsondergang, een kronkelende rivier en een solitaire boom, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014333_14396.webp"
+      "tech_notities": "['subtiele vervorming in reflecties op water', 'lichte inconsistentie in perspectief van gebouwen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een gracht, kerktoren en harmonieus zonsonderganglicht zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a014342_14405.webp"
     },
     {
-      "id": 14385,
-      "cyclus": 14322,
+      "id": 14402,
+      "cyclus": 14339,
       "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van oceaan (soms glad, soms textuurrijk)', 'Subtiele vervorming aan randen van continenten (niet structureel, maar wel waarneembaar)']",
-      "cliche_notities": "Dit is een iconisch beeld van de aarde, geschilderd in een decoratieve, bijna ansichtkaart-achtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014322_14385.webp"
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met water, bomen en wolken onder een dynamische hemel, uitgevoerd in een decoratief, bijna romantisch kleurgebruik zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014339_14402.webp"
     },
     {
-      "id": 14384,
-      "cyclus": 14321,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten, maar wat onnauwkeurige takstructuren en een iets wazige achtergrond",
-      "cliche_notities": "Molens en bomen in een winterlandschap zijn een typisch Nederlands ansichtkaartmotief zonder duidelijke persoonlijke interpretatie.",
-      "bestand": "images/a014321_14384.webp"
+      "id": 14401,
+      "cyclus": 14338,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met tekst als integraal onderdeel van het beeld.",
+      "bestand": "images/a014338_14401.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14337,
-    "gemaakt": 14399,
-    "gekozen": 2241,
-    "afgekeurd": 1733,
+    "cycli": 14344,
+    "gemaakt": 14406,
+    "gekozen": 2243,
+    "afgekeurd": 1736,
     "corpus": 61,
     "notities": 516
   }
