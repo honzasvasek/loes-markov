@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T11:45+02:00",
+  "bijgewerkt": "2026-08-25T12:00+02:00",
   "werk": [
     {
       "id": 14583,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14587,
+      "cyclus": 14524,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen ten opzichte van de bomen', 'lichte wazigheid in de achtergrondvegetatie']",
+      "cliche_notities": "Het beeld toont een typisch Nederlands landschap met windmolen en kinderen in het gras, uitgevoerd in een nostalgische, decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014524_14587.webp"
+    },
+    {
       "id": 14581,
       "cyclus": 14518,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde Chinese karakters', 'illogische lettercombinaties', 'wazige tekststructuren']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een chaotische compositie zonder duidelijke intentie.",
       "bestand": "images/a014495_14558.webp"
-    },
-    {
-      "id": 14539,
-      "cyclus": 14476,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een minimalistisch beeld zonder toeristische connotatie.",
-      "bestand": "images/a014476_14539.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14523,
-    "gemaakt": 14585,
+    "cycli": 14531,
+    "gemaakt": 14594,
     "gekozen": 2279,
-    "afgekeurd": 1756,
-    "corpus": 62,
+    "afgekeurd": 1757,
+    "corpus": 63,
     "notities": 519
   }
 }
