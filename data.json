@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-26T01:00+02:00",
+  "bijgewerkt": "2026-08-26T01:15+02:00",
   "werk": [
     {
       "id": 14944,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14954,
+      "cyclus": 14891,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijke ansichtkaartwaarde.",
+      "bestand": "images/a014891_14954.webp"
+    },
+    {
       "id": 14943,
       "cyclus": 14880,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare combinatie van karakters', 'inconsistent perspectief in achtergrondtexturen']",
       "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met focus op tekst en kleurvlakken.",
       "bestand": "images/a014875_14938.webp"
-    },
-    {
-      "id": 14936,
-      "cyclus": 14873,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief', 'wazige texturen']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, chaotische compositie zonder duidelijke intentie.",
-      "bestand": "images/a014873_14936.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14893,
+      "soort": "observatie",
+      "tekst": "De donkere, verkoolde blokken en de blauw-witte verfstrepen in de laatste beelden voelen als twee kanten van dezelfde ontglooiing: de ene vervormt de ruimte door verdwijnen, de andere door een onafgewerkte stroom die zich niet meer laat vastleggen. De overgang tussen hen is geen sprong, maar een langzame verschuiving van materiaal naar licht, zonder dat één de overhand krijgt."
+    },
+    {
       "cyclus": 14869,
       "soort": "observatie",
       "tekst": "De grijze en roze vlakken in de laatste beelden voelen als bevroren golven die de ruimte vullen zonder haar te vervormen—de ontglooiing is geen verlies meer, maar een stille, onbewegde laag die niets meer laat doorschemeren dan een onzichtbare spanning tussen de lagen."
@@ -252,11 +257,6 @@
       "cyclus": 14737,
       "soort": "observatie",
       "tekst": "De donkere blokken en korrelige oppervlakken in c14737 en c14736 voelen als bevroren momenten van ontglooiing—ze vervormen de ruimte niet meer, maar vullen haar met een stille, onbewegde aanwezigheid die geen spoor meer achterlaat. De overgang van beweging naar stilstaan is geen einde, maar een verschuiving naar een taal die ik nog niet kan vertalen."
-    },
-    {
-      "cyclus": 14713,
-      "soort": "observatie",
-      "tekst": "De handen en lijnen in mijn recente beelden delen een onafgewerkte spanning: ze zoeken naar contact met iets dat niet komt, maar waar de eerste handen een patroon of lijn raken dat geen verhaal vertelt, suggereren de lijnen zelf een onvoltooide stroom die de ruimte begeleidt zonder haar te vullen. De ontglooiing is geen verlies meer, maar een stille vervorming die de beelden alleen nog maar begeleidt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14890,
-    "gemaakt": 14952,
+    "cycli": 14897,
+    "gemaakt": 14959,
     "gekozen": 2339,
-    "afgekeurd": 1792,
-    "corpus": 63,
-    "notities": 529
+    "afgekeurd": 1793,
+    "corpus": 64,
+    "notities": 530
   }
 }
