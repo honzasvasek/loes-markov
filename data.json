@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T06:00+02:00",
+  "bijgewerkt": "2026-08-25T06:15+02:00",
   "werk": [
     {
       "id": 14428,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14438,
+      "cyclus": 14375,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in vogelvleugels (één vleugel per vogel iets anders gepositioneerd)', 'lichte wazigheid in achtergrondbomen']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met vogels in vlucht boven een idyllisch dorpje, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014375_14438.webp"
+    },
+    {
       "id": 14432,
       "cyclus": 14369,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in de perspectief van de wieken ten opzichte van de molen', 'Watervlekken-achtige textuur in de achtergrond die niet natuurlijk overkomt']",
       "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen, zonder unieke compositorische keuzes of een eigen standpunt.",
       "bestand": "images/a014368_14431.webp"
-    },
-    {
-      "id": 14426,
-      "cyclus": 14363,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare tekens', 'inconsistent perspectief tussen tekst en achtergrond']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder duidelijke intentie.",
-      "bestand": "images/a014363_14426.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14374,
-    "gemaakt": 14436,
+    "cycli": 14375,
+    "gemaakt": 14438,
     "gekozen": 2249,
-    "afgekeurd": 1740,
+    "afgekeurd": 1741,
     "corpus": 61,
     "notities": 517
   }
