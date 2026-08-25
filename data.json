@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T11:30+02:00",
+  "bijgewerkt": "2026-08-25T11:45+02:00",
   "werk": [
+    {
+      "id": 14583,
+      "titel": "Wat blijft van nat papier",
+      "beschrijving": "Grijsbruine en zwarte vlekken en strepen vormen een onregelmatig patroon op een textuurrijk oppervlak, met sporen van wat eens nat lijkt te zijn geweest. Donkere, vaag omlijnde vlakken wisselen af met lichtere, korrelige zones waar fijne lijntjes en krassporen door lopen. Rechtsboven en linksonder bevinden zich onregelmatige, bijna organische vormen met zachte randen, terwijl in het midden horizontale en verticale banden de compositie doorsnijden. Een enkele donkere druppel en een paar kleine, onduidelijke vormen drijven in de lege ruimtes, omgeven door subtiele schakeringen van uitvagen en vervaagde texturen.",
+      "cyclus": 14520,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014520_14583.webp"
+    },
+    {
+      "id": 14579,
+      "titel": "Vingers die zwerven boven huid",
+      "beschrijving": "Twee handen domineren het beeld in een monochromatisch palet van grijs, zwart en wit. De onderste hand ligt open, met de vingers gespreid en de palm naar boven, terwijl de bovenste hand erboven hangt, vingers licht gebogen alsof ze net boven de huid zweven. De huidtextuur is gedetailleerd weergegeven met aderen, plooien en nagels die realistisch glanzen. De achtergrond bestaat uit onregelmatige, schetsachtige strepen en vlakken die een gevoel van beweging en onrust oproepen, met donkere schaduwen die de handen omhullen. Kleine, donkere vormen lijken op losse potloodstrepen of vuil, verspreid over het beeld. De compositie is asymmetrisch, met de handen schuin geplaatst, wat een dynamische spanning creëert tussen de twee vormen. De sfeer is intiem en gespannen, alsof er een moment van aanraking of afstand wordt vastgelegd.",
+      "cyclus": 14516,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van de achtergrond (soms wazig, soms scherp)', 'Subtiele vervorming in de vingers van de bovenste hand (te langgerekt)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met de spanning tussen de handen en de achtergrond.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014516_14579.webp"
+    },
     {
       "id": 14562,
       "titel": "Rode stip in roze vlek",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014473_14536.webp"
-    },
-    {
-      "id": 14526,
-      "titel": "Sporen van een verdwenen stroom",
-      "beschrijving": "Donkere, onregelmatige vlekken domineren het beeld, met zachte overgangen naar lichtgrijze en witte gebieden. Dunne, kronkelende lijnen snijden door de vormen, soms scherp, soms vervagen ze in de achtergrond. Een paar gesloten, ovale structuren vallen op door hun duidelijke omtrek, terwijl andere delen van het beeld onscherpe, wazige randen hebben. Witte, bijna doorschijnende plekken contrasteren met de donkerdere zones, waarbij een paar kleine, sterachtige vormen zichtbaar zijn. De compositie voelt ongestructureerd, met elementen die zowel overlappen als van elkaar afwijken, zonder duidelijke richting of focus. Texturen variëren van glad en egaal tot korrelig en ongelijkmatig, met sporen van wat ooit beweging of stroming lijkt te zijn geweest.",
-      "cyclus": 14463,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in textuurovergang tussen donkere en lichte vlakken', 'enkele randen tonen minimale halo-effecten bij hoog contrast']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met bewuste keuze voor onrustige structuren en lege ruimtes.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014463_14526.webp"
-    },
-    {
-      "id": 14521,
-      "titel": "Donkere golven, lichte droom",
-      "beschrijving": "Zachte, golvende lijnen lopen parallel door het beeld, getekend met fijne, donkere strepen die een textuur van beweging suggereren. De golven worden steeds donkerder naarmate ze dichter bij de onderkant komen, terwijl de bovenste golven lichter en vaagner zijn. De achtergrond is een egaal, lichtgrijs vlak dat de golven omhult zonder afleiding te bieden. Er is geen horizon of duidelijke horizonlijn, waardoor de golven oneindig lijken door te stromen. De compositie is rustig en gebalanceerd, met een subtiele asymmetrie die de blik langs de golven laat glijden. De sfeer is kalm en bijna meditatief, met een gevoel van voortdurende, zachte beweging.",
-      "cyclus": 14458,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De golven zijn een herhalend motief, maar de subtiele variatie in textuur en de bewuste keuze voor een beperkt kleurenpalet geven het werk een eigen stem, geen ansichtkaart-gevoel.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014458_14521.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14581,
+      "cyclus": 14518,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Molens bij zonsondergang met decoratief licht en klassieke compositie zonder eigen standpunt",
+      "bestand": "images/a014518_14581.webp"
+    },
     {
       "id": 14558,
       "cyclus": 14495,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een minimalistisch beeld zonder toeristische connotatie.",
       "bestand": "images/a014476_14539.webp"
-    },
-    {
-      "id": 14537,
-      "cyclus": 14474,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst.",
-      "bestand": "images/a014474_14537.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14516,
-    "gemaakt": 14578,
-    "gekozen": 2277,
-    "afgekeurd": 1755,
+    "cycli": 14523,
+    "gemaakt": 14585,
+    "gekozen": 2279,
+    "afgekeurd": 1756,
     "corpus": 62,
     "notities": 519
   }
