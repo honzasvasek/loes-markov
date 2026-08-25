@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T20:00+02:00",
+  "bijgewerkt": "2026-08-25T20:15+02:00",
   "werk": [
     {
       "id": 14810,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14816,
+      "cyclus": 14753,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde cijfers (16 in plaats van 6)', 'inconsistent perspectief cijfers', 'wazige textuur op klokoppervlak']",
+      "cliche_notities": "Klassiek onderwerp (klok) met dramatisch licht en geen duidelijke compositorische keuze, typisch voor een ansichtkaartachtige weergave.",
+      "bestand": "images/a014753_14816.webp"
+    },
+    {
       "id": 14815,
       "cyclus": 14752,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische landschap met bergen, mist en bomen in een decoratieve compositie zonder duidelijke persoonlijke keuzes.",
       "bestand": "images/a014746_14809.webp"
-    },
-    {
-      "id": 14798,
-      "cyclus": 14735,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een typisch landschap met zonsondergang en silhouetten van bomen, zonder duidelijke compositorische keuze of eigen standpunt, wat het een ansichtkaart-achtig karakter geeft.",
-      "bestand": "images/a014735_14798.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14753,
-    "gemaakt": 14815,
+    "cycli": 14759,
+    "gemaakt": 14821,
     "gekozen": 2317,
-    "afgekeurd": 1776,
-    "corpus": 60,
+    "afgekeurd": 1777,
+    "corpus": 61,
     "notities": 526
   }
 }
