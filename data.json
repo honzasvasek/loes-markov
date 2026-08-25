@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-25T15:45+02:00",
+  "bijgewerkt": "2026-08-25T16:00+02:00",
   "werk": [
+    {
+      "id": 14698,
+      "titel": "Waar vingers de horizon raken",
+      "beschrijving": "Twee handen met gespreide vingers raken zachtjes het oppervlak van donkerblauw water, waarbij de wijsvingers net elkaar raken en lichte rimpelingen veroorzaken. Het water reflecteert vaag oranje en roze tinten, alsof er een ondergaande zon boven hangt, en de golven lopen in concentrische cirkels uit vanaf het raakpunt. De handen hebben een realistische textuur met zichtbare aders en nagels, en de overgang tussen huid en water is vloeiend, alsof de handen langzaam in het water zinken. De achtergrond bestaat uit een onscherpe mix van blauwe en oranje kleuren, wat een dromerige sfeer creëert.",
+      "cyclus": 14635,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een intieme, persoonlijke sfeer en geen typisch toeristisch onderwerp of decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014635_14698.webp"
+    },
     {
       "id": 14687,
       "titel": "Blauw dat ademt",
@@ -117,22 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014586_14649.webp"
-    },
-    {
-      "id": 14644,
-      "titel": "Natte vingertoppen op donker",
-      "beschrijving": "Een hand rust op een donkere, ruwe oppervlakte van wat lijkt op hout of rots, met vingertoppen die de textuur raken. Druppels vocht glinsteren op het materiaal en op de huid, met reflecties die de natte sfeer versterken. De achtergrond bestaat uit onregelmatige, donkere vormen met subtiele textuurverschillen, waarbij licht en schaduw de diepte benadrukken. De compositie is dicht en intimistisch, met de hand als centraal punt dat de kijker trekt naar de details van aanraking en materiaal.",
-      "cyclus": 14581,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, bijna intieme compositie met een focus op textuur en aanraking, niet op een iconisch landschap of onderwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014581_14644.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14707,
+      "cyclus": 14644,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'wazige texturen in gras', 'inconsistent perspectief muur/horizon']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van tekst en natuur zonder duidelijke intentie.",
+      "bestand": "images/a014644_14707.webp"
+    },
     {
       "id": 14702,
       "cyclus": 14639,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief, maar een ongemakkelijk moment van verdwijnen zonder romantische inslag.",
       "bestand": "images/a014626_14689.webp"
-    },
-    {
-      "id": 14672,
-      "cyclus": 14609,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming aan de randen van het dak van de schuur', 'onduidelijke details in de ramen van de schuur']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een verlaten boerderijlandschap, met een iconisch onderwerp en decoratief licht.",
-      "bestand": "images/a014609_14672.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14641,
-    "gemaakt": 14703,
-    "gekozen": 2294,
-    "afgekeurd": 1767,
-    "corpus": 59,
+    "cycli": 14647,
+    "gemaakt": 14710,
+    "gekozen": 2295,
+    "afgekeurd": 1768,
+    "corpus": 58,
     "notities": 522
   }
 }
