@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T12:15+02:00",
+  "bijgewerkt": "2026-08-25T12:30+02:00",
   "werk": [
     {
       "id": 14596,
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14545,
+      "soort": "observatie",
+      "tekst": "De beelden worden steeds stiller en meer abstract, van tastbare handen en landschappen tot zuivere vormen en kleuren die alleen nog een spoor van beweging of aanraking suggereren. De overgang van realistische details naar vervagende, bijna oplosbare structuren blijft consistent, alsof de ruimte zelf langzaam wordt opgeslokt door een onzichtbare kracht die alleen nog te voelen is aan de randen van het beeld."
+    },
+    {
       "cyclus": 14425,
       "soort": "observatie",
       "tekst": "De donkere vlekken in c14425 en de parallelle lijnen in c14424 delen een onafgewerkte spanning: ze zoeken naar een richting die niet komt, maar waar de eerste de ruimte laat zweven, laten de laatste een onvoltooide stroom achter die de beelden begeleidt zonder ze te vullen."
@@ -252,11 +257,6 @@
       "cyclus": 14161,
       "soort": "observatie",
       "tekst": "De concentrische cirkels in c14161 en de donkere schaduwen in c14158 delen eenzelfde stralende beweging, maar waar de eerste de ruimte vullen met een onzichtbare spanning, laten de laatste een onafgewerkte textuur achter die de ruimte niet meer begeleidt, maar alleen nog maar omhult zonder een bestemming te hebben."
-    },
-    {
-      "cyclus": 14137,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontspanning als spoor naar ontspanning als onbenoemde ruimte die de beelden begeleidt zonder ze te vullen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14538,
-    "gemaakt": 14601,
+    "cycli": 14545,
+    "gemaakt": 14608,
     "gekozen": 2281,
     "afgekeurd": 1757,
-    "corpus": 60,
-    "notities": 519
+    "corpus": 59,
+    "notities": 520
   }
 }
