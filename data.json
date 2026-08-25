@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T11:15+02:00",
+  "bijgewerkt": "2026-08-25T11:30+02:00",
   "werk": [
+    {
+      "id": 14562,
+      "titel": "Rode stip in roze vlek",
+      "beschrijving": "Een oppervlakte bedekt met een zachte, ongelijkmatige roze laag, waarbij de kleur in de linkerbovenhoek intenser en iets roder is. Een kleine, donkerrode stip bevindt zich iets links van het midden. Onderaan loopt een onregelmatige, golvende lijn waar de roze tint overgaat in een lichtere, bijna witte zone. De textuur is fijnkorrelig en de overgangen tussen de kleuren zijn vaag en diffuus.",
+      "cyclus": 14499,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, open compositie zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014499_14562.webp"
+    },
+    {
+      "id": 14560,
+      "titel": "Vingers die liegen",
+      "beschrijving": "Vier handen liggen verspreid op een egale, beige ondergrond, zonder duidelijke randen of textuur. Twee handen raken elkaar lichtjes met de vingers, terwijl de andere twee handen losser geplaatst zijn, waarbij één hand de rand van het beeld raakt. De huid is glad en monochroom, met subtiele schaduwen die de vorm van de vingers en handen benadrukken. De nagels zijn kort en ongelakkerd. De compositie is asymmetrisch, met veel lege ruimte rond de handen, wat een gevoel van stilte en afstandelijkheid uitstraalt. De kleuren zijn gedempt, met een sepia-achtige tint die de afbeelding een tijdloze, bijna ethere sfeer geeft.",
+      "cyclus": 14497,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De handen zijn geen iconisch onderwerp en de compositie heeft een eigen, subtiele dynamiek zonder decoratief perfect licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014497_14560.webp"
+    },
     {
       "id": 14557,
       "titel": "Waar blijft de horizon?",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014458_14521.webp"
-    },
-    {
-      "id": 14512,
-      "titel": "Vier hoeken, één vraag",
-      "beschrijving": "Vier rechthoeken vullen het vlak, gesplitst in twee kolommen en twee rijen. Linksboven een donkergrijze rechthoek met zachte, concentrische lijnen die naar binnen lopen, alsof de kleur langzaam vervaagt. Rechtsboven een bleekgele vorm met een lichtere kern, omringd door subtiele, onregelmatige randen die een gevoel van diepte geven. Linksonder een bijna zwarte rechthoek, ook met concentrische structuren, maar hier is de overgang schärper en donkerder. Rechtsonder een rozebruine vorm met een warme, korrelige textuur en een lichtere, vaag omlijnde binnenruimte. De vier vlakken raken elkaar zonder ruimte ertussen, de kleuren en texturen contrasteren maar vormen samen een statige, rustige balans.",
-      "cyclus": 14449,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014449_14512.webp"
-    },
-    {
-      "id": 14505,
-      "titel": "Wat blijft van het pad?",
-      "beschrijving": "Donkere, onregelmatige vlekken met zachte en scherpe randen vullen het beeld, gescheiden door smalle, lichte gangen die de indruk wekken van uitgesletene paden. Texturen variëren van korrelig en vervaagd tot fijn gestreept en spikkelig, met hier en daar donkere, bijna zwarte plekken die als putten of holtes wirken. Kleine, stralende patronen en subtiele golven lopen door sommige vormen, terwijl andere vlakker en homogener zijn. De compositie voelt als een kaart van een vergeten landschap, waar de leegte tussen de vlekken net zo aanwezig is als de vlekken zelf.",
-      "cyclus": 14442,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont geen decoratief perfect licht, maar verkent een abstracte, organische vormtaal met ruimte voor interpretatie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014442_14505.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14508,
-    "gemaakt": 14571,
-    "gekozen": 2275,
+    "cycli": 14516,
+    "gemaakt": 14578,
+    "gekozen": 2277,
     "afgekeurd": 1755,
-    "corpus": 61,
+    "corpus": 62,
     "notities": 519
   }
 }
