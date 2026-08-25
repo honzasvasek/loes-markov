@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-26T00:30+02:00",
+  "bijgewerkt": "2026-08-26T00:45+02:00",
   "werk": [
+    {
+      "id": 14944,
+      "titel": "Waar blijft de rust?",
+      "beschrijving": "Kleurige vlekken en spatten vullen het beeld in een willekeurige, dynamische compositie. Oranje, blauw, geel en rood vermengen zich met paars en groen, terwijl donkerblauwe en zwarte lijnen en stippen door de vlekken lopen. De achtergrond is lichtgrijs, wat de kleuren doet opspringen. Sommige vlekken zijn vaag en doorschijnend, andere scherp en verzadigd. Druppels en spetters zijn verspreid over het hele vlak, met meer dichtheid in het midden. De sfeer is levendig en ongeremd, zonder duidelijke vorm of richting. Kleuren lopen in elkaar over, met plotselinge overgangen en subtiele gradiënten. Geen herkenbare figuren of structuren, alleen een explosie van kleur en textuur.",
+      "cyclus": 14881,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met persoonlijke keuzes in kleur en vorm.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014881_14944.webp"
+    },
     {
       "id": 14932,
       "titel": "Verf die zich herinnert",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014869_14932.webp"
+    },
+    {
+      "id": 14930,
+      "titel": "Water dat door zand loopt",
+      "beschrijving": "Een smalle, golvende strook donkerblauw water snijdt door een uitgestrekt zandlandschap, omgeven door fijne, lichtbruine korrels. Donkere, onregelmatige vlekken—sommige glanzend, andere mat—liggen verspreid langs de randen van het water en in het zand, met kleine druppels die als sporen door het beeld lopen. Het zand vertoont subtiele textuurverschillen: hier en daar fijnkorrelig, daar iets grover of licht opgehoogd. De compositie is verticaal gericht, met het water dat een slangenachtige lijn vormt die het oog van onder naar boven leidt. De sfeer is stil en minimalistisch, met een focus op de contrasten tussen nat en droog, donker en licht, en glad en korrelig.",
+      "cyclus": 14867,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele verschuivingen in textuur en vorm, niet op een bevestigend beeld.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014867_14930.webp"
     },
     {
       "id": 14929,
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014830_14893.webp"
-    },
-    {
-      "id": 14879,
-      "titel": "Roze aanraking tegen donker",
-      "beschrijving": "Een hand met roze nagels raakt een oor aan, tegen een donkere achtergrond. De vingers liggen zachtjes tegen de huid, met de duim dicht bij de lob en de andere vingers die de contouren van het oor volgen. Het oor is gedetailleerd weergegeven, met subtiele schaduwen en lichtval die de structuur benadrukken. De huid van de hand en het oor heeft een warme, roze tint, terwijl de achtergrond donkergrijs is, wat de focus op het contact legt. Een deel van een lichte kledingstuk is zichtbaar aan de onderkant, met zachte plooien en een knoop. De compositie is intiem en dicht, met de hand en het oor centraal in het beeld.",
-      "cyclus": 14816,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, persoonlijke compositie zonder iconische onderwerpen of decoratief licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014816_14879.webp"
-    },
-    {
-      "id": 14872,
-      "titel": "Vloeistof in bevroren beweging",
-      "beschrijving": "Golvende vormen in zilver, grijs en lichtblauw vullen het beeld, met subtiele hints van beige en donkerblauw. Glanzende, bijna vloeibare structuren snijden door de compositie,伴 met kleine, ronde belletjes en onregelmatige, schuimachtige details. De beweging loopt diagonaal van linksboven naar rechtsonder, met soepele overgangen tussen de kleuren en texturen. De sfeer is dynamisch maar kalm, met een focus op de interactie tussen licht en donker in de golvende patronen.",
-      "cyclus": 14809,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, dynamische compositie zonder duidelijke thematische focus.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014809_14872.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14943,
+      "cyclus": 14880,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een klassieke klok met Romeinse cijfers op een neutrale achtergrond, een iconisch motief zonder originele compositorische keuze of persoonlijk standpunt.",
+      "bestand": "images/a014880_14943.webp"
+    },
     {
       "id": 14938,
       "cyclus": 14875,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'inconsistent perspectief', 'wazige texturen']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, chaotische compositie zonder duidelijke intentie.",
       "bestand": "images/a014873_14936.webp"
-    },
-    {
-      "id": 14901,
-      "cyclus": 14838,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstract typografisch patroon zonder toeristische connotatie.",
-      "bestand": "images/a014838_14901.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14876,
-    "gemaakt": 14938,
-    "gekozen": 2337,
-    "afgekeurd": 1791,
-    "corpus": 63,
+    "cycli": 14883,
+    "gemaakt": 14945,
+    "gekozen": 2339,
+    "afgekeurd": 1792,
+    "corpus": 64,
     "notities": 529
   }
 }
