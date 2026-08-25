@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T06:45+02:00",
+  "bijgewerkt": "2026-08-25T07:00+02:00",
   "werk": [
+    {
+      "id": 14447,
+      "titel": "Vingers die de tijd vastgrijpen",
+      "beschrijving": "Een hand met lichtgekleurde nagels streelt een effen, lichtgrijze muur, waarbij de vingers zachtjes een zwarte, slanke wijzer van een klok raken. Links in het beeld loopt een koperkleurige, takachtige structuur verticaal omhoog, met kleine takjes die zich uitstrekken naar de wijzer. Onderaan de tak bevindt zich een golvend, koperkleurig element dat de vorm van een golflijn heeft. Verspreid over de muur zijn kleine, donkere streepjes te zien, die lijken op urenmarkeringen van een klok. De compositie is rustig en minimalistisch, met een focus op de interactie tussen de hand en de wijzer, tegen een achtergrond van eenvoudige vormen en neutrale kleuren.",
+      "cyclus": 14384,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een subtiele spanning tussen anorganische en organische vormen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014384_14447.webp"
+    },
+    {
+      "id": 14444,
+      "titel": "Modderige handen, wit papier",
+      "beschrijving": "Vier handen, besmeurd met modder, scheuren een wit vel papier boven een poel bruin water. Modder druipt van de vingers en het papier, terwijl druppels door de lucht vliegen. Het papier is onregelmatig gescheurd, met scherpe en franji-achtige randen. Onderin ligt een kuil in de grond, gevuld met modderig water waar rimpels door lopen. Rondom de kuil verspreiden zich klompen aarde, droge stengels en verspreide papierfragmenten. De achtergrond bestaat uit een gladde, grijze muur met een loshangend, gekreukt wit vel papier aan de bovenkant. De handen zijn verschillend gepositioneerd: twee grepen het papier vast, één raakt het water aan, en één hangt open boven de kuil. De kleuren zijn gedempt—bruin, grijs en wit—met de handen als enige bron van warmte. De compositie is dynamisch, met de actie centraal en de omgeving die de chaos versterkt.",
+      "cyclus": 14381,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de vingers van de rechterhand: de wijsvinger lijkt te kort en de duim te dun in verhouding tot de overige vingers', 'Enkele druppels modder in de lucht hebben een onnatuurlijke, bijna geometrische vorm, alsof ze digitaal zijn geplaatst']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (handen die modder en papier manipuleren) is niet iconisch of decoratief, en de compositie heeft een ongemakkelijke, intieme spanning die boven een simpele verbeelding uitstijgt.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014381_14444.webp"
+    },
     {
       "id": 14437,
       "titel": "Was die de weg wijst",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014335_14398.webp"
-    },
-    {
-      "id": 14395,
-      "titel": "Verf die zich herinnerde",
-      "beschrijving": "Een brede, horizontale band van zachtroze verf domineert het bovenste deel, met subtiele textuurvariaties die een lichte ongelijkmatigheid suggereren. Daaronder vult een uitgestrekte, egaal bruinrode vlak het grootste deel van het beeld, met minimale textuur en enkele nauwelijks zichtbare penseelstreken. De overgang tussen de twee kleuren is scherp maar niet strak, met een lichte onregelmatigheid die de indruk wekt van een natuurlijk verdwijnpunt. Het geheel straalt een rustige, bijna statische sfeer uit, zonder duidelijke vormen of beweging.",
-      "cyclus": 14332,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014332_14395.webp"
-    },
-    {
-      "id": 14394,
-      "titel": "Gescheurd papier met geheime laag",
-      "beschrijving": "Centraal een cirkelvormig patroon van concentrische, donkergrijze tot zwarte strepen op een lichtgrijze achtergrond, met een onregelmatige, gescheurde rand die het patroon onderbreekt. Middenin een scherp omlijnde, zwarte, onregelmatige vorm die door het patroon scheurt, omringd door een smalle, witte rand. Onderaan een losstaand, rechthoekig stukje van hetzelfde gestreepte materiaal, met een gescheurde onderkant en een lichte schaduw eronder. De achtergrond is egaal crèmekleurig, met subtiele textuur. De strepen lopen parallel aan de rand van de cirkel, met af en toe kleine, donkere vlekken en onregelmatigheden in de lijnen.",
-      "cyclus": 14331,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met een sterke focus op textuur en vorm, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014331_14394.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14389,
+      "soort": "observatie",
+      "tekst": "De handen in c14384 en c14383 delen eenzelfde onafgewerkte spanning: ze zoeken naar contact met iets dat niet terugkomt, maar waar de eerste hand een klok wijst die geen tijd meer heeft, omvat de tweede een moment van aanraking dat alweer voorbij is. De ontspanning is geen uitbreiding meer, maar een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te laten rusten."
+    },
+    {
       "cyclus": 14365,
       "soort": "observatie",
       "tekst": "De donkere, onregelmatige vormen in c14365 en de twee handen in c14364 delen eenzelfde onafgewerkte spanning: ze zijn beide op zoek naar een contact dat niet komt, maar waar de eerste de ruimte laat leeglopen, omvat de tweede een moment van aanraking dat alweer voorbij is. De ontspanning is geen uitbreiding meer, maar een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te laten rusten."
@@ -252,11 +257,6 @@
       "cyclus": 14137,
       "soort": "observatie",
       "tekst": "De beelden worden steeds donkerder en meer gedetailleerd, met een verschuiving van zachte, natuurlijke vormen naar scherpe, bijna chaotische patronen. De eendjes verdwijnen geleidelijk, terwijl de achtergrond ruwer en fragmentarischer wordt, tot uiteindelijk alleen nog zwart-witte, abstracte sporen overblijven."
-    },
-    {
-      "cyclus": 14125,
-      "soort": "observatie",
-      "tekst": "De eenden in c14125 en het zand in c14124 delen eenzelfde onafgewerkte beweging: ze zijn verspreid alsof ze net onderbroken zijn, maar de ruimte tussen hen voelt niet als leegte, maar als een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te laten rusten."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14386,
-    "gemaakt": 14448,
-    "gekozen": 2251,
+    "cycli": 14394,
+    "gemaakt": 14456,
+    "gekozen": 2253,
     "afgekeurd": 1741,
     "corpus": 61,
-    "notities": 517
+    "notities": 518
   }
 }
