@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-25T13:15+02:00",
+  "bijgewerkt": "2026-08-25T13:30+02:00",
   "werk": [
+    {
+      "id": 14622,
+      "titel": "Net buiten de nagelrieten",
+      "beschrijving": "Twee handen, geschilderd in zachte roze en beige tinten, strekken zich vanuit de bovenhoeken naar elkaar toe, net buiten bereik. De vingers zijn lang en slank, met subtiele details zoals nagels en lijntjes die de textuur van de huid nabootsen. De achtergrond is een egaal, warm roze, met een lichte schaduw onder de handen die diepte suggereert. De compositie is asymmetrisch, met de handen die een V-vorm vormen die de blik naar beneden leidt. De sfeer is intiem en wat verlegen, alsof het moment net voor een aanraking wordt vastgelegd. De verf is dik aangebracht, met zichtbare penseelstreken die een tactiel gevoel geven.",
+      "cyclus": 14559,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014559_14622.webp"
+    },
     {
       "id": 14596,
       "titel": "Vingers die stilstaan in regen",
@@ -117,22 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014485_14548.webp"
-    },
-    {
-      "id": 14546,
-      "titel": "Vingers die iets vasthouden wat ontbreekt",
-      "beschrijving": "Twee handen rusten op een textuurrijk, beige oppervlak met subtiele krassen en oneffenheden. De linkerhand ligt iets hoger dan de rechter, met de vingers gespreid en de duimen naar elkaar toe gericht. De nagels zijn kort geknipt en hebben een natuurlijke, matte glans. Het licht valt schuin van bovenaf, waardoor zachte schaduwen de contouren van de vingers en de aderen in de handen benadrukken. De huid is glad met fijne lijntjes bij de gewrichten en de vingertoppen. De achtergrond is homogeen en trekt geen aandacht, waardoor de handen centraal staan in een rustige, intieme compositie.",
-      "cyclus": 14483,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, persoonlijke compositie zonder iconische onderwerpen of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014483_14546.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14636,
+      "cyclus": 14573,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van water met zonnestralen, een klassiek en bevestigd motief zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014573_14636.webp"
+    },
     {
       "id": 14618,
       "cyclus": 14555,
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de windmolen ten opzichte van de bomen', 'lichte wazigheid in de achtergrondvegetatie']",
       "cliche_notities": "Het beeld toont een typisch Nederlands landschap met windmolen en kinderen in het gras, uitgevoerd in een nostalgische, decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014524_14587.webp"
-    },
-    {
-      "id": 14581,
-      "cyclus": 14518,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Molens bij zonsondergang met decoratief licht en klassieke compositie zonder eigen standpunt",
-      "bestand": "images/a014518_14581.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14567,
-    "gemaakt": 14630,
-    "gekozen": 2281,
-    "afgekeurd": 1758,
+    "cycli": 14575,
+    "gemaakt": 14638,
+    "gekozen": 2282,
+    "afgekeurd": 1759,
     "corpus": 60,
     "notities": 522
   }
