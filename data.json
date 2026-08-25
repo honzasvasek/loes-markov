@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T15:00+02:00",
+  "bijgewerkt": "2026-08-25T15:15+02:00",
   "werk": [
     {
       "id": 14671,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14689,
+      "cyclus": 14626,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief, maar een ongemakkelijk moment van verdwijnen zonder romantische inslag.",
+      "bestand": "images/a014626_14689.webp"
+    },
+    {
       "id": 14672,
       "cyclus": 14609,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in boomstammen (links/rechts)', 'lichte vervorming in waterreflecties bij horizon']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene, symmetrische landschapsscene met een kronkelende beek, iconische bomen en een romantische roze horizon, zonder duidelijke compositorische keuze of verstorend element.",
       "bestand": "images/a014596_14659.webp"
-    },
-    {
-      "id": 14653,
-      "cyclus": 14590,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, niet-herkenbare landschapssuggestie met persoonlijke compositorische keuzes.",
-      "bestand": "images/a014590_14653.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14620,
-    "gemaakt": 14682,
+    "cycli": 14627,
+    "gemaakt": 14689,
     "gekozen": 2292,
-    "afgekeurd": 1765,
+    "afgekeurd": 1766,
     "corpus": 59,
     "notities": 522
   }
