@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T09:00+02:00",
+  "bijgewerkt": "2026-08-25T09:15+02:00",
   "werk": [
     {
       "id": 14505,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14516,
+      "cyclus": 14453,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte vorm met organische structuren.",
+      "bestand": "images/a014453_14516.webp"
+    },
+    {
       "id": 14497,
       "cyclus": 14434,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Molens en water in een decoratieve, ansichtkaartachtige compositie zonder eigen standpunt",
       "bestand": "images/a014432_14495.webp"
-    },
-    {
-      "id": 14491,
-      "cyclus": 14428,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van rotsen (sommige te scherp, andere wazig)', 'Waterspiegel heeft subtiele herhaalpatronen in golven']",
-      "cliche_notities": "Molen op kust met perfecte zonsondergangslicht en iconische compositie zonder onverwachte elementen",
-      "bestand": "images/a014428_14491.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14450,
-    "gemaakt": 14512,
+    "cycli": 14454,
+    "gemaakt": 14517,
     "gekozen": 2266,
-    "afgekeurd": 1748,
-    "corpus": 62,
+    "afgekeurd": 1749,
+    "corpus": 61,
     "notities": 519
   }
 }
