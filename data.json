@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T16:30+02:00",
+  "bijgewerkt": "2026-08-25T16:45+02:00",
   "werk": [
+    {
+      "id": 14727,
+      "titel": "Wit tussen de vlekken",
+      "beschrijving": "Twee donkere, onregelmatige vlekken met zachte, uitlopende randen domineren het beeld, gescheiden door een smalle, witte spleet die diagonaal loopt. De vlekken hebben een korrelige textuur met variaties in grijstinten, van diep zwart tot lichtgrijs, en lijken organisch te zijn ontstaan. Kleine, donkere stippen en subtiele golven in de randen geven een gevoel van beweging, alsof de vormen nog steeds aan het ontleden zijn. De achtergrond is egaal wit, waardoor de vlekken scherp afsteken en een gevoel van isolatie uitstralen. Een vaag, rond schaduweffect tussen de vlekken suggereert diepte, alsof er iets onzichtbaars tussen hen zweeft. De compositie is asymmetrisch, met de ene vlek groter en hoger geplaatst dan de andere, wat een dynamische spanning creëert.",
+      "cyclus": 14664,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de donkere vormen bij het witte achtergrond', 'lichte inconsistentie in textuur van de donkere vlekken (soms wazig, soms scherp)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is abstract en open, zonder bevestigende of toeristische uitstraling.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014664_14727.webp"
+    },
+    {
+      "id": 14724,
+      "titel": "Snijdt de streep de stilte doormidden?",
+      "beschrijving": "Vier rechthoekige vlakken vullen het beeld, gescheiden door subtiele lijnen die een raster vormen. Een donkere, schuine streep loopt van de linkerbovenhoek naar de rechteronderhoek en snijdt door twee vlakken heen. De textuur lijkt fijnkorrelig, met lichte variaties in grijstinten die een zachte, bijna korrelige uitstraling geven. De rechterboven- en rechtsonderhoek zijn iets lichter dan de overige delen, wat een subtiel contrast creëert. De compositie is statisch en minimalistisch, zonder duidelijke focus of beweging. De sfeer is neutraal en afstandelijk, met een focus op vorm en textuur boven inhoud.",
+      "cyclus": 14661,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met subtiele spanning tussen vlakken en lijnen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014661_14724.webp"
+    },
     {
       "id": 14716,
       "titel": "Rood dat zich onthoudt",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014605_14668.webp"
-    },
-    {
-      "id": 14666,
-      "titel": "Glas dat liegt",
-      "beschrijving": "Donkere takken vullen het beeld, scherp getekend tegen een achtergrond van fijne, donkere strepen en vage cirkelvormen. Middenin bevindt zich een heldere, ronde opening met een lichtgele kern, omringd door een glanzende, facetrijke structuur die aan gescheurd glas doet denken. Een klein, felblauw puntje zit aan de rand van die structuur. Rechtsboven loopt een donkere, rechthoekige vorm met verticale lijnen door het beeld, alsof het een raam of hekwerk is. De takken snijden door alle lagen, van voor- naar achtergrond, en creëren een gevoel van diepte. De kleuren zijn beperkt tot zwart, grijs en wit, met uitschieters van geel en blauw. De sfeer is dicht en wat chaotisch, maar de heldere cirkel trekt de blik direct.",
-      "cyclus": 14603,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond het heldere cirkelvormige element', 'lichte inconsistentie in textuur van de takken (rechtsboven vs. linksonder)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en openbaar, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014603_14666.webp"
-    },
-    {
-      "id": 14663,
-      "titel": "Vingers op afstand",
-      "beschrijving": "Twee handen rusten op een effen, bruine achtergrond. De linkerhand ligt met de palm naar beneden, vingers wijd gespreid, terwijl de rechterhand erboven zweeft, vingers licht gebogen alsof ze net willen aanraken. De nagels zijn kort geknipt en ongelijk van lengte, met een natuurlijke, matte glans. De huid is glad, met subtiele aderen en plooien die de beweging van de vingers benadrukken. Het licht valt schuin van bovenaf, waardoor zachte schaduwen ontstaan tussen de vingers en langs de polsen. De compositie is minimalistisch, met veel lege ruimte rond de handen, wat de focus legt op de spanning tussen aanraking en afstand.",
-      "cyclus": 14600,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en focust op de relatie tussen handen en ruimte, zonder typisch ansichtkaartmateriaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014600_14663.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14725,
+      "cyclus": 14662,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met vuur en tekst.",
+      "bestand": "images/a014662_14725.webp"
+    },
     {
       "id": 14707,
       "cyclus": 14644,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in de reflectie van de windmolen op het water: de reflectie is te scherp en symmetrisch voor een natuurlijk wateroppervlak', 'De textuur van het riet in de voorgrond is wat wazig en ontbreekt aan variatie in detail']",
       "cliche_notities": "Dit beeld past precies in de categorie 'toeristische ansichtkaart': een iconische Nederlandse windmolen met typisch landschap, decoratief licht en geen duidelijke compositorische keuze of eigen standpunt",
       "bestand": "images/a014639_14702.webp"
-    },
-    {
-      "id": 14689,
-      "cyclus": 14626,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch Nederlands landschap of toeristisch motief, maar een ongemakkelijk moment van verdwijnen zonder romantische inslag.",
-      "bestand": "images/a014626_14689.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14662,
-    "gemaakt": 14724,
-    "gekozen": 2298,
-    "afgekeurd": 1768,
-    "corpus": 60,
+    "cycli": 14670,
+    "gemaakt": 14733,
+    "gekozen": 2300,
+    "afgekeurd": 1769,
+    "corpus": 59,
     "notities": 523
   }
 }
