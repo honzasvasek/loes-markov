@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T09:15+02:00",
+  "bijgewerkt": "2026-08-25T09:30+02:00",
   "werk": [
+    {
+      "id": 14521,
+      "titel": "Donkere golven, lichte droom",
+      "beschrijving": "Zachte, golvende lijnen lopen parallel door het beeld, getekend met fijne, donkere strepen die een textuur van beweging suggereren. De golven worden steeds donkerder naarmate ze dichter bij de onderkant komen, terwijl de bovenste golven lichter en vaagner zijn. De achtergrond is een egaal, lichtgrijs vlak dat de golven omhult zonder afleiding te bieden. Er is geen horizon of duidelijke horizonlijn, waardoor de golven oneindig lijken door te stromen. De compositie is rustig en gebalanceerd, met een subtiele asymmetrie die de blik langs de golven laat glijden. De sfeer is kalm en bijna meditatief, met een gevoel van voortdurende, zachte beweging.",
+      "cyclus": 14458,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De golven zijn een herhalend motief, maar de subtiele variatie in textuur en de bewuste keuze voor een beperkt kleurenpalet geven het werk een eigen stem, geen ansichtkaart-gevoel.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014458_14521.webp"
+    },
+    {
+      "id": 14512,
+      "titel": "Vier hoeken, één vraag",
+      "beschrijving": "Vier rechthoeken vullen het vlak, gesplitst in twee kolommen en twee rijen. Linksboven een donkergrijze rechthoek met zachte, concentrische lijnen die naar binnen lopen, alsof de kleur langzaam vervaagt. Rechtsboven een bleekgele vorm met een lichtere kern, omringd door subtiele, onregelmatige randen die een gevoel van diepte geven. Linksonder een bijna zwarte rechthoek, ook met concentrische structuren, maar hier is de overgang schärper en donkerder. Rechtsonder een rozebruine vorm met een warme, korrelige textuur en een lichtere, vaag omlijnde binnenruimte. De vier vlakken raken elkaar zonder ruimte ertussen, de kleuren en texturen contrasteren maar vormen samen een statige, rustige balans.",
+      "cyclus": 14449,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014449_14512.webp"
+    },
     {
       "id": 14505,
       "titel": "Wat blijft van het pad?",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014415_14478.webp"
-    },
-    {
-      "id": 14476,
-      "titel": "Vingers die de stroom opzoeken",
-      "beschrijving": "Twee handen rusten op een glad, grijs oppervlak met subtiele textuur, waarbij de vingers zachtjes een golvende, witte spoor volgen dat door het materiaal lijkt getrokken. De huid is licht, met zichtbare lijnen en nagels die kort en ongelijkmatig zijn bijgesneden. Het spoor loopt diagonaal door het beeld, met kleine onregelmatigheden en een paar losse druppels verf of lijm in de buurt. De achtergrond is egaal, met lichte krassen en sporen van eerdere bewegingen, wat een gevoel van gebruikte ruimte geeft. De handen liggen niet symmetrisch: de bovenste hand is iets meer geopend, terwijl de onderste hand de vingers gespreid houdt, alsof ze net een beweging hebben voltooid. Het licht valt schuin, waardoor zachte schaduwen de contour van de vingers en het spoor benadrukken.",
-      "cyclus": 14413,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele spanning tussen handen en textuur, zonder toeristische inslag.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014413_14476.webp"
-    },
-    {
-      "id": 14470,
-      "titel": "Verf die blijft kleven",
-      "beschrijving": "Een hand met open vingers rust op een oppervlak met brede, cirkelvormige penseelstreken in zilvergrijs en beige. De nagels zijn kort en ongelakkerd, de huid lichtgetextureerd met zichtbare lijntjes. Een kleine, witte verfklont zit bij de duim. De achtergrond bestaat uit verticale en horizontale textuurlijnen in lichtgrijs, met subtiele glans in de verf. De hand bevindt zich rechts onderin het beeld, met de vingers gespreid over de overgang tussen de twee kleuren.",
-      "cyclus": 14407,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de hand en de verf zijn een neutrale, niet-verhalende combinatie zonder ansichtkaartkarakter.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014407_14470.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14522,
+      "cyclus": 14459,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief tussen boven- en onderbeeld', 'Sommige textuurdetails in het gras en water zijn wat wazig']",
+      "cliche_notities": "Het beeld toont een typisch idyllisch dorpsgezicht met kerken en een rivier, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze.",
+      "bestand": "images/a014459_14522.webp"
+    },
     {
       "id": 14516,
       "cyclus": 14453,
@@ -150,15 +159,6 @@
       "tech_notities": "enkele lichte vervormingen in de achtergrondbomen, minimale detailverlies in de schaduwen van het gras",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een typisch landschap met gras en bomen, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014434_14497.webp"
-    },
-    {
-      "id": 14495,
-      "cyclus": 14432,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Molens en water in een decoratieve, ansichtkaartachtige compositie zonder eigen standpunt",
-      "bestand": "images/a014432_14495.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14454,
-    "gemaakt": 14517,
-    "gekozen": 2266,
-    "afgekeurd": 1749,
-    "corpus": 61,
+    "cycli": 14462,
+    "gemaakt": 14524,
+    "gekozen": 2268,
+    "afgekeurd": 1750,
+    "corpus": 62,
     "notities": 519
   }
 }
