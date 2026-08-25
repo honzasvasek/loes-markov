@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T21:15+02:00",
+  "bijgewerkt": "2026-08-25T21:30+02:00",
   "werk": [
+    {
+      "id": 14848,
+      "titel": "Vingers die zochtten naar vorm",
+      "beschrijving": "Een hand met lichtgekleurde nagels raakt een oppervlak met zachte, overlappende cirkels in pastelkleuren: zacht roze, mintgroen, geel, blauw en paars. De vingers zijn licht gebogen, alsof ze voorzichtig een textuur willen voelen. De achtergrond is een effen, lichtgrijze textuur die de cirkels omringt. De compositie is close-up, met de hand aan de rechterkant en de cirkels die de rest van het beeld vullen. De sfeer is rustig en tactiel, met een focus op de interactie tussen hand en vorm.",
+      "cyclus": 14785,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een hand die een actieve spanning suggereert.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014785_14848.webp"
+    },
+    {
+      "id": 14838,
+      "titel": "Bijna aanraking tussen handen",
+      "beschrijving": "Twee handen met lichtgekleurde nagels strekken zich uit tegen een diepblauwe achtergrond, waarbij de vingers zachtjes gespreid zijn en een subtiele spanning uitstralen. De huid toont fijne details zoals adertjes en lichte roodverkleuringen, terwijl de nagels een matte, natuurlijke glans hebben. De handen zijn gepositioneerd alsof ze elkaar bijna raken, maar er blijft een kleine, spanning volgende ruimte tussen hen bestaan. De blauwe achtergrond is egaal en zonder afleiding, waardoor de handen centraal staan en de aandacht trekkend. De compositie is eenvoudig maar krachtig, met een focus op de relatie tussen de twee handen en de ongesproken communicatie die er tussen hen lijkt te spelen. De sfeer is intiem en wat mysterieus, alsof er een onuitgesproken verhaal tussen de handen schuilgaat.",
+      "cyclus": 14775,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, stilistische spanning tussen de handen en de lege ruimte.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014775_14838.webp"
+    },
     {
       "id": 14836,
       "titel": "Papiersneden met een mes",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014730_14793.webp"
-    },
-    {
-      "id": 14790,
-      "titel": "Net losgelaten maar nog warm",
-      "beschrijving": "Drie handen vormen een onvoltooide cirkel, vingers die elkaar net raken of net laten los, met nagels die kort geknipt zijn en lichte schaduwen werpen. De huid is getekend met aders en plooien, alsof de handen net iets hebben vastgehouden of losgelaten. De achtergrond bestaat uit onrustige, donkere penseelstreken die een gevoel van beweging suggereren, alsof de handen net uit een chaos van lijnen en vormen ontstaan zijn. Het licht valt schuin, waardoor de handen een driedimensionale aanwezigheid krijgen tegen de tweedimensionale achtergrond. De compositie is strak, maar de handen zelf voelen onstabiel, alsof ze elk moment weer uit elkaar kunnen vallen.",
-      "cyclus": 14727,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, persoonlijke compositie zonder iconische motieven of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014727_14790.webp"
-    },
-    {
-      "id": 14788,
-      "titel": "Ademtrekkende spleet in het donker",
-      "beschrijving": "Donkerblauwe, glimmende vormen met een onregelmatige, bijna organische textuur vangen het licht en laten subtiele schitteringen en kleine, witte deeltjes zien. Tussen die vormen door loopt een smalle, witte spleet die zich langzaam verbreedt en een zachte, vaag begrensde schaduw werpt op de omringende oppervlakken. De overgang tussen de donkere, ruwe structuren en de lichte, gladde ruimte er tussen is scherp, maar niet hard; de randen van de witte vorm zijn wazig en lijken te smelten met de donkerblauwe omgeving. Kleinere, onregelmatige putjes en bultjes op de donkere oppervlakken reflecteren het licht op verschillende manieren, waardoor er een gevoel van diepte en beweging ontstaat, alsof de vormen zachtjes ademen of langzaam van vorm veranderen.",
-      "cyclus": 14725,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in textuur van de donkere vormen (links/rechts niet volledig symmetrisch)', 'Subtiele halo rond de witte ruimte waar deze de donkere vormen raakt']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014725_14788.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14785,
-    "gemaakt": 14847,
-    "gekozen": 2321,
+    "cycli": 14792,
+    "gemaakt": 14854,
+    "gekozen": 2323,
     "afgekeurd": 1781,
     "corpus": 61,
     "notities": 527
