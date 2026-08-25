@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T06:15+02:00",
+  "bijgewerkt": "2026-08-25T06:30+02:00",
   "werk": [
+    {
+      "id": 14437,
+      "titel": "Was die de weg wijst",
+      "beschrijving": "Een getekende kaart met zwarte contouren en lichtblauwe vlakken ligt schuin in het bovenste deel, met kleine symbolen en lijnen die paden en locaties suggereren. Rechtsboven rust een rechthoekig blokje was met een ambrkleurige, glanzende druppel erop. Middenin daalt een smalle, goudgele druppel naar beneden, met een kleinere druppel eronder. Onderin domineert een donkere, gedetailleerde tekening van gras met scherpe, zwarte bladeren, waarin een tweede wasblok met een ambrkleurige vlek ligt. De achtergrond is helderwit, waardoor de elementen scherp afsteken. De compositie combineert kaart, was en gras in een verticale stroom van boven naar beneden.",
+      "cyclus": 14374,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is speels en niet-obvious.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014374_14437.webp"
+    },
+    {
+      "id": 14433,
+      "titel": "Waar de wind stilstaat",
+      "beschrijving": "Golvende zandduinen vullen het beeld, getekend in zachte grijstinten met donkere, onregelmatige randen die de overgangen benadrukken. De lagen zand lopen parallel aan elkaar, met subtiele variaties in textuur en schaduw die een gevoel van diepte creëren. Kleine, donkere vlekken en korrelige details geven het zand een ruwe, natuurlijke uitstraling, terwijl de achtergrond geleidelijk vervagt in een egaïere, lichte mist. De compositie is rustig en herhalend, met een focus op de vloeiende lijnen en de stilte van het landschap.",
+      "cyclus": 14370,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistenties in textuurherhaling bij de golven', 'lichte wazigheid in de donkerste schaduwen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014370_14433.webp"
+    },
     {
       "id": 14428,
       "titel": "Sporen van een onafgewerkt verhaal",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014331_14394.webp"
-    },
-    {
-      "id": 14386,
-      "titel": "Glad oppervlak, onrust in de scheur",
-      "beschrijving": "Een gladde, lichtgrijze oppervlakte met subtiele textuurveranderingen domineert het beeld. Een scherpe, onregelmatige scheur loopt diagonaal door het midden, omgeven door zachte, golvende plooien die de indruk wekken van een materiaal dat langzaam aan het oplossen is. De randen van de scheur zijn dun en fragiel, met kleine, donkere spleetjes die diepte suggereren. De achtergrond is homogeen, zonder duidelijke vormen of details, wat de focus legt op de spanning tussen de gladde vlakken en de onrust in de scheur. De kleurvariaties zijn minimaal, met lichte schakeringen van grijs die de textuur benadrukken. De compositie is minimalistisch, met veel lege ruimte die de scheur als enig dynamisch element omringt.",
-      "cyclus": 14323,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onpersoonlijke vormtaal zonder toeristische connotaties.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014323_14386.webp"
-    },
-    {
-      "id": 14375,
-      "titel": null,
-      "beschrijving": "Vier onregelmatige stenen, in verschillende groottes en texturen, vallen in een diagonale lijn van linksboven naar rechtsonder tegen een effen, lichtgrijze achtergrond. De steen het dichtst bij de bovenrand is het kleinst en heeft een ruwe, bruinige textuur, terwijl de grootste steen onderaan een lichtere, bijna witte kleur heeft met donkere vlekken. Een scherpe, onregelmatige scheur loopt van linksboven naar het midden van de compositie, waarbij de bovenste steen net door de scheur heen lijkt te vallen. De achtergrond is glad en zonder afleiding, waardoor de stenen en de scheur de enige zichtbare elementen zijn. De sfeer is statisch en minimalistisch, met een focus op de contrasten tussen de ruwe stenen en de effen achtergrond.",
-      "cyclus": 14312,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014312_14375.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14375,
-    "gemaakt": 14438,
-    "gekozen": 2249,
+    "cycli": 14379,
+    "gemaakt": 14441,
+    "gekozen": 2251,
     "afgekeurd": 1741,
     "corpus": 61,
     "notities": 517
