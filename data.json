@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T03:45+02:00",
+  "bijgewerkt": "2026-08-25T04:00+02:00",
   "werk": [
     {
       "id": 14368,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14377,
+      "cyclus": 14314,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte vervorming in de schaduw van de klok, alsof de pixels wat uit elkaar lopen', 'Textuur van het gras in de voorgrond is wat wazig en ontbreekt aan variatie']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische combinatie van een dorpsplein, een klassieke klok en een serene achtergrond, zonder duidelijke compositorische keuzes die erbovenuit steken.",
+      "bestand": "images/a014314_14377.webp"
+    },
+    {
       "id": 14364,
       "cyclus": 14301,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['lichte vervorming in de vleugels van de molen, inconsistent perspectief in de bomen aan weerskanten']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, dramatische wolken en een klassieke balans tussen natuur en architectuur, zonder verrassende of persoonlijke keuzes.",
       "bestand": "images/a014300_14363.webp"
-    },
-    {
-      "id": 14360,
-      "cyclus": 14297,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Molen in landschap met decoratief licht en typisch Nederlands motief, zonder eigen compositorisch standpunt.",
-      "bestand": "images/a014297_14360.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14306,
-    "gemaakt": 14369,
+    "cycli": 14315,
+    "gemaakt": 14377,
     "gekozen": 2237,
-    "afgekeurd": 1728,
-    "corpus": 59,
+    "afgekeurd": 1729,
+    "corpus": 62,
     "notities": 516
   }
 }
