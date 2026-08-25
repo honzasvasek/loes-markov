@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T18:45+02:00",
+  "bijgewerkt": "2026-08-25T19:00+02:00",
   "werk": [
     {
       "id": 14776,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14785,
+      "cyclus": 14722,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst die geen toeristische associatie oproept.",
+      "bestand": "images/a014722_14785.webp"
+    },
+    {
       "id": 14756,
       "cyclus": 14693,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'onmogelijke geometrie']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een complexe, niet-onmiddellijk herkenbare compositie.",
       "bestand": "images/a014681_14744.webp"
-    },
-    {
-      "id": 14725,
-      "cyclus": 14662,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met vuur en tekst.",
-      "bestand": "images/a014662_14725.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14718,
-    "gemaakt": 14780,
+    "cycli": 14724,
+    "gemaakt": 14787,
     "gekozen": 2309,
-    "afgekeurd": 1771,
+    "afgekeurd": 1772,
     "corpus": 59,
     "notities": 524
   }
