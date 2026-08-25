@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T07:45+02:00",
+  "bijgewerkt": "2026-08-25T08:00+02:00",
   "werk": [
     {
       "id": 14476,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14479,
+      "cyclus": 14416,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst en een scheur, wat geen toeristische ansichtkaart uitmaakt.",
+      "bestand": "images/a014416_14479.webp"
+    },
+    {
       "id": 14461,
       "cyclus": 14398,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in vogelvleugels (één vleugel per vogel iets anders gepositioneerd)', 'lichte wazigheid in achtergrondbomen']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie met vogels in vlucht boven een idyllisch dorpje, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014375_14438.webp"
-    },
-    {
-      "id": 14432,
-      "cyclus": 14369,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische woestijnschap met perfecte wolken en een serene, decoratieve compositie zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a014369_14432.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14415,
-    "gemaakt": 14477,
+    "cycli": 14420,
+    "gemaakt": 14482,
     "gekozen": 2258,
-    "afgekeurd": 1742,
+    "afgekeurd": 1743,
     "corpus": 61,
     "notities": 518
   }
