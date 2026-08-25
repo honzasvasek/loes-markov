@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-25T05:15+02:00",
+  "bijgewerkt": "2026-08-25T05:30+02:00",
   "werk": [
+    {
+      "id": 14410,
+      "titel": "Grijze spanning zonder randen",
+      "beschrijving": "Donkere grijze en zwarte vlakken vullen het beeld, met subtiele overgangen naar lichtere grijstinten in de onderste helft. Brede, zware penseelstreken lopen horizontaal en diagonaal door het doek, waarbij sommige delen dik en reliëfrijk zijn en andere dunner en gladder. Een smalle, lichtgrijze vorm aan de linkerkant suggereert een vaag contour, terwijl rechts een donkerdere, amorf vorm zich uitstrekt. Kleurloze, bijna monotone tinten domineren, met alleen kleine variaties in textuur en lichtval die beweging suggereren. De compositie voelt statisch, maar de onregelmatige penseelvoering introduceert een zekere restloosheid. Geen duidelijke onderwerpen of structuren, alleen een spel van vlakken en textuur.",
+      "cyclus": 14347,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; abstracte compositie met bewuste keuze voor grijstinten en textuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014347_14410.webp"
+    },
+    {
+      "id": 14403,
+      "titel": "Tanden in het landschap",
+      "beschrijving": "Twee verticale, golvende banen van donkere, organische vormen lopen door een lichtgrijze, korrelige achtergrond. De banen bestaan uit parallelle, onregelmatige lijnen die soms verdikken tot donkere, amorf-vormige vlekken en soms dunner worden tot fijne, kronkelende strepen. Aan weerskanten van elke baan bevinden zich reeksen korte, donkere, spits toelopende vormen die als tanden of pennen de golvende structuren lijnen. Tussen de banen blijft een smalle, lichtere strook over, met enkele verspreide donkere stippen en subtiele textuurverschillen. De randen van de afbeelding zijn donkerder en iets onscherper, wat een gevoel van slijtage of veroudering suggereert. De compositie is symmetrisch opgebouwd, maar de vormen zelf zijn asymmetrisch en onvoorspelbaar in hun loop en vorm.",
+      "cyclus": 14340,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in lijndikte aan linker- en rechterrand', 'lichte vervaging in de middelste verticale as']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014340_14403.webp"
+    },
+    {
+      "id": 14398,
+      "titel": "Waar blijven de rest?",
+      "beschrijving": "Een hand met gespreide vingers, getekend in zachte bruine tinten op een effen, lichtbeige achtergrond. De vingers zijn lang en slank, met de duim iets naar buiten gedraaid. De lijnen zijn subtiel en wat onzeker, alsof de tekening in één keer is gemaakt zonder voorbereiding. De palm is breed en de overgang naar de vingers is soepel. Rechtsonder loopt een dunne, kronkelige lijn van de hand af, die overgaat in een paar vaag omschreven vormen die op vingers of tentakels kunnen lijken. De sfeer is rustig en iets mysterieus, door de eenvoud en de afwezigheid van andere elementen.",
+      "cyclus": 14335,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een subtiele, persoonlijke interpretatie van een hand als spoor van afwezigheid.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014335_14398.webp"
+    },
     {
       "id": 14395,
       "titel": "Verf die zich herinnerde",
@@ -91,45 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014305_14368.webp"
-    },
-    {
-      "id": 14365,
-      "titel": "Zilvergrijze takken snijden door stilte",
-      "beschrijving": "Donkere takken met een zilvergrijze glans snijden door een getekende, donkergrijze achtergrond met subtiele verticale strepen. Kleine, lichtgrijze cirkels en donkere vlekken zijn willekeurig verspreid, alsof ze in de achtergrond zijn getekend of gedrukt. De takken vertakken zich in scherpe hoeken en lopen parallel aan elkaar, met enkele dunne, brekende takjes die de compositie verstoren. Donkere, onregelmatige vlekken op de takken suggereren textuur, terwijl de achtergrond een bijna houtachtige structuur heeft met lichte slijtage. De sfeer is statisch en iets onrustigs, door de willekeurige plaatsing van details en de scherpe, bijna agressieve lijnen van de takken.",
-      "cyclus": 14302,
-      "tech_score": 8.0,
-      "tech_notities": "['Enkele takken vertonen lichte vervormingen aan de randen, alsof ze in de achtergrond opgaan zonder duidelijke overgang', 'De textuur van de takken is inconsistent: sommige delen zijn scherp gedetailleerd, andere delen wazig of smeuiig']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont geen decoratief perfect licht, maar een complexe, bijna abstracte compositie van takken met een donkere, sfeervolle achtergrond.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014302_14365.webp"
-    },
-    {
-      "id": 14362,
-      "titel": "Knoppen die wachten op regen",
-      "beschrijving": "Een slanke steel steekt omhoog, omringd door lange, smalle bladeren die een V-vorm vormen. Bovenaan de steel zitten kleine, donkere bloemknoppen met lichte punten. De achtergrond is egaal lichtgrijs, zonder extra details. De bladeren hebben fijne, parallelle lijnen die de textuur benadrukken. De compositie is centraal en symmetrisch, met de steel als verticale as.",
-      "cyclus": 14299,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is niet iconisch of bevestigend, en de compositie toont een bewuste keuze voor asymmetrie en lege ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014299_14362.webp"
-    },
-    {
-      "id": 14341,
-      "titel": null,
-      "beschrijving": "Een hand trekt een scheur in bruin papier open, waardoor een bevroren landschap zichtbaar wordt: bevroren gras en riet aan de rand van een waterloop, met in de verte landbouwvelden en huizen onder een grijze hemel. Het papier heeft een onregelmatige, gescheurde rand, en op de voorgrond liggen bevroren grassprietjes op het zand. De kleuren zijn gedempt, met tinten grijs, groen en bruin, en de sfeer is koud en stil.",
-      "cyclus": 14278,
-      "tech_score": 8.0,
-      "tech_notities": "['Hand is iets te glad en mist subtiele huidtextuur', 'Rand van het gescheurde papier is aan één kant iets te scherp gedefinieerd']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een realistisch landschap met een tactiele, bijna installatie-achtige laag (papier, zand, bevroren gras), wat beyond een typische ansichtkaartcompositie gaat.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014278_14341.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14351,
-    "gemaakt": 14414,
-    "gekozen": 2243,
+    "cycli": 14359,
+    "gemaakt": 14421,
+    "gekozen": 2246,
     "afgekeurd": 1737,
     "corpus": 61,
     "notities": 516
