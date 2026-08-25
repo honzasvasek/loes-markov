@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T10:00+02:00",
+  "bijgewerkt": "2026-08-25T10:15+02:00",
   "werk": [
     {
       "id": 14536,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14539,
+      "cyclus": 14476,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een minimalistisch beeld zonder toeristische connotatie.",
+      "bestand": "images/a014476_14539.webp"
+    },
+    {
       "id": 14537,
       "cyclus": 14474,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "geen duidelijke generatie-artefacten, maar lichte inconsistentie in textuur van hout en gras (soms te scherp, soms te wazig)",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten schuur met dramatisch licht en overwoekerde omgeving, zonder onverwachte compositorische keuzes.",
       "bestand": "images/a014465_14528.webp"
-    },
-    {
-      "id": 14527,
-      "cyclus": 14464,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch landschap met molens en boerderijen in een klassieke, decoratieve compositie zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a014464_14527.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14476,
-    "gemaakt": 14538,
+    "cycli": 14482,
+    "gemaakt": 14544,
     "gekozen": 2270,
-    "afgekeurd": 1753,
+    "afgekeurd": 1754,
     "corpus": 62,
     "notities": 519
   }
