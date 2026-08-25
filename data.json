@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T08:15+02:00",
+  "bijgewerkt": "2026-08-25T08:30+02:00",
   "werk": [
     {
       "id": 14488,
@@ -134,31 +134,31 @@
   ],
   "afgekeurd": [
     {
-      "id": 14489,
-      "cyclus": 14426,
+      "id": 14497,
+      "cyclus": 14434,
       "afkeuringsreden": "cliche",
       "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap met een decoratief lichteffect, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014426_14489.webp"
+      "tech_notities": "enkele lichte vervormingen in de achtergrondbomen, minimale detailverlies in de schaduwen van het gras",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een typisch landschap met gras en bomen, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014434_14497.webp"
     },
     {
-      "id": 14483,
-      "cyclus": 14420,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte vorm met sporen van ontbinding.",
-      "bestand": "images/a014420_14483.webp"
-    },
-    {
-      "id": 14479,
-      "cyclus": 14416,
+      "id": 14495,
+      "cyclus": 14432,
       "afkeuringsreden": "techniek",
       "tech_score": 2.0,
       "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst en een scheur, wat geen toeristische ansichtkaart uitmaakt.",
-      "bestand": "images/a014416_14479.webp"
+      "cliche_notities": "Molens en water in een decoratieve, ansichtkaartachtige compositie zonder eigen standpunt",
+      "bestand": "images/a014432_14495.webp"
+    },
+    {
+      "id": 14491,
+      "cyclus": 14428,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van rotsen (sommige te scherp, andere wazig)', 'Waterspiegel heeft subtiele herhaalpatronen in golven']",
+      "cliche_notities": "Molen op kust met perfecte zonsondergangslicht en iconische compositie zonder onverwachte elementen",
+      "bestand": "images/a014428_14491.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14428,
-    "gemaakt": 14490,
+    "cycli": 14435,
+    "gemaakt": 14497,
     "gekozen": 2261,
-    "afgekeurd": 1745,
+    "afgekeurd": 1748,
     "corpus": 61,
     "notities": 519
   }
