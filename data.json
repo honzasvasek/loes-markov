@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T08:45+02:00",
+  "bijgewerkt": "2026-08-25T09:00+02:00",
   "werk": [
+    {
+      "id": 14505,
+      "titel": "Wat blijft van het pad?",
+      "beschrijving": "Donkere, onregelmatige vlekken met zachte en scherpe randen vullen het beeld, gescheiden door smalle, lichte gangen die de indruk wekken van uitgesletene paden. Texturen variëren van korrelig en vervaagd tot fijn gestreept en spikkelig, met hier en daar donkere, bijna zwarte plekken die als putten of holtes wirken. Kleine, stralende patronen en subtiele golven lopen door sommige vormen, terwijl andere vlakker en homogener zijn. De compositie voelt als een kaart van een vergeten landschap, waar de leegte tussen de vlekken net zo aanwezig is als de vlekken zelf.",
+      "cyclus": 14442,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont geen decoratief perfect licht, maar verkent een abstracte, organische vormtaal met ruimte voor interpretatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014442_14505.webp"
+    },
+    {
+      "id": 14502,
+      "titel": "Wat bleef er over?",
+      "beschrijving": "Een effen, lichtgrijze textuur vult het hele beeld, met subtiele variaties in de penseelstreken die een zachte, bijna onzichtbare diepte creëren. Horizontale en verticale lijnen lopen door het vlak, niet scherp gedefinieerd maar wel waarneembaar als lichte onderbrekingen in de textuur. In het midden van het beeld bevindt zich een vaag, rechthoekig gebied waar de penseelstreken iets donkerder en textuurrijker zijn, alsof er ooit iets was dat nu verdwenen is. Een enkele, kleine donkere stip zit net onder dat gebied, een onopzettelijke afwijking in de gelijkmatigheid. De randen van het beeld zijn iets lichter dan de rest, wat een gevoel van ruimte rondom het midden suggereert. Er is geen duidelijke horizon of focus, alleen een rustige, ongestoorde uitbreiding van grijs.",
+      "cyclus": 14439,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, minimale compositie zonder duidelijke thematiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014439_14502.webp"
+    },
     {
       "id": 14499,
       "titel": "Vingers op een stapel papier",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014407_14470.webp"
-    },
-    {
-      "id": 14466,
-      "titel": "Vingers in de mist",
-      "beschrijving": "Een grijze hand met uitgestrekte vingers snijdt schuin door een egaal grijze ruimte, de contouren zacht en vaag alsof getekend met een stomp potlood. De vingers lopen spits toe, de duim licht gebogen, terwijl de overige drie vingers parallel lopen met een subtiele spanning tussen hen. De achtergrond is een uniforme, korrelige textuur zonder afwijkingen, waardoor de hand de enige vorm is die de leegte doorbreekt. Het licht valt van linksboven, waardoor de hand een lichte schaduw werpt die hem een driedimensionale uitstraling geeft, maar de overgang tussen licht en donker blijft zacht en onduidelijk. Er is geen aanwijzing voor beweging, noch voor een context buiten deze hand en de ruimte om hem heen.",
-      "cyclus": 14403,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een minimalistische, contemplatieve compositie zonder iconische onderwerpen of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014403_14466.webp"
-    },
-    {
-      "id": 14452,
-      "titel": "De vlek die blijft hangen",
-      "beschrijving": "Een egaal grijs vlak vult het beeld, met een subtiele textuur die doet denken aan fijn korrelig papier of een verfdop. Middenlinks, iets onder het midden, bevindt zich een kleine, vaag zichtbare donkere vlek, amper groter dan een millimeter. De randen van het vlak zijn scherp afgetekend tegen een onzichtbare achtergrond, zonder duidelijke overgang of schaduw. De kleur is uniform, zonder afwijkingen of variaties in tint, en de sfeer is neutraal, noch koud noch warm. Er zijn geen andere vormen, patronen of details waarneembaar.",
-      "cyclus": 14389,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een minimalistisch beeld zonder duidelijke compositorische keuze.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014389_14452.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14442,
-    "gemaakt": 14504,
-    "gekozen": 2264,
+    "cycli": 14450,
+    "gemaakt": 14512,
+    "gekozen": 2266,
     "afgekeurd": 1748,
-    "corpus": 61,
+    "corpus": 62,
     "notities": 519
   }
 }
