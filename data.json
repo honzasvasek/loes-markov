@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T01:45+02:00",
+  "bijgewerkt": "2026-08-25T02:00+02:00",
   "werk": [
     {
       "id": 14308,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14318,
+      "cyclus": 14255,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconisch verlaten hok in een landschap, getekend in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014255_14318.webp"
+    },
+    {
       "id": 14310,
       "cyclus": 14247,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met boom en water, uitgevoerd in een klassieke, decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014243_14306.webp"
-    },
-    {
-      "id": 14298,
-      "cyclus": 14235,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het beeld toont een iconisch landschap met een eencilige boom en uitgestrekte velden, typisch voor een ansichtkaartachtige voorstelling zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014235_14298.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14249,
-    "gemaakt": 14311,
+    "cycli": 14257,
+    "gemaakt": 14320,
     "gekozen": 2229,
-    "afgekeurd": 1717,
+    "afgekeurd": 1718,
     "corpus": 59,
     "notities": 515
   }
