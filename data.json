@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T04:00+02:00",
+  "bijgewerkt": "2026-08-25T04:15+02:00",
   "werk": [
+    {
+      "id": 14372,
+      "titel": "Roet dat zich onthoudt van lucht",
+      "beschrijving": "Zwart en wit inkt vloeit in onregelmatige, wazige vormen over het oppervlak, met donkere, bijna zwarte vlekken die zich uitstrekken als roetachtige wolken. Dunne, donkere lijnen lopen door het beeld, soms recht, soms kronkelend, en vormen een netwerk van takken en aderen. Kleine, donkere stippen en spetters zijn verspreid over het witte vlak, alsof ze door een plotselinge beweging in de lucht zijn geslingerd. De inkt lijkt te zijn getrokken door een onzichtbare kracht, met gebieden waar de donkere vormen zich opstapelen en andere waar ze dunner worden, bijna doorschijnend. Witte ruimtes tussen de donkere vormen creëren een gevoel van ruimte en beweging, alsof de inkt nog altijd aan het uitvloeien is. De compositie is asymmetrisch, met de donkerste delen voornamelijk in de boven- en rechterhoek, terwijl de linkeronderkant meer wit ruimte laat zien.",
+      "cyclus": 14309,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014309_14372.webp"
+    },
+    {
+      "id": 14370,
+      "titel": "Waar de stilte krakelt",
+      "beschrijving": "Een kronkelende rivier snijdt door een woestijnlandschap, omringd door scherpe, donkere bergen met zachte, bruine hellingen. De rivier, geschilderd in grijze en witte tinten, vormt een gladde, vloeiende lijn die het beeld diagonaal doorsnijdt. Kleine zwarte vlekken, mogelijk rotsen of bomen, prikken hier en daar in het landschap. De achtergrond is een egaal beige, wat de indruk van een uitgestrekt, verlaten gebied versterkt. De penseelstreken zijn zichtbaar en textuurrijk, met een mix van korte, krachtige lijnen en langere, vloeiende bewegingen.",
+      "cyclus": 14307,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief bij de bergen (links/rechts niet helemaal uitgelijnd)', 'Enkele donkere vlekken in het landschap lijken willekeurig geplaatst zonder duidelijke functie']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het landschap is geen typisch iconisch onderwerp en de compositie toont bewuste keuzes (bijv. de kronkelende rivier als leidende lijn), geen standaard-ansichtkaartlicht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014307_14370.webp"
+    },
     {
       "id": 14368,
       "titel": "Glazen aderen in een leegte",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014245_14308.webp"
-    },
-    {
-      "id": 14305,
-      "titel": "Glimsterend onrust",
-      "beschrijving": "Donkere, verticale textuur met golvende, lichtere aders die diagonaal lopen door een ruw, bijna metaalachtig oppervlak. Kleine, onregelmatige putjes en glinsterende deeltjes doorbreken de monochromatische grijstinten. Rechtsboven een effen, lichtgrijze achtergrond die scherp contrasteert met de donkere, onrustige structuur. Geen duidelijke horizon of herkenbare vormen, alleen een spel van licht en donker dat een gevoel van diepte en beweging suggereert.",
-      "cyclus": 14242,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de lichte aders in de textuur', 'lichte inconsistentie in de diepte van de textuur aan de rechterrand']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014242_14305.webp"
-    },
-    {
-      "id": 14302,
-      "titel": "Negen groene koppen in een V",
-      "beschrijving": "Een kronkelend pad van lichtgrijs zand snijdt door een landschap van gedempt groen en bruin mos, omgeven door dunne, donkere grassprietjes. Negen eenden met donkerbruine rugpennen, groene koppen en witte staartveeren lopen in een losse V-vorm over het pad en de omliggende grond, waarbij sommige schaduwen werpen op het zand. De achtergrond vervaagt in een vaag, bewolkend grijs, terwijl de voorgrond een zachter, beige kleurtint heeft. De eenden zijn scherp getekend tegen de onscherpe, textuurrijke achtergrond, met subtiele details in hun veren en poten. Het beeld straalt een rustige, bijna verlaten sfeer uit, met de eenden als enige bewegende elementen in een stilstaand landschap.",
-      "cyclus": 14239,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in schaduwen onder eenden",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met diagonale beweging en lege ruimte",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014239_14302.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14384,
+      "cyclus": 14321,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "geen duidelijke generatie-artefacten, maar wat onnauwkeurige takstructuren en een iets wazige achtergrond",
+      "cliche_notities": "Molens en bomen in een winterlandschap zijn een typisch Nederlands ansichtkaartmotief zonder duidelijke persoonlijke interpretatie.",
+      "bestand": "images/a014321_14384.webp"
+    },
+    {
+      "id": 14378,
+      "cyclus": 14315,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een complexe compositie met meerdere lagen en een ongemakkelijke schoonheid.",
+      "bestand": "images/a014315_14378.webp"
+    },
     {
       "id": 14377,
       "cyclus": 14314,
@@ -141,24 +159,6 @@
       "tech_notities": "['Lichte vervorming in de schaduw van de klok, alsof de pixels wat uit elkaar lopen', 'Textuur van het gras in de voorgrond is wat wazig en ontbreekt aan variatie']",
       "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met de iconische combinatie van een dorpsplein, een klassieke klok en een serene achtergrond, zonder duidelijke compositorische keuzes die erbovenuit steken.",
       "bestand": "images/a014314_14377.webp"
-    },
-    {
-      "id": 14364,
-      "cyclus": 14301,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen in een romantisch landschap, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014301_14364.webp"
-    },
-    {
-      "id": 14363,
-      "cyclus": 14300,
-      "afkeuringsreden": "cliche",
-      "tech_score": 7.0,
-      "tech_notities": "['lichte vervorming in de vleugels van de molen, inconsistent perspectief in de bomen aan weerskanten']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een iconische Nederlandse molen, dramatische wolken en een klassieke balans tussen natuur en architectuur, zonder verrassende of persoonlijke keuzes.",
-      "bestand": "images/a014300_14363.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14315,
-    "gemaakt": 14377,
-    "gekozen": 2237,
-    "afgekeurd": 1729,
-    "corpus": 62,
+    "cycli": 14322,
+    "gemaakt": 14384,
+    "gekozen": 2239,
+    "afgekeurd": 1731,
+    "corpus": 60,
     "notities": 516
   }
 }
