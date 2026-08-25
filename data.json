@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-25T14:45+02:00",
+  "bijgewerkt": "2026-08-25T15:00+02:00",
   "werk": [
+    {
+      "id": 14671,
+      "titel": "Water dat zand herkust",
+      "beschrijving": "Een smalle, kronkelende waterloop snijdt door een uitgestrekt zandlandschap, waarbij het water een spiegelgladde reflectie vormt van de omringende zandduinen. De zandkleuren variëren van zacht beige tot diep bruinrood, met subtiele overgangen die door de wind en het water zijn gevormd. De randen van de waterloop zijn onregelmatig en lijken door erosie te zijn uitgesneden, met kleine, scherp afgetekende richels en diepere groeven. Het water zelf is helder, maar reflecteert de warme tinten van het zand, waardoor het een bijna gouden gloed krijgt. De compositie is minimalistisch, met de waterloop als enige onderbreking in het andersoorspronkelijk egale zand, wat een gevoel van stilte en eenzaamheid uitstraalt. Er zijn geen sporen van leven of beweging, alleen de stille interactie tussen water, zand en licht.",
+      "cyclus": 14608,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014608_14671.webp"
+    },
     {
       "id": 14668,
       "titel": "Waar blijft de rest",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014605_14668.webp"
+    },
+    {
+      "id": 14666,
+      "titel": "Glas dat liegt",
+      "beschrijving": "Donkere takken vullen het beeld, scherp getekend tegen een achtergrond van fijne, donkere strepen en vage cirkelvormen. Middenin bevindt zich een heldere, ronde opening met een lichtgele kern, omringd door een glanzende, facetrijke structuur die aan gescheurd glas doet denken. Een klein, felblauw puntje zit aan de rand van die structuur. Rechtsboven loopt een donkere, rechthoekige vorm met verticale lijnen door het beeld, alsof het een raam of hekwerk is. De takken snijden door alle lagen, van voor- naar achtergrond, en creëren een gevoel van diepte. De kleuren zijn beperkt tot zwart, grijs en wit, met uitschieters van geel en blauw. De sfeer is dicht en wat chaotisch, maar de heldere cirkel trekt de blik direct.",
+      "cyclus": 14603,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond het heldere cirkelvormige element', 'lichte inconsistentie in textuur van de takken (rechtsboven vs. linksonder)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en openbaar, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014603_14666.webp"
     },
     {
       "id": 14663,
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014571_14634.webp"
-    },
-    {
-      "id": 14622,
-      "titel": "Net buiten de nagelrieten",
-      "beschrijving": "Twee handen, geschilderd in zachte roze en beige tinten, strekken zich vanuit de bovenhoeken naar elkaar toe, net buiten bereik. De vingers zijn lang en slank, met subtiele details zoals nagels en lijntjes die de textuur van de huid nabootsen. De achtergrond is een egaal, warm roze, met een lichte schaduw onder de handen die diepte suggereert. De compositie is asymmetrisch, met de handen die een V-vorm vormen die de blik naar beneden leidt. De sfeer is intiem en wat verlegen, alsof het moment net voor een aanraking wordt vastgelegd. De verf is dik aangebracht, met zichtbare penseelstreken die een tactiel gevoel geven.",
-      "cyclus": 14559,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014559_14622.webp"
-    },
-    {
-      "id": 14596,
-      "titel": "Vingers die stilstaan in regen",
-      "beschrijving": "Twee handafdrukken domineren het beeld, de linker in roze en bruine tinten, de rechter in donkerblauw en grijs, met vingers die zachtjes uitwaaieren. Linksboven liggen vijf gekleurde pastelkrijtjes schuin gerangschikt: rood, paars, donkerblauw, groen en geel, waarvan de punten de kleuren van de handafdrukken weerspiegelen. De achtergrond bestaat uit een wit vel papier met subtiele, natte waterverfvlakken die de handen omhullen, met druppels en lopende kleuren die een gevoel van beweging suggereren. De compositie is asymmetrisch, met de handen centraal maar licht schuin geplaatst, terwijl de krijtjes een diagonale lijn vormen die het oog naar de linkerhand leidt. De sfeer is speels en intuïtief, met een mix van scherpe en vaag uitgelopen vormen.",
-      "cyclus": 14533,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke, abstracte benadering met ruimte voor interpretatie, geen ansichtkaartcompositie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014533_14596.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14613,
-    "gemaakt": 14675,
-    "gekozen": 2290,
+    "cycli": 14620,
+    "gemaakt": 14682,
+    "gekozen": 2292,
     "afgekeurd": 1765,
     "corpus": 59,
     "notities": 522
