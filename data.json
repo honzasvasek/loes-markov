@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T05:45+02:00",
+  "bijgewerkt": "2026-08-25T06:00+02:00",
   "werk": [
     {
       "id": 14428,
@@ -134,6 +134,24 @@
   ],
   "afgekeurd": [
     {
+      "id": 14432,
+      "cyclus": 14369,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische woestijnschap met perfecte wolken en een serene, decoratieve compositie zonder duidelijke persoonlijke keuze.",
+      "bestand": "images/a014369_14432.webp"
+    },
+    {
+      "id": 14431,
+      "cyclus": 14368,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de perspectief van de wieken ten opzichte van de molen', 'Watervlekken-achtige textuur in de achtergrond die niet natuurlijk overkomt']",
+      "cliche_notities": "Dit is een typische ansichtkaartvoorstelling van een Nederlandse molen, zonder unieke compositorische keuzes of een eigen standpunt.",
+      "bestand": "images/a014368_14431.webp"
+    },
+    {
       "id": 14426,
       "cyclus": 14363,
       "afkeuringsreden": "techniek",
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare tekens', 'inconsistent perspectief tussen tekst en achtergrond']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder duidelijke intentie.",
       "bestand": "images/a014363_14426.webp"
-    },
-    {
-      "id": 14407,
-      "cyclus": 14344,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "enkele lichte krassen en korreligheid in de hemel, maar geen ernstige artefacten",
-      "cliche_notities": "Kerk met toren en kruis in een klassieke, bijna ansichtkaartachtige compositie zonder duidelijke persoonlijke invalshoek",
-      "bestand": "images/a014344_14407.webp"
-    },
-    {
-      "id": 14405,
-      "cyclus": 14342,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in reflecties op water', 'lichte inconsistentie in perspectief van gebouwen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een gracht, kerktoren en harmonieus zonsonderganglicht zonder duidelijke persoonlijke keuze.",
-      "bestand": "images/a014342_14405.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14366,
-    "gemaakt": 14428,
+    "cycli": 14374,
+    "gemaakt": 14436,
     "gekozen": 2249,
-    "afgekeurd": 1738,
+    "afgekeurd": 1740,
     "corpus": 61,
     "notities": 517
   }
