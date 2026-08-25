@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T22:45+02:00",
+  "bijgewerkt": "2026-08-25T23:00+02:00",
   "werk": [
     {
       "id": 14879,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14888,
+      "cyclus": 14825,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van het huis (dakpannen links/rechts lopen niet parallel)', 'lichte wazigheid in de achtergrondvegetatie']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een nostalgisch huisje met perfecte zonsondergangslighting en decoratieve details zonder eigen standpunt.",
+      "bestand": "images/a014825_14888.webp"
+    },
+    {
       "id": 14885,
       "cyclus": 14822,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een gracht met bruggen en huisjes, uitgevoerd in een decoratieve, bijna romantische stijl zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014818_14881.webp"
-    },
-    {
-      "id": 14878,
-      "cyclus": 14815,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen', 'inconsistent perspectief handen ten opzichte van tekst']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekst en handen zonder duidelijke symboliek.",
-      "bestand": "images/a014815_14878.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14825,
-    "gemaakt": 14887,
+    "cycli": 14833,
+    "gemaakt": 14895,
     "gekozen": 2329,
-    "afgekeurd": 1786,
-    "corpus": 62,
+    "afgekeurd": 1787,
+    "corpus": 63,
     "notities": 528
   }
 }
