@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T23:00+02:00",
+  "bijgewerkt": "2026-08-25T23:15+02:00",
   "werk": [
+    {
+      "id": 14896,
+      "titel": "Nog nat en onrustig",
+      "beschrijving": "Donkere, glanzende banen lopen in golvende lijnen door een grijze, textuurrijke ondergrond, met kleine, glinsterende druppels die zich langs de randen verzamelen. De banen splitsen zich in een spiraalvormig patroon, waarbij de donkerste delen een bijna zwarte glans hebben en de lichtere grijze zones subtiele penseelstrepen onthullen. Kleine, onregelmatige uitstulpingen en druppels suggereren een viskeus materiaal dat langzaam is aangebracht en nog niet volledig is opgedroogd. De compositie straal een gevoel van beweging uit, alsof de donkere lijnen net zijn getrokken en zich nog steeds uitstrekken over het oppervlak.",
+      "cyclus": 14833,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014833_14896.webp"
+    },
+    {
+      "id": 14893,
+      "titel": "Sporen die zwijgen bewaren",
+      "beschrijving": "Zandduinen vullen het beeld, met zachte, golvende lijnen die zich uitstrekken tot aan de horizon. Een reeks parallelle, donkere sporen snijdt diagonaal door het zand, van linksboven naar rechtsonder, en volgt de contouren van de duinen. De sporen zijn diep en scherp getekend, met duidelijke randen en een textuur die het zand lijkt te doorbreken. Het zand zelf heeft een fijne, korrelige structuur, met subtiele patronen veroorzaakt door wind en water. De kleuren variëren van lichtbeige tot donkerbruin, met grijze tinten in de schaduwgebieden. De achtergrond bestaat uit een egale, lichtgrijze hemel zonder wolken, die het landschap omhult in een stille, bijna monotone sfeer. De compositie is rustig en uitgestrekt, met de sporen als enige dynamische element die de ogen door het beeld leiden.",
+      "cyclus": 14830,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van zand in voor- en achtergrond', 'lichte halo rond de horizonlijn']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele verschuivingen in vorm en textuur, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014830_14893.webp"
+    },
     {
       "id": 14879,
       "titel": "Roze aanraking tegen donker",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014775_14838.webp"
-    },
-    {
-      "id": 14836,
-      "titel": "Papiersneden met een mes",
-      "beschrijving": "Twee handen domineren het beeld: één rechtsboven, met een mes in de greep, de punt gericht op een kleurrijke, vaag vormgegeven hand linksboven. Die linkerhand lijkt van papier of een zacht materiaal, met vingers die wazig en doorschijnend zijn, in tinten groen, oranje en bruin. Onderaan links bevindt zich een donkerblauwe, gestileerde vorm met witte lijnen en cirkels, alsof het een abstract symbool of een fragment van een object is. De achtergrond is helderwit, wat de handen en kleuren doet uitkomen. De sfeer is gespannen door de positie van het mes, maar ook mysterieus door de onduidelijke vormen en de mix van realistische en gestileerde elementen. Kleuren zoals oranje, groen, blauw en bruin contrasteren met de neutrale huidtinten en het witte vlak.",
-      "cyclus": 14773,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vingerproporties bij de hand met het mes', 'lichte wazigheid in de schaduwpartijen van de onderste hand']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de contrasten tussen realistische en gestileerde handen en de symbolische inbreng van het mes, wat het boven een toeristisch onderwerp verheft.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014773_14836.webp"
-    },
-    {
-      "id": 14826,
-      "titel": "Vingertoppen op afstand",
-      "beschrijving": "Twee handen liggen naast elkaar, vingers gespreid en parallel, met een subtiele spanning tussen de vingertoppen. De huid toont fijne details: rimpels, aders en kleine onregelmatigheden, met een roodbruine tot beige kleurverloop. Nagels zijn kort geknipt, met een matte, licht glanzende textuur. Donkere schaduwen omlijnen de handen, die zich aftekenen tegen een egale, crèmekleurige achtergrond. Druppeltjes vocht en subtiele textuurverschillen geven een vochtig, bijna tastbaar gevoel. De compositie is symmetrisch, met een focus op de relatie tussen de handen en de lege ruimte ertussen.",
-      "cyclus": 14763,
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele vervorming in vingers (te lang/te dun)', 'lichte inconsistentie in nagelvormen', 'wazige overgang huid/textuur aan randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op intieme, ongemakkelijke details zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014763_14826.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14901,
+      "cyclus": 14838,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstract typografisch patroon zonder toeristische connotatie.",
+      "bestand": "images/a014838_14901.webp"
+    },
+    {
+      "id": 14899,
+      "cyclus": 14836,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de pier (planken worden niet evenwijdig smaller)', 'lichte wazigheid in verre achtergrond (bomen/horizon)']",
+      "cliche_notities": "Het beeld toont een iconisch landschap (pier over water met zonsondergang/schone horizon) met decoratief licht en een klassieke compositie, typisch voor een toeristische ansichtkaart.",
+      "bestand": "images/a014836_14899.webp"
+    },
     {
       "id": 14888,
       "cyclus": 14825,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van het huis (dakpannen links/rechts lopen niet parallel)', 'lichte wazigheid in de achtergrondvegetatie']",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een nostalgisch huisje met perfecte zonsondergangslighting en decoratieve details zonder eigen standpunt.",
       "bestand": "images/a014825_14888.webp"
-    },
-    {
-      "id": 14885,
-      "cyclus": 14822,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een klok met een subtiele vervorming en textuur die niet typisch is voor een standaard ansichtkaart, wat een meer persoonlijke en minder iconische uitstraling geeft.",
-      "bestand": "images/a014822_14885.webp"
-    },
-    {
-      "id": 14881,
-      "cyclus": 14818,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van een gracht met bruggen en huisjes, uitgevoerd in een decoratieve, bijna romantische stijl zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014818_14881.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14833,
-    "gemaakt": 14895,
-    "gekozen": 2329,
-    "afgekeurd": 1787,
-    "corpus": 63,
+    "cycli": 14839,
+    "gemaakt": 14902,
+    "gekozen": 2331,
+    "afgekeurd": 1789,
+    "corpus": 61,
     "notities": 528
   }
 }
