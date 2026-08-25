@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T15:15+02:00",
+  "bijgewerkt": "2026-08-25T15:30+02:00",
   "werk": [
+    {
+      "id": 14687,
+      "titel": "Blauw dat ademt",
+      "beschrijving": "Twee donkerblauwe verticale vlakken klemmen een smalle, helderblauwe spleet tussen zich in, die zich naar beneden uitbreidt tot een zachte, lichtblauwe vloer. De overgang tussen de vlakken is scherp, maar de lichtval zorgt voor een geleidelijke verloop van donker naar licht. De ruimte straalt een kalme, bijna statische sfeer uit, zonder duidelijke horizon of objecten die de blik moeten vasthouden. De blauwe tinten domineren het beeld, met subtiele variaties die diepte suggereren zonder een concreet verhaal te vertellen.",
+      "cyclus": 14624,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014624_14687.webp"
+    },
+    {
+      "id": 14686,
+      "titel": "Waar begint de stilte?",
+      "beschrijving": "Twee handen scheuren een vel papier langs een onregelmatige lijn, waarbij de textuur van het papier en de vezels duidelijk zichtbaar zijn. Het papier is grijs aan de bovenzijde en wit aan de onderzijde, met een donkergrijze laag eronder die door de scheur zichtbaar wordt. De handen zijn gepositioneerd in het midden van het beeld, met de vingers die het papier stevig vasthouden en de scheur verder trekken. De achtergrond is egaal wit, waardoor de focus ligt op de actie van het scheuren en de lagen papier. De compositie is centraal gericht, met de scheur die een diagonale lijn vormt door het beeld. De sfeer is statisch en gefocust, met een duidelijke spanning tussen de handen en het papier.",
+      "cyclus": 14623,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, bijna intieme focus op handen en papier, zonder iconische of decoratieve elementen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014623_14686.webp"
+    },
     {
       "id": 14671,
       "titel": "Water dat zand herkust",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014581_14644.webp"
-    },
-    {
-      "id": 14638,
-      "titel": "Vingers die liegen",
-      "beschrijving": "Vier handen vormen een onstabiel kruis, vingers die elkaar licht aanraken zonder greep. De huid is roze-beige met subtiele aderen en kleine oneffenheden, nagels kort geknipt en licht roze. Donkerblauwe schaduwen omlijnen de polsen en vingers, diep en scherp getekend tegen een vaag gestreepte achtergrond in zachtgrijs en wit. De compositie is asymmetrisch, met de handen schuin door het beeld, terwijl de achtergrond zich uitstrekt in onafgewerkte, wazige vlakken. Licht valt van bovenaf, waardoor de handen een zachte, bijna natte glans krijgen en de schaduwen dieper liggen. Geen gezicht, geen context, alleen de handen die een moment van onopzettelijke verbondenheid vastleggen zonder dat duidelijk is wie er kijkt.",
-      "cyclus": 14575,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar focust op een intiem moment met een ongemakkelijke, bijna onpersoonlijke houding, wat geen ansichtkaart-gevoel geeft.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014575_14638.webp"
-    },
-    {
-      "id": 14634,
-      "titel": "Onvoltooide kringen in verbleekt papier",
-      "beschrijving": "Donkere, korrelige vlakken vullen het beeld, doorsneden door zachte, golvende lijnen die vaag herinneren aan organische vormen. Twee grote, onvoltooide cirkels domineren de compositie, één linksboven, één rechtsonder, met een donkere, bijna zwarte kern die zich uitstrekt naar een lichtere, grijsachtige rand. Kleinere, onregelmatige vlekken en stippen zijn verspreid over het oppervlak, sommige donker, andere vaag zichtbaar tegen de textuurrijke achtergrond. De randen van het beeld zijn ongelijkmatig en iets verbleekt, met sporen van slijtage. De sfeer is stil en wat verwaarloosd, met een gevoel van verleden tijd en onafgeheid. Kleuren beperken zich tot verschillende tinten grijs, zwart en een flink beetje bruinachtige verkleuring, vooral aan de randen. De compositie voelt onbewust en spontaan, alsof de vormen zich vanzelf hebben geformeerd zonder duidelijke richting of intentie.",
-      "cyclus": 14571,
-      "tech_score": 8.0,
-      "tech_notities": "[\"subtiele halo's rond donkere vormen\", 'lichte textuurvervorming in grijze vlakken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met bewuste keuze voor leegte en vervorming.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014571_14634.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14627,
-    "gemaakt": 14689,
-    "gekozen": 2292,
+    "cycli": 14634,
+    "gemaakt": 14696,
+    "gekozen": 2294,
     "afgekeurd": 1766,
     "corpus": 59,
     "notities": 522
