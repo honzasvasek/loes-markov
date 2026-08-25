@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T23:15+02:00",
+  "bijgewerkt": "2026-08-25T23:30+02:00",
   "werk": [
+    {
+      "id": 14908,
+      "titel": "Donkere vlakken, natte droom",
+      "beschrijving": "Donkere, textuurrijke vlakken vullen het beeld, opgebouwd uit onregelmatige, bijna tegelachtige vormen met zachte, afgeronde hoeken. De kleuren variëren van diep zwart tot donkergrijs, met subtiele lichtgrijze en zilverachtige accenten die de oppervlakten een matte, bijna natte uitstraling geven. Horizontally getekende penseelstreken lopen door de meeste vlakken, terwijl sommige delen ruwe, korrelige textuur vertonen, alsof het materiaal aan het oppervlak is bevroren of verweerd. Kleine, donkere brokjes en fragmenten liggen verspreid tussen de vormen, alsof ze los zijn gebroken uit het geheel. De compositie is dicht en statisch, zonder duidelijke horizon of focus, waardoor het beeld een gevoel van geslotenheid en stilte uitstraalt. De overgang tussen de vlakken is vaag, alsof ze in elkaar opgaan, wat een gevoel van eenheid creëert midden in de chaos van texturen en tinten.",
+      "cyclus": 14845,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op textuur en structuur.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014845_14908.webp"
+    },
+    {
+      "id": 14905,
+      "titel": "Koper dat het gras vasthoudt",
+      "beschrijving": "Een golvende, koperkleurige laag scheidt een donkere, textuurrijke horizon van een lichtgrijze hemel met zware, wazige wolken. Onder de koperlaag strekken lange, slanke grasspelden zich uit in een dicht, bijna chaotisch patroon, met subtiele variaties in grijstinten en fijne details die een gevoel van beweging suggereren. De koperlaag heeft een glanzende, bijna vloeibare textuur met onregelmatige, organische vormen en kleine, donkere plekken die diepte toevoegen. De overgang tussen de koperlaag en het gras is scherp, terwijl de horizonlijn zacht overloopt in de hemel. Rechtsboven is een lichte, vaag getekende heuvel zichtbaar, die zich langzaam verliest in de achtergrond.",
+      "cyclus": 14842,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014842_14905.webp"
+    },
     {
       "id": 14896,
       "titel": "Nog nat en onrustig",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014787_14850.webp"
-    },
-    {
-      "id": 14848,
-      "titel": "Vingers die zochtten naar vorm",
-      "beschrijving": "Een hand met lichtgekleurde nagels raakt een oppervlak met zachte, overlappende cirkels in pastelkleuren: zacht roze, mintgroen, geel, blauw en paars. De vingers zijn licht gebogen, alsof ze voorzichtig een textuur willen voelen. De achtergrond is een effen, lichtgrijze textuur die de cirkels omringt. De compositie is close-up, met de hand aan de rechterkant en de cirkels die de rest van het beeld vullen. De sfeer is rustig en tactiel, met een focus op de interactie tussen hand en vorm.",
-      "cyclus": 14785,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een hand die een actieve spanning suggereert.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014785_14848.webp"
-    },
-    {
-      "id": 14838,
-      "titel": "Bijna aanraking tussen handen",
-      "beschrijving": "Twee handen met lichtgekleurde nagels strekken zich uit tegen een diepblauwe achtergrond, waarbij de vingers zachtjes gespreid zijn en een subtiele spanning uitstralen. De huid toont fijne details zoals adertjes en lichte roodverkleuringen, terwijl de nagels een matte, natuurlijke glans hebben. De handen zijn gepositioneerd alsof ze elkaar bijna raken, maar er blijft een kleine, spanning volgende ruimte tussen hen bestaan. De blauwe achtergrond is egaal en zonder afleiding, waardoor de handen centraal staan en de aandacht trekkend. De compositie is eenvoudig maar krachtig, met een focus op de relatie tussen de twee handen en de ongesproken communicatie die er tussen hen lijkt te spelen. De sfeer is intiem en wat mysterieus, alsof er een onuitgesproken verhaal tussen de handen schuilgaat.",
-      "cyclus": 14775,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een eigen, stilistische spanning tussen de handen en de lege ruimte.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014775_14838.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14839,
-    "gemaakt": 14902,
-    "gekozen": 2331,
+    "cycli": 14847,
+    "gemaakt": 14909,
+    "gekozen": 2333,
     "afgekeurd": 1789,
-    "corpus": 61,
+    "corpus": 62,
     "notities": 528
   }
 }
