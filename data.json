@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-25T19:00+02:00",
+  "bijgewerkt": "2026-08-25T19:15+02:00",
   "werk": [
+    {
+      "id": 14788,
+      "titel": "Ademtrekkende spleet in het donker",
+      "beschrijving": "Donkerblauwe, glimmende vormen met een onregelmatige, bijna organische textuur vangen het licht en laten subtiele schitteringen en kleine, witte deeltjes zien. Tussen die vormen door loopt een smalle, witte spleet die zich langzaam verbreedt en een zachte, vaag begrensde schaduw werpt op de omringende oppervlakken. De overgang tussen de donkere, ruwe structuren en de lichte, gladde ruimte er tussen is scherp, maar niet hard; de randen van de witte vorm zijn wazig en lijken te smelten met de donkerblauwe omgeving. Kleinere, onregelmatige putjes en bultjes op de donkere oppervlakken reflecteren het licht op verschillende manieren, waardoor er een gevoel van diepte en beweging ontstaat, alsof de vormen zachtjes ademen of langzaam van vorm veranderen.",
+      "cyclus": 14725,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van de donkere vormen (links/rechts niet volledig symmetrisch)', 'Subtiele halo rond de witte ruimte waar deze de donkere vormen raakt']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014725_14788.webp"
+    },
+    {
+      "id": 14784,
+      "titel": "Vingers die rimpels tellen",
+      "beschrijving": "Vier handen raken het wateroppervlak, waarbij de vingers zachtjes de rimpels raken die zich concentrisch uitbreiden. Twee handen bevinden zich bovenin, de andere twee aan weerskanten, met de duimen en wijsvingers die het water bijna aanraken. Het water reflecteert licht en donkere tonen, met glinsterende highlights die de beweging benadrukken. Onderin het beeld liggen twee rechthoekige, houten blokken schuin tegen elkaar, met zichtbare korrel en scharnierende randen. De achtergrond bestaat uit een vaag getekend oppervlak met subtiele lijnen en schaduwen, wat een gevoel van diepte geeft. De compositie is gericht op de interactie tussen de handen en het water, met de houten blokken als statische counterpart. De sfeer is rustig en gefocust, met een spel van licht en donker dat de textuur van het water en het hout benadrukt.",
+      "cyclus": 14721,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van wateroppervlak', 'lichte wazigheid in textuur van houten blokken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele interactie tussen handen en water zonder typisch ansichtkaartmotief.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014721_14784.webp"
+    },
+    {
+      "id": 14780,
+      "titel": "Spoor in het zand",
+      "beschrijving": "Zandduinen vullen het beeld, getekend met fijne, donkere strepen die diepte en textuur suggereren. Een smalle, kronkelende spoor van donkere, onregelmatige vormen loopt van de voorgrond naar de achtergrond, alsof iets of iemand hier recent voorbij is geweest. De duinen hebben zachte, golvenachtige vormen, met schaduwen die de overgangen benadrukken. De achtergrond bestaat uit een egale, lichte hemel zonder details, wat de leegte van het landschap versterkt. De compositie is rustig en symmetrisch, met de spoor als enige onderbreking van de vloeiende lijnen. De sfeer is stil en verlaten, met een subtiele spanning tussen de lege ruimte en de sporen van beweging.",
+      "cyclus": 14717,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een minimalistische, contemplatieve sfeer zonder iconische of toeristische elementen, en de compositie is bewust asymmetrisch en open, wat niet past bij een ansichtkaart-achtige benadering.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014717_14780.webp"
+    },
     {
       "id": 14776,
       "titel": "Vingers in stralen",
@@ -91,48 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014673_14736.webp"
-    },
-    {
-      "id": 14733,
-      "titel": "Spleten in het beton van nu",
-      "beschrijving": "Donkergrijze, korrelige textuur vult het beeld, doorsneden door diepe, onregelmatige spleten die diagonaal lopen. Fijne, witte adertjes en kleine, lichtere vlekken doorbreken de monochromie, terwijl de oppervlakte een ruwe, bijna korrelige structuur heeft. De spleten variëren in breedte en diepte, met scherpe randen die de textuur verder fragmenteren. Een enkele, minuscule bruine vlek is zichtbaar in de linkeronderhoek.",
-      "cyclus": 14670,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte textuur zonder duidelijke compositorische keuze.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014670_14733.webp"
-    },
-    {
-      "id": 14729,
-      "titel": "Pen die vragen stelt",
-      "beschrijving": "Een hand met lichtgekleurde nagels houdt een zwarte pen vast, die net een donkere, onregelmatige vorm op wit papier tekent. Het papier is bedekt met brede, grijze penseelstreken en donkere vlekken, waarbij sommige delen nat en glanzend lijken. Kleine zwarte spetters en ongelijkmatige randen geven het beeld een dynamische, bijna chaotische uitstraling. De hand bevindt zich aan de rechterkant, met de vingers gespreid rond de pen, terwijl de duim en wijsvinger de punt precies dirigeren. De achtergrond is egaal wit, waardoor de donkere vormen en de hand scherp afsteken.",
-      "cyclus": 14666,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het toont een intiem moment van creatief proces zonder iconische of decoratieve elementen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014666_14729.webp"
-    },
-    {
-      "id": 14727,
-      "titel": "Wit tussen de vlekken",
-      "beschrijving": "Twee donkere, onregelmatige vlekken met zachte, uitlopende randen domineren het beeld, gescheiden door een smalle, witte spleet die diagonaal loopt. De vlekken hebben een korrelige textuur met variaties in grijstinten, van diep zwart tot lichtgrijs, en lijken organisch te zijn ontstaan. Kleine, donkere stippen en subtiele golven in de randen geven een gevoel van beweging, alsof de vormen nog steeds aan het ontleden zijn. De achtergrond is egaal wit, waardoor de vlekken scherp afsteken en een gevoel van isolatie uitstralen. Een vaag, rond schaduweffect tussen de vlekken suggereert diepte, alsof er iets onzichtbaars tussen hen zweeft. De compositie is asymmetrisch, met de ene vlek groter en hoger geplaatst dan de andere, wat een dynamische spanning creëert.",
-      "cyclus": 14664,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele halo rond de donkere vormen bij het witte achtergrond', 'lichte inconsistentie in textuur van de donkere vlekken (soms wazig, soms scherp)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is abstract en open, zonder bevestigende of toeristische uitstraling.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014664_14727.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14791,
+      "cyclus": 14728,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in takken linksboven', 'wazige overgang horizon/achtergrond']",
+      "cliche_notities": "Landschap met zonsondergang en bomen is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
+      "bestand": "images/a014728_14791.webp"
+    },
     {
       "id": 14785,
       "cyclus": 14722,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met gras, water en een zonsondergangachtige hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a014693_14756.webp"
-    },
-    {
-      "id": 14744,
-      "cyclus": 14681,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen/gezichten', 'onmogelijke geometrie']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een complexe, niet-onmiddellijk herkenbare compositie.",
-      "bestand": "images/a014681_14744.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14724,
-    "gemaakt": 14787,
-    "gekozen": 2309,
-    "afgekeurd": 1772,
-    "corpus": 59,
+    "cycli": 14732,
+    "gemaakt": 14794,
+    "gekozen": 2312,
+    "afgekeurd": 1773,
+    "corpus": 61,
     "notities": 524
   }
 }
