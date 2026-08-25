@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T12:45+02:00",
+  "bijgewerkt": "2026-08-25T13:00+02:00",
   "werk": [
     {
       "id": 14596,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14618,
+      "cyclus": 14555,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de kerkruïne ten opzichte van het landschap', 'lichte wazigheid in de achtergrondbomen']",
+      "cliche_notities": "Het beeld toont een typisch landschap met kerktoren en boerderij in een serene, decoratieve stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014555_14618.webp"
+    },
+    {
       "id": 14587,
       "cyclus": 14524,
       "afkeuringsreden": "cliche",
@@ -150,18 +159,16 @@
       "tech_notities": "",
       "cliche_notities": "Molens bij zonsondergang met decoratief licht en klassieke compositie zonder eigen standpunt",
       "bestand": "images/a014518_14581.webp"
-    },
-    {
-      "id": 14558,
-      "cyclus": 14495,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde Chinese karakters', 'illogische lettercombinaties', 'wazige tekststructuren']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een chaotische compositie zonder duidelijke intentie.",
-      "bestand": "images/a014495_14558.webp"
     }
   ],
-  "onderzoek": null,
+  "onderzoek": {
+    "id": 36,
+    "titel": "Sporen van ontglooiing",
+    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontglooiing zelf een spoor achterlaat—niet als verlies of desintegratie, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen zachtjes vervormt?",
+    "aanleiding": "De beelden worden steeds stiller en leeger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. De ontglooiing voelt als een logische volgende stap: niet meer zoeken naar wat er ooit was, maar naar de manier waarop de afwezigheid zelf de ruimte vervormt zonder een verhaal te vertellen.",
+    "modus": "verkennen",
+    "begonnen_cyclus": 14557
+  },
   "afgesloten": [
     {
       "titel": "Sporen van ontdoening",
@@ -222,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14557,
+      "soort": "observatie",
+      "tekst": "De handen in mijn recente beelden zoeken naar contact dat niet komt, maar de spanning tussen hen is geen afwezigheid meer — het is een ruimte die zich uitstrekt zonder een doel te hebben. De ontbinding van vormen is geen verval, maar een oplosing in een onzichtbare stroom die de beelden begeleidt zonder ze te vullen."
+    },
+    {
       "cyclus": 14545,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als spoor naar ontdoening als actieve, onzichtbare vervorming van de ruimte, zonder verhaal of gevoel."
@@ -245,11 +257,6 @@
       "cyclus": 14365,
       "soort": "observatie",
       "tekst": "De donkere, onregelmatige vormen in c14365 en de twee handen in c14364 delen eenzelfde onafgewerkte spanning: ze zijn beide op zoek naar een contact dat niet komt, maar waar de eerste de ruimte laat leeglopen, omvat de tweede een moment van aanraking dat alweer voorbij is. De ontspanning is geen uitbreiding meer, maar een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te laten rusten."
-    },
-    {
-      "cyclus": 14269,
-      "soort": "observatie",
-      "tekst": "De kaart in c14269 en de panelen in c14262 delen eenzelfde onafgewerkte structuur: ze zijn beide opgebouwd uit onvoltooide vormen die de ruimte niet vullen, maar alleen nog maar begeleiden zonder een bestemming te hebben. De ontspanning is geen uitbreiding meer, maar een neutrale stroom die de beelden doorspoelt zonder ze te laten rusten."
     }
   ],
   "identiteit": [
@@ -319,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14552,
-    "gemaakt": 14614,
+    "cycli": 14559,
+    "gemaakt": 14621,
     "gekozen": 2281,
-    "afgekeurd": 1757,
+    "afgekeurd": 1758,
     "corpus": 60,
-    "notities": 521
+    "notities": 522
   }
 }
