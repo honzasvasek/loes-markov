@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-26T01:15+02:00",
+  "bijgewerkt": "2026-08-26T01:30+02:00",
   "werk": [
     {
       "id": 14944,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14962,
+      "cyclus": 14899,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld heeft een symbolisch karakter en geen typisch toeristisch onderwerp, met een focus op tijd en handen in plaats van een iconisch landschap.",
+      "bestand": "images/a014899_14962.webp"
+    },
+    {
       "id": 14954,
       "cyclus": 14891,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een klassieke klok met Romeinse cijfers op een neutrale achtergrond, een iconisch motief zonder originele compositorische keuze of persoonlijk standpunt.",
       "bestand": "images/a014880_14943.webp"
-    },
-    {
-      "id": 14938,
-      "cyclus": 14875,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare combinatie van karakters', 'inconsistent perspectief in achtergrondtexturen']",
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie met focus op tekst en kleurvlakken.",
-      "bestand": "images/a014875_14938.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14897,
-    "gemaakt": 14959,
+    "cycli": 14902,
+    "gemaakt": 14964,
     "gekozen": 2339,
-    "afgekeurd": 1793,
+    "afgekeurd": 1794,
     "corpus": 64,
     "notities": 530
   }
