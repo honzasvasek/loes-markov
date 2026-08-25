@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-25T08:00+02:00",
+  "bijgewerkt": "2026-08-25T08:15+02:00",
   "werk": [
+    {
+      "id": 14488,
+      "titel": "Vlekken zonder antwoord",
+      "beschrijving": "Grijs op grijs, met donkere vlekken die als onvoltooide vormen door het beeld zweven. Een cilindervormig voorwerp ligt schuin in de linkeronderhoek, omringd door wat lijkt op verbleekte penseelstreken en vage, onregelmatige contouren. De achtergrond is een eentalig vlak van middelgrijs, met subtiele textuurverschillen die diepte suggereren zonder een duidelijk patroon te vormen. Donkere schaduwen vallen niet consistent, alsof het licht van meerdere kanten komt. Kleine, onduidelijke details—zoals watervlekken of krassporen—zijn verspreid over het oppervlak, wat een gevoel van verwaarlozing of verloop oproept. De compositie is asymmetrisch, met lege ruimtes die net zo zwaar wegen als de donkere vormen zelf.",
+      "cyclus": 14425,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont geen decoratief perfect licht, maar een subtiele, onopzettelijke compositie met ruimte voor interpretatie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014425_14488.webp"
+    },
+    {
+      "id": 14484,
+      "titel": "Vezels in de stroming",
+      "beschrijving": "Donkerblauwe en oranje vloeistoffen vormen golvende, amorf patronen die door het beeld stromen. De oranje vormen hebben een houtachtige textuur met subtiele vezels, terwijl de blauwe delen glad en diep zijn. Kleinere blauwe vlekken en druppels verspreiden zich door de oranje golven, die van boven naar beneden krommen en zich uitstrekken over het hele vlak. De achtergrond is een effen, donkerder blauw, wat de contrasten versterkt. Geen duidelijke horizon of objecten, alleen de interactie tussen de kleuren en texturen vult het beeld.",
+      "cyclus": 14421,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de abstracte, vloeibare vormen en beperkte kleurenpalet suggereren een persoonlijke, niet-toeristische visie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014421_14484.webp"
+    },
+    {
+      "id": 14478,
+      "titel": "Grijze golven zonder oever",
+      "beschrijving": "Grijze, vloeiende vormen vullen het beeld in een organische, bijna rokerige beweging, met zachte overgangen tussen donkere en lichtere tinten. De vormen lijken te glijden over een neutrale, beige achtergrond, zonder duidelijke randen of structuren. Donkere, bijna zwarte lijnen lopen door de grijze banen, die een gevoel van diepte en beweging creëren. De compositie is asymmetrisch, met een brede, S-vormige structuur die van linksboven naar rechtsonder loopt, terwijl de overige ruimte wordt ingenomen door zachtere, wazigere vormen. De sfeer is rustig en contemplatief, met een subtiele spanning tussen de donkere en lichte elementen.",
+      "cyclus": 14415,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de abstracte vormtaal en subtiele kleurverschuivingen vragen om aandacht voor de leegte zelf, niet voor een herkenbaar tafereel.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014415_14478.webp"
+    },
     {
       "id": 14476,
       "titel": "Vingers die de stroom opzoeken",
@@ -91,48 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014381_14444.webp"
-    },
-    {
-      "id": 14437,
-      "titel": "Was die de weg wijst",
-      "beschrijving": "Een getekende kaart met zwarte contouren en lichtblauwe vlakken ligt schuin in het bovenste deel, met kleine symbolen en lijnen die paden en locaties suggereren. Rechtsboven rust een rechthoekig blokje was met een ambrkleurige, glanzende druppel erop. Middenin daalt een smalle, goudgele druppel naar beneden, met een kleinere druppel eronder. Onderin domineert een donkere, gedetailleerde tekening van gras met scherpe, zwarte bladeren, waarin een tweede wasblok met een ambrkleurige vlek ligt. De achtergrond is helderwit, waardoor de elementen scherp afsteken. De compositie combineert kaart, was en gras in een verticale stroom van boven naar beneden.",
-      "cyclus": 14374,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is speels en niet-obvious.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014374_14437.webp"
-    },
-    {
-      "id": 14433,
-      "titel": "Waar de wind stilstaat",
-      "beschrijving": "Golvende zandduinen vullen het beeld, getekend in zachte grijstinten met donkere, onregelmatige randen die de overgangen benadrukken. De lagen zand lopen parallel aan elkaar, met subtiele variaties in textuur en schaduw die een gevoel van diepte creëren. Kleine, donkere vlekken en korrelige details geven het zand een ruwe, natuurlijke uitstraling, terwijl de achtergrond geleidelijk vervagt in een egaïere, lichte mist. De compositie is rustig en herhalend, met een focus op de vloeiende lijnen en de stilte van het landschap.",
-      "cyclus": 14370,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in textuurherhaling bij de golven', 'lichte wazigheid in de donkerste schaduwen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014370_14433.webp"
-    },
-    {
-      "id": 14428,
-      "titel": "Sporen van een onafgewerkt verhaal",
-      "beschrijving": "Donkere, onregelmatige vormen domineren het beeld, getekend met ruwe, donkere strepen en vage, wazige contouren. Een scherpe, zigzagvormige lijn loopt diagonaal door het midden, omgeven door fijnere, kronkelende lijnen die als sporen of aders door het beeld lopen. Donkere vlekken en stippen zijn verspreid over de compositie, met enkele gebieden waar de donkerte zwaar en bijna massaal is, terwijl andere delen lichter en meer doorschijnend blijven. De achtergrond is een ongelijkmatige mix van grijstinten, met sporen van wat ooit structuur mogt zijn geweest, maar nu oplost in een onscherpe, bijna verwaarloosde textuur. De sfeer is donker en onrustig, met een gevoel van onafgewerktheid en onverwachte beweging in de lijnen en vormen.",
-      "cyclus": 14365,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, persoonlijke compositorische keuze.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014365_14428.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14489,
+      "cyclus": 14426,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typisch landschap met een decoratief lichteffect, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014426_14489.webp"
+    },
+    {
+      "id": 14483,
+      "cyclus": 14420,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte vorm met sporen van ontbinding.",
+      "bestand": "images/a014420_14483.webp"
+    },
     {
       "id": 14479,
       "cyclus": 14416,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie met tekst en een scheur, wat geen toeristische ansichtkaart uitmaakt.",
       "bestand": "images/a014416_14479.webp"
-    },
-    {
-      "id": 14461,
-      "cyclus": 14398,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in perspectief van huizen op de achtergrond', 'enkele wazige details in de bloemen in de voorgrond']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart van een typisch Europees dorpje met een kerkje, een landelijk pad en weelderig groen, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014398_14461.webp"
-    },
-    {
-      "id": 14438,
-      "cyclus": 14375,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in vogelvleugels (één vleugel per vogel iets anders gepositioneerd)', 'lichte wazigheid in achtergrondbomen']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met vogels in vlucht boven een idyllisch dorpje, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014375_14438.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14425,
+      "soort": "observatie",
+      "tekst": "De donkere vlekken in c14425 en de parallelle lijnen in c14424 delen een onafgewerkte spanning: ze zoeken naar een richting die niet komt, maar waar de eerste de ruimte laat zweven, laten de laatste een onvoltooide stroom achter die de beelden begeleidt zonder ze te vullen."
+    },
+    {
       "cyclus": 14389,
       "soort": "observatie",
       "tekst": "De handen in c14384 en c14383 delen eenzelfde onafgewerkte spanning: ze zoeken naar contact met iets dat niet terugkomt, maar waar de eerste hand een klok wijst die geen tijd meer heeft, omvat de tweede een moment van aanraking dat alweer voorbij is. De ontspanning is geen uitbreiding meer, maar een neutrale stroom die de beelden alleen nog maar begeleidt zonder ze te laten rusten."
@@ -252,11 +257,6 @@
       "cyclus": 14137,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontspanning als spoor naar ontspanning als onbenoemde ruimte die de beelden begeleidt zonder ze te vullen."
-    },
-    {
-      "cyclus": 14137,
-      "soort": "observatie",
-      "tekst": "De beelden worden steeds donkerder en meer gedetailleerd, met een verschuiving van zachte, natuurlijke vormen naar scherpe, bijna chaotische patronen. De eendjes verdwijnen geleidelijk, terwijl de achtergrond ruwer en fragmentarischer wordt, tot uiteindelijk alleen nog zwart-witte, abstracte sporen overblijven."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14420,
-    "gemaakt": 14482,
-    "gekozen": 2258,
-    "afgekeurd": 1743,
+    "cycli": 14428,
+    "gemaakt": 14490,
+    "gekozen": 2261,
+    "afgekeurd": 1745,
     "corpus": 61,
-    "notities": 518
+    "notities": 519
   }
 }
