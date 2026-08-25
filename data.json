@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T07:15+02:00",
+  "bijgewerkt": "2026-08-25T07:30+02:00",
   "werk": [
+    {
+      "id": 14452,
+      "titel": "De vlek die blijft hangen",
+      "beschrijving": "Een egaal grijs vlak vult het beeld, met een subtiele textuur die doet denken aan fijn korrelig papier of een verfdop. Middenlinks, iets onder het midden, bevindt zich een kleine, vaag zichtbare donkere vlek, amper groter dan een millimeter. De randen van het vlak zijn scherp afgetekend tegen een onzichtbare achtergrond, zonder duidelijke overgang of schaduw. De kleur is uniform, zonder afwijkingen of variaties in tint, en de sfeer is neutraal, noch koud noch warm. Er zijn geen andere vormen, patronen of details waarneembaar.",
+      "cyclus": 14389,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een minimalistisch beeld zonder duidelijke compositorische keuze.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014389_14452.webp"
+    },
+    {
+      "id": 14450,
+      "titel": "Rook die stenen kust",
+      "beschrijving": "Een schuine, donkere dakgoot loopt diagonaal door het beeld, met daarboven een wazige, witte rook- of dampvorming die overgaat in een vaag, wolkachtig patroon. Onder de goot bevindt zich een muur van onregelmatige, donkere stenen met afwisselende texturen en glanspunten, deels ondergedompeld in water dat de onderste rand van het beeld vult. Het water weerspiegelt subtiele golven en heeft een gladde, bijna glanzende textuur. De achtergrond bestaat uit een egale, grijze hemel die overgaat in een horizonlijn waar het water de lucht raakt. De compositie is statisch, met een sterke contrast tussen de donkere structuren en de lichte, wazige vormen erboven.",
+      "cyclus": 14387,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; textuur en detail in bakstenen en water zijn consistent, rook en bliksem hebben natuurlijke overgangen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of decoratief onderwerp; de compositie is ongemakkelijk en uitgesproken, met een focus op ontbinding en leegte in plaats van een bevestigend landschap",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014387_14450.webp"
+    },
     {
       "id": 14447,
       "titel": "Vingers die de tijd vastgrijpen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014347_14410.webp"
-    },
-    {
-      "id": 14403,
-      "titel": "Tanden in het landschap",
-      "beschrijving": "Twee verticale, golvende banen van donkere, organische vormen lopen door een lichtgrijze, korrelige achtergrond. De banen bestaan uit parallelle, onregelmatige lijnen die soms verdikken tot donkere, amorf-vormige vlekken en soms dunner worden tot fijne, kronkelende strepen. Aan weerskanten van elke baan bevinden zich reeksen korte, donkere, spits toelopende vormen die als tanden of pennen de golvende structuren lijnen. Tussen de banen blijft een smalle, lichtere strook over, met enkele verspreide donkere stippen en subtiele textuurverschillen. De randen van de afbeelding zijn donkerder en iets onscherper, wat een gevoel van slijtage of veroudering suggereert. De compositie is symmetrisch opgebouwd, maar de vormen zelf zijn asymmetrisch en onvoorspelbaar in hun loop en vorm.",
-      "cyclus": 14340,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in lijndikte aan linker- en rechterrand', 'lichte vervaging in de middelste verticale as']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014340_14403.webp"
-    },
-    {
-      "id": 14398,
-      "titel": "Waar blijven de rest?",
-      "beschrijving": "Een hand met gespreide vingers, getekend in zachte bruine tinten op een effen, lichtbeige achtergrond. De vingers zijn lang en slank, met de duim iets naar buiten gedraaid. De lijnen zijn subtiel en wat onzeker, alsof de tekening in één keer is gemaakt zonder voorbereiding. De palm is breed en de overgang naar de vingers is soepel. Rechtsonder loopt een dunne, kronkelige lijn van de hand af, die overgaat in een paar vaag omschreven vormen die op vingers of tentakels kunnen lijken. De sfeer is rustig en iets mysterieus, door de eenvoud en de afwezigheid van andere elementen.",
-      "cyclus": 14335,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een subtiele, persoonlijke interpretatie van een hand als spoor van afwezigheid.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014335_14398.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14400,
-    "gemaakt": 14462,
-    "gekozen": 2253,
+    "cycli": 14407,
+    "gemaakt": 14469,
+    "gekozen": 2255,
     "afgekeurd": 1742,
     "corpus": 61,
     "notities": 518
