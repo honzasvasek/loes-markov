@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T14:00+02:00",
+  "bijgewerkt": "2026-08-25T14:15+02:00",
   "werk": [
+    {
+      "id": 14656,
+      "titel": "Getande dromen in roodbruin",
+      "beschrijving": "Zachte, vloeibare vormen in roodbruine en roze tinten vullen het beeld, met donkere, getande randen die als nauwe spleten door de compositie lopen. De structuren lijken organisch, bijna als doorzichtig weefsel of rook die zich langzaam ontvouwt, met subtiele overgangen tussen lichte en donkere gebieden. Enkele dunne, donkere lijnen snijden door de vormen, terwijl andere delen glad en vaag overlopen in de achtergrond. De sfeer is stil en zwevend, zonder duidelijke horizon of focus, alsof de vormen in een langzame, onzichtbare stroom drijven.",
+      "cyclus": 14593,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014593_14656.webp"
+    },
+    {
+      "id": 14649,
+      "titel": "Stenen op het randje van papier",
+      "beschrijving": "Zwart papier vormt de basis, doorsneden door witte, onregelmatig gescheurde stroken die horizontaal lopen. Tussen die stroken door lopen verticale witte spleten, ook ongelijkmatig, die het zwarte oppervlak in twee ongelijke delen splitsen. Op de witte stroken liggen rechthoekige blokjes steen, elk met een andere textuur en kleur: grijs, roze, geel, blauw, wit en lichtgrijs. De blokjes zijn niet gecentreerd; sommige staan dichter bij de rand, andere dichter bij de verticale spleet. De randen van het papier zijn ruw en vezelig, met kleine losse vezeltjes die over de blokjes en de zwarte achtergrond hangen. De blokjes werpen een zachte schaduw op het papier, vooral waar het licht van bovenaf valt. Geen blokje raakt een ander, en geen enkel blokje ligt precies op dezelfde hoogte als de andere. De compositie voelt onaf, alsof de stroken en blokjes net zijn neergelegd en nog niet hun definitieve plek hebben gevonden.",
+      "cyclus": 14586,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014586_14649.webp"
+    },
     {
       "id": 14644,
       "titel": "Natte vingertoppen op donker",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014516_14579.webp"
-    },
-    {
-      "id": 14562,
-      "titel": "Rode stip in roze vlek",
-      "beschrijving": "Een oppervlakte bedekt met een zachte, ongelijkmatige roze laag, waarbij de kleur in de linkerbovenhoek intenser en iets roder is. Een kleine, donkerrode stip bevindt zich iets links van het midden. Onderaan loopt een onregelmatige, golvende lijn waar de roze tint overgaat in een lichtere, bijna witte zone. De textuur is fijnkorrelig en de overgangen tussen de kleuren zijn vaag en diffuus.",
-      "cyclus": 14499,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, open compositie zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014499_14562.webp"
-    },
-    {
-      "id": 14560,
-      "titel": "Vingers die liegen",
-      "beschrijving": "Vier handen liggen verspreid op een egale, beige ondergrond, zonder duidelijke randen of textuur. Twee handen raken elkaar lichtjes met de vingers, terwijl de andere twee handen losser geplaatst zijn, waarbij één hand de rand van het beeld raakt. De huid is glad en monochroom, met subtiele schaduwen die de vorm van de vingers en handen benadrukken. De nagels zijn kort en ongelakkerd. De compositie is asymmetrisch, met veel lege ruimte rond de handen, wat een gevoel van stilte en afstandelijkheid uitstraalt. De kleuren zijn gedempt, met een sepia-achtige tint die de afbeelding een tijdloze, bijna ethere sfeer geeft.",
-      "cyclus": 14497,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De handen zijn geen iconisch onderwerp en de compositie heeft een eigen, subtiele dynamiek zonder decoratief perfect licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014497_14560.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14659,
+      "cyclus": 14596,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in boomstammen (links/rechts)', 'lichte vervorming in waterreflecties bij horizon']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een serene, symmetrische landschapsscene met een kronkelende beek, iconische bomen en een romantische roze horizon, zonder duidelijke compositorische keuze of verstorend element.",
+      "bestand": "images/a014596_14659.webp"
+    },
+    {
+      "id": 14653,
+      "cyclus": 14590,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, niet-herkenbare landschapssuggestie met persoonlijke compositorische keuzes.",
+      "bestand": "images/a014590_14653.webp"
+    },
     {
       "id": 14647,
       "cyclus": 14584,
@@ -141,24 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in reflectie van de molen op het water', 'lichte vervorming van de takken van de bomen aan de linkerkant']",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp (Nederlandse molen) en de klassieke compositie zonder duidelijke persoonlijke keuze.",
       "bestand": "images/a014584_14647.webp"
-    },
-    {
-      "id": 14643,
-      "cyclus": 14580,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in vingers van de vrouwelijke hand', 'lichte inconsistentie in haarlokken bij de schouder']",
-      "cliche_notities": "Dit beeld past bij een romantische ansichtkaart: iconisch moment van intimiteit met decoratief licht en geen duidelijke compositorische keuze.",
-      "bestand": "images/a014580_14643.webp"
-    },
-    {
-      "id": 14641,
-      "cyclus": 14578,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een surrealistische compositie met een eigen standpunt.",
-      "bestand": "images/a014578_14641.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14590,
-    "gemaakt": 14652,
-    "gekozen": 2285,
-    "afgekeurd": 1762,
+    "cycli": 14597,
+    "gemaakt": 14659,
+    "gekozen": 2287,
+    "afgekeurd": 1764,
     "corpus": 60,
     "notities": 522
   }
