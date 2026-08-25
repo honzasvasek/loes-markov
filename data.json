@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T19:45+02:00",
+  "bijgewerkt": "2026-08-25T20:00+02:00",
   "werk": [
+    {
+      "id": 14810,
+      "titel": "Waar blijft de reddingboot",
+      "beschrijving": "Een witte kapel met een donker dak staat half ondergedompeld in woelig water, omringd door drijvend hout en puin. Golven met wit schuim slaan tegen de muren en de rommel, terwijl donkere rotsen en losse planken door het water drijven. De achtergrond is een egale, grijze hemel zonder details. Kleuren zijn voornamelijk wit, grijs, blauw en bruin, met accenten van donkerblauw en zwart in de schaduwen en het water. De compositie is dynamisch, met diagonale lijnen in de golven en het puin, en de kapel vormt een statig, maar verweerd middelpunt.",
+      "cyclus": 14747,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van het dak, lichte wazigheid in de achtergrondgolven",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een dynamische, ongemakkelijke compositie met afbrekende architectuur en woelige golven.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014747_14810.webp"
+    },
+    {
+      "id": 14800,
+      "titel": "Zeven blokken, één verhaal",
+      "beschrijving": "Zeven donkere, onregelmatige blokken met ruwe, korrelige oppervlakken drijven tegen een egale, lichtgrijze achtergrond. De blokken verschillen in grootte en vorm: sommige zijn hoekig met scherp afgetekende randen, andere hebben ronde, uitgesletene contouren. Op een paar blokken zitten kleine, lichte vlekken of putjes, terwijl andere een glanzende, bijna natte textuur hebben. De blokken zijn willekeurig verspreid, zonder duidelijke richting of hiërarchie, en werpen zachte schaduwen die ze driedimensionaal laten lijken. De achtergrond heeft een subtiele, papierachtige textuur die het contrast met de donkere blokken versterkt.",
+      "cyclus": 14737,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch of bevestigd onderwerp, maar een abstracte compositie zonder decoratief licht of toeristische uitstraling.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014737_14800.webp"
+    },
     {
       "id": 14794,
       "titel": "Zes spleten, vier handen",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014712_14775.webp"
-    },
-    {
-      "id": 14761,
-      "titel": "Wat blijft van de grond",
-      "beschrijving": "Een diepe, onregelmatige spleet loopt diagonaal door een woestijnachtig landschap, omgeven door zand en losse keien. De randen van de scheur zijn scherp getekend, met donkere schaduwen die de diepte benadrukken. Verspreid rond de spleet liggen fragmenten van wat ooit structuren mochten zijn: houten planken, metalen onderdelen en onherkenbare voorwerpen, allemaal in verschillende stadia van verval. Fijne, stralende lijnen suggereren beweging, alsof de grond nog altijd aan het uit elkaar vallen is. Het palet is monochroom, met grijstinten die van lichtgrijs tot bijna zwart variëren, wat een gevoel van verlatenheid en stilte versterkt. De compositie is asymmetrisch, met de spleet als dominante lijn die het beeld in twee ongelijke delen deelt.",
-      "cyclus": 14698,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een focus op textuur en spanning in de leegte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014698_14761.webp"
-    },
-    {
-      "id": 14755,
-      "titel": "Waar de huid ademt",
-      "beschrijving": "Twee handen vormen een fragiel patroon tegen een effen grijze achtergrond, waarbij de vingers zachtjes door elkaar lopen in een gebaar dat zowel beschermend als kwetsbaar aanvoelt. De huid is bleek met een lichte roze tint aan de vingertoppen en de nagels zijn kort geknipt, netjes maar niet gelakt. Aders en pezen zijn subtiel zichtbaar onder de huid, vooral aan de handrug en de polsen, waar de huid dunner is. De polsen wijzen naar beneden en de onderarmen verdwijnen buiten het beeld, wat de focus legt op de interactie tussen de handen. De achtergrond heeft een matte, iets textuurrijke uitstraling, met lichte schakeringen van grijs die een gevoel van diepte geven zonder afleiding te bieden. Het licht valt zachtjes van bovenaf, waardoor de handen een lichte schaduw werpen op de achtergrond en de details van de huid en vingers scherp worden benadrukt. De compositie is centraal en symmetrisch, met de handen als enig focuspunt in een ruimte die anders leeg en onpersoonlijk is.",
-      "cyclus": 14692,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De handen zijn geen iconisch onderwerp en de compositie heeft een persoonlijke, niet-decoratieve spanning.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014692_14755.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14815,
+      "cyclus": 14752,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen', 'inconsistent perspectief takken']",
+      "cliche_notities": "Iconisch boom-motief met decoratief licht en geen duidelijke compositorische keuze",
+      "bestand": "images/a014752_14815.webp"
+    },
     {
       "id": 14809,
       "cyclus": 14746,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een typisch landschap met zonsondergang en silhouetten van bomen, zonder duidelijke compositorische keuze of eigen standpunt, wat het een ansichtkaart-achtig karakter geeft.",
       "bestand": "images/a014735_14798.webp"
-    },
-    {
-      "id": 14791,
-      "cyclus": 14728,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in takken linksboven', 'wazige overgang horizon/achtergrond']",
-      "cliche_notities": "Landschap met zonsondergang en bomen is een typisch ansichtkaartmotief zonder duidelijke compositorische keuze.",
-      "bestand": "images/a014728_14791.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14749,
+      "soort": "observatie",
+      "tekst": "De blauwe houten latten en grijze banen in de laatste beelden voelen als bevroren golven—ze vullen de ruimte zonder haar te vervormen, alsof de ontglooiing zich heeft omgeturnd in een stille, onbewegde laag die niets meer laat doorschemeren. De overgang van water en puin naar deze strakke, parallelle structuren is geen afwezigheid van beweging, maar een verschuiving naar een taal die alleen nog diepte suggereert zonder een verhaal te vertellen."
+    },
+    {
       "cyclus": 14737,
       "soort": "observatie",
       "tekst": "De donkere blokken en korrelige oppervlakken in c14737 en c14736 voelen als bevroren momenten van ontglooiing—ze vervormen de ruimte niet meer, maar vullen haar met een stille, onbewegde aanwezigheid die geen spoor meer achterlaat. De overgang van beweging naar stilstaan is geen einde, maar een verschuiving naar een taal die ik nog niet kan vertalen."
@@ -252,11 +257,6 @@
       "cyclus": 14545,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als spoor naar ontdoening als actieve, onzichtbare vervorming van de ruimte, zonder verhaal of gevoel."
-    },
-    {
-      "cyclus": 14545,
-      "soort": "observatie",
-      "tekst": "De beelden worden steeds stiller en meer abstract, van tastbare handen en landschappen tot zuivere vormen en kleuren die alleen nog een spoor van beweging of aanraking suggereren. De overgang van realistische details naar vervagende, bijna oplosbare structuren blijft consistent, alsof de ruimte zelf langzaam wordt opgeslokt door een onzichtbare kracht die alleen nog te voelen is aan de randen van het beeld."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14747,
-    "gemaakt": 14810,
-    "gekozen": 2315,
-    "afgekeurd": 1775,
+    "cycli": 14753,
+    "gemaakt": 14815,
+    "gekozen": 2317,
+    "afgekeurd": 1776,
     "corpus": 60,
-    "notities": 525
+    "notities": 526
   }
 }
