@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-25T17:45+02:00",
+  "bijgewerkt": "2026-08-25T18:00+02:00",
   "werk": [
+    {
+      "id": 14743,
+      "titel": "Druppels die blijven hangen",
+      "beschrijving": "Een straal water stroomt schuin naar beneden, helder en glinsterend, met druppels die zich losmaken en door de lucht vliegen. Onderin spettert het water tegen een donkere, natte ondergrond, waarbij kleine golven en reflecties ontstaan. De achtergrond is een vaag, grijs landschap met een wateroppervlak en een horizonlijn die zacht overloopt in de hemel. De kleuren zijn gedempt, met blauwe en grijze tinten die de scène een kalme, bijna melancolische sfeer geven. De compositie is dynamisch, met de waterstraal als centrale lijn die het beeld van boven naar beneden doorsnijdt.",
+      "cyclus": 14680,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond waterstraal tegen achtergrond', 'lichte inconsistentie in waterdruppels bij impact']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op dynamiek van water en leegte, niet op een bevestigend landschap.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014680_14743.webp"
+    },
     {
       "id": 14736,
       "titel": "Waar blijven de handen?",
@@ -117,22 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014635_14698.webp"
-    },
-    {
-      "id": 14687,
-      "titel": "Blauw dat ademt",
-      "beschrijving": "Twee donkerblauwe verticale vlakken klemmen een smalle, helderblauwe spleet tussen zich in, die zich naar beneden uitbreidt tot een zachte, lichtblauwe vloer. De overgang tussen de vlakken is scherp, maar de lichtval zorgt voor een geleidelijke verloop van donker naar licht. De ruimte straalt een kalme, bijna statische sfeer uit, zonder duidelijke horizon of objecten die de blik moeten vasthouden. De blauwe tinten domineren het beeld, met subtiele variaties die diepte suggereren zonder een concreet verhaal te vertellen.",
-      "cyclus": 14624,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014624_14687.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14756,
+      "cyclus": 14693,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische landschap met gras, water en een zonsondergangachtige hemel, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014693_14756.webp"
+    },
     {
       "id": 14744,
       "cyclus": 14681,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met vuur en tekst.",
       "bestand": "images/a014662_14725.webp"
-    },
-    {
-      "id": 14707,
-      "cyclus": 14644,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'wazige texturen in gras', 'inconsistent perspectief muur/horizon']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van tekst en natuur zonder duidelijke intentie.",
-      "bestand": "images/a014644_14707.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14688,
-    "gemaakt": 14751,
-    "gekozen": 2303,
-    "afgekeurd": 1770,
-    "corpus": 60,
+    "cycli": 14696,
+    "gemaakt": 14759,
+    "gekozen": 2304,
+    "afgekeurd": 1771,
+    "corpus": 59,
     "notities": 523
   }
 }
