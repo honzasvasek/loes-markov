@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T09:45+02:00",
+  "bijgewerkt": "2026-08-25T10:00+02:00",
   "werk": [
+    {
+      "id": 14536,
+      "titel": null,
+      "beschrijving": "Donkere, onregelmatige vlekken van wat lijkt op natte verf of roet verspreiden zich over een wit, textuurrijk oppervlak, met zachte overgangen naar lichtgrijze zones die de randen vormen. De donkerste partiën, bijna zwart, zitten voornamig in het midden en de linkerbovenhoek, waar ze ongestroomlijnde, amorf vormen suggereren met subtiele, adervergelijkbare uitlopers die zich uitstrekken naar de lichtere gebieden. De witte ruimte aan de onder- en rechterkant blijft grotendeels leeg, met alleen enkele vaag zichtbare, fijne lijnen die de textuur van het papier of de ondergrond doorbreken. De overgang tussen donker en licht is vloeiend, zonder scherpe randen, wat een gevoel van organische uitbreiding geeft.",
+      "cyclus": 14473,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014473_14536.webp"
+    },
+    {
+      "id": 14526,
+      "titel": "Sporen van een verdwenen stroom",
+      "beschrijving": "Donkere, onregelmatige vlekken domineren het beeld, met zachte overgangen naar lichtgrijze en witte gebieden. Dunne, kronkelende lijnen snijden door de vormen, soms scherp, soms vervagen ze in de achtergrond. Een paar gesloten, ovale structuren vallen op door hun duidelijke omtrek, terwijl andere delen van het beeld onscherpe, wazige randen hebben. Witte, bijna doorschijnende plekken contrasteren met de donkerdere zones, waarbij een paar kleine, sterachtige vormen zichtbaar zijn. De compositie voelt ongestructureerd, met elementen die zowel overlappen als van elkaar afwijken, zonder duidelijke richting of focus. Texturen variëren van glad en egaal tot korrelig en ongelijkmatig, met sporen van wat ooit beweging of stroming lijkt te zijn geweest.",
+      "cyclus": 14463,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuurovergang tussen donkere en lichte vlakken', 'enkele randen tonen minimale halo-effecten bij hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met bewuste keuze voor onrustige structuren en lege ruimtes.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014463_14526.webp"
+    },
     {
       "id": 14521,
       "titel": "Donkere golven, lichte droom",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014425_14488.webp"
-    },
-    {
-      "id": 14484,
-      "titel": "Vezels in de stroming",
-      "beschrijving": "Donkerblauwe en oranje vloeistoffen vormen golvende, amorf patronen die door het beeld stromen. De oranje vormen hebben een houtachtige textuur met subtiele vezels, terwijl de blauwe delen glad en diep zijn. Kleinere blauwe vlekken en druppels verspreiden zich door de oranje golven, die van boven naar beneden krommen en zich uitstrekken over het hele vlak. De achtergrond is een effen, donkerder blauw, wat de contrasten versterkt. Geen duidelijke horizon of objecten, alleen de interactie tussen de kleuren en texturen vult het beeld.",
-      "cyclus": 14421,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de abstracte, vloeibare vormen en beperkte kleurenpalet suggereren een persoonlijke, niet-toeristische visie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014421_14484.webp"
-    },
-    {
-      "id": 14478,
-      "titel": "Grijze golven zonder oever",
-      "beschrijving": "Grijze, vloeiende vormen vullen het beeld in een organische, bijna rokerige beweging, met zachte overgangen tussen donkere en lichtere tinten. De vormen lijken te glijden over een neutrale, beige achtergrond, zonder duidelijke randen of structuren. Donkere, bijna zwarte lijnen lopen door de grijze banen, die een gevoel van diepte en beweging creëren. De compositie is asymmetrisch, met een brede, S-vormige structuur die van linksboven naar rechtsonder loopt, terwijl de overige ruimte wordt ingenomen door zachtere, wazigere vormen. De sfeer is rustig en contemplatief, met een subtiele spanning tussen de donkere en lichte elementen.",
-      "cyclus": 14415,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de abstracte vormtaal en subtiele kleurverschuivingen vragen om aandacht voor de leegte zelf, niet voor een herkenbaar tafereel.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014415_14478.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14537,
+      "cyclus": 14474,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met tekst.",
+      "bestand": "images/a014474_14537.webp"
+    },
     {
       "id": 14528,
       "cyclus": 14465,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch landschap met molens en boerderijen in een klassieke, decoratieve compositie zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a014464_14527.webp"
-    },
-    {
-      "id": 14522,
-      "cyclus": 14459,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief tussen boven- en onderbeeld', 'Sommige textuurdetails in het gras en water zijn wat wazig']",
-      "cliche_notities": "Het beeld toont een typisch idyllisch dorpsgezicht met kerken en een rivier, uitgevoerd in een decoratieve, ansichtkaartachtige stijl zonder duidelijke compositorische keuze.",
-      "bestand": "images/a014459_14522.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14470,
-    "gemaakt": 14532,
-    "gekozen": 2268,
-    "afgekeurd": 1752,
+    "cycli": 14476,
+    "gemaakt": 14538,
+    "gekozen": 2270,
+    "afgekeurd": 1753,
     "corpus": 62,
     "notities": 519
   }
