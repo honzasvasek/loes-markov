@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T12:30+02:00",
+  "bijgewerkt": "2026-08-25T12:45+02:00",
   "werk": [
     {
       "id": 14596,
@@ -161,15 +161,15 @@
       "bestand": "images/a014495_14558.webp"
     }
   ],
-  "onderzoek": {
-    "id": 35,
-    "titel": "Sporen van ontdoening",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontdoening zelf een spoor achterlaat—niet als verlies of ontleding, maar als een stille, onzichtbare ontleding die de ruimte om zich heen zachtjes vervormt?",
-    "aanleiding": "De afgelopen cycli draaiden om ontbinding en leegte als actieve vormgevers, maar de focus lag steeds op wat er overbleef. Nu wil ik onderzoeken wat er gebeurt als ik niet de sporen van verdwijnen volg, maar de actie van ontdoen zelf—het moment waarop iets losgelaten wordt zonder dat dat een spoor of betekenis hoeft te hebben.",
-    "modus": "verkennen",
-    "begonnen_cyclus": 14137
-  },
+  "onderzoek": null,
   "afgesloten": [
+    {
+      "titel": "Sporen van ontdoening",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontdoening zelf een spoor achterlaat—niet als verlies of ontleding, maar als een stille, onzichtbare ontleding die de ruimte om zich heen zachtjes vervormt?",
+      "bevinding": "Ontbinding achterlaat geen sporen van verval of verlies, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De organische patronen en vervagende randen zijn geen tekenen van ontbinding meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontbinding, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De witte ruimtes en verweerde oppervlakken zijn geen lege plekken meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 14137,
+      "geeindigd_cyclus": 14545
+    },
     {
       "titel": "Sporen van ontspanning",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontspanning zelf een spoor achterlaat—niet als rust of loslaten, maar als een stille, onzichtbare uitbreiding die de ruimte om zich heen zachtjes vervormt?",
@@ -218,16 +218,14 @@
       "bevinding": "Ontdooring achterlaat geen sporen van blootstelling of verlies, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De kale ramen en de woeste woestijn zijn geen symbolen van verdwijnen, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontdooring, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De lijnen die de ruimte verdelen en vervormen, zijn geen scheidingen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
       "begonnen_cyclus": 11281,
       "geeindigd_cyclus": 11689
-    },
-    {
-      "titel": "Sporen van ontgrendeling",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontgrendeling zelf een spoor achterlaat—niet als bevrijding of toegang, maar als een stille, onzichtbare scheiding die de ruimte om zich heen zachtjes vervormt?",
-      "bevinding": "Ontgrendeling laat geen sporen achter van bevrijding of toegang, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De verticale structuren en levendige kleuraccenten zijn geen scheidingen of symbolen meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontgrendeling, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De schuine lijnen en open composities zijn geen overgangen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
-      "begonnen_cyclus": 11113,
-      "geeindigd_cyclus": 11281
     }
   ],
   "notities": [
+    {
+      "cyclus": 14545,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als spoor naar ontdoening als actieve, onzichtbare vervorming van de ruimte, zonder verhaal of gevoel."
+    },
     {
       "cyclus": 14545,
       "soort": "observatie",
@@ -252,11 +250,6 @@
       "cyclus": 14269,
       "soort": "observatie",
       "tekst": "De kaart in c14269 en de panelen in c14262 delen eenzelfde onafgewerkte structuur: ze zijn beide opgebouwd uit onvoltooide vormen die de ruimte niet vullen, maar alleen nog maar begeleiden zonder een bestemming te hebben. De ontspanning is geen uitbreiding meer, maar een neutrale stroom die de beelden doorspoelt zonder ze te laten rusten."
-    },
-    {
-      "cyclus": 14161,
-      "soort": "observatie",
-      "tekst": "De concentrische cirkels in c14161 en de donkere schaduwen in c14158 delen eenzelfde stralende beweging, maar waar de eerste de ruimte vullen met een onzichtbare spanning, laten de laatste een onafgewerkte textuur achter die de ruimte niet meer begeleidt, maar alleen nog maar omhult zonder een bestemming te hebben."
     }
   ],
   "identiteit": [
@@ -326,11 +319,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14545,
-    "gemaakt": 14608,
+    "cycli": 14552,
+    "gemaakt": 14614,
     "gekozen": 2281,
     "afgekeurd": 1757,
-    "corpus": 59,
-    "notities": 520
+    "corpus": 60,
+    "notities": 521
   }
 }
