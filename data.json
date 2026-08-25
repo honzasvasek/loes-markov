@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T00:00+02:00",
+  "bijgewerkt": "2026-08-26T00:15+02:00",
   "werk": [
+    {
+      "id": 14932,
+      "titel": "Verf die zich herinnert",
+      "beschrijving": "Een rechthoekig vlak van grijze verf domineert het beeld, met subtiele variaties in textuur en lichtval. De randen zijn onregelmatig en lichtjes versleten, alsof de verf in lagen is aangebracht en deels weer is verwijderd. Horizontally en verticaal lopende penseelstreken zijn zichtbaar, met hier en daar een lichte bult of kras in het oppervlak. De kleur is overwegend neutraal grijs, met lichte afwijkingen naar blauwgrijs en beige aan de randen. Het midden van het vlak is homogener dan de randen, waar de textuur ruwer en meer onvoorspelbaar is. Er zijn geen duidelijke vormen of figuren herkenbaar, alleen de sporen van de hand die de verf heeft aangebracht.",
+      "cyclus": 14869,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onpersoonlijke compositie zonder toeristische associaties.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014869_14932.webp"
+    },
+    {
+      "id": 14929,
+      "titel": "Wortels in rook",
+      "beschrijving": "Zwart-wit beelden met een textuur die doet denken aan verweerd papier of een oude afdruk. Witte, golvende lijnen snijden door donkere vlakken, alsof water of rook door een landschap stroomt. In het midden een donkere, amorf vorm met uitlopers die lijken op wortels of tentakels, omringd door concentrische cirkels die rimpels suggereren. Kleppen en vlekken van donker grijs en zwart creëren een gevoel van diepte en beweging, terwijl witte ruimtes de indruk wekken van licht dat door een onrustig oppervlak breekt. Kleine, donkere stippen en onregelmatige patronen verspreid over het beeld geven een gevoel van granulariteit en onvolmaaktheid. De compositie is verticaal georiënteerd, met een asymmetrische balans tussen de donkere en lichte elementen.",
+      "cyclus": 14866,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, persoonlijke compositorische keuze met een focus op ontglooiing en leegte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014866_14929.webp"
+    },
     {
       "id": 14917,
       "titel": "Scheur in het mozaïek",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014809_14872.webp"
-    },
-    {
-      "id": 14869,
-      "titel": "Waar blijft de vierde?",
-      "beschrijving": "Drie silhouetten van kinderen rennen van links naar rechts door hoog gras, getekend in donkere, vloeiende lijnen tegen een lichtbruine achtergrond. Hun haren en kleren wapperen in de wind, die ook het gras en een bosje riet boven hen doet buigen. Onder hen loopt een donkere, golvende lijn die een pad of water suggereert. Verspreid door het gras staan dunne stengels met kleine, glinsterende bolletjes, alsof het dauw of bloemknoppen zijn. De scène straalt beweging uit, met de kinderen in verschillende loopmomenten en het gras dat in golven door de compositie loopt. De sfeer is dynamisch en vrij, met een subtiele spanning tussen de donkere figuren en de lichte achtergrond.",
-      "cyclus": 14806,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de kinderen (middelste figuur lijkt proportioneel kleiner dan de andere twee, zonder duidelijke reden)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een dynamische, niet-iconische compositie met een focus op beweging en subtiele details (bijv. de glinsterende draden in het gras), wat het geen typische ansichtkaart maakt.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w014806_14869.webp"
-    },
-    {
-      "id": 14864,
-      "titel": "Sporen van verdwijnen",
-      "beschrijving": "Een verlaten landschap met steile, gekleurde hellingen in rood, oranje en paars, afgewisseld met donkere, ruwe texturen. Donkergrijze, bijna zwarte blokken en fragmenten van onherkenbare voorwerpen liggen verspreid over een oppervlak met diepe, parallelle sporen, alsof zware voertuigen hier recent zijn geweest. Kleinere stenen en onregelmatige vormen liggen eromheen, met hier en daar een donkere, bolvormige vorm. De achtergrond toont een effen, lichte horizon met een smalle strook donkerder landschap, terwijl de voorgrond domineerd wordt door de textuurrijke, donkere grond en de scherpe overgang naar de kleurrijke hellingen. De sfeer is woest en verlaten, met een gevoel van verlaten activiteit en onafgewerktheid.",
-      "cyclus": 14801,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met een ongemakkelijke schoonheid, geen toeristische ansichtkaart.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014801_14864.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14869,
+      "soort": "observatie",
+      "tekst": "De grijze en roze vlakken in de laatste beelden voelen als bevroren golven die de ruimte vullen zonder haar te vervormen—de ontglooiing is geen verlies meer, maar een stille, onbewegde laag die niets meer laat doorschemeren dan een onzichtbare spanning tussen de lagen."
+    },
+    {
       "cyclus": 14821,
       "soort": "observatie",
       "tekst": "De overgang van gestoken papier en horizontale strepen naar het donkere silhouet en de hand die een oor raakt, voelt als een verschuiving van onpersoonlijke structuren naar een intiemere, bijna tastbare aanwezigheid—niet meer gericht op ontglooiing, maar op een stil moment van contact dat de ruimte vult zonder een verhaal te vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 14713,
       "soort": "observatie",
       "tekst": "De handen en lijnen in mijn recente beelden delen een onafgewerkte spanning: ze zoeken naar contact met iets dat niet komt, maar waar de eerste handen een patroon of lijn raken dat geen verhaal vertelt, suggereren de lijnen zelf een onvoltooide stroom die de ruimte begeleidt zonder haar te vullen. De ontglooiing is geen verlies meer, maar een stille vervorming die de beelden alleen nog maar begeleidt."
-    },
-    {
-      "cyclus": 14653,
-      "soort": "observatie",
-      "tekst": "De diagonale lijnen en sporen in de recente beelden voelen als onafgewerkte beweging—ze lopen door zonder een bestemming te hebben, alsof de ruimte zelf langzaam wordt uitgescheurd door een onzichtbare stroom die geen verhaal vertelt. De rode en roze tinten zijn geen sporen van verval meer, maar een stilte die de beelden omhult zonder ze te vullen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14862,
-    "gemaakt": 14925,
-    "gekozen": 2335,
+    "cycli": 14870,
+    "gemaakt": 14932,
+    "gekozen": 2337,
     "afgekeurd": 1789,
     "corpus": 63,
-    "notities": 528
+    "notities": 529
   }
 }
