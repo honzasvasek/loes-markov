@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-25T02:00+02:00",
+  "bijgewerkt": "2026-08-25T02:15+02:00",
   "werk": [
+    {
+      "id": 14315,
+      "titel": "Sneeuw die vragen stelt",
+      "beschrijving": "Een besneeuwde straat loopt schuin naar achteren, geflankeerd door kale bomen aan de linkerkant en een lichtgrijze muur met smalle ramen aan de rechterkant. De sneeuw bedekt de grond in zachte, onregelmatige heuvels, met subtiele blauwe en paarse schaduwen die de diepte benadrukken. De bomen hebben donkere, slanke stammen met witte sneeuwlaagjes op de takken, die in een complex patroon tegen de lichte hemel staan. Ver weg is een vaag silhouet van een persoon te zien, zittend op een bankje, omringd door sneeuw. De sfeer is stil en koud, met een gevoel van verlatenheid dat door de lege straat en de afwezigheid van beweging wordt versterkt. De kleuren zijn gedempt, met accenten van bruin en grijs in de bomen en de muur, terwijl de sneeuw de dominante witte en lichtblauwe tinten draagt.",
+      "cyclus": 14252,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van bomen aan linkerzijde', \"lichte wazigheid in achtergrond bij auto's\"]",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositorische keuze met schuine bomen en lege ruimte geeft eigen standpunt",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014252_14315.webp"
+    },
     {
       "id": 14308,
       "titel": "Blauwgroene draden in witte leegte",
@@ -26,6 +39,19 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014242_14305.webp"
+    },
+    {
+      "id": 14302,
+      "titel": "Negen groene koppen in een V",
+      "beschrijving": "Een kronkelend pad van lichtgrijs zand snijdt door een landschap van gedempt groen en bruin mos, omgeven door dunne, donkere grassprietjes. Negen eenden met donkerbruine rugpennen, groene koppen en witte staartveeren lopen in een losse V-vorm over het pad en de omliggende grond, waarbij sommige schaduwen werpen op het zand. De achtergrond vervaagt in een vaag, bewolkend grijs, terwijl de voorgrond een zachter, beige kleurtint heeft. De eenden zijn scherp getekend tegen de onscherpe, textuurrijke achtergrond, met subtiele details in hun veren en poten. Het beeld straalt een rustige, bijna verlaten sfeer uit, met de eenden als enige bewegende elementen in een stilstaand landschap.",
+      "cyclus": 14239,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in schaduwen onder eenden",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze met diagonale beweging en lege ruimte",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014239_14302.webp"
     },
     {
       "id": 14296,
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014214_14277.webp"
-    },
-    {
-      "id": 14272,
-      "titel": "Gras dat fluistert met de wind",
-      "beschrijving": "Donkere, scherpe grasbladeren domineren de voorgrond, met lange, smalle vormen die diagonaal door het beeld lopen en een gevoel van beweging creëren. Daartussen verschijnen kleinere, donkere bladeren met een ronde, bijna hartvormige vorm, verspreid over het midden van de compositie. De achtergrond bestaat uit een lichte, vaag getekende structuur met subtiele verticale lijnen en zachte, grijze tinten, die een diepte effect geven zonder duidelijke vormen. Witte en lichtgrijze strepen doorbreken de donkere grasbladeren, waardoor een contrast ontstaat tussen de scherpe, donkere lijnen en de zachtere, lichtere elementen. De algehele sfeer is rustig maar dynamisch, met een focus op de textuur en de wisselwerking tussen licht en donker in de vegetatie.",
-      "cyclus": 14209,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuurweergave van achtergrondvegetatie', 'lichte wazigheid in meest achtergrondgelegen bladeren']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; compositie is gericht op subtiele spanning tussen voor- en achtergrond zonder typisch ansichtkaartkarakter",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014209_14272.webp"
-    },
-    {
-      "id": 14266,
-      "titel": "Kool en verdwijnpunt",
-      "beschrijving": "Concentrische cirkels vullen het beeld, getekend in grijstinten die van donker naar licht overgaan. De lijnen zijn ongelijkmatig en korrelig, alsof ze met kool of potlood zijn getrokken, en stralen uit van een donkere, bijna zwarte kern in het midden. De randen van de cirkels vervagen naar de hoeken, waar het grijs lichter wordt en de textuur fijner. Er is geen duidelijke horizon of ondergrond; de cirkels domineren de hele compositie, met een subtiele beweging die de blik naar het centrum trekt. De sfeer is statisch maar dynamisch, door de spanning tussen de vaste vorm en de vloeiende overgang van tinten.",
-      "cyclus": 14203,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, meditatieve compositie zonder decoratief licht of toeristische associaties.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014203_14266.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14257,
-    "gemaakt": 14320,
-    "gekozen": 2229,
+    "cycli": 14264,
+    "gemaakt": 14326,
+    "gekozen": 2231,
     "afgekeurd": 1718,
     "corpus": 59,
     "notities": 515
