@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T21:00+02:00",
+  "bijgewerkt": "2026-08-25T21:15+02:00",
   "werk": [
     {
       "id": 14836,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 14846,
+      "cyclus": 14783,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld heeft een surrealistische, niet-iconische compositie met een abstracte boom en onleesbare tekst, wat het geen typische ansichtkaart maakt.",
+      "bestand": "images/a014783_14846.webp"
+    },
+    {
       "id": 14840,
       "cyclus": 14777,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'wazige texturen']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke intentie.",
       "bestand": "images/a014764_14827.webp"
-    },
-    {
-      "id": 14822,
-      "cyclus": 14759,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare teksten', 'inconsistent perspectief in tekstband', 'wazige randen rond tekst']",
-      "cliche_notities": "Geen iconisch of decoratief onderwerp, maar een abstracte compositie zonder toeristische associatie.",
-      "bestand": "images/a014759_14822.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14778,
-    "gemaakt": 14840,
+    "cycli": 14785,
+    "gemaakt": 14847,
     "gekozen": 2321,
-    "afgekeurd": 1780,
+    "afgekeurd": 1781,
     "corpus": 61,
     "notities": 527
   }
