@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-25T23:45+02:00",
+  "bijgewerkt": "2026-08-26T00:00+02:00",
   "werk": [
+    {
+      "id": 14917,
+      "titel": "Scheur in het mozaïek",
+      "beschrijving": "Lichtbeige, ruwe oppervlakken vormen een mozaïek van onregelmatige veelhoeken, gescheiden door donkere, ongelijkmatige naden die diepte suggereren. Een verticale scheur loopt door het midden, met losse fragmenten die licht schuiven, terwijl dunne, donkere lijnen als barsten door de vlakken lopen. De textuur is korrelig en ongelijk, met subtiele schaduwen die de driedimensionale structuur benadrukken. De compositie straalde rust uit, maar de scheuring en onregelmatigheden brengen een gevoel van spanning en onvolledigheid in het beeld.",
+      "cyclus": 14854,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014854_14917.webp"
+    },
+    {
+      "id": 14910,
+      "titel": "Lijnen die liegen",
+      "beschrijving": "Zwart en wit domineren het beeld, met donkere, golvende lijnen die diagonaal door een wit vlak lopen. Twee blauwe vlakken, één bovenaan en één onderaan, omlijsten de compositie en geven een gevoel van diepte. De lijnen variëren in dikte en richting, sommige lopen parallel, andere vertakken of verdwijnen in de blauwe vlakken. De witte ruimte tussen de lijnen creëert een ritme, terwijl de blauwe blokken een statische, bijna zware aanwezigheid uitstralen tegenover de dynamische lijnen.",
+      "cyclus": 14847,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in lijndikte bij sommige horizontale lijnen', 'lichte vervaging aan de randen van de blauwe vlakken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, niet-decoratieve compositie met bewuste keuze voor leegte en lijnwerk.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014847_14910.webp"
+    },
     {
       "id": 14908,
       "titel": "Donkere vlakken, natte droom",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014801_14864.webp"
-    },
-    {
-      "id": 14858,
-      "titel": "Korrelige scheiding",
-      "beschrijving": "Drie donkere, onregelmatige lijnen snijden schuin door een effen, lichtbeige vlak. De lijnen zijn niet rechtgetrokken: ze bevatten korrelige textuur en lichte variaties in dikte, alsof ze met een stift of koolstof zijn getekend. Tussen de lijnen over en weer loopt een subtiele, witte ader die de textuur versterkt. Het oppervlak heeft een matte, bijna papierachtige kwaliteit, zonder duidelijke horizon of diepte. De compositie is minimalistisch, met veel lege ruimte die de lijnen omhult. Er is geen spoor van beweging of detail buiten de drie lijnen en het textuurrijke oppervlak.",
-      "cyclus": 14795,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014795_14858.webp"
-    },
-    {
-      "id": 14850,
-      "titel": "Sporen van een vergeten les",
-      "beschrijving": "Donkere, korrelige achtergrond met zes kleurige krijtsporen: twee gele strepen, twee roze cirkels met diagonale lijnen, één blauwe reeks parallelle strepen en één witte, onvoltooide cirkel met een straal. Een beige krijtstokje ligt schuin in de linkeronderhoek, met een afgeronde punt en een lichtere, korrelige textuur. De krijtsporen hebben een ongelijkmatige, korrelige rand, alsof ze met druk getekend zijn. De compositie is willekeurig verspreid, zonder duidelijke hiërarchie, met veel donkere ruimte tussen de vormen. De sfeer is speels en informeel, met een focus op de textuur van het krijt en de ruwe, onafgewerkte lijnen.",
-      "cyclus": 14787,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met speelse vormen en kleuren.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014787_14850.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14855,
-    "gemaakt": 14917,
-    "gekozen": 2333,
+    "cycli": 14862,
+    "gemaakt": 14925,
+    "gekozen": 2335,
     "afgekeurd": 1789,
     "corpus": 63,
     "notities": 528
