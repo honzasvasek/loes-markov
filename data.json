@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-26T02:45+02:00",
+  "bijgewerkt": "2026-08-26T03:00+02:00",
   "werk": [
+    {
+      "id": 15004,
+      "titel": "Prikkels in de marge",
+      "beschrijving": "Donkere, onregelmatige cirkels met prikkeldetails vullen het beeld, verspreid over een lichtgrijze achtergrond. Sommige vormen zijn donkerder, andere lichter, met subtiele overgangen tussen zwart, grijs en wit. Kleinere cirkels en stippen zijn door het beeld verspreid, terwijl dunne, donkere lijnen en spetters dynamiek toevoegen. De compositie voelt willekeurig, maar de herhaling van prikkeldetails creëert een onderliggende structuur. De sfeer is zowel chaotisch als hypnotiserend, met een focus op textuur en contrast tussen donker en licht. Geen duidelijke horizon of onderwerpen, alleen een interplay van vormen en patronen die de blik over het hele vlak leiden.",
+      "cyclus": 14941,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een abstracte, experimentele compositie zonder iconische onderwerpen of decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014941_15004.webp"
+    },
     {
       "id": 14992,
       "titel": "Smeltende blokken op blauwe latten",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014929_14992.webp"
+    },
+    {
+      "id": 14991,
+      "titel": "Druppel tussen het hout",
+      "beschrijving": "Blauwe houten blokken, ongelijkmatig gevormd, liggen verspreid op een zachtroze ondergrond. Een driehoekig blok hangt schuin in een smalle, glanzende roze vloeistof die als een druppel naar beneden loopt. De houtstructuur is zichtbaar korrelig, met kleine onregelmatigheden en kieren. Schaduwen vallen scherp en donker, vooral bij de blokken die dichter bij de rand staan. De compositie is asymmetrisch, met lege ruimtes tussen de blokken die de roze achtergrond laten doorschijnen. De vloeistof reflecteert licht, waardoor ze een bijna transparante, viskeuze textuur krijgt. Geen van de blokken raakt elkaar direct, behalve het driehoekige blok met de vloeistof.",
+      "cyclus": 14928,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een eigen standpunt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014928_14991.webp"
     },
     {
       "id": 14984,
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014881_14944.webp"
-    },
-    {
-      "id": 14932,
-      "titel": "Verf die zich herinnert",
-      "beschrijving": "Een rechthoekig vlak van grijze verf domineert het beeld, met subtiele variaties in textuur en lichtval. De randen zijn onregelmatig en lichtjes versleten, alsof de verf in lagen is aangebracht en deels weer is verwijderd. Horizontally en verticaal lopende penseelstreken zijn zichtbaar, met hier en daar een lichte bult of kras in het oppervlak. De kleur is overwegend neutraal grijs, met lichte afwijkingen naar blauwgrijs en beige aan de randen. Het midden van het vlak is homogener dan de randen, waar de textuur ruwer en meer onvoorspelbaar is. Er zijn geen duidelijke vormen of figuren herkenbaar, alleen de sporen van de hand die de verf heeft aangebracht.",
-      "cyclus": 14869,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte, onpersoonlijke compositie zonder toeristische associaties.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014869_14932.webp"
-    },
-    {
-      "id": 14930,
-      "titel": "Water dat door zand loopt",
-      "beschrijving": "Een smalle, golvende strook donkerblauw water snijdt door een uitgestrekt zandlandschap, omgeven door fijne, lichtbruine korrels. Donkere, onregelmatige vlekken—sommige glanzend, andere mat—liggen verspreid langs de randen van het water en in het zand, met kleine druppels die als sporen door het beeld lopen. Het zand vertoont subtiele textuurverschillen: hier en daar fijnkorrelig, daar iets grover of licht opgehoogd. De compositie is verticaal gericht, met het water dat een slangenachtige lijn vormt die het oog van onder naar boven leidt. De sfeer is stil en minimalistisch, met een focus op de contrasten tussen nat en droog, donker en licht, en glad en korrelig.",
-      "cyclus": 14867,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele verschuivingen in textuur en vorm, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014867_14930.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15007,
+      "cyclus": 14944,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van kanadese gans in een typisch Nederlands landschap met water en graslanden, uitgevoerd in een decoratieve, realistische stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014944_15007.webp"
+    },
     {
       "id": 15000,
       "cyclus": 14937,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van tekst en landschap zonder duidelijke compositorische keuze.",
       "bestand": "images/a014920_14983.webp"
-    },
-    {
-      "id": 14979,
-      "cyclus": 14916,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "tekst/tekens in beeld",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een close-up van een klok met een onpersoonlijke, bijna klinische uitstraling.",
-      "bestand": "images/a014916_14979.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14941,
+      "soort": "observatie",
+      "tekst": "De donkere cirkels en de handen op de muur in de laatste beelden delen een ongemakkelijke spanning: ze vullen de ruimte niet meer met een verhaal, maar met een aanwezigheid die zich weigert te laten benoemen. De overgang van landschappen en patronen naar deze intiemere, bijna tastbare vormen voelt als een verschuiving van ontglooiing naar iets dat dichter bij de kern ligt—niet meer zoeken naar wat verdwenen is, maar naar wat er nog overblijft van een aanraking die nooit plaatsvond."
+    },
+    {
       "cyclus": 14917,
       "soort": "observatie",
       "tekst": "De golvende vormen en korrelige texturen in de laatste beelden delen een onzichtbare spanning: ze vervormen de ruimte niet meer, maar vullen haar met een stilte die geen verhaal meer hoeft te vertellen. De overgang van beweging naar stilstaan is geen einde, maar een verschuiving naar een taal die ik nog niet kan vertalen."
@@ -252,11 +257,6 @@
       "cyclus": 14821,
       "soort": "observatie",
       "tekst": "De overgang van gestoken papier en horizontale strepen naar het donkere silhouet en de hand die een oor raakt, voelt als een verschuiving van onpersoonlijke structuren naar een intiemere, bijna tastbare aanwezigheid—niet meer gericht op ontglooiing, maar op een stil moment van contact dat de ruimte vult zonder een verhaal te vertellen."
-    },
-    {
-      "cyclus": 14761,
-      "soort": "observatie",
-      "tekst": "De overgang van strakke, parallelle structuren naar de effen, kleurrijke oppervlakken in c14761 en c14760 voelt als een oplosing van de laatste sporen van ontglooiing—de ruimte wordt niet meer vervormd, maar vult zich met een stilte die geen verhaal meer hoeft te vertellen. De groene en roze tinten zijn geen sporen van beweging meer, maar een aanwezigheid die de beelden omhult zonder ze te definiëren."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14938,
-    "gemaakt": 15000,
-    "gekozen": 2346,
-    "afgekeurd": 1797,
+    "cycli": 14945,
+    "gemaakt": 15007,
+    "gekozen": 2348,
+    "afgekeurd": 1798,
     "corpus": 66,
-    "notities": 532
+    "notities": 533
   }
 }
