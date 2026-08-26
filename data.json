@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T08:30+02:00",
+  "bijgewerkt": "2026-08-26T08:45+02:00",
   "werk": [
+    {
+      "id": 15146,
+      "titel": "Paars dat zich onthult",
+      "beschrijving": "Zachte, vloeiende vormen vullen het beeld, getekend door subtiele overgangen tussen paars, roze en oranje. Een dunne, donkere lijn loopt als een onregelmatige scheidslijn door de compositie, waarbij aan de linkerzijde een amorf, bijna organisch vormloos gebied ontstaat met lichte, doorschijnende laagjes. Rechts daarvan strekt een brede, egale vlakte zich uit, gekleurd in warme, vervagende tinten die overgaan in een vaag paars aan de onderkant. Enkele kleine, donkere vlekken drijven als zwevende schaduwen in het midden, terwijl de bovenste laag een lichtere, bijna witte textuur heeft met vaag zichtbare, wazige patronen. De sfeer is kalm en dromerig, met een gevoel van stilling en ongerepte ruimte.",
+      "cyclus": 15083,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, open compositie zonder duidelijke thematiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015083_15146.webp"
+    },
+    {
+      "id": 15139,
+      "titel": "Wit dat stroomt over de grond",
+      "beschrijving": "De klok heeft een witte, onregelmatige rand die overgaat in een witte, vloeistofachtige vorm die naar beneden stroomt en op de grond een poel vormt. De boom heeft donkere, schuine takken met blauwe en groene bladeren en kleine, donkere vruchten. Rond de boom staan groene en bruine planten en grassen. De achtergrond is lichtgrijs met subtiele textuur en donkere vlekken. De klok wijst ongeveer tien voor twaalf aan. De algehele sfeer is dromerig en iets verwaarloosd, met een mix van organische en mechanische elementen.",
+      "cyclus": 15076,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming in de takken van de boom aan de linkerkant', \"onduidelijke overgang tussen de witte 'smeltende' vorm en de boomstam\"]",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een klassiek motief (een klok) met een surrealistische, organische vormtaal, wat het buiten de categorie 'toeristische ansichtkaart' plaatst.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015076_15139.webp"
+    },
     {
       "id": 15130,
       "titel": "Vlam in handen, donkere heuvels",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015026_15089.webp"
-    },
-    {
-      "id": 15082,
-      "titel": "Grijswit zonder einde",
-      "beschrijving": "Een eenduidig grijs vlak vult het hele beeld, zonder afwijkingen in kleur of textuur. De oppervlakte lijkt glad en homogeen, zonder zichtbare structuren, vormen of details die afwijken van de uniforme grijstint. Er is geen aanwijzing voor licht of schaduw, noch voor beweging of diepte. Het beeld straalt een absolute stilte en leegte uit, zonder elementen die de blik zouden kunnen vasthouden of een richting zouden kunnen geven. De afwezigheid van enige variatie maakt het onmogelijk om een focuspunt of een onderliggende laag te onderscheiden.",
-      "cyclus": 15019,
-      "tech_score": 10.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een uniforme textuur zonder compositorische keuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015019_15082.webp"
-    },
-    {
-      "id": 15081,
-      "titel": "Bijna aanraking",
-      "beschrijving": "Vier handen zweven boven een effen, lichtpaars vlak, met vingers die bijna elkaars huid raken maar nog niet aanraken. De huid is zachtroze met subtiele schaduwvlakken in lila en bleekblauw, terwijl de nagels een matte, natuurlijke roze tint hebben. Twee handen komen van linksboven en rechtsonder, de andere twee van rechtsboven en linksonder, waardoor een asymmetrische, bijna dansende compositie ontstaat. De vingers zijn lang en slank, met lichte spanning in de gewrichten, alsof ze op het punt staan zich te sluiten of te onttrekken. De achtergrond is volledig vrij van details, waardoor de handen de enige focus vormen en de spanning tussen hen door zichtbaar wordt.",
-      "cyclus": 15018,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De handen zijn geen iconisch motief en de compositie heeft een eigen, subtiele spanning, geen ansichtkaart-licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015018_15081.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15152,
+      "cyclus": 15089,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['lichte vervorming van handen in de achtergrond', 'onduidelijke details in gezichten van achterste figuren']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met een idyllisch dorpsschap en een lijn kinderen die weglopen, wat past bij een iconisch, bevestigend onderwerp zonder sterke compositorische keuzes.",
+      "bestand": "images/a015089_15152.webp"
+    },
+    {
+      "id": 15151,
+      "cyclus": 15088,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "De combinatie van een Nederlandse molen en een typisch Nederlands letterbeeld (de 'B') in een landschap dat doet denken aan een ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt, maakt dit een toeristisch beeld.",
+      "bestand": "images/a015088_15151.webp"
+    },
     {
       "id": 15135,
       "cyclus": 15072,
@@ -141,24 +159,6 @@
       "tech_notities": "tekst/tekens in beeld",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een close-up van een klok met subtiele vervormingen en een ongemakkelijke compositie.",
       "bestand": "images/a015072_15135.webp"
-    },
-    {
-      "id": 15108,
-      "cyclus": 15045,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuur wekker', 'inconsistent perspectief horizontale lijnen', 'wazige texturen in achtergrond', 'detailverlies in schaduwen wekker']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met een ongemakkelijke spanning tussen vorm en leegte.",
-      "bestand": "images/a015045_15108.webp"
-    },
-    {
-      "id": 15097,
-      "cyclus": 15034,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld heeft een iconisch onderwerp (klok) maar mist de typische ansichtkaartcompositie en decoratieve perfectie, en toont een ongemakkelijke, bijna onafgewerkte aanraking die een eigen standpunt suggereert.",
-      "bestand": "images/a015034_15097.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15084,
-    "gemaakt": 15146,
-    "gekozen": 2370,
-    "afgekeurd": 1807,
-    "corpus": 67,
+    "cycli": 15091,
+    "gemaakt": 15153,
+    "gekozen": 2372,
+    "afgekeurd": 1809,
+    "corpus": 68,
     "notities": 539
   }
 }
