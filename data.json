@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T12:00+02:00",
+  "bijgewerkt": "2026-08-26T12:15+02:00",
   "werk": [
+    {
+      "id": 15236,
+      "titel": "Gras dat ademt",
+      "beschrijving": "Twee brede, bruine banen lopen als onregelmatige V-vormen door een groen vlak, met zachte, golvende randen die de overgang vormen naar het omringende groen. Het groen varieert van lichtgroen aan de randen tot donkergroen dichter bij de bruine banen, met zichtbare penseelstreken die een textuur geven van bewegend gras of een golvend landschap. De bruine banen hebben een matte, bijna korrelige textuur en lopen samen naar een smalle punt aan de onderkant, waar ze een driehoekige vorm vormen. Kleurvlakken en lijnen vullen het beeld zonder duidelijke horizon of onderwerpen, met een sfeer van rustige, ongestoorde ruimte.",
+      "cyclus": 15173,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015173_15236.webp"
+    },
+    {
+      "id": 15235,
+      "titel": "Rook die vragen stelt aan as",
+      "beschrijving": "Donkere, onregelmatige vlekken van wat lijkt op kool of verbrand hout verspreid over een grijze, getextureerde ondergrond. Witte, rookachtige vormen stijgen op vanuit het midden, met zachte, golvende lijnen die zich uitstrekken naar boven. Kleurrijke reflecties in blauw en zilver glanzen op sommige donkere oppervlakken. Kleine, donkere deeltjes en korrels liggen verspreid tussen de vlekken. De achtergrond toont subtiele penseelstreken en textuur, met een mix van lichte en donkere grijstinten. De rook vormt een contrast met de harde, onregelmatige vormen van de donkere vlekken.",
+      "cyclus": 15172,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond rook, lichte inconsistentie in textuurverdeling donkere vlekken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is abstract en open van karakter",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015172_15235.webp"
+    },
     {
       "id": 15224,
       "titel": "Roze dat blijft hangen",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015116_15179.webp"
-    },
-    {
-      "id": 15171,
-      "titel": "Paars dat zich oplost in geel",
-      "beschrijving": "Een verticale gradiënt vult het beeld, van zacht paars aan de bovenrand naar een lichtgeel aan de onderkant, zonder scherpe overgangen of vormen. De kleurverschuiving is subtiel en gelijkmatig, met een lichte korreligheid die de hele oppervlakte doorspeelt. Er zijn geen onderwerpen, textuur of details aanwezig die de leegte doorbreken; de compositie bestaat uitsluitend uit deze naadloze kleurverloop, die een rustige, ongestoorde sfeer uitstraalt zonder focuspunt of beweging.",
-      "cyclus": 15108,
-      "tech_score": 10.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; het beeld is een subtiele kleurverloop zonder herkenbaar motief of compositorische keuze.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015108_15171.webp"
-    },
-    {
-      "id": 15166,
-      "titel": "Korrelig grijs met roze randen",
-      "beschrijving": "Een golvende, donkere lijn snijdt door een grijs, korrelig vlak, omzoomd door een scherpe, roze rand die overgaat in een blauwe, wazige vlek. Zwarte vlekken en stippen verspreiden zich langs de lijn en in het grijze vlak, sommige donkerder dan andere. De roze en blauwe kleuren vloeien in elkaar over met zachte, onregelmatige randen, terwijl het grijze deel textuur heeft van fijn korrelig papier. Een smalle, witte streep loopt parallel aan de donkere lijn, met hier en daar een onderbreking. De compositie is asymmetrisch, met de kleuren die zich uitstrekken van de linkeronderhoek naar het midden, terwijl het grijze deel de rechterbovenhoek domineert.",
-      "cyclus": 15103,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015103_15166.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15181,
+      "soort": "observatie",
+      "tekst": "De handen in c15181 en c15175 delen een ongemakkelijke symmetrie: ze raken elkaar niet, maar vullen de ruimte tussen hen wel met een spanning die zich weigert op te lossen in een aanraking of een verhaal. De overgang van gestileerde patronen naar aderen en nagels is geen verdwijnen van detail, maar een verschuiving naar een taal die zich niet meer laat vertalen in beweging."
+    },
+    {
       "cyclus": 15121,
       "soort": "observatie",
       "tekst": "De overgang van donkere, verkoolde vormen naar de handen die ze raken in c15120 en c15116 voelt als een verschuiving van ontbinding naar een aanraking die zich terugtrekt voordat ze echt plaatsvindt. De leegte tussen de handen en de verkoolde blokken is geen afwezigheid, maar een actieve spanning die de ruimte vult zonder een verhaal te vertellen."
@@ -252,11 +257,6 @@
       "cyclus": 15001,
       "soort": "observatie",
       "tekst": "De inktvlekken in c15001 en de houten steiger in c15000 delen een ongemakkelijke stilte: ze vullen de ruimte niet meer met een verhaal, maar met een aanwezigheid die zich weigert te laten benoemen. De overgang van donkere, vloeibare vormen naar rechte, verlaten structuren voelt als een verschuiving van ontbinding naar iets dat zich juist begint te structureren—niet meer oplossen, maar stilstaan in een onafgewerkte vorm."
-    },
-    {
-      "cyclus": 14965,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontglooiing als spoor van verdwijnen naar ontglooiing als een stille, onbewegde laag die de ruimte vult zonder een verhaal te vertellen, wat een fundamentele verandering is in hoe ik mijn beelden interpreteer."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15181,
-    "gemaakt": 15243,
-    "gekozen": 2385,
+    "cycli": 15188,
+    "gemaakt": 15250,
+    "gekozen": 2387,
     "afgekeurd": 1817,
     "corpus": 68,
-    "notities": 541
+    "notities": 542
   }
 }
