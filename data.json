@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T12:15+02:00",
+  "bijgewerkt": "2026-08-26T12:30+02:00",
   "werk": [
+    {
+      "id": 15256,
+      "titel": "Wat overblijft na de vuurstorm",
+      "beschrijving": "Donkere, verkoolde randen omlijsten een ongelijkmatige, grijze vlakte met subtiele textuurvariaties. Bruine en oranje tinten lopen als een smalle, onregelmatige band door de boven- en onderkant, waar het verkoolde materiaal overgaat in een lichtere, korrelige onderlaag. Enkele dunne, lichte vezels steken uit de donkere, gebarsten oppervlakte, die een ruwe, broze structuur onthult. De compositie wordt gedomineerd door diagonale lijnen die de verschillende lagen van materiaal van elkaar scheiden, terwijl de ruimte tussen de lagen een gevoel van diepte en afwezigheid creëert. De kleuren zijn gedempt, met kleine accenten van roestbruin en beige die de textuur van het materiaal benadrukken.",
+      "cyclus": 15193,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015193_15256.webp"
+    },
+    {
+      "id": 15247,
+      "titel": "Gras dat zwijgt over de regen",
+      "beschrijving": "Lange, slanke grasstengels vullen het beeld, in verschillende groen- en bruintinten, met donkere en lichte strepen die door de stengels lopen. Sommige stengels zijn donkerbruin of zwart, andere glanzen lichtgroen of beige. Kleinere, droge stengels en takjes liggen verspreid tussen het gras. Donkere, ronde vormen, mogelijk zaadkoppen of kleine stenen, steken hier en daar uit. De achtergrond is vaag, met zachte, onduidelijke penseelstreken in beige en lichtgrijs, alsof er een nevel hangt boven het gras. Kleiner, goudkleurige en witte vlekjes zijn verspreid door het beeld, alsof er iets lichts door de lucht zweeft. De stengels staan dicht op elkaar, met sommige die schuin of gebogen lopen, terwijl andere recht omhoog gaan. Het geheel heeft een natte, glanzende textuur, alsof het gras recent regen heeft gezien.",
+      "cyclus": 15184,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van achtergrond (linksboven vs rechtsonder)', 'enkele grashalmen lijken onnatuurlijk scherp tegen wazige achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust ongemakkelijk en onbeheerst.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015184_15247.webp"
+    },
     {
       "id": 15236,
       "titel": "Gras dat ademt",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015126_15189.webp"
-    },
-    {
-      "id": 15184,
-      "titel": "Verf die zich onthoudt",
-      "beschrijving": "Groene en roze waterverfvlakken vloeien in onregelmatige vormen door het doek, doorsneden door donkere, bijna zwarte penseelstrepen die als scherpe, ongelijkmatige lijnen door de compositie lopen. De strepen variëren in dikte en hebben een korrelige textuur, alsof de verf in één keer en met kracht is aangebracht. De achtergrond blijft wit aan de randen, waardoor de kleuren en lijnen scherp afsteken. De roze tinten zijn zachter en meer doorschijnend dan de groene, die een diepere, bijna turkooise gloed hebben. De donkere strepen snijden de kleuren door en creëren een gevoel van beweging, alsof de verf nog nat is en zich blijft verschuiven.",
-      "cyclus": 15121,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015121_15184.webp"
-    },
-    {
-      "id": 15179,
-      "titel": "Vingers die een schaduw vastgrijpen",
-      "beschrijving": "Twee handen rusten op een blauw geschilderd oppervlak, waarbij de vingers zachtjes een donkere, onregelmatige vorm aanraken die lijkt op een verbrand of uitgesneden stuk papier. De blauwe verf toont penseelstreken en lichte textuur, met witte randen waar de verf dunner is. De handen hebben korte, nette nagels en de huid toont fijne lijntjes en textuur. Kleine zwarte stippen en een glimmend puntje zijn zichtbaar in de donkere vorm. De achtergrond is wit en vormt een scherp contrast met het blauwe vlak. De compositie is dicht en intimistisch, met de handen en de donkere vorm als centrale elementen.",
-      "cyclus": 15116,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op een intieme, abstracte interactie tussen handen en materiaal, zonder toeristische connotaties.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015116_15179.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15253,
+      "cyclus": 15190,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in houttextuur tussen sommige lamellen (soms te scherp, soms wazig)', 'Subtiele halo rond de rand van de bergen in de achtergrond']",
+      "cliche_notities": "Het beeld toont een typisch landschapsmotief (bergen, water, groen) gezien door een houten structuur, met een decoratieve compositie die aan een ansichtkaart doet denken.",
+      "bestand": "images/a015190_15253.webp"
+    },
     {
       "id": 15230,
       "cyclus": 15167,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare karakters', 'inconsistent perspectief in achtergrondlandschap']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet gericht op een bevestigend effect.",
       "bestand": "images/a015145_15208.webp"
-    },
-    {
-      "id": 15199,
-      "cyclus": 15136,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de molen ten opzichte van de horizon', 'Enkele takken van de boom lijken onnatuurlijk te vervloeiën met de achtergrond']",
-      "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, bloemenveld) met een decoratief lichteffect, zonder een duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a015136_15199.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15188,
-    "gemaakt": 15250,
-    "gekozen": 2387,
-    "afgekeurd": 1817,
-    "corpus": 68,
+    "cycli": 15195,
+    "gemaakt": 15258,
+    "gekozen": 2389,
+    "afgekeurd": 1818,
+    "corpus": 67,
     "notities": 542
   }
 }
