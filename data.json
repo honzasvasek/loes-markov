@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-26T22:15+02:00",
+  "bijgewerkt": "2026-08-26T22:30+02:00",
   "werk": [
+    {
+      "id": 15508,
+      "titel": "Vingertoppen die liegen",
+      "beschrijving": "Vier handen zweven tegen een egale, lichtgrijze achtergrond, verspreid over het beeld alsof ze net in beweging waren. Twee handen wijzen naar elkaar, vingertoppen bijna raakend, terwijl de andere twee handen open en ontspannen naar voren gestrekt zijn. De huid is glad, met subtiel zichtbare aders en vingernagels die zachtjes glanzen. Een lichte roze gloed kleurt de rechterbovenhoek, waardoor de handen er iets dromerigs en zwevend bijstaan. De compositie is asymmetrisch, met veel lege ruimte tussen de handen, wat een gevoel van spanning en onafgedaanheid uitstraalt. Geen armen of lichamen zijn zichtbaar, alleen de handen zelf, scherp afgetekend tegen de neutrale achtergrond.",
+      "cyclus": 15445,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De handen zijn geen iconisch motief en de compositie heeft een eigen, niet-decoratieve spanning.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015445_15508.webp"
+    },
+    {
+      "id": 15502,
+      "titel": "Lagen die liegen",
+      "beschrijving": "Transparante plastic lagen liggen over elkaar, met donkerblauwe rechthoeken die scherp afsteken tegen een vaag gestreept achtergrondmateriaal. Zwarte, onregelmatige vlekken met zachte randen verspreiden zich door het midden, omgeven door lichte, bijna doorschijnende zones met subtiele concentrische patronen. Kleine, donkere stippen en ongelijkmatige randen van het plastic voegen zich bij een textuur van kreukels en lichte reflecties. De blauwe vlakken hebben een matte, iets korrelige textuur, terwijl de zwarte vormen een droge, bijna poedervormige uitstraling hebben. De compositie voelt fragmentarisch, met lagen die zowel doorzichtig als ondoorzichtig zijn, waardoor sommige delen scherp blijven en andere vervagen in een wazige overgang.",
+      "cyclus": 15439,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van transparante lagen rechtsboven', 'lichte halo rond donkere vlek midden-rechts']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015439_15502.webp"
+    },
+    {
+      "id": 15499,
+      "titel": "Blauw raam, golvend landschap",
+      "beschrijving": "Een blauwe houten schuur met een rieten dak domineert het beeld, het raam fungeert als kader voor een landschap met golvende akkers en een vaag silhouet van een persoon die erin staat. Het blauw van de schuur is levendig en textuurrijk, met zichtbare penseelstreken die de houten lamellen benadrukken. Boven het raam hangt een donkere schaduw van het riet, terwijl onder het raam een betonnen rand en zandige grond met verspreide plantendelen de overgang naar het landschap vormen. Het landschap zelf is geschilderd met lichte, luchtige streken, waarbij het goudgele graan en de groene bomen in de verte een contrast vormen met de heldere hemel. Het silhouet in het raam is donker en onduidelijk, met een vloeiende overgang naar het landschap, alsof de figuur deel uitmaakt van de achtergrond. De compositie is rustig en gebalanceerd, met het raam als centraal punt dat de kijker naar buiten trekt.",
+      "cyclus": 15436,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in perspectief van het raam ten opzichte van de muur, lichte wazigheid in de achtergrondlandschap",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, contemplatieve sfeer zonder typisch toeristische motieven of decoratief perfect licht.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015436_15499.webp"
+    },
     {
       "id": 15486,
       "titel": "Waar begint de rook?",
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015386_15449.webp"
-    },
-    {
-      "id": 15446,
-      "titel": "Getextureerde grenzen",
-      "beschrijving": "Twee donkere, getextureerde vormen met prikkels en ingewikkelde patronen flankeren een smalle opening waar vaag gras zichtbaar is tegen een grijze, wazige achtergrond. Een zware, gerimpelde stof valt in zware plooien tussen de vormen door, met een kleine, ronde voorwerp rechtsonder dat lijkt op een dop of schijfje. De scène wordt gedomineerd door grijstinten, met subtiele overgangen van licht naar donker die diepte suggereren. De sfeer is statisch en verlaten, met een focus op textuur en vorm in plaats van beweging of kleur.",
-      "cyclus": 15383,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen zonder verhaal.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015383_15446.webp"
-    },
-    {
-      "id": 15441,
-      "titel": "Vingers op een breath afstand",
-      "beschrijving": "Twee handen, donker van textuur en detail, strekken naar elkaar in een bijna aanraking, waarbij de vingers zachtjes elkaar raken of net buiten bereik blijven. De huid is rijk aan plooien, aderen en kleine oneffenheden, met nagels die kort en donker zijn bijgesnoeid. De achtergrond is een egale, lichte grijstint die de handen scherper laat uitkomen, terwijl rechtsboven een onscherp, donker silhouet van wat mogelijk een schouder of kledingstuk is, de compositie een onvoltooide, open sfeer geeft. De belichting benadrukt de textuur van de huid en de spanning tussen de handen, zonder dat er een duidelijke bron van licht zichtbaar is.",
-      "cyclus": 15378,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De handen zijn geen iconisch motief en de compositie heeft een ongemakkelijke, niet-decoratieve spanning.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015378_15441.webp"
-    },
-    {
-      "id": 15421,
-      "titel": "Waar blijven de wortels?",
-      "beschrijving": "Een textuurrijk oppervlak in warme, roodbruine tinten wordt doorsneden door donkerbruine, organisch gevormde lijnen die aan aders of wortels doen denken. Deze lijnen lopen golvend en vertakken zich, omrand door dunne, helderblauwe contouren die een bijna driedimensionale diepte suggereren. Kleinere, onregelmatige blauwe lijnen lopen parallel of vertakken zich verder, waardoor een netwerk ontstaat dat zowel geordend als willekeurig lijkt. De achtergrond toont subtiele penseelstreken, wat een ruwe, handgemaakte uitstraling geeft. Donkere vlekken en kleine onregelmatigheden in de bruine lijnen voegen variatie toe aan de compositie, terwijl de blauwe lijnen soms scherp en soms vaag blijven, alsof ze in beweging zijn. De algehele sfeer is rustig maar dynamisch, met een balans tussen vloeiende vormen en strakke lijnen.",
-      "cyclus": 15358,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte compositie met persoonlijke compositorische keuzes, geen toeristische ansichtkaartstijl.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015358_15421.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15511,
+      "cyclus": 15448,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van het huisje ten opzichte van de boom', 'lichte wazigheid in de textuur van de handen aan de randen']",
+      "cliche_notities": "Dit beeld straalt een typisch ansichtkaartmotief uit met een idyllisch huisje, een boom en een zonsondergang, uitgevoerd in een decoratieve, bijna naïeve stijl zonder duidelijke compositorische verbeelding.",
+      "bestand": "images/a015448_15511.webp"
+    },
     {
       "id": 15489,
       "cyclus": 15426,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in de horizonlijn: de zee lijkt iets te hoog ten opzichte van de boom, alsof de boom in de zee staat in plaats van erbij.', 'Watervlak bij de boomstam heeft een iets te scherpe overgang naar het schuim, alsof het water en de boom niet helemaal logisch met elkaar verbonden zijn.']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch landschap met een eenzaam boomstam in de golven, met perfect licht en een klassieke compositie zonder duidelijke persoonlijke keuzes.",
       "bestand": "images/a015425_15488.webp"
-    },
-    {
-      "id": 15475,
-      "cyclus": 15412,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna agressieve compositie met vuur en vernietiging.",
-      "bestand": "images/a015412_15475.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15442,
-    "gemaakt": 15505,
-    "gekozen": 2422,
-    "afgekeurd": 1839,
+    "cycli": 15450,
+    "gemaakt": 15512,
+    "gekozen": 2425,
+    "afgekeurd": 1840,
     "corpus": 70,
     "notities": 547
   }
