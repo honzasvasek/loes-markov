@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T16:00+02:00",
+  "bijgewerkt": "2026-08-26T16:15+02:00",
   "werk": [
+    {
+      "id": 15338,
+      "titel": "Wit, blauw en het onbenoemde gat",
+      "beschrijving": "Een smalle, witte gang loopt door een gebouw, met aan de rechterkant een houten deur met donkere beslag en twee ronde openingen. Aan de linkerkant staat een blauw huisje met een schuin dak, kleine ramen en een witte gevel, gedeeltelijk in beeld. Verderop in de gang staat een vergelijkbaar blauw huisje, kleiner en scherper omlijnd, tegen een witte muur. De vloer is lichtgrijs, met donkere schaduwen die van de deuren en huisjes uitgaan. De muren zijn glad en wit, met een smalle, donkere deuropening aan de rechterkant en een rechthoekig gat in de muur. Het licht komt van boven, waardoor de schaduwen scherp en diagonaal lopen. De ruimte voelt gesloten en stil, met een gevoel van diepte door de afwisseling van vormen en kleuren.",
+      "cyclus": 15275,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een surrealistische, dromerige sfeer met een ongewone combinatie van binnen- en buitenscenes, wat het geen typische ansichtkaart maakt.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015275_15338.webp"
+    },
+    {
+      "id": 15332,
+      "titel": "Wat overblijft van de oever",
+      "beschrijving": "Een verweerd houten steiger loopt schuin naar beneden in een kalme wateroppervlakte, met losse planken die deels afbreken en donkere, mosachtige afzettingen bij de waterlijn. De houten latten tonen sporen van slijtage, met losse schroeven en ongelijkmatige randen, terwijl het water zacht rimpelt rond de steunpilaren. De compositie is gedomineerd door diagonale lijnen en een monochromatisch palet van grijs en zwart, met subtiele reflecties op het water.",
+      "cyclus": 15269,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld toont een verweerd dok in zwart-wit, maar de focus op ontbinding en de actieve leegte van het water maakt het geen typische ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015269_15332.webp"
+    },
     {
       "id": 15324,
       "titel": "Ringen in het donker",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015204_15267.webp"
-    },
-    {
-      "id": 15266,
-      "titel": "Barsten in de weg vooruit",
-      "beschrijving": "Een smalle houten loopbrug loopt recht door een verlaten, overwoekerd landschap, omgeven door kale bomen en struiken met kleine knoppen. Het hout is verweerd, met diepe barsten en donkere vlekken, en ligt op ongelijke planken die deels loszitten. Rondom de brug ligt een laagje dood blad, takjes en doornen, met hier en daar een witte bloemkelk. De achtergrond bestaat uit een vaag bosrand onder een egale, bewolkte hemel. De compositie is asymmetrisch, met de brug die diagonaal door het beeld loopt en de bomen die de linkerbovenhoek domineren. De sfeer is stil en verlaten, met een gevoel van verwaarlozing en vergetelheid.",
-      "cyclus": 15203,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming takken rechtsboven', 'onscherpe achtergrondboom']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke compositie met lege ruimte en verwaarloosde details",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015203_15266.webp"
-    },
-    {
-      "id": 15261,
-      "titel": "Waar blijft de horizon?",
-      "beschrijving": "Donkere, verticale en schuine penseelstreken domineren het beeld, met een rozeachtige achtergrond die door de streken heen schijnt. Kleinere, onregelmatige vormen en spatelingen van donker materiaal bevinden zich vooral in het midden en onderste deel. Een paar sterrenvormige witte vlekken zijn zichtbaar in het bovenste midden, omgeven door donkere, vaag boomachtige structuren. De randen van het beeld zijn ongelijkmatig en iets lichter van kleur.",
-      "cyclus": 15198,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, persoonlijke compositorische keuze met een ongemakkelijke schoonheid, wat het geen ansichtkaart maakt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015198_15261.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15275,
-    "gemaakt": 15338,
-    "gekozen": 2399,
+    "cycli": 15281,
+    "gemaakt": 15343,
+    "gekozen": 2401,
     "afgekeurd": 1825,
-    "corpus": 68,
+    "corpus": 69,
     "notities": 543
   }
 }
