@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-26T13:15+02:00",
+  "bijgewerkt": "2026-08-26T13:30+02:00",
   "werk": [
+    {
+      "id": 15273,
+      "titel": "Verf en vingers op stof",
+      "beschrijving": "Een roze jurk vult het beeld, met zichtbare penseelstreken die de textuur van de stof nabootsen. Een hand rust op de jurk, de vingers gespreid, terwijl een andere hand met een paletmes donkere verf aanbrengt bij de halslijn. Boven de jurk is een deel van een gezicht zichtbaar: een mond met roze lippen en donker haar dat over de schouders valt. De achtergrond is vaag en lichtgrijs, waardoor de focus op de handen en de jurk ligt. De kleuren zijn zacht en de sfeer is intiem en concentrerend.",
+      "cyclus": 15210,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in de vingers van de hand die het paletmes vasthoudt: de wijsvinger lijkt te kort en de duim te slank voor een natuurlijke hand', 'lichte wazigheid in de achtergrond van het haar, alsof de texturen niet volledig scherp zijn gegenereerd']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (een portret met een paletmes) is niet iconisch of decoratief, en de compositie heeft een persoonlijke, intieme spanning die verder gaat dan een standaardportret.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015210_15273.webp"
+    },
     {
       "id": 15268,
       "titel": "Spatten zonder zwaartekracht",
@@ -13,6 +26,19 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015205_15268.webp"
+    },
+    {
+      "id": 15267,
+      "titel": "Papierverschillen met natte randen",
+      "beschrijving": "Horizontale banen donkerbruin en grijs wisselen af met scheurtjes wit papier, waarbij de randen onregelmatig en fronsend zijn. Rechtsboven een geelachtig, korrelig vlak met een rechte naad, omgeven door donkere, verbleekte vlekken. Een dunne, doorschijnende strook loopt schuin door het midden, met sporen van verbleekte kleur. Onderin zwarte, korrelige spattingen en een donkere, ongelijkmatige vlek die overgaat in een glanzende, natte textuur. De achtergrond is een mengsel van matte en glanzende oppervlakken, met subtiele overgangen tussen de kleuren.",
+      "cyclus": 15204,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in textuur van gescheurde randen', 'lichte wazigheid in donkere vlakken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met bewuste keuze voor leegte en textuur.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015204_15267.webp"
     },
     {
       "id": 15266,
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015161_15224.webp"
-    },
-    {
-      "id": 15222,
-      "titel": "Pen die bloed vraagt",
-      "beschrijving": "Twee handen domineren het beeld: de linkerhand rust met gespreide vingers op een wit oppervlak, terwijl de rechterhand een dunne pen vasthoudt die net de huid van de middelvinger raakt. Donkere, glanzende vlekken en spetters van wat lijkt op verf of inkten verspreiden zich linksboven, met brede, zachte streken die over de vingers lopen. De nagels zijn kort en ongelijk gevormd, de huid textuurrijk met zichtbare lijnen en aderen. De pen is donker, slank en scherp gepunteerd, gericht op een klein puntje op de vinger. De achtergrond is egaal wit, zonder afleiding, waardoor de handen en de donkere vormen er scherp tegen afsteken. De compositie is dicht en intiem, met een focus op de aanraking tussen pen en huid en de contrasten tussen donker en licht.",
-      "cyclus": 15159,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, dynamische compositie met een focus op het moment van creatie, niet op een iconisch onderwerp.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015159_15222.webp"
-    },
-    {
-      "id": 15203,
-      "titel": "Verloren lagen verf",
-      "beschrijving": "Grijs beschilderd oppervlak met onregelmatige, donkerdere plekken waar verf lijkt afgescheurd of afgebladderd, waardoor onderliggende lagen zichtbaar worden. Kleine, scherpe fragmenten van wat ooit glanzend moet geweest zijn, steken schuin uit het oppervlak, met randen die wit of lichtgrijs zijn. Een enkele donkere, ronde vorm drijft bovenaan, omgeven door subtiele krassen en sporen van slijtage. De textuur is ruw en ongelijk, met sporen van penseelstreken die in verschillende richtingen lopen. Rechtsboven loopt een dunne, golvende lijn door het grijs, alsof iets langzaam aan het oppervlak voorbij is glijdend. Kleuren zijn beperkt tot grijstinten, met af en toe een donkerblauwe of bruine ondertoon bij de beschadigingen. De compositie is asymmetrisch, met de meeste actie aan de linkerkant en een grote, lege grijze ruimte aan de rechterkant die de aandacht trekt door haar eenvoud.",
-      "cyclus": 15140,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015140_15203.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15283,
+      "cyclus": 15220,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, schuine compositie met lege ruimte.",
+      "bestand": "images/a015220_15283.webp"
+    },
     {
       "id": 15262,
       "cyclus": 15199,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconisch woestijnschap met zonsondergang, perfecte golvende lijnen en een decoratief kleurenpalet zonder duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a015196_15259.webp"
-    },
-    {
-      "id": 15253,
-      "cyclus": 15190,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in houttextuur tussen sommige lamellen (soms te scherp, soms wazig)', 'Subtiele halo rond de rand van de bergen in de achtergrond']",
-      "cliche_notities": "Het beeld toont een typisch landschapsmotief (bergen, water, groen) gezien door een houten structuur, met een decoratieve compositie die aan een ansichtkaart doet denken.",
-      "bestand": "images/a015190_15253.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15217,
-    "gemaakt": 15279,
-    "gekozen": 2392,
-    "afgekeurd": 1820,
+    "cycli": 15222,
+    "gemaakt": 15284,
+    "gekozen": 2394,
+    "afgekeurd": 1821,
     "corpus": 67,
     "notities": 542
   }
