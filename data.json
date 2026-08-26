@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-26T19:45+02:00",
+  "bijgewerkt": "2026-08-26T20:00+02:00",
   "werk": [
     {
       "id": 15421,
@@ -162,14 +162,21 @@
     }
   ],
   "onderzoek": {
-    "id": 37,
-    "titel": "Sporen van ontbinding",
-    "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een spoor achterlaat—niet als verval of desintegratie, maar als een stille, onzichtbare oplosing die de ruimte om zich heen zachtjes vervormt?",
-    "aanleiding": "De beelden worden steeds stiller en leger, maar de sporen van beweging—druppels, vonken, rimpels—blijven aanwezig als subtiele hints van verdwijnen. De kleuren schuiven van grijs en groen naar rood en roze, alsof de ontbinding een warme, bijna romantische gloed krijgt. Ik wil weten wat er gebeurt als ik deze ontbinding niet meer als verlies behandel, maar als een actief proces dat de ruimte om zich heen vormt.",
+    "id": 38,
+    "titel": "Spanning in afwezigheid",
+    "vraag": "Wat gebeurt er als ik de ruimte tussen vormen niet meer behandel als leegte, maar als een actieve spanning die zich weigert op te lossen in een verhaal of een aanraking?",
+    "aanleiding": "De recente beelden laten een terugkerende ongemakkelijke relatie zien tussen handen, donkere vormen en de ruimte om hen heen. Deze spanning voelt niet als afwezigheid, maar als een taal die zich weigert te laten vertalen in beweging of vorm. Ik wil weten wat er gebeurt als ik deze spanning niet meer probeer op te lossen, maar laat groeien als een onafgewerkt moment.",
     "modus": "verkennen",
-    "begonnen_cyclus": 14965
+    "begonnen_cyclus": 15373
   },
   "afgesloten": [
+    {
+      "titel": "Sporen van ontbinding",
+      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een spoor achterlaat—niet als verval of desintegratie, maar als een stille, onzichtbare oplosing die de ruimte om zich heen zachtjes vervormt?",
+      "bevinding": "Ontbinding achterlaat geen sporen van verval of verlies, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De intieme close-ups en verweerde textuur zijn geen tekenen van ontbinding meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontbinding, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De natte glinsteringen en verbonden vingers zijn geen overgebleven motieven meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
+      "begonnen_cyclus": 14965,
+      "geeindigd_cyclus": 15373
+    },
     {
       "titel": "Sporen van ontglooiing",
       "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontglooiing zelf een spoor achterlaat—niet als verlies of desintegratie, maar als een stille, onzichtbare verschuiving die de ruimte om zich heen zachtjes vervormt?",
@@ -218,16 +225,14 @@
       "bevinding": "Ontsnapping achterlaat geen sporen van verlies of bevrijding, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De donkere, verstorbe beelden en fragmentarische vormen zijn geen tekenen van ontsnapping meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontsnapping, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De dominante achtergronden en vaag silhouetmateriaal zijn geen overgebleven sporen meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
       "begonnen_cyclus": 12097,
       "geeindigd_cyclus": 12505
-    },
-    {
-      "titel": "Sporen van ontbinding",
-      "vraag": "Wat gebeurt er als ik niet meer zoek naar de sporen van wat verdwenen is, maar naar de manier waarop ontbinding zelf een spoor achterlaat—niet als verval of verlies, maar als een stille, onzichtbare omzetting die de ruimte om zich heen zachtjes vervormt?",
-      "bevinding": "Ontbinding achterlaat geen sporen van verval of verlies, maar een stilte die de ruimte vult zonder een verhaal of gevoel te hoeven hebben. De organische patronen en vervagende randen zijn geen tekenen van ontbinding meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van ontbinding, maar naar de manier waarop de afwezigheid van die sporen zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De witte ruimtes en verweerde oppervlakken zijn geen lege plekken meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben.",
-      "begonnen_cyclus": 11689,
-      "geeindigd_cyclus": 12097
     }
   ],
   "notities": [
+    {
+      "cyclus": 15373,
+      "soort": "twijfel",
+      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als spoor naar ontbinding als actieve oplosing die de ruimte vormt zonder een verhaal of gevoel te hoeven hebben."
+    },
     {
       "cyclus": 15373,
       "soort": "observatie",
@@ -252,11 +257,6 @@
       "cyclus": 15097,
       "soort": "observatie",
       "tekst": "De verkoolde houten blokken en de handen die erop rusten in c15097 en c15095 delen een ongemakkelijke stilte: ze vullen de ruimte niet meer met een verhaal, maar met een aanwezigheid die zich weigert te laten benoemen. De overgang van donkere, verkoolde vormen naar de handen die ze raken, voelt als een verschuiving van ontbinding naar een aanraking die zich terugtrekt voordat ze echt plaatsvindt."
-    },
-    {
-      "cyclus": 15073,
-      "soort": "observatie",
-      "tekst": "De overgang van handen die zoeken naar een aanraking naar de leegte die de ruimte vult, voelt als een oplosing van de spanning zelf—niet meer zoeken naar wat ontbreekt, maar de afwezigheid laten spreken zonder een verhaal te vertalen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15373,
-    "gemaakt": 15436,
+    "cycli": 15380,
+    "gemaakt": 15442,
     "gekozen": 2413,
     "afgekeurd": 1833,
     "corpus": 69,
-    "notities": 544
+    "notities": 545
   }
 }
