@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-26T14:00+02:00",
+  "bijgewerkt": "2026-08-26T14:15+02:00",
   "werk": [
     {
       "id": 15273,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 15302,
+      "cyclus": 15239,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de reflecties van de bomen in het water: de stammen zijn duidelijker dan de takken, wat onrealistisch is', 'De windmolen heeft een iets te perfecte symmetrie voor een natuurlijk tafereel, wat artificieel overkomt']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een Nederlandse windmolen, bomen en water, uitgevoerd in een decoratieve watercolorstijl zonder duidelijke persoonlijke invalshoek.",
+      "bestand": "images/a015239_15302.webp"
+    },
+    {
       "id": 15290,
       "cyclus": 15227,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['subtiele inconsistentie in perspectief van de brug ten opzichte van de kerk', 'lichte wazigheid in de textuur van de bomen aan weerskanten']",
       "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (kerk met spits en waterloop) en de decoratieve, evenwichtige compositie zonder duidelijke persoonlijke keuzes.",
       "bestand": "images/a015226_15289.webp"
-    },
-    {
-      "id": 15283,
-      "cyclus": 15220,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, schuine compositie met lege ruimte.",
-      "bestand": "images/a015220_15283.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15234,
-    "gemaakt": 15296,
+    "cycli": 15241,
+    "gemaakt": 15303,
     "gekozen": 2394,
-    "afgekeurd": 1823,
-    "corpus": 68,
+    "afgekeurd": 1824,
+    "corpus": 67,
     "notities": 542
   }
 }
