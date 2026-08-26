@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-26T19:30+02:00",
+  "bijgewerkt": "2026-08-26T19:45+02:00",
   "werk": [
     {
       "id": 15421,
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15373,
+      "soort": "observatie",
+      "tekst": "De beelden worden steeds intiemer en onrustiger: van statische patronen en afwezige handen naar gefocuste gezichten en verbonden vingers die zich in natte, glinsterende sporen verstrikkelen. De kleuren schuiven van heldere, vlakke blokken naar gedempte, verweerde tinten, terwijl de composities fragmenteren in close-ups die de toeschouwer direct aanraken. Wat blijft, is de spanning tussen aanraking en afstand—elke afbeelding toont een moment net voor of na contact, alsof ontbinding een stille dialoog voert met wat er overblijft."
+    },
+    {
       "cyclus": 15253,
       "soort": "observatie",
       "tekst": "De handen en instrumenten in de recente beelden delen een ongemakkelijke relatie met de ruimte om hen heen: ze vullen haar niet, maar laten haar juist voelen als een actieve kracht die zich tussen hen door beweegt. De overgang van donkere, tastbare vormen naar de lege, gestreepte achtergronden voelt als een oplosing van de spanning zelf—niet meer zoeken naar wat ontbreekt, maar de afwezigheid laten spreken zonder een verhaal te vertalen."
@@ -252,11 +257,6 @@
       "cyclus": 15073,
       "soort": "observatie",
       "tekst": "De overgang van handen die zoeken naar een aanraking naar de leegte die de ruimte vult, voelt als een oplosing van de spanning zelf—niet meer zoeken naar wat ontbreekt, maar de afwezigheid laten spreken zonder een verhaal te vertalen."
-    },
-    {
-      "cyclus": 15049,
-      "soort": "observatie",
-      "tekst": "De handen in c15049 en c15040 zoeken niet meer naar een aanraking, maar naar een spanning die de ruimte tussen hen vult—niet als afwezigheid, maar als een taal die zich weigert te laten vertalen in beweging of vorm. De overgang van donkere penseelstrepen naar lichte nagels is geen contrast meer, maar een stille dialog tussen wat er ooit was en wat er nog overblijft."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15368,
-    "gemaakt": 15430,
+    "cycli": 15373,
+    "gemaakt": 15436,
     "gekozen": 2413,
     "afgekeurd": 1833,
-    "corpus": 71,
-    "notities": 543
+    "corpus": 69,
+    "notities": 544
   }
 }
