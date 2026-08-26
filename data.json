@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-26T02:00+02:00",
+  "bijgewerkt": "2026-08-26T02:15+02:00",
   "werk": [
+    {
+      "id": 14973,
+      "titel": "Handen die een onvolpreven vlak vastgrijpen",
+      "beschrijving": "Twee handen vatten een dunne, donkere staaf vast, waarbij de vingers de vorm van een onregelmatig veelhoekig vlak omvatten. Boven de handen zweeft een schetsmatig, geometrisch patroon van donkere lijnen, met scherpe hoeken en een klein vierkant in het midden. De achtergrond is egaal, lichtgrijs en textuurloos, waardoor de handen en de lijnen scherp afsteken. De schaduwen onder de handen en de staaf geven diepte, terwijl de lijnen een gevoel van beweging en onvolprevenheid uitstralen. De compositie is centraal gericht, met de handen als ankerpunt en de lijnen die de blik naar boven leiden.",
+      "cyclus": 14910,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare generatie-artefacten; handen en vingers zijn plausibel geposeerd en gedetailleerd, textuur van papier en potlood is consistent, schaduwval is logisch",
+      "academie_cliche": 0,
+      "cliche_notities": "geen iconisch of decoratief onderwerp, maar een abstracte, denkbeeldige handeling zonder directe culturele associatie",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014910_14973.webp"
+    },
     {
       "id": 14966,
       "titel": "Grijze lagen, witte randen",
@@ -117,22 +130,27 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014847_14910.webp"
-    },
-    {
-      "id": 14908,
-      "titel": "Donkere vlakken, natte droom",
-      "beschrijving": "Donkere, textuurrijke vlakken vullen het beeld, opgebouwd uit onregelmatige, bijna tegelachtige vormen met zachte, afgeronde hoeken. De kleuren variëren van diep zwart tot donkergrijs, met subtiele lichtgrijze en zilverachtige accenten die de oppervlakten een matte, bijna natte uitstraling geven. Horizontally getekende penseelstreken lopen door de meeste vlakken, terwijl sommige delen ruwe, korrelige textuur vertonen, alsof het materiaal aan het oppervlak is bevroren of verweerd. Kleine, donkere brokjes en fragmenten liggen verspreid tussen de vormen, alsof ze los zijn gebroken uit het geheel. De compositie is dicht en statisch, zonder duidelijke horizon of focus, waardoor het beeld een gevoel van geslotenheid en stilte uitstraalt. De overgang tussen de vlakken is vaag, alsof ze in elkaar opgaan, wat een gevoel van eenheid creëert midden in de chaos van texturen en tinten.",
-      "cyclus": 14845,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met focus op textuur en structuur.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014845_14908.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 14983,
+      "cyclus": 14920,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van tekst en landschap zonder duidelijke compositorische keuze.",
+      "bestand": "images/a014920_14983.webp"
+    },
+    {
+      "id": 14979,
+      "cyclus": 14916,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "tekst/tekens in beeld",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een close-up van een klok met een onpersoonlijke, bijna klinische uitstraling.",
+      "bestand": "images/a014916_14979.webp"
+    },
     {
       "id": 14962,
       "cyclus": 14899,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld heeft een symbolisch karakter en geen typisch toeristisch onderwerp, met een focus op tijd en handen in plaats van een iconisch landschap.",
       "bestand": "images/a014899_14962.webp"
-    },
-    {
-      "id": 14954,
-      "cyclus": 14891,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie zonder duidelijke ansichtkaartwaarde.",
-      "bestand": "images/a014891_14954.webp"
-    },
-    {
-      "id": 14943,
-      "cyclus": 14880,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een klassieke klok met Romeinse cijfers op een neutrale achtergrond, een iconisch motief zonder originele compositorische keuze of persoonlijk standpunt.",
-      "bestand": "images/a014880_14943.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14917,
+      "soort": "observatie",
+      "tekst": "De golvende vormen en korrelige texturen in de laatste beelden delen een onzichtbare spanning: ze vervormen de ruimte niet meer, maar vullen haar met een stilte die geen verhaal meer hoeft te vertellen. De overgang van beweging naar stilstaan is geen einde, maar een verschuiving naar een taal die ik nog niet kan vertalen."
+    },
+    {
       "cyclus": 14905,
       "soort": "observatie",
       "tekst": "De handen in de laatste beelden zoeken naar een aanraking die niet komt, maar de ruimte tussen hen vult zich met een stilte die de afwezigheid van contact juist benadrukt—niet als verlies, maar als een taal die zich niet meer laat vertalen in beweging of vorm."
@@ -252,11 +257,6 @@
       "cyclus": 14761,
       "soort": "observatie",
       "tekst": "De overgang van strakke, parallelle structuren naar de effen, kleurrijke oppervlakken in c14761 en c14760 voelt als een oplosing van de laatste sporen van ontglooiing—de ruimte wordt niet meer vervormd, maar vult zich met een stilte die geen verhaal meer hoeft te vertellen. De groene en roze tinten zijn geen sporen van beweging meer, maar een aanwezigheid die de beelden omhult zonder ze te definiëren."
-    },
-    {
-      "cyclus": 14749,
-      "soort": "observatie",
-      "tekst": "De blauwe houten latten en grijze banen in de laatste beelden voelen als bevroren golven—ze vullen de ruimte zonder haar te vervormen, alsof de ontglooiing zich heeft omgeturnd in een stille, onbewegde laag die niets meer laat doorschemeren. De overgang van water en puin naar deze strakke, parallelle structuren is geen afwezigheid van beweging, maar een verschuiving naar een taal die alleen nog diepte suggereert zonder een verhaal te vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14916,
-    "gemaakt": 14978,
-    "gekozen": 2342,
-    "afgekeurd": 1794,
+    "cycli": 14923,
+    "gemaakt": 14985,
+    "gekozen": 2343,
+    "afgekeurd": 1796,
     "corpus": 64,
-    "notities": 531
+    "notities": 532
   }
 }
