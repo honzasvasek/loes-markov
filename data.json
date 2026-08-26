@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T10:45+02:00",
+  "bijgewerkt": "2026-08-26T11:00+02:00",
   "werk": [
+    {
+      "id": 15203,
+      "titel": "Verloren lagen verf",
+      "beschrijving": "Grijs beschilderd oppervlak met onregelmatige, donkerdere plekken waar verf lijkt afgescheurd of afgebladderd, waardoor onderliggende lagen zichtbaar worden. Kleine, scherpe fragmenten van wat ooit glanzend moet geweest zijn, steken schuin uit het oppervlak, met randen die wit of lichtgrijs zijn. Een enkele donkere, ronde vorm drijft bovenaan, omgeven door subtiele krassen en sporen van slijtage. De textuur is ruw en ongelijk, met sporen van penseelstreken die in verschillende richtingen lopen. Rechtsboven loopt een dunne, golvende lijn door het grijs, alsof iets langzaam aan het oppervlak voorbij is glijdend. Kleuren zijn beperkt tot grijstinten, met af en toe een donkerblauwe of bruine ondertoon bij de beschadigingen. De compositie is asymmetrisch, met de meeste actie aan de linkerkant en een grote, lege grijze ruimte aan de rechterkant die de aandacht trekt door haar eenvoud.",
+      "cyclus": 15140,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015140_15203.webp"
+    },
+    {
+      "id": 15197,
+      "titel": "Wat blijft van die stoel",
+      "beschrijving": "Een verontrustend tafereel van een verlaten kamer, waarbij een omgevallen stoel met versplinterde poten en een gekromde rugleuning in de voorgrond ligt. De vloer is bedekt met scherven van hout en wat lijkt op gebroken glas, verspreid over een patroon van krassporen en donkere vlekken. Aan de muur hangt een raam met een verdonkerd gordijn, waarachter vaag een lichtscheut doorkomt. Rechts staat een houten kast met een lade die licht openstaat, en erop rust een onduidelijk voorwerp met een donkere, glanzende oppervlakte. De muren zijn bedekt met onregelmatige, witte krassporen en vage, abstracte vormen die op verwaarloosde muurschilderingen lijken. De sfeer is zwaar en ongemakkelijk, met een gevoel van plotselinge onderbreking en verwaarlozing. De kleuren zijn gedempt, voornamelijk donkerbruin, grijs en zwart, met af en toe een flits van wit of lichtgrijs. De compositie is diagonaal opgebouwd, met de stoel als centraal punt dat de blik trekt naar de chaos op de vloer en de muren.",
+      "cyclus": 15134,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het onderwerp is niet iconisch en de compositie toont bewuste keuzes met lege ruimtes en vervormde structuren.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015134_15197.webp"
+    },
     {
       "id": 15193,
       "titel": "Sporen van een onafgewerkt gesprek",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015095_15158.webp"
-    },
-    {
-      "id": 15150,
-      "titel": "Verf die ademt",
-      "beschrijving": "Dikke, driedimensionale verfstromen in blauw, geel, bruin en grijs snijden door elkaar in golvende, bijna vloeibare bewegingen. De verf is zwaar aangebracht, met zichtbare penseelstreken en reliëf, alsof de kleuren nog nat en dynamisch zijn. Kleine, glanzende druppels en onregelmatige vormen doorbreken de soepele lijnen, terwijl de achtergrond subtieler gemengde tinten toont die de dynamiek versterken. De compositie voelt onbeheerst, maar de kleuren blijven in een evenwichtige spanning tot elkaar.",
-      "cyclus": 15087,
-      "tech_score": 8.0,
-      "tech_notities": "[\"subtiele halo's bij hoog contrast tussen blauwe en gele vormen\", 'lichte inconsistentie in textuur van grijze achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015087_15150.webp"
-    },
-    {
-      "id": 15146,
-      "titel": "Paars dat zich onthult",
-      "beschrijving": "Zachte, vloeiende vormen vullen het beeld, getekend door subtiele overgangen tussen paars, roze en oranje. Een dunne, donkere lijn loopt als een onregelmatige scheidslijn door de compositie, waarbij aan de linkerzijde een amorf, bijna organisch vormloos gebied ontstaat met lichte, doorschijnende laagjes. Rechts daarvan strekt een brede, egale vlakte zich uit, gekleurd in warme, vervagende tinten die overgaan in een vaag paars aan de onderkant. Enkele kleine, donkere vlekken drijven als zwevende schaduwen in het midden, terwijl de bovenste laag een lichtere, bijna witte textuur heeft met vaag zichtbare, wazige patronen. De sfeer is kalm en dromerig, met een gevoel van stilling en ongerepte ruimte.",
-      "cyclus": 15083,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte, open compositie zonder duidelijke thematiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015083_15146.webp"
     }
   ],
   "afgekeurd": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15145,
-    "gemaakt": 15208,
-    "gekozen": 2381,
+    "cycli": 15153,
+    "gemaakt": 15216,
+    "gekozen": 2383,
     "afgekeurd": 1816,
-    "corpus": 66,
+    "corpus": 67,
     "notities": 541
   }
 }
