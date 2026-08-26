@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T11:30+02:00",
+  "bijgewerkt": "2026-08-26T11:45+02:00",
   "werk": [
+    {
+      "id": 15224,
+      "titel": "Roze dat blijft hangen",
+      "beschrijving": "Een verbrandde houten balk ligt schuin op donkere, korrelige grond, omringd door losse stenen en as. Het hout is zwartgeblakerd, met diepe barsten en afbrokkelende lagen die een ruwe, onregelmatige textuur onthullen. Tussen de spleten loopt een levendige roze substantie, bijna vloeibaar van uitstraling, met golvende patronen en kleine putjes. De roze kleur contrasteert scherp met het donkere hout en de grijze achtergrond, en verspreidt zich ook als poederspoor over de grond. Kleine roze deeltjes liggen verspreid rond de balk, alsof ze uit het hout zijn gekomen. De compositie is dicht en textuurrijk, met een focus op het spel tussen vernietiging en onverwachte kleur.",
+      "cyclus": 15161,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte inconsistentie in textuur van zwarte stenen (soms korrelig, soms glad)', 'roze stof in sommige delen wat wazig/smeuiig']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op ontbinding en leegte, niet op een bevestigend verhaal.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015161_15224.webp"
+    },
+    {
+      "id": 15222,
+      "titel": "Pen die bloed vraagt",
+      "beschrijving": "Twee handen domineren het beeld: de linkerhand rust met gespreide vingers op een wit oppervlak, terwijl de rechterhand een dunne pen vasthoudt die net de huid van de middelvinger raakt. Donkere, glanzende vlekken en spetters van wat lijkt op verf of inkten verspreiden zich linksboven, met brede, zachte streken die over de vingers lopen. De nagels zijn kort en ongelijk gevormd, de huid textuurrijk met zichtbare lijnen en aderen. De pen is donker, slank en scherp gepunteerd, gericht op een klein puntje op de vinger. De achtergrond is egaal wit, zonder afleiding, waardoor de handen en de donkere vormen er scherp tegen afsteken. De compositie is dicht en intiem, met een focus op de aanraking tussen pen en huid en de contrasten tussen donker en licht.",
+      "cyclus": 15159,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, dynamische compositie met een focus op het moment van creatie, niet op een iconisch onderwerp.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015159_15222.webp"
+    },
     {
       "id": 15203,
       "titel": "Verloren lagen verf",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015103_15166.webp"
-    },
-    {
-      "id": 15163,
-      "titel": "Vingers die papier doorsteken",
-      "beschrijving": "Twee paren handen stekken door gescheurde grijze papierlagen, met vingers die elkaar lichtjes raken of omvatten. De scheuren lopen horizontaal, met onregelmatige, franjesachtige randen die wit papier onthullen. De handen liggen symmetrisch, met de polsen dicht bij de randen van het beeld en de vingers gericht naar het midden. De huid is lichtgekleurd, met zichtbare aders en nagels kort geknipt. De achtergrond bestaat uit effen grijs papier, zonder extra details of textuur. De compositie is strak en centraal, met de handen als enig dynamisch element in een anderszins statisch vlak.",
-      "cyclus": 15100,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de gescheurde papierlaag en de handen die erdoorheen steken, wat verder gaat dan een typische ansichtkaartcompositie.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015100_15163.webp"
-    },
-    {
-      "id": 15158,
-      "titel": "Vonken in de witgrijze lagen",
-      "beschrijving": "Vier verbrande houten balken liggen schuin op elkaar, met gekoolde, gescheurde oppervlakken die witgrijze en zwarte lagen onthullen. Tussen de spleten vonken oranje-rode vonken op, omringd door as en kleine, witte korrels die over het hout en de donkere, korrelige ondergrond verspreid zijn. Dode takjes en fijn grind liggen verspreid rond de balken, terwijl de achtergrond onscherp en donkergrijs is. De textuur van het hout is ruw en ongelijkmatig, met diepe barsten en glimmende, verharde delen waar de hitte het hout heeft veranderd.",
-      "cyclus": 15095,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar focust op een intiem detail van ontbinding.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015095_15158.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15230,
+      "cyclus": 15167,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare tekens', 'inconsistent perspectief in tekst en vormen', 'wazige en smeuiige texturen in rook en vormen']",
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont geen decoratief perfect licht, maar een abstracte, chaotische compositie zonder duidelijke intentie.",
+      "bestand": "images/a015167_15230.webp"
+    },
     {
       "id": 15208,
       "cyclus": 15145,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de molen ten opzichte van de horizon', 'Enkele takken van de boom lijken onnatuurlijk te vervloeiën met de achtergrond']",
       "cliche_notities": "Het beeld combineert iconische Nederlandse motieven (molen, bloemenveld) met een decoratief lichteffect, zonder een duidelijke compositorische keuze of eigen standpunt.",
       "bestand": "images/a015136_15199.webp"
-    },
-    {
-      "id": 15181,
-      "cyclus": 15118,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Hand is iets te glad en mist subtiele huidtextuur', 'Penseelsteel heeft onrealistische, perfecte cilindervorm zonder slijtage']",
-      "cliche_notities": "Dit is een typische 'kunstenaar aan het werk'-compositie met een palet en verf, zonder onverwachte of persoonlijke invalshoek.",
-      "bestand": "images/a015118_15181.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15167,
-    "gemaakt": 15229,
-    "gekozen": 2383,
-    "afgekeurd": 1816,
+    "cycli": 15174,
+    "gemaakt": 15236,
+    "gekozen": 2385,
+    "afgekeurd": 1817,
     "corpus": 67,
     "notities": 541
   }
