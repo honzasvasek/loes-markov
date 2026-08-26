@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T21:30+02:00",
+  "bijgewerkt": "2026-08-26T21:45+02:00",
   "werk": [
+    {
+      "id": 15480,
+      "titel": "Vingers in verf",
+      "beschrijving": "Een hand met lichtgekleurde nagels raakt een donkergrijze, brede penseelstreep aan die in een V-vorm over een effen lichtgrijze achtergrond loopt. De penseelstrepen zijn ongelijkmatig, met zichtbare textuur en kleine onregelmatigheden aan de randen. De vingers liggen zachtjes op de streep, alsof ze de beweging van het schilderen vasthouden. De compositie is eenvoudig en gericht op de interactie tussen hand en verf, zonder andere elementen of afleiding. De sfeer is rustig en gefocust, met een minimale kleurenpalet dat de aandacht op de tactiele relatie tussen hand en materiaal legt.",
+      "cyclus": 15417,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de hand die de leegte activeert.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015417_15480.webp"
+    },
+    {
+      "id": 15478,
+      "titel": "Handen die de golven willen stuiten",
+      "beschrijving": "Twee handen strekken zich uit naar een woelige oceaan, waarbij de vingers zachtjes de schuimende golven raken. Het water domineert het beeld met krachtige, donkere golven die zich opstapelen en breken in wit schuim, terwijl de achtergrond overgaat in een grijze, nevelige horizon. De handen, gedetailleerd getekend met aderen en textuur, liggen diagonaal in de voorgrond en vormen een contrast met de chaotische beweging van het water. Witte en grijze tinten bepalen de sfeer, met subtiele verschillen in licht en donker die diepte en dynamiek geven aan zowel de golven als de handen. De compositie laat de handen lijken alsof ze het water willen vasthouden of kalmeren, terwijl de golven onverminderd doorstroomden.",
+      "cyclus": 15415,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een persoonlijke, contemplatieve compositie met handen die de golven lijken te omvatten, wat boven een typische ansichtkaart uitstijgt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015415_15478.webp"
+    },
     {
       "id": 15469,
       "titel": "Sporen in het goud",
@@ -104,35 +130,27 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015339_15402.webp"
-    },
-    {
-      "id": 15400,
-      "titel": "Waar blijft de rest",
-      "beschrijving": "Vier handen omklemmen een verscheurde rand van wit papier, waarbij een donkere, onregelmatige spleet openblijft. De handen zijn gedetailleerd weergegeven met aderen, nagels en huidplooien, en stralen spanning uit door de greep op het papier. De achtergrond bestaat uit chaotische, donkere penseelstrepen in verschillende grijstinten, die een gevoel van beweging en onrust oproepen. Het contrast tussen de schone, witte randen van het papier en de donkere, textuurrijke achtergrond benadrukt de scheiding. De compositie is symmetrisch, met de handen die de spleet in het midden omlijsten, wat de focus legt op de actie van het scheuren en de leegte die ontstaat.",
-      "cyclus": 15337,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in vingerposities (linkerhand onderaan), lichte wazigheid in achtergrondtexturen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen handen en leegte, geen ansichtkaartmotief",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015337_15400.webp"
-    },
-    {
-      "id": 15398,
-      "titel": "Het punt dat blijft steken",
-      "beschrijving": "Een grijze, amorf vorm vult het grootste deel van het beeld, omringd door een subtiele roze rand die de contouren zachtjes omlijnt. Rechtsboven, dicht bij de rand, bevindt zich een klein, donkerrood puntje dat als een enige, scherp afgetekende detail uitkomt tegen de egale achtergrond. De ruimte rond de vorm is lichtgrijs en zonder afleiding, waardoor de focus ligt op de eenvoudige, bijna minimalistische samenstelling van vorm en kleur. De sfeer is rustig en open, met veel lege ruimte die de vorm omhult zonder haar te definiëren.",
-      "cyclus": 15335,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015335_15398.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15489,
+      "cyclus": 15426,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "kleine vervorming in de vingers van de hand, lichte wazigheid in de achtergrond",
+      "cliche_notities": "Dit is een typische ansichtkaartafbeelding van een kunstenaar aan het werk, met een perfecte compositie en decoratief licht.",
+      "bestand": "images/a015426_15489.webp"
+    },
+    {
+      "id": 15488,
+      "cyclus": 15425,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de horizonlijn: de zee lijkt iets te hoog ten opzichte van de boom, alsof de boom in de zee staat in plaats van erbij.', 'Watervlak bij de boomstam heeft een iets te scherpe overgang naar het schuim, alsof het water en de boom niet helemaal logisch met elkaar verbonden zijn.']",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart: een iconisch landschap met een eenzaam boomstam in de golven, met perfect licht en een klassieke compositie zonder duidelijke persoonlijke keuzes.",
+      "bestand": "images/a015425_15488.webp"
+    },
     {
       "id": 15475,
       "cyclus": 15412,
@@ -141,24 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna agressieve compositie met vuur en vernietiging.",
       "bestand": "images/a015412_15475.webp"
-    },
-    {
-      "id": 15458,
-      "cyclus": 15395,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "geen duidelijke generatie-artefacten; lichte inconsistentie in de textuur van de windmolenwieken (één wiek iets detaillerder dan de andere)",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een iconische Nederlandse molen bij water, met een decoratieve, bijna nostalgische uitstraling en geen duidelijke compositorische keuze die verder gaat dan de verwachtingen.",
-      "bestand": "images/a015395_15458.webp"
-    },
-    {
-      "id": 15452,
-      "cyclus": 15389,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, ambigue compositie met handen en brokstukken.",
-      "bestand": "images/a015389_15452.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15421,
-    "gemaakt": 15484,
-    "gekozen": 2418,
-    "afgekeurd": 1837,
-    "corpus": 69,
+    "cycli": 15429,
+    "gemaakt": 15491,
+    "gekozen": 2420,
+    "afgekeurd": 1839,
+    "corpus": 70,
     "notities": 547
   }
 }
