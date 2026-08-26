@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T06:15+02:00",
+  "bijgewerkt": "2026-08-26T06:30+02:00",
   "werk": [
+    {
+      "id": 15082,
+      "titel": "Grijswit zonder einde",
+      "beschrijving": "Een eenduidig grijs vlak vult het hele beeld, zonder afwijkingen in kleur of textuur. De oppervlakte lijkt glad en homogeen, zonder zichtbare structuren, vormen of details die afwijken van de uniforme grijstint. Er is geen aanwijzing voor licht of schaduw, noch voor beweging of diepte. Het beeld straalt een absolute stilte en leegte uit, zonder elementen die de blik zouden kunnen vasthouden of een richting zouden kunnen geven. De afwezigheid van enige variatie maakt het onmogelijk om een focuspunt of een onderliggende laag te onderscheiden.",
+      "cyclus": 15019,
+      "tech_score": 10.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een uniforme textuur zonder compositorische keuze.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015019_15082.webp"
+    },
+    {
+      "id": 15081,
+      "titel": "Bijna aanraking",
+      "beschrijving": "Vier handen zweven boven een effen, lichtpaars vlak, met vingers die bijna elkaars huid raken maar nog niet aanraken. De huid is zachtroze met subtiele schaduwvlakken in lila en bleekblauw, terwijl de nagels een matte, natuurlijke roze tint hebben. Twee handen komen van linksboven en rechtsonder, de andere twee van rechtsboven en linksonder, waardoor een asymmetrische, bijna dansende compositie ontstaat. De vingers zijn lang en slank, met lichte spanning in de gewrichten, alsof ze op het punt staan zich te sluiten of te onttrekken. De achtergrond is volledig vrij van details, waardoor de handen de enige focus vormen en de spanning tussen hen door zichtbaar wordt.",
+      "cyclus": 15018,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De handen zijn geen iconisch motief en de compositie heeft een eigen, subtiele spanning, geen ansichtkaart-licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015018_15081.webp"
+    },
     {
       "id": 15071,
       "titel": "Nog nat papier",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014975_15038.webp"
-    },
-    {
-      "id": 15037,
-      "titel": "Wat blijft hangen in het kader",
-      "beschrijving": "Dunne, donkere takken vormen een fragiel, bijna abstract patroon tegen een zachtgekleurde achtergrond van grijsgroen en beige. Een enkele, lichtgekleurde steel loopt diagonaal door het beeld, met subtiele vertakkingen die de leegte doorbreken. Onderin rust een donkere, onregelmatige vorm op een gladde, paarsgrijze ondergrond, met een vaag spoor van bruin eromheen. Kleuren zijn gedempt, met lichte overgangen tussen de lagen, en de penseelstreken zijn zichtbaar maar niet uitgesproken. De compositie is asymmetrisch, met veel ruimte rond de takken, die de indruk wekken van iets dat net buiten het kader zou kunnen verdwijnen. Geen duidelijke horizon, geen herkenbare vormen—alleen de spanning tussen de lijnen en de lege ruimtes die ze omringen.",
-      "cyclus": 14974,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van de takken, lichte wazigheid in de achtergrondtextuur",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014974_15037.webp"
-    },
-    {
-      "id": 15035,
-      "titel": "Waar blijft de tijd?",
-      "beschrijving": "Twee zwarte, slanke wijzers stralen uit een donkere, ronde as in het midden van een effen, lichtgrijze muur. De wijzers staan in een scherpe hoek tot elkaar, de ene wijst schuin naar linksboven, de andere reikt verticaal omhoog. De muur draagt sporen van brede, ongelijkmatige penseelstreken, alsof de verf haastig en met een brede borstel aangebracht werd. De textuur is ruw en ongelijk, met plekken waar de verf dunner ligt en het onderliggende oppervlak vaag zichtbaar is. De wijzers werpen een zachte schaduw op de muur, wat diepte aanbrengt in het anders platte beeld. De compositie is minimalistisch, met veel lege ruimte rond de wijzers, die de aandacht trekken door hun donkere kleur en precieze vorm tegen de lichte achtergrond.",
-      "cyclus": 14972,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de textuur van de achtergrond (soms glad, soms reliëf), lichte vervorming bij de aansluiting van de wijzers met de hub",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014972_15035.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15092,
+      "cyclus": 15029,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke mix van landschap en onleesbare tekst.",
+      "bestand": "images/a015029_15092.webp"
+    },
     {
       "id": 15073,
       "cyclus": 15010,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een intieme, niet-typische compositie met handen en kaart.",
       "bestand": "images/a014999_15062.webp"
-    },
-    {
-      "id": 15021,
-      "cyclus": 14958,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een klok, maar de focus op de onvolmaakte, bijna verwaarloosde textuur en de afwezigheid van een iconische achtergrond maken het geen typische ansichtkaart.",
-      "bestand": "images/a014958_15021.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15025,
-    "gemaakt": 15087,
-    "gekozen": 2360,
-    "afgekeurd": 1802,
+    "cycli": 15031,
+    "gemaakt": 15094,
+    "gekozen": 2362,
+    "afgekeurd": 1803,
     "corpus": 66,
     "notities": 537
   }
