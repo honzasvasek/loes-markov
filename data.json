@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-26T06:45+02:00",
+  "bijgewerkt": "2026-08-26T07:00+02:00",
   "werk": [
+    {
+      "id": 15095,
+      "titel": "Slingerend spoor in zand",
+      "beschrijving": "Een zandachtige, beige ondergrond wordt doorsneden door een slingerende, witte spoorlijn, getekend met wat lijkt op krijt of zout. De lijn loopt van linksboven naar rechtsonder, met een zachte, organische boog die zich uitstrekt over het midden van het beeld. Parallel aan de witte lijn lopen donkere, bijna zwarte strepen die de contour benadrukken en diepte toevoegen. De textuur van het zand is fijn en gelijkmatig, met subtiele schaduwen die de driedimensionale werking van de sporen versterken. De compositie is minimalistisch, met veel lege ruimte rond de lijn, wat de focus legt op de vloeiende beweging en de contrasten tussen licht en donker. Er is geen duidelijke horizon of achtergrond, waardoor het beeld een zwevende, tijdelijke kwaliteit krijgt.",
+      "cyclus": 15032,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015032_15095.webp"
+    },
+    {
+      "id": 15094,
+      "titel": "Wat bleef je vasthouden",
+      "beschrijving": "Een hand, getekend in fijne, donkere lijnen tegen een witte achtergrond, vult het beeld. De vingers staan wijd open, alsof ze net iets wilden vatten of juist laten gaan. De lijnen volgen de contouren van de huid, met subtiele variaties in druk en dichtheid die de textuur en plooien nabootsen. Donkere vlekken en krassen verspreid over de palm en vingers geven een gevoel van slijtage of gebruik. De duim is licht gebogen, terwijl de overige vingers een zachte boog vormen. De pols verdwijnt aan de onderkant van het beeld, waar de lijnen steeds fijner en chaotischer worden. Het wit rondom de hand benadrukt de isolatie en de focus op de vorm en textuur van de hand zelf.",
+      "cyclus": 15031,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een eigen, introspectieve houding.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015031_15094.webp"
+    },
+    {
+      "id": 15089,
+      "titel": "Waar blijft de greep?",
+      "beschrijving": "Twee handen drijven door een vaag, wit-grijs vlak, getekend met zachte, onvoltooide penseelstreken. De vingers zijn lang en slank, met licht gebogen nagels en subtiele schaduwen die de contouren benadrukken. De linkerhand wijst met de wijsvinger naar de rechterhand, waarvan de vingers wijd gespreid zijn alsof ze iets vast willen pakken of willen aanraken. Tussen de handen door loopt een smalle, witte spleet, alsof er iets onzichtbaars tussen hen door gaat. De achtergrond bestaat uit onscherpe, watervormige vlekken die de handen omhullen, met hier en daar een donkere, vaag omschreven vorm die geen herkenbaar patroon vormt. De sfeer is stil en zwevend, alsof het moment bevroren is in een beweging die nooit helemaal voltooid wordt.",
+      "cyclus": 15026,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistenties in vingerlengtes en -vormen, lichte wazigheid in achtergrondtexturen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015026_15089.webp"
+    },
     {
       "id": 15082,
       "titel": "Grijswit zonder einde",
@@ -91,45 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014988_15051.webp"
-    },
-    {
-      "id": 15042,
-      "titel": "Hand die het raster doorbreekt",
-      "beschrijving": "Een roze hand met gespreide vingers vult het midden van het beeld, met zichtbare penseelstreken die de textuur van huid en vingernagels suggereren. Achter de hand bevindt zich een raster van donkerblauwe, rechthoekige panelen met subtiele horizontale en verticale lijnen, gescheiden door zwarte lijnen die een raam- of paneelstructuur vormen. De hand werpt een donkerblauwe schaduw op de achtergrond, die de vorm van de vingers en de palm volgt. De kleuren zijn helder en vlak, met een scherp contrast tussen het zachte roze van de hand en de koele, strakke blauwe achtergrond. De compositie is statisch, met de hand als enig dynamisch element dat de geometrische orde van de achtergrond doorbreekt.",
-      "cyclus": 14979,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de vingerproporties (wijzervinger en middelvinger lijken gelijk lang, maar wijzervinger is korter)', 'Subtiele halo rond de rand van de hand tegen het blauwe raster']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze (hand tegen raster) en geen iconisch/toeristisch onderwerp",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014979_15042.webp"
-    },
-    {
-      "id": 15041,
-      "titel": "De spleet die blijft staren",
-      "beschrijving": "Grijs en wit domineren een verticaal vlak met onregelmatige randen, doorsneden door een scherpe, witte spleet die van boven naar beneden loopt. Rechtsboven bevindt zich een donkere, rechthoekige vorm met afgeronde hoeken, omringd door vage, donkerdere vlekken. De textuur is korrelig en ongelijkmatig, met subtiele overgangen tussen lichte en donkere grijstinten. Kleine, donkere stippen en onduidelijke lijnen zijn verspreid over het oppervlak, vooral bij de randen. De compositie voelt statisch, maar de spleet introduceert een dynamische, bijna doorzichtige lijn die de ogen trekt.",
-      "cyclus": 14978,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014978_15041.webp"
-    },
-    {
-      "id": 15038,
-      "titel": "Vier handen, één moment",
-      "beschrijving": "Vier handen reiken naar elkaar tegen een achtergrond van bewolkte hemel. Twee handen aan de linkerkant en twee aan de rechterkant, elk met uiteenlopende huidtinten: licht, donker en middenin. De vingers zijn gespreid, alsof ze net op het punt staan elkaar te raken, maar er blijft een kleine ruimte tussen. De achtergrond bestaat uit donkere, zware wolken die overgaan in lichtere, vaagere delen, met een grijze tot witte gloed in het midden. De handen hebben een getekende, bijna cartoonachtige stijl met duidelijke contouren en subtiel schaduwwerk. De compositie is verticaal, met de handen in de onderste helft en de hemel die de bovenste helft inneemt. Er is geen duidelijke horizonlijn, waardoor de focus ligt op de relatie tussen de handen en de ruimte ertussen.",
-      "cyclus": 14975,
-      "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten; lichte inconsistentie in schaduwen op handen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; composities zijn gericht op abstracte spanning tussen handen en ruimte",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014975_15038.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 15037,
-    "gemaakt": 15099,
-    "gekozen": 2362,
+    "cycli": 15043,
+    "gemaakt": 15105,
+    "gekozen": 2365,
     "afgekeurd": 1805,
     "corpus": 66,
     "notities": 537
