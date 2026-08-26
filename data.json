@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T09:15+02:00",
+  "bijgewerkt": "2026-08-26T09:30+02:00",
   "werk": [
+    {
+      "id": 15166,
+      "titel": "Korrelig grijs met roze randen",
+      "beschrijving": "Een golvende, donkere lijn snijdt door een grijs, korrelig vlak, omzoomd door een scherpe, roze rand die overgaat in een blauwe, wazige vlek. Zwarte vlekken en stippen verspreiden zich langs de lijn en in het grijze vlak, sommige donkerder dan andere. De roze en blauwe kleuren vloeien in elkaar over met zachte, onregelmatige randen, terwijl het grijze deel textuur heeft van fijn korrelig papier. Een smalle, witte streep loopt parallel aan de donkere lijn, met hier en daar een onderbreking. De compositie is asymmetrisch, met de kleuren die zich uitstrekken van de linkeronderhoek naar het midden, terwijl het grijze deel de rechterbovenhoek domineert.",
+      "cyclus": 15103,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015103_15166.webp"
+    },
+    {
+      "id": 15163,
+      "titel": "Vingers die papier doorsteken",
+      "beschrijving": "Twee paren handen stekken door gescheurde grijze papierlagen, met vingers die elkaar lichtjes raken of omvatten. De scheuren lopen horizontaal, met onregelmatige, franjesachtige randen die wit papier onthullen. De handen liggen symmetrisch, met de polsen dicht bij de randen van het beeld en de vingers gericht naar het midden. De huid is lichtgekleurd, met zichtbare aders en nagels kort geknipt. De achtergrond bestaat uit effen grijs papier, zonder extra details of textuur. De compositie is strak en centraal, met de handen als enig dynamisch element in een anderszins statisch vlak.",
+      "cyclus": 15100,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de gescheurde papierlaag en de handen die erdoorheen steken, wat verder gaat dan een typische ansichtkaartcompositie.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015100_15163.webp"
+    },
     {
       "id": 15158,
       "titel": "Vonken in de witgrijze lagen",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015053_15116.webp"
-    },
-    {
-      "id": 15103,
-      "titel": "Verf die spreekt terug",
-      "beschrijving": "Twee handen werken op een doek met een neutrale, beige ondergrond. De linkerhand rust op het doek, met de vingers gespreid, terwijl de rechterhand een klein penseel vasthoudt met een donkere steel en een lichtere steel. Het penseel aanraakt een brede, golvende vorm van witte en crèmekleurige verf, die een zachte, vloeiende lijn vormt. Rondom deze vorm zijn donkere, slanke takken geschilderd, met scherpe, uitstralende lijnen die naar boven en naar de zijkanten wijzen. De takken hebben een bijna silhouetachtige uitstraling, met kleine details die suggestief zijn voor knoppen of kleine takjes. De verf is op verschillende plekken dik aangebracht, met zichtbare penseelstreken en textuur, vooral in de witte vorm en bij de takken. De handen tonen natuurlijke details zoals rimpels, nagels en aderen, en de huid heeft een realistische textuur met lichte schaduwen. De compositie is verticaal georiënteerd, met de takken die de boven- en zijkanten van het beeld vullen en de witte vorm die diagonaal door het midden loopt. De sfeer is rustig en gefocust, met een gevoel van aandacht voor detail en beweging in de verf.",
-      "cyclus": 15040,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in de overgang tussen de witte en beige verf (licht smeuiig), minimale halo rond de donkere takken",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op proces in plaats van een bevestigend beeld",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015040_15103.webp"
-    },
-    {
-      "id": 15095,
-      "titel": "Slingerend spoor in zand",
-      "beschrijving": "Een zandachtige, beige ondergrond wordt doorsneden door een slingerende, witte spoorlijn, getekend met wat lijkt op krijt of zout. De lijn loopt van linksboven naar rechtsonder, met een zachte, organische boog die zich uitstrekt over het midden van het beeld. Parallel aan de witte lijn lopen donkere, bijna zwarte strepen die de contour benadrukken en diepte toevoegen. De textuur van het zand is fijn en gelijkmatig, met subtiele schaduwen die de driedimensionale werking van de sporen versterken. De compositie is minimalistisch, met veel lege ruimte rond de lijn, wat de focus legt op de vloeiende beweging en de contrasten tussen licht en donker. Er is geen duidelijke horizon of achtergrond, waardoor het beeld een zwevende, tijdelijke kwaliteit krijgt.",
-      "cyclus": 15032,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015032_15095.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15170,
+      "cyclus": 15107,
+      "afkeuringsreden": "cliche",
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp van vogels in vlucht boven een typisch landschap met riet en bomen, gecombineerd met een decoratief, zacht licht en een gebrek aan unieke compositorische keuzes.",
+      "bestand": "images/a015107_15170.webp"
+    },
+    {
+      "id": 15169,
+      "cyclus": 15106,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een intieme, procesgerichte scène met een persoonlijke touch.",
+      "bestand": "images/a015106_15169.webp"
+    },
     {
       "id": 15154,
       "cyclus": 15091,
@@ -141,24 +159,6 @@
       "tech_notities": "tekst/tekens in beeld",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met handen en cijfers.",
       "bestand": "images/a015091_15154.webp"
-    },
-    {
-      "id": 15152,
-      "cyclus": 15089,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming van handen in de achtergrond', 'onduidelijke details in gezichten van achterste figuren']",
-      "cliche_notities": "Dit beeld straalt een typisch ansichtkaart-gevoel uit met een idyllisch dorpsschap en een lijn kinderen die weglopen, wat past bij een iconisch, bevestigend onderwerp zonder sterke compositorische keuzes.",
-      "bestand": "images/a015089_15152.webp"
-    },
-    {
-      "id": 15151,
-      "cyclus": 15088,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "cliche_notities": "De combinatie van een Nederlandse molen en een typisch Nederlands letterbeeld (de 'B') in een landschap dat doet denken aan een ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt, maakt dit een toeristisch beeld.",
-      "bestand": "images/a015088_15151.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15104,
-    "gemaakt": 15166,
-    "gekozen": 2374,
-    "afgekeurd": 1810,
+    "cycli": 15111,
+    "gemaakt": 15173,
+    "gekozen": 2376,
+    "afgekeurd": 1812,
     "corpus": 67,
     "notities": 540
   }
