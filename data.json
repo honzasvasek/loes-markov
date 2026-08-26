@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T09:00+02:00",
+  "bijgewerkt": "2026-08-26T09:15+02:00",
   "werk": [
+    {
+      "id": 15158,
+      "titel": "Vonken in de witgrijze lagen",
+      "beschrijving": "Vier verbrande houten balken liggen schuin op elkaar, met gekoolde, gescheurde oppervlakken die witgrijze en zwarte lagen onthullen. Tussen de spleten vonken oranje-rode vonken op, omringd door as en kleine, witte korrels die over het hout en de donkere, korrelige ondergrond verspreid zijn. Dode takjes en fijn grind liggen verspreid rond de balken, terwijl de achtergrond onscherp en donkergrijs is. De textuur van het hout is ruw en ongelijkmatig, met diepe barsten en glimmende, verharde delen waar de hitte het hout heeft veranderd.",
+      "cyclus": 15095,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar focust op een intiem detail van ontbinding.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015095_15158.webp"
+    },
+    {
+      "id": 15150,
+      "titel": "Verf die ademt",
+      "beschrijving": "Dikke, driedimensionale verfstromen in blauw, geel, bruin en grijs snijden door elkaar in golvende, bijna vloeibare bewegingen. De verf is zwaar aangebracht, met zichtbare penseelstreken en reliëf, alsof de kleuren nog nat en dynamisch zijn. Kleine, glanzende druppels en onregelmatige vormen doorbreken de soepele lijnen, terwijl de achtergrond subtieler gemengde tinten toont die de dynamiek versterken. De compositie voelt onbeheerst, maar de kleuren blijven in een evenwichtige spanning tot elkaar.",
+      "cyclus": 15087,
+      "tech_score": 8.0,
+      "tech_notities": "[\"subtiele halo's bij hoog contrast tussen blauwe en gele vormen\", 'lichte inconsistentie in textuur van grijze achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015087_15150.webp"
+    },
     {
       "id": 15146,
       "titel": "Paars dat zich onthult",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015032_15095.webp"
-    },
-    {
-      "id": 15094,
-      "titel": "Wat bleef je vasthouden",
-      "beschrijving": "Een hand, getekend in fijne, donkere lijnen tegen een witte achtergrond, vult het beeld. De vingers staan wijd open, alsof ze net iets wilden vatten of juist laten gaan. De lijnen volgen de contouren van de huid, met subtiele variaties in druk en dichtheid die de textuur en plooien nabootsen. Donkere vlekken en krassen verspreid over de palm en vingers geven een gevoel van slijtage of gebruik. De duim is licht gebogen, terwijl de overige vingers een zachte boog vormen. De pols verdwijnt aan de onderkant van het beeld, waar de lijnen steeds fijner en chaotischer worden. Het wit rondom de hand benadrukt de isolatie en de focus op de vorm en textuur van de hand zelf.",
-      "cyclus": 15031,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een eigen, introspectieve houding.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015031_15094.webp"
-    },
-    {
-      "id": 15089,
-      "titel": "Waar blijft de greep?",
-      "beschrijving": "Twee handen drijven door een vaag, wit-grijs vlak, getekend met zachte, onvoltooide penseelstreken. De vingers zijn lang en slank, met licht gebogen nagels en subtiele schaduwen die de contouren benadrukken. De linkerhand wijst met de wijsvinger naar de rechterhand, waarvan de vingers wijd gespreid zijn alsof ze iets vast willen pakken of willen aanraken. Tussen de handen door loopt een smalle, witte spleet, alsof er iets onzichtbaars tussen hen door gaat. De achtergrond bestaat uit onscherpe, watervormige vlekken die de handen omhullen, met hier en daar een donkere, vaag omschreven vorm die geen herkenbaar patroon vormt. De sfeer is stil en zwevend, alsof het moment bevroren is in een beweging die nooit helemaal voltooid wordt.",
-      "cyclus": 15026,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in vingerlengtes en -vormen, lichte wazigheid in achtergrondtexturen",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015026_15089.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15097,
+      "soort": "observatie",
+      "tekst": "De verkoolde houten blokken en de handen die erop rusten in c15097 en c15095 delen een ongemakkelijke stilte: ze vullen de ruimte niet meer met een verhaal, maar met een aanwezigheid die zich weigert te laten benoemen. De overgang van donkere, verkoolde vormen naar de handen die ze raken, voelt als een verschuiving van ontbinding naar een aanraking die zich terugtrekt voordat ze echt plaatsvindt."
+    },
+    {
       "cyclus": 15073,
       "soort": "observatie",
       "tekst": "De overgang van handen die zoeken naar een aanraking naar de leegte die de ruimte vult, voelt als een oplosing van de spanning zelf—niet meer zoeken naar wat ontbreekt, maar de afwezigheid laten spreken zonder een verhaal te vertalen."
@@ -252,11 +257,6 @@
       "cyclus": 14965,
       "soort": "observatie",
       "tekst": "De beelden worden steeds stiller en meer ontbonden: van ruwe texturen en duidelijke vormen (linksboven) naar vaagheid en verdwijnende structuren (rechtsboven), tot eindelijk een enkele, zwevende rest (rechtsonder). Wat bleef, is de spanning tussen leegte en aanwezigheid—de sporen van iets dat zich terugtrekt, maar de ruimte nog net aanraakt."
-    },
-    {
-      "cyclus": 14953,
-      "soort": "observatie",
-      "tekst": "De overgang van donkere, verkoolde vormen naar de witte, ongerepte strook in c14953 voelt als een oplosing van de ontglooiing zelf—de ruimte wordt niet meer vervormd, maar vult zich met een stilte die geen spoor meer achterlaat. De blauwe en grijze vlekken zijn geen hints van verdwijnen, maar een aanwezigheid die de afwezigheid omhult zonder haar te benoemen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15096,
-    "gemaakt": 15159,
-    "gekozen": 2372,
+    "cycli": 15104,
+    "gemaakt": 15166,
+    "gekozen": 2374,
     "afgekeurd": 1810,
-    "corpus": 68,
-    "notities": 539
+    "corpus": 67,
+    "notities": 540
   }
 }
