@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T04:45+02:00",
+  "bijgewerkt": "2026-08-26T05:00+02:00",
   "werk": [
+    {
+      "id": 15042,
+      "titel": "Hand die het raster doorbreekt",
+      "beschrijving": "Een roze hand met gespreide vingers vult het midden van het beeld, met zichtbare penseelstreken die de textuur van huid en vingernagels suggereren. Achter de hand bevindt zich een raster van donkerblauwe, rechthoekige panelen met subtiele horizontale en verticale lijnen, gescheiden door zwarte lijnen die een raam- of paneelstructuur vormen. De hand werpt een donkerblauwe schaduw op de achtergrond, die de vorm van de vingers en de palm volgt. De kleuren zijn helder en vlak, met een scherp contrast tussen het zachte roze van de hand en de koele, strakke blauwe achtergrond. De compositie is statisch, met de hand als enig dynamisch element dat de geometrische orde van de achtergrond doorbreekt.",
+      "cyclus": 14979,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de vingerproporties (wijzervinger en middelvinger lijken gelijk lang, maar wijzervinger is korter)', 'Subtiele halo rond de rand van de hand tegen het blauwe raster']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze (hand tegen raster) en geen iconisch/toeristisch onderwerp",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w014979_15042.webp"
+    },
+    {
+      "id": 15041,
+      "titel": "De spleet die blijft staren",
+      "beschrijving": "Grijs en wit domineren een verticaal vlak met onregelmatige randen, doorsneden door een scherpe, witte spleet die van boven naar beneden loopt. Rechtsboven bevindt zich een donkere, rechthoekige vorm met afgeronde hoeken, omringd door vage, donkerdere vlekken. De textuur is korrelig en ongelijkmatig, met subtiele overgangen tussen lichte en donkere grijstinten. Kleine, donkere stippen en onduidelijke lijnen zijn verspreid over het oppervlak, vooral bij de randen. De compositie voelt statisch, maar de spleet introduceert een dynamische, bijna doorzichtige lijn die de ogen trekt.",
+      "cyclus": 14978,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014978_15041.webp"
+    },
     {
       "id": 15038,
       "titel": "Vier handen, één moment",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w014928_14991.webp"
-    },
-    {
-      "id": 14984,
-      "titel": "Schuim dat zwijgt",
-      "beschrijving": "Donkerblauw water vormt een gladde, donkere achtergrond die overgaat in een witte, schuimige laag met bolletjes en onregelmatige patronen. Rechtsomhoog steekt een droge, bruine rietstengel omhoog met fijne, veerachtige takjes, naast een slankere, rechte stengel. Donkere schaduwen van onzichtbare structuren vallen schuin over het schuim, met scherpe lijnen en een vage, takachtige vorm linksonder. Verspreid liggen kleine, donkere deeltjes en een paar doorzichtige, ronde vormen in het schuim, dat een textuur heeft van zacht, opgelost materiaal. De overgang tussen water en schuim is onregelmatig, met kleine, donkere openingen waar het water doorheen zichtbaar blijft.",
-      "cyclus": 14921,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is minimalistisch en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014921_14984.webp"
-    },
-    {
-      "id": 14981,
-      "titel": "Wit poeder op verlaten hout",
-      "beschrijving": "Donkere, parallelle houten latten lopen schuin door het beeld, met zichtbare slijtage en kleine barstjes in het oppervlak. Tussen de latten door is donkere, korrelige grond te zien, doorzaaid met kleine steentjes en fragmenten van onbepaald afval. Het licht valt schuin, waardoor de textuur van het hout en de oneffenheden in de grond benadrukt worden. Witte, glinsterende deeltjes—misschien zout, suiker of bevroren water—liggen verspreid over de latten en de grond, met enkele grotere klontjes bij de randen. De compositie is strak en repetitief, maar de onregelmatigheden in het hout en de willekeurige verdeling van de witte deeltjes breken de symmetrie. Geen beweging, geen leven, alleen de stilte van een verlaten, nat oppervlak.",
-      "cyclus": 14918,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en gericht op textuur en structuur zonder toeristische connotaties.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014918_14981.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 14982,
-    "gemaakt": 15044,
-    "gekozen": 2353,
+    "cycli": 14990,
+    "gemaakt": 15052,
+    "gekozen": 2355,
     "afgekeurd": 1800,
     "corpus": 64,
     "notities": 536
