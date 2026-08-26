@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T05:45+02:00",
+  "bijgewerkt": "2026-08-26T06:00+02:00",
   "werk": [
+    {
+      "id": 15071,
+      "titel": "Nog nat papier",
+      "beschrijving": "Een verticaal formaat wordt gedomineerd door een zachtrood, waterverfacht vlak met subtiele kleurvariaties: donkerder aan de randen, lichter in het midden. De randen van het rode vlak zijn onregelmatig en wat onscherp, alsof de verf langzaam is gedroogd op papier. Een smalle strook wit randje loopt langs de onder- en bovenzijde, met een licht textuur-effect dat doet denken aan krasjes of korreligheid in het papier. Het midden van het rode vlak is homogeen, zonder duidelijke vormen of details, maar met een lichte glans die suggereert dat de verf nog net niet volledig droog is. De sfeer is rustig en open, zonder afleiding van patronen of onderwerpen.",
+      "cyclus": 15008,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015008_15071.webp"
+    },
+    {
+      "id": 15069,
+      "titel": "Vergeten lagen papier",
+      "beschrijving": "Grijs op grijs, in lagen die zich stapelen als vergeten herinneringen. Bovenaan een onrustige textuur, alsof papier zich langzaam ontbindt in korrels. Daaronder brede, donkere banden die zich uitstrekken als verlaten wegen, met subtiele schuine lijnen die een verlaten horizon suggereren. Het midden onthult een lichter vlak met vaag omschreven vormen, bijna als sporen van wat ooit bewoond was. Onderaan een landschap van donkere vlekken en onregelmatige patronen, alsof iets langzaam in het zand verdwijnt. Geen beweging, geen geluid—alleen de stilte van een wereld die zich langzaam oplost in textuur en toon.",
+      "cyclus": 15006,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015006_15069.webp"
+    },
     {
       "id": 15059,
       "titel": "Blauw dat zachtjes barst",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014972_15035.webp"
-    },
-    {
-      "id": 15013,
-      "titel": "Donkere sporen op de kust",
-      "beschrijving": "Een naakt lichaam staat met de rug naar de kijker, licht gedraaid, op een verlaten kustlijn. De huid is donker getekend met subtiele witte vlekken die als sporen of tekens lijken. De armen hangen los, de handen open en ontspannen. Rondsom liggen rotsen en puin, met een donkere, bewolkte hemel erboven. Het water is gestreept getekend, met kleine stenen en afval drijvend. De sfeer is zwaar en verlaten, met een gevoel van eenzaamheid en stilte. De lijnen zijn scherp en de contrasten hoog, wat de textuur van de huid en het landschap benadrukt.",
-      "cyclus": 14950,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in vingers van linkerhand', 'lichte inconsistentie in perspectief van achtergrondlandschap']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een eigen, ongemakkelijke spanning.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014950_15013.webp"
-    },
-    {
-      "id": 15006,
-      "titel": "Zonder uur, zonder minuut",
-      "beschrijving": "Twee zwarte, slanke wijzers vormen een scherpe V-vorm tegen een zachtroze achtergrond met subtiele grijze en witte penseelstreken. In het midden, waar de wijzers samenkomen, zit een kleine, donkere cirkel met een zilveren schroefje. De achtergrond heeft een ongelijkmatige textuur met zichtbare verflagen en lichte krassporen, alsof de kleur in lagen is aangebracht en gedeeltelijk weer is weggeslepen. De randen van het beeld zijn iets donkerder, met hier en daar een kleine vlek of onregelmatigheid. De wijzers lijken de ruimte te doorsnijden zonder een duidelijke richting aan te duiden, terwijl de achtergrond een gevoel van rust uitstraalt met zijn gedempte kleuren en kalme bewegingen.",
-      "cyclus": 14943,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, contemplatieve compositie zonder decoratief licht of toeristische associaties.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014943_15006.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15073,
+      "cyclus": 15010,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van bomen aan weerskanten van pad', 'Handen van figuur ontbreken/plat getekend']",
+      "cliche_notities": "Landschap met bloesemtjes en springende figuur herinnert aan typische voorjaars-ansichtkaart zonder onverwachte compositorische keuzes",
+      "bestand": "images/a015010_15073.webp"
+    },
     {
       "id": 15062,
       "cyclus": 14999,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld toont een klok, maar de focus op de onvolmaakte, bijna verwaarloosde textuur en de afwezigheid van een iconische achtergrond maken het geen typische ansichtkaart.",
       "bestand": "images/a014958_15021.webp"
-    },
-    {
-      "id": 15009,
-      "cyclus": 14946,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in golflengte en textuur aan horizon', 'lichte wazigheid in verre golven']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een kustlandschap met iconische golven en een serene horizon, zonder duidelijke compositorische keuze of eigen standpunt.",
-      "bestand": "images/a014946_15009.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15009,
-    "gemaakt": 15071,
-    "gekozen": 2358,
-    "afgekeurd": 1801,
-    "corpus": 65,
+    "cycli": 15017,
+    "gemaakt": 15079,
+    "gekozen": 2360,
+    "afgekeurd": 1802,
+    "corpus": 66,
     "notities": 537
   }
 }
