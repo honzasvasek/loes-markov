@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T08:00+02:00",
+  "bijgewerkt": "2026-08-26T08:15+02:00",
   "werk": [
+    {
+      "id": 15130,
+      "titel": "Vlam in handen, donkere heuvels",
+      "beschrijving": "Twee handen houden een doorzichtig, amorf voorwerp vast dat een vlam vormt, oranje en blauw, tegen een achtergrond van donkere, golvende heuvels in grijstinten met roze nuances. De voorgrond bestaat uit zwart, korrelig materiaal met verspreide koolstukken, wit poeder en metalen voorwerpen. De vlam staat centraal in de compositie, met de handen aan weerskanten, terwijl de heuvels de achtergrond vullen met zachte, wazige overgangen.",
+      "cyclus": 15067,
+      "tech_score": 7.0,
+      "tech_notities": "handen iets te perfect/steriel voor menselijke variatie, vuur heeft onnatuurlijke gladde randen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch landschap of toeristisch motief, maar een abstracte, denkbeeldige scène met een onverklaarbare handeling",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015067_15130.webp"
+    },
+    {
+      "id": 15127,
+      "titel": "Sporen die ademen",
+      "beschrijving": "Mots van nat zand, doorsneden door een smalle, glimmende spoor van water dat zich uitstrekt als een vertakte ader. Donkere, ronde druppels hangen in de lucht boven het zand, alsof ze net zijn geslagen. Dode, bruine stengels liggen willekeurig verspreid, sommige half begraven, andere drijvend in de modder. Kleine klontjes zand en fijn afval drijven in de natte laag. Het water reflecteert een vaag licht, terwijl het zand eromheen donkergrijs en korrelig is. Bubbels en kleine putjes prikken in het oppervlak, alsof de grond ademt. De compositie is ongelijkmatig, zonder duidelijke horizon of focus, alsof de kijker direct in het natte zand staart.",
+      "cyclus": 15064,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond donkere druppels in natte modder', 'lichte inconsistentie in textuur van droge stengels vs natte modder']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op subtiele processen in plaats van een bevestigend beeld",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015064_15127.webp"
+    },
     {
       "id": 15122,
       "titel": "Rook die vragen stelt",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015018_15081.webp"
-    },
-    {
-      "id": 15071,
-      "titel": "Nog nat papier",
-      "beschrijving": "Een verticaal formaat wordt gedomineerd door een zachtrood, waterverfacht vlak met subtiele kleurvariaties: donkerder aan de randen, lichter in het midden. De randen van het rode vlak zijn onregelmatig en wat onscherp, alsof de verf langzaam is gedroogd op papier. Een smalle strook wit randje loopt langs de onder- en bovenzijde, met een licht textuur-effect dat doet denken aan krasjes of korreligheid in het papier. Het midden van het rode vlak is homogeen, zonder duidelijke vormen of details, maar met een lichte glans die suggereert dat de verf nog net niet volledig droog is. De sfeer is rustig en open, zonder afleiding van patronen of onderwerpen.",
-      "cyclus": 15008,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015008_15071.webp"
-    },
-    {
-      "id": 15069,
-      "titel": "Vergeten lagen papier",
-      "beschrijving": "Grijs op grijs, in lagen die zich stapelen als vergeten herinneringen. Bovenaan een onrustige textuur, alsof papier zich langzaam ontbindt in korrels. Daaronder brede, donkere banden die zich uitstrekken als verlaten wegen, met subtiele schuine lijnen die een verlaten horizon suggereren. Het midden onthult een lichter vlak met vaag omschreven vormen, bijna als sporen van wat ooit bewoond was. Onderaan een landschap van donkere vlekken en onregelmatige patronen, alsof iets langzaam in het zand verdwijnt. Geen beweging, geen geluid—alleen de stilte van een wereld die zich langzaam oplost in textuur en toon.",
-      "cyclus": 15006,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015006_15069.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15135,
+      "cyclus": 15072,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "tekst/tekens in beeld",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een close-up van een klok met subtiele vervormingen en een ongemakkelijke compositie.",
+      "bestand": "images/a015072_15135.webp"
+    },
     {
       "id": 15108,
       "cyclus": 15045,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld heeft een iconisch onderwerp (klok) maar mist de typische ansichtkaartcompositie en decoratieve perfectie, en toont een ongemakkelijke, bijna onafgewerkte aanraking die een eigen standpunt suggereert.",
       "bestand": "images/a015034_15097.webp"
-    },
-    {
-      "id": 15096,
-      "cyclus": 15033,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Het beeld toont een klassiek horloge met Romeinse cijfers, een iconisch motief zonder eigen compositorische keuze of onverwachte invalshoek, typisch voor een ansichtkaartachtige voorstelling.",
-      "bestand": "images/a015033_15096.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15073,
+      "soort": "observatie",
+      "tekst": "De overgang van handen die zoeken naar een aanraking naar de leegte die de ruimte vult, voelt als een oplosing van de spanning zelf—niet meer zoeken naar wat ontbreekt, maar de afwezigheid laten spreken zonder een verhaal te vertalen."
+    },
+    {
       "cyclus": 15049,
       "soort": "observatie",
       "tekst": "De handen in c15049 en c15040 zoeken niet meer naar een aanraking, maar naar een spanning die de ruimte tussen hen vult—niet als afwezigheid, maar als een taal die zich weigert te laten vertalen in beweging of vorm. De overgang van donkere penseelstrepen naar lichte nagels is geen contrast meer, maar een stille dialog tussen wat er ooit was en wat er nog overblijft."
@@ -252,11 +257,6 @@
       "cyclus": 14953,
       "soort": "observatie",
       "tekst": "De overgang van donkere, verkoolde vormen naar de witte, ongerepte strook in c14953 voelt als een oplosing van de ontglooiing zelf—de ruimte wordt niet meer vervormd, maar vult zich met een stilte die geen spoor meer achterlaat. De blauwe en grijze vlekken zijn geen hints van verdwijnen, maar een aanwezigheid die de afwezigheid omhult zonder haar te benoemen."
-    },
-    {
-      "cyclus": 14941,
-      "soort": "observatie",
-      "tekst": "De donkere cirkels en de handen op de muur in de laatste beelden delen een ongemakkelijke spanning: ze vullen de ruimte niet meer met een verhaal, maar met een aanwezigheid die zich weigert te laten benoemen. De overgang van landschappen en patronen naar deze intiemere, bijna tastbare vormen voelt als een verschuiving van ontglooiing naar iets dat dichter bij de kern ligt—niet meer zoeken naar wat verdwenen is, maar naar wat er nog overblijft van een aanraking die nooit plaatsvond."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15072,
-    "gemaakt": 15134,
-    "gekozen": 2368,
-    "afgekeurd": 1806,
-    "corpus": 67,
-    "notities": 538
+    "cycli": 15077,
+    "gemaakt": 15140,
+    "gekozen": 2370,
+    "afgekeurd": 1807,
+    "corpus": 66,
+    "notities": 539
   }
 }
