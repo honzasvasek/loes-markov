@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T15:00+02:00",
+  "bijgewerkt": "2026-08-26T15:15+02:00",
   "werk": [
+    {
+      "id": 15324,
+      "titel": "Ringen in het donker",
+      "beschrijving": "Zwart hout, opgesplitst in onregelmatige blokken en staven, ligt gestapeld op een ruwe, donkere ondergrond. De snijvlakken tonen concentrische ringen en holtes, met ruwe, uitgesletene randen. Een klein, gebroken stuk hout ligt voorop, omringd door fijn afval en korrels. De achtergrond is een egale, heldere witte vlakte, die het donkere hout scherper doet uitkomen. Licht valt schuin van bovenaf, waardoor de textuur van het hout en de diepte van de holtes zichtbaar worden. De compositie is statisch, met de houten vormen die de voor- en middengrond domineren, terwijl de achtergrond leeg blijft.",
+      "cyclus": 15261,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het toont een abstracte, bijna sculpturale compositie van hout met een focus op textuur en vorm, zonder iconische of decoratieve elementen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015261_15324.webp"
+    },
+    {
+      "id": 15321,
+      "titel": "Spleet in het donker straalt uit",
+      "beschrijving": "Donkere, amorf gevormde blokken domineren het beeld, met scherpe en zachte randen die tegen elkaar aan liggen. Tussen de blokken door loopt een smalle, lichte spleet met golvende, stralende lijnen die een vaag licht effect creëren. De achtergrond bestaat uit subtiele, concentrische patronen die uitstralen vanaf de spleet. Onderin het beeld liggen onregelmatige, donkere vormen die lijken op afval of brokstukken, met enkele kleine, lichte vlekken erin. De hele compositie heeft een ruwe, getekende textuur met zichtbare strepen en schaduwen die diepte suggereren. De kleuren zijn monochroom, met verschillende tinten grijs en zwart, wat een zware, bijna dreigende sfeer oproept.",
+      "cyclus": 15258,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015258_15321.webp"
+    },
     {
       "id": 15312,
       "titel": "Roze met sporen van verleden",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015198_15261.webp"
-    },
-    {
-      "id": 15256,
-      "titel": "Wat overblijft na de vuurstorm",
-      "beschrijving": "Donkere, verkoolde randen omlijsten een ongelijkmatige, grijze vlakte met subtiele textuurvariaties. Bruine en oranje tinten lopen als een smalle, onregelmatige band door de boven- en onderkant, waar het verkoolde materiaal overgaat in een lichtere, korrelige onderlaag. Enkele dunne, lichte vezels steken uit de donkere, gebarsten oppervlakte, die een ruwe, broze structuur onthult. De compositie wordt gedomineerd door diagonale lijnen die de verschillende lagen van materiaal van elkaar scheiden, terwijl de ruimte tussen de lagen een gevoel van diepte en afwezigheid creëert. De kleuren zijn gedempt, met kleine accenten van roestbruin en beige die de textuur van het materiaal benadrukken.",
-      "cyclus": 15193,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015193_15256.webp"
-    },
-    {
-      "id": 15247,
-      "titel": "Gras dat zwijgt over de regen",
-      "beschrijving": "Lange, slanke grasstengels vullen het beeld, in verschillende groen- en bruintinten, met donkere en lichte strepen die door de stengels lopen. Sommige stengels zijn donkerbruin of zwart, andere glanzen lichtgroen of beige. Kleinere, droge stengels en takjes liggen verspreid tussen het gras. Donkere, ronde vormen, mogelijk zaadkoppen of kleine stenen, steken hier en daar uit. De achtergrond is vaag, met zachte, onduidelijke penseelstreken in beige en lichtgrijs, alsof er een nevel hangt boven het gras. Kleiner, goudkleurige en witte vlekjes zijn verspreid door het beeld, alsof er iets lichts door de lucht zweeft. De stengels staan dicht op elkaar, met sommige die schuin of gebogen lopen, terwijl andere recht omhoog gaan. Het geheel heeft een natte, glanzende textuur, alsof het gras recent regen heeft gezien.",
-      "cyclus": 15184,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van achtergrond (linksboven vs rechtsonder)', 'enkele grashalmen lijken onnatuurlijk scherp tegen wazige achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is bewust ongemakkelijk en onbeheerst.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015184_15247.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15323,
+      "cyclus": 15260,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een intieme, persoonlijke inscriptie met een ongemakkelijke schoonheid.",
+      "bestand": "images/a015260_15323.webp"
+    },
     {
       "id": 15302,
       "cyclus": 15239,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met een klok als metaforisch element.",
       "bestand": "images/a015227_15290.webp"
-    },
-    {
-      "id": 15289,
-      "cyclus": 15226,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de brug ten opzichte van de kerk', 'lichte wazigheid in de textuur van de bomen aan weerskanten']",
-      "cliche_notities": "Dit beeld past bij een toeristische ansichtkaart door het iconische onderwerp (kerk met spits en waterloop) en de decoratieve, evenwichtige compositie zonder duidelijke persoonlijke keuzes.",
-      "bestand": "images/a015226_15289.webp"
     }
   ],
   "onderzoek": {
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15260,
-    "gemaakt": 15322,
-    "gekozen": 2397,
-    "afgekeurd": 1824,
-    "corpus": 68,
+    "cycli": 15266,
+    "gemaakt": 15328,
+    "gekozen": 2399,
+    "afgekeurd": 1825,
+    "corpus": 69,
     "notities": 543
   }
 }
