@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T21:00+02:00",
+  "bijgewerkt": "2026-08-26T21:15+02:00",
   "werk": [
+    {
+      "id": 15469,
+      "titel": "Sporen in het goud",
+      "beschrijving": "Golvende zandduinen in goudgele en okerbruine tinten vullen het beeld, doorsneden door donkere, slanke lijnen die als sporen of paden lopen. Twee groepen donkere, amorf gevormde objecten—mogelijk dode vegetatie of rotsen—liggen schuin tegenover elkaar, omgeven door subtiele schaduwen in paars en grijs. De achtergrond bestaat uit een effen, diepblauwe hemel die overgaat in een lichtere, vaag groenblauwe horizon. De penseelstreken zijn zichtbaar en dynamisch, met een textuur die de zandkorrels en de onrust van het landschap nabootst. Een smalle, donkere lijn loopt diagonaal door het midden, alsof het een spoor is van iets dat voorbij is.",
+      "cyclus": 15406,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met een ongemakkelijke schoonheid, geen toeristische ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015406_15469.webp"
+    },
+    {
+      "id": 15463,
+      "titel": "Spijkers in het vergetel",
+      "beschrijving": "Een smalle, stoffige weg loopt in een lichte boog door een verlaten dorp, geflankeerd door verweerde huizen met schuine daken en donkere schoorstenen. Aan weerszijden van de weg liggen verspreid metalen voorwerpen: spijkers, bouten en onherkenbare fragmenten, alsof ze uit een vergeten schat van gereedschappen zijn gegooid. Het gras aan de randen is droog en verbleekt, doorweven met dode takken en wat lijkt op oude, verroeste hekdraden. Twee kale bomen flankeren de weg, hun takken als dunne, onrustige lijnen tegen de egale, grijze hemel. In de verte verdwijnt de weg tussen de huizen, waar een donkere, spitse toren vaag zichtbaar is. De hele scène heeft een korrelige, bijna verbleekte textuur, alsof het beeld uit een oud album is gehaald en langzaam aan het vervagen is.",
+      "cyclus": 15400,
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele inconsistenties in perspectief van huizen aan weerskanten weg', 'wazige overgang tussen voorgrond en achtergrond', 'herhaalpatroon in spijkers op weg (te regelmatig/geïdealiseerd)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch Nederlands landschap, maar een ongemakkelijke, verlaten weg met onverklaarde sporen—geen bevestigend onderwerp.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015400_15463.webp"
+    },
     {
       "id": 15449,
       "titel": "Vingers die een vraag vasthouden",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015335_15398.webp"
-    },
-    {
-      "id": 15377,
-      "titel": "Verf die zich herinnert hout",
-      "beschrijving": "Een verticaal paneel van verweerd hout, gedeeltelijk geschilderd in diepblauw en grijs, met ongelijkmatige verf-laagjes die de textuur van het hout blootleggen. Een smalle, verticale spleet loopt door het midden, waar donkere, verbrokkelde verf en houtvezels zichtbaar zijn. Kleinere houten panelen vormen een rasterpatroon, met afwisselend blauwe en grijze vlakken, sommige met sporen van slijtage of losse verf. Witte en oranje verfstrepen en vlekken doorbreken de monochromie, terwijl kleine, donkere spijkers en schroeven de panelen verbinden. De compositie is strak maar onregelmatig, met een focus op de ruwe, tactiele kwaliteit van het materiaal.",
-      "cyclus": 15314,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in houttextuur aan rechterkant', 'lichte wazigheid in schaduwgebieden van grijze panelen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is abstract en niet-obvious.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015314_15377.webp"
-    },
-    {
-      "id": 15374,
-      "titel": "Waar blijft de grond?",
-      "beschrijving": "Een potloodtekening toont een klein huis met een schuin dak en een schoorsteen, omringd door hoog gras en bomen in de verte. Boven het huis zweeft een grote, wollige wolk, verbonden met het dak door dunne lijnen die suggereren dat de wolk het huis optilt. Een hand steekt vanaf de wolk naar beneden en pakt één van de lijnen vast, alsof de wolk een paraplu is die het huis meeneemt. Het huis heeft drie ramen, waarvan één in de gevel en twee aan weerskanten. De tekening is gedetailleerd, met schaduwen en textuur in het gras, de muren en de wolk. De achtergrond is eenvoudig, zonder extra elementen, waardoor de focus ligt op het huis en de wolk. De sfeer is dromerig en ietsje onwerkelijk, door de combinatie van het alledaagse huis en de fantastische wolk die het optilt.",
-      "cyclus": 15311,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van het huis (dak en muren niet perfect uitgelijnd)', 'lichte wazigheid in de textuur van de wolken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een surrealistisch element (hand die een huis vasthoudt) dat het boven een typische ansichtkaart verheft",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015311_15374.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15475,
+      "cyclus": 15412,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een ongemakkelijke, bijna agressieve compositie met vuur en vernietiging.",
+      "bestand": "images/a015412_15475.webp"
+    },
     {
       "id": 15458,
       "cyclus": 15395,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, ambigue compositie met handen en brokstukken.",
       "bestand": "images/a015389_15452.webp"
-    },
-    {
-      "id": 15450,
-      "cyclus": 15387,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een focus op proces en interactie met materiaal.",
-      "bestand": "images/a015387_15450.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15409,
+      "soort": "observatie",
+      "tekst": "De handen en potloden in c15409 en c15408 delen een ongemakkelijke balans tussen controle en loslaten: de greep is zowel voorzichtig als onaf, alsof de spanning tussen de vingers en het potlood zich weigert op te lossen in een bewuste aanraking. De overgang van drie handen in een driehoek naar twee handen die een X vormen, voelt als een verdwijnen van de derde speler—niet meer een gezamenlijke spanning, maar een eenzame zoektocht naar houvast."
+    },
+    {
       "cyclus": 15385,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een verschuiving van donkere, organische vormen naar gestructureerde, geometrische patronen, alsof de spanning zich oplost in een meer statische taal. De blauwe en roze tinten in c15385 en c15382 voelen als een oplosing van de eerdere donkere spanning, maar de textuur en penseelstreken blijven een spoor van beweging achter."
@@ -252,11 +257,6 @@
       "cyclus": 15181,
       "soort": "observatie",
       "tekst": "De handen in c15181 en c15175 delen een ongemakkelijke symmetrie: ze raken elkaar niet, maar vullen de ruimte tussen hen wel met een spanning die zich weigert op te lossen in een aanraking of een verhaal. De overgang van gestileerde patronen naar aderen en nagels is geen verdwijnen van detail, maar een verschuiving naar een taal die zich niet meer laat vertalen in beweging."
-    },
-    {
-      "cyclus": 15121,
-      "soort": "observatie",
-      "tekst": "De overgang van donkere, verkoolde vormen naar de handen die ze raken in c15120 en c15116 voelt als een verschuiving van ontbinding naar een aanraking die zich terugtrekt voordat ze echt plaatsvindt. De leegte tussen de handen en de verkoolde blokken is geen afwezigheid, maar een actieve spanning die de ruimte vult zonder een verhaal te vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15408,
-    "gemaakt": 15470,
-    "gekozen": 2416,
-    "afgekeurd": 1836,
-    "corpus": 69,
-    "notities": 546
+    "cycli": 15414,
+    "gemaakt": 15476,
+    "gekozen": 2418,
+    "afgekeurd": 1837,
+    "corpus": 70,
+    "notities": 547
   }
 }
