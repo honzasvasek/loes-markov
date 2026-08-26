@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T17:00+02:00",
+  "bijgewerkt": "2026-08-26T17:15+02:00",
   "werk": [
+    {
+      "id": 15358,
+      "titel": "Bevroren spetters in beweging",
+      "beschrijving": "Witte en grijze vloeistoffen vormen een dynamisch patroon van spetters, draden en bubbels tegen een donkere, golvende achtergrond. Donkere en lichte strepen lopen diagonaal door het beeld, terwijl witte vormen met scherpe randen en ronde holtes door elkaar lopen. Kleine zwarte en witte stippen zijn verspreid over het geheel, sommige als afzonderlijke punten, andere als clusters. De witte structuren hebben een glanzende, bijna transparante kwaliteit, met subtiele overgangen naar grijs. Donkere vlakken vormen contrasterende ruimtes tussen de witte vormen, waarbij sommige gebieden diep zwart zijn en andere zacht grijzer. De compositie straalt een gevoel van beweging uit, alsof de vloeistoffen net bevroren zijn in een moment van actie.",
+      "cyclus": 15295,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende ansichtkaart-esthetiek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015295_15358.webp"
+    },
+    {
+      "id": 15355,
+      "titel": "Handen die de polder vastgrijpen",
+      "beschrijving": "Twee verweerde houten schuren staan halfverzonken in een overgroeide polder, hun dakpannen los en verbleekt, omringd door stengras en dode takken. Boven hen zweven twee reusachtige, getatoeëerde armen met verweerde handen die een slordige knoop van draden vasthouden, alsof ze de schuren net uit de lucht zouden plukken. Een derde hand steekt door het dak van de rechter schuur, vingers gespreid alsof ze de houten latten probeert te omvatten. Het water voor de schuren weerspiegelt de grijze, bewolkte hemel, terwijl in de achtergrond een verlaten, verweerd gebouw met een schuine daklijn de horizon domineert. De kleuren zijn gedempt: bruin, grijs en groen, met subtiele tinten roest en modder. De sfeer is verlaten, maar er ligt een ongemakkelijke spanning in de positie van de handen en de verwaarloosde staat van de schuren.",
+      "cyclus": 15292,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van handen op muur', 'lichte wazigheid in textuur van houten schuren']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een ongemakkelijke, denkbare spanning.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015292_15355.webp"
+    },
     {
       "id": 15346,
       "titel": "Rood dat stilstaat",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w015241_15304.webp"
-    },
-    {
-      "id": 15299,
-      "titel": "Waar blijft de vijfde?",
-      "beschrijving": "Vier blauwe houten blokken met zichtbare korrel en kleine gaten liggen schuin op een getekende, gekrastte ondergrond. Een hand met uitgesproken aderen en korte nagels raakt het middelste blok aan, de vingers gespreid alsof ze het evenwicht willen doorbreken. Donkere schaduwen onder de blokken en de hand geven diepte, terwijl witte krassen en strepen door de achtergrond lopen. De kleuren zijn gedempt, met blauw en grijs als dominante tinten, en de textuur van het papier is zichtbaar in de randen. De compositie is dynamisch, met de blokken die een diagonale lijn vormen en de hand die die lijn onderbreekt.",
-      "cyclus": 15236,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in vingers van hand', 'lichte inconsistentie in schaduwval bij blokken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is gericht op spanning tussen aanraking en afwezigheid.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015236_15299.webp"
-    },
-    {
-      "id": 15273,
-      "titel": "Verf en vingers op stof",
-      "beschrijving": "Een roze jurk vult het beeld, met zichtbare penseelstreken die de textuur van de stof nabootsen. Een hand rust op de jurk, de vingers gespreid, terwijl een andere hand met een paletmes donkere verf aanbrengt bij de halslijn. Boven de jurk is een deel van een gezicht zichtbaar: een mond met roze lippen en donker haar dat over de schouders valt. De achtergrond is vaag en lichtgrijs, waardoor de focus op de handen en de jurk ligt. De kleuren zijn zacht en de sfeer is intiem en concentrerend.",
-      "cyclus": 15210,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in de vingers van de hand die het paletmes vasthoudt: de wijsvinger lijkt te kort en de duim te slank voor een natuurlijke hand', 'lichte wazigheid in de achtergrond van het haar, alsof de texturen niet volledig scherp zijn gegenereerd']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (een portret met een paletmes) is niet iconisch of decoratief, en de compositie heeft een persoonlijke, intieme spanning die verder gaat dan een standaardportret.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015210_15273.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15365,
+      "cyclus": 15302,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Het beeld toont een klok met een verfijnde, bijna intieme weergave van verfstralen en textuur, wat verder gaat dan een typische ansichtkaartweergave.",
+      "bestand": "images/a015302_15365.webp"
+    },
     {
       "id": 15356,
       "cyclus": 15293,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een intieme, persoonlijke inscriptie met een ongemakkelijke schoonheid.",
       "bestand": "images/a015260_15323.webp"
-    },
-    {
-      "id": 15302,
-      "cyclus": 15239,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de reflecties van de bomen in het water: de stammen zijn duidelijker dan de takken, wat onrealistisch is', 'De windmolen heeft een iets te perfecte symmetrie voor een natuurlijk tafereel, wat artificieel overkomt']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie met een Nederlandse windmolen, bomen en water, uitgevoerd in een decoratieve watercolorstijl zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a015239_15302.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15300,
-    "gemaakt": 15363,
-    "gekozen": 2403,
-    "afgekeurd": 1826,
+    "cycli": 15307,
+    "gemaakt": 15369,
+    "gekozen": 2405,
+    "afgekeurd": 1827,
     "corpus": 69,
     "notities": 543
   }
