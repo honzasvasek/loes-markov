@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T21:45+02:00",
+  "bijgewerkt": "2026-08-26T22:00+02:00",
   "werk": [
+    {
+      "id": 15486,
+      "titel": "Waar begint de rook?",
+      "beschrijving": "Een verticaal doek wordt gedomineerd door een diepblauwe bovenkant die geleidelijk overgaat in zachte roze en lila tinten aan de onderkant. De overgang tussen de kleuren is vloeiend, met subtiele, wazige vormen die aan wolken of rook doen denken. In de middelste laag zijn donkerder blauwe en roze vlekken te zien die een gevoel van diepte creëren, terwijl de onderkant van het doek meer diffuse, vaag omschreven vormen bevat. De textuur van het schilderij is zichtbaar, met lichte penseelstreken die de kleuren met elkaar verbindingen en een dynamische, bijna bewegende sfeer oproepen. Er zijn geen duidelijke onderwerpen of figuren af te leiden, waardoor de compositie abstract en openblijft voor interpretatie.",
+      "cyclus": 15423,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015423_15486.webp"
+    },
+    {
+      "id": 15484,
+      "titel": "Wat blijft achter in de koffer",
+      "beschrijving": "Een blauw metalen apparaat met een langgerekt lichaam, een handvat en een ronde basis rust schuin op een donkergrijze, getextureerde ondergrond. Naast het apparaat bevinden zich twee houten koffers met scharnieren en sluitingen, waarvan één openstaat en een donkere binnenkant onthult. Een houten staaf met een metalen punt steekt schuin uit de open koffer en raakt het blauwe apparaat. De achtergrond bestaat uit donkere, vaag geschilderde vormen in bruin en grijs, met subtiele blauwe en oranje tinten die de sfeer verdonkeren. De penseelstreken zijn zichtbaar en geven een ruwe, bijna verwaarloosde uitstraling aan de scène.",
+      "cyclus": 15421,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van houten koffers', 'lichte wazigheid in schaduwpartijen achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en ongemakkelijk",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015421_15484.webp"
+    },
     {
       "id": 15480,
       "titel": "Vingers in verf",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015358_15421.webp"
-    },
-    {
-      "id": 15409,
-      "titel": "Vloeistof tussen de scheuren",
-      "beschrijving": "Donkere, golvende lijnen snijden door een ongelijkmatig oppervlak met een mix van bruine, oranje en grijze tinten. Glanzende, donkere vloeistof stroomt in smalle banen door het beeld, omgeven door ruwe, poruzeuze structuren met putjes en bulten. Lichtere, bijna witte plekken contrasteren met donkere, verdonkerde zones, terwijl oranjeachtige vlekken een warme gloed uitstralen. Kleine, ronde vormen en onregelmatige patronen vullen de ruimte tussen de lijnen, met een textuur die zowel droog als nat lijkt.",
-      "cyclus": 15346,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015346_15409.webp"
-    },
-    {
-      "id": 15402,
-      "titel": "Het mes dat door dromen snijdt",
-      "beschrijving": "Donkere, verweerde houten planken vormen de basis, waar een mes met een houten steel en gouden beslag een geelachtige, halfvaste substantie doorsnijdt. Witte, romige golven van een onduidelijke stof glijden over het donkere oppervlak, met fijne, golvende patronen die zich uitstrekken naar een donker gat in het hout. Door dat gat steekt een hand met uitgestrekte vingers, alsof het de stof wil aanraken of vastgrijpen. Oranje en bruine spleetjes in het hout en kleine, donkere deeltjes verspreid over het oppervlak voegen zich bij de textuur van verweering en beweging. De blauwe rand van een plank loopt schuin door het beeld, en vormt een scherpe tegenstelling met de organische vormen en de donkere, chaotische achtergrond.",
-      "cyclus": 15339,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming vingers hand in gat', 'onduidelijke overgang tussen witte vloeistof en donkere achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; beeld heeft een ongemakkelijke, intieme spanning zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015339_15402.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 15429,
-    "gemaakt": 15491,
-    "gekozen": 2420,
+    "cycli": 15435,
+    "gemaakt": 15497,
+    "gekozen": 2422,
     "afgekeurd": 1839,
     "corpus": 70,
     "notities": 547
