@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-26T20:00+02:00",
+  "bijgewerkt": "2026-08-26T20:15+02:00",
   "werk": [
+    {
+      "id": 15441,
+      "titel": "Vingers op een breath afstand",
+      "beschrijving": "Twee handen, donker van textuur en detail, strekken naar elkaar in een bijna aanraking, waarbij de vingers zachtjes elkaar raken of net buiten bereik blijven. De huid is rijk aan plooien, aderen en kleine oneffenheden, met nagels die kort en donker zijn bijgesnoeid. De achtergrond is een egale, lichte grijstint die de handen scherper laat uitkomen, terwijl rechtsboven een onscherp, donker silhouet van wat mogelijk een schouder of kledingstuk is, de compositie een onvoltooide, open sfeer geeft. De belichting benadrukt de textuur van de huid en de spanning tussen de handen, zonder dat er een duidelijke bron van licht zichtbaar is.",
+      "cyclus": 15378,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De handen zijn geen iconisch motief en de compositie heeft een ongemakkelijke, niet-decoratieve spanning.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015378_15441.webp"
+    },
     {
       "id": 15421,
       "titel": "Waar blijven de wortels?",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015295_15358.webp"
-    },
-    {
-      "id": 15355,
-      "titel": "Handen die de polder vastgrijpen",
-      "beschrijving": "Twee verweerde houten schuren staan halfverzonken in een overgroeide polder, hun dakpannen los en verbleekt, omringd door stengras en dode takken. Boven hen zweven twee reusachtige, getatoeëerde armen met verweerde handen die een slordige knoop van draden vasthouden, alsof ze de schuren net uit de lucht zouden plukken. Een derde hand steekt door het dak van de rechter schuur, vingers gespreid alsof ze de houten latten probeert te omvatten. Het water voor de schuren weerspiegelt de grijze, bewolkte hemel, terwijl in de achtergrond een verlaten, verweerd gebouw met een schuine daklijn de horizon domineert. De kleuren zijn gedempt: bruin, grijs en groen, met subtiele tinten roest en modder. De sfeer is verlaten, maar er ligt een ongemakkelijke spanning in de positie van de handen en de verwaarloosde staat van de schuren.",
-      "cyclus": 15292,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van handen op muur', 'lichte wazigheid in textuur van houten schuren']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie heeft een ongemakkelijke, denkbare spanning.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015292_15355.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15385,
+      "soort": "observatie",
+      "tekst": "De recente beelden tonen een verschuiving van donkere, organische vormen naar gestructureerde, geometrische patronen, alsof de spanning zich oplost in een meer statische taal. De blauwe en roze tinten in c15385 en c15382 voelen als een oplosing van de eerdere donkere spanning, maar de textuur en penseelstreken blijven een spoor van beweging achter."
+    },
+    {
       "cyclus": 15373,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als spoor naar ontbinding als actieve oplosing die de ruimte vormt zonder een verhaal of gevoel te hoeven hebben."
@@ -252,11 +257,6 @@
       "cyclus": 15121,
       "soort": "observatie",
       "tekst": "De overgang van donkere, verkoolde vormen naar de handen die ze raken in c15120 en c15116 voelt als een verschuiving van ontbinding naar een aanraking die zich terugtrekt voordat ze echt plaatsvindt. De leegte tussen de handen en de verkoolde blokken is geen afwezigheid, maar een actieve spanning die de ruimte vult zonder een verhaal te vertellen."
-    },
-    {
-      "cyclus": 15097,
-      "soort": "observatie",
-      "tekst": "De verkoolde houten blokken en de handen die erop rusten in c15097 en c15095 delen een ongemakkelijke stilte: ze vullen de ruimte niet meer met een verhaal, maar met een aanwezigheid die zich weigert te laten benoemen. De overgang van donkere, verkoolde vormen naar de handen die ze raken, voelt als een verschuiving van ontbinding naar een aanraking die zich terugtrekt voordat ze echt plaatsvindt."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15380,
-    "gemaakt": 15442,
-    "gekozen": 2413,
+    "cycli": 15387,
+    "gemaakt": 15449,
+    "gekozen": 2414,
     "afgekeurd": 1833,
     "corpus": 69,
-    "notities": 545
+    "notities": 546
   }
 }
