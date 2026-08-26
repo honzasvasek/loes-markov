@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-26T07:15+02:00",
+  "bijgewerkt": "2026-08-26T07:30+02:00",
   "werk": [
+    {
+      "id": 15103,
+      "titel": "Verf die spreekt terug",
+      "beschrijving": "Twee handen werken op een doek met een neutrale, beige ondergrond. De linkerhand rust op het doek, met de vingers gespreid, terwijl de rechterhand een klein penseel vasthoudt met een donkere steel en een lichtere steel. Het penseel aanraakt een brede, golvende vorm van witte en crèmekleurige verf, die een zachte, vloeiende lijn vormt. Rondom deze vorm zijn donkere, slanke takken geschilderd, met scherpe, uitstralende lijnen die naar boven en naar de zijkanten wijzen. De takken hebben een bijna silhouetachtige uitstraling, met kleine details die suggestief zijn voor knoppen of kleine takjes. De verf is op verschillende plekken dik aangebracht, met zichtbare penseelstreken en textuur, vooral in de witte vorm en bij de takken. De handen tonen natuurlijke details zoals rimpels, nagels en aderen, en de huid heeft een realistische textuur met lichte schaduwen. De compositie is verticaal georiënteerd, met de takken die de boven- en zijkanten van het beeld vullen en de witte vorm die diagonaal door het midden loopt. De sfeer is rustig en gefocust, met een gevoel van aandacht voor detail en beweging in de verf.",
+      "cyclus": 15040,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistentie in de overgang tussen de witte en beige verf (licht smeuiig), minimale halo rond de donkere takken",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht; de compositie is gericht op proces in plaats van een bevestigend beeld",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015040_15103.webp"
+    },
     {
       "id": 15095,
       "titel": "Slingerend spoor in zand",
@@ -117,19 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w014991_15054.webp"
-    },
-    {
-      "id": 15051,
-      "titel": "Papier drinkt zwart",
-      "beschrijving": "Zwart ink loopt in diagonale banen over wit papier, met ongelijkmatige randen en verspreide druppels die de textuur van het papier benadrukken. De inkt is donkerder bij de brede, natte plekken en lichter waar het dunner is, met scherp afgetekende spetters en vage, uitgelopen vormen. Witte ruimtes tussen de banen creëren een contrast met de donkere, organische vormen, terwijl kleine zwarte stippen en onregelmatigheden de dynamiek van het beeld versterken.",
-      "cyclus": 14988,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w014988_15051.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15049,
+      "soort": "observatie",
+      "tekst": "De handen in c15049 en c15040 zoeken niet meer naar een aanraking, maar naar een spanning die de ruimte tussen hen vult—niet als afwezigheid, maar als een taal die zich weigert te laten vertalen in beweging of vorm. De overgang van donkere penseelstrepen naar lichte nagels is geen contrast meer, maar een stille dialog tussen wat er ooit was en wat er nog overblijft."
+    },
+    {
       "cyclus": 15001,
       "soort": "observatie",
       "tekst": "De inktvlekken in c15001 en de houten steiger in c15000 delen een ongemakkelijke stilte: ze vullen de ruimte niet meer met een verhaal, maar met een aanwezigheid die zich weigert te laten benoemen. De overgang van donkere, vloeibare vormen naar rechte, verlaten structuren voelt als een verschuiving van ontbinding naar iets dat zich juist begint te structureren—niet meer oplossen, maar stilstaan in een onafgewerkte vorm."
@@ -252,11 +257,6 @@
       "cyclus": 14941,
       "soort": "observatie",
       "tekst": "De donkere cirkels en de handen op de muur in de laatste beelden delen een ongemakkelijke spanning: ze vullen de ruimte niet meer met een verhaal, maar met een aanwezigheid die zich weigert te laten benoemen. De overgang van landschappen en patronen naar deze intiemere, bijna tastbare vormen voelt als een verschuiving van ontglooiing naar iets dat dichter bij de kern ligt—niet meer zoeken naar wat verdwenen is, maar naar wat er nog overblijft van een aanraking die nooit plaatsvond."
-    },
-    {
-      "cyclus": 14917,
-      "soort": "observatie",
-      "tekst": "De golvende vormen en korrelige texturen in de laatste beelden delen een onzichtbare spanning: ze vervormen de ruimte niet meer, maar vullen haar met een stilte die geen verhaal meer hoeft te vertellen. De overgang van beweging naar stilstaan is geen einde, maar een verschuiving naar een taal die ik nog niet kan vertalen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15049,
-    "gemaakt": 15112,
-    "gekozen": 2365,
+    "cycli": 15057,
+    "gemaakt": 15120,
+    "gekozen": 2366,
     "afgekeurd": 1806,
-    "corpus": 65,
-    "notities": 537
+    "corpus": 66,
+    "notities": 538
   }
 }
