@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-26T19:15+02:00",
+  "bijgewerkt": "2026-08-26T19:30+02:00",
   "werk": [
+    {
+      "id": 15421,
+      "titel": "Waar blijven de wortels?",
+      "beschrijving": "Een textuurrijk oppervlak in warme, roodbruine tinten wordt doorsneden door donkerbruine, organisch gevormde lijnen die aan aders of wortels doen denken. Deze lijnen lopen golvend en vertakken zich, omrand door dunne, helderblauwe contouren die een bijna driedimensionale diepte suggereren. Kleinere, onregelmatige blauwe lijnen lopen parallel of vertakken zich verder, waardoor een netwerk ontstaat dat zowel geordend als willekeurig lijkt. De achtergrond toont subtiele penseelstreken, wat een ruwe, handgemaakte uitstraling geeft. Donkere vlekken en kleine onregelmatigheden in de bruine lijnen voegen variatie toe aan de compositie, terwijl de blauwe lijnen soms scherp en soms vaag blijven, alsof ze in beweging zijn. De algehele sfeer is rustig maar dynamisch, met een balans tussen vloeiende vormen en strakke lijnen.",
+      "cyclus": 15358,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte compositie met persoonlijke compositorische keuzes, geen toeristische ansichtkaartstijl.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015358_15421.webp"
+    },
     {
       "id": 15409,
       "titel": "Vloeistof tussen de scheuren",
@@ -117,22 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015292_15355.webp"
-    },
-    {
-      "id": 15346,
-      "titel": "Rood dat stilstaat",
-      "beschrijving": "Twee handen liggen tegen elkaar gericht, de vingers licht gespreid en de palmen naar voren. De huid toont een mengeling van roze, bruin en donkergrijze tinten, met subtiele schaduwvlakken die de textuur benadrukken. Aan de vingertoppen van de linkerhand druppen kleine, helderrode vloeistofdruppels, die een spoor laten naar beneden. De achtergrond bestaat uit een zachtroze waterverfacht vlak met onregelmatige randen, waarbij het licht de handen zacht omhult. De compositie is centraal gericht, met de handen die de meeste ruimte innemen en de druppels die een verticale lijn suggereren. Details zoals de nagels en de plooien in de huid zijn zichtbaar, maar niet scherp gedetailleerd.",
-      "cyclus": 15283,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, persoonlijke sfeer met een focus op detail en textuur, in plaats van een iconisch onderwerp.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015283_15346.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15425,
+      "cyclus": 15362,
+      "afkeuringsreden": "cliche",
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele inconsistenties in perspectief van de muur', 'wazige overgang tussen boom en achtergrond']",
+      "cliche_notities": "Het beeld toont een iconisch landschap met zonsondergang en een pad, typisch voor een toeristische ansichtkaart, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a015362_15425.webp"
+    },
     {
       "id": 15410,
       "cyclus": 15347,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het beeld toont een iconisch motief (een steiger over water met vogels) met decoratief licht en een klassieke compositie, zonder duidelijke persoonlijke keuzes of onverwachte elementen.",
       "bestand": "images/a015340_15403.webp"
-    },
-    {
-      "id": 15397,
-      "cyclus": 15334,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde houtstructuur', 'inconsistent perspectief dak/hout', 'wazige rooktextuur', 'halo rond klok']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke compositie met actieve leegte.",
-      "bestand": "images/a015334_15397.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15360,
-    "gemaakt": 15423,
-    "gekozen": 2412,
-    "afgekeurd": 1832,
+    "cycli": 15368,
+    "gemaakt": 15430,
+    "gekozen": 2413,
+    "afgekeurd": 1833,
     "corpus": 71,
     "notities": 543
   }
