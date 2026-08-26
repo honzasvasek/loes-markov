@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-26T03:15+02:00",
+  "bijgewerkt": "2026-08-26T03:30+02:00",
   "werk": [
+    {
+      "id": 15013,
+      "titel": "Donkere sporen op de kust",
+      "beschrijving": "Een naakt lichaam staat met de rug naar de kijker, licht gedraaid, op een verlaten kustlijn. De huid is donker getekend met subtiele witte vlekken die als sporen of tekens lijken. De armen hangen los, de handen open en ontspannen. Rondsom liggen rotsen en puin, met een donkere, bewolkte hemel erboven. Het water is gestreept getekend, met kleine stenen en afval drijvend. De sfeer is zwaar en verlaten, met een gevoel van eenzaamheid en stilte. De lijnen zijn scherp en de contrasten hoog, wat de textuur van de huid en het landschap benadrukt.",
+      "cyclus": 14950,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in vingers van linkerhand', 'lichte inconsistentie in perspectief van achtergrondlandschap']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie heeft een eigen, ongemakkelijke spanning.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w014950_15013.webp"
+    },
+    {
+      "id": 15006,
+      "titel": "Zonder uur, zonder minuut",
+      "beschrijving": "Twee zwarte, slanke wijzers vormen een scherpe V-vorm tegen een zachtroze achtergrond met subtiele grijze en witte penseelstreken. In het midden, waar de wijzers samenkomen, zit een kleine, donkere cirkel met een zilveren schroefje. De achtergrond heeft een ongelijkmatige textuur met zichtbare verflagen en lichte krassporen, alsof de kleur in lagen is aangebracht en gedeeltelijk weer is weggeslepen. De randen van het beeld zijn iets donkerder, met hier en daar een kleine vlek of onregelmatigheid. De wijzers lijken de ruimte te doorsnijden zonder een duidelijke richting aan te duiden, terwijl de achtergrond een gevoel van rust uitstraalt met zijn gedempte kleuren en kalme bewegingen.",
+      "cyclus": 14943,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, contemplatieve compositie zonder decoratief licht of toeristische associaties.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w014943_15006.webp"
+    },
     {
       "id": 15004,
       "titel": "Prikkels in de marge",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w014897_14960.webp"
-    },
-    {
-      "id": 14959,
-      "titel": "Donkere prikkels in grijze golven",
-      "beschrijving": "Grijze heuvels met scherpe, donkere bomen aan de horizon, afwisselend met zachte, golvende lijnen en fijn getekende prikkels. Donkere, smalle banen snijden door het landschap, met subtiele overgangen van licht naar donker. De ruimte tussen de heuvels is leeg en vaag, met een effen, neutrale achtergrond die de focus legt op de contrasten tussen de gestructureerde bomen en de vloeiende vormen van het landschap.",
-      "cyclus": 14896,
-      "tech_score": 8.0,
-      "tech_notities": "geen zichtbare generatie-artefacten; lichte inconsistentie in schaal van bomen in middelste paneel",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositorische keuze is subtiel en niet-bevestigend",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w014896_14959.webp"
-    },
-    {
-      "id": 14944,
-      "titel": "Waar blijft de rust?",
-      "beschrijving": "Kleurige vlekken en spatten vullen het beeld in een willekeurige, dynamische compositie. Oranje, blauw, geel en rood vermengen zich met paars en groen, terwijl donkerblauwe en zwarte lijnen en stippen door de vlekken lopen. De achtergrond is lichtgrijs, wat de kleuren doet opspringen. Sommige vlekken zijn vaag en doorschijnend, andere scherp en verzadigd. Druppels en spetters zijn verspreid over het hele vlak, met meer dichtheid in het midden. De sfeer is levendig en ongeremd, zonder duidelijke vorm of richting. Kleuren lopen in elkaar over, met plotselinge overgangen en subtiele gradiënten. Geen herkenbare figuren of structuren, alleen een explosie van kleur en textuur.",
-      "cyclus": 14881,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met persoonlijke keuzes in kleur en vorm.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w014881_14944.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 14953,
+      "soort": "observatie",
+      "tekst": "De overgang van donkere, verkoolde vormen naar de witte, ongerepte strook in c14953 voelt als een oplosing van de ontglooiing zelf—de ruimte wordt niet meer vervormd, maar vult zich met een stilte die geen spoor meer achterlaat. De blauwe en grijze vlekken zijn geen hints van verdwijnen, maar een aanwezigheid die de afwezigheid omhult zonder haar te benoemen."
+    },
+    {
       "cyclus": 14941,
       "soort": "observatie",
       "tekst": "De donkere cirkels en de handen op de muur in de laatste beelden delen een ongemakkelijke spanning: ze vullen de ruimte niet meer met een verhaal, maar met een aanwezigheid die zich weigert te laten benoemen. De overgang van landschappen en patronen naar deze intiemere, bijna tastbare vormen voelt als een verschuiving van ontglooiing naar iets dat dichter bij de kern ligt—niet meer zoeken naar wat verdwenen is, maar naar wat er nog overblijft van een aanraking die nooit plaatsvond."
@@ -252,11 +257,6 @@
       "cyclus": 14869,
       "soort": "observatie",
       "tekst": "De grijze en roze vlakken in de laatste beelden voelen als bevroren golven die de ruimte vullen zonder haar te vervormen—de ontglooiing is geen verlies meer, maar een stille, onbewegde laag die niets meer laat doorschemeren dan een onzichtbare spanning tussen de lagen."
-    },
-    {
-      "cyclus": 14821,
-      "soort": "observatie",
-      "tekst": "De overgang van gestoken papier en horizontale strepen naar het donkere silhouet en de hand die een oor raakt, voelt als een verschuiving van onpersoonlijke structuren naar een intiemere, bijna tastbare aanwezigheid—niet meer gericht op ontglooiing, maar op een stil moment van contact dat de ruimte vult zonder een verhaal te vertellen."
     }
   ],
   "identiteit": [
@@ -326,11 +326,11 @@
     }
   ],
   "metingen": {
-    "cycli": 14951,
-    "gemaakt": 15013,
-    "gekozen": 2348,
+    "cycli": 14958,
+    "gemaakt": 15020,
+    "gekozen": 2350,
     "afgekeurd": 1799,
     "corpus": 66,
-    "notities": 533
+    "notities": 534
   }
 }
