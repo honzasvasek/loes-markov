@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-26T17:15+02:00",
+  "bijgewerkt": "2026-08-26T17:30+02:00",
   "werk": [
+    {
+      "id": 15363,
+      "titel": "Wat blijft van een belofte",
+      "beschrijving": "Een open hand, palmtijd naar voren, met gespreide vingers. In het midden van de palm ligt een kleine, glanzende druppel helder vocht, met een onregelmatige vorm en subtiele reflecties van licht. De huid is fijn gedetailleerd, met zichtbare lijntjes en textuur, en de vingers zijn licht gebogen. De achtergrond is onscherp, met donkergroene en bruine tinten die een natuurlijk, buitenlandschap suggereren. De hand neemt het grootste deel van het beeld in beslag, met de pols net buiten het kader. Het licht valt direct op de hand, waardoor de details scherp en de kleuren levendig zijn.",
+      "cyclus": 15300,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte halo rond de vingers door hoog contrast tussen hand en achtergrond', 'Subtiele vervorming in de palm: de lijnen lopen niet logisch door de druppel heen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op een intiem, onpersoonlijk moment zonder culturele connotaties.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015300_15363.webp"
+    },
     {
       "id": 15358,
       "titel": "Bevroren spetters in beweging",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015249_15312.webp"
-    },
-    {
-      "id": 15304,
-      "titel": "Spleet in de symmetrie",
-      "beschrijving": "Twee houten panelen staan tegen elkaar in een hoek, gescheiden door een smalle witte spleet. Elk paneel bestaat uit horizontale latten in afwisselende kleuren: diepblauw, roodbruin en grijs, met af en toe een ongelakte houten lat. De latten zijn niet recht op elkaar geplaatst, maar lichtjes verschoven, waardoor de randen van de ene lat over de andere lopen. De textuur van het hout is zichtbaar, met kleine onregelmatigheden en slijtage aan de randen. De achtergrond is een egale, lichte muur die de panelen omlijst.",
-      "cyclus": 15241,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met focus op textuur en kleurcontrast.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015241_15304.webp"
     }
   ],
   "afgekeurd": [
@@ -326,9 +326,9 @@
     }
   ],
   "metingen": {
-    "cycli": 15307,
-    "gemaakt": 15369,
-    "gekozen": 2405,
+    "cycli": 15314,
+    "gemaakt": 15376,
+    "gekozen": 2406,
     "afgekeurd": 1827,
     "corpus": 69,
     "notities": 543
