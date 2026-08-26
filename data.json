@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-26T03:00+02:00",
+  "bijgewerkt": "2026-08-26T03:15+02:00",
   "werk": [
     {
       "id": 15004,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 15009,
+      "cyclus": 14946,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in golflengte en textuur aan horizon', 'lichte wazigheid in verre golven']",
+      "cliche_notities": "Dit is een typische ansichtkaartcompositie van een kustlandschap met iconische golven en een serene horizon, zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a014946_15009.webp"
+    },
+    {
       "id": 15007,
       "cyclus": 14944,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Het beeld heeft een persoonlijke, bijna intieme compositie met de handen die de tijd vastgrijpen, wat beyond een typische ansichtkaart uitkomt.",
       "bestand": "images/a014937_15000.webp"
-    },
-    {
-      "id": 14983,
-      "cyclus": 14920,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke combinatie van tekst en landschap zonder duidelijke compositorische keuze.",
-      "bestand": "images/a014920_14983.webp"
     }
   ],
   "onderzoek": {
@@ -326,10 +326,10 @@
     }
   ],
   "metingen": {
-    "cycli": 14945,
-    "gemaakt": 15007,
+    "cycli": 14951,
+    "gemaakt": 15013,
     "gekozen": 2348,
-    "afgekeurd": 1798,
+    "afgekeurd": 1799,
     "corpus": 66,
     "notities": 533
   }
