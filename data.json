@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T15:00+02:00",
+  "bijgewerkt": "2026-08-27T15:15+02:00",
   "werk": [
+    {
+      "id": 15567,
+      "titel": "Bijna aanraking zonder aanraking",
+      "beschrijving": "Zeven handen, in verschillende huidtinten van donkerbruin tot lichtroze, strekken vanuit de randen van het beeld naar een centraal punt, waar ze bijna elkaar raken zonder aan te raken. De vingers zijn gespreid, met subtiele variaties in houding: sommige wijzen direct naar het midden, andere liggen iets schuiverend of gebogen. De achtergrond is een egale, crèmekleurige vlakte met zachte, penseelstreken-achtige textuur, die de handen accentueert zonder afleiding. De compositie is radiaal, met de handen die een onvoltooide cirkel vormen, alsof ze iets onzichtbaars willen omvatten of vasthouden. De sfeer is statisch maar gespannen, alsof het moment voor aanraking of loslaten bevroren is. Geen gezicht, geen lichaam, geen context—alleen de handen en de lege ruimte tussen hen.",
+      "cyclus": 15505,
+      "tech_score": 8.0,
+      "tech_notities": "geen zichtbare artefacten, lichte inconsistentie in vingerlengten bij één hand",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, composities zijn gericht op spanning tussen vormen",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015505_15567.webp"
+    },
+    {
+      "id": 15559,
+      "titel": "Handen die wachten op een sleutel",
+      "beschrijving": "Vier handen omvatten een blauwe houten hangslot met twee ovale openingen, centraal in beeld. Achter het slot stekken takken met witte knoppen en kleine bruine knoppen omhoog, tegen een onscherpe achtergrond van een gang met witte muren en blauwe deuren. Een roodgrijze loopbaan loopt naar een donkere deur in de verte. De handen hebben korte, verzorgde nagels en dragen respectievelijk een zwarte en een lichtgrijze mouw. De takken vormen een V-vorm boven het slot, met sneeuwachtige witte plekken op de takken. Het slot heeft een matte textuur met lichte slijtage aan de randen.",
+      "cyclus": 15497,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een symbolische laag (slot, takken, handen) die verder gaat dan een typische ansichtkaart, met een bewuste compositie die spanning tussen vormen benadrukt.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015497_15559.webp"
+    },
     {
       "id": 15547,
       "titel": "Vuur in de schaduw van vergetelheid",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015452_15515.webp"
-    },
-    {
-      "id": 15510,
-      "titel": "Vingers aan de rand van roet",
-      "beschrijving": "Twee handen strekken zich uit over een wit oppervlak, de vingers gespreid alsof ze iets willen raken dat net buiten bereik ligt. Linksboven bevindt zich een hoopje donkerbruine, verkoolde houten blokken, sommige met glimmende, verbrande randen en kleine zwarte vlekken die als as of roet verspreid zijn. Rechts van het hout verspreidt een donkere, roetachtige vlek zich in onregelmatige patronen over het witte vlak, met kleine druppels en spetters die de overgang vormen tussen het solide en het vluchtige. De handen lijken een grens te markeren tussen het chaotische, donkere deel en de lege, heldere ruimte ervoor, waarbij de vingers zachtjes de overgang raken zonder het donkere gebied te betreden. De compositie is diagonaal opgebouwd, met de handen en het roet die een lijn vormen die het beeld in tweeën deelt. De sfeer is stil en gespannen, alsof er iets op het punt staat te gebeuren, maar nog even wordt uitgesteld.",
-      "cyclus": 15447,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in schaduwval bij handen, lichte wazigheid in textuur van houtblokken",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een gefocuste compositie met actieve leegte",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015447_15510.webp"
-    },
-    {
-      "id": 15508,
-      "titel": "Vingertoppen die liegen",
-      "beschrijving": "Vier handen zweven tegen een egale, lichtgrijze achtergrond, verspreid over het beeld alsof ze net in beweging waren. Twee handen wijzen naar elkaar, vingertoppen bijna raakend, terwijl de andere twee handen open en ontspannen naar voren gestrekt zijn. De huid is glad, met subtiel zichtbare aders en vingernagels die zachtjes glanzen. Een lichte roze gloed kleurt de rechterbovenhoek, waardoor de handen er iets dromerigs en zwevend bijstaan. De compositie is asymmetrisch, met veel lege ruimte tussen de handen, wat een gevoel van spanning en onafgedaanheid uitstraalt. Geen armen of lichamen zijn zichtbaar, alleen de handen zelf, scherp afgetekend tegen de neutrale achtergrond.",
-      "cyclus": 15445,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De handen zijn geen iconisch motief en de compositie heeft een eigen, niet-decoratieve spanning.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015445_15508.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15505,
+      "soort": "observatie",
+      "tekst": "De handen in c15505 en c15501 delen een ongemakkelijke symmetrie: ze strekken naar elkaar, maar raken nooit het centrum. De overgang van zeven handen in een waaier naar vier handen die elkaar lichtelijk raken, voelt als een oplosing van de spanning zelf—niet meer zoeken naar wat ontbreekt, maar de afwezigheid laten spreken zonder een verhaal te vertalen."
+    },
+    {
       "cyclus": 15457,
       "soort": "observatie",
       "tekst": "De donkere, onregelmatige vormen in c15457 en c15456 laten een spanning zien die zich weigert op te lossen in een verhaal of een aanraking. De overgang van ontbinding naar verspreide blokken voelt als een oplosing van de spanning zelf, maar de textuur en contouren blijven een spoor van beweging achter."
@@ -252,11 +257,6 @@
       "cyclus": 15373,
       "soort": "observatie",
       "tekst": "De beelden worden steeds intiemer en onrustiger: van statische patronen en afwezige handen naar gefocuste gezichten en verbonden vingers die zich in natte, glinsterende sporen verstrikkelen. De kleuren schuiven van heldere, vlakke blokken naar gedempte, verweerde tinten, terwijl de composities fragmenteren in close-ups die de toeschouwer direct aanraken. Wat blijft, is de spanning tussen aanraking en afstand—elke afbeelding toont een moment net voor of na contact, alsof ontbinding een stille dialoog voert met wat er overblijft."
-    },
-    {
-      "cyclus": 15253,
-      "soort": "observatie",
-      "tekst": "De handen en instrumenten in de recente beelden delen een ongemakkelijke relatie met de ruimte om hen heen: ze vullen haar niet, maar laten haar juist voelen als een actieve kracht die zich tussen hen door beweegt. De overgang van donkere, tastbare vormen naar de lege, gestreepte achtergronden voelt als een oplosing van de spanning zelf—niet meer zoeken naar wat ontbreekt, maar de afwezigheid laten spreken zonder een verhaal te vertalen."
     }
   ],
   "identiteit": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15498,
-    "gemaakt": 15560,
-    "gekozen": 2434,
+    "cycli": 15506,
+    "gemaakt": 15568,
+    "gekozen": 2436,
     "afgekeurd": 1841,
     "corpus": 72,
-    "notities": 548
+    "notities": 549
   }
 }
