@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T19:45+02:00",
+  "bijgewerkt": "2026-08-27T20:00+02:00",
   "werk": [
+    {
+      "id": 15681,
+      "titel": "Handen die een geheim bewaken",
+      "beschrijving": "Twee handen werken met een mes op een donkere, onregelmatige massa die op een houten plank ligt. De handen zijn gedetailleerd weergegeven met aderen en nagels, en de vingers omvatten het mes stevig. Rondom de handen liggen verschillende messen en gereedschappen, sommige met houten handvatten, andere met metalen bladen. De achtergrond bestaat uit een mix van bruine, grijze en blauwe tinten, met sporen van wat ooit hout of verf might zijn geweest. De compositie is dynamisch, met diagonale lijnen die de beweging van de handen en het mes benadrukken. De sfeer is intens en gefocust, alsof de handen net op het punt staan iets cruciaals te doen.",
+      "cyclus": 15619,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de vingers van de linkerhand: de wijsvinger en middelvinger lijken te dicht bij elkaar te liggen zonder duidelijke scheiding.', 'De schaduwen onder de handen en het hout voelen iets te plat en ontbreken aan diepte, wat de driedimensionaliteit verzwakt.']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (handen die werken met mes en hout) is niet iconisch of decoratief, en de compositie heeft een eigen, bijna intieme spanning.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015619_15681.webp"
+    },
+    {
+      "id": 15679,
+      "titel": "Spleten die ademen",
+      "beschrijving": "Donkere, onregelmatige spleten snijden door een nat, donkergrijs oppervlak, omgeven door een textuur die zowel zandig als korrelig is. Water glinstert aan de rechterrand, met subtiele rimpelingen die de overgang markeren tussen vast en vloeibaar. Kleine steentjes en fragmenten van onbepaald afval liggen verspreid, terwijl de spleten diepe, golvende patronen onthullen—alsof iets langzaam is uitgesneden door water of tijd. De kleurpalet beperkt zich tot grijstinten, met af en toe een donkerdere schittering waar het licht op het natte oppervlak valt. De compositie is asymmetrisch, met de spleten die een diagonale lijn vormen die het oog door het beeld leidt, terwijl de achtergrond vervaagt in een onduidelijke horizon.",
+      "cyclus": 15617,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond de randen van de spleet', 'lichte inconsistentie in textuur van het water']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015617_15679.webp"
+    },
     {
       "id": 15674,
       "titel": "Handen die geschiedenis sorteren",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015571_15633.webp"
-    },
-    {
-      "id": 15623,
-      "titel": "Waar bleef de oever?",
-      "beschrijving": "Een kronkelende, donkerblauwe vorm snijdt door een landschap van zachte, wazige grijze en bruine vlekken, met hier en daar een subtiele roestkleurige tint. De vorm lijkt een smalle, onregelmatige rivier of een vergeten pad, met kleine, scherpe uitstulpingen en smalle, witte spleten die als reflecties van licht dienen. Rondom deze vorm verspreiden zich ongelijkmatige, wolkachtige structuren die overgaan in een effen, crèmekleurige achtergrond aan de randen. Enkele donkere, bijna zwarte plekken suggereren diepte, terwijl lichte, vaag omlijnde cirkels een gevoel van zwevende vormen geven. De textuur is korrelig en onvoorspelbaar, met sporen van wat ooit nat moet zijn geweest, nu opgedroogd en verbleekt.",
-      "cyclus": 15561,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont geen decoratief perfect licht, maar verkent een abstracte, onbeheersbare leegte met subtiele spanningen tussen vormen en kleuren.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015561_15623.webp"
-    },
-    {
-      "id": 15618,
-      "titel": "Vonken in het mos",
-      "beschrijving": "Een vuur vonkt op in een verlaten bos, omringd door kale bomen met donkere, getekende bast en uitgestrekte wortels. De vlammen zijn oranje en gele golven met scherpe, dansende punten, terwijl rook in grijze sluiers omhoog kruipt tussen de stammen. Op de grond liggen houten stammen in een hut, met vonken die in de lucht dwarrelen en kleine, donkere vlekken op het mos en de bladeren. Het bos verdwijnt in een lichte, vaag getekende achtergrond, waar de bomen steeds dunner en waziger worden. Gras en kleine plantjes prikken door de grond, en een pad van modder en stenen loopt tussen de bomen door, verdwijnend in de verte. De sfeer is stil en verlaten, met de warmte van het vuur als enige beweging in het landschap.",
-      "cyclus": 15556,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de vuurhaard als centraal element in een wisselende bossetting.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015556_15618.webp"
     }
   ],
   "afgekeurd": [
@@ -330,9 +330,9 @@
     }
   ],
   "metingen": {
-    "cycli": 15625,
-    "gemaakt": 15687,
-    "gekozen": 2455,
+    "cycli": 15632,
+    "gemaakt": 15694,
+    "gekozen": 2457,
     "afgekeurd": 1850,
     "corpus": 69,
     "notities": 551
