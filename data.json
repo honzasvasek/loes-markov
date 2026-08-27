@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T16:00+02:00",
+  "bijgewerkt": "2026-08-27T16:15+02:00",
   "werk": [
+    {
+      "id": 15591,
+      "titel": "Handen die kool vormgeven tot golven",
+      "beschrijving": "Drie handen grijpen donkere, onregelmatige blokken die lijken op kool of nat steen, verspreid over een oppervlak met golvende, witte lijnen die aan stromend water of rook denken laten. Kleine fragmenten en druppels donker materiaal liggen eromheen, samen met een houten voorwerp dat op een hamer of stamper lijkt. De achtergrond is een mengsel van grijze en beige tinten met vage textuur, alsof het om een verlaten werkplaats of een nat landschap gaat. De handen bewegen alsof ze de blokken verschuiven of vormen, terwijl de witte golven een gevoel van beweging en onrust door de scène dragen. Kleuren zijn gedempt, met accenten van bruin en zwart tegen de lichte achtergrond.",
+      "cyclus": 15529,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van stenen', 'lichte wazigheid in achtergrondtexturen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen en afwezigheid.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015529_15591.webp"
+    },
+    {
+      "id": 15580,
+      "titel": "Handen die de leegte vasthouden",
+      "beschrijving": "Vier handen omringen een donkergrijze, rechthoekige leegte, geflankeerd door verbrande, donkerbruine en zwarte blokken met oranje gloed aan de randen. De handen, met lichtgekleurde nagels, raken de randen van de blokken aan, alsof ze de leegte vasthouden of beschermen. De blokken hebben een ruwe, gebarsten textuur met sporen van hitte en verval, en sommige delen glanzen alsof ze nat zijn. Rondom de blokken liggen verspreide, donkere fragmenten met onregelmatige vormen en texturen, sommige met metalen of glanzende details. De compositie is symmetrisch, met de handen en blokken die een kader vormen rond de lege, gladde ruimte in het midden. De sfeer is zwaar en mysterieus, met een gevoel van spanning tussen de handen die de leegte omvatten en de verwoestende textuur van de blokken.",
+      "cyclus": 15518,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een bewuste compositorische keuze met de handen die een lege ruimte omringen, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015518_15580.webp"
+    },
     {
       "id": 15579,
       "titel": "Hout dat terugblikt",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w015479_15541.webp"
-    },
-    {
-      "id": 15537,
-      "titel": "Handen die een wereld vastgrijpen",
-      "beschrijving": "Vier handen omvatten een lange, smalle steel met verticale lijnen, omgeven door cirkelvormige structuren met concentrische ringen en kleine bolletjes. Twee handen houden de steel vast, terwijl de andere twee handen gereedschappen vasthouden: een T-vormig voorwerp en een voorwerp met een tandwiel. De achtergrond bestaat uit donkere, gestreepte vlakken met verspreide zwarte vlekken. Witte en grijze tinten domineren, met scherp getekende details in de handen en het gereedschap. De compositie is symmetrisch rond de steel, met een focus op de interactie tussen handen en objecten.",
-      "cyclus": 15475,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in perspectief van handen en gereedschap, lichte wazigheid in textuur van houten achtergrond",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen en niet op een bevestigend verhaal.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015475_15537.webp"
-    },
-    {
-      "id": 15529,
-      "titel": "Scherven in het gras",
-      "beschrijving": "Een verweerd houten schuurtje staat schuin aan een zandweg, omringd door kale bomen en droog gras. Het dak is gedeeltelijk ingestort, de muur is scheef en het raam ontbreekt een ruit. Voor het schuurtje ligt een hoop puin: houten planken, metalen onderdelen en kleurige scherven glas verspreid over de grond. De weg kronkelt weg in de verte, waar een donkere boomgaard de horizon vormt. De lucht is grijs en bewolkt, met zachte penseelstreken die een vochtige sfeer suggereren. Kleuren zijn gedempt—grijs, bruin en groen domineren—met af en toe een flits van rood, blauw of geel in het afval. De compositie is asymmetrisch, met het schuurtje links en de weg die de blik naar rechts trekt. Details zoals de korrelige textuur van het hout en de glinsterende scherven geven een gevoel van verlatenheid en verval.",
-      "cyclus": 15467,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een verlaten schuur met een ongemakkelijke, bijna verontrustende sfeer, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015467_15529.webp"
     }
   ],
   "afgekeurd": [
@@ -330,9 +330,9 @@
     }
   ],
   "metingen": {
-    "cycli": 15528,
-    "gemaakt": 15590,
-    "gekozen": 2438,
+    "cycli": 15535,
+    "gemaakt": 15596,
+    "gekozen": 2440,
     "afgekeurd": 1844,
     "corpus": 72,
     "notities": 549
