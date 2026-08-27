@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T14:45+02:00",
+  "bijgewerkt": "2026-08-27T15:00+02:00",
   "werk": [
+    {
+      "id": 15547,
+      "titel": "Vuur in de schaduw van vergetelheid",
+      "beschrijving": "Een verlaten landschap met droog, bruin gras en verspreide takken wordt doorsneden door de donkere, schuin lopende schaduw van een boom zonder bladeren. Rechts brandt de stam van die boom, met oranje-gele vlammen die opstijgen en rook die zich mengt met de blauwe schemering. De achtergrond toont een uitgestrekt veld dat overgaat in een horizon met vaag zichtbare heuvels onder een donkerblauwe hemel. Kleine witte en zilveren fragmenten, mogelijk afval, liggen verspreid over de grond, waaronder ook verbrande resten en koolstofhoudend materiaal. De vlammen en de schaduw vormen een scherp contrast met de koele, lege ruimte eromheen.",
+      "cyclus": 15485,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele halo rond vlammen bij boomstam', 'lichte inconsistentie in schaduwval van takken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie kiest voor een ongemakkelijke spanning tussen vuur en schaduw zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015485_15547.webp"
+    },
+    {
+      "id": 15544,
+      "titel": "Kleurige stilstaan-momenten",
+      "beschrijving": "Een raster van afgeronde rechthoeken, elk met een unieke kleur en textuur, vult het beeld. Donkere en lichte tinten van blauw, grijs, rood, bruin en roze wisselen elkaar af, met subtiele overgangen tussen warme en koude kleuren. Sommige vormen hebben een matte afwerking, andere een glanzende of juist korrelige textuur. De compositie is strak en symmetrisch, maar de variatie in kleur en vorm geeft een dynamische, bijna organische uitstraling. De achtergrond is neutraal, waardoor de kleuren en texturen van de vormen extra opvallen.",
+      "cyclus": 15482,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont geen decoratief perfect licht, maar een gestructureerde variatie op kleur en vorm zonder toeristische connotatie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015482_15544.webp"
+    },
     {
       "id": 15543,
       "titel": "Vier handen, één greep",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015445_15508.webp"
-    },
-    {
-      "id": 15502,
-      "titel": "Lagen die liegen",
-      "beschrijving": "Transparante plastic lagen liggen over elkaar, met donkerblauwe rechthoeken die scherp afsteken tegen een vaag gestreept achtergrondmateriaal. Zwarte, onregelmatige vlekken met zachte randen verspreiden zich door het midden, omgeven door lichte, bijna doorschijnende zones met subtiele concentrische patronen. Kleine, donkere stippen en ongelijkmatige randen van het plastic voegen zich bij een textuur van kreukels en lichte reflecties. De blauwe vlakken hebben een matte, iets korrelige textuur, terwijl de zwarte vormen een droge, bijna poedervormige uitstraling hebben. De compositie voelt fragmentarisch, met lagen die zowel doorzichtig als ondoorzichtig zijn, waardoor sommige delen scherp blijven en andere vervagen in een wazige overgang.",
-      "cyclus": 15439,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van transparante lagen rechtsboven', 'lichte halo rond donkere vlek midden-rechts']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015439_15502.webp"
-    },
-    {
-      "id": 15499,
-      "titel": "Blauw raam, golvend landschap",
-      "beschrijving": "Een blauwe houten schuur met een rieten dak domineert het beeld, het raam fungeert als kader voor een landschap met golvende akkers en een vaag silhouet van een persoon die erin staat. Het blauw van de schuur is levendig en textuurrijk, met zichtbare penseelstreken die de houten lamellen benadrukken. Boven het raam hangt een donkere schaduw van het riet, terwijl onder het raam een betonnen rand en zandige grond met verspreide plantendelen de overgang naar het landschap vormen. Het landschap zelf is geschilderd met lichte, luchtige streken, waarbij het goudgele graan en de groene bomen in de verte een contrast vormen met de heldere hemel. Het silhouet in het raam is donker en onduidelijk, met een vloeiende overgang naar het landschap, alsof de figuur deel uitmaakt van de achtergrond. De compositie is rustig en gebalanceerd, met het raam als centraal punt dat de kijker naar buiten trekt.",
-      "cyclus": 15436,
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistentie in perspectief van het raam ten opzichte van de muur, lichte wazigheid in de achtergrondlandschap",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een persoonlijke, contemplatieve sfeer zonder typisch toeristische motieven of decoratief perfect licht.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015436_15499.webp"
     }
   ],
   "afgekeurd": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15491,
-    "gemaakt": 15552,
-    "gekozen": 2432,
+    "cycli": 15498,
+    "gemaakt": 15560,
+    "gekozen": 2434,
     "afgekeurd": 1841,
-    "corpus": 71,
+    "corpus": 72,
     "notities": 548
   }
 }
