@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T20:30+02:00",
+  "bijgewerkt": "2026-08-27T20:45+02:00",
   "werk": [
+    {
+      "id": 15706,
+      "titel": "Vingers die bijna raken",
+      "beschrijving": "Zes donkere handen met uitgestrekte vingers omringen een leeg, lichtgrijs centrum, alsof ze iets onzichtbaars vast willen pakken of beschermen. De vingers wijzen in verschillende richtingen, maar raken elkaar niet, wat een gevoel van spanning en onvervulde verbondenheid uitstraalt. De achtergrond is eenduidig en textuurloos, waardoor de handen scherp afsteken en de leegte in het midden nog sterker wordt. De penseelstreken zijn zichtbaar en geven de handen een zekere ruwheid, terwijl de kleuren subtiel variëren van donkerbruin tot bijna zwart, met lichte highlights die de vorm benadrukken. De compositie is radiaal en symmetrisch, maar de handen zelf zijn asymmetrisch geplaatst, wat een dynamische onrust toevoegt aan het beeld.",
+      "cyclus": 15644,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de vingers van de hand linksboven: de wijsvinger lijkt onnatuurlijk kort en de nagel ontbreekt', 'Subtiele halo rond de handen rechtsboven tegen de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar verstoort juist de verwachting van een harmonieus geheel door de handen onopzettelijk te positioneren.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015644_15706.webp"
+    },
+    {
+      "id": 15702,
+      "titel": "Wie raakt nu wie",
+      "beschrijving": "Twee handen strekken zich uit boven een dicht tapijt van lang, spits gras, waarbij de vingers zachtjes de puntige bladeren raken. De handen zijn gedetailleerd getekend met zichtbare aders en nagels, en de armen verdwijnen aan weerskanten van het beeld. Het gras domineert de voorgrond met zijn scherp getekende, wisselend donker en lichtgrijze bladeren die in alle richtingen staan. Op de achtergrond zweven vaag omschreven, pastelkleurige vlekken—roze, blauw en geel—die overgaan in een lichte, textuurrijke hemel. Donkere, onscherpe vormen suggereren verre bomen of struiken. De compositie is verticaal, met het gras dat vanaf de onderkant omhoog groeit en de handen die zich vanuit de hoeken naar het midden bewegen. De sfeer is rustig en bijna intiem, met een subtiele spanning tussen de handen en het gras.",
+      "cyclus": 15640,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van gras', 'lichte wazigheid in achtergrondkleuren']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen, niet op een bevestigend verhaal.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015640_15702.webp"
+    },
     {
       "id": 15699,
       "titel": "Stof dat ademt",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015597_15659.webp"
-    },
-    {
-      "id": 15657,
-      "titel": "Handen die stilstaan in beweging",
-      "beschrijving": "Vier handen werken samen op een grijze ondergrond, omringd door donkere, glanzende blokken met ingewikkelde patronen in blauw, oranje en grijs. Twee handen houden een smal, metalen gereedschap met een gele punt vast, gericht op een van de blokken. Een ander blok heeft een houten steel, en een penseel met een bruin handvat ligt ernaast. De handen zijn actief, met vingers die precieze bewegingen maken, terwijl de blokken verspreid liggen in een willekeurige, maar gebalanceerde opstelling. De sfeer is gefocust en handwerkgericht, met een mix van organische en industriële materialen.",
-      "cyclus": 15595,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de textuur van de handen (rechtsboven vs linksonder)', 'Subtiele halo rond de metalen delen van de tools bij hoog contrast']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is functioneel en niet gericht op een bevestigend verhaal.",
-      "curriculum_score": 6.0,
-      "gekozen": 1,
-      "bestand": "images/w015595_15657.webp"
-    },
-    {
-      "id": 15648,
-      "titel": "Waar de hand de golven raakt",
-      "beschrijving": "Een hand met lichtgekleurde nagels strekt zich uit over een roze wateroppervlak, omgeven door zwarte golven en een donkere oever met silhouetten van bomen en gebouwen. Boven de horizon zweeft een oranje wolk met witte contouren tegen een roze lucht, met stralen die zich uitstrekken naar de randen van het beeld. Wit gras aan de onderkant contrasteert met de donkere vormen, terwijl de hand met zichtbare aders en textuur de voorgrond domineert. De compositie combineert realistische details met gestileerde patronen in een beperkt kleurenpalet van roze, oranje, zwart en wit.",
-      "cyclus": 15586,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van de horizonlijn ten opzichte van de hand', 'lichte wazigheid in de textuur van de wolken aan de randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld combineert een iconisch landschap met een onverklaarde, bijna ongemakkelijke aanwezigheid van de hand, wat het buiten de ansichtkaart-categorie plaatst.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015586_15648.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15715,
+      "cyclus": 15653,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in reflecties van kerktorens in water (linker toren heeft duidelijkere reflectie dan rechter)', 'Enkele bomen tonen vervormde takstructuren met onlogische takafstanden']",
+      "cliche_notities": "Beeld past in ansichtkaarttraditie met iconische kerktorens, perfecte zonsondergang en symmetrische compositie zonder duidelijke persoonlijke keuzes.",
+      "bestand": "images/a015653_15715.webp"
+    },
     {
       "id": 15698,
       "cyclus": 15636,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke narratieve intentie.",
       "bestand": "images/a015616_15678.webp"
-    },
-    {
-      "id": 15661,
-      "cyclus": 15599,
-      "afkeuringsreden": "techniek",
-      "tech_score": 3.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met herhaling van vormen en handen die een letter vasthouden.",
-      "bestand": "images/a015599_15661.webp"
     }
   ],
   "onderzoek": {
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15647,
-    "gemaakt": 15708,
-    "gekozen": 2460,
-    "afgekeurd": 1851,
-    "corpus": 69,
+    "cycli": 15655,
+    "gemaakt": 15716,
+    "gekozen": 2462,
+    "afgekeurd": 1852,
+    "corpus": 71,
     "notities": 552
   }
 }
