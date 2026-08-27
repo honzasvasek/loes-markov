@@ -1,6 +1,45 @@
 {
-  "bijgewerkt": "2026-08-27T14:15+02:00",
+  "bijgewerkt": "2026-08-27T14:30+02:00",
   "werk": [
+    {
+      "id": 15543,
+      "titel": "Vier handen, één greep",
+      "beschrijving": "Vier handen rusten op donker, ruw oppervlak met onregelmatige, gebroken patronen. Twee handen aan de rechterkant liggen parallel, vingers gespreid, terwijl aan de linkerkant twee handen elkaar raken, alsof ze een greep vormen. Het oppervlak lijkt van steen of verbrand hout, met diepe spleten en glinsterende, witte deeltjes verspreid. De handen zijn lichtgekleurd, met zichtbare aderen en nagels kort geknipt. De compositie is symmetrisch, met een donkere, bijna blauwe tint die de scène een koude, statische sfeer geeft.",
+      "cyclus": 15481,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in textuur van steen aan linker- en rechterkant', 'Subtiele halo rond handen waar ze de steen raken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen en afwezigheid.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015481_15543.webp"
+    },
+    {
+      "id": 15541,
+      "titel": "Vingers die een droom vangen",
+      "beschrijving": "Twee handen vormen een zachte, bijna doorzichtige koepel, met vingers die elkaar lichtjes raken alsof ze een onzichtbare bal vasthouden. De huid is bleek met subtiele roze tinten bij de nagels en aderen die zachtjes onder de oppervlakte lopen. De achtergrond is een vaag, grijs landschap met onduidelijke bomen en een horizon die overgaat in een bewolkte hemel. Een smalle strook donkerder grijs loopt horizontaal door het midden, alsof het water of een weg is. De handen staan schuin, met de polsen dicht bij de onderkant van het beeld en de vingers die zich naar boven uitstrekken, waardoor een gevoel van opwaartse beweging ontstaat. Kleuren zijn gedempt, met alleen de handen die een lichte warmte uitstralen tegen de koele, neutrale achtergrond.",
+      "cyclus": 15479,
+      "tech_score": 8.0,
+      "tech_notities": "lichte vervorming vingers linkerhand, inconsistentie in nagelvormen",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; focus ligt op subtiele spanning tussen handen en achtergrond.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015479_15541.webp"
+    },
+    {
+      "id": 15537,
+      "titel": "Handen die een wereld vastgrijpen",
+      "beschrijving": "Vier handen omvatten een lange, smalle steel met verticale lijnen, omgeven door cirkelvormige structuren met concentrische ringen en kleine bolletjes. Twee handen houden de steel vast, terwijl de andere twee handen gereedschappen vasthouden: een T-vormig voorwerp en een voorwerp met een tandwiel. De achtergrond bestaat uit donkere, gestreepte vlakken met verspreide zwarte vlekken. Witte en grijze tinten domineren, met scherp getekende details in de handen en het gereedschap. De compositie is symmetrisch rond de steel, met een focus op de interactie tussen handen en objecten.",
+      "cyclus": 15475,
+      "tech_score": 8.0,
+      "tech_notities": "kleine inconsistenties in perspectief van handen en gereedschap, lichte wazigheid in textuur van houten achtergrond",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen en niet op een bevestigend verhaal.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015475_15537.webp"
+    },
     {
       "id": 15529,
       "titel": "Scherven in het gras",
@@ -91,45 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w015436_15499.webp"
-    },
-    {
-      "id": 15486,
-      "titel": "Waar begint de rook?",
-      "beschrijving": "Een verticaal doek wordt gedomineerd door een diepblauwe bovenkant die geleidelijk overgaat in zachte roze en lila tinten aan de onderkant. De overgang tussen de kleuren is vloeiend, met subtiele, wazige vormen die aan wolken of rook doen denken. In de middelste laag zijn donkerder blauwe en roze vlekken te zien die een gevoel van diepte creëren, terwijl de onderkant van het doek meer diffuse, vaag omschreven vormen bevat. De textuur van het schilderij is zichtbaar, met lichte penseelstreken die de kleuren met elkaar verbindingen en een dynamische, bijna bewegende sfeer oproepen. Er zijn geen duidelijke onderwerpen of figuren af te leiden, waardoor de compositie abstract en openblijft voor interpretatie.",
-      "cyclus": 15423,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015423_15486.webp"
-    },
-    {
-      "id": 15484,
-      "titel": "Wat blijft achter in de koffer",
-      "beschrijving": "Een blauw metalen apparaat met een langgerekt lichaam, een handvat en een ronde basis rust schuin op een donkergrijze, getextureerde ondergrond. Naast het apparaat bevinden zich twee houten koffers met scharnieren en sluitingen, waarvan één openstaat en een donkere binnenkant onthult. Een houten staaf met een metalen punt steekt schuin uit de open koffer en raakt het blauwe apparaat. De achtergrond bestaat uit donkere, vaag geschilderde vormen in bruin en grijs, met subtiele blauwe en oranje tinten die de sfeer verdonkeren. De penseelstreken zijn zichtbaar en geven een ruwe, bijna verwaarloosde uitstraling aan de scène.",
-      "cyclus": 15421,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van houten koffers', 'lichte wazigheid in schaduwpartijen achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en ongemakkelijk",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015421_15484.webp"
-    },
-    {
-      "id": 15480,
-      "titel": "Vingers in verf",
-      "beschrijving": "Een hand met lichtgekleurde nagels raakt een donkergrijze, brede penseelstreep aan die in een V-vorm over een effen lichtgrijze achtergrond loopt. De penseelstrepen zijn ongelijkmatig, met zichtbare textuur en kleine onregelmatigheden aan de randen. De vingers liggen zachtjes op de streep, alsof ze de beweging van het schilderen vasthouden. De compositie is eenvoudig en gericht op de interactie tussen hand en verf, zonder andere elementen of afleiding. De sfeer is rustig en gefocust, met een minimale kleurenpalet dat de aandacht op de tactiele relatie tussen hand en materiaal legt.",
-      "cyclus": 15417,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een persoonlijke compositorische keuze met de hand die de leegte activeert.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015417_15480.webp"
     }
   ],
   "afgekeurd": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15476,
-    "gemaakt": 15537,
-    "gekozen": 2429,
+    "cycli": 15483,
+    "gemaakt": 15545,
+    "gekozen": 2432,
     "afgekeurd": 1840,
-    "corpus": 70,
+    "corpus": 69,
     "notities": 548
   }
 }
