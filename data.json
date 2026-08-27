@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T18:15+02:00",
+  "bijgewerkt": "2026-08-27T18:30+02:00",
   "werk": [
+    {
+      "id": 15648,
+      "titel": "Waar de hand de golven raakt",
+      "beschrijving": "Een hand met lichtgekleurde nagels strekt zich uit over een roze wateroppervlak, omgeven door zwarte golven en een donkere oever met silhouetten van bomen en gebouwen. Boven de horizon zweeft een oranje wolk met witte contouren tegen een roze lucht, met stralen die zich uitstrekken naar de randen van het beeld. Wit gras aan de onderkant contrasteert met de donkere vormen, terwijl de hand met zichtbare aders en textuur de voorgrond domineert. De compositie combineert realistische details met gestileerde patronen in een beperkt kleurenpalet van roze, oranje, zwart en wit.",
+      "cyclus": 15586,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van de horizonlijn ten opzichte van de hand', 'lichte wazigheid in de textuur van de wolken aan de randen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld combineert een iconisch landschap met een onverklaarde, bijna ongemakkelijke aanwezigheid van de hand, wat het buiten de ansichtkaart-categorie plaatst.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015586_15648.webp"
+    },
+    {
+      "id": 15646,
+      "titel": "Schroeven en schatten in stilstaand water",
+      "beschrijving": "Donkere, versleten houten blokken drijven in een grijs, textuurrijk vlak dat water suggereert, met subtiele rimpelingen rond de randen. Een metalen schroef steekt schuin uit één blok, met een glimmende kop en geribbelde steel. Donkere vlekken en kleine, donkere voorwerpen—mogelijk schroeven of stenen—liggen verspreid. Een afgesleten, donkere vorm, mogelijk een hoed of fragment, drijft dichter bij de voorgrond. De houtstructuur toont barsten en slijtage, met donkere schaduwen die diepte geven. Het geheel straalt een verlaten, vochtige sfeer uit, met een focus op verwaarloosde materialen en stille beweging in het water.",
+      "cyclus": 15584,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van houten structuren rechtsboven', 'lichte wazigheid in textuur van achtergrondpapier']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en ongemakkelijk",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015584_15646.webp"
+    },
     {
       "id": 15639,
       "titel": "Handen die wachten op een antwoord",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w015533_15595.webp"
-    },
-    {
-      "id": 15593,
-      "titel": "Vingers in de roetlaag",
-      "beschrijving": "Twee handen houden een donkergrijze, verkoolde houten balk vast, met zichtbare vezels en een ruwe textuur. Rondom liggen meer verkoolde houten stukken op een donkere, korrelige ondergrond met verspreide witte en donkere deeltjes. De handen hebben korte, nette nagels en de vingers omvatten het hout zorgvuldig. Het hout toont sporen van verhitting, met onregelmatige randen en kleine gaten. De achtergrond is onscherp, maar laat zien dat de scène buiten speelt, op wat lijkt op nat of donker zand.",
-      "cyclus": 15531,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het toont een intieme, close-up scène van handen die hout vasthouden, zonder iconische of decoratieve elementen.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015531_15593.webp"
-    },
-    {
-      "id": 15591,
-      "titel": "Handen die kool vormgeven tot golven",
-      "beschrijving": "Drie handen grijpen donkere, onregelmatige blokken die lijken op kool of nat steen, verspreid over een oppervlak met golvende, witte lijnen die aan stromend water of rook denken laten. Kleine fragmenten en druppels donker materiaal liggen eromheen, samen met een houten voorwerp dat op een hamer of stamper lijkt. De achtergrond is een mengsel van grijze en beige tinten met vage textuur, alsof het om een verlaten werkplaats of een nat landschap gaat. De handen bewegen alsof ze de blokken verschuiven of vormen, terwijl de witte golven een gevoel van beweging en onrust door de scène dragen. Kleuren zijn gedempt, met accenten van bruin en zwart tegen de lichte achtergrond.",
-      "cyclus": 15529,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van stenen', 'lichte wazigheid in achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen en afwezigheid.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015529_15591.webp"
     }
   ],
   "afgekeurd": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15583,
-    "gemaakt": 15645,
-    "gekozen": 2449,
+    "cycli": 15591,
+    "gemaakt": 15652,
+    "gekozen": 2451,
     "afgekeurd": 1847,
-    "corpus": 71,
+    "corpus": 72,
     "notities": 550
   }
 }
