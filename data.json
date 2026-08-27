@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T21:00+02:00",
+  "bijgewerkt": "2026-08-27T21:15+02:00",
   "werk": [
+    {
+      "id": 15720,
+      "titel": "Druppel die de spiegel doorsnijdt",
+      "beschrijving": "Twee handen zweven boven een wateroppervlak, waarbij de vingers van de bovenste hand zachtjes een druppel water laten vallen die een spiraal van rimpels veroorzaakt. Het water weerspiegelt vaag de handen en onduidelijke vormen, met subtiele tinten groen en bruin in de diepere lagen. Kleine, heldere druppels hangen in de lucht, terwijl de achtergrond bestaat uit een onscherpe mix van grijze en blauwe tinten. Rechtsonder drijven enkele kleine, kleurige fragmenten—geel en groen—op het water, die een scherp contrast vormen met de overwegend neutrale palet. De beweging van het water en de handen straalt een rustige, bijna meditatieve sfeer uit, met een focus op de fijne details van licht en reflectie.",
+      "cyclus": 15658,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een intieme, dynamische moment zonder decoratief licht of typische ansichtkaartcompositie.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015658_15720.webp"
+    },
+    {
+      "id": 15719,
+      "titel": "Handen die stilstaan voor de steek",
+      "beschrijving": "Zes handen vormen een cirkel op een effen blauwe ondergrond, waarbij twee handen elk een dun, puntig metaalvoorwerp vasthouden dat op een naald of priem lijkt. Drie onregelmatige, donkere voorwerpen met een glanzende, bijna gesmolten textuur liggen verspreid tussen de handen. De handen zijn lichtgekleurd met zichtbare aderen en nagels, en de composities stralen een spanning uit tussen de handen en de voorwerpen. De blauwe achtergrond is uniform en zonder afleiding, waardoor de focus ligt op de interactie tussen de handen en de objecten. De sfeer is intiem en iets ongemakkelijks.",
+      "cyclus": 15657,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongebruikelijke compositie met handen en voorwerpen in een spanningsveld, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015657_15719.webp"
+    },
     {
       "id": 15706,
       "titel": "Vingers die bijna raken",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w015612_15674.webp"
-    },
-    {
-      "id": 15669,
-      "titel": "Wat bleef ongeraakt",
-      "beschrijving": "Twee handen zweven boven een roodbruine achtergrond, de vingers licht gespreid alsof ze net iets wilden aanraken. De linkerhand heeft blauwe nagels en een roze vlek op de pols, de rechterhand is lichter getekend met subtiele roze en blauwe tinten. Een kleine rode cirkel drijft tussen de handen door, alsof het een druppel of een vonk is die net valt. De armen verdwijnen in een vaag, textuurloos kleed dat de ruimte om de handen heen vul",
-      "cyclus": 15607,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de proporties van de handen (linkerhand lijkt groter dan rechterhand)', 'Subtiele wazigheid in de achtergrondtextuur, alsof de verf te snel is aangebracht']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met de asymmetrische plaatsing van de handen en de beperkte kleurenpalet.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015607_15669.webp"
-    },
-    {
-      "id": 15659,
-      "titel": "Bijna een cirkel",
-      "beschrijving": "Zes donkere handen strekken zich uit naar het midden van een beige vlak, waarbij de vingers bijna elkaar raken maar een subtiele ruimte laten. Vier donkere, onregelmatige blokken drijven rond de handen, met schuine randen en schaduwrijke textuur. De handen hebben een ruwe, geschilderde uitstraling met zichtbare penseelstreken, en de vingers variëren in houding: sommige zijn gespreid, andere licht gebogen. De achtergrond is egaal en textuurloos, waardoor de handen en blokken scherp afsteken. De compositie straalt een spanning uit tussen verbinding en afstand, met de handen die een cirkel vormen maar niet echt samenkomen.",
-      "cyclus": 15597,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van handen (sommige vingers lijken onnatuurlijk gebogen)', 'Textuur van achtergrond is wat wazig/smeuiig, alsof het papier niet scherp wordt weergegeven']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een bewuste, bijna ongemakkelijke spanning tussen de handen en de lege ruimte.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015597_15659.webp"
     }
   ],
   "afgekeurd": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15660,
-    "gemaakt": 15722,
-    "gekozen": 2462,
+    "cycli": 15668,
+    "gemaakt": 15730,
+    "gekozen": 2464,
     "afgekeurd": 1853,
-    "corpus": 71,
+    "corpus": 69,
     "notities": 552
   }
 }
