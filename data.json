@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T18:00+02:00",
+  "bijgewerkt": "2026-08-27T18:15+02:00",
   "werk": [
+    {
+      "id": 15639,
+      "titel": "Handen die wachten op een antwoord",
+      "beschrijving": "Twee handen liggen open en palmomhoog op een grijze, textuurrijke ondergrond met donkere vlekken en sporen van vocht. De huid is rozeachtig, met zichtbare aderen en fijne lijntjes, en de vingers zijn licht gespreid. De polsen en onderarmen lopen naar de randen van het beeld, waar de huid overgaat in een zachter, bijna witte tint. De handen stralen een rustige, bijna kwetsbare houding uit, met een subtiele glans die nat of oliehoudend suggereert. De achtergrond is ongelijkmatig, met zachte overgangen tussen lichte en donkere grijstinten, wat een gevoel van diepte en onrust geeft. Er is geen duidelijke horizon of context, waardoor de handen centraal staan als enig focuspunt in een lege, bijna abstracte ruimte.",
+      "cyclus": 15577,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De handen zijn een herhalend motief, maar de compositie en de nadruk op de leegte eromheen geven het een persoonlijke, niet-toeristische uitstraling.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015577_15639.webp"
+    },
+    {
+      "id": 15633,
+      "titel": "Donkere vingers, verbrokkelde blokken",
+      "beschrijving": "Vijf handen met donkere, textuurrijke vingers en nagels raken of omvatten donkere, onregelmatige blokken met een ruwe, bijna verbrokkelde structuur. De handen en blokken liggen verspreid over een lichtgrijze achtergrond met subtiele, cirkelvormige penseelstreken en verspreide donkere deeltjes. De handen hebben een bijna houtsnijderachtige textuur, met diepe lijnen en ongelijkheden die de indruk wekken van slijtage of verweering. De blokken hebben een glanzende, bijna natte uitstraling op sommige plekken, terwijl andere delen ruw en korrelig zijn. Kleine, donkere fragmenten en wat lijkt op schuurtjes of krassen omringen de blokken en handen, met hier en daar een glimmend, witachtig deeltje dat contrasteert met de donkere tinten. De compositie is dynamisch, met de handen en blokken in verschillende hoeken en posities, alsof ze net bewogen zijn of in een moment van actie bevriezen. De sfeer is intens en bijna tactiel, met een focus op de fysieke eigenschappen van de materialen en de interactie tussen de handen en de blokken.",
+      "cyclus": 15571,
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele vervorming in vingers van linkerhand bovenaan', 'lichte inconsistentie in textuur van donkere blokken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015571_15633.webp"
+    },
     {
       "id": 15623,
       "titel": "Waar bleef de oever?",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015529_15591.webp"
-    },
-    {
-      "id": 15580,
-      "titel": "Handen die de leegte vasthouden",
-      "beschrijving": "Vier handen omringen een donkergrijze, rechthoekige leegte, geflankeerd door verbrande, donkerbruine en zwarte blokken met oranje gloed aan de randen. De handen, met lichtgekleurde nagels, raken de randen van de blokken aan, alsof ze de leegte vasthouden of beschermen. De blokken hebben een ruwe, gebarsten textuur met sporen van hitte en verval, en sommige delen glanzen alsof ze nat zijn. Rondom de blokken liggen verspreide, donkere fragmenten met onregelmatige vormen en texturen, sommige met metalen of glanzende details. De compositie is symmetrisch, met de handen en blokken die een kader vormen rond de lege, gladde ruimte in het midden. De sfeer is zwaar en mysterieus, met een gevoel van spanning tussen de handen die de leegte omvatten en de verwoestende textuur van de blokken.",
-      "cyclus": 15518,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een bewuste compositorische keuze met de handen die een lege ruimte omringen, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015518_15580.webp"
-    },
-    {
-      "id": 15579,
-      "titel": "Hout dat terugblikt",
-      "beschrijving": "Donkere, getekende vlakken omringen verscheurde randen van wit papier, waarachter houten blokken met donkere, korrelige oppervlakken en bruine houtvezels zichtbaar zijn. De blokken liggen willekeurig verspreid, sommige deels bedekt door het papier, met schaduwen die diepte suggereren. De achtergrond bestaat uit een donkergrijze, textuurrijke ondergrond met subtiele, witte krassporen die willekeurig door het beeld lopen. De contrasten tussen het ruwe hout, de scherpe papierranden en de donkere achtergrond creëren een gevoel van verbroken structuur en onafgewerktheid.",
-      "cyclus": 15517,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een bewuste compositorische keuze met de scheur in het papier en de houten blokken, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015517_15579.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15643,
+      "cyclus": 15581,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "tekst/tekens in beeld",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met onbegrijpelijke tekst.",
+      "bestand": "images/a015581_15643.webp"
+    },
     {
       "id": 15619,
       "cyclus": 15557,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', \"vervormde letters (bijv. 'remmmebers')\", 'inconsistent lettertype/grootte']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is intentioneel ongemakkelijk en niet-bevestigend.",
       "bestand": "images/a015538_15600.webp"
-    },
-    {
-      "id": 15589,
-      "cyclus": 15527,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief van de houten steunpilaren: sommige lijken te kort of te schuin ten opzichte van de waterlijn', 'Subtiele halo rond de rookpluim tegen de oranje lucht, alsof de rook te scherp afgetekend is']",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: een verlaten houten pier bij zonsondergang met dramatische wolken en reflecties, zonder onverwachte compositorische keuzes of een eigen standpunt",
-      "bestand": "images/a015527_15589.webp"
     }
   ],
   "onderzoek": {
@@ -330,10 +330,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15577,
-    "gemaakt": 15638,
-    "gekozen": 2447,
-    "afgekeurd": 1846,
+    "cycli": 15583,
+    "gemaakt": 15645,
+    "gekozen": 2449,
+    "afgekeurd": 1847,
     "corpus": 71,
     "notities": 550
   }
