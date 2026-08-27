@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T19:15+02:00",
+  "bijgewerkt": "2026-08-27T19:30+02:00",
   "werk": [
+    {
+      "id": 15674,
+      "titel": "Handen die geschiedenis sorteren",
+      "beschrijving": "Een close-up van twee handen die houten blokken op een roodbruine houten vloer ordenen. De blokken hebben een verweerde textuur met zichtbare houtvezels, knoesten en donkere vlekken. Een hand pakt een klein, onregelmatig houten blokje vast, terwijl de andere hand een langwerpig blok vasthoudt. Verspreid liggen houtspanen en kleine houtdeeltjes op de vloer. De belichting is zacht en warm, met schaduwen die de textuur van het hout en de handen benadrukken. De compositie is dynamisch, met de blokken en handen die diagonaal door het beeld lopen.",
+      "cyclus": 15612,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een intieme, niet-decoratieve scène met een focus op textuur en actie, geen ansichtkaart-esthetiek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015612_15674.webp"
+    },
+    {
+      "id": 15669,
+      "titel": "Wat bleef ongeraakt",
+      "beschrijving": "Twee handen zweven boven een roodbruine achtergrond, de vingers licht gespreid alsof ze net iets wilden aanraken. De linkerhand heeft blauwe nagels en een roze vlek op de pols, de rechterhand is lichter getekend met subtiele roze en blauwe tinten. Een kleine rode cirkel drijft tussen de handen door, alsof het een druppel of een vonk is die net valt. De armen verdwijnen in een vaag, textuurloos kleed dat de ruimte om de handen heen vul",
+      "cyclus": 15607,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de proporties van de handen (linkerhand lijkt groter dan rechterhand)', 'Subtiele wazigheid in de achtergrondtextuur, alsof de verf te snel is aangebracht']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een persoonlijke compositorische keuze met de asymmetrische plaatsing van de handen en de beperkte kleurenpalet.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015607_15669.webp"
+    },
     {
       "id": 15659,
       "titel": "Bijna een cirkel",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w015556_15618.webp"
-    },
-    {
-      "id": 15615,
-      "titel": "Rode vlek op de palm",
-      "beschrijving": "Twee donkere handen met uitgestrekte vingers zweven boven een effen, donkergrijze achtergrond, alsof ze net uit een donkere vloeistof komen. De nagels zijn lang, scherp en geverfd in een felroze kleur met witte punten, wat een scherp contrast vormt met de matte, bijna verbrande textuur van de huid. De vingers zijn licht gebogen, alsof ze iets willen vastgrijpen, maar de ruimte tussen hen is leeg. Op de palm van de bovenste hand zit een klein, rood vlekje, alsof er bloed aan kleeft. De achtergrond is glad, maar heeft subtiele krassen en sporen van slijtage, alsof het een oud metaalblad is. De handen zijn niet symmetrisch geplaatst: de bovenste hand is groter en domineert het beeld, terwijl de onderste hand kleiner en meer aan de kant staat, alsof hij zich terugtrekt. Er is geen duidelijke horizon of context, waardoor de handen zweven in een onbepaalde ruimte. De sfeer is ongemakkelijk intiem, alsof de kijker een moment van stilte getuigt dat niet voor hem bestemd was.",
-      "cyclus": 15553,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in vingers (te lang/te dun)', 'onduidelijke overgang tussen handen en achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust asymmetrisch en ongemakkelijk.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015553_15615.webp"
-    },
-    {
-      "id": 15611,
-      "titel": "De ontbrekende vinger die spreekt",
-      "beschrijving": "Drie handen vormen een onvoltooide cirkel tegen een achtergrond van donkere, wazige vlekken en fijne, krassende lijnen. De handen zijn lichtgrijs getekend met zachte schaduwen, terwijl de achtergrond overwegend zwart en donkergrijs is met subtiele bruine en oranje tinten in de hoek. De vingers raken elkaar bijna, maar sluiten niet helemaal de lus, wat een gevoel van spanning creëert. Donkere, onregelmatige vormen suggereren nat of opgelost materiaal, en dunne, witte lijnen snijden door de compositie als sporen van beweging. Een kleine, helder oranje vlek in de linkeronderhoek trekt het oog als enige kleurrijke uitwijking in een anders monocrome scene.",
-      "cyclus": 15549,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in vingers van linkerhand', 'wazige overgang tussen donkere vlekken en lichte achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015549_15611.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15678,
+      "cyclus": 15616,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke narratieve intentie.",
+      "bestand": "images/a015616_15678.webp"
+    },
     {
       "id": 15661,
       "cyclus": 15599,
@@ -150,15 +159,6 @@
       "tech_notities": "tekst/tekens in beeld, vervormde letters en onleesbare woorden",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met tekstfragmenten",
       "bestand": "images/a015592_15654.webp"
-    },
-    {
-      "id": 15643,
-      "cyclus": 15581,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "tekst/tekens in beeld",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met onbegrijpelijke tekst.",
-      "bestand": "images/a015581_15643.webp"
     }
   ],
   "onderzoek": {
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15612,
-    "gemaakt": 15673,
-    "gekozen": 2453,
-    "afgekeurd": 1849,
-    "corpus": 72,
+    "cycli": 15618,
+    "gemaakt": 15679,
+    "gekozen": 2455,
+    "afgekeurd": 1850,
+    "corpus": 69,
     "notities": 551
   }
 }
