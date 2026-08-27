@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T15:30+02:00",
+  "bijgewerkt": "2026-08-27T15:45+02:00",
   "werk": [
+    {
+      "id": 15579,
+      "titel": "Hout dat terugblikt",
+      "beschrijving": "Donkere, getekende vlakken omringen verscheurde randen van wit papier, waarachter houten blokken met donkere, korrelige oppervlakken en bruine houtvezels zichtbaar zijn. De blokken liggen willekeurig verspreid, sommige deels bedekt door het papier, met schaduwen die diepte suggereren. De achtergrond bestaat uit een donkergrijze, textuurrijke ondergrond met subtiele, witte krassporen die willekeurig door het beeld lopen. De contrasten tussen het ruwe hout, de scherpe papierranden en de donkere achtergrond creëren een gevoel van verbroken structuur en onafgewerktheid.",
+      "cyclus": 15517,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een bewuste compositorische keuze met de scheur in het papier en de houten blokken, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015517_15579.webp"
+    },
+    {
+      "id": 15570,
+      "titel": "Vonken die blijven dansen",
+      "beschrijving": "Drie verbrande houten balken liggen schuin op elkaar, omringd door as en koolstofresten. Witte rook stijgt op in slome, golvende bewegingen, terwijl kleine oranje vonken tussen het hout oplichten. Verspreid liggen witte en grijze asvlokken, verbrande bladeren en kleine houtsplinters. De balken hebben een ruwe, gescheurde textuur met glimmende, verharde plekken. De achtergrond bestaat uit donkere, verbrande grond met hier en daar een onduidelijk voorwerp. Het licht valt schuin, waardoor de rook en vonken scherp afsteken tegen de donkere omgeving.",
+      "cyclus": 15508,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte halo rond roodgloeiende kolen', 'enkele witte asdeeltjes hebben onnatuurlijke scherpe randen']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de focus ligt op de ongemakkelijke textuur van ontbinding, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015508_15570.webp"
+    },
     {
       "id": 15567,
       "titel": "Bijna aanraking zonder aanraking",
@@ -104,35 +130,27 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015467_15529.webp"
-    },
-    {
-      "id": 15524,
-      "titel": "Waar blijven de reizigers?",
-      "beschrijving": "Donkere, versleten koffers en kisten staan schuin tegen elkaar opgestapeld, met metalen beslagen en handvatten die het licht vangen. Twee lange, slanke staven leunen tegen de koffers, naast een kleine hamer met een houten steel die op de grond ligt. Rechts bevinden zich twee snareninstrumenten met peervormige lichamen en lange hals, waarvan één een donkerdere, bijna bruine tint heeft dan de andere. De achtergrond is een egale, lichte muur die overgaat in een zachtgrijze vloer, waardoor de voorwerpen scherp afsteken. Schaduwen vallen lang en donker, vooral bij de koffers en instrumenten, en benadrukken de driedimensionale vorm. De kleuren zijn gedempt, met accenten van bruin, zwart en goud, wat een rustige, bijna verlaten sfeer oproept.",
-      "cyclus": 15462,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in schaduwen bij de muziekinstrumenten', 'lichte wazigheid in de achtergrondtextuur']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is ongemakkelijk en zonder duidelijke focus.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015462_15524.webp"
-    },
-    {
-      "id": 15515,
-      "titel": "Vingers tegen de korrel",
-      "beschrijving": "Twee handen grijpen elkaar midden in een verticale spleet tussen houten planken, vingers verstrengeld in een omhelzing van druk en spanning. De huid is getekend met fijne lijnen, aders en nagels die de textuur van het hout weerspiegelen. Donkere, onregelmatige blokken—wellicht kool of gesteente—raken de handen aan de randen, alsof ze de greep willen doorbreken. Het hout heeft diepe, parallelle korrelstructuren, met schaduwen die de diepte van de spleet benadrukken. Licht valt schuin van bovenaf, waardoor de handen en de textuur van het hout in reliëf komen te staan. De compositie is strak en symmetrisch, met de handen als centraal punt van spanning tussen de harde lijnen van het hout en de organische vorm van de vingers. Geen beweging, maar een bevroren moment van contact en weerstand.",
-      "cyclus": 15452,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van houten panelen bovenaan', 'lichte wazigheid in textuur van huid aan linkerzijde']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015452_15515.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15582,
+      "cyclus": 15520,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "cliche_notities": "Het beeld toont een typisch voorjaarsschap met kersenbloesems en een beek, geschilderd in een decoratieve, romantische stijl zonder duidelijke compositorische keuze of eigen standpunt.",
+      "bestand": "images/a015520_15582.webp"
+    },
+    {
+      "id": 15577,
+      "cyclus": 15515,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters en onleesbare woorden', 'inconsistente lettergroottes en -stijlen', 'wazige en smeuiige texturen in de achtergrond', 'herhaalpatronen in de achtergrondtextuur']",
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont geen decoratief perfect licht, maar concentreert zich op een abstracte, bijna chaotische compositie met tekst als centraal element.",
+      "bestand": "images/a015515_15577.webp"
+    },
     {
       "id": 15546,
       "cyclus": 15484,
@@ -141,24 +159,6 @@
       "tech_notities": "['Hand is iets te stijf en ontbreekt aan natuurlijke vingersverhoudingen', 'Textuur van de windmolen toont lichte inconsistenties in schaduwval']",
       "cliche_notities": "De windmolen als iconisch Nederlands symbool in een klassieke compositie zonder duidelijke persoonlijke interpretatie maakt dit een ansichtkaartachtig beeld.",
       "bestand": "images/a015484_15546.webp"
-    },
-    {
-      "id": 15511,
-      "cyclus": 15448,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van het huisje ten opzichte van de boom', 'lichte wazigheid in de textuur van de handen aan de randen']",
-      "cliche_notities": "Dit beeld straalt een typisch ansichtkaartmotief uit met een idyllisch huisje, een boom en een zonsondergang, uitgevoerd in een decoratieve, bijna naïeve stijl zonder duidelijke compositorische verbeelding.",
-      "bestand": "images/a015448_15511.webp"
-    },
-    {
-      "id": 15489,
-      "cyclus": 15426,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine vervorming in de vingers van de hand, lichte wazigheid in de achtergrond",
-      "cliche_notities": "Dit is een typische ansichtkaartafbeelding van een kunstenaar aan het werk, met een perfecte compositie en decoratief licht.",
-      "bestand": "images/a015426_15489.webp"
     }
   ],
   "onderzoek": {
@@ -330,10 +330,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15514,
-    "gemaakt": 15575,
-    "gekozen": 2436,
-    "afgekeurd": 1841,
+    "cycli": 15521,
+    "gemaakt": 15582,
+    "gekozen": 2438,
+    "afgekeurd": 1843,
     "corpus": 72,
     "notities": 549
   }
