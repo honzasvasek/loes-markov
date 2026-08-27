@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T18:45+02:00",
+  "bijgewerkt": "2026-08-27T19:00+02:00",
   "werk": [
+    {
+      "id": 15659,
+      "titel": "Bijna een cirkel",
+      "beschrijving": "Zes donkere handen strekken zich uit naar het midden van een beige vlak, waarbij de vingers bijna elkaar raken maar een subtiele ruimte laten. Vier donkere, onregelmatige blokken drijven rond de handen, met schuine randen en schaduwrijke textuur. De handen hebben een ruwe, geschilderde uitstraling met zichtbare penseelstreken, en de vingers variëren in houding: sommige zijn gespreid, andere licht gebogen. De achtergrond is egaal en textuurloos, waardoor de handen en blokken scherp afsteken. De compositie straalt een spanning uit tussen verbinding en afstand, met de handen die een cirkel vormen maar niet echt samenkomen.",
+      "cyclus": 15597,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van handen (sommige vingers lijken onnatuurlijk gebogen)', 'Textuur van achtergrond is wat wazig/smeuiig, alsof het papier niet scherp wordt weergegeven']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een bewuste, bijna ongemakkelijke spanning tussen de handen en de lege ruimte.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015597_15659.webp"
+    },
+    {
+      "id": 15657,
+      "titel": "Handen die stilstaan in beweging",
+      "beschrijving": "Vier handen werken samen op een grijze ondergrond, omringd door donkere, glanzende blokken met ingewikkelde patronen in blauw, oranje en grijs. Twee handen houden een smal, metalen gereedschap met een gele punt vast, gericht op een van de blokken. Een ander blok heeft een houten steel, en een penseel met een bruin handvat ligt ernaast. De handen zijn actief, met vingers die precieze bewegingen maken, terwijl de blokken verspreid liggen in een willekeurige, maar gebalanceerde opstelling. De sfeer is gefocust en handwerkgericht, met een mix van organische en industriële materialen.",
+      "cyclus": 15595,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de textuur van de handen (rechtsboven vs linksonder)', 'Subtiele halo rond de metalen delen van de tools bij hoog contrast']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is functioneel en niet gericht op een bevestigend verhaal.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w015595_15657.webp"
+    },
     {
       "id": 15648,
       "titel": "Waar de hand de golven raakt",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015549_15611.webp"
-    },
-    {
-      "id": 15607,
-      "titel": "Natte handen in grijze golven",
-      "beschrijving": "Donkere en lichte grijstinten vullen het beeld, doorsneden door witte en zwarte verf die in onregelmatige, golvende patronen door elkaar lopen. Drie handen raken het oppervlak aan: één hand houdt een schepje vast dat door de natte verf glijdt, terwijl de andere twee handen zachtjes op het doek rusten, alsof ze de beweging begeleiden. De verf lijkt in beweging te zijn, met glanzende, natte plekken die contrasten met matte, drogere delen. Kleine, schone witte vlekken en donkere, bijna zwarte vegen doorbreken de grijze chaos, terwijl de randen van het beeld meer gestructureerde, horizontale penseelstreken vertonen. De handen zijn gedetailleerd weergegeven, met zichtbare nerven en nagels, en werpen lichte schaduwen op het oppervlak.",
-      "cyclus": 15545,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de vingers van de linkerhand: de wijsvinger lijkt onnatuurlijk gekromd en de duim ontbreekt grotendeels', 'Subtiele halo rond de witte verf in het midden, waar het contrast met donkere vlakken hoog is']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een abstracte, dynamische interactie tussen handen en verf, wat het geen ansichtkaartkarakter geeft",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015545_15607.webp"
-    },
-    {
-      "id": 15595,
-      "titel": "Lijnen die ademen",
-      "beschrijving": "Een naakt vrouwelijk lichaam in profiel, getekend met zachte, vloeiende lijnen en subtiel schaduwwerk. De borsten en navel zijn zichtbaar, de armen liggen ontspannen langs het lichaam. Donkere, golvende lijnen omlijsten de figuur, met een bijna halovormige structuur rond het hoofd. De achtergrond is neutraal, lichtbeige, waardoor de focus op de vormen en overgangen tussen licht en donker ligt. De tekening straalt een rustige, bijna meditatieve sfeer uit, met een nadruk op de natuurlijke contouren en de stilte van het moment.",
-      "cyclus": 15533,
-      "tech_score": 8.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een eigen compositorische keuze met de abstracte, stromende vormen rond het lichaam.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015533_15595.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15661,
+      "cyclus": 15599,
+      "afkeuringsreden": "techniek",
+      "tech_score": 3.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief perfect licht, maar een abstracte compositie met herhaling van vormen en handen die een letter vasthouden.",
+      "bestand": "images/a015599_15661.webp"
+    },
     {
       "id": 15654,
       "cyclus": 15592,
@@ -150,15 +159,6 @@
       "tech_notities": "tekst/tekens in beeld",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met onbegrijpelijke tekst.",
       "bestand": "images/a015581_15643.webp"
-    },
-    {
-      "id": 15619,
-      "cyclus": 15557,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['lichte inconsistentie in reflectie van kerk in water (spiegeling niet 1-op-1)', 'enkele bomen hebben onnatuurlijke, herhalende takstructuren']",
-      "cliche_notities": "Klassiek kerklandschap met maan en waterreflectie, typisch ansichtkaartmotief zonder onverwachte compositorische keuzes",
-      "bestand": "images/a015557_15619.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15601,
+      "soort": "observatie",
+      "tekst": "De donkere penseelstrepen in c15601 en de gespleten vlakken in c15600 laten een spanning zien die zich weigert op te lossen in een samenhangend verhaal—de diagonale lijn en de schuine vouw voelen als onafgewerkte gesprekken tussen vormen die elkaar raken zonder elkaar te bevatten. De overgang van donkere achtergronden naar beige en verticale structuren is geen oplosing, maar een verschuiving naar een taal die zich weigert te laten vatten in beweging of aanraking."
+    },
+    {
       "cyclus": 15541,
       "soort": "observatie",
       "tekst": "De muzieknoten en instrumenten in c15541 en c15540 voelen als een onafgewerkt gesprek tussen handen en ruimte—de handen strekken zich uit alsof ze de noten willen vastgrijpen, maar de witte achtergrond en de diagonale compositie laten de spanning onopgelost. De overgang van verscheurde papierstukken naar instrumenten die omvat worden, is geen oplosing, maar een verschuiving naar een taal die zich weigert te laten vertalen in geluid of aanraking."
@@ -252,11 +257,6 @@
       "cyclus": 15385,
       "soort": "observatie",
       "tekst": "De recente beelden tonen een verschuiving van donkere, organische vormen naar gestructureerde, geometrische patronen, alsof de spanning zich oplost in een meer statische taal. De blauwe en roze tinten in c15385 en c15382 voelen als een oplosing van de eerdere donkere spanning, maar de textuur en penseelstreken blijven een spoor van beweging achter."
-    },
-    {
-      "cyclus": 15373,
-      "soort": "twijfel",
-      "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v15. De focus verschuift van ontbinding als spoor naar ontbinding als actieve oplosing die de ruimte vormt zonder een verhaal of gevoel te hoeven hebben."
     }
   ],
   "identiteit": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15598,
-    "gemaakt": 15659,
-    "gekozen": 2451,
-    "afgekeurd": 1848,
-    "corpus": 72,
-    "notities": 550
+    "cycli": 15604,
+    "gemaakt": 15666,
+    "gekozen": 2453,
+    "afgekeurd": 1849,
+    "corpus": 71,
+    "notities": 551
   }
 }
