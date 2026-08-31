@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-31T21:45+02:00",
+  "bijgewerkt": "2026-08-31T22:00+02:00",
   "werk": [
     {
       "id": 16090,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 16097,
+      "cyclus": 16037,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen', 'inconsistent perspectief huizen']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke compositie met handen en tekst.",
+      "bestand": "images/a016037_16097.webp"
+    },
+    {
       "id": 16088,
       "cyclus": 16028,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Dit beeld past in de categorie 'toeristische ansichtkaart' door het iconische onderwerp van handen die een cirkel vormen, een veelgebruikt motief dat samenwerking en eenheid symboliseert zonder een uniek standpunt of compositorische verrassing.",
       "bestand": "images/a016027_16087.webp"
-    },
-    {
-      "id": 16080,
-      "cyclus": 16020,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in vingerlengten bij de handen aan de rechterkant', 'Subtiele halo rond de lichtstraal in de achtergrond']",
-      "cliche_notities": "Het beeld herinnert aan een klassiek atelierportret met een iconische compositie van handen en verf, zonder duidelijke persoonlijke interpretatie of onverwachte keuzes.",
-      "bestand": "images/a016020_16080.webp"
     }
   ],
   "onderzoek": {
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 16035,
-    "gemaakt": 16094,
+    "cycli": 16041,
+    "gemaakt": 16101,
     "gekozen": 2529,
-    "afgekeurd": 1872,
-    "corpus": 68,
+    "afgekeurd": 1873,
+    "corpus": 67,
     "notities": 565
   }
 }
