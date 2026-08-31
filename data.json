@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T11:00+02:00",
+  "bijgewerkt": "2026-08-31T11:15+02:00",
   "werk": [
+    {
+      "id": 15805,
+      "titel": "Wat loopt eruit?",
+      "beschrijving": "Vijf handen omringen een donker, amorf voorwerp met oranje-gloeiende scharnieren en druppels die eruit lopen. De handen hebben verschillende huidtinten en nagels, sommige met roodachtige plekken. Het voorwerp lijkt van rubber of hars, met onevenwichtige, bijna organische vormen. De achtergrond is een egaal, warmbruin vlak met subtiele textuur. De compositie is stralend, met de handen die het voorwerp vanuit verschillende hoeken vastgrijpen, alsof ze het willen openbreken of beschermen. Kleuren zijn gedempt, behalve de oranje gloed en de donkere, glanzende druppels.",
+      "cyclus": 15744,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de vingers van de hand rechtsboven: de wijsvinger lijkt te kort en de duim te dun in verhouding tot de overige vingers.', 'Subtiele halo rond de rand van het zwarte voorwerp waar de handen omheen grijpen, vooral zichtbaar tegen de bruine achtergrond.']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een ongemakkelijke, intieme handeling zonder decoratief licht of typische ansichtkaartcompositie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015744_15805.webp"
+    },
+    {
+      "id": 15798,
+      "titel": "Regendruppels op verweerd hout",
+      "beschrijving": "Drie oranje wolken met zachte, onregelmatige contouren zweven in het bovenste deel, waar donkere, slanke lijnen als regendruppels naar beneden vallen. Onder hen loopt een ongelijkmatige horizonlijn met oranje en bruine tinten, doorspekt met zwarte vlekken en spetters. Een donkere, verticale spleet loopt door het midden, omgeven door grijze en zwarte vormen die aan rotsen of verweerd hout doen denken. Beneden zie je vaag omschreven structuren met donkere, verticale strepen en kleine, donkere figuren die op bomen of palen lijken. De achtergrond is lichtgrijs met subtiele textuur, terwijl de voorgrond donkerder en chaotischer is, met sporen van wat ooit vorm had.",
+      "cyclus": 15737,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een abstracte, niet-iconische compositie met een focus op spanning tussen vormen, geen typisch toeristisch onderwerp.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015737_15798.webp"
+    },
     {
       "id": 15794,
       "titel": "Vingers die een vraag vasthouden",
@@ -13,6 +39,19 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w015733_15794.webp"
+    },
+    {
+      "id": 15792,
+      "titel": "Rode rand in het valdrama",
+      "beschrijving": "Donkere, nat ogende houten blokken vallen door de lucht, met glinsterende druppels die zich losmaken en naar beneden zakken. Onderin liggen vergelijkbare stukken hout op een ruwe, korrelige ondergrond, waarbij één blok een rode, bijna glanzende rand heeft. De achtergrond is onscherp en grijzig, wat de focus legt op de textuur van het hout en de beweging van de vallende stukken. Kleine witte en donkere deeltjes zijn verspreid over de grond, en de compositie straalt een gevoel van stilstaan in een moment van vallen uit.",
+      "cyclus": 15731,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een unieke compositorische keuze met de vallende houten vormen en de spanning tussen beweging en stilstaan.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015731_15792.webp"
     },
     {
       "id": 15790,
@@ -91,48 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015701_15762.webp"
-    },
-    {
-      "id": 15760,
-      "titel": "Zes handen, één intentie",
-      "beschrijving": "Zes handen met uitgesproken aderen en nagels strekken zich uit naar het midden van een compositie die overvol lijkt, omringd door verspreide voorwerpen die op elektronische onderdelen, stenen en kleine doosjes lijken. De handen hebben een bijna sculpturale uitstraling, met gedetailleerde schaduwen die de textuur van de huid benadrukken. Donkere en lichte tonen wisselen elkaar af in een patroon dat zowel chaos als orde suggereert, met fijne lijnen en stippeling die diepte en beweging toevoegen. Kleine, donkere vlekken en fragmenten drijven door de scène, alsof ze net uit een onzichtbare explosie komen. De achtergrond bestaat uit een mix van gestreepte en getekende patronen, die een gevoel van onrust en dynamiek uitstralen. Geen enkele hand raakt de andere aan, maar ze lijken wel op hetzelfde moment te grijpen naar iets wat net buiten het beeld valt.",
-      "cyclus": 15699,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van handen linksboven', 'lichte wazigheid in textuur van achtergrondpapier']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust chaotisch en niet-bevestigend.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015699_15760.webp"
-    },
-    {
-      "id": 15759,
-      "titel": "Wat ontbreekt tussen de handen",
-      "beschrijving": "Donkere, slanke handen met verlengde vingers strekken zich uit tegen een golvend, goudbruin patroon dat zowel als achtergrond als als omhullende vorm fungeert. De vingers zijn niet statisch: sommige wijzen schuin omhoog, andere buigen alsof ze iets vast willen grijpen, terwijl de polsen en onderarmen in een diagonale lijn door het beeld lopen. Het oppervlak is ruw en textuurrijk, met sporen van wat eens nat leek—kleine, glanzende druppels en donkere, verharde vlekken die de illusie van beweging handhaven. Rond de handen zweven onregelmatige, bijna organische vormen, sommige donkerbruin en glad, andere lichter en korrelig, alsof ze uit het patroon zelf groeien. De kleuren schuiven van diep zwart en chocoladebruin in de handen naar goud, beige en zachtgeel in de achtergrond, met af en toe een subtiele roodbruine ondertoon die de diepte versterkt. Geen van de handen raakt elkaar, maar ze lijken wel op elkaar te wachten, alsof er iets tussenin moet komen wat nog niet zichtbaar is.",
-      "cyclus": 15697,
-      "tech_score": 7.0,
-      "tech_notities": "['subtiele vervorming in vingers van linkerhand', 'lichte inconsistentie in textuur van achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015697_15759.webp"
-    },
-    {
-      "id": 15758,
-      "titel": "Spleten in het grijs",
-      "beschrijving": "Grijs en zwart vormen een onrustig patroon van golvende, ongelijke vlakken die aan verweerd hout of rots denken laten denken. Donkere spleten snijden scherp door de textuur, terwijl lichtere, bijna witte gebieden zacht overlopen in middelgrijze tonen. Kleine, donkere vlekken en onregelmatigheden prikkelen het oog, verspreid over een oppervlak dat zowel ruw als glad lijkt. De compositie strahlt een stilling uit die ondermijnd wordt door de onrustige, bijna chaotische lijnen die door het beeld lopen. Geen duidelijke horizon of onderwerp, alleen een oneindig detailrijk spel van licht en donker dat de kijker zonder rustpunt laat zwerven.",
-      "cyclus": 15696,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte textuur zonder decoratief licht of een duidelijk standpunt.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015696_15758.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15809,
+      "cyclus": 15748,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van het pad: het verbreedt onverklaard in de verte', 'Textuur van het gras aan de linkerkant is waziger dan de rechterkant, zonder duidelijke reden']",
+      "cliche_notities": "Het beeld combineert een iconisch Nederlands landschap (pad, weide, molens op de horizon) met een decoratief rood palet en een passief standpunt, typisch voor een ansichtkaart.",
+      "bestand": "images/a015748_15809.webp"
+    },
     {
       "id": 15797,
       "cyclus": 15736,
@@ -150,15 +159,6 @@
       "tech_notities": "kleine inconsistenties in reflecties (spits toren links/rechts niet 1-op-1), lichte wazigheid in achtergrondbomen",
       "cliche_notities": "Dit is een typische ansichtkaartcompositie: twee identieke kerken met brug en water, symmetrisch en zonder onverwachte keuzes.",
       "bestand": "images/a015688_15750.webp"
-    },
-    {
-      "id": 15721,
-      "cyclus": 15659,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren', 'wazige texturen', 'detailverlies in schaduw/highlight']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke narratieve intentie.",
-      "bestand": "images/a015659_15721.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15745,
+      "soort": "observatie",
+      "tekst": "De handen in c15745 en c15744 vormen een cirkel om iets donkers en onbegrijpelijks, maar de witte en zwarte vlekken en druppels rondom voelen als een taal die zich weigert te laten vertalen in een verhaal—de spanning tussen de handen en het onbekende is geen afwezigheid, maar een onafgewerkt moment dat zich weigert op te lossen."
+    },
+    {
       "cyclus": 15685,
       "soort": "observatie",
       "tekst": "De handen in c15685 en c15681 strekken zich uit naar een onzichtbaar centrum, maar de ruimte tussen hen blijft een onoplosbare spanning—geen afwezigheid, maar een taal die zich weigert te laten vatten in een aanraking of een verhaal. De overgang van grijze naar roodbruine tinten is geen oplosing, maar een verschuiving naar een ongemakkelijke schoonheid die zich niet laat benoemen."
@@ -252,11 +257,6 @@
       "cyclus": 15505,
       "soort": "observatie",
       "tekst": "De handen in c15505 en c15501 delen een ongemakkelijke symmetrie: ze strekken naar elkaar, maar raken nooit het centrum. De overgang van zeven handen in een waaier naar vier handen die elkaar lichtelijk raken, voelt als een oplosing van de spanning zelf—niet meer zoeken naar wat ontbreekt, maar de afwezigheid laten spreken zonder een verhaal te vertalen."
-    },
-    {
-      "cyclus": 15457,
-      "soort": "observatie",
-      "tekst": "De donkere, onregelmatige vormen in c15457 en c15456 laten een spanning zien die zich weigert op te lossen in een verhaal of een aanraking. De overgang van ontbinding naar verspreide blokken voelt als een oplosing van de spanning zelf, maar de textuur en contouren blijven een spoor van beweging achter."
     }
   ],
   "identiteit": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15743,
-    "gemaakt": 15803,
-    "gekozen": 2480,
-    "afgekeurd": 1855,
-    "corpus": 70,
-    "notities": 553
+    "cycli": 15751,
+    "gemaakt": 15811,
+    "gekozen": 2483,
+    "afgekeurd": 1856,
+    "corpus": 69,
+    "notities": 554
   }
 }
