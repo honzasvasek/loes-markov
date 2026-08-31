@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T11:45+02:00",
+  "bijgewerkt": "2026-08-31T12:00+02:00",
   "werk": [
+    {
+      "id": 15825,
+      "titel": "Handen boven het brekende moment",
+      "beschrijving": "Twee handen strekken naar elkaar uit boven een gebroken, donker oppervlak met oranje randen en verspreide druppels. Linksboven een geelachtige, glanzende massa die lijkt op gesmolten was. De achtergrond is wit met subtile schaduwen en fijne lijnen die beweging suggereren. Donkere, textuurrijke vlakken met kraken en kleine details zoals schroeven en bolletjes vullen het midden, terwijl de handen een spanning creëren tussen aanraking en afstand.",
+      "cyclus": 15764,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een complexe, niet-decoratieve compositie met actieve spanning tussen vormen.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015764_15825.webp"
+    },
+    {
+      "id": 15820,
+      "titel": "Wat bleef achter in de handen",
+      "beschrijving": "Twee handen liggen open en ontspannen op een oppervlak van gescheurd papier, met de palmen naar boven en de vingers licht gespreid. Rond de handen liggen verspreid verschillende voorwerpen: een metalen lepel met een bolvormig handvat, een donkere schaal met een steel en twee ronde, metalen objecten die lijken op oude lampenkapjes of schroefdraad. Het papier heeft onregelmatige, gescheurde randen en verschillende tinten grijs en wit, met enkele donkere, getextureerde plekken die aan verbleekte fotografie doen denken. De handen hebben een bleke, bijna doorschijnende huid met zichtbare aderen en fijne lijntjes, en de nagels zijn kort en ongelijk gevormd. De compositie is centraal gericht, met de handen als focuspunt en de voorwerpen eromheen geplaatst alsof ze net uit de handen zijn glijdend. De sfeer is statisch en iets verlaten, met een subtiele spanning tussen de menselijke aanwezigheid en de anonieme, bijna archivistische voorwerpen.",
+      "cyclus": 15759,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, reflecterende sfeer zonder iconische motieven of decoratief licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015759_15820.webp"
+    },
     {
       "id": 15818,
       "titel": "Scheurtjes die praten",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015723_15784.webp"
-    },
-    {
-      "id": 15780,
-      "titel": "Wie kijkt er nu?",
-      "beschrijving": "Een weelderige wilg met hangende takken domineert het midden, de bladeren in tinten groen en geel die zacht overlopen in de lucht. Onder de boom ligt een persoon op de grond, armen en benen gespreid, gekleed in donkerblauwe broek en donker shirt, het gezicht naar beneden gericht. Een smalle, kronkelende waterloop loopt van linksboven naar rechtsonder, met helder water dat de bruine, modderige oevers reflecteert. Het landschap is groen en open, met gras en kleine bloemen, en in de verte een donkere boomlijn tegen een lichte hemel. De compositie is diagonaal, met de boom en de waterloop die de scène in twee delen splitsen. Kleuren zijn overwegend groen, bruin en blauw, met subtiele accenten van geel en oranje in de vegetatie. De sfeer is rustig en verlaten, met een gevoel van stilte en afwezigheid van beweging, behalve de zachte golven in het water en de hangende takken.",
-      "cyclus": 15719,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in perspectief: de boom en de figuur lijken op verschillende schaalvolumes te staan, alsof de boom dichterbij is maar de figuur verder weg.', 'Wazige overgang tussen de achtergrondbomen en de horizon, alsof de details te snel vervagen.']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristische ansichtkaart: het onderwerp (een persoon die zich uitstrekt naar een beek onder een boom) is niet iconisch en de compositie heeft een ongemakkelijke, bijna verontrustende dynamiek die niet decoratief is.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015719_15780.webp"
-    },
-    {
-      "id": 15778,
-      "titel": "Waar de handen stilstaan",
-      "beschrijving": "Vier handen omlijsten een leeg, wit vlak in het midden, getekend met fijne, donkere lijnen die textuur en diepte suggereren. De handen verschillen in houding en detail: de bovenste handen zijn ontspannen, met vingertoppen die bijna elkaar raken, terwijl de onderste handen actiever lijken—de linkerhand vormt een losse vuist, de rechterhand is open en wijst met de wijsvinger. Achter de handen lopen gestileerde, smalle bladeren of grassprietjes diagonaal door het beeld, met subtiel schaduwwerk dat beweging impliceert. De randen van de compositie zijn donker getekend, waardoor het witte midden extra opvalt. De handen hebben realistische details zoals nagels, rimpels en aderen, maar de achtergrond blijft abstract en onafgewerkt, met losse strepen en schetsachtige vormen.",
-      "cyclus": 15717,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van handen linksboven en rechtsonder', 'lichte wazigheid in textuur van gras aan de randen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen, niet op een bevestigend verhaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015717_15778.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15827,
+      "cyclus": 15766,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld']",
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een complexe, niet-decoratieve compositie met een eigen standpunt.",
+      "bestand": "images/a015766_15827.webp"
+    },
     {
       "id": 15809,
       "cyclus": 15748,
@@ -150,15 +159,6 @@
       "tech_notities": "",
       "cliche_notities": "Het landschap met bergen, velden en bomen in een klassieke, rustige compositie doet denken aan een traditionele ansichtkaart zonder duidelijke persoonlijke invalshoek.",
       "bestand": "images/a015736_15797.webp"
-    },
-    {
-      "id": 15750,
-      "cyclus": 15688,
-      "afkeuringsreden": "cliche",
-      "tech_score": 8.0,
-      "tech_notities": "kleine inconsistenties in reflecties (spits toren links/rechts niet 1-op-1), lichte wazigheid in achtergrondbomen",
-      "cliche_notities": "Dit is een typische ansichtkaartcompositie: twee identieke kerken met brug en water, symmetrisch en zonder onverwachte keuzes.",
-      "bestand": "images/a015688_15750.webp"
     }
   ],
   "onderzoek": {
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15766,
-    "gemaakt": 15826,
-    "gekozen": 2485,
-    "afgekeurd": 1856,
-    "corpus": 69,
+    "cycli": 15772,
+    "gemaakt": 15832,
+    "gekozen": 2487,
+    "afgekeurd": 1857,
+    "corpus": 72,
     "notities": 554
   }
 }
