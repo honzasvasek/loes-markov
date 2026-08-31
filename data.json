@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-31T18:15+02:00",
+  "bijgewerkt": "2026-08-31T18:30+02:00",
   "werk": [
     {
       "id": 15992,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 16001,
+      "cyclus": 15941,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde letters', 'onleesbare tekst']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met onleesbare tekst en een schaduwfiguur.",
+      "bestand": "images/a015941_16001.webp"
+    },
+    {
       "id": 15965,
       "cyclus": 15905,
       "afkeuringsreden": "cliche",
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde structuren (stelen)', 'inconsistent perspectief (W vs stelen)']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie met een ongemakkelijke balans tussen vorm en leegte.",
       "bestand": "images/a015868_15929.webp"
-    },
-    {
-      "id": 15899,
-      "cyclus": 15838,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen', 'inconsistent perspectief kaart']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een complexe compositie met meerdere handen en een kaart.",
-      "bestand": "images/a015838_15899.webp"
     }
   ],
   "onderzoek": {
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15941,
-    "gemaakt": 16000,
+    "cycli": 15948,
+    "gemaakt": 16007,
     "gekozen": 2512,
-    "afgekeurd": 1862,
-    "corpus": 70,
+    "afgekeurd": 1863,
+    "corpus": 69,
     "notities": 563
   }
 }
