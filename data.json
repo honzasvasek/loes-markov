@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-31T12:30+02:00",
+  "bijgewerkt": "2026-08-31T12:45+02:00",
   "werk": [
     {
       "id": 15825,
@@ -134,6 +134,15 @@
   ],
   "afgekeurd": [
     {
+      "id": 15849,
+      "cyclus": 15788,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen', 'inconsistent perspectief handen']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, intieme compositie zonder duidelijke bedoeling.",
+      "bestand": "images/a015788_15849.webp"
+    },
+    {
       "id": 15827,
       "cyclus": 15766,
       "afkeuringsreden": "techniek",
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van het pad: het verbreedt onverklaard in de verte', 'Textuur van het gras aan de linkerkant is waziger dan de rechterkant, zonder duidelijke reden']",
       "cliche_notities": "Het beeld combineert een iconisch Nederlands landschap (pad, weide, molens op de horizon) met een decoratief rood palet en een passief standpunt, typisch voor een ansichtkaart.",
       "bestand": "images/a015748_15809.webp"
-    },
-    {
-      "id": 15797,
-      "cyclus": 15736,
-      "afkeuringsreden": "cliche",
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "cliche_notities": "Het landschap met bergen, velden en bomen in een klassieke, rustige compositie doet denken aan een traditionele ansichtkaart zonder duidelijke persoonlijke invalshoek.",
-      "bestand": "images/a015736_15797.webp"
     }
   ],
   "onderzoek": {
@@ -330,10 +330,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15786,
-    "gemaakt": 15846,
+    "cycli": 15793,
+    "gemaakt": 15853,
     "gekozen": 2487,
-    "afgekeurd": 1857,
+    "afgekeurd": 1858,
     "corpus": 71,
     "notities": 557
   }
