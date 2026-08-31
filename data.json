@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T16:15+02:00",
+  "bijgewerkt": "2026-08-31T16:45+02:00",
   "werk": [
+    {
+      "id": 15946,
+      "titel": "Ster in scheuringen",
+      "beschrijving": "Twee donkere, spits toelopende vormen richten zich naar een heldere, sterachtige opening in het midden, omringd door stralende, gescheurde banen van blauw, geel en bruin. Donkere vlekken en krassen doorsnijden het beeld, terwijl de randen verbleekt en onregelmatig zijn. De achtergrond lijkt van hout, met zichtbare vezels en slijtage, en de kleuren vervagen naar de randen toe. Kleurvlakken en textuur wisselen elkaar af in een chaotische, maar gebalanceerde compositie.",
+      "cyclus": 15885,
+      "tech_score": 8.0,
+      "tech_notities": "[\"subtiele halo's rond witte stralen\", 'lichte textuurvervorming in donkere hoeken']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015885_15946.webp"
+    },
+    {
+      "id": 15940,
+      "titel": "Waar blijft de horizon?",
+      "beschrijving": "Donkere, onregelmatige blokken met glinsterende, natte randen domineren het midden, omringd door vaag getekende, slanke stammen die naar boven wijzen. Witte en grijze vlekken suggereren reflecties op een nat oppervlak, terwijl donkere spatten en strepen een gevoel van beweging geven. De achtergrond bestaat uit zachte, wazige overgangen tussen lichtgrijs en wit, met subtiele, onduidelijke vormen die diepte suggereren zonder een duidelijke horizon. Kleine, donkere stippen en onregelmatige patronen verspreiden zich over het beeld, alsof iets langzaam aan het oppervlak komt te liggen. De compositie voelt onstabiel, met blokken die schijnbaar willekeurig op elkaar rusten, terwijl de stammen een verticale as vormen die het beeld doorbreekt.",
+      "cyclus": 15879,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp is abstract en niet iconisch, en de compositie toont bewuste keuzes in plaats van decoratieve perfectie.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015879_15940.webp"
+    },
     {
       "id": 15926,
       "titel": "Wat blijft van het vuur",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015828_15889.webp"
-    },
-    {
-      "id": 15887,
-      "titel": "Waar blijft de rest",
-      "beschrijving": "Twee witte, halve cirkels zweven boven donkerblauwe, golvende vlakken die de indruk wekken van water of horizonlijnen. De bovenste cirkel staat dichter bij een subtiele, lichtere overgang in de achtergrond, terwijl de onderste cirkel scherper afsteekt tegen een diepere blauwe laag. De compositie is symmetrisch opgebouwd, met de cirkels verticaal uitgelijnd en de golven die zich horizontaal uitstrekken. De kleuren zijn monochromatisch, met verschillende tinten blauw die een koele, rustige sfeer creëren. Er zijn geen andere vormen of details aanwezig, wat de focus legt op de eenvoud en de ruimte tussen de elementen.",
-      "cyclus": 15826,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De compositie is niet iconisch of decoratief, maar verstoort de verwachting van een horizon door een spiegelbeeld, wat een eigen standpunt creëert.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015826_15887.webp"
-    },
-    {
-      "id": 15878,
-      "titel": "Vingertoppen boven de put",
-      "beschrijving": "Donkere, textuurrijke blokken met blauwe en zilveren details liggen verspreid op een ruwe, grijze ondergrond. In het midden bevindt zich een donkere, ronde put met een onrustige rand van verfrommeld metaal en glinsterende fragmenten. Vier handen raken de rand van de put aan of zweven erboven, met vingertoppen die bijna de donkere diepte raken. Druppels en spetters van donker blauw en zwart vloeistof zijn verspreid over de ondergrond, met subtiele reflecties van licht in de nat ogende plekken. De blokken hebben een onregelmatige, bijna organische vorm, met ingewikkelde patronen en reliëfs die aan verweerd metaal of verharde was doen denken. De handen hebben een natuurlijke huidkleur, met zichtbare nerven en korte, onbeschilderde nagels. De sfeer is statisch, maar de positie van de handen en de verspreiding van de materialen suggereren een moment net voor of na een actie.",
-      "cyclus": 15817,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in textuur van handen vs. omringend materiaal', 'lichte wazigheid in randen van blauwe blokken']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontbinding en afwezigheid, niet op een bevestigend beeld.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015817_15878.webp"
     }
   ],
   "afgekeurd": [
@@ -330,9 +330,9 @@
     }
   ],
   "metingen": {
-    "cycli": 15888,
-    "gemaakt": 15948,
-    "gekozen": 2501,
+    "cycli": 15899,
+    "gemaakt": 15958,
+    "gekozen": 2503,
     "afgekeurd": 1861,
     "corpus": 70,
     "notities": 561
