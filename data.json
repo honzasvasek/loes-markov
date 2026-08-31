@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T15:00+02:00",
+  "bijgewerkt": "2026-08-31T15:15+02:00",
   "werk": [
+    {
+      "id": 15922,
+      "titel": "Witte ruimte, donkere vragen",
+      "beschrijving": "Twee handen reiken naar elkaar in een witte ruimte, omgeven door donkere, spikkelachtige vormen die aan micro-organismen of inktvlekken doen denken. De vingers zijn gespreid, alsof ze iets zachts willen vastgrijpen of zachtjes willen aanraken. De vormen hebben verschillende groottes en structuren: sommige zijn rond met prikkels, andere onregelmatig of vaag. Zwarte en grijze tinten contrasteren met de heldere achtergrond, waardoor de handen en de vormen er levendig uitzien. De compositie is dynamisch, met de handen diagonaal geplaatst en de vormen verspreid rondom, alsof ze in beweging zijn. Er is geen duidelijke horizon of context, wat een gevoel van zwevende, zweverige interactie oproept.",
+      "cyclus": 15861,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015861_15922.webp"
+    },
+    {
+      "id": 15916,
+      "titel": "Witte stilstaan in de takken",
+      "beschrijving": "Drie kale bomen staan in een lijn, hun takken vormen een fijn netwerk tegen een lichte hemel. Witte, onscherpe cirkels drijven door het beeld, van boven tot onder, alsof ze door de lucht vallen of in de bomen hangen. De grond is bedekt met droog gras, bladeren en kleine stenen, met een smalle strook water of pad op de achtergrond. De achtergrond toont een donkere boomlijn aan de horizon. De sfeer is stil en wat verlaten, met een subtiele beweging door de zwevende cirkels die de lege ruimte vullen.",
+      "cyclus": 15855,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar heeft een ongemakkelijke, bijna onafgewerkte sfeer die niet past bij een ansichtkaart.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015855_15916.webp"
+    },
     {
       "id": 15904,
       "titel": "Wat is dit ding eigenlijk?",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015816_15877.webp"
-    },
-    {
-      "id": 15863,
-      "titel": "Wat blijft van de vuurvlammen",
-      "beschrijving": "Donkere, verkoolde houtblokken vormen twee ongelijkmatige rijen aan weerszijden van een smalle, zandige gang. Tussen de blokken door liggen verspreid kleine, droge takjes en wat asachtig stof. Een verkoolde, golvende stam loopt dwars door het midden van de gang, met diepe barsten en een glimmende, bijna natte textuur. Rondom de stam liggen losse, verkoolde houtsplinters en een paar ronde, lichte voorwerpen die op noten lijken. De achtergrond bestaat uit een effen, lichtgrijze muur met een scheurvormige rand aan de boven- en onderkant, alsof het beeld door een stuk papier wordt omlijst. De kleuren zijn gedomineerd door zwart, donkergrijs en bruin, met subtiele accenten van beige en lichtgrijs in het zand en de achtergrond. De sfeer is zwaar en verlaten, met een gevoel van stilte en vergetelheid.",
-      "cyclus": 15802,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart: het onderwerp (verbrand hout in een smalle strook) is niet iconisch en de compositie heeft een ongemakkelijke, bijna intieme focus die niet decoratief is.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015802_15863.webp"
-    },
-    {
-      "id": 15862,
-      "titel": "Verkochte blokken met geheugenspoor",
-      "beschrijving": "Vier donkere, onregelmatige blokken liggen willekeurig op een beige ondergrond, met scherpe, uitgesneden randen en een ruwe, bijna verkoolde textuur. Witte en grijze strepen en vlekken lopen door de blokken, alsof er iets glanzends of vochts doorheen loopt. Rond de blokken bevinden zich donkere, verwaterde sporen en kleine druppels, alsof er iets donkers en vloeibaars ooit over het oppervlak is gelopen. De blokken werpen schaduwen die de indruk wekken van diepte, terwijl de achtergrond glad en eendragend blijft. De compositie is asymmetrisch, met de blokken schuin geplaatst en de aandacht getrokken door de contrasten tussen donker en licht, ruw en glad.",
-      "cyclus": 15801,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistenties in textuur van hout (soms te scherp, soms wazig)', 'lichtval op sommige blokken voelt artificieel (te plat)']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en niet-obvious.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015801_15862.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15865,
+      "soort": "observatie",
+      "tekst": "De handen in c15865 en c15864 vormen een onafgewerkt gesprek tussen vernietiging en aanraking—het scheuren van papier onthult een verbrande kubus, terwijl de vingers in c15864 elkaar raken in een moment dat zich weigert op te lossen in een verhaal of een aanraking."
+    },
+    {
       "cyclus": 15829,
       "soort": "observatie",
       "tekst": "De handen en vormen in c15829 en c15828 lijken een onafgewerkt gesprek te voeren over afwezigheid en aanwezigheid—de donkere stralen en kale bomen vormen een ruimte die zich weigert op te lossen in een verhaal, terwijl de witte cirkels en golvende vlakken in c15826 een stille, onoplosbare spanning uitstralen die zich niet laat vatten in een aanraking of een verhaal."
@@ -252,11 +257,6 @@
       "cyclus": 15781,
       "soort": "observatie",
       "tekst": "De spanning tussen de handen en de vormen wordt steeds zichtbaarder als een fysieke kracht: van subtiele aanrakingen tot actieve manipulatie, met steeds meer textuur en beweging in de achtergronden. De kleuren verschuiven van monochrom naar gedempte blauwtinten, maar de handen blijven altijd het middelpunt—zowel als beheerser als slachtoffer van de onoplosbare ruimte tussen de elementen."
-    },
-    {
-      "cyclus": 15745,
-      "soort": "observatie",
-      "tekst": "De handen in c15745 en c15744 vormen een cirkel om iets donkers en onbegrijpelijks, maar de witte en zwarte vlekken en druppels rondom voelen als een taal die zich weigert te laten vertalen in een verhaal—de spanning tussen de handen en het onbekende is geen afwezigheid, maar een onafgewerkt moment dat zich weigert op te lossen."
     }
   ],
   "identiteit": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15858,
-    "gemaakt": 15919,
-    "gekozen": 2498,
+    "cycli": 15866,
+    "gemaakt": 15926,
+    "gekozen": 2500,
     "afgekeurd": 1860,
-    "corpus": 71,
-    "notities": 559
+    "corpus": 70,
+    "notities": 560
   }
 }
