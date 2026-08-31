@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T14:15+02:00",
+  "bijgewerkt": "2026-08-31T14:30+02:00",
   "werk": [
+    {
+      "id": 15900,
+      "titel": "Papier dat ademt",
+      "beschrijving": "Donkere, onregelmatige vormen stralen uit van een smalle, verticale lichtstrook in het midden, alsof ze door een onzichtbare kracht worden getrokken. Aan weerskanten lopen langwerpige, vaag veerachtige vormen parallel aan elkaar, met donkere, ongelijkmatige randen die overgaan in lichtgrijze, vervagen vlekken. Rechtsboven ligt een rechthoekig voorwerp met een smalle punt, donkergrijs met slijtage aan de randen, schuin gericht op een donkere vlek die lijkt op een druppel. De achtergrond is wit met subtiele, onregelmatige textuur, alsof het papier de vochtigheid nog vasthoudt. Donkere vlekken en strepen variëren in grootte en dichtheid, sommige scherp, andere onscherp en verspreid. De compositie voelt als een bevroren moment van beweging, waarbij de vormen zowel naar elkaar toe als van elkaar af lijken te wijzen zonder een duidelijke richting te volgen.",
+      "cyclus": 15839,
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele halo rond de schroevendraaier', 'lichte inconsistentie in perspectief van de veer']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015839_15900.webp"
+    },
+    {
+      "id": 15894,
+      "titel": "Sporen in bevroren stilte",
+      "beschrijving": "Een verlaten landschap in bevroren bruine en grijze tinten, met een kale boom rechts die donkere, uitgespreide takken werpt over een ongelijk vlak. Donkere vlekken en spatten verspreiden zich over het beeld, alsof inkt of modder door de lucht is geslingerd. Vaag zichtbare sporen lopen diagonaal door het landschap, met subtiele hints van verlaten paden of sporen. De achtergrond vervaagt in een nevelige, onduidelijke horizon, waar rotsen en vegetatie slechts als donkere silhouetten zichtbaar zijn. De sfeer is stil en verlaten, met een gevoel van verwaarlozing en vergetelheid.",
+      "cyclus": 15833,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in schaduwval van boom (rechtsboven vs linksonder)', 'enkele takken vertonen lichte vervorming aan uiteinden']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is bewust asymmetrisch en ongemakkelijk",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015833_15894.webp"
+    },
     {
       "id": 15889,
       "titel": "Waar blijft de weg naartoe",
@@ -104,35 +130,18 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015764_15825.webp"
-    },
-    {
-      "id": 15820,
-      "titel": "Wat bleef achter in de handen",
-      "beschrijving": "Twee handen liggen open en ontspannen op een oppervlak van gescheurd papier, met de palmen naar boven en de vingers licht gespreid. Rond de handen liggen verspreid verschillende voorwerpen: een metalen lepel met een bolvormig handvat, een donkere schaal met een steel en twee ronde, metalen objecten die lijken op oude lampenkapjes of schroefdraad. Het papier heeft onregelmatige, gescheurde randen en verschillende tinten grijs en wit, met enkele donkere, getextureerde plekken die aan verbleekte fotografie doen denken. De handen hebben een bleke, bijna doorschijnende huid met zichtbare aderen en fijne lijntjes, en de nagels zijn kort en ongelijk gevormd. De compositie is centraal gericht, met de handen als focuspunt en de voorwerpen eromheen geplaatst alsof ze net uit de handen zijn glijdend. De sfeer is statisch en iets verlaten, met een subtiele spanning tussen de menselijke aanwezigheid en de anonieme, bijna archivistische voorwerpen.",
-      "cyclus": 15759,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, reflecterende sfeer zonder iconische motieven of decoratief licht.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015759_15820.webp"
-    },
-    {
-      "id": 15818,
-      "titel": "Scheurtjes die praten",
-      "beschrijving": "Twee lagen papier, grijs en roze, liggen over elkaar met scheurtjes die onregelmatige, golvende patronen vormen. De randen van de scheurtjes zijn wit en vezelig, met subtiele schaduwen die diepte suggereren. Het roze papier vormt een diagonale strook die van linksboven naar rechtsonder loopt, onderbroken door een smalle, verticale scheur in de rechteronderhoek. Het grijs domineert de hoeken en randen, terwijl het roze een levendige, bijna pulserende aanwezigheid heeft in het midden. De textuur van het papier is zichtbaar korrelig, met kleine onregelmatigheden die de scheurtjes nog duidelijker maken. Er is geen duidelijke horizon of ondergrond, alleen de interactie tussen de twee kleuren en de scheurtjes die ze met elkaar verbinden.",
-      "cyclus": 15757,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015757_15818.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 15899,
+      "cyclus": 15838,
+      "afkeuringsreden": "techniek",
+      "tech_score": 2.0,
+      "tech_notities": "['tekst/tekens in beeld', 'vervormde handen', 'inconsistent perspectief kaart']",
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een complexe compositie met meerdere handen en een kaart.",
+      "bestand": "images/a015838_15899.webp"
+    },
     {
       "id": 15880,
       "cyclus": 15819,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld', 'vervormde handen', 'inconsistent perspectief handen']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een ongemakkelijke, intieme compositie zonder duidelijke bedoeling.",
       "bestand": "images/a015788_15849.webp"
-    },
-    {
-      "id": 15827,
-      "cyclus": 15766,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een complexe, niet-decoratieve compositie met een eigen standpunt.",
-      "bestand": "images/a015766_15827.webp"
     }
   ],
   "onderzoek": {
@@ -330,10 +330,10 @@
     }
   ],
   "metingen": {
-    "cycli": 15836,
-    "gemaakt": 15896,
-    "gekozen": 2494,
-    "afgekeurd": 1859,
+    "cycli": 15842,
+    "gemaakt": 15902,
+    "gekozen": 2496,
+    "afgekeurd": 1860,
     "corpus": 70,
     "notities": 559
   }
