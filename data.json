@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-27T22:00+02:00",
+  "bijgewerkt": "2026-08-31T09:30+02:00",
   "werk": [
+    {
+      "id": 15759,
+      "titel": "Wat ontbreekt tussen de handen",
+      "beschrijving": "Donkere, slanke handen met verlengde vingers strekken zich uit tegen een golvend, goudbruin patroon dat zowel als achtergrond als als omhullende vorm fungeert. De vingers zijn niet statisch: sommige wijzen schuin omhoog, andere buigen alsof ze iets vast willen grijpen, terwijl de polsen en onderarmen in een diagonale lijn door het beeld lopen. Het oppervlak is ruw en textuurrijk, met sporen van wat eens nat leek—kleine, glanzende druppels en donkere, verharde vlekken die de illusie van beweging handhaven. Rond de handen zweven onregelmatige, bijna organische vormen, sommige donkerbruin en glad, andere lichter en korrelig, alsof ze uit het patroon zelf groeien. De kleuren schuiven van diep zwart en chocoladebruin in de handen naar goud, beige en zachtgeel in de achtergrond, met af en toe een subtiele roodbruine ondertoon die de diepte versterkt. Geen van de handen raakt elkaar, maar ze lijken wel op elkaar te wachten, alsof er iets tussenin moet komen wat nog niet zichtbaar is.",
+      "cyclus": 15697,
+      "tech_score": 7.0,
+      "tech_notities": "['subtiele vervorming in vingers van linkerhand', 'lichte inconsistentie in textuur van achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015697_15759.webp"
+    },
+    {
+      "id": 15749,
+      "titel": "Handen die de schemering omklemmen",
+      "beschrijving": "Zes handen omklemmen de randen van een houten deur die zachtjes opengaat, met een gloedroze licht dat door de spleet stroomt. De handen liggen verspreid, sommige met vingertoppen die de houten lamellen raken, andere met open vingers die de ruimte tussen de deuren vullen. Het hout heeft donkere, verticale korrelstructuren en metalen onderdelen: een ronde klink, een haakvormig handvat en schroeven. In het midden, tussen de deuren, zweven kleine, fonkelende vonken en druppels door een roze nevel die overgaat in een lichtere, bijna witte gloed bovenaan. Onderaan de afbeelding steekt een paar spitse grasbladeren omhoog, donker getekend tegen het roze. De handen hebben een roodachtige tint, met schaduwen die de spieren en aderen benadrukken. De compositie is symmetrisch, met de handen die een V-vorm vormen die naar het midden wijst, waar het licht het sterkst is.",
+      "cyclus": 15687,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in vingers van handen (rechtsboven/linksonder)', 'lichte inconsistentie in houttextuur deurpanelen (links/rechts)']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen, niet op een bevestigend verhaal.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015687_15749.webp"
+    },
     {
       "id": 15747,
       "titel": "Handen die smelten in het onzichtbare",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015644_15706.webp"
-    },
-    {
-      "id": 15702,
-      "titel": "Wie raakt nu wie",
-      "beschrijving": "Twee handen strekken zich uit boven een dicht tapijt van lang, spits gras, waarbij de vingers zachtjes de puntige bladeren raken. De handen zijn gedetailleerd getekend met zichtbare aders en nagels, en de armen verdwijnen aan weerskanten van het beeld. Het gras domineert de voorgrond met zijn scherp getekende, wisselend donker en lichtgrijze bladeren die in alle richtingen staan. Op de achtergrond zweven vaag omschreven, pastelkleurige vlekken—roze, blauw en geel—die overgaan in een lichte, textuurrijke hemel. Donkere, onscherpe vormen suggereren verre bomen of struiken. De compositie is verticaal, met het gras dat vanaf de onderkant omhoog groeit en de handen die zich vanuit de hoeken naar het midden bewegen. De sfeer is rustig en bijna intiem, met een subtiele spanning tussen de handen en het gras.",
-      "cyclus": 15640,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van gras', 'lichte wazigheid in achtergrondkleuren']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op spanning tussen vormen, niet op een bevestigend verhaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015640_15702.webp"
-    },
-    {
-      "id": 15699,
-      "titel": "Stof dat ademt",
-      "beschrijving": "Donkere, textuurrijke plooien van wat kleding lijkt, vullen het beeld, met een smalle, lichtere spleet die diagonaal door het midden loopt. Rechtsboven een subtiele, witte kromme vorm, bijna een maansikkel, die de donkere vlakken doorbreekt. De plooien hebben een fijne, korrelige textuur, alsof het doek of stof onder een vergrootglas wordt getoond. De compositie is statisch, maar de speelse overgang tussen licht en donker geeft een zachte beweging. Geen horizon, geen onderwerp—alleen de spanning tussen de vormen en de stilte van de grijstinten.",
-      "cyclus": 15637,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende sfeer.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015637_15699.webp"
     }
   ],
   "afgekeurd": [
@@ -330,9 +330,9 @@
     }
   ],
   "metingen": {
-    "cycli": 15691,
-    "gemaakt": 15753,
-    "gekozen": 2469,
+    "cycli": 15700,
+    "gemaakt": 15761,
+    "gekozen": 2471,
     "afgekeurd": 1854,
     "corpus": 70,
     "notities": 553
