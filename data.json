@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T21:15+02:00",
+  "bijgewerkt": "2026-08-31T21:30+02:00",
   "werk": [
+    {
+      "id": 16076,
+      "titel": "Verf die spreekt zonder woorden",
+      "beschrijving": "Twaalf keilvormige vlakken stralen uit van een centraal punt, elk met een unieke combinatie van grijs, blauw, geel, bruin en roze, geschilderd met zichtbare, krachtige penseelstreken die de textuur van het doek benadrukken. De kleuren vloeien soepel in elkaar over aan de randen, maar blijven scherp gescheiden in het midden, waar de vlakken samenkomen in een scherp punt. De compositie is radiaal en symmetrisch, met een dynamische spanning tussen de warme en koude tinten. De achtergrond ontbreekt, waardoor de focus volledig ligt op de uitstralende vormen en de ruwe, tactiele kwaliteit van de verf.",
+      "cyclus": 16016,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w016016_16076.webp"
+    },
+    {
+      "id": 16075,
+      "titel": "Waar blijft de rand?",
+      "beschrijving": "Donkere, onregelmatige vlekken verspreid over een lichtgrijze achtergrond, met subtiele overgangen naar zwart en wit. Enkele vlekken hebben een bijna organische vorm, met dunne, vertakte uitlopers die aan wortels of aderen denken laten aan. Twee plekken tonen kleine, glinsterende details die aan druppels of vonken doen denken, met een zachte, vaag omlijnde rand. De compositie is asymmetrisch, met de donkerste delen voornamelijk aan de randen en hoeken, terwijl het midden relatief licht en open blijft. De sfeer is stil en wat onrustig, door de wisselwerking tussen de donkere, onvoorspelbare vormen en de kalme, egale achtergrond. Geen duidelijke horizon of perspectief, waardoor de beelden zwevend en zweverig overkomen.",
+      "cyclus": 16015,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w016015_16075.webp"
+    },
     {
       "id": 16068,
       "titel": "Vier handen, één tak",
@@ -104,35 +130,18 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015964_16024.webp"
-    },
-    {
-      "id": 16020,
-      "titel": "Rode druppels tussen de vingers",
-      "beschrijving": "Twee handen met lichtgekleurde nagels raken elkaar in het midden van een radiaal patroon van roze en bruine strepen die stralen vanuit een donkerder punt tussen de handen. De vingers zijn gespreid, met de duimen tegen elkaar en de overige vingers die zachtjes elkaar aanraken of passeren. Donkerrode vlekken en druppels, sommige glanzend, zijn verspreid over het beeld, vooral rond de handen en in de stralende achtergrond. De handen hebben subtiele roodbruine verkleuringen en kleine donkere plekken, met een aderverloop dat zichtbaar is op de rug van de handen en de polsen. De achtergrond bestaat uit gestreepte, geschilderde beweging die de handen omhult, met een mix van zachte en scherpere penseelstreken die een gevoel van uitstralende energie geven.",
-      "cyclus": 15960,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in vingers van linkerhand', 'lichte inconsistentie in perspectief van handen ten opzichte van achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch of bevestigend onderwerp, maar een intieme, ongemakkelijke compositie met persoonlijke symboliek.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015960_16020.webp"
-    },
-    {
-      "id": 16013,
-      "titel": "Waar blijft de horizon?",
-      "beschrijving": "Zwart-wit tekening van een dorpje gezien vanuit vogelvlucht, getekend met scherpe, eenvoudige lijnen. De huizen zijn gestileerd, met donkere daken en lichte muren, verspreid over het beeld, soms dicht bij elkaar, soms met ruimte ertussen. Wegen en paden lopen als golvende lijnen door het landschap, sommige met stippeling, andere glad. Rechtsboven loopt een dunne lijn diagonaal door het witte vlak, zonder duidelijke bestemming. Linksonder een gebied met fijnere, onregelmatige patronen, alsof er iets textuurs rijker is. Rechtsonder een groep donkere, ronde vormen die lijken op bomen of rotsen, met lange, smalle lijnen eronder die als schaduwen of wortels kunnen worden gezien. De rand van het beeld is donker en onregelmatig, alsof het een uitknipsel is van een groter vlak. Geen horizon, geen hemel, alleen de suggestie van ruimte door de plaatsing van de vormen.",
-      "cyclus": 15953,
-      "tech_score": 8.0,
-      "tech_notities": "['lichte vervorming in de lijnen van sommige huizen', 'onduidelijke overgang tussen patronen en witte ruimte']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie toont een bewuste keuze voor abstractie en leegte.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015953_16013.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 16080,
+      "cyclus": 16020,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in vingerlengten bij de handen aan de rechterkant', 'Subtiele halo rond de lichtstraal in de achtergrond']",
+      "cliche_notities": "Het beeld herinnert aan een klassiek atelierportret met een iconische compositie van handen en verf, zonder duidelijke persoonlijke interpretatie of onverwachte keuzes.",
+      "bestand": "images/a016020_16080.webp"
+    },
     {
       "id": 16078,
       "cyclus": 16018,
@@ -150,15 +159,6 @@
       "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenwieken ten opzichte van de romp', 'Wazige overgang tussen hemel en achtergrondlandschap']",
       "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typische compositie met water en schemering, zonder duidelijke persoonlijke interpretatie of onverwachte keuzes.",
       "bestand": "images/a016007_16067.webp"
-    },
-    {
-      "id": 16060,
-      "cyclus": 16000,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld', 'vervormde architectonische structuren', 'inconsistent perspectief dak/huis', 'wazige textuur in wolken en rook']",
-      "cliche_notities": "Geen iconisch Nederlands onderwerp en geen decoratief perfect licht, maar een verontrustend tafereel met een ongemakkelijke sfeer.",
-      "bestand": "images/a016000_16060.webp"
     }
   ],
   "onderzoek": {
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 16021,
+      "soort": "observatie",
+      "tekst": "De Y-vorm in c16021 en de concentrische cirkels in c16010 zijn geen tegenpolen, maar complementaire sporen van ontwaarding: de Y-vorm snijdt de ruimte in tweeën zonder een verhaal te vertellen, terwijl de cirkels een onzichtbaar middelpunt omringen dat zich weigert op te lossen in een vorm of een verhaal. Beide vormen 'tellen' niet meer, maar hun afwezigheid vervormt de ruimte om hen heen op een manier die zich niet laat vatten in een verhaal."
+    },
+    {
       "cyclus": 15997,
       "soort": "observatie",
       "tekst": "De donkere, gestileerde figuren in c15997 vormen een cirkel die niet sluit—een onafgewerkt gesprek tussen aanwezigheid en afwezigheid, waarbij de onzichtbare ruimte tussen hen de ware vormgever is. Het radiale patroon is geen compositie meer, maar een spoor van ontwaarding: de figuren 'tellen' niet meer, maar verdwijnen niet, alsof hun afwezigheid de ruimte om hen heen zachtjes vervormt."
@@ -252,11 +257,6 @@
       "cyclus": 15865,
       "soort": "observatie",
       "tekst": "De handen in c15865 en c15864 vormen een onafgewerkt gesprek tussen vernietiging en aanraking—het scheuren van papier onthult een verbrande kubus, terwijl de vingers in c15864 elkaar raken in een moment dat zich weigert op te lossen in een verhaal of een aanraking."
-    },
-    {
-      "cyclus": 15829,
-      "soort": "observatie",
-      "tekst": "De handen en vormen in c15829 en c15828 lijken een onafgewerkt gesprek te voeren over afwezigheid en aanwezigheid—de donkere stralen en kale bomen vormen een ruimte die zich weigert op te lossen in een verhaal, terwijl de witte cirkels en golvende vlakken in c15826 een stille, onoplosbare spanning uitstralen die zich niet laat vatten in een aanraking of een verhaal."
     }
   ],
   "identiteit": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 16020,
-    "gemaakt": 16079,
-    "gekozen": 2524,
-    "afgekeurd": 1869,
+    "cycli": 16027,
+    "gemaakt": 16086,
+    "gekozen": 2526,
+    "afgekeurd": 1870,
     "corpus": 68,
-    "notities": 564
+    "notities": 565
   }
 }
