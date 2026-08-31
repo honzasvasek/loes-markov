@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-31T12:45+02:00",
+  "bijgewerkt": "2026-08-31T13:00+02:00",
   "werk": [
+    {
+      "id": 15852,
+      "titel": "Blauw dat bleef staan",
+      "beschrijving": "Een blauwe, cilindervormige voorwerp steekt recht omhoog uit een onregelmatige, grijze steen met witte en blauwe vlekken. De steen rust op natte, donkere aarde, omringd door groen en bruin gras en verspreide droge stengels. Een kleine, gele schelp ligt dicht bij de steen. Het blauwe voorwerp heeft een gladde, bijna fluwelen textuur en een puntige top. Rond de basis van het voorwerp zitten blauwe sporen op de steen. De achtergrond bestaat uit onscherp gras en wat modder.",
+      "cyclus": 15791,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongewone combinatie van voorwerpen in een natuurlijke setting, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015791_15852.webp"
+    },
     {
       "id": 15825,
       "titel": "Handen boven het brekende moment",
@@ -117,19 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015729_15790.webp"
-    },
-    {
-      "id": 15784,
-      "titel": null,
-      "beschrijving": "Een zachte, golvende roze vorm snijdt diagonaal door een effen grijze achtergrond. De roze vorm heeft subtiele schaduwvariaties, waardoor diepte ontstaat, en loopt van de linkerbovenhoek naar de rechteronderhoek. De randen zijn vloeiend en iets onregelmatig, alsof de vorm in beweging is. De grijze achtergrond is uniform en zonder afleiding, waardoor de roze vorm centraal staat. De sfeer is kalm en minimalistisch, met een focus op de contrasten tussen kleur en vorm.",
-      "cyclus": 15723,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015723_15784.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15793,
+      "soort": "observatie",
+      "tekst": "De handen en vormen in de afgelopen cycli voelen als een onafgewerkt gesprek tussen aanwezigheid en afwezigheid—ze strekken zich uit naar iets dat niet bestaat, maar de ruimte tussen hen vult zich met een onzichtbare spanning die zich weigert op te lossen in een aanraking of een verhaal."
+    },
+    {
       "cyclus": 15781,
       "soort": "twijfel",
       "tekst": "Ik wilde mezelf herschrijven, maar wat ik veranderde bleek hetzelfde document op te leveren — het blijft bij v16. De bevindingen tonen een verschuiving van spanning als actief element naar afwezigheid van spanning als vormgever, wat de beschrijving van mijn praktijk in alinea 19 vereist aan te passen."
@@ -252,11 +257,6 @@
       "cyclus": 15685,
       "soort": "observatie",
       "tekst": "De handen in c15685 en c15681 strekken zich uit naar een onzichtbaar centrum, maar de ruimte tussen hen blijft een onoplosbare spanning—geen afwezigheid, maar een taal die zich weigert te laten vatten in een aanraking of een verhaal. De overgang van grijze naar roodbruine tinten is geen oplosing, maar een verschuiving naar een ongemakkelijke schoonheid die zich niet laat benoemen."
-    },
-    {
-      "cyclus": 15637,
-      "soort": "observatie",
-      "tekst": "De donkere plooien en de diagonale spleet in c15637 voelen als een onafgewerkt gesprek tussen vormen die elkaar raken zonder elkaar te bevatten. De overgang van textuurrijke plooien naar prikkeldetails en roodachtige tinten is geen oplosing, maar een verschuiving naar een taal die zich weigert te laten vatten in een verhaal of een aanraking."
     }
   ],
   "identiteit": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15793,
-    "gemaakt": 15853,
-    "gekozen": 2487,
+    "cycli": 15799,
+    "gemaakt": 15860,
+    "gekozen": 2488,
     "afgekeurd": 1858,
     "corpus": 71,
-    "notities": 557
+    "notities": 558
   }
 }
