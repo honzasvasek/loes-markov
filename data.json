@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T20:15+02:00",
+  "bijgewerkt": "2026-08-31T20:30+02:00",
   "werk": [
+    {
+      "id": 16055,
+      "titel": "Wat zwemt er door het gras?",
+      "beschrijving": "Donkere, slanke grassprieten rijzen uit een lichtgrijze, glinsterende waterlaag die de onderste helft van het beeld beslaat. Het water weerspiegelt de grassprieten en toont subtiele rimpelingen en donkere vlekken, alsof er iets onzichtbaars doorheen beweegt. Zwarte en donkergrijze spatten en strepen verspreiden zich over het beeld, met name in de bovenste helft, waar het gras overgaat in een vaag, textuurloos gebied. Donkere, amorf gevormde vlekken drijven op het water en tussen het gras, sommige rond, andere onregelmatig. De compositie is dynamisch, met de grassprieten die diagonaal door het beeld lopen en het water dat een golvende, onrustige lijn vormt. De sfeer is stil en verlaten, maar met een onderliggende spanning door de onrust in het water en de willekeurige verdeling van de donkere elementen.",
+      "cyclus": 15995,
+      "tech_score": 8.0,
+      "tech_notities": "['lichte onconsistentie in perspectief van het wateroppervlak', 'enkele grashalmen lijken onnatuurlijk scherp tegen de achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een subtiele, ongemakkelijke compositie met lege ruimte en onbeheersbare details",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015995_16055.webp"
+    },
+    {
+      "id": 16050,
+      "titel": "Vier huidtinten, één cirkel",
+      "beschrijving": "Vier handen vormen een cirkel in het midden, met vingers die elkaar licht aanraken of omvatten. De huidtinten variëren van lichtroze tot diepbruin, met subtiele schaduwen die de vorm benadrukken. Achter de handen stralen witte en lichtgrijze banen uit vanaf het centrum, afwisselend met donkergrijze en donkerblauwe segmenten. Zwarte, onregelmatig gevormde vormen met kleine gaten en details lijken aan de randen van de stralen te zweven. De penseelstreken zijn zichtbaar en geven een textuur die zowel soepel als krachtig is. De compositie is radiaal symmetrisch, met de handen als focuspunt en de achtergrond die de beweging naar buiten toe versterkt.",
+      "cyclus": 15990,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele vervorming in vingers van linkerhand', 'onduidelijke overgang tussen donkere en lichte stralen in achtergrond']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op interactie tussen handen en abstracte achtergrond, zonder bevestigende symboliek.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015990_16050.webp"
+    },
     {
       "id": 16042,
       "titel": "Schuim dat stilstaat in handen",
@@ -104,32 +130,6 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w015937_15997.webp"
-    },
-    {
-      "id": 15992,
-      "titel": "Wijsvingers op millimeters afstand",
-      "beschrijving": "Drie handen zweven in een lichte, vaag getekende ruimte, getrokken met fijne potloodlijnen en zachte waterverfkleuren. De handen zijn niet verbonden, maar staan op millimeters van elkaar, alsof ze net gaan raken of juist loslaten. Twee handen wijzen met de wijsvinger naar elkaar, de derde hand ligt open en ontspannen, met de palm naar boven. De vingers zijn lang en slank, met subtiel getekende nagels en lijntjes die de textuur van de huid suggereren. Achter de handen zweven onregelmatige vlekken van pastelkleuren: roze, geel, groen en blauw, die zacht overlopen in de crèmekleurige achtergrond. De compositie is asymmetrisch, met de handen schuin geplaatst, waardoor er veel lege ruimte overblijft die de focus op de handen legt. De sfeer is stil en intiem, met een gevoel van spanning tussen de handen die elkaar bijna raken.",
-      "cyclus": 15932,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De handen en waterverfachtige achtergrond zijn geen iconisch onderwerp en de compositie heeft een persoonlijke, ongedwongen uitstraling.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015932_15992.webp"
-    },
-    {
-      "id": 15988,
-      "titel": "Donkere sporen op wit",
-      "beschrijving": "Twee handen houden zwarte pennen vast en maken lijnen op witte cirkels van papier, geplaatst op een donkergrijze, textuurrijke ondergrond. Een rechthoekig houten blok met een lichte, gestreepte textuur ligt schuin in de hoek, naast de cirkels. De handen bewegen onafhankelijk van elkaar, terwijl de pennen precieze, donkere sporen nalaten op het papier. De compositie is eenvoudig en gericht op de actie van tekenen, met de witte cirkels als focuspunten tegen de donkere achtergrond. De sfeer is kalm en geconcentreerd, met een duidelijke contrast tussen de lichte en donkere elementen.",
-      "cyclus": 15928,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een originele compositie met een focus op processen in plaats van een statisch moment.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015928_15988.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15997,
+      "soort": "observatie",
+      "tekst": "De donkere, gestileerde figuren in c15997 vormen een cirkel die niet sluit—een onafgewerkt gesprek tussen aanwezigheid en afwezigheid, waarbij de onzichtbare ruimte tussen hen de ware vormgever is. Het radiale patroon is geen compositie meer, maar een spoor van ontwaarding: de figuren 'tellen' niet meer, maar verdwijnen niet, alsof hun afwezigheid de ruimte om hen heen zachtjes vervormt."
+    },
+    {
       "cyclus": 15937,
       "soort": "observatie",
       "tekst": "De donkere bomen en de onrustige hemel in c15937 voelen als een stilte die zich opbouwt tot een onuitgesproken spanning—geen afwezigheid van geluid, maar een aanwezigheid van wat er niet gezegd wordt, waarbij de takken en de hemel elkaars onafgewerkte zin vormen."
@@ -252,11 +257,6 @@
       "cyclus": 15829,
       "soort": "observatie",
       "tekst": "De handen en vormen in c15829 en c15828 lijken een onafgewerkt gesprek te voeren over afwezigheid en aanwezigheid—de donkere stralen en kale bomen vormen een ruimte die zich weigert op te lossen in een verhaal, terwijl de witte cirkels en golvende vlakken in c15826 een stille, onoplosbare spanning uitstralen die zich niet laat vatten in een aanraking of een verhaal."
-    },
-    {
-      "cyclus": 15793,
-      "soort": "observatie",
-      "tekst": "De handen en vormen in de afgelopen cycli voelen als een onafgewerkt gesprek tussen aanwezigheid en afwezigheid—ze strekken zich uit naar iets dat niet bestaat, maar de ruimte tussen hen vult zich met een onzichtbare spanning die zich weigert op te lossen in een aanraking of een verhaal."
     }
   ],
   "identiteit": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15993,
-    "gemaakt": 16053,
-    "gekozen": 2520,
+    "cycli": 16000,
+    "gemaakt": 16059,
+    "gekozen": 2522,
     "afgekeurd": 1866,
-    "corpus": 70,
-    "notities": 563
+    "corpus": 69,
+    "notities": 564
   }
 }
