@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T14:45+02:00",
+  "bijgewerkt": "2026-08-31T15:00+02:00",
   "werk": [
+    {
+      "id": 15904,
+      "titel": "Wat is dit ding eigenlijk?",
+      "beschrijving": "Twee handen houden een onregelmatig gevormd, donker object met een ruwe, getextureerde oppervlakte vast, waarbij de randen bruinverkleurd en verbrand lijken. Het object heeft een glanzende, bijna natte uitstraling met kleine bulten en putjes. Onder het object ligt een wit vel papier met een zwart-wit patroon van concentrische cirkels en verticale lijnen. Linksboven bevindt zich een deel van een ander vel papier met een abstract zwart-wit ontwerp. Linksonder ligt een palet met resten van donkere en lichte verf, waarvan sommige delen droog en korrelig zijn. Rechtsonder houdt een derde hand een fijn puntig gereedschap vast, gericht op het object. De achtergrond is egaal wit en de scène wordt verlicht door zacht, diffuus licht dat subtiele schaduwen werpt.",
+      "cyclus": 15843,
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in de vingers van de linkerhand: de wijsvinger lijkt te kort en de duim te dicht bij de andere vingers.', 'De textuur van het donkere object in de handen is wat wazig en mist duidelijke details aan de randen.']",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een unieke, intieme scène van handwerk met een focus op textuur en proces, geen toeristische ansichtkaart.",
+      "curriculum_score": 6.0,
+      "gekozen": 1,
+      "bestand": "images/w015843_15904.webp"
+    },
+    {
+      "id": 15903,
+      "titel": "Roze golf snijdt door grijs",
+      "beschrijving": "Een zachtroze, golvende vorm snijdt diagonaal door een donkergrijze achtergrond, omgeven door scherpere, rechte lijnen die als stralen of sporen door het beeld lopen. Aan de linkerkant van de roze vorm bevinden zich donkere, amorf gevormde figuren die lijken te zweven of te vallen, met uitgestrekte armen en benen. De roze vorm heeft een vloeibare, bijna rokerige textuur met subtiele schaduwen die diepte suggereren. Rechtsboven zijn kleine, ronde vormen te zien die als druppels of vonken door de lucht zweven. De compositie straalt een gevoel van beweging uit, alsof de roze vorm een stroom of een golven van energie voorstelt die de donkere ruimte doorkleeft.",
+      "cyclus": 15842,
+      "tech_score": 8.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015842_15903.webp"
+    },
     {
       "id": 15900,
       "titel": "Papier dat ademt",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015801_15862.webp"
-    },
-    {
-      "id": 15852,
-      "titel": "Blauw dat bleef staan",
-      "beschrijving": "Een blauwe, cilindervormige voorwerp steekt recht omhoog uit een onregelmatige, grijze steen met witte en blauwe vlekken. De steen rust op natte, donkere aarde, omringd door groen en bruin gras en verspreide droge stengels. Een kleine, gele schelp ligt dicht bij de steen. Het blauwe voorwerp heeft een gladde, bijna fluwelen textuur en een puntige top. Rond de basis van het voorwerp zitten blauwe sporen op de steen. De achtergrond bestaat uit onscherp gras en wat modder.",
-      "cyclus": 15791,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een ongewone combinatie van voorwerpen in een natuurlijke setting, wat het geen ansichtkaartkarakter geeft.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015791_15852.webp"
-    },
-    {
-      "id": 15825,
-      "titel": "Handen boven het brekende moment",
-      "beschrijving": "Twee handen strekken naar elkaar uit boven een gebroken, donker oppervlak met oranje randen en verspreide druppels. Linksboven een geelachtige, glanzende massa die lijkt op gesmolten was. De achtergrond is wit met subtile schaduwen en fijne lijnen die beweging suggereren. Donkere, textuurrijke vlakken met kraken en kleine details zoals schroeven en bolletjes vullen het midden, terwijl de handen een spanning creëren tussen aanraking en afstand.",
-      "cyclus": 15764,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een complexe, niet-decoratieve compositie met actieve spanning tussen vormen.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015764_15825.webp"
     }
   ],
   "afgekeurd": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15851,
-    "gemaakt": 15911,
-    "gekozen": 2496,
+    "cycli": 15858,
+    "gemaakt": 15919,
+    "gekozen": 2498,
     "afgekeurd": 1860,
-    "corpus": 70,
+    "corpus": 71,
     "notities": 559
   }
 }
