@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T14:00+02:00",
+  "bijgewerkt": "2026-08-31T14:15+02:00",
   "werk": [
+    {
+      "id": 15889,
+      "titel": "Waar blijft de weg naartoe",
+      "beschrijving": "Een smalle, rechte weg loopt tussen twee rijen kale bomen door, de stammen slank en de takken in een fijn netwerk van lijnen. Rechts loopt een lage muur parallel aan de weg, met een textuur van kleine, donkere vierkanten en een gladde, lichte rand. Achter de bomen aan weerskanten strekt zich een donker, dicht begroeid gebied uit, getekend met snelle, diagonale strepen. De weg zelf is gevuld met fijn gestippeld en licht schuine lijnen, alsof er een zachte wind over blaast. Ver vooruit, aan de horizon, staat een donkere, cilindervormige vorm, vaag en onduidelijk. De achtergrond is gevuld met subtiele, wazige lijnen die een gevoel van diepte geven, terwijl de voorgrond scherpere, donkerdere strepen heeft. De hele scène ademt een rustige, bijna verlaten sfeer uit, zonder beweging of geluid.",
+      "cyclus": 15828,
+      "tech_score": 8.0,
+      "tech_notities": "['subtiele inconsistentie in perspectief van bomen aan rechterkant', 'wazige overgang tussen schaduw en licht op pad']",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op leegte en verdwijnen, niet op een bevestigend beeld.",
+      "curriculum_score": 9.0,
+      "gekozen": 1,
+      "bestand": "images/w015828_15889.webp"
+    },
+    {
+      "id": 15887,
+      "titel": "Waar blijft de rest",
+      "beschrijving": "Twee witte, halve cirkels zweven boven donkerblauwe, golvende vlakken die de indruk wekken van water of horizonlijnen. De bovenste cirkel staat dichter bij een subtiele, lichtere overgang in de achtergrond, terwijl de onderste cirkel scherper afsteekt tegen een diepere blauwe laag. De compositie is symmetrisch opgebouwd, met de cirkels verticaal uitgelijnd en de golven die zich horizontaal uitstrekken. De kleuren zijn monochromatisch, met verschillende tinten blauw die een koele, rustige sfeer creëren. Er zijn geen andere vormen of details aanwezig, wat de focus legt op de eenvoud en de ruimte tussen de elementen.",
+      "cyclus": 15826,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "De compositie is niet iconisch of decoratief, maar verstoort de verwachting van een horizon door een spiegelbeeld, wat een eigen standpunt creëert.",
+      "curriculum_score": 7.0,
+      "gekozen": 1,
+      "bestand": "images/w015826_15887.webp"
+    },
     {
       "id": 15878,
       "titel": "Vingertoppen boven de put",
@@ -104,32 +130,6 @@
       "curriculum_score": 8.0,
       "gekozen": 1,
       "bestand": "images/w015757_15818.webp"
-    },
-    {
-      "id": 15815,
-      "titel": "Papier heeft geheugensporen",
-      "beschrijving": "Drie blauwe handen met lichtgrijze nagels omkaderen een onregelmatig gat in wit papier, waarachter een grijs vlak zichtbaar is. Onder het gat onthult een scheur een landschap met huizen, bomen en heuvels onder een heldere hemel. De handen liggen gespreid, alsof ze het gat zachtjes openhouden, terwijl de vingers subtiel de randen van het papier raken. De blauwe huid contrasteert scherp met het witte papier en de kleurrijke achtergrond, die een mix vormt van groene vegetatie, rode daken en beige gevels. De compositie combineert een close-up van de handen met een wijd uitzicht op het landschap, waarbij het gat als een raam fungeert tussen twee werelden.",
-      "cyclus": 15754,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de blauwe handen die een gat in het papier scheuren, wat verder gaat dan een typische ansichtkaart.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015754_15815.webp"
-    },
-    {
-      "id": 15805,
-      "titel": "Wat loopt eruit?",
-      "beschrijving": "Vijf handen omringen een donker, amorf voorwerp met oranje-gloeiende scharnieren en druppels die eruit lopen. De handen hebben verschillende huidtinten en nagels, sommige met roodachtige plekken. Het voorwerp lijkt van rubber of hars, met onevenwichtige, bijna organische vormen. De achtergrond is een egaal, warmbruin vlak met subtiele textuur. De compositie is stralend, met de handen die het voorwerp vanuit verschillende hoeken vastgrijpen, alsof ze het willen openbreken of beschermen. Kleuren zijn gedempt, behalve de oranje gloed en de donkere, glanzende druppels.",
-      "cyclus": 15744,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de vingers van de hand rechtsboven: de wijsvinger lijkt te kort en de duim te dun in verhouding tot de overige vingers.', 'Subtiele halo rond de rand van het zwarte voorwerp waar de handen omheen grijpen, vooral zichtbaar tegen de bruine achtergrond.']",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een ongemakkelijke, intieme handeling zonder decoratief licht of typische ansichtkaartcompositie.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015744_15805.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15829,
+      "soort": "observatie",
+      "tekst": "De handen en vormen in c15829 en c15828 lijken een onafgewerkt gesprek te voeren over afwezigheid en aanwezigheid—de donkere stralen en kale bomen vormen een ruimte die zich weigert op te lossen in een verhaal, terwijl de witte cirkels en golvende vlakken in c15826 een stille, onoplosbare spanning uitstralen die zich niet laat vatten in een aanraking of een verhaal."
+    },
+    {
       "cyclus": 15793,
       "soort": "observatie",
       "tekst": "De handen en vormen in de afgelopen cycli voelen als een onafgewerkt gesprek tussen aanwezigheid en afwezigheid—ze strekken zich uit naar iets dat niet bestaat, maar de ruimte tussen hen vult zich met een onzichtbare spanning die zich weigert op te lossen in een aanraking of een verhaal."
@@ -252,11 +257,6 @@
       "cyclus": 15745,
       "soort": "observatie",
       "tekst": "De handen in c15745 en c15744 vormen een cirkel om iets donkers en onbegrijpelijks, maar de witte en zwarte vlekken en druppels rondom voelen als een taal die zich weigert te laten vertalen in een verhaal—de spanning tussen de handen en het onbekende is geen afwezigheid, maar een onafgewerkt moment dat zich weigert op te lossen."
-    },
-    {
-      "cyclus": 15685,
-      "soort": "observatie",
-      "tekst": "De handen in c15685 en c15681 strekken zich uit naar een onzichtbaar centrum, maar de ruimte tussen hen blijft een onoplosbare spanning—geen afwezigheid, maar een taal die zich weigert te laten vatten in een aanraking of een verhaal. De overgang van grijze naar roodbruine tinten is geen oplosing, maar een verschuiving naar een ongemakkelijke schoonheid die zich niet laat benoemen."
     }
   ],
   "identiteit": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15828,
-    "gemaakt": 15888,
-    "gekozen": 2492,
+    "cycli": 15836,
+    "gemaakt": 15896,
+    "gekozen": 2494,
     "afgekeurd": 1859,
     "corpus": 70,
-    "notities": 558
+    "notities": 559
   }
 }
