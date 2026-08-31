@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T20:45+02:00",
+  "bijgewerkt": "2026-08-31T21:00+02:00",
   "werk": [
+    {
+      "id": 16068,
+      "titel": "Vier handen, één tak",
+      "beschrijving": "Vier handen omvatten een donkere, takachtige structuur die door een getextureerd oppervlak loopt, omgeven door donkere vlekken en witte stippen die als spatten of zaadjes fungeren. De handen verschillen in grootte en houding: één hand grijpt de tak vast, een andere raakt hem zachtjes aan, terwijl de overige twee handen de omgeving om de tak heen omvatten. De achtergrond bestaat uit fijne, parallelle lijnen die een gevoel van diepte en beweging suggereren, met donkere takken die zich uitstrekken naar de randen van het beeld. Donkere, onregelmatige vormen en dunne, kronkelende lijnen verspreiden zich door het beeld, alsof ze uit de tak lijken te ontsnappen. De handen hebben gedetailleerde nagels en aderen, en de huid textuur is zichtbaar met schaduwen en highlights die realisme toevoegen. Het geheel straalt een intense, bijna rituele sfeer uit, met de handen als centraal punt van interactie met de tak en de omringende elementen.",
+      "cyclus": 16008,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een complexe, persoonlijke compositie met handen en takken, wat het geen ansichtkaartkarakter geeft.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w016008_16068.webp"
+    },
+    {
+      "id": 16062,
+      "titel": "Poeder dat blijft hangen",
+      "beschrijving": "Een roze krijtstift ligt schuin op een grijze, textuurrijke ondergrond. De stift is deels gebruikt, met een afgeronde punt en sporen van poederspoor. Naast de stift bevindt zich een brede, onregelmatige vlek van roze krijt, met sporen van wisselende druk en beweging. De achtergrond is egaal grijs, met subtiele variaties in licht en schaduw die de textuur van het papier benadrukken. De compositie is eenvoudig, met de stift als centraal element dat de blik trekt door zijn kleur en positie.",
+      "cyclus": 16002,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit is geen toeristisch onderwerp en de compositie is niet decoratief perfect, maar heeft een bewuste, minimalistische opzet.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w016002_16062.webp"
+    },
     {
       "id": 16055,
       "titel": "Wat zwemt er door het gras?",
@@ -104,35 +130,18 @@
       "curriculum_score": 7.0,
       "gekozen": 1,
       "bestand": "images/w015953_16013.webp"
-    },
-    {
-      "id": 16007,
-      "titel": "Donker omhult het licht",
-      "beschrijving": "Twee donkere, slanke stammen vormen een V-vorm die zich naar boven uitbreidt, omgeven door stralende, verticale lijnen die licht suggereren. Onder hen golft een donker, bewegend oppervlak met schuimende, donkere golven en verspreide, ronde vormen die op stenen of drijfhout lijken. De achtergrond toont een effen horizon met een lichte overgang van donker naar licht, alsof de scène zich afspeelt bij zonsopgang of -ondergang. De lijnen zijn scherp en gedetailleerd, met een contrast tussen de donkere stammen en het lichtere, stralende deel erboven. De compositie is symmetrisch, met de stammen als centraal punt dat de blik trekt en het beeld in twee gelijke helften deelt. De sfeer is rustig maar dynamisch, door de combinatie van de statische stammen en de beweging in de golven en stralen.",
-      "cyclus": 15947,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigend onderwerp en toont een unieke compositorische keuze met de stralende lijnen en dynamische golven.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015947_16007.webp"
-    },
-    {
-      "id": 15997,
-      "titel": "Goud in de storm",
-      "beschrijving": "Drie kale, donkere bomen domineren het midden, met takken die zich uitstrekken naar een onrustige hemel van donkerblauw en grijs. Achter de bomen golft een landschap in goudgele en oranje tinten, met sporen van wit en lichtgrijs die door de kleuren lopen. De voorgrond bestaat uit een donkere, bijna zwarte heuvel met zachte, golvende lijnen. Gele vlekken, soms scherp, soms vaag, zijn verspreid over het middenplan, alsof ze uit het landschap oprijzen. De penseelstreken zijn zichtbaar en dynamisch, met een mix van gladde en textuurrijke oppervlakken. De compositie is verticaal, met de bomen als centrale as die het beeld in tweeën delen.",
-      "cyclus": 15937,
-      "tech_score": 8.0,
-      "tech_notities": "geen significante generatie-artefacten; lichte inconsistentie in takstructuren (enkele takken verdwijnen abrupt)",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is bewust onrustig en niet-bevestigend.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015937_15997.webp"
     }
   ],
   "afgekeurd": [
+    {
+      "id": 16067,
+      "cyclus": 16007,
+      "afkeuringsreden": "cliche",
+      "tech_score": 8.0,
+      "tech_notities": "['Lichte inconsistentie in perspectief van de windmolenwieken ten opzichte van de romp', 'Wazige overgang tussen hemel en achtergrondlandschap']",
+      "cliche_notities": "Het beeld toont een iconische Nederlandse molen in een typische compositie met water en schemering, zonder duidelijke persoonlijke interpretatie of onverwachte keuzes.",
+      "bestand": "images/a016007_16067.webp"
+    },
     {
       "id": 16060,
       "cyclus": 16000,
@@ -150,15 +159,6 @@
       "tech_notities": "['tekst/tekens in beeld']",
       "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
       "bestand": "images/a015983_16043.webp"
-    },
-    {
-      "id": 16038,
-      "cyclus": 15978,
-      "afkeuringsreden": "techniek",
-      "tech_score": 2.0,
-      "tech_notities": "['tekst/tekens in beeld']",
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht, maar een abstracte compositie zonder duidelijke thematiek.",
-      "bestand": "images/a015978_16038.webp"
     }
   ],
   "onderzoek": {
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 16007,
-    "gemaakt": 16066,
-    "gekozen": 2522,
-    "afgekeurd": 1867,
-    "corpus": 69,
+    "cycli": 16013,
+    "gemaakt": 16073,
+    "gekozen": 2524,
+    "afgekeurd": 1868,
+    "corpus": 68,
     "notities": 564
   }
 }
