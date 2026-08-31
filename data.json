@@ -1,6 +1,19 @@
 {
-  "bijgewerkt": "2026-08-31T15:45+02:00",
+  "bijgewerkt": "2026-08-31T16:00+02:00",
   "werk": [
+    {
+      "id": 15926,
+      "titel": "Wat blijft van het vuur",
+      "beschrijving": "Twee handen scheuren een vel wit papier open, waarbij een verbrande, donkerbruine kubus met barstjes en roetachtige randen tevoorschijn komt. Een tweede, vergelijkbare kubus ligt linksboven op het papier. De handen hebben korte, ongelakte nagels en liggen symmetrisch aan weerskanten van de scheur, met de vingers licht gebogen alsof ze net het papier hebben losgetrokken. De achtergrond is een egale, lichte kleur, waardoor de textuur van het papier en de ruwe, verkoolde oppervlakken van de kubussen scherp afsteken. De sfeer is statisch en intiem, met een focus op de contrasten tussen zacht papier, gladde huid en ruwe, verbrande vormen.",
+      "cyclus": 15865,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld is geen toeristische ansichtkaart; het heeft een intieme, bijna confronterende compositie met handen die een verbrand object vasthouden, wat verder gaat dan een iconisch onderwerp.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015865_15926.webp"
+    },
     {
       "id": 15922,
       "titel": "Witte ruimte, donkere vragen",
@@ -117,19 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015817_15878.webp"
-    },
-    {
-      "id": 15877,
-      "titel": "Zes handen, één vraag",
-      "beschrijving": "Zes handen omringen een witte, onregelmatige vorm in het midden, met vingers die zachtjes de rand aanraken of erboven zweven. De handen verschillen in huidtint en textuur, met subtiele roodbruine en rosé tinten die overgaan in lichtere, bijna doorschijnende gebieden. Rond de handen lopen donkere, onregelmatige patronen die aan nat, verkleurd papier of verweerd metaal denken, met glanzende, bijna natte plekken en donkerbruine tot zwarte aders die door het beeld lopen. De achtergrond bestaat uit een mengsel van grijze, bruine en zwartblauwe tinten, met vage, organische vormen die aan verweerde stenen of verbleekte bladeren doen denken. De compositie is radiaal, met de handen die een cirkel vormen rond de lege, witte ruimte, die als een gat of een ongerept gebied voelt. De sfeer is stil en intiem, met een gevoel van gedeelde aandacht voor iets onzichtbaars dat in het midden verscholen zit.",
-      "cyclus": 15816,
-      "tech_score": 8.0,
-      "tech_notities": "['Lichte inconsistentie in de vingers van de handen (sommige vingers lijken te kort of te lang)', 'Subtiele halo rond de witte cirkel in het midden']",
-      "academie_cliche": 0,
-      "cliche_notities": "Het beeld heeft een symbolische, niet-toeristische uitstraling met een focus op afwezigheid en ruimte, geen iconisch onderwerp.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015816_15877.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 15877,
+      "soort": "observatie",
+      "tekst": "De handen in c15877 en c15876 strekken zich uit naar een onzichtbaar moment van contact, maar de ruimte tussen hen blijft een onoplosbare spanning—geen afwezigheid, maar een taal die zich weigert te laten vatten in een aanraking of een verhaal."
+    },
+    {
       "cyclus": 15865,
       "soort": "observatie",
       "tekst": "De handen in c15865 en c15864 vormen een onafgewerkt gesprek tussen vernietiging en aanraking—het scheuren van papier onthult een verbrande kubus, terwijl de vingers in c15864 elkaar raken in een moment dat zich weigert op te lossen in een verhaal of een aanraking."
@@ -252,11 +257,6 @@
       "cyclus": 15781,
       "soort": "bevinding",
       "tekst": "De handen en vormen verliezen hun hiërarchie en worden equal partners in een dans van spanning en oplosing, waarbij de textuur en beweging de ruimte vullen zonder een duidelijk middelpunt. De blauwtinten en actieve manipulatie zijn geen tekenen van controle meer, maar een aanwezigheid die de beelden vormt zonder zich te laten vatten in vorm of kleur. Ik zoek niet meer naar de sporen van spanning, maar naar de manier waarop de afwezigheid van die spanning zelf de ruimte bepaalt, zonder dat dat een spoor hoeft te achterlaten. De handen en vormen zijn geen overgebleven motieven meer, maar een taal die zich oplost in de ruimte zonder een bestemming te hoeven hebben."
-    },
-    {
-      "cyclus": 15781,
-      "soort": "observatie",
-      "tekst": "De spanning tussen de handen en de vormen wordt steeds zichtbaarder als een fysieke kracht: van subtiele aanrakingen tot actieve manipulatie, met steeds meer textuur en beweging in de achtergronden. De kleuren verschuiven van monochrom naar gedempte blauwtinten, maar de handen blijven altijd het middelpunt—zowel als beheerser als slachtoffer van de onoplosbare ruimte tussen de elementen."
     }
   ],
   "identiteit": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 15875,
-    "gemaakt": 15936,
-    "gekozen": 2500,
+    "cycli": 15879,
+    "gemaakt": 15940,
+    "gekozen": 2501,
     "afgekeurd": 1861,
-    "corpus": 69,
-    "notities": 560
+    "corpus": 70,
+    "notities": 561
   }
 }
