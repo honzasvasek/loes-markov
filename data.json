@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T11:15+02:00",
+  "bijgewerkt": "2026-08-31T11:30+02:00",
   "werk": [
+    {
+      "id": 15818,
+      "titel": "Scheurtjes die praten",
+      "beschrijving": "Twee lagen papier, grijs en roze, liggen over elkaar met scheurtjes die onregelmatige, golvende patronen vormen. De randen van de scheurtjes zijn wit en vezelig, met subtiele schaduwen die diepte suggereren. Het roze papier vormt een diagonale strook die van linksboven naar rechtsonder loopt, onderbroken door een smalle, verticale scheur in de rechteronderhoek. Het grijs domineert de hoeken en randen, terwijl het roze een levendige, bijna pulserende aanwezigheid heeft in het midden. De textuur van het papier is zichtbaar korrelig, met kleine onregelmatigheden die de scheurtjes nog duidelijker maken. Er is geen duidelijke horizon of ondergrond, alleen de interactie tussen de twee kleuren en de scheurtjes die ze met elkaar verbinden.",
+      "cyclus": 15757,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015757_15818.webp"
+    },
+    {
+      "id": 15815,
+      "titel": "Papier heeft geheugensporen",
+      "beschrijving": "Drie blauwe handen met lichtgrijze nagels omkaderen een onregelmatig gat in wit papier, waarachter een grijs vlak zichtbaar is. Onder het gat onthult een scheur een landschap met huizen, bomen en heuvels onder een heldere hemel. De handen liggen gespreid, alsof ze het gat zachtjes openhouden, terwijl de vingers subtiel de randen van het papier raken. De blauwe huid contrasteert scherp met het witte papier en de kleurrijke achtergrond, die een mix vormt van groene vegetatie, rode daken en beige gevels. De compositie combineert een close-up van de handen met een wijd uitzicht op het landschap, waarbij het gat als een raam fungeert tussen twee werelden.",
+      "cyclus": 15754,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Het beeld heeft een sterke compositorische keuze met de blauwe handen die een gat in het papier scheuren, wat verder gaat dan een typische ansichtkaart.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w015754_15815.webp"
+    },
     {
       "id": 15805,
       "titel": "Wat loopt eruit?",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015717_15778.webp"
-    },
-    {
-      "id": 15774,
-      "titel": "Vingers die een leegte omvatten",
-      "beschrijving": "Twee handen vormen een driehoek met de vingers, gericht naar boven tegen een egale, lichtgrijze achtergrond. De huid is donker, met zichtbare rimpels en aderen, en de nagels zijn kort geknipt. De polsen en onderarmen lopen schuin naar beneden en verdwijnen aan de randen van het beeld. Het licht valt van voren, waardoor de handen scherp afgetekend zijn en zachte schaduwen werpen op de achtergrond. De compositie is centraal en symmetrisch, met de handen als enig focuspunt in een ruimte zonder andere details of afleiding. De sfeer is statisch en intiem, alsof de handen iets onzichtbaars vasthouden of vormen.",
-      "cyclus": 15713,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "De handen vormen een abstracte, niet-iconische vorm zonder toeristische of decoratieve intentie.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015713_15774.webp"
-    },
-    {
-      "id": 15762,
-      "titel": "Wat blijft hangen in je handen",
-      "beschrijving": "Twee handen grijpen een donkerbruine houten balk vast, die middenin scheurt in een onregelmatige, zwarte spleet. Rond de balk zweven kleine, donkere deeltjes en een enkele lichte noot. Groene grassprietjes en vage, waterverfachtige groene en blauwe vlekken vormen een zachte achtergrond, met witte ruimtes die de scène luchtig houden. De handen hebben een natuurlijke huidkleur met subtiel roze tinten, en de nagels zijn kort en ongelijkvormig. Het hout toont duidelijke vezels en een knoopholte, terwijl de scheur een ruwe, bijna koolzwart textuur heeft. Kleuren zijn gedempt, met accenten van groen, bruin en blauw, en de compositie is diagonaal opgebouwd, met de balk die van linksboven naar rechtsonder loopt.",
-      "cyclus": 15701,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele inconsistentie in perspectief van handen ten opzichte van hout', 'lichte wazigheid in achtergrondtexturen']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; compositie is gericht op spanning tussen vormen, niet op een bevestigend verhaal.",
-      "curriculum_score": 9.0,
-      "gekozen": 1,
-      "bestand": "images/w015701_15762.webp"
     }
   ],
   "afgekeurd": [
@@ -330,9 +330,9 @@
     }
   ],
   "metingen": {
-    "cycli": 15751,
-    "gemaakt": 15811,
-    "gekozen": 2483,
+    "cycli": 15758,
+    "gemaakt": 15818,
+    "gekozen": 2485,
     "afgekeurd": 1856,
     "corpus": 69,
     "notities": 554
