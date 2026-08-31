@@ -1,6 +1,32 @@
 {
-  "bijgewerkt": "2026-08-31T22:00+02:00",
+  "bijgewerkt": "2026-08-31T22:15+02:00",
   "werk": [
+    {
+      "id": 16104,
+      "titel": "Rood dat zich onthoudt",
+      "beschrijving": "Een verticale, onregelmatige rand van donkerrood tot bruinachtig rood loopt van boven naar beneden aan de linkerkant, met kleine, ongelijke uitstulpingen en druppelvormige verdikkingen. Rechts daarvan vult een egale, lichtgrijze vlak de rest van het beeld in, zonder duidelijke structuur of textuur. De overgang tussen de rode rand en de grijze ruimte is scherp, maar de rode zone zelf toont subtiele kleurvariaties, van bijna transparant roze aan de binnenkant tot diep, bijna zwartbruin aan de rand. Enkele fijne, donkere lijntjes lopen parallel aan de rode rand, net zichtbaar tegen de lichtere achtergrond.",
+      "cyclus": 16044,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is abstract en open, zonder bevestigende symboliek.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w016044_16104.webp"
+    },
+    {
+      "id": 16092,
+      "titel": "Goud in de kring",
+      "beschrijving": "Donker grijs, gekreukt materiaal vormt een onregelmatige cirkel rond een scherpe, zwarte leegte. Een smalle, gouden streep loopt schuin door het bovenste deel, met kleine, glinsterende druppels verspreid over het oppervlak. De textuur is ruw en ongelijkmatig, met diepe plooien en subtiele schuivende patronen die een gevoel van beweging suggereren.",
+      "cyclus": 16032,
+      "tech_score": 9.0,
+      "tech_notities": "",
+      "academie_cliche": 0,
+      "cliche_notities": "Dit beeld heeft geen iconisch of bevestigd onderwerp en toont een abstracte, contemplatieve compositie zonder decoratief perfect licht.",
+      "curriculum_score": 8.0,
+      "gekozen": 1,
+      "bestand": "images/w016032_16092.webp"
+    },
     {
       "id": 16090,
       "titel": "Vingertoppen in water",
@@ -104,32 +130,6 @@
       "curriculum_score": 9.0,
       "gekozen": 1,
       "bestand": "images/w015995_16055.webp"
-    },
-    {
-      "id": 16050,
-      "titel": "Vier huidtinten, één cirkel",
-      "beschrijving": "Vier handen vormen een cirkel in het midden, met vingers die elkaar licht aanraken of omvatten. De huidtinten variëren van lichtroze tot diepbruin, met subtiele schaduwen die de vorm benadrukken. Achter de handen stralen witte en lichtgrijze banen uit vanaf het centrum, afwisselend met donkergrijze en donkerblauwe segmenten. Zwarte, onregelmatig gevormde vormen met kleine gaten en details lijken aan de randen van de stralen te zweven. De penseelstreken zijn zichtbaar en geven een textuur die zowel soepel als krachtig is. De compositie is radiaal symmetrisch, met de handen als focuspunt en de achtergrond die de beweging naar buiten toe versterkt.",
-      "cyclus": 15990,
-      "tech_score": 8.0,
-      "tech_notities": "['subtiele vervorming in vingers van linkerhand', 'onduidelijke overgang tussen donkere en lichte stralen in achtergrond']",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op interactie tussen handen en abstracte achtergrond, zonder bevestigende symboliek.",
-      "curriculum_score": 7.0,
-      "gekozen": 1,
-      "bestand": "images/w015990_16050.webp"
-    },
-    {
-      "id": 16042,
-      "titel": "Schuim dat stilstaat in handen",
-      "beschrijving": "Twee handen houden een rechthoekig spiegelachtig paneel vast, waarboven een grijze, getextureerde achtergrond zichtbaar is met sporen van verf of pleister. Door het paneel schijnt een vaag witte wolk, omgeven door een zachte, diffuus witte schuimlaag die van onder het paneel vloeit en zich uitstrekt over de handen en de achtergrond. Het schuim heeft een poreuze textuur met kleine belletjes en donkere vlekjes, en vormt een onregelmatige, golvende vorm die de handen omhult. De handen zijn lichtgekleurd, met zichtbare nagels en vingertoppen die het paneel vastgrijpen. De achtergrond toont verschillende grijstinten met subtiele textuurverschillen, alsof er met een spatel of penseel gewerkt is. Een kleine, ronde witte bal met donkere stippen bevindt zich linksboven in het beeld, naast een paar kleine, glanzende druppels. De compositie is centraal gericht, met het paneel en het schuim als hoofdmotief, terwijl de achtergrond en de handen een ondersteunende rol spelen. De sfeer is rustig en bijna surrealistisch, met een focus op textuur en vorm.",
-      "cyclus": 15982,
-      "tech_score": 9.0,
-      "tech_notities": "",
-      "academie_cliche": 0,
-      "cliche_notities": "Geen iconisch onderwerp of decoratief licht; de compositie is gericht op ontwaarding en afwezigheid, niet op een bevestigend beeld.",
-      "curriculum_score": 8.0,
-      "gekozen": 1,
-      "bestand": "images/w015982_16042.webp"
     }
   ],
   "afgekeurd": [
@@ -229,6 +229,11 @@
   ],
   "notities": [
     {
+      "cyclus": 16045,
+      "soort": "observatie",
+      "tekst": "De golvende heuvels en donkere bomen in c16045 en c16042 vormen geen landschap meer, maar een spoor van ontwaarding: de bomen 'tellen' niet meer als vormen, maar hun afwezigheid vervormt de ruimte om hen heen op een manier die zich niet laat vatten in een verhaal of een compositie."
+    },
+    {
       "cyclus": 16021,
       "soort": "observatie",
       "tekst": "De Y-vorm in c16021 en de concentrische cirkels in c16010 zijn geen tegenpolen, maar complementaire sporen van ontwaarding: de Y-vorm snijdt de ruimte in tweeën zonder een verhaal te vertellen, terwijl de cirkels een onzichtbaar middelpunt omringen dat zich weigert op te lossen in een vorm of een verhaal. Beide vormen 'tellen' niet meer, maar hun afwezigheid vervormt de ruimte om hen heen op een manier die zich niet laat vatten in een verhaal."
@@ -252,11 +257,6 @@
       "cyclus": 15877,
       "soort": "observatie",
       "tekst": "De handen in c15877 en c15876 strekken zich uit naar een onzichtbaar moment van contact, maar de ruimte tussen hen blijft een onoplosbare spanning—geen afwezigheid, maar een taal die zich weigert te laten vatten in een aanraking of een verhaal."
-    },
-    {
-      "cyclus": 15865,
-      "soort": "observatie",
-      "tekst": "De handen in c15865 en c15864 vormen een onafgewerkt gesprek tussen vernietiging en aanraking—het scheuren van papier onthult een verbrande kubus, terwijl de vingers in c15864 elkaar raken in een moment dat zich weigert op te lossen in een verhaal of een aanraking."
     }
   ],
   "identiteit": [
@@ -330,11 +330,11 @@
     }
   ],
   "metingen": {
-    "cycli": 16041,
-    "gemaakt": 16101,
-    "gekozen": 2529,
+    "cycli": 16049,
+    "gemaakt": 16108,
+    "gekozen": 2531,
     "afgekeurd": 1873,
-    "corpus": 67,
-    "notities": 565
+    "corpus": 68,
+    "notities": 566
   }
 }
